@@ -1,0 +1,92 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:53:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6307502, "source_ctime_ns": 1793370460632803398, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934631/0494.jpg", "source_mtime_ns": 1785689001000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934631/0494.jpg", "source_sha256": "790f58d26bdd0b45f684dfff95f6624349a9da15df6a41fe3e6221de088cb58e"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 917, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TRANSMI
+"TAL
+FROM:
+INCOMING
+OFFICE
+FROM:
+REG. NO.
+DESCRIPTION, DATES AND SUBJECT
+RESTRICTED
+ATSC FORM NO.
+80-598 (1 JAN, 45)
+DAT
+PL6/-HOIS 1615 NUMTIFICATION
+NUMBER
+| FILE COPY !
+INCLOSURES
+COPY NO.
+REC'D BY (FULL SIGNATURE)
+TO: (CFFICE SYMBOL)
+COPY NO.
+REC'D BY
+TO:
+COPY NO.
+REC'D BY
+JAYS
+TO
+COPY NO.
+REC'D BY
+RESTRICTED
+CONTROL NO
+SUBJECT:
+Ltr.
+DECIMAL FILE NO
+iạiạiUnconven*
+5-127
+DATE REC'D
+HOUR
+DATE REC'D
+HOUR
+DATE REC'D
+DATE REC'D
+HOUR
+HOUR
+FOLLOW UP ON
+DATI
+FROM:
+Port Houston, Texas
+TO:
+RECORDING
+DESK
+DATED 12/L0
+NO. INCLS
+ROUTED TO
+DATE
+RECORDED
+HOUR
+SUSPENSE DATE
+ESTABLISHED BY INITIALS
+* BATE
+OTHER DISPOSITION:
+TRANSMITTAL
+ASC FORM NO. 3028
+CONTROL NO.
+Q - 818
+DECIMAL FILE NO
+FOLLOW UP ON
+Unconv
+it.i onal
+rft
+Secret
+43224
+FROM:
+TO:
+RECORDING
+DESK
+ROUTED TO
+INAS
+IASh Aray Ft Sam Houston TexasTED
+5/22/19
+NO. 1S/18/49 1300
+RECORDED
+HOUR
+SUSPENSE DATE
+ESTABLISHED BY
+NATALO
+DATE
+NIK
+OTHER DISPOBITION:

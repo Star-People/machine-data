@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:18:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7366244, "source_ctime_ns": 1793365046731845848, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0111.jpg", "source_mtime_ns": 1785685187000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0111.jpg", "source_sha256": "e986bf1c7eb44451761892d0fb7968940aa23686a0274518c7bbe617238dc7fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 953, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ROUTING
+JOINT MESSAGEFORM
+COMMUNICATIONS CENTER NO.
+COPY
+SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY
+FROM: (Originator)
+CO ATIC WRIGHT PATTERSON AFB
+TO:
+CO CARSWELL AFB TEXAS
+UNCLASSIFIED.
+PRECEDENCE | ACTION
+PRIORITY
+• BOOK MESSAGE
+- MULTIPLE ADDRESS
+IFICATION
+INFORMATION
+ORIGINAL MESSAGE
+IDENTIFIC
+CRYPTOPRECAUTION
+YES
+REFERS TO MESSAGE:
+CLASSIFICATION
+NO
+INFO:
+RE OSI ITR 24-0 DTD 7 SEPT 51 to DSG, HQ USAF, CONCERNING
+AIRCRAFT AT
+AFCSI IMR NBR
+CLASSIFIED
+HART, JR, MRS TOM TILSOM, MRS M G BETHARD; IF POSSIBLE FORWARD
+BY AIRMAIL ORIGINAL NEGATIVES OF PHOTOGRAPHS CARL HART, JR, IS
+STATED TO HAVE TAKEN. IN REPLY CITE ATIAA-2A, GRUDGE.
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIRECTOR OF
+EY
+KURT K. KUNZE, Capt, USAF
+Historian
+DATE
+5 DEC 1975
+COPY
+COPY
+OF
+DRAFTER'S NAME (G
+ture, colon required)
+SYMBOL
+COPIES UNCLASSIFIED
+SECURITY CLASSIFICATION
+RELEASING OFFICER'S SIGNATURE
+OFFICIAL TITLE
+PAGE
+OF
+PAGES
+Declassification Authority: NND 923007

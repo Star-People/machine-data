@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:42:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1517874, "source_ctime_ns": 1793356283499076619, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0099.jpg", "source_mtime_ns": 1785564660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0099.jpg", "source_sha256": "26fdcdac36420e7a22f6b351e3bfcb6fc0dbe5d51abd98385ad79347c729c4cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 516, "chars": 2934, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I couldn't help but always get in this little subliminal jab-that is my nature.
+"I developed this idea of the Plaza of the Solar System, which went through many
+contortions, and then I thought of my maps of the Earth that were the first to show the
+oceans as one. I thought of doing the map in "macro-cloissone terrazo" with bronze
+separators forming the outlines of the continents and stainless steel strips as the latitude
+and longitude lines.
+"Then I thought of how New York's children live on land, so I did the obverse of the
+world ocean and showed the huge land islands in terrazo on the pavement of this plaza,
+which thousands of people traverse each day as they come out of the subway.
+"The second feature was the solar system. The pool was designed to represent the sun
+and the planets, built to the same scale were polished stainless steel globes, set around the
+pool. The planets themselves are in diametrical proportion to the pool which represented
+the sun. There is a big Jupiter and a big Saturn, and Earth is a little baseball. They're
+strung around, from Mercury nearest the Sun right out to remote Pluto; but, of course,
+these distances are not to the same scale as the size of the model planets. If they were,
+Pluto would be miles away even on the model; but, that's the idea of the pool of the solar
+system.
+"The dominant feature of the Plaza was the Solar Triangle. I looked at this area of
+concrete canyons and thought, wouldn't it be nice to have a sun dial of some kind in
+there? So I designed a huge one. Actually, I didn't invent that, I stole it. I remembered
+seeing a great brick sun dial just south of New Delhi, an old astronomical observatory
+that slopes up and has curved horns, and I took the idea from that.
+"For the final part of the sculpture, I came down to this isosceles triangle, designed by
+nature, not by Spilhaus. When someone looks up the lowest side, it points exactly to the
+position of the sun in midwinter, while the steepest side points to the position of the sun
+in midsummer. The hypotenuse points up to the position of the sun at the spring and fall
+equinoxes.
+"Wally Harrison loved the rudiments of the idea. We went in for a conference with the
+McGraw-Hill people, who are great publishers, but maybe not too understanding about
+art. One of the first remarks made about the sculpture was, 'Dr. Spilhaus, don't you
+realize we don't see the sun? It doesn't penetrate to the bottom of the man-made can-
+yons.' "That's exactly why you should have this thing,' I said. 'Think of all these
+people squinting along there, so they can see where the Sun would be, if they could
+possibly see it'
+"The sculpture came complete and whole on a flatcar from Cleveland and had to be
+brought up to the site in the wee hours of the morning, when the street could be blocked
+off. When it was slung into place, the whole plaza ended up as the maps and pool of the
+solar system and the solar triangle.

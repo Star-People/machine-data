@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:13:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4146972, "source_ctime_ns": 1793374379963527949, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951332/0633.jpg", "source_mtime_ns": 1785696777000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951332/0633.jpg", "source_sha256": "374c2eccd9b7cc9582e1b92abec729989638363c6d6d913fe81f7342f45b4243"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 289, "method": "ocr", "page": 1, "variant": "plain-vision"}
+to Phs 24-0-230, pubjects
+Unidentified Aerial Object Observed at 0240
+Hours on 15 Boy
+52 over Vashington, Dode,
+Observer, Cops
+4th District 057,
+03
+ON CANCAL
+No furthe aption is bolng taken in the matter by this District
+Office.
+DONALD D. VICE
+Colonel,
+OCAR
+Dintele: Coanner
+OHT CLF
+2
+OLF

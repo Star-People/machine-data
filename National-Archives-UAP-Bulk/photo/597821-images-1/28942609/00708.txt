@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:51:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5450350, "source_ctime_ns": 1793372411535101489, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942609/00708.jpg", "source_mtime_ns": 1785688504000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942609/00708.jpg", "source_sha256": "fdf206dace31a196c65a467f9e1661a085877526f2f541b7a332d5b686abf7fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AT VARIABLE' ALT CMA FR GREAT HEIGHT TO 2000 FT PD ABOUT 10 TO 15 MILES
+NORTH NORTH WEST FR OBSERVER PD ITEM FIVE PD MR
+CMA
+CMA LINDA VISTA CMA
+PAGE TWO JWPNT 217C
+CALIF PD FORMER PILOT FOR EASTERN AIRLINES PD ITEM S WEA SEQUENCE
+FOR SAN DIEGO CMA CALIF AT IME OF SIGHTING SDV 24 SCTD 10 NW 5 988 PD
+ITEM SEVEN PD A WEA BALLOON WAS RELEASED BY THE NAVAL AIR STATION IMM
+PRIOR TO THE SICHTING PD ITEM EIGHT PD NEG PD ITEM NINE PD NEG PD ITEM
+TEN PD THERE WERE SEVERAL LỌCAL A/C AIRBORNE AT THE TIME OF THE SIGHTING
+PD THE OPS CLERK AT THE NAVAL AIRiỊSTATION AT SAN DIEGO REPORTS A B-36
+WAS MAKING SOME VERY UNUSUAL VAPOR TRAILS AT THE TIME OF SIGHTING PD
+SIGHTING OCCURRED ON 14 JUN 52 PD WRITTEN REP WILL BE SUBM ON COMPLETION
+OF INVESTIGATION PD
+17/23012 JUN JWPNI

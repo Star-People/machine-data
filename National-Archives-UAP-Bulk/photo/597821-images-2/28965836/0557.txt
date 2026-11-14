@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:49:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4704861, "source_ctime_ns": 1793377885500571929, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965836/0557.jpg", "source_mtime_ns": 1785696971000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965836/0557.jpg", "source_sha256": "7928a312736e0a2171f4d87387b709cf6bf6e5d998b459186dc28fefdcb34b16"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 236, "method": "ocr", "page": 1, "variant": "clean-vision"}
+GROU I VISUAL
+B. NO.:
+• A. 1 JUNE 56¿23272
+B. CAS
+AGE TWO RUEDNG 1E
+OVER ST.
+OUIS PARK MI.
+APOLISO
+PAR
+(PHON E)
+E •
+A• CLEAR
+B::5387--10/15
+12:0--251/1
+150
+7--290/1łął
+221
+--M1SC/15
+203
+--32 /12
+521
+--32 /2
+00020--182
+C. MYA
+D. 15 XILS

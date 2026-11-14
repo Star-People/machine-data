@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:24:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8993098, "source_ctime_ns": 1793363405859737826, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0195.jpg", "source_mtime_ns": 1785684921000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0195.jpg", "source_sha256": "e011ecae811df3efa4c496d611f2ebc3cc70a730ce4d7ca9312e70ee2d43ec8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 903, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(1) The object had an elongated center with what appeared
+to be flames coming from it.
+(2) Smoke was seen coming from the object. The smoke
+appeared to be black similar to jet smoke. The source
+of the smoke appeared to be from the sides of the object.
+(3) At approximately 1430 three observers reported that they
+saw the object make a very short, very fast U turn.
+AT EGLIN AFB, FLORIDA
+4. The object was kept under constant surveillance until approximately
+1717 when the object was definitely identified as the planet Venus by the
+APG Command.
+AT MAXWELL AFB, ALABAMA
+5. On 23 November 1949 this phenomena was also observed at Maxwell
+AFB, Investigation substantiated the fact that the object observed was
+the planet Venus.
+5 Inclosures:
+FOR CG, AMC, WRIGHT-PATTERSON AFB, OHIO
+Photographs taken of object by 3200th Photo M&A Squadron, Eglin AFB,
+Florida.
+CLOSED
+Declassification Authority: NND 923007

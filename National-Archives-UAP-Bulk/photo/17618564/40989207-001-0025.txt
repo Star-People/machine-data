@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:21:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8306037, "source_ctime_ns": 1793354411753700840, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0025.jpg", "source_mtime_ns": 1785564280000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0025.jpg", "source_sha256": "9d97aff19b2f1d96823f2df85c4af22bb66908f0610faf48000a70cfbb8ae7d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 307, "chars": 1963, "method": "ocr", "page": 1, "variant": "plain-vision"}
+VIII
+1. INTRODUCTION
+This report
+documents the transition of technology from Phillips
+Laboratory, Geophysics Directorate (PL/GP) to the Air Force, other Department
+of Defense (DoD), and North Atlantic Treaty Organization (NATO) users that
+occurred during FY92. Classified program transitions are not included. Appendix
+A forms the basis of the report. It is a chronological compilation of the
+transitions occurring during the period of 1 October 1991 to 30 September 1992.
+A total of 76 events are listed in Appendix A.
+For some events the date listed is the first date during FY92 on which the
+technology transition occurred even though additional technology transitions of
+the same technology to the same user may have also occurred on other dates in
+FY92. These later transitions are not counted as additional T? events for this
+report. Similarily, transition of the same technology may have occurred to more
+than one user. These are also counted as only one event. The date listed is the
+date when the technology was transitioned to the first user.
+In addition to listing the date and the technology that was transitioned,
+Appendix A also lists the PL/GP organization(s) responsible for the transition
+(an organization chart is included in the back of the report), the user (s), the
+payoffs to the user, and the "wellspring" program element (PE). This last item
+is meant to give due recognition to the three program elements (PE 62101F,
+63707F, and 63410F) and PE 61102F tasks that PL/GP manages even though the effort
+may also have received funding from other sources. The criterion used to assign
+a wellspring PE is that if the technology transition came about because PL/GP
+has had a 6.1, 6.2 or 6.3 program in that technology area, then the GP program
+element is listed; if not, another PE is listed.
+For this report a technology transition event is defined as having occurred
+when there is an active transfer of technology between PL/GP and DoD users of

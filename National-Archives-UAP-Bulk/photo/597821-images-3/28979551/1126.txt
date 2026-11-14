@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:22:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8406062, "source_ctime_ns": 1793381197309681118, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979551/1126.jpg", "source_mtime_ns": 1785701109000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979551/1126.jpg", "source_sha256": "6f1f4f858ddf1930e7ef6497e62c0439c7d6e79244f5f5ecf67f7713b8090f06"}
+
+===== PAGE 1 =====
+{"alpha_words": 230, "chars": 1471, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pago 3
+25: Where were you lucated when you saw the object?
+(Circle One):
+26. Were you (Circle One)
+Inside a building
+In a car
+Outdoors
+In an airplane
+.. At sea
+f. Other
+In the business section of a city?
+In the residential section of a city?
+Tn open countryside?
+d.
+Flying near an airfield?
+Flying over a city?
+f.
+Flying over open country?
+g. Other
+• 27. What were you doing at the time you saw the object, and how did you happen to notice it?
+to see the stant
+bish appeal latel.
+28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+28.1 What direction were you moving? (Circle One)
+North
+b. Northeast
+Southeast
+1° South
+Southwest
+1. West
+h. Northwest
+28.2 How fast were you moving?
+miles per hour.
+28.3 Did you stop at any time while you were looking at the object?
+(Circle One)
+Yes
+No
+29. What direction were you looking when you first saw the object? (Circle One)
+East
+Northeas
+• South
+f. Southwest
+g. West
+h. Northwest
+30. Wht direction were you looking when you last saw the object? (Circle One)
+a. North
+b. Northeast
+i Southere Sumes State
+31. If you are fomiliar with bearing terms (angular direction), try to estimate the number of degrees the object was
+from true North ond also the number of degrees it was upword from the horizon (elevation).
+31.1 When it first appeared:
+a. From true North
+b. From horizon
+degrees.
+degrees.
+31.2 When it disappeared:
+a. From true North
+b. From horizon
+degrees.
+degrees.

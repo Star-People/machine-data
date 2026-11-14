@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:51:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5084264, "source_ctime_ns": 1793378870581273012, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969611/0988.jpg", "source_mtime_ns": 1785700768000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969611/0988.jpg", "source_sha256": "3dabea0cc26b8bf1529b6da76fb49a5cce63f1c8a96b9fa8639555c3099f2dfb"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 1010, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+15 April 1957
+3.
+DATE-TIME GROUP
+Local
+GM T
+15/18002
+5. PHOTOS
+• Yes
+*ỞN°
+7. LENGTH OF.OBSERVATION
+fifteen seconds
+0. BRIEF SUMMARY OF SIGHTING
+One dull drab aluminum colored obj
+with little reflectivity. Obj noved
+rather erratically, moving at one
+time,ạat least Mach 2 or 3" Obj was
+seen
+visually for fifteen seconds.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Eglin AFS, Florida
+4. TYPE OF OBSERVATION
+2A:Ground-Vi Ground-Visual
+01 Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Rudar
+Civilian (Tech Rpts)
+8. NUMBER OF OBJECTS
+9. COURSE
+one
+SE to E
+11.
+COMMENTS
+12. CONCLUSIONS
+000
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+D
+•
+Probably Astronomical
+Possibly Astronomical
+D. XOther.
+Mirage
+Insufficient Data for Evaluation
+Unknown
+Cause of this report attributed
+to optical phenomena associated
+with the turbulance following
+B-47. Sighting at noon. Obj
+definitely following or ossocited
+with the. a/c.
+ATIC FORM 329 (REV 26 SEP 52)

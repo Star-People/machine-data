@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:24:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9030645, "source_ctime_ns": 1793365061506171292, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0009.jpg", "source_mtime_ns": 1785684984000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0009.jpg", "source_sha256": "0312db1771c365700991b29aaa9d0929fc3f248aa4ca7df304dcf3ecd79d9fe7"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 642, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24D 24-0
+UFOS) Observed by ROBERT A. HOGEN
+& -
+Weather and Winds Algft Conditions at Time and Place of Sightings:
+1.
+Observer could not ascertain conditions as to cloud cover, ceiling,
+or temperature at time of sighting, but described the night as
+dry and good visibility.
+He recalled that the sky had been clear
+during daylight hours.
+Because of time lapse since reported sighting, no additional
+weather conditions were determined from official sources by
+this office.
+Information received by Special Agent JAMES P. STODDARD III, who pre-
+pared this report.
+Lt Colonel, USAF
+Commander
+Copy to:
+Dir OSI
+Declassification Authority: NND 923007

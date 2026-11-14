@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:45:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3645189, "source_ctime_ns": 1793364907384523732, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0088.jpg", "source_mtime_ns": 1785684682000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0088.jpg", "source_sha256": "41633d342d0128da4954b75a4aa759d2953ce9b65bc361af5c82685993159ddc"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 245, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Mre Whaley
+FBI Liaison Officer
+
+We are desirous of obtaining any information
+
+you may have on the National Investigations
+
+Committee on Aerial Phenomena, Washington, D. C.
+
+‘ ws *
+
+EMIL F. PERR
+Major USAF
+
+Declassification Authority: NND 923007

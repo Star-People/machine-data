@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:12:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4030671, "source_ctime_ns": 1793377665085489467, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964845/1156.jpg", "source_mtime_ns": 1785696685000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964845/1156.jpg", "source_sha256": "3511aae5c01a810a4d25d7c6247930db363d61c6e042e06bd7bc97afd100499b"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1069, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION.
+12 February 1956
+37 DATE-TIME GROUP
+Local _
+GM T.
+13/0205Z
+5. •PHOTOS
+D Yes
+Belleview,
+Florida
+4. TYPE OF OBSERVATION
+›KGround- Vi sual
+• Air Visual
+&. SOURCE
+Civilian (GOC)
+8. NUMBER OF OBJECTS
+• Ground-Radar
+• Air-Intercept Radar
+7. LENGTH OF. OBSERVATION
+(seen every clear night)
+unknown
+one
+0. BRIEF SUMMARY OF SIGHTING
+One starlike object which seemed to
+rotate below the field of stars disa-
+ppears by going over the borizon. The
+observer has reported this object before
+and claims to see it every clear night.
+12. CONCLUSIONS
+•
+•
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astranomical
+Probably Astronomical
+Possibly Astronomical
+• , Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+unknown
+COMMENTS
+Concur with the opinion of
+the reporting officer that
+this sighting is astronomical
+in nature. The fact that the
+source sees this object every
+clear night and describes it
+as being star like leads to
+above conelusion.
+ATIC FORM 329 (REV 26 SEP 52)

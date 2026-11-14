@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:02:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11105516, "source_ctime_ns": 1793359357408424342, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-048-0002.tif", "source_mtime_ns": 1785681389000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-048-0002.tif", "source_sha256": "a3002250fb7ba519dfc363adb62fc238cc0eab678927cc7f919cd419ffd79c0c"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+SECURITY CLASSIFICATION (I/ any)
+DISPOSITION FORM
+FILE NO.
+SUBJECT
+Commander, list ACoN Sq
+Cape Charles, Va
+USAF Technical Infcrmation Sheet
+FROM Det #7, 4670th GOS
+DATE 6 Jan 55.
+Broad St Sta, Rich 20,Va
+COMMENT NO. 1
+Transmitted herewith USAF Technical Information Sheet received from our Ground
+Observer Post at Cheatham Annex, PH 21 R.
+Hemen D. Dritz
+SUSAF
+1 EncI
+USAF Tech Info Sheet
+STOWER S
+Captain, USAF
+Commander
+FORM
+DD 13096
+REPLACES NME FORM 96, 1 OCT 48, WHICH MAY BE USED.
+18-54801-3
+* U.S. GOVE

@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:53:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6490598, "source_ctime_ns": 1793376771178055919, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961940/0183.jpg", "source_mtime_ns": 1785696885000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961940/0183.jpg", "source_sha256": "012eab796e3efabe5ca41a60538c98d7c698eb3ba62ccab414c76965fd3f3916"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 862, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+10
+3. DATE MIME 61857
+Local
+GMT 11/0115 May 1955
+5. PHOTOS
+• Yes
+* No.
+LENGTH OF OBSERVATION
+2. LOCATION
+• Ground-Visual
+• Air- Visual
+6. SOURCE
+NUMBER OF OBJECTS | 9. COUR
+Cne (1)-
+0. BRIEF SUMMARY O
+SIGHTING
+One (1) object #with sound like an a/c",
+about the size of a pea held at arms length,
+was observed for approz. one (1) minute.
+Object was at first blue in color but dis-
+appeared as though it had burned itself out.
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unk no wn
+H. CommEnTs poseibly Aircraft
+Description of sighting indicates a/c
+activity, possibly the residual gases
+from jet after-burner.
+AISOP Form 5 (15 Oet 54)

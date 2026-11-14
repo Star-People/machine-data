@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:10:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3159674, "source_ctime_ns": 1793359716035288954, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-026-0003.tif", "source_mtime_ns": 1785681501000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-026-0003.tif", "source_sha256": "5c6a51d0fc5f4b54c35d7e8cefd7257ff8ac8eb1f370bd7c080d01b6a68530af"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 635, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+• PAGE THREE OF RJEDFL 5P
+ITEM VII.
+CALM AND
+B. SURFACE:
+5 TO 10 KNOTS
+6,022
+260/15
+10,200
+260/35
+16,200
+290/65
+20,000
+270/70
+32,00šŚŘŚ₴
+290/90
+50,200
+295/60
+C•
+D.
+12,000 TO 15,200 BROKEN
+ROCKVILLE, INDIANA, 10 TO 15 MILES
+COLUMBUS,
+THREE FOURTHS OF ONE MILE WITH FOG.
+E. ONE TENTH TO FIVE
+INDFAVE TENTH SCATTERED, SIX TENTHS TO NINE
+NINE TENTHS BROKEN
+F. THUNDERSTORMS IN LEXINGTON, KENTUCKY AREA.
+ITEM VIII. NONE
+ITEM IX. NONE
+ITEMX.
+UNKNOWN.
+ITEM XI. SQUADRON INTELLIGENCE OFFICER. A FALLING METEOR KNOWN
+TO SOME AS A FALLING STAR.
+ITEM XII. NEGATIVE
+BT
+17/ 19122; SEP
+RIEDEL T
+88;3.3 5 3 58.1

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:10:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3308857, "source_ctime_ns": 1793384275647656031, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989788/0974.jpg", "source_mtime_ns": 1785748455000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989788/0974.jpg", "source_sha256": "2d7aa13f57ea950ad2388afae9e47f913e883491292d499156fcc9a381a3e3fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 456, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NNN
+RECEIVED
+240cr60 08 25
+ATIC
+2₴
+RB954
+BZCSOA8362CQYD651
+PP RJEDSQ
+ZDK
+KHA955
+PP RJAOKA RJAPAA RJHPKM RJEDSO RJEZHO RJWFAL
+DE RJAOKH 123
+P R 212224Z
+FM OKINAWA ADCC NAHA AB OKI
+TO RJWFAL/AIR DEFENSE COMMAND ENT AFB COLO
+TELEP R:
+10
+ODO
+RJEDSO/AIR TECHNICAL INTELLIGENCE CENTER VPAFB OHIO /
+RJEZHONQ USAF WASH DC
+RJEZNQ/SECRETARY OF THE AIR FORCE WASH DC
+INFO RJMPKM/PACAF HICKAM AFB HAWAII
+RJAOXA/COMDR 313 AD KADENA AB OKINAWA
+RJAPAA/SAF FUCHU AS JAPAN

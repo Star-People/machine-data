@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:22:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8449517, "source_ctime_ns": 1793379980246683193, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974001/0540.jpg", "source_mtime_ns": 1785700606000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974001/0540.jpg", "source_sha256": "e79ffb38ad10c49ac620cb85f9a47d7f45a851ba70df45e3f7c5be06e5c6d9b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 918, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COORDINATION
+FILE CLASS:
+OFFICIAL FILE COPY
+_OFFICE OF RECORD
+AFCIN
+AFCIN-4X26
+AFCIN_4X2c
+AFCIN-1X3
+AFCIN-4X4
+AFCIN-4X5
+AFCIN-4A
+AFCIH 4X3/Mr Hieatt/dmt/55266
+*26 DEC 1957
+P. O.
+Box
+Hereford,
+Dear Mr.
+Your letter to the Air Defense Command was ruferred to this
+Center for reply.
+The investigation of the reported sightings in the area of
+Levelland, Texas has prodaced a considerable amount of complex
+and variable data. A firm conclusion can not be reached until
+these data have been
+analysed and studied carefully.
+With respect to the
+sighting you mentioned in your letter,
+we are inclosing a questionnaire form for your use if you care
+to submit the information.
+Sincerely,
+AFCIN-4B
+T. J. CONNAIR, JR.
+BAJOR,
+USAF.
+Adjatant
+1 Inol:
+Uro Ques.
+AFCIN-4C
+AFCIN-4D
+AFCIN-4E
+21r57ś
+AFCIN-4F
+ро два 7 24 920 22
+2 0 002 12 0521
+AED
+VLIC
+PERM
+TEMP
+90 DAYS
+INITIAL
+ATIC PORM 144 (REV 10 SEP 37)
+ROUTING AND COORDINATION SHEET

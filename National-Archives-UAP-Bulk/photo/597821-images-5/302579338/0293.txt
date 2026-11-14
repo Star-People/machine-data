@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:08:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1710136, "source_ctime_ns": 1793393615432768489, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302579338/0293.jp2", "source_mtime_ns": 1785808551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302579338/0293.jp2", "source_sha256": "cc325c68a8589686b965ff223480bf493fe85ec0311748f67680dd249c275b24"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 590, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE • TIME GROUP
+21 August 68
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+Three
+LENGTH OF OBSERVATION
+Not Reported
+6. TYPE OF OBSERVATION
+Ground¿Visual
+• COURSE
+Not Reported
+S. PHOTOS
+EX..
+O No
+9. PHYSICAL EYIDENCE
+SON°
+FORM
+FTD SEP 60 0-029 (TDE)
+PROJECT 10973 RECORD
+2. LOCATION
+Ottsville, Pennsylvania
+10. CONCLUSION
+Visual: INSUFFICIENT DATA FOR EVALUATION
+Photo: INSUFFICIENT DATA FOR EVALUATION
+Neither the form 117 not the photo-data sheet was returned as of
+9 Dec 68.
+BRIEF SUMMARY AND ANALYSIS
+SEE CASE
+Director
+Aetospace Studies Inst
+ATTN: Archives Branch
+Maxwell AFB, Alabama
+SNC

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:09:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1714352, "source_ctime_ns": 1793389897298374876, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544793/0601.jp2", "source_mtime_ns": 1785807992000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544793/0601.jp2", "source_sha256": "d23b4f729142b1c34c24b1dbe627b1ad98c1ea7e028cdd69fdc167a8a4fbe7f3"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 764, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+22 September 65
+SOURCE
+Civilian
+1. NUMBER OF OBJECTS
+One
+1. LENGTH OF OBSERVATION
+25 Seconds
+6. TYPE OF OBSERVATION
+Grourd‚¿Visua 1
+. COURSE
+2. LOCATION
+1 ro
+23/0300 2
+Silver Springs,
+10. CONCLUSION
+A/C 2
+Object sindlar to an servation of an A/C with oRNES type light
+other similar waming light.
+BRIEF SUMMARY AND ANALYSIS
+fitness checked time with watch. Probably accurate.
+Object
+erreared as a bright light.
+Clear night with 4th ragnitude Stars
+visible.
+More like JUPITER than a star. Disappeared suddenly
+Had a reddich orange light and a yellow glow light at rear.
+Flight vas curring from East to West. 45 deg are in 25 seco
+PHOTOS
+D Yes
+XIC No
+9. PHYSICAL EVIDENCE
+• Yes
+FORM
+FTD SEP 63 0-329 (TDE) Pravious •
+• uaed,

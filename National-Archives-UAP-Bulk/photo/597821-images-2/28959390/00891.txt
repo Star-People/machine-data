@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:48:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4280362, "source_ctime_ns": 1793376133714640720, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959390/00891.jpg", "source_mtime_ns": 1785696924000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959390/00891.jpg", "source_sha256": "ba7ced70f70a8d20ff3e528a7c879ac7a23ed8a7d1e8ef5d1ff0b67032a1403d"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 954, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+24 August 1954
+3. DATE-TIME GROUP
+Local.
+2030
+GM T
+24/21302
+5. PHOTOS
+• Yes
+I No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Lagarfijot River, Iceland
+4. TYPE OF OBSERVATION
+A Ground- Visual
+• Air- Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+Civilåan
+8. NUMBER OF OBJECTS
+9. COURSE
+1
+NW-SW
+COMMENTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+•
+Other.
+UNIDENTIRED
+BUnk neen
+Insufficient Data for Evaluation
+10. BRIEF SUMMARY OF SIGHTING
+2% It long. 4 to 5 inches in diameter, Cylindrical Recovery attempts by ADC failed due
+in shape. Dark grey in color. Loud whizzing
+to period of two weeks from rpt recid
+sound. Level flt at rapid rate of speed, then
+and recovery attempted. River had risen
+fell in sandbar.
+over sandbar several times and changed
+its shape.
+ATIC FORM 329 (REY 26 SEP 52)

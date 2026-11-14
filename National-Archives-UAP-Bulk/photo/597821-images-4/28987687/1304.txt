@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:18:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7570458, "source_ctime_ns": 1793383716815717787, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987687/1304.jpg", "source_mtime_ns": 1785747854000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987687/1304.jpg", "source_sha256": "aa45d20a68bfe8e6092e81316740e740dfdc323d61c7e5391fccef15fc8b4722"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 793, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+8 July 1960
+DATE-TIME GROUP
+Locol 2016
+GM T 09/01167
+PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Hawthorne, New Jersey
+4. TYPE OF OBSERVATION
+i Ground- Visual
+• Air Visual
+• Ground-Roder
+• Air-Intercept Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+5-7 seconds
+one
+0. BRIEF SUMMARY OF SIGHTING
+Blob of white light traveling across
+sky to NW. Size of quarter. Moved
+through 1/6th of sky in 5-7
+seconds.
+12. CONCLUSIONS
+000
+Wos
+Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probobly Aireraft
+Possibly Aircraft
+•
+Was Astronomical
+Meteor
+Probably Astronomical
+Possibly Astronomical
+Othor.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+NW
+11. COMMENTS
+Speed, duration, and description
+indicate meteor observation.
+ATIC FORM 329 (RKV 26 SEP 52)

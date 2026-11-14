@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:39:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1127082, "source_ctime_ns": 1793388918172934276, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534334/01074.jp2", "source_mtime_ns": 1785808158000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534334/01074.jp2", "source_sha256": "7d9f38c19fd019b47c272f1b37eeb0ef763c93050d1b7652597a38d2a68c5758"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 335, "method": "ocr", "page": 1, "variant": "plain-vision"}
+APPENDIX C
+Report To.
+2 .
+Accuracy
+The accuracy of each report was determined as stated in the
+statistical evaluation of these results. Symbols used here arc
+denoted as follows;
+Accuracy
+F
+NO INPO
+VA
+Very Accurate
+Accurate
+Fair
+Inaccurate
+Sex
+Accuracy
+F
+35.
+31.
+38.
+Sex
+F
+LO.
+11.
+N = Male
+T = Female
+Accuracy
+71.
+72.
+73.
+74.
+• Sex
+M&F

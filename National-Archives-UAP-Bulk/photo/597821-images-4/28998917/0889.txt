@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:23:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8681981, "source_ctime_ns": 1793387614618949598, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998917/0889.jpg", "source_mtime_ns": 1785748331000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998917/0889.jpg", "source_sha256": "7e0ee597236105b21a2969d155d852a1ca01c12af7bfa44635cb37959a0cb54c"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 963, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+September 1962
+3. DATE-TIME GROUP
+Local
+GMT.
+05/01502
+PHOTOS
+O Yes
+53 Mo
+7. LENGTH OF OBSERVATION
+2 hours
+10. BRIEF SUMMARY OF SIGHTING
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Jopline
+Missouri
+TYPE OF OBSERVATION
+Ct Ground- Visual
+• Air Visual
+SOURCE
+D Ground-Rodar
+D Air-Intercept Rodor
+Civilian
+8. NUMBER OF OBJECTS
+three
+One large with two smaller white objs
+behind
+observed without trail, or
+exhaust & no discernable features, no
+sound.
+VieW
+to
+close
+In in &
+for 2 hours.
+Objs
+seemed
+back away
+intermittently.
+Obj at 45 dgr elevation.
+12. CONCLUSIONS
+Was Balloon
+Prabably Balloon
+D
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircrof:
+Was Astronomical
+D
+Probably Astronomicol
+Possibly Astronomical
+Other.
+OK Insufficient Data for Evaluation
+Unk no w
+9. COURSE
+not rptd
+stationary
+11. COMMENTS
+Azimuth not rptd and only one
+elevation given. Obj probably
+Tagapositional into,
+sion
+be reached. Insufficient
+data.
+ATIC FORM 329 (RRV 26 SEP 52)

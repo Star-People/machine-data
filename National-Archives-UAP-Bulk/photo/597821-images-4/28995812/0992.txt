@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:13:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4130171, "source_ctime_ns": 1793386347288982233, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995812/0992.jpg", "source_mtime_ns": 1785748091000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995812/0992.jpg", "source_sha256": "ff6647a7fe73a753d2c1f90da5097182797e493c7e5b9db2f39fdadb036d3a11"}
+
+===== PAGE 1 =====
+{"alpha_words": 179, "chars": 1328, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+I DATE
+2. LOCATION
+14 Dec 61
+3. DATE-TIME GROUP
+Local.
+2245
+15/0345
+mityrille, N.Y.
+4. TYPE OF OBSERVATION
+© Ground-Visual
+• Ground-Rodor
+• Air-Intercept Radar
+GM T
+5.
+PHOTOS
+0 Air Visual
+6. SOURCE
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+Drawing
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12-
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+o
+D
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unknown
+1
+Generally E
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+3 boys of Amityville, N.I. observed object
+Witnesses did not provide sufficient
+which appeared to hover, move to new location
+info to allow a conclusion for sighting
+at great speed, hover again before disappearings/c with the afterburner operating but
+Possible that this was an intercepto
+Object was described as a light bright enough
+to light up clouds in area. Whining noise was
+length of time which was indicated in
+attributed to object as it disappeared. Witn-
+# report would have been too long for
+nesses did not give time for duration of
+a/c to have remained visible.
+event but did indicate changing their positions
+over a considerable distance while it was
+occurring. Duration was too long for meteor.
+ATIC FORM 329 (REV 26 SEP 52)
