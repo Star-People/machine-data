@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:06:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12154525, "source_ctime_ns": 1793366818955895785, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0254.jpg", "source_mtime_ns": 1785565599000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0254.jpg", "source_sha256": "db71af6ab5ac1dc872dabf2d709d64bd2d92e955b3890cf2659d29473531a82e"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 69, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+amen
+nenerne
+nese
+erm
+a
+all
+
+Mili
+wd! YT
+
+ist ERRATA 6.
+
+i
+
+“nl
+MTT

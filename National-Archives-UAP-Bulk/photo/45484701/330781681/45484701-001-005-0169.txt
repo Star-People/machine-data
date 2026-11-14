@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:38:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6082244, "source_ctime_ns": 1793361925857425238, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0169.jpg", "source_mtime_ns": 1785684796000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0169.jpg", "source_sha256": "9b9ac6ee8d9f4625b3baff239caa96708b5fc39e8af57f7e17c16a274c8c8213"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 289, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1949 MAY 3
+IN
+2160îźšŚ
+AM 8: 19
+ADMINISTRATIVE
+RECORDS BRANCH
+SSP
+WDGS
+BQ USAF
+3 - MAY 1949
+SEO. AIR STAFF
+UNITED STATES AIR FORT
+THE INSPECTOR GENER
+MAY 4 4 39 PM °49ś
+OFFICE OF
+PECIAL INVESTIGATIONS
+HQ. USAF
+18 te : 1949
+CIG MAIL & RECORDS SECTION
+Declassification Authority: NND 923007

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:34:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5128148, "source_ctime_ns": 1793382433362024143, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983862/0726.jpg", "source_mtime_ns": 1785700772000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983862/0726.jpg", "source_sha256": "8fc51effb4598779e6a213405ca3660133fd1933650c35ad67dd196a71978f64"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 335, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJWZDM 162A
+42,22฿
+25g
+35
+50,289
+262
+25
+3. UNLIMITED: 4. 60 PLUS 5. NONE
+6. NONE INDICATED
+SECTION EIGHT:
+APPARENTLY NONE
+SECTION NINE::
+NONE
+SECTION TEN:
+NO IFR TRAFFIC REPORTED
+SECTION ELEVEN:
+INTELLIGENCE OFFICER, EVIDENCE NOTED DOES NOT LEAD TO POSSIBLE
+SOLUTION AT THIS TIME.
+SECTION TWELVE:
+NONE.
+BT
+16/2331Z JUL RJWZDM

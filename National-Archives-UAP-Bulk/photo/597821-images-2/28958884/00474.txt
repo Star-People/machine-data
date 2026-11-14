@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:30:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4214143, "source_ctime_ns": 1793376032692915071, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958884/00474.jpg", "source_mtime_ns": 1785696888000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958884/00474.jpg", "source_sha256": "11a2b591264c91582c3f3b16ede3291f50292501bfd290b63ccceb287477d0f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 842, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Poge 8
+39. Do you think you can estimte the speed of the object?
+(Circle One)
+Yes
+IF you answered YES, then what speed would you estimate?
+40. Do you think you can estimate how far away from you the object was?
+(Circle One)
+No
+IF you answered YES, then how far away would you say it was?
+41. Please give the following informotion about yourself:
+NAME
+_ m.p.h.
+over 69,000
+_ feet.
+ast Name
+ADDRESS
+Street
+Middle Nome
+Fairchild AF.B._
+City
+Zone CasA
+State
+TELEPHONE NUMBER
+What is your present job? 45 AF Control tower Opera for
+Age
+Sex Male
+Please indicate any special educational training that you have had.
+a. Grade school YeS
+e.0. Tachnical school 4SAF contre / Tower
+b. High school -
+yes
+(Type) operators school
+c. College
+2 Years
+f. Other special training _
+d. Post graduate
+42. Date you completed this questionnire:
+Day
+Ju lu
+Month
+1954

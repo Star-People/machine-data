@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:02:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4159017, "source_ctime_ns": 1793365676360807378, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-406-0238.jpg", "source_mtime_ns": 1785565410000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-406-0238.jpg", "source_sha256": "502df18031d8b5eea9871f84d39d15ab99ae44a03fbd35e86ee243d25f203a94"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 56, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+aA AG ROE. wen
+
+$ Hie inmate
+
+a ae nena, te *
+
+—<-—

@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:26:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3205116, "source_ctime_ns": 1793375961861835604, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958538/00148.jpg", "source_mtime_ns": 1785697006000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958538/00148.jpg", "source_sha256": "78da4ba8a41503075694a184a8ecd06483a3b59086869eae11bed5a54d2cfdae"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 909, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+12 June 54
+3. DATE-TIME GROUP
+Local
+2230EST
+0430z/12
+GM T
+PHOTOS
+O No
+LENCTH OF OBSERVATIOM
+Still
+in Sight
+About 45 Minutes
+10. BRIEF SUMMARY OF SIGHTING
+Large bluish green light.
+Dral or round in
+shape. Circling and hovering in small area.
+Two F-860's(negative report) scrambled.
+PROJECT 10073 RECORD CARD
+| 2 LOCATION
+YATTST LLE,
+MARYLAND
+TYPE OF OBSERVATION
+:X Ground-Visual
+• Ground-Radar
+12 Air Visual
+B. SOURCE
+• Air-intercept Radar
+8. NUMBER OF OBJECTS
+Civilian
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bailoon
+Was Aircraft
+Probably Aircraft
+Possibly Aircrait
+I Was Astronomical STAR/PLANET
+Probably Astronomical
+D
+Possibly Astronomical
+D
+Other
+Insufficient Data for Evaluation
+Unk no un
+45 deg
+11. COMMENTS
+Sighting characteristic of Astro sighting.
+Elevation only reported. No azimuth.
+Case evaluated as probable Astro Body
+(Star/Planet).
+ATIC FORM 329 (REV 26 SEP 52)

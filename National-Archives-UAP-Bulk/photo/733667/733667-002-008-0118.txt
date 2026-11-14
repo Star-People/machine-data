@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:20:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 579784, "source_ctime_ns": 1793394372998973810, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0118.jpg", "source_mtime_ns": 1785567361000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0118.jpg", "source_sha256": "43de2de6706c8f8d5bedffdfc116829b17a6040d2703fab9d3bc2e1d0b83dc9e"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 136, "method": "ocr", "page": 1, "variant": "clean-vision"}
+TRIveRO.
+1910 HollanD Ave
+BRONX, Af 10462
+George Wythe
+USA
+© USPS 1985
+4* FAA.
+701 CHIS TReeT
+Box 14
+ANCHORAEE, ALASKA
+99513
+Patriot
+14

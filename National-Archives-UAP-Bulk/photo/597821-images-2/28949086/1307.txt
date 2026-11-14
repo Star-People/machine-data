@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:27:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3928971, "source_ctime_ns": 1793373873171288110, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949086/1307.jpg", "source_mtime_ns": 1785696415000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949086/1307.jpg", "source_sha256": "3925e7c9e6da28f64dbd2c4de65b5407c468edc14d2b4fad7c60b9b50d83a38f"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 708, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IV. BALLCON DATA
+21
+WERE BALLOONS RELEASED IN AREA?
+22.
+TIME SINCE SCHEDULED BALLOON RELEASE:
+25. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+DYes
+Minutes
+Location
+Lyра
+ing Agency
+Yea
+No
+Describi
+aghting
+a .
+b.
+21. EVALUATION OF SOURCE:
+Excellent
+.. Good
+] Fair
+- Poor
+• Unreliable
+J Extremaly Doubtful
+) Нозж
+23. FINAL EVALUATION:
+Was Balloon
+...Probably Balloon
+. Poasibly Balloon
+Was Aircraft
+LIProbably Aircraft
+-Possibly Aircraft
+(attach overlay)
+V. EVALUATION
+22.
+DETAILS OF REPORT:
+_! Good
+IFair
+J Poor
+]Insufficient to Evaluate
+Was Astronomical
+J Probably Astronomical
+21 Posalbly Astronomical
+J Other:
+I InsufMeient Data For Evaluation
+- Unknown
+24. COMMENTS:
+ATIC Tost Form 334 (13 Aug 52)

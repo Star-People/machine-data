@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:01:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4080920, "source_ctime_ns": 1793372967540414982, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28944967/0220.jpg", "source_mtime_ns": 1785688950000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28944967/0220.jpg", "source_sha256": "e7287331e210efa5ade0a8aee4638effe931059602473b61b7699650cd418c01"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 299, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Additional radar data is needed to evaluate thie target. It would be of
+much value to know if unidentified targets) was on the exact same line
+of sight as the wind finding target.
+If on the same line of sight a
+possible explanation would be a malfunction of the radar set.
+R. James
+ZŞ71Q
+7-š719 - J

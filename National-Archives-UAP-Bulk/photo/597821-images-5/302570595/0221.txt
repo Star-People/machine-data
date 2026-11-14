@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:20:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 782749, "source_ctime_ns": 1793392761587557384, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570595/0221.jp2", "source_mtime_ns": 1785808173000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570595/0221.jp2", "source_sha256": "a95ff9e359878ddc74b84c22dd603a230c39ad4cade3a07815d8d76f8f495722"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 930, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL AIR STATION
+PENSACOLA. FLORIDA 32308
+IN REPLY REFER TO
+Code AOT
+APR 9 1968
+From :
+To:
+Commanding Officer, Naval Air Station, Pensacola, Florida
+- 32508
+Commander, Air Proving Ground Center, Eglin Air Force Base,
+Florida 32542
+Subj: Report of Unidentified Flying Objects
+Encl: (1) Letter written by Mr
+Enclosure (l) provides a written statement alleging the sighting of
+six unidentified flying objects on 28 September 1967. Records at this
+station disclose no information of any sort to substantiate or explain
+this reported incident. The report is forwarded to your office for any
+further action you deen necessary.
+E. M. ALBRECHI
+By direction
+Copy to:
+Mr
+1st Ind
+15 Apr 1968
+3201st AB GP (PCBO)
+TO: PGFS
+In accordance with APGC Supplement #1, 28 Feb 67, to AFR 80-17, the
+attached is forwarded for such action as you deem appropriate.
+FOR THE COMMANDER
+JAMES P. STEWARI, It Colonel, USAF
+Ch, Operations &
+Training Division

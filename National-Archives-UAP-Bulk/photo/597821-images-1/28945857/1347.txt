@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:32:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4530403, "source_ctime_ns": 1793373259208966603, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1347.jpg", "source_mtime_ns": 1785688740000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1347.jpg", "source_sha256": "eb2d2490da68903d550df596775a54e8b07713d5e4b541a886a49b1e74e54a15"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 446, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- PAGE TWO JEPFF S
+FIVE-UNKNOWN
+SIX-SKY CLEAR, SBY 10. WINDS ALOFT: 2022-210 AT 7K, 4022-223 AT, 5,
+6000-240 AT 5, 8020-280 AT 7, 10000-310 AT 4, 12026-322 AT 7, 14200-312
+AT 2, 16080-300 AT 6, 20000-380 AT 3, 25002-210 AT 10, 38080-180 AT 16.
+SEVEN-UNKNOWN
+EIGHT-NONE
+NINE-THORNDYKE NOTIFIED OF NUMBERS ONE AND TWO SIGHTINGS AT 2103E; OF
+NUMBER THREE SIGHTING AT 2232E. ACTION TAKEN UNKNOWN.
+TEN-UNKNOWN AT PRESENT TIME.
+27/Ø8152 JUL JEPFF
+Cy 1

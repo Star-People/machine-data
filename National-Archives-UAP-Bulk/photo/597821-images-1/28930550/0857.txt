@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:34:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5085920, "source_ctime_ns": 1793369088475303857, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930550/0857.jpg", "source_mtime_ns": 1785688920000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930550/0857.jpg", "source_sha256": "6a2097e54ba05a6b8d68f45c7b1e198549227e82c2d28b50702193e305a1f21f"}
+
+===== PAGE 1 =====
+{"alpha_words": 181, "chars": 1246, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TDEW/Maj Quintanilla/69216
+Mantell Case, January 1948
+23 July 1954
+Coroner
+Simpson County
+Franklin, Kentucky
+Dear Coroner:
+In January 1940, at Franklin, Kentucky, an aircraft sccident
+occurred and the county coroner, Mr Harry W Booker, examined the
+body of the pilot, Captain Thomas # Mantell, Jr.
+The Federal Aviation Agency is conducting an investigation of
+a similar accident in which the cause of death ia considered iden-
+tical. They bave expressed a desire for medical recorda or any
+other information regarding the condition of the pilot's body after
+the crash. I am enclosing a copy of their letter to us regarding
+this information. The case file at Pright-Patterson contains infor-
+mation on the wreckage but nothing concerning the pilota condition.
+Any information which you may have, such as the sutopsy report,
+medical findings, photos of the body, etc, voula be appreciated by
+the Federal Aviation Agency. We request thet you forward any
+available data which you may have to:
+Dr Richard G Snyder, Ph D, A&‚19
+Federal Aviation Agency
+P 0 Box 1082 .
+Oklahome City, Oklahoms 73101
+Sincerely,
+BRIC T de JONCKHMURE
+Colonel, USAF
+Deputy for Technology
+and Subsystems
+2 Atchs
+1. Ltr FAA, 20 Jul 61
+2. Affidavit, 7 Jan 48
+cc: Dr Snyder, PAR

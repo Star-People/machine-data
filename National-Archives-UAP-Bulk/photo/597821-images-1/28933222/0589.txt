@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:33:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5031152, "source_ctime_ns": 1793369908206640778, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933222/0589.jpg", "source_mtime_ns": 1785688766000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933222/0589.jpg", "source_sha256": "397e7d3889573bfe66c521df593a9bed1a5d914b204fd31ed477588d01fdc403"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 60, "method": "ocr", "page": 1, "variant": "plain-vision"}
+This case INcludes
+DNE (1) Negative of
+CARIBBEAN SEA 8'XIO"

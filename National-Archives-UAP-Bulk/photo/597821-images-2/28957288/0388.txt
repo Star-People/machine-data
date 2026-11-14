@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:28:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4066355, "source_ctime_ns": 1793375701060132118, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957288/0388.jpg", "source_mtime_ns": 1785696994000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957288/0388.jpg", "source_sha256": "2c966b6c0dc837e5b86bd284a1444c107a265725c6bb2cb5b47346e35101fdd4"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 487, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JEDFJ 228
+INDICATOR ON AIR FIELD PD SIGHTED BY A/2C GORDON E. BRUEBACH CMA 527TH
+AIR POLICE SQ CMA EVALUATION INFO C3 PD WEA BY OBSERVER CLN HEAVY CLOUDS
+CMA SLIGHT BREEZE CMA DRY AND COLD CMA WEA BY AWS CLN 2012E MEA 20
+OVERCAST 10 MILE VIS WINDS NW 7KNOTS PD S CMA 9 CMA 10 CLN NEG PD NO
+AIR TRAFFIC IN AREA AT IME OF SIGHTING PD PREPARED BY ACTING INTELLI-
+GENCE OFF CMA PRELIMINARY ANALYSIS CLN POSSIBLE LIGHTING EFFECTS RE-
+FLECTING FROM THE OVERCAST PD
+03/2300Z JAN JEDFJ

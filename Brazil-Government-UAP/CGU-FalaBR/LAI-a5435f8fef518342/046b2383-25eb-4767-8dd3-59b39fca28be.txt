@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:56:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 43590, "source_ctime_ns": 1793477978629136578, "source_file": "Brazil-Government-UAP/CGU-FalaBR/LAI-a5435f8fef518342/046b2383-25eb-4767-8dd3-59b39fca28be.png", "source_mtime_ns": 1793477978624696655, "source_rel": "Brazil-Government-UAP/CGU-FalaBR/LAI-a5435f8fef518342/046b2383-25eb-4767-8dd3-59b39fca28be.png", "source_sha256": "f0cfcdd621c34bb6bf446d05158d79b144d3f852505a8789fdcd24e0b3cf5721"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 54, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAINEL ESTATÍSTICO
+DE PESSOAL
+OBSERVATÓRIO DE PESSOAL

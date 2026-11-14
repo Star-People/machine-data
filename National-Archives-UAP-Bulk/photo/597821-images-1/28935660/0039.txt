@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:26:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3242802, "source_ctime_ns": 1793370886022550442, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935660/0039.jpg", "source_mtime_ns": 1785688487000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935660/0039.jpg", "source_sha256": "b228267f6021e85813ee882a383c934fd959a065c0334927c39639a94cc6b31e"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 617, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE - TIME GROUP
+29 June 1949 30/03102
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+2.
+CATION
+Flagstaff, Arizona
+10. CONCLUSION
+AIRCRAFT
+One
+5. LENGTH OF OBSERVATION
+Not Reported
+6. TYPE OF OBSERVATION
+Ground-Visual
+17. COURSE
+E to W
+8. PHOTOS
+• Yes
+9. PHYSICAL EVIDENCE
+• Yes
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous editions of thie form may be used.
+395
+No data presented to indicate object could NOT have been an A/C.
+11. BRIEF SUMMARY AND ANALYSIS
+Object was approx 1/2 size of small airplane. Yellow in front.
+red behind.
+Object flew on a straight course. Manner of
+disappearance was over hill.

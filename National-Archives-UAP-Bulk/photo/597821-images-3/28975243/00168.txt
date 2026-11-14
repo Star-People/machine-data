@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:03:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4690815, "source_ctime_ns": 1793380294358328545, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975243/00168.jpg", "source_mtime_ns": 1785700840000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975243/00168.jpg", "source_sha256": "43c66422acdcba5fccdc00deff9d853ecb9fc3f7ab37f53c5b4993d28ed91df6"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 783, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+25 November 1957
+3. DATE-TIME GROUP
+Local
+0215
+GMT
+26/02152
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+B8L1n AFD,
+Floriga
+4. TYPE OF OBSERVATION
+• Ground- Visual
+0Air Visual
+6. SOURCE
+litary
+8. NUMBER OF OBJECTS
+9. COURSE
+30 minutes
+two
+0. BRIEF SUMMARY OF SIGHTING
+Normal radar return of two objects
+with second obj trailing right wing
+of leader with approximately 1/2
+mile separation.
+• Ground- Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+D...Probably Aireraft
+Possibly Aircraft
+Was Astronamical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Dato for Evaluation
+Unknown
+varied
+11. COMMENTS
+Probably conventional unidentified
+a/c.
+ATIC FORM 329 (REV 26 SEP 52)

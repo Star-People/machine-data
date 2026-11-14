@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:38:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6514009, "source_ctime_ns": 1793380131929478519, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974658/1101.jpg", "source_mtime_ns": 1785700658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974658/1101.jpg", "source_sha256": "ec897981a1f00671b0758a9cc91721ba592408fea6a5cdb036413e1a0153972c"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+12
+DATE-TIME GROUP
+Local
+GMT
+5. PHOTOS
+1957
+Ogdens
+eri
+New Yori
+4. TYPE OF OBSERVATION
+JaRGround- Vi sual
+D Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+12/22502
+• Yes
+O:No
+7. LENGTH OF.OBSERVATION
+8. NUMBER OF OBJECTS
+10 minutes
+25 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Small round object, changing colors
+from bright green and blue to white
+and orange, increasing and decreasing
+in brightness.
+12.
+CONCLUSIONS
+Was Balloon
+Probably Belloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Nobody Arico Tapus
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+practically
+stationary
+11. COMMENTS
+Astro charts show object in
+almost exact location of Venus.
+ATIC FORM 329 (REV 26 SEP 52)

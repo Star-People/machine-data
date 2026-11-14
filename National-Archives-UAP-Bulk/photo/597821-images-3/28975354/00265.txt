@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:37:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6055744, "source_ctime_ns": 1793380319472010813, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975354/00265.jpg", "source_mtime_ns": 1785700667000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975354/00265.jpg", "source_sha256": "9042425ec8696baebaa5eba1e28705912bbaed6fa031d921426dacff1fb4c3b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 413, "method": "ocr", "page": 1, "variant": "plain-vision"}
+E FADAL EUT LIKE METEOR
+F. FOUR-FIVE SECM
+3. A. VISUAL FROM GROUND
+B. NONE
+C. NA
+Thin
+4. A. 26/2325Z
+B. NIGHT
+5. A. 42 DEGREES 15 NORTH --
+84
+DEGR
+VEES
+B. ANN ARBOR
+EST
+DIRECTOR AT UNIVERSITY OF MICH. OBSERVATORY
+ANN ARBOR MICH
+DETROIT, MICH.
+7. A. HAZY - MOON AND STARS VISIBLE
+B. 1. 142/25
+290 / 12
+30:3/40
+300/55
+300/65
+303/120
+280/60
+272/30
+C. EST. 25.000
+D. S
+E. 9/13
+F. NONE
+Conculd
+Univers
+serv
+8. A. NONE

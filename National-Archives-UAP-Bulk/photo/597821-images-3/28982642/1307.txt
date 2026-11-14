@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:41:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7848093, "source_ctime_ns": 1793382232559203540, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1307.jpg", "source_mtime_ns": 1785701040000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1307.jpg", "source_sha256": "0330f4054becb6ac1690a041587e105d9eac1ba9fe78bcda2baed8995a57848d"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 872, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page two
+5. Aircraft identificati
+a. Typs aircraft
+#-94 C
+b. Serial No.
+C.
+Home Station
+Duluth, Minn.
+6. Flight Deta
+a. Heading
+b.
+c.
+Ind. Altitude
+Ind. Airspeed
+* Knots
+Varied
+/ True
+J Compass
+11,000
+400 kts
+→ MPH
+7. Was an attempt to detect the object on airborne radar made? (Circle one)
+No
+No Radar
+Radar inoperative
+a, If IES, describes Locked on. Pick up at 9 miles, run down at two
+miles at some point between 9 & 2 miles, locked on and held lock-on
+between 1 « 2 minutes.
+8. Was an intercept attempted? (Circle one)
+9. Were photographs taken?
+(Circle one)
+Yes
+Yea
+No
+No
+10. Were any other aircraft seen in the area? (Circle one)
+a. If YES, was any attempt made to contact them?
+Comments:
+4/C in Flight. We were avare of their presence.
+No
+Two other
+1l. Were any nsarby ground stations contacted during or soon after the sighting?
+(Circle one)
+No
+Comments:
+Galahad

@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:58:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1363692, "source_ctime_ns": 1793393266507175345, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302575621/1153.jp2", "source_mtime_ns": 1785808674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302575621/1153.jp2", "source_sha256": "1d4bef3157674437953faf368874afaa12351b6256372a05d21c9c4456ec6150"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 535, "method": "ocr", "page": 1, "variant": "plain-vision"}
+BEEMEN
+Burlington Mass, 01803
+Sir vertisine
+May 20 1968
+U.D. Aier Force
+derospace Techoologies Div.
+Chief, Aerial Phenomena
+Dear Sirs;
+Reference your letter May 16 1968 regarding if our aircraft was flying that
+night on April 12 1963.
+Checking our records we indicate that first flight this year was conducted
+with the night equipment in night tine May 14 1966. May I say again this was
+our first flight this season. There is no way our aircraft could create
+the sighting, on April 12 1968. Gladly to help your organization.
+Sincerely
