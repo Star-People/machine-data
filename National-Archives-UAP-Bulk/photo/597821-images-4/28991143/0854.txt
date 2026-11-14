@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:44:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7129457, "source_ctime_ns": 1793384829892435932, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991143/0854.jpg", "source_mtime_ns": 1785747999000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991143/0854.jpg", "source_sha256": "bf9e1fc946dc61cd0efdb1f2623a9da7ea1f33ae31defbbf676d4fcf09cda568"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 92, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AKRON, OHIO
+21 đan 61
+CASE INCLUDES
+18 ADIABATIC CHARTS
+35 COlOR SLIDES (iN
+separate folder

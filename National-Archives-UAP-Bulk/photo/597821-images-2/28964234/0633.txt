@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:38:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4059236, "source_ctime_ns": 1793377547050713511, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964234/0633.jpg", "source_mtime_ns": 1785696714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964234/0633.jpg", "source_sha256": "e4c2803e2d077e1db5cf9d5139ef5bd285838195884eef068b5a645672418586"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 336, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO DE RUEDIJ SS
+.. HONE
+I. NONE
+II•
+A. 20 DEG ANGLE AT ELEVATION 213 DEG AZIRUTH WHEN
+FIRST SIGHTED
+E. 20 DEG ANGLE AT ELEVATION 210 DES AZIMUTH UPON DISAPPEARENCE
+C. BRIGHTRESS
+1E. FADE ON .
+F• THREE SECONDS
+III•
+A. GROUND VISTAL
+B. NONE
+C. NEGATIVE
+1V •
+A. 21/1130Z NOV
+B• MIGHT
+V. GN 5852 AT TOWER NBR. 32
+ASE 29
+VAN DYNE RICH

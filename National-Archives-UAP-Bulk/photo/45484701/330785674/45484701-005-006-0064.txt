@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:24:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7174335, "source_ctime_ns": 1793363614271253853, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0064.jpg", "source_mtime_ns": 1785684936000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0064.jpg", "source_sha256": "4afec3c405d2e4e7a4a3bd4f5afe062e68f44cf64172c7cd5d28a0bab666496c"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 759, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INFORMATO
+11D 24-0, Subject: Information on Unconventional Aircraft; 7 May 52
+C •
+33d Air Division (Defense) advised no meteorological
+disturbances during period in question.
+f. No physical evidence,
+or other witnesses with one
+exception, a passenger in observer's automobile who furnished
+same information to Inspector General, OCAMA, Tinker Alr Force
+Base, Oklahoma.
+This person absent on date information furnished.
+ACTION: Commanding General,
+Tinker Air Force Base, consulted; and
+report, Commanding General, Air Materiel Command, Wright-Patterson
+Air Force Base, Ohio, advised. No further action by this district.
+6. Mº Len
+JOHN C. McLENDON
+It. Colonel, USAF
+District Commander
+cc: in dup to
+CG, AMC
+ATTN: MCIS
+'Of
+Declassification Authority: NND 923007

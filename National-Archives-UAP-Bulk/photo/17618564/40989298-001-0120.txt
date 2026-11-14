@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:00:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 463844, "source_ctime_ns": 1793356018195495902, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0120.jpg", "source_mtime_ns": 1785564583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0120.jpg", "source_sha256": "776a6494d08415bcf293d99ebf30c5c2b9ae2221f9f9f104788ad2611bb167fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 447, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Col. William H. Blanchard, Commander 509th Bomb Group, 1947,
+and later, Vice Chief of Staff, United States Air Force, 1965-1966. As
+commander of Roswell Army Airfield and the 509th Bomb Group,
+Blanchard is alleged to have secretly directed the recovery of a flying
+saucer while pretending to be on leave. Records indicate that Blanchard
+was on leave, departing Roswell on July 8 and returning on July 23,
+1947 (see Atch 11). U.S. Air Force Photo.

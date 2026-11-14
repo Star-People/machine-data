@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:18:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3424466, "source_ctime_ns": 1793384335421402531, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990038/1206.jpg", "source_mtime_ns": 1785748576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990038/1206.jpg", "source_sha256": "932a93bfe373c27925b247ebe1144917341ff0f2a62407502c28a40c04829179"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 424, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR RUMALC 221A
+METEROITE
+PLE LE
+NONE
+REMARKS:
+MISSAGE RECEIVED FROM PILOT Y QUOTE PILOT BATTLE CRY 17
+REPORTS OBJECT BEARING 22 T FM 1827H POSIT EST 48
+MI PEST FM PORO " SIZE UNK BUT LOOKED LARGER THAN SHOOTING
+STAR WITH VIS SHOKE TRAIL OBJECT IN VERTICAL DECENT
+EXTINGUISAED BEFORE HITTING SEA # DIST UNK UNQUOTE
+NOTE:
+PORO REFERS TO PORO POINT X A PENINSULA 12 2 EAST
+16 15 NORTH ON LUZON PI PD
+07/14282 NOV RJMALC

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:16:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1479240, "source_ctime_ns": 1793390442170849594, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549939/1257.jp2", "source_mtime_ns": 1785808204000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549939/1257.jp2", "source_sha256": "43d3743c4e1d68918befc62804bff7cd4468a8ac74c8b08b064d4a2f3de32ed5"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 316, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MG. Stas ate at a oe Oe Saal NERS Pt YO gt a a NN ES tn aL ep
+
+Page 7
+
+34, Date you completed this questionnaire: 22. _APRIL. i966
+Day Month Year
+
+35. Information which you feel pertinent and which is not adequately covered in the specific points of the
+questionnaire or a narrative explanation of your sighting. |

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:03:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1012077, "source_ctime_ns": 1793388762433591714, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532074/0364.jp2", "source_mtime_ns": 1785808557000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532074/0364.jp2", "source_sha256": "06d626357d49e47fd3b29597dedf7d6c2f0a7869c394ddce572d86f10f4512f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 756, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(e.g., 270 degrees is a wind from the west, 230 degrees
+is from south of west). The rise rate is 1000 feet per
+minute. The 250 degree winds would carry the radiosonde
+train into the NE quadrant which would appear to the
+observer as a movement to the north. The apparent motion
+would be more noticeable than that caused by the higher
+winds which occurred at higher elevations and from the
+NW quadrant. At this later time the distance of the radio-
+sonde from the observer reduces the apparent motion.
+3. No explanations of this nature are conclusive but there
+is enough consistency between Mr.
+observations
+and the supporting data above to make our hypothesis
+plausible. Please let me know if more detailed analysis
+is required.
+Major, USAF
+Meteorologist
+2

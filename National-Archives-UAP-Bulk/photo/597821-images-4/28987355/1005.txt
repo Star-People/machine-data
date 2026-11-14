@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:08:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8393604, "source_ctime_ns": 1793383588544711867, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987355/1005.jpg", "source_mtime_ns": 1785748244000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987355/1005.jpg", "source_sha256": "2022a8b7ceac92910ffac75cabe0185093db7140b9b41bb32c65b707016856ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 280, "method": "ocr", "page": 1, "variant": "plain-vision"}
+In the
+тогт
+Dolieu Called cape Canaveral,
+3 of 21 june 1960, Tog.
+Florida and
+talked to Col Thompson. The fol
+lowing info
+was furnished by cal Thompson:
+(TITAN)
+at 0005 z, Lest no. 1802 was launched
+to impact at station 12 (ascension island).
+The flight lasted approp 30 minutes.

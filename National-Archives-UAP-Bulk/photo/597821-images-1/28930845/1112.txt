@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:41:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5617109, "source_ctime_ns": 1793369165607989971, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930845/1112.jpg", "source_mtime_ns": 1785688816000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930845/1112.jpg", "source_sha256": "8a1e7030a499c455d352f5e306f1131be6224560c7bacf09f6d6c06ff5087d2c"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 574, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FIQ-33 (20 May 44)
+HEADQUARTE JNITED STATES AIR FORCE
+ROUTING AND RECORD SHEET
+TALLY
+NO.
+NO.
+SUBJECT:
+Flying Object Reported
+TO:
+Air Technical Intelligence Center
+Wright Patterson AFB, Dayton, Ohio
+FROM:
+Processing Branch, Dissemination Control
+Division, Directorate of Intelligence
+DATE JUN 18 1953
+COMMENT NO. _..1
+Maj Dunken/jd/78992
+AFOIN- 1B1
+The attached correspondence is forwarded for your information and necessary
+action.
+1 Inel
+Allen 9. Dunken
+ALLEN G. DUNKEN
+Major,
+USAF
+Directorate of Intelligence
+Moberly, Missouri, dtd 5 Jun 53
+CatIV
+-53
+Poss
+Certia
+PAGE.

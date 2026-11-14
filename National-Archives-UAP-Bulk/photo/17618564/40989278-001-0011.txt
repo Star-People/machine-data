@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:33:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1100520, "source_ctime_ns": 1793355837478949386, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0011.jpg", "source_mtime_ns": 1785564538000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0011.jpg", "source_sha256": "71a031a99e0f4c263328c9db146b98040ad023741916e3d9246c32c579264d63"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 1002, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FACSIMILE ELECTRO MAIL TRANSMITTAL
+(This information collection is not subject to OMB review under PL-96, The Paperwork Reduction Act.)
+SECTION I - TO BE COMPLETED BY ORIGINATOR
+CLASSIFICATION
+TRANSMISSION
+UNCLASSIFIED
+PAGE 1 OF
+FOR OFFICIAL USE ONLY
+× IMMEDIATE
+TO (Organization and Functional Address Symbol)
+ROUTINE
+FAX NO.
+DSN
+GAO
+ATTENTION
+Mr Kreithe
+VOICE NO.
+DSN
+PAGES
+COMMERCIAL
+512.7981
+COMMERCIAL
+SUBJECT
+FROM (Organization and Functional Address Symbol)
+HQ USAF/HO AND AFHSO/HO
+170 LUKE AVE SUITE 400
+BOLLING AFB DC 20332-5113
+FAX NO.
+DSN
+Incoming 297-5527
+Outgoing 354-7915
+VOICE NO.
+DSN
+297-5764 x
+297-5088 x
+297-0412 x
+COMMERCIAL
+Incoming (202) 767-5527
+Outgoing (202) 404-7915
+COMMERCIAL
+(202) 767-5764 x
+(202) 767-5088 x
+(202) 767-0412 x
+REMARKS
+RELEASER'S SIGNATURE
+DATE
+TIME
+SECTION II - TO BE COMPLETED BY ELECTRO MAIL OPERATOR
+DATE TRANSMITTED
+TIME TRANSMITTED
+TRANSMITTER'S SIGNATURE
+DATE ADDRESSEE CONTACTED
+TIME ADDRESSEE CONTACTED
+CONTACTOR'S SIGNATURE
+AF FORM 3535, SEP 91(EF)

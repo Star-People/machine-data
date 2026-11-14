@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:27:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8700476, "source_ctime_ns": 1793383602934532240, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987396/1041.jpg", "source_mtime_ns": 1785747975000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987396/1041.jpg", "source_sha256": "6f8427fd3b91581929a0e7f335f784c82dfb2f2cfa760f9255c14b651f370819"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 879, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ВТ
+CIRVIS REPORT X WV-2 BUNO 143202 X UNIDENTIFIED BALL GREENISH-YELLOW
+CMM EXTREMELY BRILLIANT LEAVING IMPRESSIONVOMY OF TRAIL ACROSS SKY
+X SIGHTED AT 32-48N 175-15W X 263846Z X APPEARED 45 DEGREES ABOVE
+HORIZON TRAVELING IN A TRAJECTORY FROM WEST TO EAST EXTREMELY HIGH
+SPEED X DISSAPEARED APPROX 15 DEGREES ABOVE HORIZON SEPERATING INTO
+TWO PIECES IMMED PRIOR TO BURNOUT X INTENSITY OF LIGHT INCREASED
+STEADILY UNTIL BURNOUT X OBJECT HELD UNDER VISUAL OBSERVATION 5-8
+SECS X BOTH PILOTS STATE OBJECT NOT LIKE ANY SHOOTING STAR PREVIOUSLY
+SEEN X WEA COND CLEAR VIS 6Ø PLUS CONFIRMED BY POSIT REL TO MDY ON
+TACAN X PILOT FLYING BARRIER 24 MOS X COPILOT 6 MOS
+ВТ
+CFN WV-2 143202 32-48N 175-15W 260846Z 45 15 5-8 60 24 6
+26/1226Z
+пранатидво у
+INHLIVNFEGO ANEETES VID
+ЕВИБНИ СОЛИУЛВЕУІКСИ ОСС
+ДО ВОНЬКИСІЙСЬУСУЕ НІСКИЙ V
+AN COMBVEEVC
+7 BE 7253S
+DE BEREE C/1
+1820 04 50 IN 19
+... /

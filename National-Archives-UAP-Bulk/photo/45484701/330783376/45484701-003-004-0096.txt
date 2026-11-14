@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:45:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7995631, "source_ctime_ns": 1793362643478608485, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0096.jpg", "source_mtime_ns": 1785685004000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0096.jpg", "source_sha256": "c4906ed026f8ed4fb3a583629958c47417650535e7576ee9bb1baa0657db5956"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 563, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECURITY
+FICATION (If any)
+DISPOSITION FORM
+FILE NO.
+G2-SPR
+TO
+AF'CSI
+SUBJECT
+FROM G-2
+KRUVANT, Michael W.
+(U)
+DATE 25 February 195CoMMENT NO. 1
+Capt Haig/53715/gek
+The inclosed information is forwarded for your information and any action
+deemed appropriate.
+FOR THE ASSISTANT CHIEF OF STAFF, G-2:
+Incl
+Itr Im Subj dtd 22Feb55
+w/envelope
+J.D. STEARNS, colonel, aS a
+LT Col GS
+Acting Chier, Security Division
+FORM
+DD , FEB $0 96
+REPLACES NME FORM 96, 1 OCT 48, WHICH MAY BE USED.
+16-54801-3
+* U.S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 923007

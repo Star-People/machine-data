@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:01:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 791248, "source_ctime_ns": 1793391247569810685, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556755/0327.jp2", "source_mtime_ns": 1785808207000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556755/0327.jp2", "source_sha256": "f963c026908f4a84b2d0e180444b0c3ddb3dc870edc1e28041ac5b7467e67f47"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 1026, "method": "ocr", "page": 1, "variant": "plain-vision"}
+15 Dec. 66
+From 0222Z to 0651Z 9 Oct. 66 ANR radar tracked two slow moving
+objects which were moving toward the southeast at an average
+speed of 45 knots. Two F-102's were scrambled from Galena AFS
+was sent to investigate. The radar lost contact with the objects
+in the vicinity of Cape Romanzof, Alaska. The aircraft pilots
+were flying in bad weather and on three passes were unable to
+see the objects.
+Investigating official from Elmendorf AFB, Alaska believes the
+objects to be balloons. Several balloons have been recently seen
+in the Alaska area. This balloon could have the one observed at
+a later time by the personnel at Kodiak Naval Air Station on
+10 Oct. 66 0145Z. Prevailing winds from the Cape Romanzof area
+to the Kodiak area were counter-clockwise from 0600Z/9 Oct. 66
+to 0200%/10 Oct. 66. At altitudes from 25,000 to 35,000 feet the
+winds were about 35 knots and could have carried an object from
+the Cape Romanzof area to Kodiak during this time frame.
+* Reference message number 1 540 0039 66 14 October 1966

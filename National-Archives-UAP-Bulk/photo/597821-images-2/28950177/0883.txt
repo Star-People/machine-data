@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:37:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3828723, "source_ctime_ns": 1793374094693076735, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950177/0883.jpg", "source_mtime_ns": 1785696684000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950177/0883.jpg", "source_sha256": "eec929ee08d52cfcf32a98cac8dcd5de2ba32de0085f22c97a11d5cd8dd1450b"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1145, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 3
+8.1 What direction vere you looking when the object disappeared?
+(Circle One):
+North
+e•
+Northeast
+East
+d.
+Southeast
+ho
+Sou th
+Southwest
+West
+Northwest
+B,2 Chole answer to the ove
+Circle one of the followng to indicate how certain you are oi
+answer to the above question and preceding question (8 and
+8.1).
+D.
+Certain
+Fairly certain
+Not very sure
+d. Just a guess
+9. Were you wearing eye glasses when you saw the object? (Circle One):
+or
+No
+10. How was the object seen?
+(Circle One):
+Through window glass
+Through windshield
+Through binoculars
+Through telescope
+Through theodolite
+Through sunglasses
+Through open space
+Other
+11. what do you remamber about the weather conditions at the time you saw the
+object?
+11.1 CLOUDS (Circle One)
+11.3 WEATHER (Circle One)
+Clear sky
+Hazy
+C•
+Scattered clouds
+d. Thick or heavy clouds
+e. Don't remember
+C•
+DrY
+Fog, Mist, or light rain
+Moderate or heavy rain
+Snow
+Don't remember
+11.2 WIND (Circle One)
+11.4 TEMPERATURE (Circle One)
+C •
+Ho wind
+Slight breeze
+Strong wind
+Don't remember
+d.
+e •
+Cold
+Cool
+Warm
+Ho t
+Don't remember
+SECTION C
+12. Estinate how long you saw the object?
+Hours
+ONE
+Minutes
+Seconds

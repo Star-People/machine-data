@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:19:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4123908, "source_ctime_ns": 1793377546342261508, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964229/0630.jpg", "source_mtime_ns": 1785696826000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964229/0630.jpg", "source_sha256": "0effe4ee91ba750fa88d1be4ea3dc1e31e5025d50b1b1d89534631e8104fd7a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 475, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE JEDLS 1K
+•U WEATHER AND WINDS ALOFT CONDITION
+AT TIME AND PLACE OF SIGHTING
+A CLEAR 15 PLUS NW22PLUS32
+E SURFACE
+6,%00 020 DEG 36 KT
+350 DEG 33 KT
+340 DEG
+41 K
+20, 82šŚ
+30,P1
+56,000
+80, 000
+C CLEAR
+340 DEG 43KT
+MISG DEG
+MISG
+KT
+MISG
+DEC
+SG
+FT
+MISG DEG NISG KT
+D CLEAR
+E CLEAR
+F CLEAR
+8 NONE
+S NONE
+10 NONE
+1000 0/ 2îš
+11 DUTY OPERATIONS OFFICER OLMSTED FLIGHT SERVICE CENTER INFORMATION
+CALLED N BY BOSTON ARTC NO COMMENTS THIS OFFICER
+12 NONE
+21/:2412 NOV RJEDLS

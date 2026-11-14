@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:38:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4106638, "source_ctime_ns": 1793386355847146037, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995841/1021.jpg", "source_mtime_ns": 1785747822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995841/1021.jpg", "source_sha256": "f1505679444459949b8a022f0ab15004bf6368b36900469a035769cbe276f1fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 665, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 42208 (21 Dec 61)
+page 2of 3
+PAGE TWO RJAPAP 108
+B.1. FLASH OF LIGHT TO RIGHT OF CO-PILOT.
+2. ACHEADING 287 DEGPEES. OBJECT APPEARED 120 DEGREES RELATIVE
+ACFT APP 15 DEGREES ABOVE HORIZON.
+3. OBJECT DIMINISHED AT A RELATIVE BEARING OF 360 DEGREES AT OR
+BELOW THE HORIZON.
+4. FLICHT PATH WAS APPX 258 MAG WITH A VERY FLAT TRAJECTORY
+5. OBJECT SEEMED TO DISENTIGRJSE
+6. 7-8 SECONDS
+C.(41. AIR VISUAL
+2. NONE
+3. C-124A MATS 5519106/8900FT/287DEGREES MAGNETIC/200K/HICKAM
+AFB HAWAII
+D. 1. 21/97452
+2. NICHT
+E.21-50N
+162-40E OF OBJECT
+F. 1. NONE
+2. D
+CAPTA IN
+PILOT
+1ST LT
+NAVIGATOR

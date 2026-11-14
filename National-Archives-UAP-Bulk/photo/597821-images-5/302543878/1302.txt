@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:15:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 957254, "source_ctime_ns": 1793389781786109451, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543878/1302.jp2", "source_mtime_ns": 1785808044000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543878/1302.jp2", "source_sha256": "5fea24d7bc5d166541bbd873b1b245b9e98969f82f8402f34de74709b7f116f3"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 781, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+817th COMBAT SUPPORT GROUP (SAC)
+UNITED STATES AIR FORCE
+Pease Air Force Base, New Hampshire 03803
+IT TN OF :
+BDC
+susacr: Initial Report of Unidentified Flying Object (UFO)
+1 5 SEP 1965
+TO: AFCS (FTD)
+The following report of an unidentified flying object is hereby
+submitted in accordance with AFR 200-2.
+a. Description of object.
+(1) Round.
+(2) Baseball.
+(3) Bright red.
+(4) Five red lights in a row.
+(5)
+Lights were close together and moved as one object.
+(6) None
+(7) None
+(8) None
+(9) Extremely bright red.
+b. Description of course of object.
+(1) Visual sighting.
+(2) Object was at an altitude of approximately 100 ft and
+moved in an arc of 135 degrees.
+(3) Object disappeared at an altitude of approximately 100 ft
+on a mag. heading of approximately 160 degrees.

@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:08:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7950949, "source_ctime_ns": 1793364595141920132, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0087.jpg", "source_mtime_ns": 1785685197000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0087.jpg", "source_sha256": "5aeef8b808b08ddba37e68be62e063d97c1a1415444e076440ea42437689bd6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1594, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SMAMA-Feb 495M
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+UNCLASSIFIED
+18D 24-42
+THE INSPECTOR GENERAL USAF
+18th DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+USAF SPECIALIZED DEPOT, BOX 310, MAYWOOD, CALIF.
+31 January 1950
+SUBJECT:
+Flying Saucers From Venus Come to Earth
+SPECIAL INQUIRY - UNCONVENTIONAL AIRCRAFT
+TO:
+Director of Special Investigations
+Headquarters USAF
+Washington 25, D. C.
+1. Attached are letters from Mr. MELVIN B. LONG, JR., Linden,
+Missouri, and Mr. FRANK B. CURRY, Independence, Missouri, which pertain
+to the above matter.
+2. These letters were forwarded to this District Office from
+the United States Department of Agriculture, Bureau of Agricultural
+and Industrial Chemistry, 263 South Chester Avenue, Pasadena, California.
+These letters were accompanied with a letter of transmittal, a copy of
+which is attached. This office has acknowledged receipt of these letters
+and a copy of our acknowledgement is being inclosed.
+The letters are
+being forwarded your Headquarters for appropriate handling.
+UpoF
+5 Incls:
+1-Ltr fr Dept of Agr. dtd Jan 20, 1950
+2-Ltr fr Mr. Long, dtd Jan 10, 1950
+3-Ltr fr Mr. Curry, dtd Jan 13, 1950
+4-Itr to Mr. Long, dtd 31 Jan 50
+5-Ltr to Mr. Curry, dtd 31 Jan 50
+cc:
+DO #1
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIREC
+BY
+Historian
+KURT-K. KUNZE, Capt, USAF
+DATE
+KEEFE O'KEEFE
+It Colonel, USAF
+District Commander
+5 DEC 1975
+UNCLASSIFIED
+CY DIA
+K4-V8
+UNITED STATES AIR FOR
+THE INSPECTOR GENER
+2/34 PM 250
+OFFICE OF
+PECIAL INVESTIGAMONS
+4342
+NOLDI
+CE DIVISION, OST 396
+Declassification Authority: NND 923007

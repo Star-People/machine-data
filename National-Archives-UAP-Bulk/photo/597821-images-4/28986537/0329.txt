@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:47:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8811728, "source_ctime_ns": 1793383250388041383, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986537/0329.jpg", "source_mtime_ns": 1785748131000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986537/0329.jpg", "source_sha256": "d0e15cd8e476250800022d97c8a35866d927c9f825dea260e1ef1cf4d7a23776"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 512, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ORIGINATING AGENCY
+Intelligence Division
+401st TPi, England 423, la.
+(SECURITY INFORMATION when Alled in)
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+IR-2-50
+PAGE
+OF
+LANE SO0AFPA9S
+The paint scrappings (contained under separate covers) were taken fron
+the ground (deference Point / 2, Incicsure 1) at the impact area, coordinates
+31 08100i 92955124, where an unidentiried flying objest was reported
+to have touched the ground at approxinately 0300 Zulu, 13 april 1960.
+REPARING OFFIOTAL:
+ROBERT P. PLE PTON
+AF 17148303

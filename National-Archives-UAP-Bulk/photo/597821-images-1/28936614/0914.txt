@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:18:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3836170, "source_ctime_ns": 1793371096521346501, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936614/0914.jpg", "source_mtime_ns": 1785688540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936614/0914.jpg", "source_sha256": "2bc4723143c0f13b0a036a01d97d3cfa78a5f1ec2727b1444ce3cddcce8993ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 620, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+the Knolle Weather Station.
+There were no instrunents attached to the baloons released by
+AT CHATTANOOGA, TENN
+On 21 September 1949 a oheck of the Winds Aloft Reports of the
+Heather Records Processing Center, Pederal Building, Chattanooga, Tennesses,
+revealed the followings
+AT ROANOKE VA, 1 Sep 49 (Baloon)
+Altitude (feet) 0400 hrs:
+Direction
+2000
+4000
+WNW
+6000
+8000
+10000
+Knots Per Hr
+20
+30
+39
+40
+36
+1000 hrs
+2000
+4000
+6000
+8000
+10000
+18000
+1600 hrs
+2000
+4000
+6000
+8000
+10000
+18000
+2200 hrs
+2000
+4000
+6000
+8000
+10000
+18000
+....
+0400 hrs
+2000 feet
+4000 foot
+6000
+8000
+10000
+1000 hrs
+No Rooord
+UNCLASSIFIET

@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:09:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8420069, "source_ctime_ns": 1793384597286199925, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990655/0385.jpg", "source_mtime_ns": 1785747959000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990655/0385.jpg", "source_sha256": "a1e971d0cbee21724344fd43d503ea924d85725b47207d826f6205d6425861a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 966, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MILITARY
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+19 Dec 60
+3. DATE-TIME GROUP
+Local
+GM T.
+19/09212
+5. PHOTOS
+D Yo
+• No
+7. LENGTH OF OBSERVATION
+SE Guam
+4. TYPE OF OBSERVATION
+6 x
+• Ground-Visual
+1 Air Visual
+16. SOURCE
+• Ground-Rodar
+• Air-Intercept Radar
+Military
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+•
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aireroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other_
+Satellite
+•
+Insufficiont Data for Evaluation
+Unknown
+19 min
+one
+SE
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+Object of magnitude about lst mag star picked
+Characteristics of satellite present,
+up at 15° eler,
+335°. Disappeared after straight although not confirmed. Request for
+flight path at 5'
+elev on 130° heading. Sight-
+additional information sent out but no
+ing from ship and believed to be satellite at
+answer received.
+time of observation.
+ATIC FORM 329 (REV 26 SEP 52)

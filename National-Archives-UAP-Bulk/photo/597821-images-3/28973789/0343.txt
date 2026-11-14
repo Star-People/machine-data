@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:27:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8437957, "source_ctime_ns": 1793379890196039980, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973789/0343.jpg", "source_mtime_ns": 1785700713000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973789/0343.jpg", "source_sha256": "407f5d544e971f4cead508edd15764b44c7c8f829ab2e9e89a6e0ab704c7039b"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 607, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(<)
+(3]
+(4)
+(HO NONE
+(I) QUIVERING LIGHTS
+(A) FRIGHT LIGHT
+(EXQVERHEAD
+(COVER HEAD
+OY
+STATIONARY
+(E) LIGHTS QUIVERED AND WENT OUT
+ONE MINUTE.
+(A) GROUND VISUAL
+Mit meleo
+(E) NONE.
+Displane (time duratn)
+(C) NA.
+IN 11352, 1 HOVER S10127-4=1725 (Puk)
+ator
+PASE FIVE RAWDKW 1
+(ED DUSK
+(S) 33 DEGREES 52 MINUTES NORTH 118 DEGREES €9 MINUTES WEST.
+(0)
+(A) MR
+. LAKEWOOD, CALIF
+(7)
+(E) N/A
+(A) VISIBILITY
+MILES CEILING UNLIMITED
+(B) WEATHER
+WINDS
+20X 350/35;
+FROM
+WEATHER
+STATION AT
+LONG BEACH
+SURFACE
+STAT
+SEVE
+343/23; 10% 330/30; 157 333/35; 21
+5ZN 322/55.
+(C) CLEAR
+(D) 15 MILES
+(E) NONE.
+(FO NONE
+(8) NONE.
+N

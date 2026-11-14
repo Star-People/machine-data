@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:40:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5518172, "source_ctime_ns": 1793371308355436435, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937615/0417.jpg", "source_mtime_ns": 1785688537000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937615/0417.jpg", "source_sha256": "79b7cfc9fe472adf639e43fb94907121f3b8103f22021e8c93070ee8a4f29333"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 485, "method": "ocr", "page": 1, "variant": "plain-vision"}
+APIC NO
+AP HO.
+REPORT HO.
+DATE OF REPORT
+21 Mar 50
+THE OF SICHVING
+1500
+SHAPE
+SIZE
+COURST
+NO. IN GROJP
+Varied estimates
+N and NE
+PHOTOS
+Temporary ATIC Form 329
+(2 Jan 52)
+SKETCHES
+YS RECORD
+17/2250 7r
+DATH OF INTO
+LOCATION
+17 March 1950
+Kirtland AFE,ại
+USAF Personnel
+SOURCE_
+DATE IN TO ATIC
+COLOR_
+SPEED
+Silver and dark
+Rotimte
+Measure
+Tstinat
+ALTITUDE 10,0001-12,000 M Saured
+LENTH OF TIME OBSERVED
+TYPE OF OBSERVATION
+Ground
+MANEUVERS
+Tumbling motion ascending and
+descending.
+BHuN

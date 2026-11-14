@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:08:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7448308, "source_ctime_ns": 1793383223563140327, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986537/0288.jpg", "source_mtime_ns": 1785748128000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986537/0288.jpg", "source_sha256": "3591acb7a5cb41cf805ea913f60fb9214859fa15788ee22026191602ad511e2c"}
+
+===== PAGE 1 =====
+{"alpha_words": 214, "chars": 1374, "method": "ocr", "page": 1, "variant": "plain-vision"}
+& CO. Inc.
+YORK 6. N. Y.
+R. # 12424
+P. # 4004
+Page 2
+Examinabion ano Regults:
+The submitted samples (with the exception of
+the tree leaves and bark) were subjected to x-ray
+spectrographic study.
+The raterial, much of which adhered to the
+inside of the container envelopes, was brushed out on
+to small plastic holders which were then inserted in
+the x-ray spectrograph.
+Strip charts were taken
+covering the range 71 to 10 degrees 2 Theta. 4 tungsten
+x-ray tube was employed at 40KV, 35 M.
+The strip
+charts were recorded at varying
+scale factors, depending
+on the quantity of sample available. A blank of the
+plastic holder was also run. The results obtained are
+as follows:
+Sample A (0-1) :
+The only major element indicated was iron,
+with a very small trace of chromium.
+Sample #2 (0-2):
+There appeared to be less than 2 me.
+Iron
+indicated
+as the major element; no other elements were
+detected.
+Sample #3 (G-3):
+Major amounts of iron, major amounts of zinc
+and a minor amount of chromium were indicated.
+Sample A:
+The dark colored material which appeared to
+be rubbed or smeared on the surface of the ground
+indicated a minor to low major amount of iron and a
+rajor arount of zine. No chromium was indicated.
+Conclusions:
+It must be concluded from these studies that
+the dark macerial rubbed into the surface of the ground
+apparently did not come fron any source coated fron

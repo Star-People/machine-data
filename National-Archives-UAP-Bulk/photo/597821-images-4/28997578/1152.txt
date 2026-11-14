@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:20:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4762055, "source_ctime_ns": 1793386847502478012, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997578/1152.jpg", "source_mtime_ns": 1785748363000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997578/1152.jpg", "source_sha256": "8c7a1d1fe5300932ba5e0af12b6d8709003b20a67f90e12c1ec9f3ede6f3d0bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1184, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2 June 1962
+3. DATE-TIME CROUP
+Local __
+GM T.
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Southwest Canada
+5543 N - 12008 W
+4. TYPE OF OBSERVATION
+• Ground-Visual
+01 Air Visual
+6. SOURCE
+• Ground-Radar
+0 Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloor
+Possibly Balloor
+Was Aircraft
+Probably Aircraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomica
+Possibly Astronomica
+Other
+Insufficient Data for Evalua
+Unk no wn
+• Yes
+I No
+7. LENGTH OF OBSERVATION
+4 Min.
+10. BRIEF SUMMARY OF SIGHTING
+in object resembling a weather ablloon and
+reported to be the size of a basketball at
+arms length was reported by one witnese in
+Sy Canadan
+The object was reportedly moving
+s and was observed for 4 min.
+Then withess
+stopped watching. Object was observed
+through 10x50 binoculars.
+11. COMMENTS
+Witness was using binoculars to serve
+this object and this is probably cause
+for estimate of objects size as that
+of basketball at arms length. Four min.
+is hardly long enough to watch a slow
+moving object and determine accurately
+its direction of motion. Is probably
+balloon. One witness case.
+ATIC FORM 329 (REV 26 SEP 52)

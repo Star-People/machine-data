@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:35:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1731664, "source_ctime_ns": 1793389052250417957, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535850/01144.jp2", "source_mtime_ns": 1785808325000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535850/01144.jp2", "source_sha256": "7a571d6588d7cfab3e418944a9e05bc7c0a7021ae4cd2987dd5b6627a7b988da"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 573, "method": "ocr", "page": 1, "variant": "plain-vision"}
+460 000
+FEET
+47°45'
+92°15'
+2 210000 FEET
+Mapped, edited, and published by the Geological Survey
+Control by USGS and USC&GS
+Topography from aerial photographs by Keish piotter
+Aeriai photographs taken 1954.
+Field check 1956
+Polyconic projection.
+1927 North American datum
+10,000-foot grid based on Minnesota coordinate system, north zone
+1000-meter Universal Transverse Mercator grid ticks,
+zone 15, shown in blue
+Unchecked elevations are shown in brown
+RUF NORTH
+APPROXIMATE MEAN
+DECLINATION, 1956
+cO
+THIS MAP COMPLIE
+FOR SALE BY U.S. GEOLOGICAL S
+A FOLDER DESCRIBING TOPO

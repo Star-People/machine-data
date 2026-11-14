@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:22:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6244375, "source_ctime_ns": 1793382688090202838, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28985044/0369.jpg", "source_mtime_ns": 1785700930000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28985044/0369.jpg", "source_sha256": "34c58d8ca619fa8acbb107873768537d7345168308464a8ba4a44b6f70762944"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 905, "method": "ocr", "page": 1, "variant": "plain-vision"}
+In view of Mr.
+• affidavit attached to Mr.
+letter we wished to obtain more information on the circumstances
+surrounding the Poquoson, Virginia sighting, thus the delay in
+answering you. We have since learned that the sighting was not
+reported to Langley Air Force Base by the participants involved
+in the sighting but individuals at the Base had knowledge of the
+sighting through telephone calls from Mr.
+These calls were
+in the nature of inquiries as to what action the Air Force was taking
+rather than for the purpose of reporting the sighting. Mr.
+initial calls were made four days after the alleged UFO was sighted
+As a matter of information, the Air Force did not call Mr..
+According to the information we have, he instigated telephone calls
+to both individuals mentioned in his affidavit.
+I sincerely hope this information will clarify to your satisfaction
+the circumstances surrounding this case."

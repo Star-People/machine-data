@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:20:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4557961, "source_ctime_ns": 1793372961104442445, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28944935/0200.jpg", "source_mtime_ns": 1785688943000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28944935/0200.jpg", "source_sha256": "035f42766d86755e024685d310f7083a792e13edf9b52d7c08798f12d5c69d40"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 775, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE OF OBSERVATION
+2) Qul52
+WINDS ALOYT:
+ALTITUDE
+VELOCITY
+(fost)
+(knote).
+10
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+9,000
+10,000
+12,000
+14,000
+16,000
+18,000
+20,000
+5. WAS AN INVERSION LAYER NOTED?
+(If yes, at what altitude?
+6. WERE ANY THUNDERSTORMS NOTED IN AREA?
+(If yes, at what quadrant?
+7. CLOUD COVER:
+tenths at
+tenths at
+feet.
+feet.
+9. COMMENTS:
+ROJECT 10073 WEATHER DATA SK
+TIME OF OBSERVATION
+3. STATION OBSERVING
+1830 PST
+sosang cles WD
+DIRECTION
+-ALTITUDE
+VELOCITY
+(degrees)
+(feot)
+(knots)
+22°
+25,000
+30,000
+35,000
+40,000
+45,000
+50,000
+55,000
+60,000
+65,000
+70,000
+75,000ł
+80,000
+85,000
+90,000
+95,000
+100,000
+• Yes
+• Yes
+DIRECTION
+(dogrees)
+200
+tenths
+at
+tenths at
+feet.
+feet.
+LETTO
+ErNO
+8. VISIBILITY WAS
+5-15
+. MILES.
+AFIC Tent Form 333 (13 Aug 52)

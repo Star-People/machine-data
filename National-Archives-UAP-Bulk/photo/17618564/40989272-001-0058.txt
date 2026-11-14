@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:14:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 701444, "source_ctime_ns": 1793355795641455668, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0058.jpg", "source_mtime_ns": 1785564528000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0058.jpg", "source_sha256": "671060c1b7b3711b29309ac458572d4a120ecba431713370c45658abb12634e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 852, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFPC/DPCH
+AF Combat Ops Staff/CC
+AF Cost Analysis Agency/CC
+AF Flight Standards Agency/CC
+AF Frequency Mgmt Agency/CC
+AF Inspection Agency/CC
+AFLSA/CC, Bolling
+AF Mgmt Engineering Agency/CC
+AF Doctrine Center/CC
+AF Medical Support Agency/CC
+AF Logistics Mgmt Agency/CC
+AFMPC/CC
+AF Services Agency/CC
+AF News Agency/CC
+AF Real Estate Agency/DR
+AF Review Bds Agency/DR
+AF Safety Agency/CC
+AF Security Police Agency/CC
+AF Studies and Analyses
+Air Weather Service/CC
+Single Copies to Multiple Addresses
+Air Force Libraries
+ALS Program Managers
+Air Force NCO Schools
+Other Libraries and Museums
+Scholars
+DOD/Federal
+Publishers and Reviewers
+Miscellaneous
+PDC
+O/
+O/
+O/
+5
+5
+5
+O/
+O/
+0/
+0/
+O/
+O/
+5
+5
+5
+5
+5
+5
+64/ 0
+127/
+14/
+13/
+16/
+0/ 22
+0/ 22
+0/ 24
+239/243
+Separate Agency Total 177/1415
+Multiple Address Total 234/ 65
+PDC
+239/ 246
+Total Distribution
+1200/2000

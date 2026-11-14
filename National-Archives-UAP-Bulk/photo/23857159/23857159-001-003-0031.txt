@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:13:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19742638, "source_ctime_ns": 1793360714325128021, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0031.tif", "source_mtime_ns": 1785565115000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0031.tif", "source_sha256": "b7a2228bdb332dc7815bedff687ba241365f3e1472c3c4baf18a867ff360f33c"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 508, "method": "ocr", "page": 1, "variant": "plain-vision"}
+110:323
+HEADSCARTERS, IVEDFIE AIR FORCE
+United States Air Force
+OFFICE OF
+THE ASSISTANT CHIEF OF STAFF,
+INTELLIGENCE
+TECHNICAL CHANNEL COMIUNICATION
+APO 12,
+USAF
+12ITD
+SUBJECT:
+Submission of Report
+TO :
+Director of Intelligence
+Headquarters, USAF
+Washington 25, D.0.
+Inclosed report is submitted in accordance with AFR 200-2,
+I2 August 1954.
+FOR THE ASSISTANT CHIEF OF STAFF, INTELLIGEICE
+1 Incl
+Air Intel
+Info Rept
+gang C sin
+C. SIMMONS
+USAF
++ Executive
+Tp: Ramstein 7468
+DECLASSIFIED
+Authority NND 9237007

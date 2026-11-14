@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:32:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 682703, "source_ctime_ns": 1793392739613078278, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570163/0433.jp2", "source_mtime_ns": 1785808136000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570163/0433.jp2", "source_sha256": "8d2484aa86bb83e42c3a3a96907a8fd3d5112bbe50e14f57abf5d220b69f94e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 738, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3 8č167
+Miss Turnure/SAF-OIC/76526/Oct 11, 1967
+ОCT 1 2 3967
+Dear Mr.
+Reference your recent letter regarding your sighting
+of an unidentified flying object (UFO), it is impossible
+to tell precisely what you saw unless we have more infor-
+mation.
+If you will complete the attached questionnaire and
+send it in the postage free envelope, inclosed for your
+convenience, to the address given on the envelope, it is
+quite possible that we will be able to tell you what you
+observed.
+Sincerely,
+DAVID 1. STILES
+Major, USAT
+Acting Chief, Civil Branch
+Community Relations Division
+Office of Information
+2 Attachments
+Queens, New York 11237
+/Coord Cy - SAP-OIC
+Comeback Cy - SAF-OIC
+Activity Cy - SAF-OIC
+Reader Cy - SAF-OIC
+Stayback
+SAF-OIC
+sali

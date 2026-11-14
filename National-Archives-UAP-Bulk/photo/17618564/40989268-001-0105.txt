@@ -1,0 +1,84 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:50:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17314055, "source_ctime_ns": 1793355666539676548, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0105.jpg", "source_mtime_ns": 1785564499000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0105.jpg", "source_sha256": "e935516b49e68d87be540fbfbcdadc9e8e4a9a0fd802a02e22820b13c2fdf29e"}
+
+===== PAGE 1 =====
+{"alpha_words": 1001, "chars": 6089, "method": "ocr", "page": 1, "variant": "plain-vision"}
+196
+Between 50,000 feet and 60,000 feet the streamlined balloon bursts and falls away
+and the inner spherical balloon, its free lift having been increased by an amount
+equal to the weight of the outer streamlined balloon which has fallen away, will now
+continue to accelerate until a rate of as high as 2,000 feet per minute is attained at
+100,000 feet. The overall ascent rate for such a combination balloon would be more
+than 1,700 feet per minute.
+It was, therefore, necessary to design two components (a) an inner balloon
+capable of reaching an altitude of 100,000 feet by day or night when flown with the
+necessary lift for the whole assembly and (b) an outer streamlined balloon capable
+of fast rate of ascent to 60,000 feet. It is important that this balloon does not sub-
+stantially exceed this altitude for it is rapidly decelerating at this point and must be
+jettisoned so that the inner spherical balloon can begin to accelerate.
+In order to produce the necessary lift for the type of assembly described, it
+was determined that a total lift of 9,500 grams would have to be employed. This is
+somewhat greater than twice the lift required for an ML-564 balloon to reach
+120,000 feet when flown with a total lift of 4,600 grams. Hence, this 120,000-foot
+balloon when flown with the greater lift should be capable of reaching an altitude
+of at least 105,000 feet, which would be satisfactory. The inner balloon is
+essentially, therefore, an ML-564 although the weight was slightly increased to
+provide a somewhat thicker film and a more rugged balloon.
+The outer balloon is a modified ML-541 balloon. This balloon is normally
+flown with a total lift of 5,950 grams and under these conditions will reach an
+altitude of 75,000 feet or better. If flown with a total lift of 9,500 grams this balloon
+would reach an altitude of about 65,000 feet, which is higher than is desirable. The
+length of this balloon was, therefore, reduced and the compound was modified to
+yield a slightly lower breaking elongation. By these means the bursting altitude of
+the outer balloon was reduced to between 50,000 feet and 60,000 feet. Because of
+the lower temperatures of the outer balloon at night the bursting elevation is re-
+duced to about 40,000 feet, and this results in somewhat lower over-all ascent rates.
+In addition, nighttime rates of ascent are generally lower than daytime rates of
+ascent for the same volume of gas for all balloons. This is due to the fact that solar
+radiation increases the free lift of a balloon in the daytime by raising the tempera-
+ture of the gas in the balloon above the ambient temperature. The temperature of
+the gas in the balloon can be as much as 40°C warmer than the air outside the
+balloon from 50,000 feet to the bursting altitude. At night, on the other hand, the
+gas temperature is 5°C to 10°C cooler than the air temperature. The balloon at
+night, therefore, displaces a correspondingly smaller volume of air and has a lower
+free lift than does the balloon during the daytime.
+197
+In order to test the feasibility of breaking the outer balloon without damaging
+the inner balloon a comprehensive series of tests was conducted with small balloons
+in the factory. Assemblies consisting of three balloons of different sizes were
+then flown, the largest balloon being on the inside and the smallest balloon being
+on the outside. It was clearly demonstrated that the outer balloon breaks first, then
+the intermediate balloon ruptures and the inner balloon continues until it reaches
+the normal altitude for a balloon of that size flown with the amount of gas used. The
+slow ascent rate of this type of assembly during the early part of the flight un-
+questionably indicated that a streamlined outer assembly was necessary if over-all
+ascent rates of 1,700 feet per minute were to be achieved.
+The final assembly is shown diagrammatically in Figure 7. In order to provide
+for easier inflation the tail is attached on a circle which is parallel to the circum-
+ference which passes through the neck of the head balloon. The dotted line indicates
+the high-altitude spherical balloon folded inside the streamlined balloon.
+In attempts to ensure that the streamlined balloon with the tail falls away at
+break and does not hang below the radiosonde and constitute a drag, two types of
+release device were investigated. In the one case a small spherical balloon,
+weighing about 5 grams, was attached in the train-line between the tail and the
+radiosonde. This balloon was inflated with air to such a size that it would rupture
+at the same altitude as the head balloon. This would allow the tail and any of the
+head balloon still attached to it to fall away.
+In the second type, a system of hooks which is illustrated on the left was also
+tried out. As long as the tail is intact and is carrying the weight of the radiosonde,
+the hook and eye remain engaged. As soon as the outer balloon breaks and the load
+is transferred to the line attached to the inner balloon the hook and eye will dis-
+engage allowing the tail section to fall clear.
+A series of flights was conducted using both types of separation unit and
+comparing them with assemblies which contained no such device. There was
+apparently nothing to be gained by the use of either of these attachments. It can,
+therefore, be assumed that the streamlined balloon is shattering into a number of
+small pieces and that very little remains attached to the inner balloon during the
+remainder of the flight.
+In order to eliminate the possibility of the two train-lines becoming entangled
+and preventing separation of the twoballoons, the long slack string to the radiosonde
+was replaced by a shorter line which was attached to the other train-line just
+below the neck of the tail balloon.
+The present model is illustrated in Figure 8 with the rigging in place. The in-
+strument train is attached to the tail, using at least 75 feet of cord. The line running
+from the neck of the inner balloon to the tail is of sufficient length to ensure that it
+will not be in tight contact with the outer balloon at 60,000 feet.

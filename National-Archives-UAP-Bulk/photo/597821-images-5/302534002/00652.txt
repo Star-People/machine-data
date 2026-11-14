@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:15:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1221190, "source_ctime_ns": 1793388886749496380, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534002/00652.jp2", "source_mtime_ns": 1785808052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534002/00652.jp2", "source_sha256": "57eb8d342a55202a4a78a6ff706d12c275b2f79183ea53b807ec3805fe86dc3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 702, "method": "ocr", "page": 1, "variant": "plain-vision"}
+On 8 Jul 64 ISgt David Moody received a call from Lt Scott,
+Base PIO,
+Ellavorth AFB, Rapid City, South Dakota. Two reports of a UFO's
+were called in to the local TV station.
+One
+by a tourist the
+other by a local resident.
+Names of the two witnesses were not given.
+The sighting occurred at 0520 local time. Object described as
+looking like a rocket with a green tail by the tourist.
+The resident
+said that the object cane from the SouthEast and had a bluish glow.
+This is all the information that was obtalned. Since the names of
+the witnesses were not given a further check was not made.
+It Scott
+was informed that no report would be necessary since all information
+had been given over the telephone.

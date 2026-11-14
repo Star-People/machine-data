@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:00:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 649933, "source_ctime_ns": 1793356372950818311, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0040.jpg", "source_mtime_ns": 1785564689000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0040.jpg", "source_sha256": "c7de0d112594ecfda9f19b796c664e114da9aed4362f72842b901b1e7c9cd32a"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 94, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Fig. 17
+
+Stendara Microphone
+in ofen Field
+
+>
+v
+vu
+m
+2
+9
+x<
+>)
+
+Fig. 16
+
+Noise Reducing Array

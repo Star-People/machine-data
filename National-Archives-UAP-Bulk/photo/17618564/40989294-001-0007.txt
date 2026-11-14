@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:03:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1113632, "source_ctime_ns": 1793355959048601329, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0007.jpg", "source_mtime_ns": 1785564569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0007.jpg", "source_sha256": "848fe0c7a72871eb1cb6207fad98f486687c0e7b5a0428c38672eae7103cee34"}
+
+===== PAGE 1 =====
+{"alpha_words": 195, "chars": 1311, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CHAPTER I
+THE AEROMEDICAL FIELD LABORATORY
+ORGANIZATION, PERSONNEL, AND THE BIOSATELLITE MISSION
+By the middle of 1958 the Aeromedical Field Laboratory
+of the Air Force Missile Development Center, at Holloman Air
+Force Base, New Mexico, had won wide public and scientific
+attention with its research programs in biodynamics and space
+biology. Such achievements as the rocket-sled experiments
+of Col. (Dr.) John Paul Stapp, the series of animal and human
+balloon flights under the immediate direction of It. Col. (Dr.)
+David G. Simons, and the subgravity studies of Capt. (Dr.)
+Grover J. Schock and Dr. Harald J. von Beckh had established
+the Holloman laboratory as a small but essential contributor
+to the nation's progress in aerospace medicine. Since mid-
+1958, it has made fewer headlines, because the bulk of its
+work has been either less spectacular or else more sensitive
+from an information standpoint. But its total contribution
+certainly has not been less; indeed, the laboratory's work-
+load, staff, and technical facilities have noticeably
+expanded during the last two years, and they are still expan-
+ding.
+The Laboratory Mission
+The most important underlying change that has taken
+place concerns the Aeromedical Field Laboratory's assigned
+mission. Under the direction of Colonel Stapp, who served

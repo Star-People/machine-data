@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T21:33:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1395683, "source_ctime_ns": 1793393921959451894, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582186/0105.jp2", "source_mtime_ns": 1785808248000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582186/0105.jp2", "source_sha256": "fdf033159ad94868711ff0b1c7d335ffae19ecfc897f7d027112cc71091e422b"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 823, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FOULER
+NICAP MASSACHUSETTS INVESTICA
+(Box 19 Wenham 01984 - AC 617/463-4015)
+HONTHLY
+REPORT for
+Total Reports
+< 8
+JANUARY 2969
+2 )
+Unknown
+Category
+26
+%
+(6)
+Identified
+• Probable Identification (I & P)
+- %
+UFO SIGHTINGS PLOTTED BY LOCATION
+' New Hampshire
+169-3
+-69-7
+-59-2
+- 59-5
+369-7
+#69-5
+Connecticut
+X - UNKNOWN CATEGORY
+0 - IDENTIFIED/PROBABLE IDENTIFICATION
+UFO SIGHTING CONFIGURATION STATISTICS
+DESCRIPTION
+(I & P)
+UNKNOW
+CLOUD CIGAR
+CONE
+CRESCENT
+CYLINDER
+GLOBE
+GLOWING OBJECT
+LIGHT CLUSTER
+LIGHTED OBJECT
+LIGHT STRING
+LICHT SOURCE
+OVAL/NOT GLOBE
+RECTANGULAR
+RING/OPEN CENTER
+SATURN-SHAPED
+SAUCER-INVERTED-ON-SAUCER
+TRI ANGOLAR
+33%
+• 1.•
+UFO/SIGHTING TIME STATISTIC
+TIME
+(I & P)
+UNKNO
+DAY
+AM
+DAY
+NIGHT
+5
+13%
+6199
+2
+26,
+NIGHT
+AN
+UFO/WEATHER STATISTICS
+(I & P)
+STATUS
+CLEAR
+FEW CLOUD
+13.
+13
+2
+26.
+OVERCAST
+AIN/ SNOW
