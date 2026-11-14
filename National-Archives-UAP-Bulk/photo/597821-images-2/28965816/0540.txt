@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:20:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4270396, "source_ctime_ns": 1793377881299355852, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965816/0540.jpg", "source_mtime_ns": 1785696828000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965816/0540.jpg", "source_sha256": "433b626848e7c5605e62c47a6676a41f63803916b3c147cbc199f6215c723e40"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 965, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+6 June
+• DATE•TIME GROUF
+Local
+GM T.
+07/02552
+5. PHOTOS
+CAFE SERVATION YOrK
+XE Ground- Visual
+• Air- Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+7. LENGTH OF OBSERVATION
+Civian
+8. NUMBER OF OBJECTS
+2 mins each obsvation
+seven
+10. BRIEF SUMMARY OF SIGHTING
+Seven objects, round white, size of
+lime at arms length, seen seprrateif
+at regular intervals for two minutes
+Lights observed. The objects were
+very high.
+12. CONCLUSIONS
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+a
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+•, Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+unknown
+11. COMMENTS
+Scattered high clouds. Five B-47's
+in area on photo mission. This
+sighting was undoubtedly genera-
+ted by the aforementioned B-47's
+The scattered clouds would give
+the impression of more than five
+aircraft.
+ATIC FORM 329 (REV 26 SEP 52)

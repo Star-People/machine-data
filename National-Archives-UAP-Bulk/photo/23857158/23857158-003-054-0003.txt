@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:24:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5878618, "source_ctime_ns": 1793358552901664100, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-054-0003.tif", "source_mtime_ns": 1785681127000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-054-0003.tif", "source_sha256": "a54536efa690b7aa85ba7fe36160d478096828658db369bf0167f30b2d2eadb2"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 761, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE TWO RJWPRH 1F
+C. STILL IN SIGHT
+D. DRIFTING NO MANUEVERS
+E.
+UNKNOWN
+UNKNOWN
+B.
+A. GROUND VISUAL
+NONE
+NOT APPLICABLE
+4 .
+A10 /9050Z
+DAY
+5. LOCATION OF OBSERVER
+GILLESPIE FIELD SAN DIEGO CALIF
+32.44N 117.11W
+6 •
+IDENTIFYING INFORMATION OF OBSERVER
+AL MR.
+• MANAGER
+SAN DIEGO CALIF
+?. WEATHER AND WINDS ALOFT CONDITION AT TIME OF PLACE OF SIGHTING
+A. NOT XMITTED
+B. 6000FT DEG-200 KT10
+10200FT DEG210 KT15
+16000FT DEG190 KT20
+20000FT DEG 180 KT30
+PAGE THREE RJWPRH 1F
+3020ØFT DEG 200 KT30
+50220FT DEG 220 KT20
+80000FT DEG 250 KT 25
+C. 900FT OVERCAST TOPS 2000FT
+D. 5 MILES HAZE
+S. 10/10
+F. NONE
+8. NONE
+9 NONE
+12. NONE KNOWN
+11. OPERATIONS OFFICER MARCH FLT SVC CIR
+POSSIBLE CORONA EFFECT
+12% NONE
+BT
+10/0212Z JUN RJWPRH

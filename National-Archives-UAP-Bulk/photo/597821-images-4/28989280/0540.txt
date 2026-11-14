@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:19:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4145250, "source_ctime_ns": 1793384170919527631, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989280/0540.jpg", "source_mtime_ns": 1785748341000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989280/0540.jpg", "source_sha256": "88a59f88caef3632ec68c0b6d4e1025fe77cc1626b5a34b7c909a59a51a87088"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 453, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJWZGUL -1
+E. TRAVELING EAST BETWEEF WENDOVER,SUTAN AND SALT LAKE CITY, UTAH
+F• OBSERVER CIVILIAN
+AGE47 ADDRES
+LAKE CITY URAN PHONE
+OCCUPATION TRUCK DRIVEJ RELIABILITY
+UNKNOWN
+G. WEATHER:
+(1) CLEAR
+(2)WEATHER REPORT: 6000 310/16 10000 303/18 16007 300/19
+20000 302/39 30002 370/38 50000 320/43 80007 320/42
+(3) NONE
+(4) 31
+COCLEAR
+(6) NMNE
+(7) NA
+H. NONE KNOWN
+I. NONE
+J. NONESKNOWN
+K. CONTROLLER DIRECTOR
+L. NONE
+BZ
+24/15552
+207
+IFIED
+NNINN

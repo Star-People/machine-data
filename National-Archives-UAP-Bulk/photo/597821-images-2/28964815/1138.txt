@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:25:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6312598, "source_ctime_ns": 1793377661150902161, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964815/1138.jpg", "source_mtime_ns": 1785696468000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964815/1138.jpg", "source_sha256": "16633eab4a5746ac56f3d69dabd419a3bec3ecefba009e19a24f82027c0b536d"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 118, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FER S
+S 10SUAM
+79:55
+My John Sagar Wanne
+Unite a gentment of justice
+Deshe le duran of Investigation
+ailington 25, SC

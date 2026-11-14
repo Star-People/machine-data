@@ -1,0 +1,112 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:01:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7229352, "source_ctime_ns": 1793381262098135373, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979678/1248.jpg", "source_mtime_ns": 1785701114000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979678/1248.jpg", "source_sha256": "674d56263239efca9d608f80264a2d1a1937c1e4e545e8f66007a2332fe5b62d"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1570, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DA TE
+- Sep
+Sep
+- Sep-Oct
+1
+..
+DATE
+Sep
+11-13
+1 - 16 SEPTEMBER 1958 SIGHINGS
+LOCATION
+Washington, D.
+Wheelus AFB, Tripoli
+Dellas, Texas
+San Antonio, Texas
+Killeen, Jexas
+29.03N
+68.56W (Atlantic)
+Thermopolis, Wyoming
+Crosby, North Dakota
+Montana, S Dakota, IV Dakota
+OBSERVER
+Civilian
+Civilian
+Multi'
+Military
+Pan Am • (Vis & RADAR)
+Military
+Mil & Civ
+Military
+RADAR
+Kansas City, Missouri
+Ellsworth, South Dek ota
+Military
+Hastings, Michigan
+Larson AFB, Washington
+Sharpsville, Pennsylvania
+toledo, onic
+(PHOTOS)
+Kansas City, Missour
+Euclid, Ohio
+Lovells, Michigan
+Highland, California
+Cartwright, Labrador
+Hopa, Turkey
+Uruguay
+Collins, Missouri
+M1litary (PHOTOS/NR)
+Military
+CIOVI
+Military
+Baileys
+Bay, Bermuda
+Wheelus AFB, Libya
+Military
+RADAR
+Dallas, Texas
+Lakewood, Ohio
+St Joseph, Michigan
+Moody AFB, Georgia
+Multi
+San Diego, California
+Westbury, Long Island, New York
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+LOCATION
+SOURCE
+Universe
+Japan & Western States
+Science News Ltr
+Map
+EVALUATION
+Aircraft
+Other (MISSILE)
+Other (REFLECTION)
+UNIDENTIFIED
+Aircraft
+1. Balloon
+2. Astro. (METEOR)
+Insufficient Data
+Insufficient Data
+Astro (VEGA)
+Astro (MARS)
+1. Astro (STARS/PLANETS)
+2. Anomalous Propagation
+3. Balloon
+Aircraft
+Astro (ARCTURUS)
+Astro (STARS/PLANETS)
+Aircraft
+Astro (MARS)
+Aircraft
+Insufficient Data
+Aircraft
+Insufficient Data
+Astro (MARS)
+Astro (AURORA)
+Other (GROUND FIRE-GUN)
+Insufficient Data
+-Astro (METEOR)
+Satellite (SPUTNIK III)
+Other (WX)
+Other (UNRELIABLE REPORT)
+Astro CAPELLA)
+Insufficient Data
+Astro (SIRIUS)
+Air craft
+Astro (METEOR)
+EVALIA TION

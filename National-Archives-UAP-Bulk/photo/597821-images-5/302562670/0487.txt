@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:52:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1766300, "source_ctime_ns": 1793391937735451638, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562670/0487.jp2", "source_mtime_ns": 1785808701000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562670/0487.jp2", "source_sha256": "3812c5db8612d1c61d7b45e4b67c24b1f66d8c05c01b19748d804d916a79b8b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 778, "method": "ocr", "page": 1, "variant": "plain-vision"}
+27. In the following sketch, imagine that you ore ot the point shown. Place an "A" on the curved line to show how high the a
+wos above the horizon (skyline) when you first saw it. Place a "B" on the same curved line to show how high the object
+above the horizon (skyline) when you last saw it. Place an "A" on the compass when you first saw it. Place a "B" on the
+pass when you lost saw the object.
+90°
+PZEL
+0°
+28. Draw a picture that will show the motion that the object or objects made. Place an "A" ot the beginning of the path, a "
+she end of the path, and show any hungs in cachen during he cours. CL
+29. IF there was MORE THAN ONE object, then how many were there?
+Draw a picture of how they were arranged. and put an arrow to show the direction thar they were traveling.

@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:58:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6390705, "source_ctime_ns": 1793370615013680303, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934973/0818.jpg", "source_mtime_ns": 1785688890000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934973/0818.jpg", "source_sha256": "9a6a0338c4e81667c47b5257294a88bfe407921262537a407a5ddd42b09bb446"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 640, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONTROL NO.
+R
+. - 515
+Ltr
+BUBJECT:
+DECIMAL PILE NO.
+Unidentified Aerial CbJect
+COME... N-175
+FROM:
+Ath huy it Sau Horaxes
+TO:
+IA XS
+RECORDING
+AAT-1
+DESK
+/FOLLOW UP ON
+6/8/49
+DATED
+NO. INCLS.
+6/13/49
+1
+1300
+ROUTED TO
+'IAXS
+DATE
+RECORDED
+SUSPENSE DATE
+NIR
+HOUR
+STABLISHED BY INITIALS
+DATE
+OTHER DISPOSITION:
+TRANSMITTAL
+IMC FORM NO. 10.2
+SEE OTHER SIDE
+PON ACMANKS
+CONTROL NO.iẠUBJECT, LUI
+2 - 518
+Jnidentified
+Coni..
+FROM:
+TO:
+RECORDING
+DESK
+JAAS
+ROUTED TO
+TAXS
+DECIMAL FILE NO.
+Aerial Phenozena
+FOLLOW UP ON
+DATE
+RECORDED
+SUSPENSE DATE
+DATED
+NO. INCLS
+1
+0/13/49
+1300
+HOUR
+ESTABLISHED BY
+NIz
+DATE
+DATE OF REPLY
+OTHER DISPOSITION:
+RANEMITTAL

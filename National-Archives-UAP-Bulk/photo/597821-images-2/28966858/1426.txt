@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:23:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4959808, "source_ctime_ns": 1793378118494541298, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966858/1426.jpg", "source_mtime_ns": 1785696912000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966858/1426.jpg", "source_sha256": "98fc12328d759f3cc641474ac71dd3093ceeb7b549c77e661d86f02b866879a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 636, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+12.
+1956
+3. DATE-TIME GROUP
+Local
+GM T_
+13/08302
+5.
+PHOTOS
+• Yes
+•: No
+7. LENGTH OF OBSERVATION
+DED
+4.
+TYPE OF OBSERVATION
+I Ground-Visual
+• Air-Visual
+6. SOURCE
+8. NUMBER OF OBJECTS
+ID. BRIEF SUMMARY OF SIGHTING
+Objec
+looked
+1ke
+gong
+with
+red lights
+white lights betw
+• Ground-Radar
+• Air-Intercept Radar
+9. COURSE
+CONCLUSIONS
+Was Batloon
+: Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraf
+Possibly Aircraf
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficiont Data for Evaluation
+Unknown
+11. COMMENTS
+WX balloon with
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:30:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8161645, "source_ctime_ns": 1793363617158911883, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0070.jpg", "source_mtime_ns": 1785684936000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0070.jpg", "source_sha256": "2cbd7a75db8dbaa906df4539f4bf470d6f95ff4f062f2b98c928cef9065cd142"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 701, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24-64
+DETAILS:
+AT AMITY, ARKANSAS
+1. The Writer viewed the object found on the farm of CLAUDE CHANCELLOR.
+The object is presently in the custody of P.H. BARBEE, Civilian Chief, Inspec-
+tion, Security and Surveillance Division, Red River Arsenal. It was noted
+that the weight as previously described, has as a part number, B0101020. A
+short piece of the cable was obtained for analysis.
+AT BARKSDALE AIR FORCE BASE, LOUISIANA
+2. W.H. CLEM, Aircraft Inspector, stated that part #BO101020, is a
+Sinker - B-29 Tanker, and that it is used in air refueling operations. The
+cable is part of the Cable Assembly, Tanker Control Line, M6-29668-8.
+REFERRED UPON COMPLETION
+Declassification Authority: NND 923007

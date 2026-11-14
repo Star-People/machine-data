@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:24:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5932982, "source_ctime_ns": 1793363181266863480, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0190.jpg", "source_mtime_ns": 1785684749000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0190.jpg", "source_sha256": "33a0a9bf2c6f42960557b4b898d6373561d539bb42fea986ade3ac99de81e44c"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 630, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5D-OSI (5D 24-21)
+Spot Intelligence Report
+Subj: Sighting of Unidentified Aerial Object at
+Vandalia, Ohio on 8 March 1950
+10 March 1950
+The control tower at Patterson Air Force Base was notified of
+the object at 0700 hours on 8 March 1950. The tower dispatched two
+F-80 aircraft to investigate, but they were unable to locate the object.
+Radar units alerted by Patterson tower were unable to locate the object
+3 •
+ACTION: No further investigation is contemplated in this case.
+JAMES F. X. O'CONNELL
+It Colonel, USAF
+District Commander
+24118512.
+INSPEC
+CONFIDI
+2
+5407
+ALMAR
+2 03 PM '50
+NOLD)
+Declassification Authority: NND 923007

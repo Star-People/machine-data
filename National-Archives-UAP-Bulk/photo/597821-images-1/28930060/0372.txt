@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:57:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5419102, "source_ctime_ns": 1793368950957050201, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930060/0372.jpg", "source_mtime_ns": 1785688522000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930060/0372.jpg", "source_sha256": "13eab4208f61d91dfe28c52b147b429b2ed7d9f2b4b811f49bf7af4736406cc0"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 267, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+Incident 197 - between Jodford, Uro., and it. Shasta, Calif.
+-- 30 De
+1947
+The flash or explosion referred to here agrees also in tine
+and location (no other details are given) wita taat of the fireball
+described in detail in the report on incident i54.

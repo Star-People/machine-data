@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:35:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15853476, "source_ctime_ns": 1793356423499240286, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0025.tif", "source_mtime_ns": 1785564702000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0025.tif", "source_sha256": "676506304881048a69ddbbb42cefc977bccc089e816dac35b96492357c092e47"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 146, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+hs wd A oe,
+4 Ltt Clava 4 O i& © iu Oe LR; jf wits
+sccbecatnioienttinaadieanatnee be ES Reiss 1S ane ne) <
+
+Declassification Authority: NND 57565

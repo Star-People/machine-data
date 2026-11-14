@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:03:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8134704, "source_ctime_ns": 1793379323056023129, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971954/00210.jpg", "source_mtime_ns": 1785700717000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971954/00210.jpg", "source_sha256": "fbdc3e6a222bb541ea27fba2243fc7e5d335ed0235b5429c2c928a67003fa064"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 874, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+5 October 1957
+3. DATE-TIME GROUP
+Local_
+1821
+GMT
+05/23217
+S. PHOTOS
+• Yes
+JCKNo
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dayton,
+Ohio
+4. TYPE OF OBSERVATION
+KGround Visual
+• Air Visual
+6. SOURCE
+• Ground-Roder
+• Air-Intercopt Rodar
+Civilian
+8. NUMBER OF OBJECTS
+l min 5 sec
+one
+10. BRIEF SUMMARY OF SIGHTING
+Blue glow, fuzzy outline,
+size of a
+basketball. Appearance of fluorescent
+light 200 ft long. Low on horizon.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloor
+Possibly Balloon
+Was Aircraft
+Probably Aircratt
+•
+Possibly Aircraf
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other ground lights
+Insufficient Date for Evaluation
+Unknown
+9. COURSE
+stationary
+11. COMMENTS
+Sources statements indicatea
+certain unreliability. Object
+on ground level - probably con-
+ventional ground light of some
+sort.
+ATIC PORM 329 (REV 26 SEP 52)

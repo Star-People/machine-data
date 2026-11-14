@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:03:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8237518, "source_ctime_ns": 1793379305763198225, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971901/00167.jpg", "source_mtime_ns": 1785700751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971901/00167.jpg", "source_sha256": "38d72f05f2837f4579c4f20ee143f2d5bd943d757d296bef5ce8edb7ac73346e"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 354, "method": "ocr", "page": 1, "variant": "plain-vision"}
+19 OP 1957 SAN AUTOTE
+Goe obsur - D. Bower
+ASTRO
+PAGE TWO RJWFHW 7B
+(D) TEN MILES (E) N/A (F) NONE ITEM EIGHT- (A) N/A ITEM NINE-
+N/A ITEM TEN- (A) N/A ITEM ELEVEN- (A) NOTHING
+UNUSUAL PICKED UP ON RADAR. BELIEVED TO BE EITHER
+AN AIRCRAFT
+OR A STAR. ITEM TWELVE- (A) N/A
+BT
+(A)
+21/200 9Z OCT RJWFHW
+45
+MINUTES
+Seght
+1. Smea
+lé
+3 -
+Sea
+4.
+45 MINS -
+ASTRO

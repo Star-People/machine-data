@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:23:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4902016, "source_ctime_ns": 1793379099168327068, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971006/0783.jpg", "source_mtime_ns": 1785700643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971006/0783.jpg", "source_sha256": "05d166fe3a00be7800960f46cc13e92e5f5f6821d1714f1698eb9b14401288b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 914, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+ust
+1957
+3. DATE-TIME GROUP
+Lacei
+GM T.
+5. PHOTOS
+03/14
+• Yes
+L No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+NO:
+thern California
+4. TYPE OF OBSERVATION
+Ch Ground-Visual
+C Air Visual
+& SOURCE
+• Ground-Radar
+• Air-inter
+coot Radar
+8. NUMBER OF OBJECTS
+oge
+10. BRIEF SUMMARY OF SIGHTING
+Obje
+picked up on radar and became
+Object observed contin-
+until
+a/c made a right
+turn,
+Obj
+rate
+contact
+ddenly made a turn
+to NN at high
+speed
+resulting in lose of
+58
+miles
+miles, Object was resishted
+losed
+a distance of
+lel with
+the a/c.
+lost
+distance of 15 miles,
+v13ua1
+| 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomica
+Other 2OS
+Insufficient Data for Evaluatior
+Urknown
+11. COMMENTS
+Possible explanation is anamo-
+lous propogation.
+ATIC FORM 329 (REV 25 SEP 52)

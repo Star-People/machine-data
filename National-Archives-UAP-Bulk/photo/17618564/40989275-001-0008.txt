@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:23:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5192054, "source_ctime_ns": 1793355823984169195, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989275-001-0008.jpg", "source_mtime_ns": 1785564534000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989275-001-0008.jpg", "source_sha256": "3f02e049a00c29489a2092cda41bb22d2fa5e18d9b3516021dd0fc1f930b8544"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 344, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FLYING-
+SAUCERS
+Twenty years of UFO
+eat mystery
+of our time Complete
+te roundup
+solenust
+s are pe
+dozens of UFO
+photographs including
+lor shots, Interviews
+with terrified witnesses who believe UFO's come
+from Outer Space What to do it YOU see a UFO.
+LOOK
+PECIAL BY THE EDITORS OF UNITED PRESS INTERNATIONAL AND COWLES COMMUNICATIONS, INC.
+1947

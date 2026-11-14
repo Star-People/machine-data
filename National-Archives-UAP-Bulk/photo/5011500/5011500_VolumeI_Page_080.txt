@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:45:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 514287, "source_ctime_ns": 1793365592019013475, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_080.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_080.jpg", "source_sha256": "5c10c88e0740ea292f93a628c8115255452153257988befad6b5317d3399a35d"}
+
+===== PAGE 1 =====
+{"alpha_words": 179, "chars": 1266, "method": "ocr", "page": 1, "variant": "plain-vision"}
+22:36:28
+22:36:29
+22:36:35
+22:36:37
+22:36:38
+22:36:41
+22:38:07
+22:38:12
+22:38:58
+22:39:02
+22:39:04
+22:39:10
+22:39:16
+22:39:22
+22:39:24
+22:42:07
+22:42:11
+22:42:12
+22:42:16
+cc
+P
+CC
+P
+CC
+C
+CC
+CC
+P
+CC
+P
+cC
+cC
+CC
+cC
+C
+CONFIDENTIAL
+79
+This is VII. Loud and clear.
+Roger. We have you GO on the ground. Your status?
+We're GO out here and waiting for an update.
+Okay. Ready to copy?
+All set.
+17-1: 25:17:00; 14 plus 20.
+18-4: 28:07:21;
+15 plus 15.
+19-4: 29:42:38; 14 plus 34.
+20-3: 30:57:47; 17 plus 02. 21-3: 32:34:02;
+15 plus 45. These are for a rolling reentry and
+the weather in all areas is good.
+This is Gemini VII. Roger. And thank you for
+the transmission; just the right speed.
+Roger. You're welcome. We'll be standing by.
+VII, Canary.
+This is VII. Go ahead.
+Did you notice any venting while you were purging
+the fuel cells, especially in the hydrogen?
+No, we couldn't tell of any and also we didn't
+notice any Delta-P light on the first section.
+No Delta-P on the first section while purging and
+you didn't get any sort of venting at all?
+Not to my knowledge.
+Okay. Copy.
+VII, Canary.
+Go ahead.
+Roger. We'd like to know if you got the right-aft
+food box unstowed.
+Roger. It's unstowed. We're in mission con-
+figuration and everything is in good shape.
+CONFIDENTIAL

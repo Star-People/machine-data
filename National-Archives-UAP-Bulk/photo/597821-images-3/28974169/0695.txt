@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:00:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6779590, "source_ctime_ns": 1793380001167558795, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974169/0695.jpg", "source_mtime_ns": 1785701053000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974169/0695.jpg", "source_sha256": "9cf099d3cd0b7d5b2904f262a07c4790d13648af6d1e3d6e0ddd6c79cd9739b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 821, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+7 November 1957
+3. DATE-TIME GROUP
+Local
+GM T.
+08/00027
+S. PHOTOS
+• Yes
+CYNo
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Anwood Long IsInd, New York u
+TYPE OF OBSERVATION
+:ArGround Visual
+• Air Vi suol
+• Ground-Rader
+• Air-Intercept Roder
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+2-3 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Round object, disc shaped, size of
+a quarter, appearance of a light bulb,
+trailing smoke. Object faded out.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloor
+Possibly Bolloon
+Was Aireroft
+© Postably Aircreft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+unknown
+11. COMMENTS
+The object was probably an a/c
+sighted through the smoke that
+was in the area.
+ATIC FORM 329 (RKV 26 SEP 52)

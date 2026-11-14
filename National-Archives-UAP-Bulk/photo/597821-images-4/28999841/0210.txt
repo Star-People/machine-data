@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:55:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4710558, "source_ctime_ns": 1793388055483120340, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999841/0210.jpg", "source_mtime_ns": 1785748061000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999841/0210.jpg", "source_sha256": "24f87d0a35a02a8500913aba8036247d41c2717ad09734d629575aa30adaea0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 346, "method": "ocr", "page": 1, "variant": "plain-vision"}
+VIVIVIV
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 32741 (23 Nov 62)
+GLOWING OBJECTS PASSING THROUGH CLOUD LAYERS AT
+OPPROXIMATLY 16,000 FEET FALLING TOWARD THE SEA, AT
+POSITION 20'21N 174' 30W AT 0843Z.
+NO EVALUATION.
+BT
+23/0954Z NOV RUHLKH
+NOTE: ADVANCE COPY DELIVERED TO OOP-CP, CIN, DIA.
+Pg 2 of 2

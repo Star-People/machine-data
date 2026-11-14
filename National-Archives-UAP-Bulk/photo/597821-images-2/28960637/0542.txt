@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:17:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3674163, "source_ctime_ns": 1793376426028329384, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960637/0542.jpg", "source_mtime_ns": 1785696500000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960637/0542.jpg", "source_sha256": "be4cc3ff44718e3503920d0769f88a620cc5c370961b959734bfb97d1410c5c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 959, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+7 December 1954
+3. DATE-TIME GROUP
+Local.
+07/11152
+GMT.
+5. PHOTOS
+Di No
+7. LENGTH OF OBSERVATION
+7 Minutes
+10. BRIEF SUMMARY OF SIGHTING
+Semi-circular with done top. Same diameter
+as wea balloon. White. No trail or sound.
+Source tracking met. balloon when reflected
+light from object attracted sources ettention
+ObJ moved slowly from W - B, then tumed N.
+Source used theodolite.
+No Case on File.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Cape Province, South Africa
+4. TYPE OF OBSERVATION
+• Ground-Vi suol
+• Ground-Radar
+D Air-Intercept Radar
+D Air-Visuai
+6. SOURCE
+Civ
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+00
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraf
+Possibly Aireral
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other UNID
+Insufficient Data for Evaluation
+Unknown
+W to E
+11. COMMENTS
+Extracted fron ATIC 2110234, 12-42-55,
+1 Feb 55. On file in ATIC Repository.
+ATIC FORM 329 (REV 26 SEP 52)

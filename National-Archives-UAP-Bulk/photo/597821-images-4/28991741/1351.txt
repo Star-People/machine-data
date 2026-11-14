@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:00:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7215793, "source_ctime_ns": 1793385066411549109, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991741/1351.jpg", "source_mtime_ns": 1785747905000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991741/1351.jpg", "source_sha256": "95da2d27c7687a8f2209c4d0b7fb882a8caeb4d5a5759026745ad131bc7d1dbd"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 650, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LEPHONED
+1961 MAR 4 09 19
+RF 112
+CZCSQC183ZCQYD663
+PP RJEDSQ
+(UFO)
+YEL
+DE RJWZGS 8A
+ZNR
+P 0488002
+FM SPOKANE AIR DEFENSE SECTOR LARSON AFB WASH
+TO RJWFAL/HQ ADC ENT AFB COLO
+RJWZBH/25 AIRDIV MCCHORD AFB WASH
+RJEDSO/ATIC WRIGHT PATTERSON AFB OHIO -
+RJEZHQ/HO USAF AFCIN IBI WASH 25 DC
+RJEZHQ/SEC OF AIR FORCE SAFIS WASH 25 DC
+RJWFAL/CINCNORAD NINT ENT AFB COLO
+RJEDSC/COSMATIC AFCIN 4A WRIGHT PATTERSON AFB OHIO
+RJEZBF/PROJECT SPACW TRACK L G HANSCOM FIELD BEDFORD MASS
+BT
+UNCLAS FROM SPOIN 453.
+FOR INTELLIGENCE. SUBJECT UFO
+POSSIBLE MONE DUST
+1. A. ROUND
+B. PEA
+C. CHANGING WHITE TO RED
+D. ONE
+E• N/A
+F• CONTINUANCE LIGHT UNTIL DISAPPEARANCE
+G. N/A

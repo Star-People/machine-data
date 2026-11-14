@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:15:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1738456, "source_ctime_ns": 1793393999472801631, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582775/0666.jp2", "source_mtime_ns": 1785808586000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582775/0666.jp2", "source_sha256": "13810c61f57d8d6a6d33f85296bccb29a8ae5029a1a8cc692961653ebeb3a0ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 419, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+• DATE • TIME GRO5/1750
+June 69
+05/22502
+SOURCE
+Civilian
+HUMBER OF OBJECTS
+On e
+5. LENGTH OF OBSERVATION
+10 - 30 Seconds
+6. TYPE OF OBSERVATION
+Ground-Visual
+• COURSE
+2. LOCATION
+Illinois, Jova Area
+10. CONCLUSION
+Astro (METICR)
+BRIEF SUMMARY AND ANALYSIS
+Stimulus identified by the Smithsonian Astrophysical
+Observatory as a meteor.
+8. PHOTOS
+n Yes
+PHYSICAL EVIDENCE
+2CX No
+FTO SEP 43 0-329 (TDE)

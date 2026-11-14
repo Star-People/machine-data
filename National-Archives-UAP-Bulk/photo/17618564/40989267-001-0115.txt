@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:34:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14947106, "source_ctime_ns": 1793355531195642859, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0115.jpg", "source_mtime_ns": 1785564472000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0115.jpg", "source_sha256": "2586eae2c4e22914afffa3dcf4f85511313b49be884b742f11f855b50944834c"}
+
+===== PAGE 1 =====
+{"alpha_words": 381, "chars": 2606, "method": "ocr", "page": 1, "variant": "plain-vision"}
+220
+allow for ascent or checking a descent.
+The amount of fuel to be carried is a function of the heat loss rate and the
+desired duration of flight. Likewise, the tankage weight is a function of the amount
+of fuel to be carried.
+Figure 9 is provided for use in estimating burner requirement and fuel and
+tankage requirements as functions of envelope diameter. This figure is based on
+several simplifying assumptions as follows:
+a. Envelope material is metalized
+b.
+Balloon average internal temperature is 250°F
+c. Balloon is at a sea level throughout the flight
+d. Flight is in an ARDC model atmosphere
+e. Fuel requirement is based on level flight only
+In addition to such liquid fuel in-flight heat systems, specialized pyrotechnic in-
+flight heating systems have been utilized. It is expected that, for some specialized
+applications, pyrotechnic heaters will be more appropriate than liquid fuel systems
+and will, therefore, be used.
+A secondary function of the in-flight heating system is to assist in the initial
+warmup of the air within the balloon envelope. In the case of ground launched sys-
+tems the initial warmup may be accomplished by an auxiliary burner-blower system
+in conjunction with the in-flight heater. In the case of mid-air deployment systems,
+the initial warmup may be accomplished by a one-shot liquid propane heater unit
+which is jettisoned after use. In certain specialized cases a pyrotechnic heater may
+be used for initial warmup. In any case, mid-air deployment systems and associated
+initial warmup heaters require specialized engineering.
+2.2.4 INTEGRATED SYSTEM WEIGHT
+The direct reading of an approximate payload in an ARDC model atmosphere
+as a function of balloon diameter is shown in Figure 10. The plot is based on the
+following simplifying assumptions:
+a.
+Balloon average internal temperature is 250°F
+b.
+Envelope material is based on an available fabric
+c.
+Envelope material thickness is constant from throat to crown
+d. Rigging weight is 10% of the envelope weight
+for Beer capacity allow
+Burner capacity allows a 50% increase in output over that which is required
+f.
+Fuel required is sufficient for level flight only at sea level for the selected
+flight duration
+Based on these assumptions, the payload capacity of a 50, 100 and 300 foot
+FUEL & TANKAGE WEIGHT/HR. OF FLT. (POUNDS)
+10₴
+10°.
+10
+PARAMETERS
+METALIZED
+ENVELOPE
+MATERIAL
+BALLOON
+AVERAGE
+INTERNAL
+TEMP. (T,) = 250° F.
+OPERATIONAL ALTITUDE = SEA LEVEL
+A.R.D.C. MODEL
+ATMOSPHERE
+LEVEL
+FLIGHT
+ON LY
+100 200
+300
+BALLOON
+DIAMETER (FEET)
+Figure 9. Fuel and Tankage Weight Per Hour of Flight Vs Balloon Diameter

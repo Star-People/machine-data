@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:05:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8665084, "source_ctime_ns": 1793387977030917352, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999564/1466.jpg", "source_mtime_ns": 1785748038000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999564/1466.jpg", "source_sha256": "26939a31fb6fed45e01ef436e5766c9324d40c5c3e8f3975ba31dba8a5acff22"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 755, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+18 October 1962
+3. DATE-TIME GROUP
+Local.
+GM T.
+19/07527
+5. PHOTOS
+• Yes
+& No
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+37.12N
+173.12W
+4. TYPE OF OBSERVATION
+XIKGround- Vi sual
+• Air Visual
+6.
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Military
+8. NUMBER OF OBJECTS
+not rptd
+one
+10. BRIEF SUMMARY OF SIGHTING
+CIRVIS rpt of blue-green obj described
+as a light, descending to horizon.
+12. CONCLUSIONS
+Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+•
+Probably Aircraf
+Possibly Aireraf
+Was Astronomical
+Probably Astronomica
+Possibly Astronomica
+Other
+Xinsufficient Date for Evaluation
+Unk no w
+9. COURSE
+descending
+11. COMMENTS
+Limited information. Insuffi-
+cient data for evaluation.
+ATIC FORM 329 (REV 26 SEP 52)

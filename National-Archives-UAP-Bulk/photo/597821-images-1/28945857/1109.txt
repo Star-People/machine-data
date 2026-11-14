@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:19:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4117993, "source_ctime_ns": 1793373207806487354, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1109.jpg", "source_mtime_ns": 1785688735000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1109.jpg", "source_sha256": "3f92387a5cbf57d1e5e9dddc7a65c19a4a095ba232c84ca0c7d293bf90dbc01c"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 774, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IV. BALLOON DATA
+2L. WERE BALLOONS RELEASED IN ARMY
+22. TIME SINCH SCHEDULED BALLOON RELEASE!
+? →12 Minutes
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIOHTING:
+Location
+Type
+Launching Agency
+& •
+b.
+de
+Від виід (68 рей
+Be Fell
+permine
+VS. DA, 413
+AWS
+Inehtad2
+Yes
+_ No
+Describe
+Lighting
+21. EVALUATION OF SOURCE:
+12 Excellent
+- Good
+- Fair
+— Poor
+- Unreliable
+- Extremely Doubtful
+_ Hoax
+23. PINAL EVALUATION:
+- Was Balloon
+Probably Balloon
+L. Possibly Balloon
+-Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+(attach overlay)
+V. EVALUATION
+22.
+DETAILS OF REPORT:
+1 Good
+I Fair
+V Poor
+_ Insufficient to Evaluate
+Was Astronomical
+| Probably Almonomical
+Possibly Asianomical
+Other:
+| Insufficient Data For Evaluation
+- Unknown
+24. COMMENTS:
+ATIC Test Forn 331 (13 Aug 52)

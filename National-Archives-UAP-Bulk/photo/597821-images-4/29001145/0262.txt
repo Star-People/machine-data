@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:23:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5410702, "source_ctime_ns": 1793388426273930863, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29001145/0262.jpg", "source_mtime_ns": 1785748189000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29001145/0262.jpg", "source_sha256": "40e99c41e5a75265b064f950acabe823504c3babfc3892f9b14a364f5edde4d0"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 847, "method": "ocr", "page": 1, "variant": "plain-vision"}
+it Ruc
+7 August 1963
+Lt Colonel Robert T. Friend
+IDE
+Foreign Technology Division
+Wright Patterson AFB, Ohio
+Dear Sir:
+Reference my previous letter concerning additional information for
+the UFO pictures forwarded to you from It Colonel Bachmann. The follow-
+ing is the information requested:
+a. Make of Camera: Bell & Howell Zoomatic with perpetua electric
+eye, vermat
+b. Model No: A. J. 76805
+c. Type of lens: f1.8 to 22
+d. Focal Length:
+9mm to 36mm (Three positions - wide angle, normal
+and telephoto. My Father believes he was using
+wide angle.)
+e. Time of Day: Between 1100 and 1300 hours
+f. Position of Sun:
+High over head, probably slightly to the rear.
+Photographer was traveling West to East.
+g. Weather Conditions: High thin scattered clouds
+If I can be of further assistance in this matter I will be happy to
+do anything possible.
+Sincer

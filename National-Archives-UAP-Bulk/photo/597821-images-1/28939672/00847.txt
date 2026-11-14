@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:55:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4793440, "source_ctime_ns": 1793371763288640792, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939672/00847.jpg", "source_mtime_ns": 1785688649000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939672/00847.jpg", "source_sha256": "870f922c5b8e27eb5da35e817a6b88e400e15e8193bf89ad24366821097bd56a"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 562, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NE 05 30 SEPT 51
+MONT
+1951 SEP 29
+9:28
+PRIORITY PRIORITY
+ACTION COPY
+UNCLASSIFIEL
+SHIT - 2MO
+TO ANC. WPAFB OHIO
+751393
+PTR -9-22E
+S6 370
+Info to AT.1
+PARAPHASE NOT REQUIRED, SEE CRYPTO-CENTER
+BEFORE DECLASSIFYING
+- M
+REUR AT-7807. THERE VERE NO APT NO ACET FLYING TO OR FROM EDWARES L
+AFE DURING THE HOURS FROM 1400 TO 1700Z, 23 SEP 51. NO IPT NO ACFT Y
+FROM THIS BASE WERE AIEBORNE DURING THAT PERIOD AND THERE WERE NO APT
+NO ACET COSERVED IN THE VICINITY CF THIS BASE BY PERSONNEL ASSIGNED
+TO THIS STATION.
+AT-7807 - 55- 138292-A-ATI01 20-
+374-13:212-0
+UNCLAS

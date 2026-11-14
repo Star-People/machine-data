@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:53:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3659557, "source_ctime_ns": 1793375484121039510, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956478/1104.jpg", "source_mtime_ns": 1785696502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956478/1104.jpg", "source_sha256": "d578b54321b9af422c7b82e619df624891a0084b14163482adab40c9edde146d"}
+
+===== PAGE 1 =====
+{"alpha_words": 174, "chars": 1222, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Philadelphia,
+Pa
+7 - 8 October 1953
+Information Only
+Cource:
+'American Meteor Society for 1963, # 149
+FIREBALL OF 1953 OCTOBER 7/8
+A.M.S. No. 2377
+On this date a bright fireball or bolide was observed at 7:32 p.m., E.S.T., by W. G.
+Clearver at New Haven, Conn., S1, and by Leith Holloway, Philadelphia, Pa., S2.
+The whole path, with a diagram, was obtained at S1 and part of the path (rest ob-
+scured by a building) at S2, where the path was given as vertical, and coordinates
+estimated. At S1 it was noted as brilliant blue, no lasting train, and that it exploded
+at end. At S2 it was recorded as -5 or -6 magnitude, vertical path, and that the
+visible part was traversed in 3 to 4 seconds. After some trials the following data were
+computed, which however must be approximate as only part of the path was seen at S2.
+Date...
+1953 October 7.52 G.M.T.
+Sidereal time at end point
+311°
+Began over
+\ = 72°14', Ø = 40°27' at 149 km
+Ended over
+1 = 73°00', Ø = 40°19' at 91 km
+Length of path
+65 km
+Projected length of path
+63 km
+Radiant corrected for zenith attraction
+0=140,0415
+• = +32
+As the radiant is only approximate no orbit is computed.
+Nothing at this position and date is found in the Hoffmesier-van Niessl Catalogue.

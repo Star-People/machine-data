@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:54:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4225830, "source_ctime_ns": 1793379232610329424, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971690/1389.jpg", "source_mtime_ns": 1785701080000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971690/1389.jpg", "source_sha256": "d12d499ebb3d959e9171c2be98a90a56a8dccf05799a2e392b840e169e8976fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1423, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3. Benton established an
+UNCLASSiF piel on an unknown target
+north of the station at 1918Z.
+The track described a westerly
+course at a speed of about 920 knots. The target was tracked con-
+tinuously until it faded at 1926Z. At 1924Z, 2 minutes prior to
+the fading of the unknown target, a new target appeared at a posi-
+tion northeast of the station at a speed of 1,200 knots. This
+target described a track that closely paralleled that of the first
+track and faded at 1943Z at a position northwest of the station.
+4. These unknown tracks were passed to the 763d ACWRON
+(Migrate) at Lockport APS, N.Y. and to the 772d ACRON AFS (Silvertone)
+at Claysburg AFS, Pennsyivania; however, these radars failed to
+establish a contact with the targets.
+5. Four Divisions went to a state of Increased Readiness
+during the time per1od. The 20th CADD and the 3lst CADD at 2008Z
+and the 30th CADD and 37th CADD at 1943Z.
+6.
+No scramble action was taken by the 26th CADD due to the
+very high speed of the target. When the track first appeared on the
+CFECR plotting board at 1907Z, the 37th CADD was notified and at
+1910Z two F-102 alrcraft from Kinross were scrambled. The 37th then
+scrambled two additional F-102s from Truax. By this time, both,
+tracks had faded.
+RELATED DATA
+1. GENERAL: On 25 and 26 September 1957, ACW maintenance and
+operations personnel associated with the 20 September incident
+SSIFIED
+DOWNGRADE
+DECLARSIFIO
+POQ D:

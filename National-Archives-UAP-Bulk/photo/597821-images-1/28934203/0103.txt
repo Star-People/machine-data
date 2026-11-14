@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:24:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6090822, "source_ctime_ns": 1793370274110948500, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934203/0103.jpg", "source_mtime_ns": 1785688668000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934203/0103.jpg", "source_sha256": "f81e3a0a8db6da0ca603be07f46510d9fbfce4dc5761ed2a5ca26a64de204b8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 832, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+5D-OSI/JBM/fmn
+THE INSPECTOR GENERAL, USAF
+STH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WRIGHT-PATTERSON AIR FORCE BASE, DAYTON, OHIO
+1 June 1949
+IN REPLY REFER TO: 5D 22;-21
+SUBJECT:
+PROJECT GRUDGE
+SPECIAL INQUIRY
+TO :
+Commanding Generel
+Air Wateriel Command
+Tright-Patterson Air Force Base
+Dayton, Chio
+ATTN:
+MO TAXS
+l. Formarded for your information and necessary action is a copy
+of Report of Investigation, subject: "Fireball Sighted Hear Flagstaff,
+Arizona on 18 April 1949,"
+File No. 24-8, dated 28 April 1949, from
+DO #17, Kirbland AFB.
+Hq OSI has directed the 17th CSI District to forward reports
+directly to your ofice in the future,
+1 Ino1
+R/I dtd 28 Apr 49
+0016, 45A
+THOMAS F. DOYLE, J
+Captain, USAF
+ActingDistrict Commander
+WE-O-S OCT 18 15M

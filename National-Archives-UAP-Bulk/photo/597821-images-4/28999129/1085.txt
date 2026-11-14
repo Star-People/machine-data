@@ -1,0 +1,106 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:31:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9054904, "source_ctime_ns": 1793387768164565219, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999129/1085.jpg", "source_mtime_ns": 1785748432000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999129/1085.jpg", "source_sha256": "a35c4cee0a14dfa8411e37c5c7025d62b01b7d0b5f0786787af4f80dab28436b"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 1339, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+16
+19
+13-24
+20
+20
+21
+21
+21
+21
+21
+22
+23-29
+24
+25
+DAVIE
+16 - 30 SEPTEMBER 1962 SIGHTINGS
+LOCATION
+OBSERVER
+33•55N
+163.48E (Pacific)
+USCG (Matagorda)
+Des Plaines, Illinois
+. Ft Bragg, South Carolina
+Military Multi
+Southern Ohio, Illinois, Mich, Tenn Multi
+Wake Island
+Multi
+fairfield, Iowa
+Hawthorne, New Jersey
+Eveleth, Minnesota
+Military
+Kansas City, Kansas
+- Cato, New York
+WSW of Biloxi, Mississippi
+Fork Union, Virginia
+Sidney, Ohio
+Newark,
+New Jersey
+- 35N
+174W (Pacific)
+Iran
+Atlantic
+Arlington
+Heights, Illinois
+Cairo, Egypt-Israel
+Multi
+Military
+Multi
+IVA &) 8
+Military
+Multi
+Chicago, Illinois
+Los Angeles, Caliornia
+Silver Springs, Maryland
+Brooklyn, New York
+Farallon. Islands
+- Dew Line, Alaska
+LOCATION
+Universe
+Marysville, Washington
+Richwood, West Virginia
+Covington, Virginia
+Twinsburg, Ohio
+CiviTren
+Civilian
+multi
+Multi
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+cience News It.
+lewscHippine
+Newsclipping
+Newsclipping
+Newsclipping
+EVALUATION
+Insufficient Data
+Aircraft
+Other (FLARES)
+Astro (METEOR)
+Other (SATELLITE
+Aircraft
+Insufficient Data
+Air craft
+Other (HOAX)
+Satellite
+UNIDENTIFIED
+Insufficient Data
+Aircraft
+Other (MIRAGE-INVE
+Insufficient Data
+Insufficient Data
+Astro (METEOR)
+Aircraft
+Astro (METEOR)
+Insufficient Data
+Insufficient Data
+Other (AFTER IMAGE)
+Aircraft
+Aircrait
+Insufficient Data
+EVALUATION

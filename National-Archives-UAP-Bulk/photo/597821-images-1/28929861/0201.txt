@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:57:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5384986, "source_ctime_ns": 1793368897755985565, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929861/0201.jpg", "source_mtime_ns": 1785689020000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929861/0201.jpg", "source_sha256": "f2cfc5e8ef7191f2ea96304c05cbfa40b0f60b16d2754f920943e602afc993c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 293, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+Incident #76 - Salnon Dam, Idano -- 13 august 1947
+There does not appear to be anything astrononical about
+this incident.
+Although sighted on the same day as the sky-blue canyon
+saucer (incident w75), the objects described here seem to have
+little or no similarity to the former.

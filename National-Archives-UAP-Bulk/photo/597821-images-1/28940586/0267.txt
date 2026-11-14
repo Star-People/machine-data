@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T15:18:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3963689, "source_ctime_ns": 1793371960192469902, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940586/0267.jpg", "source_mtime_ns": 1785689031000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940586/0267.jpg", "source_sha256": "cb3e8e3f7fff0b4d555a13ca6850a2f1b493f59366ebc607307f52356d747faf"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 492, "method": "ocr", "page": 1, "variant": "plain-vision"}
+File: 24-60
+UNCLASSIFIED
+1531 - Associated Press reported that the Heather Bureau
+at Greensboro reported sighting a metoorite which exploded approxinately
+100 miles North- orth dast of Greensboro at au altitude batween 40,0001
+and 30,000'.
+1552 - Captain HURST, District Intelligence Office, 5th
+Naval District, passed evaluntion of incident as a meteorite sighting.
+1600 - Air search terminated with negative report regarding
+sightinge on cround."
+REFERRED UPON COMPLETTON
+- 3-
+UNCLASSIFIED
