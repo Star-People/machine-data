@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:56:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7417578, "source_ctime_ns": 1793363126274260348, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0050.jpg", "source_mtime_ns": 1785684738000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0050.jpg", "source_sha256": "8a8749757d429ac35434feb89957f817e2c66891448f6e2222d7c7d35241c1cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1348, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INFORMATION COPY
+From Sth District OSI
+Wright-Patterson Air Force Base
+Ohio
+5D-2)C-21-210
+28 January 1963
+Unidentified Flying Object
+Battle Creek, Michigan
+Sighted by FREDERICK W.
+PLUMMER
++ 46-3998
+Custer Air Force Station
+Battle Creek, Michigan
+1.
+Reference Air Force Regulation 200-2, dated 20 July 1962, Subjeet:
+Unidentified Flying Objects (UFO).
+2. At 2230 hours on the night of 19 January 1963, an observation of
+an unidentified flying object was made by FREDERICK W. PLUMMER, Special
+Agent, OSI Detachment 510, Custer Air Force Station, Battle Creek,
+Michigan. In compliance with Paragraph 14, Air Force Regulation 200-2,
+the following information is submitted:
+Description of Object
+(1) Main object appeared round with fragments forming a "tail"
+which was tapered to a point. The fragments forming the "tail" appeared
+to be breaking off the objeet and falling earthward.
+(2) Approximately the size of a silver dollar held at arms
+length.
+(3) Brilliant blue-white.
+(4) One.
+(5) Not applicable.
+(6) Round.
+(8) None.
+(7) Apparent fragment trail not quite so bright as object.
+8 FEB 1963
+(9) No other pertinent features.
+b. Description of Course of Object
+(1) Sighted in sky.
+963
+(2) Appeared to be extremely high in
+altitude,
+directly overhead.
+(6)
+120/101
+UNCLASSIFIED
+UNITED STATE
+24-125-5
+- 52
+Stampe
+Declassification Authority: NND 923007

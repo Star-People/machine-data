@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:00:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9374151, "source_ctime_ns": 1793386969911750630, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997944/0030.jpg", "source_mtime_ns": 1785748249000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997944/0030.jpg", "source_sha256": "1e627bb5ee7e4bc84b1b36805bf2eb87c0661c089cc4fb6f9acbfb231e734403"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 596, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGF
+INCOMING
+AF IN : 32330 (3 Jul 62)
+Page 3 of 4
+PAGE THREE RUEAFF 161
+BALTIMORE, MD., HOUSEWIFE, FAIR.
+G. (1) 2500 SCATTERED, HIGH THIN BROKEN, VIS. 8, TEMP 79,
+DEW PT. 60, WIND SE 5. ALT. 30.16.
+(2) (A) SURFACE
+180/06
+(B) 6,000°
+270/04
+(C) 18,000°
+350/08
+(D) 16,00g'
+330/10
+(E) 20,000'
+35 ø/ 18
+(F) 30,000
+330/4Ø
+(G) 50,000°
+340/40
+(H) 80,800'
+360/10 ESTIMATED.
+(3) EST 20, 00g'
+(4) 12.
+(5) OVERCAST.
+(6) NONE.
+(7) VERTICAL 2 DECREES C/ 1900'.
+H. NONE.
+I. NONE.
+J. NONE.
+K. WILLIAM D. LEMASTER, CAPTAIN, USAF. WITNESSES LIVE
+-

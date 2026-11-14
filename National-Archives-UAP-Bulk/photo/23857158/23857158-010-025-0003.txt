@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:47:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3797646, "source_ctime_ns": 1793359715192122943, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-025-0003.tif", "source_mtime_ns": 1785681501000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-025-0003.tif", "source_sha256": "d3cddb34b258ad0fc85cedf26974cefa8aed468dccb91b31d7d5c6684ac90da0"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 990, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+126/10298
+EN0003
+ENA047 YMB021E
+WPBØ37
+YY RJEDEN RJEDFL RJEPHQ
+DE RJEDWP 125
+Y 122855Z
+FM COMDR 1478TH FLISEVRON WP AFB OHIO
+TO RJEDEN/COMDR/ADC ENT AFB COLO
+RJEDFL/COMDR 58AD WP AFB OHIO
+RJEDWP/CMDR/ATIC WP AFB OHIO
+RJEPHO/DIRECTOR OF INTELLIGENCE HQ USAF WASH DC
+ops
+4602D AISS UFOB REPT..
+ĐATE-TIME GROUP .
+PARTSTWO OF IWO PARIS
+5. - B. 5 MILES SOUTH AND 2 MILES EAST OF TERRE HAUTE IND.
+A. MAX LANCE, T/SGT, 113TH FIS CREW CHIEF ON F86, EXCELLENT.
+B: RICHARD LYKE, A/1C, 122ND INSTALLATIONS. SODN., ELECTRICIAN,
+VERY GOOD
+7.
+A. WX WAS CPEAR, NO CLOUDS COULD SEE STARS BUT WAS VERY DARK
+AND THERE WAS NO MOON
+CLEAR AND 15 MILES WSW AT 3K 60Ø0FT 270/20 1200FT 280/25
+16.092FT. 280/30 20,000FT 270/45 30,000 FT 270/80 50,020 FT. 270/80
+C. CLEAR
+D. 15 MILES
+E. NONE
+F. NONE
+8 •
+9.
+10.
+(NONE
+NONE
+COMMDRCIAL AIRLINE IN AREA FROM Ø300Z Ø305Z LAKE CENTRAL FLT.
+113/11. DC3
+11 -
+12.
+Вт
+R. WALDROP CAPT USAF OPERATIONS OFFICER NONE
+NONE
+12/0920Z AUG RJEDWP

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:47:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3646105, "source_ctime_ns": 1793375312487435804, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955616/0306.jpg", "source_mtime_ns": 1785696431000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955616/0306.jpg", "source_sha256": "38a6a788d6c42dba97af2291ed2a40dbd0e70c4f562f2487c065cfdbe06153e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 720, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+19 Jul 53 20/01202
+3.
+SOURCE
+civ and mil
+MOI
+one
+5. LENGTH OF OBSERVATION
+2 hrs 10 min
+6. TYPE OF OBSERVATION
+ground vis & air vis
+7. COURSE
+north
+8. PHOTOS
+2. LOCATION
+La Grande, Oregon
+10. CONCLUSION
+BALLOON: Upper air research
+All observers interviewed were of opinion that they saw an
+JAR balloon.
+Lowery plotting center stated that there was an
+UAR in area at that time.
+11. BRIEP SUMMARY AND ANALYSIS
+One obj at high alt was seen by civilian airlines personnel
+on the ground and a Navy pilot in the sir. Obj made some
+vement to the North.
+NOTE:
+Some of report refers to l Jul. Actual observation
+was 19 Jul 53.
+· No
+9. PHYSICAL EVIDENCE
+• Yes
+• No
+FORM
+FTD SEP 63 0-329 (TDE)
+Pro
+say to wood.

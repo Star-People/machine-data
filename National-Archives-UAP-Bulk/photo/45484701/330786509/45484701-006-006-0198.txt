@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:23:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9785405, "source_ctime_ns": 1793364161750362461, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0198.jpg", "source_mtime_ns": 1785684591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0198.jpg", "source_sha256": "023e6af258500785326704b7a171db08521ce9d1a5485f82469c3be393dc533f"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 141, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+ЗИоН
+МОТАДІТЕЗУИ 10 ТЛОМЯ
+YE
+1030 ฿
+TAG
+OUT
+28 FEB1950
+SO
+*ЛІа
+1950
+unO
+22/27/21 17 0
+КЛОТ ОННА
+AL GI
+Declassification Authority: NND 923007

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:49:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4669646, "source_ctime_ns": 1793388182737461196, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000298/0634.jpg", "source_mtime_ns": 1785748467000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000298/0634.jpg", "source_sha256": "8718dd553d695db77ba722c138f041d31d399275fb4b6acef1f299bcb04aa921"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 153, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+No Case (Information Only)
+21 February 1963
+Highcliffe, England
+neat
+this
+6 02 020
+low it wa
+vita one inter
+appear
+se eurtaios
+en r
+beer
+position.
+04 of

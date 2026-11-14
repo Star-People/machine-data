@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:52:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5562000, "source_ctime_ns": 1793358598341415761, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-079-0001.tif", "source_mtime_ns": 1785681144000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-079-0001.tif", "source_sha256": "c3bd34d1819d57be66da6eca7b5ab94ef70a61078e7c2f7c173ed5a237910d64"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 827, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+DATE/TLE OF STETING
+I RECD HQ 4602D
+AISS-UPOB-260-55
+09/2235Z August 1955
+10 August 1955
+LOCATION OF STEFT NO
+LOUCED BY
+| South Bay, California (San Diego Area
+AL/C DeRudder
+MEANS FEED
+ACTION
+TT Mag
+No investigation authorized
+INVES UNIT
+DATE INVES ASSIGNED
+(ASSIONING OFFICER
+I/A
+N/A
+N/A
+DATE IR RECD HO
+DATE IR APPROVED
+DATE IR TO ATIC
+N/A
+N/A
+N/A
+DATE OF FORM 5
+10 August 1955
+COMMENTS
+Tue to the young age of the observer (12 yrs) it is probably that
+ha saw an object which is common but not readibly identifiable to
+someone of such a young age. There was much air traffic in the
+are of the sighting and the object sounded like a jet. In all
+probability the observer saw a conventional jet aircraft.
+CONCLUSIONS
+Probably Aireraft
+ATSOP FORM 7 (2 APR 55)

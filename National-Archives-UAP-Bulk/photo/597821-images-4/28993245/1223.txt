@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:48:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4245077, "source_ctime_ns": 1793385431086023338, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993245/1223.jpg", "source_mtime_ns": 1785748455000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993245/1223.jpg", "source_sha256": "91888c9bbd69c09ff33a6eae19ba98cc0b0d4e5635d9b14bca33bfedb6b781a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 846, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+12. CONCLUSIONS
+2 Jul 61
+DATE-TIME GROUP
+Local.
+0242
+5. PHOTOS
+0207422
+Fernanding Beach, Florida
+TYPE OF OBSERVATION
+2D: Ground- Visual
+• Air- Visual
+S. SOURCE
+• Was Balloon
+Probably Balloon
+Possibly Balloon
+D Ground-Radar
+• Air-Intercept Radar
+D Was Aireraft
+Jrobably Aircraf
+Possibly Airer
+Was Astronomical
+Probably Astranomical
+7. LENOTH OF OBSERVATION
+Civilian
+• NUMBER OF OBJECTS | 9. COURSE
+Possibly Astronomical
+B: Insufficiant Data for Evaluatio
+Unknown
+10. BRIEF SUMMARY OF SIGHTINGUPO moving 1N-S aL a verS
+I. coMMATSIC Ts quite pOSSIBLe thit obJE
+low rate of speed. Objt is red in color and
+observed wes Venus which was low on hor
+rely bright. Appears to be aprox 40,000% on
+izon. However, report contains very
+ligher.
+little info on which to base a conclusi
+ATIC FORM 325 (REV 26 SEP 52)

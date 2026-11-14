@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:15:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7241384, "source_ctime_ns": 1793384793519831834, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991080/0778.jpg", "source_mtime_ns": 1785748309000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991080/0778.jpg", "source_sha256": "d437c14d565b74be2f538d5afb7f2c7ea3bb83c60e8b470535e18a94b64b87b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ZCZCSQP009CZCSQC794ZCWYB046
+PP RJEDSQ
+DE RJWFBH 22A
+P 0115312
+FM COMDR 832D ADIV CANNON AFB NMEXTIC
+TO COMDR ATIC WRIGHT PATTERSON AFB OHIO
+RECEIVED
+I FEB 61 12 23g FEB61 16 542
+PRIORITY IPO)
+BT
+UNCLAS AD/DOI 02-102 ATTN: AFCIN 4E2X. THIS IS IN
+TWO PARTS. PART I. IN ANSWER TO YOUR QUESTION: A. DETER-
+MINATION THAT THE OBJECT MOVED STRAIGHT DOWN WAS MADE BY THE
+RELATION OF THE FLIGHT PATH TO AN OUTDOOR MOVIE SCREEN. THE
+SIZE OF THE OBJECT DID NOT APPEAR TO VARY AS IT DESCENDED. B.
+OBJECT DISAPPEARED FROM VIEW WHEN ITS FLIGHT PATH DESCENDED
+BEHIND THE MOVIE SCREEN. PERIOD OF OBSERVATION WAS FROM 10
+TO 20 SECONDS. PART II. THREE PERSONS WERE IN THE CAR AT
+THE TIME OF OBSERVATION. THE FIRST WITNESS, AN AIR POLICE
+AIRMAN, WAS THE SOURCE OF THE ORIGINAL REPORT.

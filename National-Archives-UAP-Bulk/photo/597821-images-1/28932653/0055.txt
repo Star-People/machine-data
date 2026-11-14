@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:51:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5248370, "source_ctime_ns": 1793369738341619847, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932653/0055.jpg", "source_mtime_ns": 1785688897000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932653/0055.jpg", "source_sha256": "890b89b6863f654c4e32d1a2b3851245cb6ebf85c2e05a5d9d41459567e37754"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 405, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No. 223s Definitely not a scheduled release balloon sires it was
+seen to rise from the ground one hour before release tins at Albuquerque
+ard was seen by various persons as late as four hours after its original
+sighting. Saventeen irdividuals saw and reported this objeot as defin
+Italy a green flare. All comperolal and governmental airfielda were
+quastioned concerning balloon releases with no success.

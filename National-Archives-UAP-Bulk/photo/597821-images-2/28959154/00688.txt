@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:06:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3234731, "source_ctime_ns": 1793376085503588545, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959154/00688.jpg", "source_mtime_ns": 1785696503000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959154/00688.jpg", "source_sha256": "652e14adc146ba79f97bf3515cc40ef17ae020085383a2312b73f3a93315ebb7"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 931, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+29 July 1954
+3. DATE-TIME GROUP
+Local
+Vari ed
+GM T
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Atlantic City, New Jersey
+4. TYPE OF OBSERVATION
+•Ground- Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+SOURCE
+• Yes
+• No
+7. LENGTH OF OBSERYATION
+Civilian
+8. NUMBER OF OBJECTS
+Varied
+inr
+1
+10. BRIEF SUMMARY OF SIGHTING
+proximately 300 persons saw a round shiny
+object hovering in the sky for a long period
+of time. No significant performance character-
+istics were noticed.
+9. COURSE
+12. CONCLUSIONS
+Was Balloon Experimental
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircrait
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evoluation
+Unk no wn
+11. COMMENTS
+A check of the balloon launchings and
+tracks revealed a balloon was launched
+on 27 July 1954in N.H. It was over the
+Atlantic City area on 29 July 54.
+ATIC FORM 329 (REV 26 SEP 52)

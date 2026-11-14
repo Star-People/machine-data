@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:19:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8406805, "source_ctime_ns": 1793379752502500109, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01428.jpg", "source_mtime_ns": 1785700818000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01428.jpg", "source_sha256": "5b46f2a4cab44be6376f79710646e121f813b4bc0cae421cea9d9759aa46e908"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 363, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CAL CIGAR
+(BQ CIGAR
+(CX WHITE
+(D) 1
+(E) N/A
+(F) NONE
+RED TAIL
+(H) NONE
+A/IC
+PAGE TWO RJEPNY 53
+<I)
+NO NE
+(2)
+DESCRIPTION OF COURSE
+(A)
+UNK
+(B) UNK
+eleVATiOn
+AZIMUTh
+(C› UNK
+(D) SE TO NW
+(E) IN DISTANCE
+4 MIN
+(3) MANNER OF OBSERVATION:
+(A) GROUND
+- VISUAL
+(B) NONE
+(C) N/A
+|(4) TIME & DATE SIGHTING
+(W) ฿7/23802 NOV 57 0 300-5=1800
+NIGHT
+(5) BRONX, N.Y.
+102201500

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:42:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1025376, "source_ctime_ns": 1793393809499258838, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580780/0222.jp2", "source_mtime_ns": 1785808575000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580780/0222.jp2", "source_sha256": "ba95ee02026a1a128a054d8078407ec42bb15112d9b044f5db9c387a1938a72c"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 143, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ein Poth Sires ih Beata chivas tr yf PE STM ANE free Pe
+
+mt ¥ ey A rasa Use phe te ORD aay Vb> : eS
+Ff whe , . ° ; ; ; ‘ ’
+
+aR
+2! Me
+
+. ot) ;

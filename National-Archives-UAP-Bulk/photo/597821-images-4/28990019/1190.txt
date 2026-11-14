@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:06:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3215278, "source_ctime_ns": 1793384331302054122, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990019/1190.jpg", "source_mtime_ns": 1785748457000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990019/1190.jpg", "source_sha256": "7bf63bde0c5ef1d2ab0e6336bf23f2e9a0d4d100d57203399e88989af38f4608"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 911, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 4
+20. Draw a picture that will show the motion that the object or objects made. Place an "At at the beginning of
+the path, a "B" at the end of the path, and show any changes in direction during the course.
+21. How large did the object appeer to you as compared to an object with which you are familiar?
+alte
+22. We wish to know the angular size. Hold a match stick at arm's length in line with a known object and note
+how much of the object is covered by the head of the match. If you had performed this experiment ot the time
+of the sighting, how much of the object would have been covered by the march head?
+23. Did the object disappear while you were watching it? If so, how?
+24. In order that you can give as clear a picture as possible of what you saw, describe in your own words a
+common object or objects which, when placed up to the sky, would give the same appearance as the objact
+which you saw.

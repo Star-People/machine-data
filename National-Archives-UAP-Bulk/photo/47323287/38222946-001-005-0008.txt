@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:39:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 446281, "source_ctime_ns": 1793365563623875366, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0008.tif", "source_mtime_ns": 1785565389000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0008.tif", "source_sha256": "ea0f7103b20c72e0dc5ac9dc821924adbd5e9af0fd9ef0be31228484bb8e25b5"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 41, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "clean-vision"}
+poles goat, Days
+GEOSCE А МІГРІ
+Here ger

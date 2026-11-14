@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:46:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1982700, "source_ctime_ns": 1793356135094371534, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0057.jpg", "source_mtime_ns": 1785564616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0057.jpg", "source_sha256": "72cd7a62cfd2063f8bac00faf4845531f8d3c5a2c310c1aee663830cb31421c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 409, "method": "ocr", "page": 1, "variant": "plain-vision"}
+B-29
+B-25
+A -26
+P -82
+C-54
+C-47
+C-45
+L-5
+AT-S
+TOTAL
+AIRCRAFT INVENTORY
+AS OF 31 JULY 1948
+ROSWELL
+DAVIS-MONTHAN
+FT. WORTH
+KEARNEY
+TOTAL 8TH AF
+ACTIVE
+EXCESS
+TOTAL
+ACTIVE
+EXCESS
+TOTAL
+ACTIVE
+EXCESS
+TOTAL
+ACTIVE
+EXCESS
+TOTAL
+ACTIVE
+EXCESS
+TOTAL
+29
+3
+10
+5
+48
+30
+3
+10
+5
+30
+3
+2
+32
+3
+7
+8
+30
+8
+7
+3
+4
+7
+37
+9
+3
+49
+41
+45
+49
+57
+89
+14
+10
+99
+15
+2
+10
+19
+10
+20
+5
+5
+130
+13
+151
+This document is part of an unclassified series

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:03:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20789520, "source_ctime_ns": 1793356987130940956, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1188-478145-0013.tif", "source_mtime_ns": 1785564804000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1188-478145-0013.tif", "source_sha256": "01d6a00637b353938075786fc9568b5e517c192735f6c7e23c87fc8c70d2a663"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 228, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Light Green ser acaeiies mE | os fF © ml Red
+
+ f Approx.. Dark Green
+NW by NV [#09 ph :
+
+Air: Estimated 3000 — SD90°
+
+<< oi Uniform Fel ge:
+* = No Flare Jrom leading
+in. VA y
+
+Ground Level
+
+Declassification Authority: NND 57565

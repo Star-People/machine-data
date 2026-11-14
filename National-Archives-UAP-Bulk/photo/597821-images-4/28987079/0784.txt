@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:23:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9676053, "source_ctime_ns": 1793383481654181080, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0784.jpg", "source_mtime_ns": 1785747893000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0784.jpg", "source_sha256": "ef84a85e9712257c90addf6658432ee8f72adff2e33cb892dc0bfdd4ad19d507"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 843, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No case info only
+SAF-OICC/Mrs
+1960
+pop/79079/3 Feb 67
+FEB - 6 1967
+Dear
+Reference your letter of January 6, 1967 reporting a
+1960 unidentified flying object (UFO) observation.
+At such a late date, a comprehensive study vould be
+extremely difficult. Since records of air activity are
+normally destroyed several months after their use, there
+vould be practically no records to check in an attempt to
+determine the actual dimulus. The information will be filed
+and added to the present data base.
+Your interest in our progrem is appreciated.
+Sincerely,
+CEORCE P. FRESMAN, JR.
+It Colonel, USAF
+Chief, Civil Branch
+Community Relations Division
+Office of Information
+Walled Lake, Michigan 48008
+COORDINATED By (Office Symbol, Name, Grade, Date)
+SAFOI- CC
+SATOI-
+pa cy - SAF-OIC
+Combk cy - SAF-OIC
+Reader cy - SAY-OIC
+Activity cy - SAR-OIC
+Stayback

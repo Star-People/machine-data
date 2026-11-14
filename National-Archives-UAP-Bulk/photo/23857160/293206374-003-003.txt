@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:07:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3510560, "source_ctime_ns": 1793361464095276236, "source_file": "National-Archives-UAP-Bulk/photo/23857160/293206374-003-003.jpg", "source_mtime_ns": 1785565357000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857160/293206374-003-003.jpg", "source_sha256": "0fdeb7b2529e010651676aa6dd67f247382b6f4fb45811027d5130c20eb05464"}
+
+===== PAGE 1 =====
+{"alpha_words": 0, "chars": 11, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+341-15-479

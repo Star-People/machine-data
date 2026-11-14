@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:45:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1703665, "source_ctime_ns": 1793389062359704712, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535957/01235.jp2", "source_mtime_ns": 1785808357000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535957/01235.jp2", "source_sha256": "77f62a239e8851129985016267c9a30f41a24bf1e4515aabb08c037d0ac2f166"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1019, "method": "ocr", "page": 1, "variant": "plain-vision"}
+02/0.5007
+NAVAL MESSAGE
+CLASSI
+NAVY DEPARTMENT
+AF IN : 24113. (3 Oct 64) C/hk
+AF DIST:
+ACTION:
+NIN -7
+R 0223027
+INFO
+XOP-1, XOPX-6, SAFOS-3,
+FM NAS MFTFLD
+SMB-1
+(18)
+TU DIR OF INTELLIGENCE HDQTRS USAF. WASH DC
+AIR TECH INTELLIGENCE CEN WRIGHT-PATTERSON AFB
+COMMANDING GENERAL ENT AFB
+28NORAD REGION HAMILTON AFB :
+INFO CNO
+COMMANIANT TWELFTH NAVDIST
+DISTRICT INTELLIGENCE OFF TWELFTH NAVDIST,
+UNCLAS
+ATIC WRIGHT-PATTERSON AFB ATTNI ATIAA-2C
+SURJ: UNIDENILEIEL FLYING OBJECT
+THE FULLOWING IS. SUBMITTED AS REQUIRED BY REF
+1. A. NOT KNOWN - LIGHT FLASHING IN SOUTH
+B. SMALLER THEN STAR VENUS
+C. FLASHING DIFFERENT COLORS, FLASHING RED
+U. ONE
+E. NA
+F. NONE
+G. NONE
+H. NONE
+I. NONE
+2. A, A LIGHT FLASHING IN SKY
+B. OBJECT SOUTH OF VENUS MOVING SOUTHEAST
+C.
+- 00 -
+/ •
+E. UNKNOWN
+F. THREE HOURS
+3. A. GROUND VISUAL
+92.
+,L00
+SECHAV. ••
+JOS.. • CSA
+0. 98290
+CSAF
+• CHIC..
+AF NOTE:
+THIS MESSAGE PASSED TO DIA AS AF IN 23655 (3 Oct 64).
+CONTROL NO.
+:7/FS/J:/1
+PAGE
+PAGE
+2
+TIME OF RECEIPT
+0442Z OCT 3
+DATE THE GROUP
+022302Z. OCT

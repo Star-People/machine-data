@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:14:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6465788, "source_ctime_ns": 1793380321007296508, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975365/00274.jpg", "source_mtime_ns": 1785700775000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975365/00274.jpg", "source_sha256": "cfceb0ea5c2565825b93bf2d9c0fe9bdd0c25a74110cb5df35167069a39d1cf2"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 297, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJESQM 23
+PAPERS, RUSSIAN SATELLITE NO.1 WAS SIGHTED WITH THE MAKED IYE IN
+THIS VICINITY AT ABOUT THAT TIME. (9) NOWE. (10) TWO C-124,
+ONE SA-16;
+AND ONE C-118 FLYING LOCALLY. (11) INTELLIGENCE OFFICER,
+POSSIBLE CAUSE UNKNOWN. (12) NONE.
+BT •
+27/2150Z NOV RJESQM
+a sellerig Sun
+Brub. A/C

@@ -1,0 +1,92 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:11:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4707634, "source_ctime_ns": 1793373898370922642, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949203/1415.jpg", "source_mtime_ns": 1785696644000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949203/1415.jpg", "source_sha256": "de65114f1f72d04c0cd8917fa883b177a338c1a26a8f0f8549b1d87dda39254a"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 802, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE OF OBS
+42 WINDS
+29N
+ALOFT:
+ALTITUDE
+(foot)
+RVAT ION
+VĚLÕCŤ1Ÿ
+(knots)
+1,000
+2,000
+3,000
+4,000
+5,000
+2}
+4
+6,000
+7,000
+8,000
+9,000
+10,000
+10
+1 0
+12,000
+14,000ł
+16,000
+18,000
+16
+20,000
+5. WAS AN INVERSION LAYER NOTED?
+(If yas,..
+at what altitude?
+6. WERE ANY THUNDERSTORMS NOTED IN AREA?
+(If yes, at what quadrent?
+7. CLOUD COVER:
+_ tonths at feet.
+tenths at.
+feet.
+9. COMMENTS:
+PROJECT 10073 HEATER DATA SH
+TIME OF OBSERVATION
+3. STATION OBSERVING
+DIRECTION
+(decrees)
+340
+340
+3 5
+10
+102
+12-0
+120
+18 C
+2/9
+210
+ALTITUDE
+(feat)
+25,000
+30ẠỊ000
+35,000
+40,000ł
+45,000
+50,000
+55,000
+60,000
+65,000
+70,000
+75,000
+80,000
+85,000ł
+90,000
+95,000
+100,000
+D Yes
+O Yes
+4-15
+VELOCITY
+(knots)
+DIRECTION
+(degrees)
+tenths at
+tenths at
+feet.
+feat.
+L.J No
+CJ No
+8. VISTBILITY WAS
+_ MTUES.
+F1C Teat Form 333 (13 Aug 52)

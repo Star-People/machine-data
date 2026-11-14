@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:42:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1060936, "source_ctime_ns": 1793355910549042162, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989288-001-0014.jpg", "source_mtime_ns": 1785564556000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989288-001-0014.jpg", "source_sha256": "83fe8182fab8f02e3086b5b8223ea052d3c75aff9e1766718591e6f74e1c2ac2"}
+
+===== PAGE 1 =====
+{"alpha_words": 195, "chars": 1254, "method": "ocr", "page": 1, "variant": "plain-vision"}
+scientists working at the School of Aviation Medicine, Doctors
+Fritz and Heinz Haber, delivered a paper in which they ex-
+plained how to achieve over thirty seconds of subgravity in air-
+craft flight. The method was to fly the plans in a parabolic
+arc or "Keplerian' trajectory in which centrifugal force would
+exactly offset the downward pull of gravity and engine thrust
+would counterbalance air friction. This was not an eacy thing
+to do, and even with an expert pilot at the controls one could
+expect absolute weightlessness for only part of the total sub-
+gravity trajectory. Nevertheless, the Habers' proposal offer-
+ed the firstmethod for obtaining a really significant subgravity
+exposure in manned flight.
+During 1951 the new procedure was tested at Edwards
+Air Force Base in California and at Wright Field in Ohio. At
+Edwards the noted test pilot Scott Crossfield and the Aix Force's
+Major Charles E. Yeager both flew a number of Keplerian tra-
+jectories, the former working on behalf of the Natioral Advisory
+Committee for Aerouautics. At Wright Field similar experi-
+ments were conducted by Dr. E.. R. Ballinger. Apparently
+none of these early experiments achieved more than a few
+seconds, at most, of true zero-gravity, but total subgravity

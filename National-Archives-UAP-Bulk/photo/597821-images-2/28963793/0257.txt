@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:10:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4310201, "source_ctime_ns": 1793377448830572303, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963793/0257.jpg", "source_mtime_ns": 1785696772000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963793/0257.jpg", "source_sha256": "91e79dc881e672a55357e29b56a4ced467e48fe9da35b0e38278b669cf22e581"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 1056, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+Oct 55
+3. DATE-TIME GROUP
+Local 1300 hours (1:00 pm)
+GM T.
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Lafayette, Indiana
+4. TYPE OF OBSERVATION
+* Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+civilian
+8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+• Yes
+a No
+7. LENGTH OF OBSERVATION
+2 - 3. mins
+10. BRIEF SUMMARY OF SIGHTING
+Observer saw obj that looked like a parachute
+landing. Ran toward obj but then it started
+rising, tumbling toward him and stopped almost
+overhead. Moved to right at speed where
+observer could run and keep up with obj. men
+obj shot away toward the sun. Reported in letter
+form three years after observation.
+9. COURSE
+not reported
+11. COMMENTS
+BALLOON
+Director
+Aerospace Studies Inst
+ATTN: Atchives Branch
+Maxwell AFB, Alabama
+RETURN TO:
+K2H3.6012-1
+Oct 1955
+ATIC FORM 329 (REV 26 SEP 52)

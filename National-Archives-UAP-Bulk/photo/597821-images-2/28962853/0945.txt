@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:18:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8280597, "source_ctime_ns": 1793377164485672539, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962853/0945.jpg", "source_mtime_ns": 1785696415000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962853/0945.jpg", "source_sha256": "ef999bd80a007e810bffb182d8f4c45f2136c6d967d0081d26bf138c21b1ad5b"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 593, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2. DESCRIPTION OF COURSE OF OBJECT:
+A. UNK
+B. OVERHEAD
+C. STILL IN SIGHT
+D. STATIONARY
+E. STILL IN SIGHT
+F. STILL IN SIGHT
+3. MANNER OF OBSERVATION*
+A. SHIPBOARD VISUAL
+B. BINCCULARS
+C. NA
+4. TIME AND DATE OF SIGHTING:
+A. 152232 Z
+B. DAY
+5. LOCATIONS OF OBSERVER:
+A. 2720N 8932W
+6. IDENTIFYING İNFORMATION OF ALL OBSERVERS:
+A. CIVILIAN MASTER OF TANKER
+B. MILITARY NONE
+7. NA
+8. NA
+S- NA
+PAGE THREE RJESYQØ Ø1B
+12. NONE
+11. OPERATIONS OFFICE MAXWELL FLIGHT SERVICE CENTER MAXWELL AFB ALA
+FROM THE DESCRIPTION GIVEN WOULD INDICATE WEATHER BALOON
+12. UNK
+SIGNED GOLINSKY END
+15/23152 JUL RJESYO

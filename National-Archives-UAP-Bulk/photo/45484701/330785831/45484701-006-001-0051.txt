@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:58:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8787880, "source_ctime_ns": 1793363682624481284, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0051.jpg", "source_mtime_ns": 1785684855000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0051.jpg", "source_sha256": "55e3959638f6a7b3690b05659ad6aba2d017cf5e03a767730dcf7e01427636eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 403, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SOURCE OF INFORMATION
+COMPLAINT FORM
+1. ADMINISTRATIVE DATA
+DATE
+TIME
+ORGANIZATION
+PLACE
+RESIDENCE ADDRESS AND TELEPHONE NO.
+HOW RECEIVED
+TITLE
+BUSINESS ADDRESS AND TELEPHONE NO.
+CHARACTER
+11. SUMMARY OF INFORMATION
+SIGNATURE OF SPECIAL AGENT
+111. OPEN NEW FILE
+OTHER ACTION
+OF DISTRICT COMMANDER
+GOVERNMENT PRINTING OFFICE: 1949-O-838035
+AFHO FORM 0-333
+• 12 MAY
+Declassification Authority: NND 923007

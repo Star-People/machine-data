@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T22:51:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5063859, "source_ctime_ns": 1793365577829017569, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0054.tif", "source_mtime_ns": 1785565391000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0054.tif", "source_sha256": "b473998c1331088b62476d93ea0a8820ed79ebcf753a43aafe0e2547cf423249"}
+
+===== PAGE 1 =====
+{"alpha_words": 207, "chars": 1451, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5-TNF:
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS AEROSPACE DEFENSE COMMAND
+ENT AIR FORCE BASE, COLORADO 80912
+1 0 JUN 1970
+REPLY TO
+ATTN OF:
+ADCIO-C
+suBJEcT: Defense Advisory Committee on Women in the Services (DACOWITS)
+To: 20 Air Div
+2I Air Div
+23 Air Div
+24 Air Div
+25 Air Div
+26 Air Div
+(Director of Information)
+1. Your attention is invited to attached Hg USAF, SAFOI, correspondence
+regarding the selection of 1971 nominations for members of the Defense
+Advisory Committee on Women in the Services (DACOWITS).
+2. Request you provide at least one, but no more than three nominations
+for the 1971 DACOWITS. Instructions for nominations are contained in
+Attachment 2 of the SAFOI correspondence. A copy of each nomination, in
+format prescribed in Attachment 3, will be forwarded to this headquarters
+(ADCIO-C) to arrive not later than 24 June. Special emphasis should be
+made to nominate qualified women from areas adjacent to ADC bases having
+WAF personnel assigned. All nominations should be coordinated with local
+WAF commanders.
+Request you also work with local WAF commanders to set up base
+orientation tours as outlined in paragraph 4, SAFOI letter. Attachments
+4, Membership Rosters, and 5, Biographical Information, afford useful
+information in this connection.
+FOR THE COMMANDER
+Let FaCe
+Deputy Director
+Directorate of Information
+1 Atch
+Hq USAF Itr, SAFOI, Undated,
+w/5 Atchs
+handle
+Noretirement for 2/STAS.
+Calledinto ADCIo-C,
+I8 June ?o
