@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:56:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3814739, "source_ctime_ns": 1793374084693231431, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950093/0828.jpg", "source_mtime_ns": 1785696835000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950093/0828.jpg", "source_sha256": "e5992aa594d405d1fe8afb7fc5175046d0cd506cd749696703af26ad5d61dbd3"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 866, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TENTAT NE
+OBSERVERS QUESTIONNAIRE
+- 2+
+- 4789.00
+SECTION A
+1. When did you see
+the object:
+Mon th
+1.2 Time of day: 7:45
+Hrs. Min.
+1.3 Time Zone: (Circle One):
+Eastern
+Central
+C.
+Nountain
+(Gir-le Cne): &
+1952
+Year
+A.M. or P.M.
+(Circle One)
+d.
+Pacific
+Other
+Daylight Saving
+Standard
+1.4 Circle ong of the following to indicate how certain you are
+of your answer to the above question 1.2:
+Certain
+o. Hot very sure
+Fairly certain
+d.
+Just a guess
+2. Where did you..
+the.ahioct?
+Addre
+City or Town
+3. Where were you located when you saw the object:
+(Circle One):
+Inside a building
+In a car
+Outdoors
+Stato
+d. In an airplane
+e. At sea
+f. Other
+31 Here you:
+(Circle One):
+a •
+In the business section of a city?
+In the residential section of a city?
+In open countryside?
+d. Flying near an airfield?
+e. Flying over a city?
+I. Flying over open country?
+g: Other
+Country
+7 - 19

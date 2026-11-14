@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:37:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15879692, "source_ctime_ns": 1793357775765816413, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1652-564183-0002.tif", "source_mtime_ns": 1785564969000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1652-564183-0002.tif", "source_sha256": "ccdf9d412029dc7fde1ab11f6d324297ee4cc736328e0f55f5047b50a038651d"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 600, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• 7564180
+24-9 Weather Detachment
+Laughlin AFB
+Texas
+7 July 1953
+TO WHOM IT MAY CONCERN:
+This report was submitted to my higher hqs. on the 7th of July,
+and they returned the report stating that I should submit report on
+form 112 and in accordance with USAF ITR 20055. This is the reason the
+report didn't go out over the wire and the reason that the report is late
+in reaching your Has.
+The mental alertness and integrity of M/sgt Reed is above
+reproach, and I believe everything that is written in this report
+Culture
+Jack E Turne
+Capt USAF
+DETCO 24-9 Wx. Det
+Declassification Authority: NND 57565

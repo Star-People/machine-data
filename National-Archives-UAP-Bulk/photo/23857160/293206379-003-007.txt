@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:24:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4788672, "source_ctime_ns": 1793361483243378583, "source_file": "National-Archives-UAP-Bulk/photo/23857160/293206379-003-007.jpg", "source_mtime_ns": 1785565360000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857160/293206379-003-007.jpg", "source_sha256": "7a89029ddc753caa65d8950630bc8cbd2527716808c5d706bdc40153e994fe02"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 180, "method": "ocr", "page": 1, "variant": "clean-vision"}
+K243.6012-1
+28 Jul 1959
+1003536
+p 0CT19ął
+MAS
+RETURN TO
+USAF Historical Archives
+DR. J.A. HYNI
+ASI(ASHAF-A)
+Maxwell AFB, Ala 36112
+KITTREOGE HAUL
+6027 GARDEN ST:
+CAMBRIDGE
+- MASS,

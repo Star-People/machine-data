@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:18:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1719471, "source_ctime_ns": 1793389566859229972, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541881/0719.jp2", "source_mtime_ns": 1785808307000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541881/0719.jp2", "source_sha256": "e5c51b2b45c551cc6f98da5163815ad2d85ecd8e90a85c981127b758f6eafe38"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 475, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ATrO (VEnus)
+15 (TOEY)
+Wright-Patterson AFB, ohio. 45433
+& September 1965
+Walnut Creek, California
+Dear M
+Reference your recent unidentified sighting of 7 Augast 1965.
+The information which ve have received ia not sufficient for
+evaluation.
+Request you fill out the attached FTD Porn 164
+and retury it in the envelope provided.
+The Air Force appreciates your interest in this subject.
+Sincerely,
+OFTICAL FILE COPY
+HECTOR QUINTANILLA, Jr, MaJor, USAF
+Chief, Project Blue Book

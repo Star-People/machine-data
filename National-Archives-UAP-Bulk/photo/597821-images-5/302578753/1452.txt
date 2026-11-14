@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:15:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1042702, "source_ctime_ns": 1793393554279524437, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578753/1452.jp2", "source_mtime_ns": 1785808179000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578753/1452.jp2", "source_sha256": "fec0e8b59632d5f6d46a14015723bb16bef64a0f77a9b2a2489f3e5de2b21e9f"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 654, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PUBLE DUALDINOS AND LANOS
+A XENIA CITY HAKL
+O OREENE COUNTY COURTNOLLSE
+C CHURCH LOCATIONS
+O NORTHWEST DISPOSAL PLAYY
+SOUTHWEST DISPOSAL PLANT
+F FIRE STATION
+O LOA LLEMLATRRY SCHOO
+GREENE MEMORIAL HOSPITAL
+GREENE COUNTYSHERIFF'S OFFICE JAIL
+LINCOLN ELEMENT RRY fEAST JR. HIGH
+GRLENE COUNTY LIBRARY
+1 GOWDY CEMETP.PY
+• LNER RY GROVE CEMETERY
+CITY SERIE DEPT
+FOSTOFFICE
+RAILROAD DEPOT
+SHAWNEE ELEMENTARY SCHOOL
+: BRIGID HIGH SCHOOL
+ST. BRIGIO ELEMENTARY SCHOO
+W ST. BRIGD CEMETERY
+XENIA SENOR MIGN SCHOOL
+Y XENIA CENTPAL JR HKN SCHOOL
+SIMON KENTON SCHOOL
+HIGALLOWAY CABIN MUSEUM
+A2SHAWNEE PARK
+О НЕМОЛУ
+9-4 McKINLEY ELEMENTARY SCHOO
+AS IVEST JP HIGH SCHOO

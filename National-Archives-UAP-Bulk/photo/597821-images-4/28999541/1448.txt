@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:30:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7668496, "source_ctime_ns": 1793387967824959259, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999541/1448.jpg", "source_mtime_ns": 1785747964000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999541/1448.jpg", "source_sha256": "7df6eeba7bc959b08b07dd32016a964b0634b9bc9cb14e964146c3b59adc3ca7"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 800, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SMB C 006
+ZCZCHQA749ZCBJA083
+.....
+ZZ RUEAHQ
+DE RUDIC 022
+ZNR
+Z 170149Z
+FM COMBARFORLANT
+TO RUECW/ CNO
+RUCKHC/CINCLANTFLI
+RUEAHQ/ HQ USAF
+RUW GAL B/ CINCONAD
+RUEAKN/26TH NORAD REGION
+RUEGUG/ COMEAST SEAFRON
+RUECYP/ SPADAT
+INFO RUCKDT/COMASWFORLANT
+NAVY GRNC
+BT
+UNCLAS
+LOCATING ONE UFO
+1. STAR LIKE OBJECT
+2. 6145N 1605W
+3. 179049Z
+4. 200T SPEED UNKNOWN
+5. VISUAL
+6. EST 15 DEGREES ABOVE HORIZON
+7. DISAPPEARED IN 75 SECONDS. OBJECT MOVING
+FROM NE TO WSW TOWARDS JUPITER
+BT
+NOTE: Adv cy to DIA & CIN.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN :
+45667 (16 Oct 62) D/dsk
+ACTION:
+CIN-17
+INFO
+00P-2, 00P-CP-1, SAFS-3, DIA-10,
+DIA-CIIC-3 (37
+Director
+Autospace Shudies Inst
+ATTN: Archives Braach
+Maxwell ArB, Alabama
+RETURN TO:
+16-30 Oct 1962
+K243.6012-1
+1003621

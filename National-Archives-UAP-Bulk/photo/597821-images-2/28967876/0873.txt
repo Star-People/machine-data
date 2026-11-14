@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:28:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6583636, "source_ctime_ns": 1793378403618263049, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967876/0873.jpg", "source_mtime_ns": 1785696413000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967876/0873.jpg", "source_sha256": "218a43495dbc96298c7fed12e053f5c2883ca0d1b8ef314cef06258ddf363cc8"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1141, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+13 October 1956
+3. DATE-TIME GROUP
+Local _
+GMT 13/2215 & 2230Z
+PHOTOS
+O Yes
+20: No
+7. LENGTH OF OASERVATION
+one hour ,45 minutes
+still in sight
+one
+10. BRIEF SUMMARY OF SIGHTING
+1, One circular white (w/red light)
+the size of the head of a pin
+at arm's length. object was moving up
+and dowa and was still in sight at
+time of report.
+2) One object, round, size of basketbal
+co pinhead. Color blue white, fiuores-
+cent. Very bright. Object drifted over
+to the moon and disappeared.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Newburgh, Unionville, N.I
+4. TYPE OF OBSERVATION
+RD. Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+Unionville E
+Newburgh up
+11. COMMENTS
+12. CONCLUSIONS
+Was Balloon
+D Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unknown
+down
+According to rpting officer there
+have been a considerable number
+of balloons launched in the area.
+Opinion os that sighting probably
+caused by balloon.
+ATIC PORM 329 (REV 26 SEP 52)

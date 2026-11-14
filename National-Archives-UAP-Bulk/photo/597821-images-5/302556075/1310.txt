@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:17:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1702840, "source_ctime_ns": 1793391192449692691, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556075/1310.jp2", "source_mtime_ns": 1785808142000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556075/1310.jp2", "source_sha256": "bdcb30c9100541a95f504959494c9efe1051e7f15515006abb45647c1de83a86"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 373, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- 2 -
+The artificial clouds were photographed and tracked
+from several sites along the East Coast and in Bermuda.
+Purpose of the experiments is to measure electric fields
+and wind motion in the upper atmosphere.
+The first of the two experiments was launched from
+Wallops Island at 5:13 a.m. EDT yesterday. Ralph D. Welsh
+was the Project Engineer for Wallops Station.
+-END-

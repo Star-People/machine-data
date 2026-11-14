@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:50:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 688400, "source_ctime_ns": 1793392178429407393, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565195/0025.jp2", "source_mtime_ns": 1785808153000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565195/0025.jp2", "source_sha256": "c86d71000485c82417f3fe86a2560189e54caac9e22390c64bc473f9905e106a"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 808, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ April 67
+TDPT (UFO) Maj Quintanilla70916 phs/4 Jan 68
+UPO Observation, April 1, 1967
+JAN 11 1968
+POPT (UFO) OFFICIAL FILE CY
+New Orleans Police Department
+New Orleens, Louisiana 70150
+The Aerial Phenomena Office is in receipt of an unidentified
+riying object (uro) report from New Orleans, Louisiana which
+occurred on April 1, 1907 at approximately 4:30 pm.
+2. The witness stated that he observed a dark disc shaped object
+that disappeared to the north. He also managed to photograph the
+object.
+3. Did you receive any reports of unusual objects for this date?
+we would appreciate your comments as to a possible cause for this
+sighting.
+4. Thank you for your assistance on this natter.
+HECTOR
+XINIANILA, Or, MajOr, USAF
+Chier, Kerial Phenomena Office
+Aerospece Technologies Division
+Production Directorate

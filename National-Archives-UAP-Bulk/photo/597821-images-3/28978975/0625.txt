@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:29:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7106707, "source_ctime_ns": 1793380971251779411, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978975/0625.jpg", "source_mtime_ns": 1785700646000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978975/0625.jpg", "source_sha256": "8e3b97b80cadb5cdfb8d4a6111275da101ef29476c0da4c95289bffaa0c439c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 642, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HQB072CZCJTD260ZCBJA157
+00 RJEPHQ
+DEPARTMENT OF THE AL: FORCE
+STAFF ESSAC DIV ION
+INCLASS FIED MESSAC
+INCOMIIG
+454 . .
+DE RBEMO 11
+0 170953Z
+FM CCGD SEVEN JACKSONVILLE FLA
+stic
+TO RJEDDN/ COMA IRDEFCOMD.
+ZEN/COMEA ST SE AF RON
+RJEPHQ/ HQ USAF
+-1001-29 14M
+INFO ZEN/COMDT COGARD
+ZEN/ COMEASTAREA COGARD
+USCG GRNC
+BT
+MIAMI POLICE SGT REGAN AT 0945Z REPORTED BRIGHT LIGHT IN SKY
+APRX 20 TIMES SIZE OF STAR X DUE EAST OF MIAMI AT 45 DEG ELEVATION X
+APPEARS MOTIONLESS X VERY BRILLIANT
+BT
+• ALDEBRAN
+ELEV
+CFN 0945Z 20 45
+17/0953Z JUL RBEMO
+PLETADIES AT 45°
+NOTE: Advance copy delivered to CIN.
+ACTION: CIN
+INFO : OOP
+AF IN : 21486
+(17 Jul 58)
+T/J

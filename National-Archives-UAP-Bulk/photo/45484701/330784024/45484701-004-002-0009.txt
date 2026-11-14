@@ -1,0 +1,157 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:36:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12741724, "source_ctime_ns": 1793362885350489158, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0009.jpg", "source_mtime_ns": 1785685037000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0009.jpg", "source_sha256": "5d8af72024f596cd7b9dff4190a61e3fa237a0a978cf9a89785b0eb7bef634dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 1038, "chars": 6485, "method": "ocr", "page": 1, "variant": "plain-vision"}
+472
+SOURCES AND THE UNIVERSE
+PT. V
+hear a pape
+on this subject. I believe, however, that the papers in this
+session will slow that the radio astronomers must make considerable progress
+before they
+can offer the cosmologists anything of value.
+Take first the
+method of conting the sources: this technique is subject to serious errors
+when the number of sources is too great in relation to the resolving power
+of the aerial system. We are to hear two papers on this subject.
+The
+limitations of the second method, namely measuring the probability distribu-
+tion, are less well understood and perhaps we can touch on this subject in
+discussion.
+At first sight one would expect it to be significantly affected by
+the enormous!
+dispersion in the apparent angular diameter of extragalactic
+sources that
+must presumably be produced by clusters.
+Two obvious difficulties in drawing cosmological conclusions from the source
+counts are : ()
+we have no distance calibration, and (2) there is no evidence
+that we are
+lealing with a homogeneous population. In dealing with both
+these difficult
+s it would be valuable to have observations of the apparent
+angular diam
+ters of large numbers of the Class II sources. Such observations
+as have been
+hade indicate that their diameters are consistent with those to
+be expected
+r extragalactic sources, but there are few published measure-
+The
+easurement of a large number of diameters would permit us
+to test the h
+nogeneity of the sources; furthermore, coupled with additional
+optical identifi ations, it might be possible to estimate the distances to which
+our measurements are reaching.
+It is also possible, and I hope we shall hear
+something about this in the present session, that measuring, diameters is a
+more promising way of testing cosmological theories than counting sources
+in different n
+agnitude ranges.
+2. THE IDENTIFICATION OF SOURCES
+A few sour
+s, less than twenty, have been identified with normal galaxies
+and in this co
+text normal implies that these galaxies show no trace of
+abnormality
+Then examined photographically. The apparent radio (m.) and
+photographic d
+29) magnitudes of these few galaxies have been compared, and
+an attempt ha
+been made to test whether the quantity m, - m, is constant
+for a given ty
+e of galaxy and if it varies systematically with type. The
+published mea
+urements show that radio emission is a common property of
+Sb- and Sc-ty
+spirals, and the few available results show a scatter in the
+value of mr
+mp of about 2 magnitudes. It has also been suggested
+tentatively on he basis of these results that Sc-type spirals radiate less radio
+energy in rela
+ion to their light than Sb-type spirals do. Observations of the
+Magellanic Cloids, which are bedeviled by the problem of establishing reliable
+integrated ma
+nitudes, suggest that irregular galaxies may be relatively weak
+radio emitters, while, so far, all attempts to detect the radio emission from
+a single E- or
+Sa-tvpe nebula have failed.
+Dr. Hazard
+and I are engaged in a further study of normal galaxies and
+I will give a short report on this work later. Briefly, we have found that
+NO. 85
+HANBURY BROWN
+473
+for galaxies of type Sb and Sc there is a surprisingly close rel
+ition between
+the radio and light emission, the scatter in m, - m, for the
+en galaxies
+so far observed does not exceed + 0.5 magnitudes.
+The resu
+ts also show
+that any systematic difference in m, - m, for Sb and Sc is small and does
+not exceed 0.5 magnitudes.
+In analyzing our data we have tried to compare
+as closely as possible the total radio and light output from the
+laxies.
+The
+photographic magnitudes must, of course, be corrected for gala
+ic absorption
+and " diaphragm " effects, also for the orientation of the Galax
+with respect
+to the observer. The radio observations must be corrected for
+the apparent
+angular size of the galaxies in order to derive their integrate
+magnitudes.
+As an example of the importance of this last correction I woul
+like to draw
+attention to the fact that when observed at 160 Mc/s the angu
+r diameter of
+M 31 is about 10 × 5 degrees, and it is therefore reasonable to
+expect that
+an Sb galaxy of comparable size will have an angular diame
+er of at least
+half a degree even when it is as faint as apparent magnitude
+- 10.
+In addition to these normal galaxies a few radio sources have
+een identified
+with abnormal galaxies.
+The most striking examples are
+the colliding
+galaxies in Cygnus and Perseus, and the curious Galaxy NO
+• 4486 which
+has a jet protruding from the nucleus.
+These objects exhibi
+a far higher
+ratio of radio emission to light than the normal galaxies, and as an ex-
+treme example the value of m, - m, for the Cygnus source
+is about -14
+compared with a value of about +0.5 for normal spirals. More identifications
+are badly needed and we look forward to two papers on this subject.
+The
+difficulties of this work are great: first, the radio positions are generally too
+vague, and second, the majority of radio sources appear to be associated with
+faint objects.
+In conclusion I must emphasize how far we are at present from under-
+standing the extragalactic radio-source population; we have in fact no reliable
+idea of the shape of the radio-source luminosity function.
+We heed to study
+the radio emission from galaxies, not only by type, but also under different
+conditions of space density and interaction.
+Our present data
+ell us about
+the behavior of single spirals in conditions of comparatively low
+espace densitv
+such as that prevailing in the Ursa Major Cloud, and we also know something
+about the radio emission in the other extreme case where spirals are in
+violent collision. But, as yet, we have very little information alout the radio
+emission in intermediate conditions; for example, how do galaxies behave
+in the space density that prevails in compact clusters such as the Coma and
+Perseus clusters? There is some evidence that the radiation from these clusters
+is greater than one would expect on the basis of the little that is known about
+individual galaxies under conditions of low space density. It may well be that
+in a compact cluster the individual galaxies effectively lose their individual
+identities as far as radio astronomers are concerned, and it will be of great
+interest and importance to extragalactic studies to test this by observation
+I hope that if there is any observational evidence on this last point it will
+be brought forward in this session.
+Declassification Authority: NND 923007

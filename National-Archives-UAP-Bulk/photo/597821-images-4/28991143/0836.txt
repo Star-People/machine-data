@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:06:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7511064, "source_ctime_ns": 1793384821563523534, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991143/0836.jpg", "source_mtime_ns": 1785747998000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991143/0836.jpg", "source_sha256": "762ddd766179ada8d4b0d9be85b99b71be82b9a44880592e03fa5961bef75d88"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 239, "method": "ocr", "page": 1, "variant": "clean-vision"}
+It 1a requested that you pass this information to SAFL. for forwarding
+to it. i
+Louse Armed Services Sub-Committee.
+FOR THE COMMANDER:
+Mutass
+PHILTR Q. EVANS.
+Deputy for Science and Components
+COORDINATION: AFCIN-4E
+Jail Me DATE 22 Gil 61

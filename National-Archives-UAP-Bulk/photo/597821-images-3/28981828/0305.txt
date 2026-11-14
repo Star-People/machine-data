@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:01:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5834400, "source_ctime_ns": 1793381854387110465, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981828/0305.jpg", "source_mtime_ns": 1785700651000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981828/0305.jpg", "source_sha256": "3ea0373541f180ef7393f2ed1f09a381a71e11629a4304faba037be7de9e3f2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 552, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FRUTIN
+SAFOI-2a/Maj Tacker/mhb/72291
+20 November 1959
+Dear Mr.
+The AeroSpace Technical Intelligence Center at Wright-
+Patterson Air Force Base, Ohio, bas forvarded your negative
+to us, and ve are returning it herewith.
+Their evaluation of the negative disclosed that the
+image in the photograph is an aircraft.
+Sincerely,
+Inclosure
+LAWRENCE J. TACKER
+Major, USAF
+Public Information Division
+Office of Information
+Mr •
+c/o Venda
+Companhia De Maquinas Automaticas, IDA.
+PORTUGAL
+13q. -Lisboa-1
+VComeback OI-3d
+Reader OI-1
+ОЧІСЕИНО ЗБУЛИСЕВ
+AVO: S0 In 08

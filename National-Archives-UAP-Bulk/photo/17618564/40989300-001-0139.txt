@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:53:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1433883, "source_ctime_ns": 1793356050435925373, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0139.jpg", "source_mtime_ns": 1785564593000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0139.jpg", "source_sha256": "28e925f05bfd06cc911a4f32392beb781160e784dc7034bd2232ef68dd0e3153"}
+
+===== PAGE 1 =====
+{"alpha_words": 276, "chars": 1767, "method": "ocr", "page": 1, "variant": "plain-vision"}
+diagrams, time-height curves, trajectories and photographs of signi-
+ficant flights, grouped by flight numbers. The flight numbering system
+has been revised since its inception and now only those flights in which
+an attempt was made to control the altitude of the balloon are included
+in the summary. Excluded are flights made to test special gear and
+launchings which were not successful.
+Flights A, B, 1, 5, 6 and 7 all made use of meteorological balloons
+in various arrangements and combinations. Each flight included one or
+more "lifting balloons" which were to be released from the train when
+the desired altitude was reached, the other balloons then theoretically
+supporting the load at the constant altitude.
+Figures 31 and 36 show the two methods used to group the balloons
+in clusters. Figure 31 shows the linear array borrowed from cosmic ray
+flight techniques; figure 36 shows the modified "Helios Cluster" in which
+lines from the balloons are joined at a central ring at the top of the
+load line.
+The Helios cluster was by far the easier to handle because of the
+simpler rigging and the reduced launching strains.
+Flight 7 was the only one of this group in which anything approach-
+ing a controlled altitude was attained. The previous flights failed to
+level off when the lifting balloons broke loose. In flights 1, 5 and 6,
+where ballast dropping devices were included, the ballast either did not
+drop, or the dropping did not have the desired effect. In flight 7,
+however, the cluster rose till the lifters were cut off, descended until
+sufficient ballast was dropped to cause the cluster to rise to a still
+higher altitude. There several balloons burst, resulting in a final
+descent. The time-height curve for this flight is shown as figure 38.
+- 27 -

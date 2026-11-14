@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:51:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1162140, "source_ctime_ns": 1793356034716163174, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0138.jpg", "source_mtime_ns": 1785564588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0138.jpg", "source_sha256": "9efec9e5f772c90f9e6b35dc234c5305ed85c359aef82696aa44212615a46853"}
+
+===== PAGE 1 =====
+{"alpha_words": 253, "chars": 1704, "method": "ocr", "page": 1, "variant": "plain-vision"}
+This relationship between loss of lift and loss of superheat is
+substantiated by analysis of Flight 94. From the rate of descent
+the unbalance (using the equation of Clarke and Korff, see page 33)
+is in the neighborhood of 5 kilograms. Although there was no
+temperature measurement on this flight, a previous flight of
+this type indicated a superheat of approximately 40°0. By equation
+(10), with a gross loed of 52 kg., the unbalance caused by loss
+of all of this superheat would be 9.7 kg. It is believed that
+ventilation past the balloor during a low velocity descent before
+operation of the ballast mechanism caused loss of superheat. Since
+this loss caused greater descent, and thus more ventilation, super-
+heat was lost. An enormous rate of ballast flow would have been
+required to check descent.
+D. Adiabatic Lapse Rate
+One of the causes of temperature difference between the lifting gas
+and free air during rise or descent of balloon systems is the
+difference in lapse rates of eir and the lifting gas. The adiabatic
+lapse rate is that temperature change caused by adiabatic ex-
+pansion or compression of a gas during ascent or descent through a
+given vertical distance. The actual lapse rate of the lifting gas
+is the adiabatic lapse rate plus the effects of conduction and
+radiation. The adiabatic lapse rate is defined as:
+(1)
+where :
+LR = A9
+A = 2.39 × 10° cal / erg
+Cp = specific heat at constant pressure
+g = acceleration caused by gravity
+In the metric systen for helium, ( Cp = 1.25 aC/gm
+L = _980X 239 x 10-3
+1.25
+= - 1.87 °C / km
+or :
+LR =
+- .57°C/1000 ft
+The ediebatio lapse rete for sir, ( Cp = 0.239 C/gm):
+LR =
+or :
+980 x 239 x 10-3 = - 9.8 °C/ km
+0.239
+LR =
+- 2.98°C/1000 ft
+-38-

@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:32:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8200806, "source_ctime_ns": 1793379562189555502, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972639/00786.jpg", "source_mtime_ns": 1785701065000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972639/00786.jpg", "source_sha256": "4ffbd2f1750bbb2c449d005c8f23965b92037c703fa4bfcbf96c0c0a6c136dd9"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 324, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10. Location of Air Traffic in Area At Time of Sighting.
+Military - No local aircraft vere flying.
+b. Civil - Unlown.
+1l. Title of Reporting Officer and Comments.
+It. Colonel Bernard P. Whitehouse
+Wing Operations Officer
+1405th Air Base Wing
+Scott Air Force Base, Illinois
+No comment.
+12. Physical Evidence.
+a. None.
+Sire
+3

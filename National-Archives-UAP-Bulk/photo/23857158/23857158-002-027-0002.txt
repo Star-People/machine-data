@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:37:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16231462, "source_ctime_ns": 1793358422751023985, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-027-0002.tif", "source_mtime_ns": 1785681087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-027-0002.tif", "source_sha256": "8e0f8347c3b77e2ddb6a03975863b2fc98a772f555f70f70f11bf7e21135d70e"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 984, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+JUFLN 33
+2A LOOKED UP AFTER GETTING OUT OF AUTOMOBILE
+28 45 DEG ELEVATION UNCERTAIN S0 DEG AZIMUTH
+2C 45 DEC TION UNCERTAIN 360 DEG AZIMUTH
+STRAIGHT LINE OF FLIGHT WITH NO MANUEVERS
+2E 5 TAST
+5 SECONDS
+3A GROUND-VISUAL
+32 NONE
+3C NZA
+42335 5257 3200C 54.
+4B NIGHT
+5 29 DEG 41 1/2 MINUTES NORTH LAT 95 DEG 22 1/2 MINUTES WEST LONG
+SA
+(REPORTING OBSERVER), AGE ELIABILITY UNKNOWN.
+RS
+- HOUSTON, TEX, GENERAL TRAFFIC AGENHOUSTON, TEX, HOUSEVIFE,
+RELIABILITY, UNKNOWN.
+6B N/A
+TA CLEAR, SLIGHT BREEZE, DRY, COLD
+7B WIND VOLICITY AND DIRECTION 30/0525Z DEC: SURFACE WINDS WESTERLY•
+PAGE THREE JUFLN 33
+7D VISIBILITY 15 MILES
+7E 30/0525Z NO CLOUD COVER
+7F NONE
+& NONE
+9 NONE
+10 NONE
+11 NONE
+12 ASSI OPERATIONS OFFICER, MAJOR ROBERT R. PERIGO COMMENTS: DUE
+TO LACK OF OTHER SUBSTANTIATING REPORTS OR EVIDENCE,
+NO ANALYSIS
+IS POSSIBLE. WEATHER BUREAU, RADAR FACILITIES AND CONTROL TOWERS
+IN THE AREA WERE CHECKED WITH NEGATIVE RESULTS.
+30/20432 DEC JWFLN

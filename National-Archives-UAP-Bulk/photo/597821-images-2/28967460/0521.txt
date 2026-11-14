@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:03:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6428441, "source_ctime_ns": 1793378282947594249, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967460/0521.jpg", "source_mtime_ns": 1785696643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967460/0521.jpg", "source_sha256": "3ff1e6bf459e91b7f532d263972439c0e5dc546b755814e043074eea10c5bd61"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 675, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ROTION
+& SEP 56
+07:30
+9 11 5559
+RC 094
+PD117 YDB092 TYC298 TMB712SNA029SND001
+PP RJEDEN RJEPNB RJEDWP RJEPHQ
+DE RJEPSN 1D
+ZLEY
+P 2627292
+IM CMDR 655TH ACWRON WATERTOWN AF STA NY
+7 - 4x 2
+TO RJEDEN/CMDR ADC ENT AF BASE COLORADO SPRINGS COLO
+RJEPNB/CMDR EADF STEWART AF BASE NEWBURGH NY
+RJEPSN/CMDR 32 AD(D) SYRACUSE AF STA NY
+AJEDWP/CMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATTERSON AFB
+OHIO
+RJEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASH 25 D.C.
+RJEPNB/CMDR EADF CIC STEWART AF BASE NEWBURGH NY
+/UNCLASSIFIED/ ACL C-OPS 29219 PD FLYOBRPT CLN UNIDENTIFIED FLYING
+OBJECT CMM AFR 220-2 PD
+A. CONE
+B. A DIME AT 12 FEET
+PINK TURNING TO WHITE
+D •
+ONE
+MENTIONED ABOVE
+NONE
+NONE

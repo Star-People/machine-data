@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:24:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4812700, "source_ctime_ns": 1793360238801046724, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-050-0002.tif", "source_mtime_ns": 1785681666000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-050-0002.tif", "source_sha256": "0ff0e3a519dba14d4f77909c3625d13d621a84a4f73bf1267a1b3cd8740be705"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 918, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE THREE RJEPDG 1G
+(3) N/A 1/LT HALBROH 2/LY SCUTT S/SGT HUNTER AND ADAMS A/1C TEXIDOR
+A/2C ALLMON A/2C SCHELDECUP A/2C TULLY A/B VANDERGRIFT
+(7) WEATHER AND WINDS ALOFT CONDITION AT TIME AND PLACE OF SIGHTING
+(A) 5022 6H
+(B)
+SURFACE
+7000
+10300
+16020
+22070
+30000
+DEG
+3Ø8
+380
+2,90
+299
+250
+KT
+25
+4Ø
+45
+TO 55
+65
+81
+(C) 5000 FT
+(D) 6H
+(E) CONDITION 3-10 COVERAGE
+(F) NONE
+(8) SKY CONDITIONS WERE RELATICELY CLEAR WHERE AS MARS WAS VISIBLE
+(9) DISPATCH 2 F94C DEBATEABLE FROM ILG BY RANDAL MAN
+OSTRANDER
+(10) AVOCA CAA WORKING 3 A/C NYCAA HAS 8 A/C IN THIS AREA
+(11) SENIOR DIRECTOR MY FIRST ANALYSIS WAS THE POSSIBITY OF A WX
+OBSERVATION BALOON WITH LITE ATTACHED AND A CONCLUDING ANALYSIS
+PAGE FOUR RJEPDG 1G
+OF THIS OBJECT BEING A STAR OR PLANET BECAUSE NO CONTACT WAS MADE FROM
+THE AIRCRAFT SCRAMBLED AND FLYING IN THAT VICINITY AT VARIOUS AITITUDES
+(12) N/A
+01/0415Z OCT RJEPDG

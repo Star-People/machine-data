@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:58:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4402548, "source_ctime_ns": 1793377902606867052, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965913/0623.jpg", "source_mtime_ns": 1785696499000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965913/0623.jpg", "source_sha256": "db4e3807fe8bc77ba83dc193e4d0d4fbfbf7c388c1b63d1e8c3f2cc5dbf59438"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 763, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+21 June 1956
+3. DATE-TIME GROUP
+Local _
+0636
+5.
+GM T
+21/11362
+PHOTOS
+• Yes
+P:No
+7. LENGTH OF OBSERVATION
+9 seconds
+10. BRIEF SUMMARY OF SIGHTING
+Object sight
+seconds. Observers
+2. LOCATION
+Cincinnati, Ohio
+4. TYPE OF OBSERVATION
+• Ground-Vi suol
+U Air- Visual
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+1 then severa
+radar for 9
+were checking
+XE: Ground- Radar
+Cl Air-Intercept Radar
+Radar
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+axother around a utter
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+See case file. Radar analysis
+indicates ground clutter as most
+probable cause.
+ATIC FORM 329 (REV 26 SEP 52)

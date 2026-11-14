@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:15:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 838724, "source_ctime_ns": 1793390184176540754, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547385/0191.jp2", "source_mtime_ns": 1785808139000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547385/0191.jp2", "source_sha256": "d2aa9017eb9dcddf6c3e78441b24ab09b0d20fc0a845c03aa9aa88061ec37983"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 99, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pag• 8
+Not
+- EchoI
+Echo F
+2144 west of city 42 day Above
+hoizon movin, NE
+Not Pegusus I, II on III

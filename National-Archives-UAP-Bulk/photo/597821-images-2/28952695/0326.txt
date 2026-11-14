@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:19:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3630603, "source_ctime_ns": 1793374677349549298, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952695/0326.jpg", "source_mtime_ns": 1785696686000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952695/0326.jpg", "source_sha256": "2360ec55e4e030f47fc3d41243d4139d81178618a8d87adeeb490c5c2df24422"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 512, "method": "ocr", "page": 1, "variant": "plain-vision"}
+,utrick Air Force Base, Florida
+22 January 1953
+Description of Incident
+At 2400 & four airmen at Patrick AFB, Florida, visually observed for
+three minutes a fiery red-orange ball traveling soundlessly from north to
+south at high speed.
+II. Discussion of Incident
+The report 1a very brief. Therefore, ATIC has taken action to investi-
+gate the incident further.
+III. Conclusion
+Insufficient data for evaluation.
+DOWNGRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS
+BOD DIR 5200.19
+T53-3695
+50
+UNCLASSIFIED

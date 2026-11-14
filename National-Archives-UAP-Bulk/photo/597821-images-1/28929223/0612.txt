@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:27:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6219326, "source_ctime_ns": 1793368697392089163, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929223/0612.jpg", "source_mtime_ns": 1785688597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929223/0612.jpg", "source_sha256": "abf1e8d8e32da159c42bb24c33c56b5bde164e39cb347002ae933c30e9859ed6"}
+
+===== PAGE 1 =====
+{"alpha_words": 222, "chars": 1387, "method": "ocr", "page": 1, "variant": "plain-vision"}
+METHOD II.
+Direct use of Eurth's Magnetio Field.
+One obser
+(incident 66) noticed a viole
+motion of a hand-held
+compees.
+If me samume fron this thet the objecte produced a mognetic
+field, comperable with the Earth's field, namely 0.l gauss, and that the
+observer found that the object subtended an angle e at his position, then
+the ampereturne of the required electromagnet is given by
+ni =
+30 R
+where R is the range of the object.
+For instance, if R is one kiloneter and the object is M0 neters in diameter,
+then si = 1 billion ampere-turns.
+Now if the object were actually only 10 meters away and were correspond-
+ingly analler, namely 10 em in diameter, it would still require 10 million
+ampere-turns.
+These figures are a little in excess of what can be conveniently done
+on the ground. They make it seem unlikely that the offect was actually
+observed.
+Now the Earth's magnetic field would reuct on such a magnet to produce
+not only a torque but also a force. This force depends not directly on
+the Earth's field intensity but on its irregularity or gradient. This
+force is obviously minute since the change in field over a distance of
+10 meters (assumed diameter of the object) is sourcely measurable - more-
+over the gradient is not predictable but changes due to local ore deposits.
+Thus even if the effect were large onough to use it would still be un-
+relieble and unpredictable.

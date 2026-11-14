@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:33:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8789515, "source_ctime_ns": 1793387764094020395, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999129/1078.jpg", "source_mtime_ns": 1785748431000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999129/1078.jpg", "source_sha256": "3c74bc3d85bc0f52dcf388f940dfde45cb119a2c69993cad7388c97ba3e05b8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 796, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+15 September 1962
+3. DATE-TIME GROUP
+Local
+GM T
+5. PHOTOS
+16/0620źšŘŚ
+• Yes
+MKNO
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+37.20N 124.08W (Pacific)
+4. TYPE OF OBSERVATION
+XE Ground- Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+SOURCE
+Military
+6. NUMBER OF OBJECTS
+seconds
+one
+10. BRIEF SUMMARY OF SICHTING
+Yellowish green flare,
+meteor,
+bright giving
+illumination
+very
+of
+almost
+daylight for
+3 seconds.
+12. CONCLUSIONS
+Was Boiloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+•
+Probably Aircraf
+Possibly Aircraf
+ax Was Astronomicel Meteor
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Dato for Evaluation
+Unknown
+9. COURSE
+West
+11. COMMENTS
+Duration too short for flare or
+decay. Case evaluated as a meteor
+sighting.
+ATIC FORM 329 (REV

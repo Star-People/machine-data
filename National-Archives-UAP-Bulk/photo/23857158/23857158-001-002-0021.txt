@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:55:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3341738, "source_ctime_ns": 1793358066480167316, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-002-0021.tif", "source_mtime_ns": 1785680984000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-002-0021.tif", "source_sha256": "83cde25dbc1127a9821b3d313ff9556add940bad6eddc30f36fe2ad0a71d53f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1227, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4Sth Air Rescue Squadron's Controllers Log Continued.
+30/1545/GRB
+30/1610/G2B
+30/1625/CRB
+30/1635/GRB
+30/1645/GRB
+30/1647GRB
+30/1705/CRłęłŚ
+30/1732/GRB
+30/1724/GRB
+30/1735/GRB
+30/1815/GRB
+(Delayed Entry) H-19 3338 on the ground at Sylacauga. Standing
+by for further information. That is Reecue Control is standing by.
+Capt. Miller of Phenix City police called and reported that
+ground search revealed nothing. Requested to discontinue search,
+SA-16 7207 on the deck at this time.
+C-47 5732 reports that 848 has the object on board and is
+airbore from Sylacauga being escorted by SA-16 7153. 5732 returning
+to the base.
+OSI Mr. Scass notifiad of above information and requested that
+we stand by on a security guard for unidentified object.
+C-47 5732 on the deck at this time.
+Major McCullough Mississippi CAP officially de-alerted at
+this time.
+Georgia CAP officially de alerted thru Major Rognick at this time.
+H-19 3848 on the deck at this time.
+SA-l6 7153 on the deck at this time. Mission officially closed
+for lack of further information,
+Alabama CAP, It. Col Casady officially notified and de-alerted
+at this time.
+TRUE EXTRACTED COPY:
+CHARLES W. KELSO
+maJor, USar
+Operations Officer

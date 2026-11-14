@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:36:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14628940, "source_ctime_ns": 1793357744658875050, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1633-559606-0003.tif", "source_mtime_ns": 1785564965000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1633-559606-0003.tif", "source_sha256": "bcfa9b8730174d1c1332fba7be8890e1637802e64181b2e07558e42d78918a14"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 947, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• HAOCAMA Form No. 2
+(31 May 45)
+SECURITY INFORMATION
+CELOISEN
+10
+IN REPLY REFER TO:
+OKLAHOMA CITY AIR MATERIEL AREA
+TINKER AIR FORCE BASE
+OKLAHOMA CITY, OKLAHOMA
+OCIS / JP
+7 July 1953
+SUBJECT:
+Unidentified Flying Objects Reporting
+THRU:
+TO :
+Commander
+Air Materiel Command
+ATTN:
+MCEP
+Wright-Patterson Air Force Base, Ohio
+Director of Intelligence
+Headquarters, USAF
+Washington, 25, D. C.
+Unidentified Flying Objects Report is forwarded in accordance
+with Air Force Letter 200-5, dated 29 April 1952.
+FOR THE COMMANDER:
+Nand laure
+1 Incl
+AF Form 112 (2 cys)
+w/13 incl
+DAVID A. POWERS, JR
+It Colonel, USAF
+Chief, Security Indoctrination Office
+Inspector General's Office
+Ist Ind
+Hq AMC, Wright-Patterson Air Force Base, Ohio
+10 Jul 53
+TO: Director of Intelligence, Headquarters USAF, Washington 25, D. C.
+AF559606
+Incl
+AF Form 112 w/13 incl
+mm o
+M.M.O.
+Air Force-OC-34M-4-2-52
+SECURITY INFORMATION
+"RESTRICTED
+Declassification Authority: NND 57565

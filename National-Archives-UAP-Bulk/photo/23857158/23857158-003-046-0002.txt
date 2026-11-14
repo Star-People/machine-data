@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T18:36:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13813916, "source_ctime_ns": 1793358546286539604, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-046-0002.tif", "source_mtime_ns": 1785681125000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-046-0002.tif", "source_sha256": "9dea53e3f28461ebfec54ba7e630ab5df51857059c91474a66ac4f04412a83b5"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 925, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+UP 10/18502
+ENO011 ENA167 YDC148 XYA325 XDD133JBA071JBE019
+MM JEDEN JEDWP JEPHQ JWPJB
+DE JWPJB: 3E
+M 201535łą
+FM COMDR 669TH ACWRON PORHUE CALIF
+TO JEDEN/COMDR ENT AFB COLORADO SPRINGS COLO
+JWPJB/COMDR 27TH ADIV DEF NORTON AFB CALIF
+JEDWP/COMDR AIR TECH INTELL WRIGHT PATTERSON AFB OHIO
+JEPHO/DIR OF INTELL HQTRS USAF WASHINGTON 25 DC
+/UNCLASSIFIED/669ACWS 276-Y PD UFOB. 1. A. ROUND. B. NEGATIVE. C. WHITE.
+D. ONE. E. NEGATIVE. F. NEGATIVE. G. NEGATIVE. H. NEGATIVE. I. NEGATIVE.
+2. A. SLOW. B. HIGH. C. WEST. D. FADED AWAY AND GAINING ALTITUDE.
+E. NEGATIVE. F.FIVE MIN. 3. A. GROUND VISUAL. B. NEGATIVE. C. NEGATIVE.
+4•
+A. 200445Z MAY 55. B. NIGHT AND CLEAR
+EJBE
+_5406. B. SAN
+GABRIEL,
+CALIFORNIA. 6. A
+SAN GABRIEL,
+CALIFORNIA. 7. A. CLEAR. 8. NEGATIVE. 9. NEGATIVE. 10. ASSUMED TO BE
+A BALLOON. 11. NEGATIVE. 12. THIS WAS DEFINITELY IDENTIED AS BALLOON.
+BT
+20/1712Z MAY JWPJB
+RGR 011
