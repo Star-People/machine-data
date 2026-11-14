@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:33:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3577546, "source_ctime_ns": 1793374665097608964, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952633/0271.jpg", "source_mtime_ns": 1785696463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952633/0271.jpg", "source_sha256": "ee72ce55e34e988656485fe822be2ec631c02f822708e51ca76e9c7eca9a9830"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 586, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+• OCATION
+13 Jan
+3. SOURCE
+53 13/22502
+Fort Lonmouth
+10. CONCLUSION
+Army E/P
+4. NUMBER OF OBJECTS
+PROBABLY AIRCRAFT
+ene
+5. LENGTH OF OBSERVATION
+1 - 4 Min.
+6. TYPE OF OBSERVATION
+Ground - Visual
+7. COURSE
+North
+3. PHOTOS
+• Yos
+XX NO
+9. PHYSICAL EVIDENCE
+D Yes
+XX No
+FORM
+FTD SEP 63 0-329 (TDE) Provlous editione of this form may be used.
+New
+Possibly a/c.
+11. BRIEF SUMMARY AND ANALYSIS
+Sources state object looked like ball and was reddish-orange
+in color.
+One source states object laft a white vapor trail
+that could be seen 1-2 minutes after object disappeared.

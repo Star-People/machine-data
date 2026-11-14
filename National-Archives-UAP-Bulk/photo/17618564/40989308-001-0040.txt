@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:05:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1175166, "source_ctime_ns": 1793356200067927531, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0040.jpg", "source_mtime_ns": 1785564635000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0040.jpg", "source_sha256": "bb807756ea8f06d1bcc883fd2444c49cae8d86e79bb7e21563b26769d5f29cb3"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1481, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SOURCE: Progress Summary Report on USAF Guided Missile Test Activities,
+Holloman Air Force Base, Alamogordo, New Mexico, l October 1948, composite of
+pages 15 and 22 (frames 1167 and 1174):
+ELECTRONIC AND ATMOSPHERIC PROJECTS SECTION
+BRIEF HISTORY OF WORK DURING PRECEDING MONTHS
+Radar set SCR-584 was deployed at Holloman Air Force Base in August 1948
+for the purpose of tracking special meteorological balloons. Some success
+was attained. Modifications are under way to improve performance from the
+standpoint of range and accuracy.
+REPORT FOR MONTH OF SEPTEMBER: Radar Research Branch by Lawrenz H. Dyvad,
+Captain, USAF, and Max 1. Rothman, Radio Engineer. Upper Air Research Branch
+by Edward A. Doty, Captain, USAF.
+Content reviewed by Charles F. Maas, Major,
+USAF, Director, Electronic and Atmospheric Projects Section.
+UPPER AIR RESEARCH BRANCH
+b. Static Balloon Test for Bursting Diameter: It is necessary to know the
+maximum bursting size of the atmospheric sonding balloon in order to
+calculate the maximum altitude which the balloon can reach, and to know
+how to rig a cluster of balloons. Several balloons were inflated slowly
+to simulate atmospheric ascension, and the bursting sizes were measured
+by triangulation.
+C•
+General: Two balloon cluster of three balloons each were flown with
+several corner reflectors for radar tracking; one cluster reached over
+100,000 feet. Work on this project is hampered by lack of personnel.
+Additional personnel are being requested.

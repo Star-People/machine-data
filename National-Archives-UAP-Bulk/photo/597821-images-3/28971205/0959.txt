@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:37:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4969185, "source_ctime_ns": 1793379134740411065, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971205/0959.jpg", "source_mtime_ns": 1785700629000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971205/0959.jpg", "source_sha256": "c6a0c8bede1ee43fc998c28084237707d5c386bbda4cb34c82ebbe19182a341e"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 481, "method": "ocr", "page": 1, "variant": "plain-vision"}
+775th AC&i Squadron, Subj: UFOB Reports (Cont'd)
+Due to the non-availability of the proper froms, (AF Form
+112 and 112A), the reports as listed in par l and 2 above are for-
+warded to your headquarters in the manner.
+FOR THE COMMANDER:
+Desh & Kovack
+A THEN
+BURNS
+Ist It
+USAF
+Adjutant
+ADODI - B
+Ist Ind
+28 AUG 1957
+Headquarters, Air Defense Command, Ent Air Force Base, Colorado
+TO :
+Commander, Air Technical Intelligence Center, ATIN:
+AFCIN 4
+Wright-Patterson Air Force Base, Ohio

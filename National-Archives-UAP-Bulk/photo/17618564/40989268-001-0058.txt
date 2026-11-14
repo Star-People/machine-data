@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:47:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16631663, "source_ctime_ns": 1793355619868014144, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0058.jpg", "source_mtime_ns": 1785564490000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0058.jpg", "source_sha256": "e2dc38ec98c1c90861920c1408ea307c40caeaf977f2dac8a03513663fb7590c"}
+
+===== PAGE 1 =====
+{"alpha_words": 553, "chars": 3694, "method": "ocr", "page": 1, "variant": "plain-vision"}
+102
+The rest of this film shows an actual test at Ft. Sill, Oklahoma.
+This balloon, payload, fill line arrangement is not the first approach, but is the
+end point of an evolutionary process. In our opinion, this is the way to accomplish a
+balloon launch from a helicopter, with detailed improvements, of course.
+The winch developed for this project is seen in Figure 18. Its function is to pay
+out the payload and balloon-carrying fill hose, and to rewind the fill hose after the
+balloon and payload have been released. Helium gas from the fill bottles in the
+helicopter pass through a rotative fitting in the winch and through the 400 feet of fill
+line to the balloon.
+In addition to giving the pilot peace of mind, the 400-foot fill line also allows the
+balloon to fill in the quiet air outside of the helicopter downwash pattern.
+Figure 19 summarizes the technique shown in the moving picture sequence.
+Figure 20 shows the details of the balloon to load and fill line arrangements. Only
+three tests have been carried out with this configuration, but all were successful.
+The method is thought to have the following advantages:
+1. Factory-packaged balloon is never thereafter touched, eliminating han-
+dling by inexperienced personnel, and balloon handling in difficult circum-
+stances. This should make for good reliability.
+2. Balloon buffeting is minimized with low-velocity forward tow.
+3. Helicopter-piloting problems are minimized by avoiding a hover re-
+quirement which allows easier pilot technique and usable flight instrument
+readings.
+4. Since the balloon does not store on or feed off the winch, winch size is a
+minimum and hose level-winding is possible.
+5. Balloon at end of line supplies aerodynamic damping forces required to
+minimize any whip action.
+Equipment for helicopter balloon launches consists of:
+1. Gas storage bottles secured within the helicopter.
+2. Gas manifolding, valving, and plumbing.
+3. Fill hose (400 feet made for a happy helicopter pilot). Fill hose carries
+electrical leads for all launching functions.
+4. Balloon package release means.
+5. Fill hose disconnect means.
+6. A winch storing the 400-foot fill hose in the helicopter and capable of
+lowering the balloon and payload on the fill hose and capable of retracting
+the fill hose after balloon release.
+To show the size of payloads which may be launched with helicopter equipment
+currently in the inventory, let us take a hypothetical problem of helicopter launching
+balloon units designed to carry payloads to 100,000 feet.
+103
+Figure 21 plots balloon payload against project load in the helicopter composed
+of the following item weights:
+1. Payload
+2. Balloon
+3. Helium
+4. Helium Bottles
+5. Winch
+6. Balloon crew of two.
+On this same curve the payload available from helicopters with approximately
+two hours' duration of fuel shows that the HU-1 series, Figure 22, is suitable for
+launching balloon systems with 100K altitude capability and payloads up to 200 pounds.
+The CH47A, Figure 23, can carry a project load of 6000 pounds, theoretically suf-
+ficient for 1000 pound payloads to 100K ("theoretically", because helicopter cargo
+volume has not been studied in detail). Rough calculations based on known loads
+indicate the one hundred 18-inch spherical fiberglass bottles can be accommodated
+in the cargo space of the CH47A.
+Figure 24 shows the start of a launch test and Figure 25 shows a balloon after
+release from the fill line. In the two techniques just described some improvements
+in the balloon system as a vehicle are offered. The tools are available for your use
+in geophysical research, in communications, in surveillance, or in weaponry.
+Figure 1. Launching Unit on Fighter Aircraft

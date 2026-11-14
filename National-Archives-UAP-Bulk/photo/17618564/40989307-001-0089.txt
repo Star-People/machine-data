@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:25:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 796978, "source_ctime_ns": 1793356196554427049, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989307-001-0089.jpg", "source_mtime_ns": 1785564634000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989307-001-0089.jpg", "source_sha256": "f305f692414cee10d3f0be658a023b97f1861b2bef790e3fb3969ae9c47b2813"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 795, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ONFIDENTTÄL
+Marana Army Air Field, Marana, Arizona
+Williams Field, Chandler, Arizona
+Yuma Army Air Field, Yuma, Arizona
+Santa Ana, California
+Merced Army Air Force Base, Merced, California
+Minter Army Air Field, Bakersfield, California
+Stockton Field, Stockton, California
+Las Vegas Army Air Field, Las Vegas, Nevada
+Kirtland Field, Albequerque, New Mexico
+Hobbs Army Air Field, Hobbs, New Mexico
+Roswell Army Air Field, Roswell, New Mexico
+Marfa Army Air Field, Marfa, Texas
+Western Technical Training Command
+Lowry Field, Colorado
+Denver, Colorado
+Buckley Field, Denver, Colorado
+La Junta Army Air Field, La Junta, Colorado
+Keesler Field, Biloxi, Mississippi
+Amarillo Army Air Field, Amarillo, Texas
+Sheppard Field, Wichita Falls, Texas
+60
+NEAL
+This document is part of an unclassified series

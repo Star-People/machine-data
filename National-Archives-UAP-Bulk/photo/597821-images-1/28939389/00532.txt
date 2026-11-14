@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:35:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4363454, "source_ctime_ns": 1793371670959589063, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939389/00532.jpg", "source_mtime_ns": 1785688962000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939389/00532.jpg", "source_sha256": "47cf4c6cdf3edd57e5f5828855ff8fd66598e8715398d18d6e19eab6d3e34ba9"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 174, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+tina l
+SIGHTING AT 1807
+*
+• Estated Speed
+Based on Visibily
+and apperent distance
+and movement
+300 - 400 K
+ANGULAR ELEVATION
+FAST
+OBSERVATION
+*
+Bacch on later
+in sane locat,

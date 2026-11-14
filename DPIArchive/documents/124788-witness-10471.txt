@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-13T06:49:41Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 295012, "source_ctime_ns": 1788304237723471953, "source_file": "DPIArchive/documents/124788-witness-10471.pdf", "source_mtime_ns": 1785541050480000000, "source_rel": "DPIArchive/documents/124788-witness-10471.pdf", "source_sha256": "9c0639b3d9e3ddab671dd7fbc2d47a53cd9f0144d8549240411b0d197af32342"}
+{"created_utc": "2026-11-14T16:24:52Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 295012, "source_ctime_ns": 1794413240288756720, "source_file": "DPIArchive/documents/124788-witness-10471.pdf", "source_mtime_ns": 1794413240277847588, "source_rel": "DPIArchive/documents/124788-witness-10471.pdf", "source_sha256": "9c0639b3d9e3ddab671dd7fbc2d47a53cd9f0144d8549240411b0d197af32342"}
 
 FROM      Tony Craddock, INTERNET:                   g
 TO:       "Steven M. Greer M.D.", Dr_ET

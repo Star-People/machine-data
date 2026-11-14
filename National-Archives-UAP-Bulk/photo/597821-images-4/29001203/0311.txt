@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:41:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7349227, "source_ctime_ns": 1793388444088125938, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29001203/0311.jpg", "source_mtime_ns": 1785748003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29001203/0311.jpg", "source_sha256": "9cd841990b40e551138d72ff301c9fcc5c1ddcfac16ac1a2e4a2f312b69a8ebf"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 693, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SMB BØ14
+A684ZCECA080
+YY RUEAHQ
+DE RUHPF B025
+ZNR
+Y 170959Z
+FM COMBARPAC
+TO RUHPHH/COM HAWSEAF RON
+RUMLKM/CINCPACAF
+RUAUAAH/ HADD KUNIA
+ZEN/CINCNO AB
+INFO RUECW/ CNO
+CMEAHQ/ COFS USAF
+RUHPA/ CINCPAC
+RUPB/ CINCPACFLT
+RUHAFS/ CINCUSARPAC
+ASUSRTKMP/KR AFBA YCOM ZRCKMAN
+RUECW/ SEGNAV
+NAVY GRNC
+BT
+UNCLAS.
+A. JANAP 146D
+1. MERINT EVALUATION. MY 170855Z
+2.. COLOR SIMILAR TO PLANET VEFUS
+AVAILABLE FOR
+COMPARISON AT TOS. APPARENT SPEED SLOW. UNABLE
+TO DETERMINE ALTITUDE
+3. EVALUATION. UNIDENTIFIABLE
+BT. NOTE:: Adv ys delivered to NIN, DIA & KOPX.
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFED MESSAGI
+INCOMING
+AF IN : 2172 (17 Jin 63) 8/JeJ
+INFO
+* NN53: 824, 08-13, 038810-2
+-123-

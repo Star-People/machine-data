@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:39:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6534170, "source_ctime_ns": 1793376734335810174, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961860/0117.jpg", "source_mtime_ns": 1785696914000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961860/0117.jpg", "source_sha256": "dd8b7c698414786c0d12971a72f7681fb7fdca64181c3ee4dc18cbc8ca133e44"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 904, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+30 Apr11 1955
+3. DATE-TIME GROUP
+Local
+CM T 38/1018 2 Apr 55
+5.
+PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+Unk
+2. LOCATION
+Live Car, Florida
+4. TYPE OF OBSERVATION
+a Ground-Vi sual
+• Air- Visual
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+one (1)
+10. BRIEF SUMMARY OF SIGHTING
+Ore (1) white and red object was observed to
+drift sloyly to the south-east. Little
+further information vas available.
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+SE
+11. COMMENTS
+Due to the lack of miticiant infor-
+mation in the prolininary report to
+warrant a follow up investigation, none
+was authorized by this organization.
+(4602D AISS)
+Possibly balloon.
+AISOP Form 5 (15 Oet 54)

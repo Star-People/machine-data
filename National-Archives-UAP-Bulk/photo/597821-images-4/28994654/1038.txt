@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:42:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8117485, "source_ctime_ns": 1793386035863875149, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994654/1038.jpg", "source_mtime_ns": 1785748183000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994654/1038.jpg", "source_sha256": "5fce88bc039e5a9b9e8c1e0617a9061f842455541dbf53ac2cf3185c3e10f97e"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 733, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+19 Ser 61
+3. DATE-TIME GROUP
+Local
+GM T
+1921222
+5. PHOTOS
+• Y•s
+7. LENGTH OF OBSERVATION
+18 min
+10.
+BRIEF SUMMARY OF SIGHTING Ret
+urn on
+radar
+appearing as norm
+target
+at 62,000
+at contact
+, ox.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+N Concord AFS, Vermont
+TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+SOURCE
+› Ground-Rodor
+• Air-Intercept Radar
+Militar
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+EX Probably Balloor
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly
+Aircraft
+Was Astronomical
+Probably Astronomica
+Possibly Astronomical
+Ossufficient Date for Evaluation
+Unknown
+COMMENTS Re
+, ive
+low speed
+and high
+altitude coupled vith erratic course
+uding
+arget was
+ATIC FORM 329 (REV 26 SEP 52)

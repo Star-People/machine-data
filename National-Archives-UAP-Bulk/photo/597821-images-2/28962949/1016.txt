@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:39:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6843913, "source_ctime_ns": 1793377206479688644, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962949/1016.jpg", "source_mtime_ns": 1785696923000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962949/1016.jpg", "source_sha256": "b41721c19fe20863dc3de702368e9536fcf41cc4e24aff70d2c894c326067560"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 508, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• AZIMUTH 310 MAG ELEV THIRTY DEGREES
+C. AZIMUTH 310 MAG ELEV ZERO DEGREES
+D. MANEUVERED VERTICALLY AND HORIZONTALLY FR POINT OF ORIGINAL SIGHTING.
+PAGE TWO RJWPGU 18
+E. DESCENDED AT END OF SIGHTING AND APPEARED TO LAND.
+F. O E HOUR TEN MINUTES
+3. A. GROUND VISUAL
+B. NONE
+C. NA
+4. A. 250715Z
+B. NIGHT
+5. THREE MILES NW GLENDIVE MONTANA
+6. A. MR I
+e, 31,
+HOUS EPAINTER
+MRS
+27 ADDRESS AS ABOVE, HOUSEWIFE.
+B. NA
+7. A. CLEAR AND CALM
+B. 290/35
+300/25
+GLENDIVE, MONTANA
+PAGE THREE RJWPGU 18
+28ø/35
+260/5
+262/35

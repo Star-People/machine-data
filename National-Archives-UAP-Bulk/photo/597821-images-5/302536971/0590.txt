@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:02:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 969990, "source_ctime_ns": 1793389141153017024, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536971/0590.jp2", "source_mtime_ns": 1785808669000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536971/0590.jp2", "source_sha256": "d92fd866dd0a775fb996b87c9fbc8680028190103d7885b4e3af36cbbb5de7f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 820, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Information Only
+Sourse:
+Sauser News, Vol 12, #1, March 1965
+Cape Kennedy, Florida
+5 & S December 1964
+NEWS BRIEFS: On December Sth and 8th, sightings of UFOs were made
+at Cape Kennedy, Florida. In the first Instance, a green light was seen
+to
+move from north to south at very high speed. This was observed by thousands of
+people in the area, many of whom believed erroneously that there had been an
+explosion at the Cape. The public information officer at nearby Patrick Alr
+Force Base issued a press release stating: "Security police at Cape Kennedy
+have reported a blue and silver object traveling at a high rata of speed on a
+north to south course, and west of Cape Kennedy over the ocean.....There were
+no explosions at Cape Kennedy at the time, and no launchingsi
+Military off1-
+cials could find no explanation..-

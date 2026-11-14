@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:31:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1720028, "source_ctime_ns": 1793392912228747634, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572146/1187.jp2", "source_mtime_ns": 1785808390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572146/1187.jp2", "source_sha256": "38bd03b1d9e3f0b939b69e921c6dd32de89a0fcc21a2189ec0af11316e65293e"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 633, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSABE BRANCH
+INCOMINE MESSABE
+AF IN: 60904
+PE 3 of 4
+POINT ATC DIVISION
+De
+OFERAT IONS SANCLEY POINT
+AT C DIVISION
+PAGE 3 RUMALB 15 UNCLAS
+22. MANILA 1800Z WEATHER 25 SCAT 10 BKN ¿ HI BKN(B MILES CALM SANGLEY
+1800Z WEATHER 15 SCAT 70 BKN 10 MILES 040/9
+12/12002 BSERVAT ION CLARK AB
+WINDS
+SM #50/12
+TEMP
+PLUS 16C
+10M 090/-8Ś
+ILUS SC
+15M 178/17
+28M 130/3ł
+MINUS 1C
+MINUS 11C
+25M 120/21
+MINUS 20C
+32 22/25
+35M 15 0/2ZźŘę
+40M 160/25ł
+MINUS 31C
+MINUS 45 C
+MINUS 57C
+45M 160/39
+50M 152/25šŘŚ
+MINUS 68C
+MINUS 78C
+53M TGEPXO1
+23. NONE
+24. NONE
+MINUS 84C
+PORA
+AFHQ JAN 65
+0-309C
+UNCLASSIFIED

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:37:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5174317, "source_ctime_ns": 1793368900632628591, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929869/0211.jpg", "source_mtime_ns": 1785688800000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929869/0211.jpg", "source_sha256": "1574fd7deb6438d5b196f019d258144d7c7683d8310cc4ec456d7699914ef4de"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 384, "method": "ocr", "page": 1, "variant": "plain-vision"}
+D
+Inoident 175 -- near iwin Fails, Idaho -- 13 August 1947
+There is clearly nothing astrononical in this incident.
+Apparently it must be olassed with the other bona fide disa
+sightings
+Two points stand out, however: the "sky blue" color,
+and the fact that the trees "spun around on top as if they were
+in a vaccuum." Could this, then, have been a rapidly travelling
+atmospheric eddy?

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:06:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8899901, "source_ctime_ns": 1793383433387406688, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987001/0691.jpg", "source_mtime_ns": 1785747885000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987001/0691.jpg", "source_sha256": "e2226ed5a58da8a5a11303cfa10a72f22c7c98585992d963ed8dcb93adca3809"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 685, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFO ANALYSIS SHEET
+Location Vicinity Midway Island
+Date (Local) 27 May 60
+Hour (Local) 2122
+Hour (Z Time Group) 2909227, May 60
+Satellite: (Det 5 ATIC, Ext 3279).
+Astronomical Phenomena (Meteor, Comet, Planet, etc) Poss meters, however
+cannot conclude
+Radar Analysis (AFCIN-LE1) N/A
+Natural Phenomena (Ball Lightning, ete) --
+Aircraft, Balloons, Airships, etc
+Other_
+Insuff data
+Evaluation of Source Reliability Unknown
+Analysis and Conclusions: More information was requested 2 June 60, but as of
+16 Jan 61 the requested information has not been received. It is possible that
+the objects observed was meteors, but the info reported is limited in nature
+precluding a valid conclusion.

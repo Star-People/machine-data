@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:46:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14726660, "source_ctime_ns": 1793355559659086384, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0145.jpg", "source_mtime_ns": 1785564477000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0145.jpg", "source_sha256": "51268ffe58d082b58c8c8b9bf9bbfedbd8d8b2921e95d7d369dfaf029d0319ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 336, "chars": 2264, "method": "ocr", "page": 1, "variant": "plain-vision"}
+280
+Acknowledgments
+It was the author's pleasure to have worked with such an outstanding group of
+men assigned to the Stargazer program. Indeed, the important contribution made
+to the program by so many people might well be the subject of another report.
+Among those who should be especially acknowledged for their contributions are
+Dr. J. Allen Hynek, Director, Dearborn Observatory, Northwestern University,
+who was the principle investigator on the scientific part of the program; Major
+Thomas B. Spalding who acted as test director for AFCRL, and Major J.W. Kit-
+tinger, WPAFB, who was in charge of the gondola and its preparation for a flight
+as well as being responsible for the actual flight and piloted the balloon so success-
+fully. Mr. Philip Morin and Mr. Robert E. Onley from Northwestern University
+did an outstanding work in fabricating the instrumentation for the Stargazer ex-
+periments.
+281
+XVIII Abstracts of Other Papers Presented
+at the Symposium, but not Published
+BALLOON INSTRUMENTATION
+Charles S. Tilton
+Aerospace Instrumentation Laboratory
+Air Force Cambridge Research Laboratories, Bedford, Mass.
+The command, control and telemetry instrumentation required to support a
+typical balloon flight is discussed. Units for flight safety, control, command and
+telemetry and methods for data reception and tracking are illustrated. The
+flexibility of flight units to form composite equipments for support of a wide
+variety of scientific or equipment flight test requirements is shown.
+A POINTING CONTROL FOR A BALLOON-BORNE TELESCOPE
+Alvin H. Howel.
+College of Engineering, Tufts University, Medford, Mass,
+A fully automatic system has been developed which can be programmed to
+acquire a number of planets or stars in sequence, and to track them with fractional-
+minute precision while being carried along at altitudes above 100, 000 feet and at
+speeds of several tens of knots. The entire gondola is oriented in azimuth using the
+torsionally weak parachute as an implied azimuth bearing so that when the system is
+once aligned with its target, only minimal corrective forces are required to hold it
+there.
+Control of both the azimuth and elevation angles is achieved by pairs of
+spinning wheels that are precessed to apply torques for pointing.

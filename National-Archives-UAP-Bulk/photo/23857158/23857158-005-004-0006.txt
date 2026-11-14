@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:33:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2540794, "source_ctime_ns": 1793358978462724416, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-004-0006.tif", "source_mtime_ns": 1785681283000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-004-0006.tif", "source_sha256": "f1a0cbc279b5c8729db99758769b4315e462fd8e731c1181113fb6a4884bafc8"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 755, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+1:D
+Ltr 796th AC& Squadron, Bartlesville AF Station, Oklahona, Subj: AT10
+Form 164, dtd 8 Aug 55
+DOT (8 Aug 55)
+Ist Ind
+0 1 AUG 1955
+HADCORTERS, 340TH BOBARDENT VING (N), Sedalia Air Porce Base,
+Missouri, 30 August 1955
+TO: Commander, Eighth Air Force, ATTR: Director of Intelligence,
+. Westover Air Force Base, Massachusetts
+PRIZ
+Air Porce Regulation 200-2.
+The completed ATIC Form #164 is forvarded in compliance MENE
+7 ЗЕР 1955
+FOR THE COMMANDER:
+2 Incls:
+n/e
+Robuf l Crse
+ROBERT
+CORSON
+Captain, USAL
+Adjutant
+IDO(8 AUG 55)
+2d Ind
+HEADQUARTERS EIGHTH AIR FORCE, Westover Air Force Base, Mass, 12 SEP 1935
+TO: Commander in Chief, Strategic Air Command, Offutt Air Force Base,
+Nebraska
+2 INCL
+No change
+4.4077
+9/201

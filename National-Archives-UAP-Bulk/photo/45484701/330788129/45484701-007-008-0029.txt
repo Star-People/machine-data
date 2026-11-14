@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:07:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9173364, "source_ctime_ns": 1793365002972931060, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0029.jpg", "source_mtime_ns": 1785685181000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0029.jpg", "source_sha256": "d3071b0433726798076c79162a0494e36a1148c0094288e3522bfa0a45acd2de"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 541, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Hq 23d Dist OSI, Carswell AFB, Texas, file 24-0-229, Subject:
+Unidentifiable Flying Object (UFOB)
+4. On 20 August 1956, the files of the FBI, Dallas, Texas,
+were reviewed with the assistance of EDWIN KUYKENDALL, Special
+Agent, FBI, and failed to reflect any record of J. G. KIRBY.
+This letter is clan
+authority contained in paragraph 30c(2)(a), AFR 205-1.
+pursuant to the
+JOHN W. FARRELL
+Lt Colonel, USAF
+District Commander
+1 Incl
+Photograph
+Dir OSI
+FBI,
+Dallas
+Detco, Hensley
+24-185-23-
+B
+2 8 Aus 56"
+Declassification Authority: NND 923007

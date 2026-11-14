@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:05:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1304951, "source_ctime_ns": 1793356155344623472, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989305-001-0090.jpg", "source_mtime_ns": 1785564622000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989305-001-0090.jpg", "source_sha256": "1fad04754ba4e41c746e38f6e54f2106cfb42f32d6ac85238bc6b85357297d22"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1450, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WEF/ef/pk/2400.
+WAR DEPARTMEN
+The Adjutant Ceneral's Office
+Washington, 25,D.C,
+AGPO-A 200.4 (29 Aug 44)
+31 August 1944.
+SUBJECT: Attachment of Personnel to Signal Corps
+Agencies for Administrative Purposes,
+TO:
+Comanding Officer,
+Signal Corpe Agencies Mentioned.
+Under the provisions of paragraph 6, Section VIII, Circular No, 295, War
+Department, 13 July 194L, the following-named Air Corpe officers are attached
+for administrative purposes only to the Signal Corps Agencies indicated in
+order that temporary duty travel' ordere may be isaued by the Signal. Corps
+Agencies:
+Dayton Signal Corps Supply Agency, Derton, Onlo.
+Captain Lawrence F. Saller, 0566614
+Firat Lieutenant Anthony Hamilton 0867347
+Plant Engineering Agency, Philadelphia, Penneyivaria.
+Captain Horace H111 0905145
+First Lieutenant Richard K. Frevert 0874253
+Signal Corps Ground Signal Agency, Bradley Beach, New Jersey.
+MaJor Joseph O. Fletcher 0409235
+Major Athelstan F. Spilhaus 0922664
+MaJor Robert W. Winchell 0420923
+Major John E. Peterson 0902110
+Ceptain Joshua 2, Holland 0436632
+• Col. Duttys procurement
+: mar
+First Lieutenant Raymond C. Wanta 0874491
+First Lieutenant Charles B, Moore Jr. 0873953
+Pirat Lieutenant Albert C. Trakowaki 0874089
+OFF By pripy of the socretary of war:
+Dietribution:
+CG, AAF, 5D1082 Pentagon.
+Each officere 201 file.
+Chief Signal Officer, 30333, Pentagon,
+Officers Br. Rec Sec, 1527 Munitions.
+Mrs. Miller 2406 Munitions.
+Each Officer Named.

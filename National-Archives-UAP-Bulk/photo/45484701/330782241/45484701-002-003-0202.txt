@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:41:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7281463, "source_ctime_ns": 1793362189196079842, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0202.jpg", "source_mtime_ns": 1785684723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0202.jpg", "source_sha256": "a7608f4f86c28e7150cc64d75650739feb51835db4fe87762e765a13375cb17b"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 753, "method": "ocr", "page": 1, "variant": "plain-vision"}
+•Page 3
+Essential Elements of Info
+Project "SIGN"
+12. Suppert
+None evident
+a. Wings
+b. Aerodynamic lift of fuselage
+d. Vertical jet
+d. Rotating cylinder or cone
+e. Aerostatic lift (balloon or dirigible)
+14. Propulsion None evident
+a. Propellor or jet
+b. Rotor
+c. Aerodynamic venes (flapping gr oscillating)
+(Katz Mayer effect)
+d. Visible exhaust or jet openings None visible
+15. Control and stability
+Remained constant
+a. Fine
+b. Stabilizers (horizontal or vertical) None
+(1) Size
+(2) Shape
+(3) Location
+16. Air ducts None
+a. Slots
+b. Duct openings
+17. Speed - M.P.H. Pretty fast - about same spped as a star falling.
+18. Sound
+None
+a. Continuous whine gr buzz
+b. Roar, whistle, whoosh
+c. Intermittent
+ONFIDENTIAL
+Declassification Authority: NND 923007

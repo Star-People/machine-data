@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T17:04:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 999656, "source_ctime_ns": 1793388764622052558, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532109/0401.jp2", "source_mtime_ns": 1785808359000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532109/0401.jp2", "source_sha256": "04c45a0d2ff213723a54664873f8ce8452e42e809024ba508e4a3fecebfad16e"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 343, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORE:
+AF IN :
+2434 22Apr
+5645 MASSHOLE ACT ICH
+PAGE 2 RUDIC 116 UNCLAS
+INCOMING
+D. NORTHEAUT TO SOUTHWEST
+E. OUT OF VISUAL RANGE
+Page 2of 2
+F. 5 MINUTES
+3. A. AIR-VISUAL
+B. NAKED EYE
+C. 6438N 2955W 2344, 4000 FEET, 060 DEGREES MAG, 183 IAS.
+D. TWILIGHT
+E. ONTOP, VISIBILITY UNLIMITED,
+4. PILOT EVALUATES AS SATELLITE.
+Вт

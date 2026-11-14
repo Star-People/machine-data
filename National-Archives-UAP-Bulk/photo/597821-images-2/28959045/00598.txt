@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T16:35:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4456395, "source_ctime_ns": 1793376066566435610, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959045/00598.jpg", "source_mtime_ns": 1785696584000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959045/00598.jpg", "source_sha256": "ca36e7e9734cbb26963b25affe40bab1356918593c15f4f2cf95d283e98f439f"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 747, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INEG n• NEG 1. NEG
+B. ANGLE OF ELEVATION 30 DEG AZIMUTH 30 DEG C. 15 DEG AZIMUTH
+D. FIRST SIGHTED TRAVELLING WAI APRX 20,009 FT. DISAPPEARED TO NW
+IS AIN LONG SEA
+20407
+NORMANDY MO. CIV. FORMERLY US ARMY PVT E-2 B. NOT APPLICABLE /7/
+A. LIGHT CLOUDS B. SURFACE E TO NE AT 5 KNOTS, WINDS AT 6,200 FT
+280 DEG SE TO SW AT 4 KNOTS 10,00 FT 330 DEG AT 8 KNOTS 16,200
+FT 320 DEG AT 23 KNOTS, 25,CO0 FT 330 DEG AT 20 KNOTS C.UNLIMITED
+D. 10 MI E. SCATTERED CLOUDS AT 9,000 FT F. OCCASIONAL LIGHTING
+PAGE THREE JEDST 269
+IN CLOUDS TO SE 18/ OBSERVER SIGHTED SHOOTING STAR AT APRX SAME
+TIME, BUT CLAIMS IT DOES NOT COMPARE WITH OBJECT /9/ NEG /1%/ NEG
+/11/ 2 F-86'S IN AREA AT TIME /12/ WG INT OFF, MAJOR. POSSIBLE
+CAUSE UNKOWN. END MSG
+21/2130Z JUL JEDST
