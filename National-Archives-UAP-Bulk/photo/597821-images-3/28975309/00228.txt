@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:23:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4718576, "source_ctime_ns": 1793380310907856793, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975309/00228.jpg", "source_mtime_ns": 1785700901000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975309/00228.jpg", "source_sha256": "87e21f0e062c465accdee74e56bb13aca8461893830db0842efbf476e86beafe"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1010, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+36 November
+1957
+3.
+DATE-TIME GROUP
+Local
+GM T.
+26/130-2
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Sea of Okhotsk
+USSR - Japanese
+aren
+TYPE OF OBSERVATION
+• Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercopt Rodor
+BB-50 (USAF Crew)
+8. NUMBER OF OBJECTS
+9. COURSE
+2
+• seconds
+_one
+10. BRIEF SUMMARY OF SIGHTING
+While flying at 15,000 feet, air crew
+observed a red object with a bluish
+green trail flash by from their right
+to left in a flat downward trajectory.
+It arched down & exploded w/a greenish
+white flash.
+DY to NE
+11. COMMENTS
+12. CONCLUSIONS
+Wos Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+DexWas Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+From the basic data given together
+with characteristics, time dura-
+tion and description
+of object,
+Lt appears that the object was a
+bolide (fireball).
+ATIC FORM 329 (REV 26 SEP 52)

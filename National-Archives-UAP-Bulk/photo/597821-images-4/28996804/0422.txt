@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:20:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3959324, "source_ctime_ns": 1793386617223589339, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996804/0422.jpg", "source_mtime_ns": 1785748021000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996804/0422.jpg", "source_sha256": "7b890f7b425e6e503998d6e558c815644245bf747c79eb9644715b58668ad9b8"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1103, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+23 Apr 62
+3. DATE-TIME GROUP
+Local .
+5-2130
+GM T.
+24
+15-24/0230
+5. PHOTOS
+AY•s
+7. LENGTH OF OBSERYATION
+1 hr 15 min
+10. BRIEF SUMMARY OF SIGHTING Very bright Obj WaS
+observed in western sky that moved very sldow
+Itoward horizon. Obft was described as appearing
+like a light. Objt was in sight for 1 hr 14min
+Witness reported objt appeared to flash just
+before it disappeared.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Lincoln Pork, Mich
+TYPE OF OBSERVATION
+XE Ground- Visual
+• Air- Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+12.
+CONCLUSIONS
+•
+Was Balloon
+Probably Bailoon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Civilien
+8. NUMBER OF OBJECTS
+9. COURSE
+Other.
+Insufficient Data for Evalu
+Unknown
+Toward horizo
+I. COMMENTS Planet Venus Q was probable
+cause of sighting. Planet set at this
+location at 2130 and was bright enought
+to attrect attention, magnitude -3.3.
+Flashing Just as planet set a was probabl
+due to atmospheric refraction and incon-
+istencies in air mass.
+ATIC FORM 329 (REV 26 BEP 52)

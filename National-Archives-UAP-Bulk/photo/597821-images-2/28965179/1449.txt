@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:20:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3615344, "source_ctime_ns": 1793377737006579796, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965179/1449.jpg", "source_mtime_ns": 1785696521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965179/1449.jpg", "source_sha256": "9fac1407162af7f2ab5e0d8e166b28ed7cfd5cb0f0df0a2f668f19e454e2390a"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 575, "method": "ocr", "page": 1, "variant": "plain-vision"}
+"AGE 38 GENERAL DELIVERY EAST PRAIRIE MO ALTERMAN GOC.
+(B) N/A
+7. (A) CLEAR BRIGHT DAY.
+(8) 6,920 FT. 342 DEGREES 20 KNOTS
+19,B09 FI. 349 DEGREES
+ES 25 K
+16 990 FT. 340 DEGREES 30 KNOTS
+29,902 FT. 345 DEGREES 40 KNOTS
+PAGE THREE RJEDKF 7GE
+39,990 FT. 349 DEGREES 65 KNOTS
+53,009 FT. NOT AVAILABLE
+80,200 FT. NOT AVAILABLE
+(C) CLEAR
+(D) 15 MILES
+(E) CLEAR
+(F) NA
+S. N/A
+9. NA
+10, POPULAR BLUFF MISSOURI
+11. ALLEN E. GOVIN S/SGT. SAF NCOIC INTELLIGENCE COMMENTS CLN
+IT IS MY BELIEF THAT THE OBJECT REPORTED IN THIS REPORT WAS A WEA-
+THER BALLON.
+12, N/A
+BT
+20/2255Z MAR RJEDKF

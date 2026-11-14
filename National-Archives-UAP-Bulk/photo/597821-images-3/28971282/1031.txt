@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:23:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4892853, "source_ctime_ns": 1793379151944470003, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971282/1031.jpg", "source_mtime_ns": 1785700711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971282/1031.jpg", "source_sha256": "b2bbfce110042edb1ee73c00ffc4b2a0b8c0a8a5539d981f2d8d41694f3a466c"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 737, "method": "ocr", "page": 1, "variant": "plain-vision"}
+21
+22/00592
+23 AuG 57 10
+20.0
+201017 01 962
+DYEY
+3 4×22
+T WPA023 YMB027B04025
+MM RJEDEN RJEWP RJEPMB RJEPHO
+DE RJEDEN 22M
+M 2222002
+FM COMDR 47TH FTR INTCP SQ NIAGARA FALLS MUNI APRT
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLORAD
+RJEDBY/COMDR 30TH ADIV DEF WRAFS BELLEVILLE MICHIGAN
+FJEDP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIR OF INTEL HO USAF WASH 25 DC
+INFO RJEPNB/COMDR EADF STEWART AFB NEWBURGH NY
+BT
+PUNCLASSIFIED/ FIS 188. UFOS. IAS PAR 7 D, AFR 228-2, DED 12 AUG 54,
+FOLG REPT IS SUBM:
+(A) SPHERICAL
+(B) SIZE OF A MATCHEAD HELD AT ARMS LENGTH
+(C) BRILLIANT WHITE LIGHT CHANGING TO AMBER TO WHITE TO AMBER
+(D) TWO
+(E) ONE ABOVE AND TO THE LEFT OF OTHER
+(F) NONE
+(G) NONE
+(H) EXTREME BRILLIANCE OF WHITE/AMBER COLOR

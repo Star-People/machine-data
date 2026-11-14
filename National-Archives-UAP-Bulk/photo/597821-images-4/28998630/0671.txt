@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:30:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8168730, "source_ctime_ns": 1793387424749289642, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998630/0671.jpg", "source_mtime_ns": 1785748530000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998630/0671.jpg", "source_sha256": "2966947a4f21762902aadbfea879288c15272d2fac1013ce7bab7c00cb34af61"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 377, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+9 August 1962
+Scituate, Rhode Island
+August 9--Five bright white lights, blinking on and off hovered
+for 45 minutes before moving across the sky and dis-
+appearing in a straight line were reported over
+Scituate, R.I. by Classification Counsellor
+of Cranston, R.I. The objects were circular in shape &
+estimation of height was at 1,000 foot altitude.

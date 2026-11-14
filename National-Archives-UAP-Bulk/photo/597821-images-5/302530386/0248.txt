@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:19:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1792346, "source_ctime_ns": 1793388618595816476, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530386/0248.jp2", "source_mtime_ns": 1785808080000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530386/0248.jp2", "source_sha256": "ddc09c51aa269407b69905b26f8f008b0b3ff064de80a104f149c41043e88fc1"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1353, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+15 September 1963
+3. DATE-TIME CROUP
+2035
+Local.
+CM T.
+5. PHOTOS
+Dayton, Ohio
+4. TYPE OF OBSERVATION
+• Ground-Visuai
+• Air Visual
+5. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+C Yas
+© No
+Y. LENGTH OF OBSERVATION
+2 minutes
+eivilian
+8. NUMBER OF OBJECTS
+one
+10. DRIEP SUMMARY OF SIGHTING
+Doject very much brighter than stars, compared
+to a streetlight observed by pedestrian, sharply
+outlined observed to disintegrate. No sound.
+Doject in flight from SW to NE. Atlitude estimated
+at 3 miles. Tear drop shape. No wings, protrusions,
+exhaust or trail. Speed estimated at 2,000 mph.
+Object believed to be 5 miles distant. Straight
+flight from 15 deg elevation in SW crossing
+zenith to 15 deg elevation in NE where object
+broke up. Observation similar to meteor observed
+1939•
+ATIC FORM 329 (REV 25 SEP 52)
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircrait
+Probably Aircraft
+Possibly Aircraft
+Was Astronomicaleteor
+Probably Astronomical
+Possibly Astronomical
+Othar
+Insufficient Data for Evaluatior
+Unknown
+9. COURSE
+NE
+11. COMMENTS
+Object descriptive of meteor.
+Speed consistant with meteor
+observation. However, some
+inconsistancy in estimation of
+duration. Probable error in
+estimating time. Since obj com-
+pared to a previous meteor
+observation, this case is evalu-
+ated as a meteor.

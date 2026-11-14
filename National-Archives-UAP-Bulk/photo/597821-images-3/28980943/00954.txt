@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:21:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4137986, "source_ctime_ns": 1793381614169091328, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980943/00954.jpg", "source_mtime_ns": 1785701010000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980943/00954.jpg", "source_sha256": "99742f7066d3a7d4c8106a257f7516989f148947f28e9a6cba8d9e9b7b73f63e"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 715, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3. DATE-TIME GROUP
+Local ..
+0050
+GM T
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+of Colu
+4. TYPE OF OBSERVATION
+• Ground- Visual
+Q: Air- Visual
+6. SOURCE
+Ohio
+• Ground-Radar
+• Air-Intercept Rader
+• Yes
+O No
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+_seconds
+I0. BRIEF SUMMARY OF SIGHTING
+Round, green obj, size of head of
+pin to pea, valling straight down,
+nit Sround
+& exploded giving white
+flash upon impact.
+9. COURSE
+alling
+11. COMMENTS
+12. CONCLUSIONS
+Was Balicon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+Meteor
+ATIC FORM 329 (REV 26 SEP 52)

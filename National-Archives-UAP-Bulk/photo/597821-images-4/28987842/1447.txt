@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:00:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7718305, "source_ctime_ns": 1793383778677204094, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987842/1447.jpg", "source_mtime_ns": 1785748522000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987842/1447.jpg", "source_sha256": "98ef94151eb17b49ff10a85e11c62a86c4c1883ce2fb318def268ffea516dfae"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 355, "method": "ocr", "page": 1, "variant": "plain-vision"}
+A. 2730 7'L!,
+PATE OF SICHTINO:
+1·
+J'LY 1960.
+5.
+MILES SOUTH OF FINERAL WELLS, TEYAS, OF HICHHAY
+281.
+6. IDENTIFVING INFORMATION.
+ACE:
+ZL
+MINERAL
+VELLS, TEXAS, MAINTEMANCE INSTRUCTOR, HELICOPTER SCHOOL, CAVE
+MOLTERS.
+FACE THREE ROY
+T8" 22
+CLOI
+SOL
+PETITI
+IC CLEAR.
+ISICILITY: GOOD.
+CLOUD COVER
+F• TI
+IDERSTORMS:
+NON:
+BT
+19/21417 JUL PJWES"
+FOR (4) "NOTS.

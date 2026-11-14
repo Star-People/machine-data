@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:55:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4692636, "source_ctime_ns": 1793382939048668059, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985922/1137.jpg", "source_mtime_ns": 1785747962000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985922/1137.jpg", "source_sha256": "4a43d7ecd55574efcc57d208a30132c4c0ae10ed2cf91f4493fe0b1d9977aec4"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 787, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2 February, 1960
+3. DATE-TIME GROUP
+_ocal
+2035
+OM 7 51392
+5. PHOTOS
+• Yes
+TES No
+7. LENGTH OF OBSERYATION
+Not Given
+10. BRIEF SUMMARY OF SIGHTING
+Round greenish white object with a red tail
+about the size of a big street light moving
+sTowly West.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Marlboro, N. d.
+4. TYPE OF OBSERVATION
+B Ground- Visuol
+• Air- Visual
+SOURCE
+• Ground-Radar
+D Air-Intercept Radar
+Civil
+¡ian
+8. NUMBER OF OBJECTS
+One
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Bolloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+D
+D
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Orner.
+13 -
+Insufficient Data for Evaluation
+Unknown
+West
+11. COMMENTS
+Insufficient information given to
+attempt an evaluation.
+ATIC FORM 329 (REY 26 SEP 52)

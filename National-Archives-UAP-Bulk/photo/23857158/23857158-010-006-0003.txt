@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:30:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7713288, "source_ctime_ns": 1793359687221907504, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-006-0003.tif", "source_mtime_ns": 1785681493000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-006-0003.tif", "source_sha256": "1a758606ae361ee5d72c3e959b9a9e300bc56e047266452d89adabc29f54fd95"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 406, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+INT 2
+Come Back
+DE RJEDEN 004P
+R 981645Z
+FM COMDR 4602ND AISS ENT AFB COLO
+TO COMDR ATIC WRIGHT-PATTERSON AFB OHIO
+/UNCLASSIFIED/AISOP 0218 PD ATTN CLN AFOIN-4E4 PD REF CLAS TT MSG
+LFI-A 0290 FM COMDR LARSON AFB CMM DTG 06/2300Z MAR 56 PD REQ ATIC
+FORM 332 PAREN ELECTRONICS DATA SHEET PAREN BE SENT UFOB OBSR PD
+OF RETURNED FORM PD END
+031825Z MAR RJEDEN
+Unclasspiel

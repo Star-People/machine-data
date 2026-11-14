@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:12:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17637464, "source_ctime_ns": 1793356626886438394, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0245.tif", "source_mtime_ns": 1785564732000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0245.tif", "source_sha256": "03487bd98429eb118084f33b2b9ae358361b24b824217711c798274fb6dbb316"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 295, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #97 -- between Medford, Ore., and Nt. Shasta, Calif. -- 30 Dec. 1917
+The flash or explosion referred to here agrees also in time
+and location (no other details are given) with that of the fireball
+described in detail in the report on incident #94.
+Declassification Authority: NND 57565

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:53:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4282957, "source_ctime_ns": 1793365663324832086, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-406-0194.jpg", "source_mtime_ns": 1785565409000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-406-0194.jpg", "source_sha256": "dda8a0e8822aacae99011352a39a04bebd792e6e092d4e69449198cdde11f69b"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 64, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+~
+7 *
+7
+re eet ear ct / 7
+F
+.
+ra
+*
+
+Mote
+
+den
+
+he
+
+imate -
+
+pod

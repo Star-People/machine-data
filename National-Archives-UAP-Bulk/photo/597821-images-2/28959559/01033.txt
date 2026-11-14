@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:50:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3677248, "source_ctime_ns": 1793376172175136905, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959559/01033.jpg", "source_mtime_ns": 1785696897000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959559/01033.jpg", "source_sha256": "9d3b0d37fc388f30c0c8d1c4eda24de34f3aa4f6e9f5100dab35bf5838c57a5e"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 893, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+18 September 1954
+3. DATE-TIME GROUP
+Local
+0555I - 0608I
+GM T
+/7/2055-210€ (DANN
+5.
+PHOTOS
+• Yes
+I No
+7.
+LENGTH OF OBSERVATION
+11 - 13 Minutes
+Kimpo
+4. TYPE OF OBSERVATION
+Korea
+i Ground- Visual
+• Air Visual
+3.
+SOURCE
+Military
+8. NUMBER OF OBJECTS
+1
+or resembled
+glare of strong sunlight
+on polished alum, Round.
+• 12.
+• Ground-Radar
+• Air-Intercept Radar
+•
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+UNIDENTIFIED
+Insufficient Data for Evaluation
+Unk no wn
+9. COURSE
+Stationary
+11. COMMENTS
+Apparently too bright for star at dam
+although Rigel at 50 deg elev, 180 deg
+az. Possibility of belloon. Ruled out due
+to objects being stations and balloon
+track indicates motion. UNIDENTIPIED
+ATIC FORM 329 (REV 26 SEP 52)

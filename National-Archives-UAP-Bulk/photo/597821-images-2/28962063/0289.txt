@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:58:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6474469, "source_ctime_ns": 1793376825101232748, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962063/0289.jpg", "source_mtime_ns": 1785696796000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962063/0289.jpg", "source_sha256": "4b0c17f24e60417153acecc8b3245d938c6ea5297126b31328af55a3b2d55d04"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 918, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+7 May 1955
+3. DATE-TIME GROUP
+Local
+07/18202
+GM T
+5.
+PHOTOS
+D Yes
+XXNo
+7. LENGTH OF OBSERVATION
+NA
+10. BRIEF SUMMARY OF SIGHTING
+Two cast iron objects weighing 13 3/4
+and 5 1/4 pounds crashed thru the
+American Oil Company in Baltimore, Md.
+at time indicated.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Baltimore, Maryland
+4. TYPE OF OBSERVATION
+XC Ground- Vi sual
+C) Air- Visual
+• Ground-Radar
+• Air-Intercept Radar
+6-
+SOÜRCE
+Civilian
+8.
+NUMBER OF OBJECTS
+two
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraf
+000
+Was Astronomical
+Probably Astronomical
+Possibly Astranomical
+&% Other Valve Wheel
+Insufficient Data for Evaluation
+Unk no wn
+SHO
+ATIC FORM 329 (REV 26 SEP 52)
+9. COURSE
+N/A
+11. COMMENTS
+Checked with local iron compan-
+ies in Dayton & objects believed
+to be
+part of old valve wheel
+Maxweli APB, Alobam
+111N: Archives Branch
+Aerospace Studies

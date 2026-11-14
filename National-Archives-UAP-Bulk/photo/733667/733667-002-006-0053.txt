@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:51:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3881005, "source_ctime_ns": 1793394331720303567, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-006-0053.jpg", "source_mtime_ns": 1785567355000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-006-0053.jpg", "source_sha256": "de500d9821f8d2fb25a2fb47f9bc13fddc427b9a9ca6e900326243410ac8acec"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 218, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+4/20/87.
+Dear F.A.A.
+Please send me all
+information regarding the U.F.D. segetir f 986.
+bý Capłain Kenjyu Terauchi, on November 17,
+ank you very much.
+Lincirelys
+Susan Bwvak Jehnoon
+2725 Westgate t.
+Concard, CA. 94520

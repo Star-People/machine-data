@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:19:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2388138, "source_ctime_ns": 1793359546396238411, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-002-0111.tif", "source_mtime_ns": 1785681445000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-002-0111.tif", "source_sha256": "8faa8f8c57fd2ff860b8e5e4196c39f866d84c84792c10ab14808252d7b03517"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 780, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+5/55T DePudder
+UFOB REPORT
+1. a. Daimond, sort of delta wing.
+b. Dime
+c. One observer said white,second said red glow in front and bluish green
+on bottem
+d. 2
+f. None
+e. 1 went Northlast then veered to right other one went Northeast in sort
+of a zig zag path, but not in direction of first one.
+g. None
+h. No
+i. No
+2. a. During Sky duty observer seen flash.
+b. When first observed 45° elevation 030°
+aximuth.
+C. 45°
+elevation 045°
+axinuth.
+d. Same as number 1. e.
+e. Beyond the horizon.
+f. 30 seconds.
+3. a. Ground visual.
+b. No optical aids.
+c. None applicable.
+4. a. 0440Z 6 May 19568
+b. Wight
+5. a. AJ 2316
+6.
+Fueble, Colo
+Age 49
+Occupation:
+mechanic
+Pueblo Ordnance Depot
+rebio, Colo
+Age 37
+Occupation:
+repair man, Pueblo Ordnance Depot.

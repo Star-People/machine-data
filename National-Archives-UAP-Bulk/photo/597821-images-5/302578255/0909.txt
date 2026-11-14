@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:15:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 997844, "source_ctime_ns": 1793393522359071542, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578255/0909.jp2", "source_mtime_ns": 1785808046000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578255/0909.jp2", "source_sha256": "b7434c82a9bdec92bd459c5bb144dfb547658e5f0df78dfa9a43eaa830264b16"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 700, "method": "ocr", "page": 1, "variant": "plain-vision"}
+26 - 31 JULY 1963 SIGHTINGS
+OBSERVER
+DATE
+26
+50 C3
+23
+29
+31
+LOCATION
+Bridge City, Texas
+Cuming County, Nebrasks
+tanista, Virginia
+Iowa City, Iowa
+Pottstown, Pennsylvania
+Sierra Vista, Arizona
+Chicago, Illinois
+Northridge, Ohio
+Kettering, Ohio
+Meaway, Ohio
+Binghamton, New York
+Bridge City, Texas
+Boise, Idano
+Antigo, Wisconsin
+EVALUATION
+Insufficient Data
+Other (PLASMA)
+Astro (MOON)
+Aircraft
+Balloon
+Insufficient Data
+Satellites
+Insufficient Data
+Insufficient Data
+Insufficient Deta
+Insufficient Data
+Satellite
+Balloon
+Satellite (ECHO II)
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+DAIE
+26
+27 2 7
+23
+29
+24-M18-
+LOCATION
+Indianapolis, Indiana
+Spain
+Onio River ndel!
+Skokie, Illinois
+EVALUATION

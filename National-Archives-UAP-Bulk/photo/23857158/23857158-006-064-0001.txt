@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:22:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4264078, "source_ctime_ns": 1793359234615002481, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-064-0001.tif", "source_mtime_ns": 1785681351000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-064-0001.tif", "source_sha256": "4ba9ae24b07e9b4ff867d4bafe75ae99979124d87836e69ab891f18bc43861ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 606, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+AISS-JP08-315-55
+FOCATION OF STOPTING
+Huron, Chio
+MEANS RECD
+DATE TIE OF SICHING
+12/18102 Sep 55
+! RECD HQ 4602D
+13 Sep 55
+LOGGED BY
+4/10 Dedudder
+TT Ms3
+INVES UNIT
+ACTION
+No investigation authorized
+DATE INVES ASSIGNED
+N/A
+DATE IR APPROVED
+1/A
+ASSIGNING OFFICER
+N/A
+DATE IR TO ATIC
+N/A
+DATE IR RECD HO
+2/A
+DATE OF FORM 5
+23 Sep 55
+COMMENTS
+It was baliaved by the Preparing Officer that sighting was caused
+by a weather or MDH balloon. Description fits. No radar contact with
+object.
+CONCLUSTONS
+PROBABLY BALLOON
+AISOP FORM 7 (2 APR 55)

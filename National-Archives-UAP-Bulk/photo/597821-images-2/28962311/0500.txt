@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:30:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8058096, "source_ctime_ns": 1793376941255516485, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962311/0500.jpg", "source_mtime_ns": 1785696822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962311/0500.jpg", "source_sha256": "a6f50a8d50d23bd784101ead50c0eda84915a47e5a3ebce1694917f153a91d58"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 971, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+I. DATE
+2. LOCATION
+Local
+GM T.
+5. PHo 082/01305 frate 1955
+• Yes
+0 No
+7. LENGTH OF OBSERVATION
+- Ground-Visual
+• Air- Visual
+6. SOURCE
+10. GRIEF SERMARY OF SICHTING
+One (1)
+One (1) round object the size of a half dol-
+lar held at arms length, was observed moving
+castward very slowly at an estimated heighth
+of five hundred (500) feet.
+Object appeared
+yellow, red, and orange.
+Binoculars used.
+• Ground-Radar
+• Air-Intercept Radar
+| 12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unk no wn
+11 COMMENTS
+The characteristics of the UF08 cor-
+respond with those of a balloon.
+The
+fact that a balloon launched from the
+Mabel Research Laboratory was eatimated
+to be over this area at the time of
+sighting seems to substantiate the
+theory of the sighting being a balloon.
+AISOP Form 5 (15 Oet 54)

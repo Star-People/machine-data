@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:48:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1631582, "source_ctime_ns": 1793394291694101919, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0043.jpg", "source_mtime_ns": 1785567350000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0043.jpg", "source_sha256": "6cbc4d9560ceeee24403b6c0bd3aaec48bb72b212fe210341246d706bcce363e"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 268, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Bakerfuis, ca
+Fe. 26,1981
+PAA
+701C14
+Anikorage, Alaskaśął
+Dear Sir:
+would yow pleare mil me
+the free information on the
+Japanese UFO sighting? This
+is a subject in which I
+am really interested!
+Shenk yow so much.
+Mas Victor Pennes
+1008 afford court
+Bakusfied la 93305

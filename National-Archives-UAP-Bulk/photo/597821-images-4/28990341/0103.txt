@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T20:00:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7606278, "source_ctime_ns": 1793384440946688181, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990341/0103.jpg", "source_mtime_ns": 1785748555000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990341/0103.jpg", "source_sha256": "2545ac3b832532a1edee468d3798e0ca72ac2c1bcc76876382841be24b199132"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 857, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+PROJECT 10073 RECORD CARD
+LOCATION
+3 Dec 60
+DATI
+Local
+GMT.
+5. PHOTOS
+ME GROUP
+2315
+02/0415%
+• Yes
+D No
+7. LENGTH OF OBSERYATION
+4 min
+BRIEF SUMMARY OF SIGHT
+ING
+Dayton, Ohio
+4. TYPE OF OBSERVATION
+D Ground-Visual
+D Air- Visuel
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+one
+red ball of fire, shooting flame, changed
+rom silver glow to reddish glow, sharply
+outlined. Disappeared by feding from sight.
+12. CONCLUSIONS
+O Ground-Rodar
+Dl Air-Intercept Radar
+9. COURSE
+27V
+COMMENTS
+D
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Atseraft
+Probably Aircrat
+Possibly Aircror
+Was Astronomicol
+Probably Astronomicol
+Possibly Astronomical
+Other
+Insufficient Deta for Evalu
+Unknown
+The originator of this report could not
+be contacted for further information.
+Since the dats is so limited in nature,
+case is categorized as insufficient data.
+ASIC PORI
+O OR 24

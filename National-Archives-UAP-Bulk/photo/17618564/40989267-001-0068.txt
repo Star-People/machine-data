@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:35:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16635201, "source_ctime_ns": 1793355486543648094, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0068.jpg", "source_mtime_ns": 1785564463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0068.jpg", "source_sha256": "21fe00b473cd8493181cd532b9db77c1c8b7fdf115a5b9ff856bc9fe78b25f2d"}
+
+===== PAGE 1 =====
+{"alpha_words": 251, "chars": 1626, "method": "ocr", "page": 1, "variant": "plain-vision"}
+126
+COMPARISON OF 7/19
+AND 9/13 SKY LUMINANCE
+(IN CANDLES / FOOT?)
+VALUES AT 90K FT.
+7/19
+90 K
+9/13
+90 K
+120 373
+100120
+Figure 10. The Distribution of Sky Luminance for two Different Conditions of the
+Atmosphere.
+Figure 9.
+The Sky Radiance Gondola. The Radiance Boxes are Mounted on the
+Top Tier.
+Recording of the Data is Performed at the Second Level.
+At the
+Lowest Level, partially hidden, are the Horizon Radiance Optics and Control
+Mechanisms.
+atmosphere is indicated by the flight of 9/13. The most interesting feature deliber-
+ately is not shown, for later measurements show the sky dome brightnesses at
+90, 000 feet to be lower than these values by a factor of one-half.
+It is always interesting to use numbers to derive other results and possible
+applications. For target detection at high altitudes, the problem becomes one of
+Signal-to-Noise Ratio. Fig. 11 is responsive to such a query. Specifically, given
+a background brightness of 10 candles/ft?, at which wavelengths and fields of view
+will the signal of a second magnitude star exceed the background? With reference to
+Fig. 9, and the text the look angle is elevated to coincide with the solar elevation
+angle but is displaced 30° in azimuth from the sun. The conclusion as illustrated
+by Fig. 10 is based upon two premises. The star signal has a spectral distribution
+like the sun.
+It re the sin a The ottering a sol by a Rainigh type and is of such ma pitude that
+value at the stated location.
+Usually, the rotation of the gondola is to our advantage since it will provide the
+azimuthal scan action with reference to the sun. A necessary measurement for any

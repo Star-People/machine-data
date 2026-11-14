@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T19:30:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8380071, "source_ctime_ns": 1793364766916585153, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0064.jpg", "source_mtime_ns": 1785684928000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0064.jpg", "source_sha256": "fa5bd5a0337b43f4fc54e5fff10e74bfdeb65cb2cf2ea4c0980248a4fbe124d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 775, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Police Department
+Sheriff's Office, Maricopa County
+State Bureau of Criminal Identification
+INOLOSURES
+FOR CG, AMO, (MOIAXS), WRIGHT-PATTERSON AFB
+Exhibit A, the original copy of RHODES credit record as maintained
+at the Credit Bureau of Phoenix, Phoenix, Arizona.
+FOR DO 75, WRIGHE-PATTERSON AFB
+Exhibit A, a carbon copy of RHODES credit record as maintained
+at the Credit Bureau of Phoenix, Phoenix, Arizona.
+FOR OSI HEADQUARTERS
+Exhibit A, a carbon copy of RODES credit record as maintained
+at the Credit Bureau of Phoenix, Phoenix, Arizons.
+FOR DO 17, KIRTLAND AFB
+Exhibit A, a carbon copy of RHODES credit record as maintained at
+the Credit Bureau of Phoenix, Phoenix, Arizona.
+- REFERRED UPON COMPLETION TO THE OFFICE OF ORIGIN ¿
+Declassification Authority: NND 923007
