@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:36:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 817998, "source_ctime_ns": 1793391302537483338, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557580/1047.jp2", "source_mtime_ns": 1785808698000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557580/1047.jp2", "source_sha256": "6af0c970da497053d589b3f9fc93e45fc0a59b2700ff344bd60c7f3cc7f34e8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 891, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+• DATE - TIME GROUP
+30 Oct. 66
+3. SOURCE
+21552
+Civilian
+4. NUMBER OF OBJECTS
+one
+5. LENGTH OF OBSERVATION
+60 minutes
+6. TYPE OF OBSERVATION
+Ground Visual
+7. COURSE
+8. PHOTOS
+Basically Stationary
+• Yes
+9. PHYSICAL EVIDENCE
+• Yes
+& No
+FORM
+FTD SEP 63 0-329
+(TDE)
+Previous editions of this form may be used.
+2. LOCATION
+Blue Point, New York
+multiple
+10. CONCLUSION
+Astro(Arcturus)
+Arcturus was on Az of 286 degrees and at an elevation of
+approximately 13 degrees.
+11. BRIEF SUMMARY AND ANALYSIS
+Observers watched for several nights a cylinder shaped
+object in the western sky. The object appeared white on top
+and red on the bottom side. A green light appeared to
+rotote about middle part of the object.
+The object has
+appeared three straight nights.
+The objects disappeared
+instantaneously to the north.
+Description is consistent with that of an astronomical
+observation.

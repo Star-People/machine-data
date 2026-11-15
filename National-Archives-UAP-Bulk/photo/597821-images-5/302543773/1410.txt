@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:38:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 997675, "source_ctime_ns": 1793389765319638260, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543773/1410.jp2", "source_mtime_ns": 1785808278000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543773/1410.jp2", "source_sha256": "7c911bab7b69c9ac01b3fc9cc5807270ba95b9ab9f5deb131f94da6de2a30e80"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 575, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN:
+42134 (9Sep65)
+Pg 3 of 3
+(2) SURFACE 128/8, 180/15, 220/16, 190/18, 230/10, 300/35, 310/35,
+310/30. (3) UNLIMITED (4) TWELVE MILES (5) HIGH THIN SCATTERED 3/10
+(6) NONE (7) NO INVERSION-2TO-13C (H) ONE LOCAL TV NEWS REPORT
+STATED THE PRESENCE OF A CLUD CONTAINING ICE CRYSTALS WHICH
+REFLECTED CITY LIGHTS ETC. SOURCE OF INFORMATION UNKNOWN. (I) NONE
+(J) NO BALLOONS IN AREA (K) OIC OPERATIONS-MOST LIKELY EXPLANATION
+IN SECTION (H) ABOVE. (1) NONE
+BT
+NWNN
+AFHQ
+JAN 65
+0-309 C
+UNCLASSIFIED

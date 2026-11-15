@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:46:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3827251, "source_ctime_ns": 1793374870409527373, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953665/1204.jpg", "source_mtime_ns": 1785696939000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953665/1204.jpg", "source_sha256": "ed1e4d3fc90c1e440740c5ac04071102fb6f47e19854b52f66cde671cf1264b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 192, "chars": 1256, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Klemath Falls, Orogon
+26 February 1953
+Description of Incident
+At 2159 PST a round red stationary object was sighted by a CAA operator for
+10 minutes time. The object seemed to fade in and fade out intermittently and
+eventually faded out completely. The observer estimated the unknown to be at a
+70° azimuth from his position and at an altitude of 10,000'.
+Weather at the
+ime of sighting consisted of scattered clouds at 2,000' with 10 miles visibility.
+II. Discussion of Incident
+Project Blue Book and itg contract astronomer evaluate this report as defin-
+itely caused by the astronomical body Venus. Nany similar reports have been re-
+ceived by ATIC during February of an object in the western sky appearing to change
+color and fading intermittently, and almost all such reports have been found to
+be Venus,
+It is interesting to note in this and other similar observations that exper-
+lenced CAA and Air Force personnel have been understandably confused by this
+bright planet, comparatively isolated, low on the horizon and sometines seen
+through a high haze layer causing a rapid change in color. Red is the color
+given most often.
+III. Conclusion
+Was Verus.
+DOWNGRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+UNCLASSIFIED
+72

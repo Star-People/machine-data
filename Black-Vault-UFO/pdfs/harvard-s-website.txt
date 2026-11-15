@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-11T19:34:08Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 243013, "source_ctime_ns": 1788303049607870747, "source_file": "Black-Vault-UFO/pdfs/harvard-s-website.pdf", "source_mtime_ns": 1785546943150000000, "source_rel": "Black-Vault-UFO/pdfs/harvard-s-website.pdf", "source_sha256": "df34b8f51156d6ad67277432654df6af82728b9bce26fd6d03789fee211f7c32"}
+{"created_utc": "2026-11-15T02:35:26Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 243013, "source_ctime_ns": 1793560320836801107, "source_file": "Black-Vault-UFO/pdfs/harvard-s-website.pdf", "source_mtime_ns": 1793560320825248840, "source_rel": "Black-Vault-UFO/pdfs/harvard-s-website.pdf", "source_sha256": "df34b8f51156d6ad67277432654df6af82728b9bce26fd6d03789fee211f7c32"}
 
 Draft version March 7, 2023
   Typeset using LATEX default style in AASTeX631

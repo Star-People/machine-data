@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:03:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8696588, "source_ctime_ns": 1793387542875529609, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998825/0811.jpg", "source_mtime_ns": 1785748247000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998825/0811.jpg", "source_sha256": "f7775efe5ed35a6b5bcc128e3d18c1794ba26350e2b623df9456c691ca37ae5a"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 658, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 40931 (29 Aug 62)
+Page 2 of 2
+CATART
+RUECV/CNO WASHINGTON DC
+RUECW SECNAV WASHINGTON DC
+RUWS J COVESTAREAUSCG
+RUHPHH/ CTF 32
+RUEC JD/C C USCG WASHDC
+BAF GRNC
+ST
+UNCLAS/MERINT EVALUATION. FOROM USCG MATAGORDA
+BRIGHT OBJECT LESS THAN FIRST MAGNITUDE STAR,A
+POSSIBLE SATELLITE. POSIT 35-04N 144-10E. VO/1730Z
+MEAN ALT 10 DEGREES. TRAVELING IN NORTHERLY
+DIRECTION. SIGHTED BEARING 130 DEG TRUE DISAPPEARED
+SEARING 075 DEG TRUE VISIBLE FOR 15 MINUTES
+ISIBILITY EXCELLENT CLOUDY COVERAGE 20 PERCENT.
+NO EVALUATION.
+BT
+NOTE:
+29/ 1945Z AUG RUHLKH
+ADV CY TO OOP-CP, CIN, AND DIA.

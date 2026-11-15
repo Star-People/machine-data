@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:46:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3905421, "source_ctime_ns": 1793384141122302522, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989111/0397.jpg", "source_mtime_ns": 1785747883000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989111/0397.jpg", "source_sha256": "5a51fb375400a89105e1e9cbec8fc05a6e87c50958b6f5ea36069ee3a328eab9"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 408, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JOINT
+MESSAGEFORM
+sainciasshed
+| SYMBOL
+AF
+1960 SEP 23 21 08
+823 RADRON 914
+COP
+ATTO,
+A-P AFB
+FLD, WASH
+ROM:
+AFCTN-LE2x
+823 RADRON, YOUR MSG 823 RADRON 914, DID 17 SEP 60, REX AN INVESTI-
+CATION BE MADE OF THE RPTD INCIDENT IN ACCORDANCE WITH APR 200-2,
+DID 14 SEP 57, AND THE INFO FND TO AFGIN-LE2X.
+231
+MONTH
+SEP
+1105
+YEAR
+1960
+ці Ве
+TEO
+PHILIP C. EVANS
+Colonel, USA?
+Deputy for Science and Components
+173

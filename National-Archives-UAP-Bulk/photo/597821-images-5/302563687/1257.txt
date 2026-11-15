@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:39:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1273103, "source_ctime_ns": 1793392057601928469, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563687/1257.jp2", "source_mtime_ns": 1785808174000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563687/1257.jp2", "source_sha256": "7918cd29a989cefcb5e7c2ebe85ad4ac68c2f2edbc8959fdffb387055751f0de"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 762, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE - TIME GROUP
+30 lar 57 31/0300Z
+SOURCE
+Civilian + MILITARY
+NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+20 seconds
+E..
+TYPE OF OBSERVATION
+Ground Visual
+COURSE
+NW
+S. PHOTOS
+2. LOCATION
+Cthello, Washington
+10. CONCLUSION
+Aircraft (possible)
+one
+11. BRIEF SUMMARY AND ANALYSIS
+Observer stated that the object was shaped like a cigar
+and the size of a baseball. The object changed from white
+to red to green. The observer also said that the object
+had a whirring sound. Main observer claims others in town
+heard the sound even though they did not see the object.
+The description is consistent with that of an aircraft
+observation.
+9. PHYSICAL EVIDENCE
+П Yas
+Kit No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous editions of this form may be used.

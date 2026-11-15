@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:13:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6998313, "source_ctime_ns": 1793377258185027854, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963084/1124.jpg", "source_mtime_ns": 1785696673000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963084/1124.jpg", "source_sha256": "55c91be475057b16b28d28d2415df25629d8ea122f6e1ece6b3381f8677ef3b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 245, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pack and forth the ball went always
+Jong to the outside of my view and
+crias cross - going completely around
+the circle of vision in the binoculars
+never stationury back and forth,
+What kind of an object word
+this be and what used for.
+Sincerel

@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:54:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5807147, "source_ctime_ns": 1793369914848164535, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933235/0608.jpg", "source_mtime_ns": 1785688543000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933235/0608.jpg", "source_sha256": "cf69b42ffd2d40a96d59b3246fb152d9077830686353bd0a1a9fef596ba344d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 517, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RE240U 2115Z
+ZUA444
+EY 152
+UNCLASSIFIED
+do T
+R R VEDLY
+FM UEPYG & CO GODMAN FIELD FT KNOX KY 15/19002
+TO UEDLY:CG HQ AMC WRIGHT-PATTERSON AFB DAYTON OHIO ATTN MCIAXO -3
+AF
+GRNC
+GOMD 398 EEEEEEE 397 PD REPORT REQUIRED BY FIRST IND CMA MCIAXO DASH
+THREE CMA NINE FEB FORTY NINE WILL BE DELAYED DUE TO PERSONNEL
+CONCERNED ABSENT FROM UNIT UNTIL TWENTY FIVE FEB FORTY NINE PD REORT
+TILL BE COMPLETED AS SOON AS POSSIBLE UPON RETURN OF INDIVIDUALS CONCERNE
+PD
+END 16/193@Z
+DECLASSIFIED AFTER 12 YEARZ
+DOD DIR 5200.10
+ONCI

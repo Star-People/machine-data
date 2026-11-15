@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:04:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8733729, "source_ctime_ns": 1793384788658676838, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991073/0768.jpg", "source_mtime_ns": 1785748183000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991073/0768.jpg", "source_sha256": "e9b84566de2293020e320d9d98ec36c4cfaba3f280e2dc529ac1129e0eaaa6b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 179, "chars": 1321, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+15 Jan 61
+3. DATE-TIME GROUP
+Local_1900
+GM T.
+160100Z
+5. PHOTOS
+Holt, Minnesota
+TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Rodar
+• Air-Intercept Radar
+• Yes
+X No
+7. LENGTH OF.OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical METéOR.
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+•
+Unknown
+2 sec
+10. BRIEF SUMMARY OF SIGHTING ROund,
+blue-white object|!. coMMENTsSeveral reports received this
+size of basketball. No sound heard. Appeared
+month from several parts of the country,
+to break-up into several small chunks of
+xxx all very similar to this one. The
+blue-white light just prior to disappearing.
+earth is passing through several meteor
+No estimate of elevation. Light first appeared
+showers this month. Object observed by
+directly over auto and was first seen at an
+these witnesses was probably a meteor
+asimuth of 210° going away from observer.
+that burned out before reaching the
+Disappeared at an azimuth of 210°; again no
+earth's surface.
+estimate of elevation. Flew in a straight line
+on 210° heading disappearing before it reached
+horizon.
+ATIC FORM 329 (REV 26 SEP 52)

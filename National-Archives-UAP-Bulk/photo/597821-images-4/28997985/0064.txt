@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:02:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8362445, "source_ctime_ns": 1793386993895897928, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997985/0064.jpg", "source_mtime_ns": 1785748237000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997985/0064.jpg", "source_sha256": "e2c33e75393ec6d341b854fbf131e0933d032a1d824ca4425c85bdcd0ed48b55"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1101, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL MESSAGE
+RECEDENCE
+(ACTION)
+PRIORITY
+RQUT INE
+(INFO!
+RELEASED BY
+UNCLASSIFIED
+NAVY DEPARTMENT
+DRAFTED BY
+EXT. NO.
+AF IN : 33250(4 Jul 62)B/gx
+7P PR 040930Z
+FM
+USS
+FORSTER
+TO RUHLKM/CINCPACFLT HICKAM
+INFO RUECW/CNO
+RUHPB/CINCPACFLT
+RUHPHH/COM HAW SEAFRON
+RUHLKSD/CJTF 8
+RUHPX/CJIG8.3
+RUHPC/CJTU8.3.6
+- PUMPQ/COMDESFLOT 5ął
+RUKPQ/COMCORTRON 5
+AF DIST:
+CIN-14, DIA-8, OOP-2
+OOP_CP-1, SAFS-3(28)
+UNCLAS
+A. CINCPACFLI INST 03561.3A NOTAL
+B. CINCPACFLT INST 3820.3 NOTAL
+1. UFO. IN ACCORDANCE ENCL 1 REF B FOLLOWING REPORTED.
+A. ROUND.
+B. SIGN OF FIRST MAGNITUDE STAR. SOLID GLOW NO TAIL.
+C. BLUEISH WHITE.
+D. ONE
+2. A. FIRST NOTICED DUE MOVEMENT IN RELATION TO STARS.
+B. 45 DEGREES BEARING 30OT.
+C. 05 DEGREES BEARING 030T
+D. COURSE NORTHEAST
+E. DISAPPEARED BEHIND LOW CLOUDS ON HORIZON
+F. IN VIEW TWELVE MINUTES
+• A SIGHTED VISUALLY
+• NO OPTICAL AIDS
+4. A. SIGHTED 040908Z
+92..
+- SECNAV
+35
+CSA
+• COG
+UNSECNAV
+ASTSECNAV (R&D)
+05
+07
+72
+76
+94
+NAVAIDE FLAGPLOT
+SAF
+CIA
+NIC
+COGARD
+CONTROL NO.
+51486/CY/JFK/3
+CIRCUIT NO.
+A 123
+PAGE
+OF
+PAGES
+2
+TIME OF RECEIPT
+13032
+UNCLASSIFIED
+DATE TIME GROUP
+040930Z JUL

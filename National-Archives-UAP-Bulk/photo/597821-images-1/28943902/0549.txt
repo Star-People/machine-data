@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:06:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5511172, "source_ctime_ns": 1793372724347528459, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943902/0549.jpg", "source_mtime_ns": 1785688516000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943902/0549.jpg", "source_sha256": "ebc975450a560f4cf436f05dc0aa70dcb8e92312eb0ba43af7dfa8b5b1d20c9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 318, "method": "ocr", "page": 1, "variant": "plain-vision"}
+APPROXIMATELY 7 MINUTES. NATIONAL AIRLINES FLT 42 WAS FLYING
+15ED FT AND TO THE NORTH OF OBJECT AT TIME OF SIGHTING.
+E. VEATHER CONDITION 25000 FT THIN SCATTERED VISILILITY 15 MILES
+PLUS MINDS CALM.
+F. TIME OF SIGHTING 112130Z.
+G. PILOT CAPT
+• COPILOT
+ACFT NATIONAL AIRLINES
+FLT 42 JACKSONVILLE FLA
+12/01322 JUL JEPHO

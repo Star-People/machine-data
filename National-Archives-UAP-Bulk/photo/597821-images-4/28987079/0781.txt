@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:20:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8866020, "source_ctime_ns": 1793383479965592377, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0781.jpg", "source_mtime_ns": 1785747892000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0781.jpg", "source_sha256": "0393318a92415e8272f10701034d98c0b6788a4778b4c294a375f0677c43f7ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1270, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETẠCHMENT 3
+8 WEATHER GROUP (MATS)
+UNITED STATES AIR FORCE
+CHANUTE AIR FORCE BASE, ILLINOIS
+15 June 1960
+SUBJECT:
+Meteorological Conditions at Joliet and Braidwood, Illinois (0310Z
+1 June 1960)
+TO: Whomever This May Concern
+1.
+The following meteorological conditions were observed and/or are
+interpolated from maps and charts for Joliet, Illinois, at 0310% 1
+June 1960:
+a .
+Wind direction and speed at altitudes (feet) above sea-level
+as indicated:
+Altitude
+6000
+10000
+16000
+20000
+30000
+50000
+Direction
+220
+320
+300
+Speed
+300
+290
+b. Ceiling: None
+c. Visibility: 10 nautical miles
+d. Cloud Cover: Less than 0.5
+e. Thunderstorms: None in vicinity
+f. Temperature Gradient:
+O to 10000': 2,2°C/1000'
+10000 to 20000': 2.3°C/1000'
+20000 to 30000': 2.4 C/1000'
+30000 to 340001: 2.5°C/1000' (TROP)
+34000 to 40000': 0.5°C/1000'
+40000 to 45000': 0.2°C/1000'
+2. Conditions at Braidwood, Illinois, at the same time were the same
+as at Joliet.
+3. According to our records there was no meteorological balloon in the
+vicinity of either town at times indicated. The nearest was released
+from Peoria, Illinois at approximately 0000Z 1 June 1960 and sounding
+was completed before 0310Z.
++
+urnished in compliance with paragraph 15, AFR 200-2.
+Nau
+CHARLES H. HARRISON, Major, USAF
+Commander

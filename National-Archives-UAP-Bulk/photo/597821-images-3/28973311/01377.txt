@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:03:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8540925, "source_ctime_ns": 1793379729755217989, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973311/01377.jpg", "source_mtime_ns": 1785700627000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973311/01377.jpg", "source_sha256": "1d2b8fd51dc1208896a4076eb989665aa625b7dae7876c88e608ba32e0589b88"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 772, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+6 November 1957
+3.
+DATE-TIME GROUP
+Locai
+GM T
+07 0140Z
+PHOTOS
+PROJECT 10073 RECORD CARD
+| 2. LOCATION
+Roslyn AFS, N.Y.
+4 TYPE OF OSSERYATION
+A Ground-Visual
+• Air Visual
+6-. SOURCE
+• Ground- Radar
+• Air-intercept Radar
+Tos
+No
+LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+5 minutes
+2
+1. BRIEF SUMMARY OF SIGHTING
+3, Round, red object (2). Moving back
+and forth.
+9. COURSE
+Not given
+11. COMMENTS
+12.
+•
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bailoon
+Was Aircraft
+Proba'sly Airereit
+Possibly Aireraft
+Was Astrononicoi AvidilA
+Probabiy Astronomical
+Possibly Astronomical
+Other
+Insufficient Date for Evalu
+Unk no wa
+Proper evaluation cannot be attempted
+withoat this information
+However.
+the flight path surgesta a balloon with
+RORY 329 (REY 26 S2P52)

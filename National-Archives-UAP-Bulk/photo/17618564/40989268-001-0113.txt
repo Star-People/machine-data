@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:27:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14960806, "source_ctime_ns": 1793355674358480031, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0113.jpg", "source_mtime_ns": 1785564501000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0113.jpg", "source_sha256": "7b1a7968ef23fa396261e336c06397bb36c19f2cfb04c3183a2053cb1cfe51fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 996, "method": "ocr", "page": 1, "variant": "plain-vision"}
+213
+XIX. Instability of Spherical
+Wind-Sensing Balloons
+Daniel F. Reid, USAF
+Aerospace Instrumentation Laboratory
+Air Force Cambridge Research Laboratories
+Bedford, Massachusetts
+Abstract
+A description of the "ROSE' wind-sensing technique is presented. The
+problem of balloon instability as discovered during experiments at the Lake-
+hurst Naval Air Station in the large airship dock is described with examples
+of balloon trajectories.
+Water analogy experiments being conducted at
+Unip ersty ballothes cally are discus An Attery rel and ther relationy
+to the balloon's wake is presented with possible solutions. Recent experimentation
+it Eglin Air Force Base, Florida, is described and the preliminary results
+presented. The optimum
+'quick fix' to the standard balloon and the
+recommended new design are presented.
+1. INTRODUCTION
+Wind and wind variations influence the trajectory of all ascending vehicles. In
+the case of a boosted space craft or a military missile the gross effect of the wind

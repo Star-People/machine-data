@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:14:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7275773, "source_ctime_ns": 1793383617894651750, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987432/1077.jpg", "source_mtime_ns": 1785748432000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987432/1077.jpg", "source_sha256": "33980e282132c91925a5152a525bf9a43dcc38295549f2fe474ffc3cb13a4a66"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 149, "method": "ocr", "page": 1, "variant": "plain-vision"}
+C
+BLUR
+SHINEI
+RTE 114
+SUN
+INDENTURE
+ROHINET
+LUR
+HAPE
+LIKE
+TUSE'S
+in SIDe
+METALLIC
+ERCEN STI
+Diavueils
+N14.5
+HOUSE
+SAn
+ON JUIVE 27 1940
+12-12 30irson

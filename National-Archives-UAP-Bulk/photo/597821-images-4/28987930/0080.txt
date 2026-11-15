@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:14:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7331141, "source_ctime_ns": 1793383802752488794, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987930/0080.jpg", "source_mtime_ns": 1785748176000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987930/0080.jpg", "source_sha256": "750a3c49d8571eec56e3f02ca4ddb2619e0600a1a874b00a4de43e4e2024179d"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 504, "method": "ocr", "page": 1, "variant": "plain-vision"}
+7. WEATHER:
+A. CLEAR.
+B. WINDS- CAL.
+C. CEILING 40,000 SCATTERED, HIGH SCATTERED.
+D. VISIBILITY-15 MILES.
+E. CLOUD COVER- SCATTERED •3 COVER.
+F. THUNDERSTORMS- NO.
+8. NO UNUSUAL METEOROLOGICAL OR ASTRONOMICAL CONDITIONS.
+9. NO INTERCEPTION ACTION TAKEN.
+10. HENSLEY FIELD HAD FIGHTER EXERCISE DURING TIME OF SIGHTING.
+FIGHTERS FLEW FROM HENSLEY FIELD IN WEST WARD DIRECTION.
+11. ASST OIC, COMBAT INTEL. 7TH BW., NO EXPLAINABLE CAUSE FOR
+SIGHTING.
+12. NO PHYSICAL EVIDENCE PRESENT.
+ET
+23/0903Z JUL RJWFSK

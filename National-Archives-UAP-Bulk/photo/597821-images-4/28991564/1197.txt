@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:01:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8148768, "source_ctime_ns": 1793384994853389767, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991564/1197.jpg", "source_mtime_ns": 1785747845000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991564/1197.jpg", "source_sha256": "853e50a79da91a1f4745713661420750c1b318d06f389cf6923aa81a84d284f3"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 564, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL MESSAGE
+(ACTIONI
+RELEASED BY
+NAVY DEPARTMENT
+EXT. NO.
+(INFO)
+Let 00
+DRAFTED BY
+ED
+4. 271002Z NIGHT.
+LOCATION. OF OSSEVER 144-50E, 13-45N
+S. SIGHTED BY LIJG RoE. STEWART, CO-PILOT, CONSIDERED RELIABLE.
+7. WX CLEAR, WINDS LIGHT AND VARIABLE TO 30,000.
+S• REPORT PREPARED BY AIO, CONSIDERED POSSIBLE SATELLITE REENTRY
+REPRODUCTION OF THIS DOCUMENT IN WHOLE OR IN PART IS PROHIBITED EXCEPT WITH PERMISSION OF ISSUING OFFICE
+CONTROL NO.
+CIRCUIT NO.
+PAGE
+: OF
+PAGES TIME OF RECEIPT
+DATE TIME GROUP
+5985
+2
+271327Z FEB
+UR DTERVALS:
+YEARS.
+When filled in
+JNOLASOIFEL

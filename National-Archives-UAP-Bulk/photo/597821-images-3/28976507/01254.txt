@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:07:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5604799, "source_ctime_ns": 1793380516110107628, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976507/01254.jpg", "source_mtime_ns": 1785701087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976507/01254.jpg", "source_sha256": "8dd53f9aa44e907bd3cb354940ab5be62ab785b12a216673a93a18bd65fb8ff2"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 811, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
++ Jan 58
+3. DATE-TIME GROUP
+Local
+dawn
+GM T
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2 LOCATION ManKato, Kansas
+Ansus
+TYPE OF OBSERVATION
+X Ground- Vi sual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+5 mins
+one
+10. BRIEF SUMMARY OF SIGHTING
+Rpt of strange a/c w/aerials about
+shape & size of strato-cruiser. Obser
+ved at dawn.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possi oly Balloon
+Was Aircraft
+EX Probably Aircraft
+Possibly Aircraft
+000
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+Observation of one of the new
+WR-2 type a/c w/radar search
+aerials. A/C has saae general
+configuration as
+a strato-cruiser
+ATIC FORM 329 (REY 26 SEP 52)

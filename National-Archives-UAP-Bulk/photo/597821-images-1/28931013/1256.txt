@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:08:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5684844, "source_ctime_ns": 1793369209819690235, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931013/1256.jpg", "source_mtime_ns": 1785688815000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931013/1256.jpg", "source_sha256": "a04f6dae2239868bb530f74f9fbe39c32010db0abeeb497e6695b26f33659e8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 445, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident No. 168 -- 20 July 1946, 1330 Hours, Archein, The
+hague •
+One observer saw an object intermittently through clouds four bines.
+The object had two decks and no wings, was said to be very high, with
+speed comparablo to V-2.
+ALC Opinion: Insufficient information. It may be well to point
+out that the V-2 is not visible in flight, therefore, it follows that
+this object would not have been visible as described if traveling at
+that spood.

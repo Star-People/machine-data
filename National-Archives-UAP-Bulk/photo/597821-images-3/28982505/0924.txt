@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:54:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5806785, "source_ctime_ns": 1793382041320796773, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982505/0924.jpg", "source_mtime_ns": 1785700667000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982505/0924.jpg", "source_sha256": "c00b7664656d51158f229edd7ca18c18e30f88491b09a6427e4d435c3e6ba93b"}
+
+===== PAGE 1 =====
+{"alpha_words": 238, "chars": 1723, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ SECURITY CLASSIFICATION (1 00g)
+DISPOSITION FORM
+FILE NO.
+SUBJECT
+Extract from ATIC Duty Officers Report, 18 Mar 59
+TO AFCIN-4E4
+FROM
+4X2a
+DATE
+19 Mar 59
+COMMENT NO. 1
+AFCIN-4X2a/Capt McNeil1/ps
+59117/B1dg 263/Hangar C/Rm 4
+Following is an extract from ATIC Duty Officer Captain R J Hamborsky's report
+dated 18 Mar 59 for your information.
+1945 - Received call from Mr.
+Journal Herald, requesting information
+on UFO. Referred him to Information Services - Washington.
+1955 - Called Mrs.
+for report on UFO. See separate ATIC Form 164.
+2100 - Called Patterson Opns. - no help - referred me to x.
+2102 - Called Wright Opms. - No help -
+2104 - Called Fet. Service - Capt. Hil1 - no help.
+2110 - Called 56th Intell - no help - no radar - they will call Bellefontaine
+and call me back - Radar (Moonshine) did not see anything but 2 F-104
+pilots saw two (2) flashes in that area and thought they might be anti-
+aircraft.
+2145 - Talked to Capt. ROOPE - F104 pilot. He saw 6 or 7 prs. of high
+intensity lights - other pilot saw one pr. of high intensity lights
+travelling fairly fast apparently on ground southeast to northwest -
+They were at 35,000 it and were over Van Wert (they think) and started
+a turn from 210° heading to 125° heading toward Dayton. Moonshine
+verifies time of sightings as 0145? and GEORET COORDINATES FM 2000.
+2255 - Called Wx bureau - they released PIBAL Balloon at 1820E at estimated
+40,000 - 19,000 travelling eastward and probably was east of Patterson
+at 1900E.
+2258 - Called Cox Tower - no help.
+2302 - Called Flight Test Diviston WAnc, 50232 - no enswer.
+1 Inel
+ATTC IN 164 (UFO Rpt)
+C. MeNTILL
+ISAP
+1X2a
+DDIE S0 95 REPLACES MME FORM 56. 1 OCT 4R. WHICH MAY DE USED
+U.S. COVERNMENT PRINTINO OPPICE

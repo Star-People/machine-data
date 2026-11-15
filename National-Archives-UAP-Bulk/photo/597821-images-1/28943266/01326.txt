@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:07:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5669925, "source_ctime_ns": 1793372567617749913, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943266/01326.jpg", "source_mtime_ns": 1785688661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943266/01326.jpg", "source_sha256": "8616664ae180c68654f2145e91d8059bc41d9a9741807afe3bfb17db7a957445"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 915, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AGO. 1
+RE127JEDPK
+RR . JEDVP
+AM 9:15
+DE JEDPK 213
+ACTION
+NI.ATIAA
+R 1722222
+2.
+ATIA
+FM HQ 4706TH DEF VG OHARE INTL APRT PARK RIDGE ILL
+3. C. 7 eles
+TO CG AIR TECH INTL CTR WRIGHT PATTERSON AFE OHIO
+FRON INTEL-10481 PD SUBJ PROJECT BLUEBOOK PD ATIC CLN FOR AFOIN-ATTAA-
+7-5E PD CITE YOUR NSG JEDWP D 138 DATED 16/2205Z JUL PD CHECK WITH
+TRUAX AFB AND MADISON WIS PAPER REVEALS NEG INFO ON BALLOON RELEASES
+VIC LAKE KISHKONOUG 23 JUN PD FIVE THOUSAND SMALL BALLOONS RELEASED
+CHICAGO AREA 29 RPT 29 JUN PD WEATHER CLN TEMP INVERSON VERY UNLIKELY
+VIS. 15 MILES CU-NIMBUS TO NORTH 1900 CDST PD WINDS ALOFT
+S 210 DEG
+is KNOTS
+10002 FT
+252 DEG
+34 KNOTS
+1000 210
+" 17
+12
+262
+32
+- 22
+14
+272
+33
+210
+25
+28û
+42
+PAGE TWO JEDPK D18
+7-
+220
+220
+23 ₽
+24ø
+240
+242
+27
+27
+2S
+22
+27
+32
+18
+25
+45
+27~
+270
+250
+262
+240
+35
+31
+40 EST
+44 EST
+6% EST
+40 EST
+LOCAL A/C FROM TRUAX AFS INCL F-86S WERE AIRBORN 1800 CDST 28 JUN PD
+18/0559Z JUL JEDPK

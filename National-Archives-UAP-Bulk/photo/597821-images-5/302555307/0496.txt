@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:41:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1699830, "source_ctime_ns": 1793391065531909987, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555307/0496.jp2", "source_mtime_ns": 1785808198000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555307/0496.jp2", "source_sha256": "e9215bdf2af77f5e7af7f90a814c1a3ba29b93e41e52450f9ef28fbefa4ef36c"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 996, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+• DATE • TIME GROUP
+30 August 66
+31/0030Z
+2. LOCATION
+Alley Springs, Missouri
+10. CONCLUSION
+ple
+3. SOURCE
+Cimilian
+Balloon
+1. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+90 minutes
+11. BRIEF SUMMARY AND ANALYSIS
+6. TYPE OF OBSERVATION
+Ground Visual
+7. COURSE
+Observers noted round object about the size of a marble.
+The color was silver that later changed to orange.
+Object was visible for ls hours before disappearing to-
+ward the west.
+The object was seen by many people and some
+said that it looked like a balloon.
+West
+8. PHOTOS
+• Yes
+X No
+9. PHYSICAL EVIDENCE
+• Yes
+* No
+A balloon was launched by Litton Systems Incorp. of
+Minneapolis, Minnesota on 24 August 66.
+The balloon
+dropped its package; however, it did not function properly
+and the balloon went toward the south for the next 10
+days.
+This balloon was over the southern Missouri area
+on the 30 August 66.
+Balloon was confirmed by B 52 pilot over eastern Arkansas.
+FORM
+FTD
+SEP 63 0-329 (TDE)
+Previous aditi

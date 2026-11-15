@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:40:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1437635, "source_ctime_ns": 1793392658279262310, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569556/1305.jp2", "source_mtime_ns": 1785808426000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569556/1305.jp2", "source_sha256": "12472c4906ad9bfa24849fe9120e0c9b3290bf2f561dc2e3137d9be2aa393625"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 853, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+WEPARTMENT OF THE AIR FORCE
+STAFF MESSABE BRANCH
+ONCOMING MESSABE
+AF IN: 17805 (17 Sap 67) I/jrt
+ACTION: RDC-L INFO: XOP-2, XOPX-2, SAP05-3, JCS/DIA-1 (13)
+SM3 E099PTTUZ YU RUWTEMB0769 2690205-UUUU--RLEF HQA.
+ZAR UUUUU
+P 152210Z SEP 67
+FM 716 RADAR SQ KAL ISPELL AF S MONT
+TO RUEF HQA/C SAF WASHINGTON DC
+RUEF HQA/OSAF WASHINGY ON DC
+ADV CY DIA
+UNCLAS 7160PS 00324 16 SEP 67, FOR AFROC. FOR TDETR. FOR
+SAF-01. U.F.0 REPORT 16 SEP 670
+NAMES MP
+TIME: 14440Z
+PLACE: COLUMBIA FALLS, MONT
+ONE OBJECT FLYING ABOUT 46,088 FT., EAST TO WEST DIRECTION TOBARDS
+WHITEFISH, MONT, OBJECT WAS LAST SEEN GOING DOWN EAST OF THE
+MOUNTAINS FOR TO FIVE MILES OF WHITEFISH, MONT. THIS OBJECT
+WAS SEEN FLASHING A LIGHT OFF AND ON, AND A WHITE HAZE LIKE SMOKE
+WAS UNDER THE OBJECT.
+TELEPHONE:
+OBJECT WAS SEEN FOR FOUR MINUTES.
+BT
+AFHQ
+JAN 63
+0-309C
+UNCLASSIFIED

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:52:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5341410, "source_ctime_ns": 1793368877654550788, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929795/0140.jpg", "source_mtime_ns": 1785688573000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929795/0140.jpg", "source_sha256": "879ef634bd4efd96142f404a8e4f5f2629e32fd0513ea0719745bf846b7da7c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 1375, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DE HYNEK'S EVALUATIONS EXTRACTED FROM PROJECT GRUDGE REPORT,
+INCIDENT INDEA
+1. Astrononical
+High probability:
+95, 8 0, 79, 14, 10, 157,134, 35, 0, 38, 10,
+219, 238.
+b. Fair or low probability:
+#19, 20, 23, 24, 28, 35, 35, 46, E0, 63, 67, BO, 82, 93, 100,
+112, 120, 121, 123, 130, 144, 153, 160, 166, 167, 175, 192,
+199, 202, 205, 220, 230, 240.
+2. Non-astrononioal tut suggestive of other explanations
+Balloons or ordirary siroraft:
+126, 13, 130, 331, 149, 17, 186, 537, 159, 101 1 1, 1 115,
+156, 157, 159, 160, 161, 163,
+169, 171, 173, 178, 130, 182, 138, 190, 194, 195, 196, 198,.
+200, 201, 209, 210, 217, 222, 235, 237, 239.
+Rookets, flares or falling bodies:
+V4, 5, 6, 7, 8, 9, 12, 13, 14, 15, 16, 25, 56, 65, 78, 106, 107,
+108, 109, 133, 170, 211, 218.
+6. Miscellaneous (reflections, auroral streamers, birds, sto.):
+#39, 89, 123, 124, 128, 146, 164, 181, 189, 214, 221, 231, 234.
+3. Non-astronouical, with no axplanation evident
+Lack of evidence precludes explanation:
+#38, 44, 45, 47, 55, 57, 72, 86, 87, (83, 90, 99, 110, 117, 118,
+125, 127, 137, 139, 149, 150, 177, 179, 191, 206, 212, 213,
+229, 232, 233.
+Evidence offered suggests no explanation:
+7i, 2, 10, 17, 21, 29, 37, 40, 51, 52, 58, 61, 62, 64, 68, 71,
+75, 76, 77, 79, 84, 105, 111, 123, 136, 151, 152, 154, 162,
+168, 172, 176, 183, 186, 193, 207, 215, 223, 224, 225, 226,
+227, 236, 241, 242, 243, 244, 131.

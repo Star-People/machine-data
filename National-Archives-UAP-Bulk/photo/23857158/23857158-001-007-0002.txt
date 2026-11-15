@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:50:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4644092, "source_ctime_ns": 1793358086095645638, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-007-0002.tif", "source_mtime_ns": 1785680989000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-007-0002.tif", "source_sha256": "fa0b36dd61ee344ff004c08e87e3ec5656c357f13d0802bd2ef69cf1657a9f8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 946, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+#689-0919-21
+59378
+PAGE THREE JUPRH 02IV
+BARSTOW CALIF PD BARSTOW HIGHWAY
+PATROL PD
+ACK HORTON 26 BARSTOW POLICE DEFT BARSTOW CALIF POLICEMAN
+JACK PRICE 37 BARSTOO POLICE DEPT PD BARSTOW CALIF POLICEMAN
+PFC E RASCON 17
+PFC CHAPPELL 20
+PFC WHITNEY 19
+SGT LUZZ
+25
+LAST FOUR MEN WITH PROVOST MARSHALLS OFFICE MARINE CORP DEPOT
+SUPPLY BARSTOW CALIF PD
+VIT
+A CLEAR VISBY GOOD
+B SFU 180 DEG SIX KNOTS
+6,220 #T 070 DEG TEN'KNOTS
+10,000 FT 090 DEG TEN ANCIS
+1S002 PT 160 DEG TEN KNOTS
+20,022 FT 160 DEG TWENTY FIVE KNOTS
+32,000 Fłśł
+270 DEG FIFTEEN KNOTS
+5,002 FT 230 DEG ZWENTY KNOTS
+8,220 FT UNKNOUN
+PAGE FOUR JPRK 02IV
+.C NONE
+O FIYTEEN MILES PLUS
+E NONE
+E NONE
+VIET
+NEGATIVE
+NO
+X UCKNOUN /
+XI
+OPERATIONS OFFICER WITH MAJKH FLIGHT SERVICE RECETVED THE ABOVE
+INFO FROM DAGGET INSAC RADIO STATION VIA TELETYPE NSC PD UNABLE TO
+TALK TO ANY OF THE OBSERVERS PD
+XL T
+NONE
+MASCH FLICHT SERVICE
+end -
+21/1343Z SEP JUPRY

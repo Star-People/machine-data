@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:46:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3834145, "source_ctime_ns": 1793374194240098410, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950665/1332.jpg", "source_mtime_ns": 1785696660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950665/1332.jpg", "source_sha256": "237218e9c449829d8b9ee9c25253148405e2845f5ce5f44b61f89147b9fc3ae2"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 771, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IV. BALLOON DATA
+21. WERE BALLOONS RELEASED IN AREA?
+22. TIME SINCH SCHEDULED BALLOON ROLEASES
+MYes
+Apu Vanutes
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIOHTING:
+TUCSON
+Location
+DAUS. MONT7011
+Type
+Rawi
+Since
+Launching Agency
+AWS
+O No
+Mehted?
+Yea
+No
+Describe
+Highting
+b.
+do
+21. EVALUATION OF SOURCE:
+• Excellent
+- Good
+LJFair
+• Poor
+• Unroliable
+•Extremely Doubtful
+-1 Hoax
+23. PINAL EVALUNIONE
+Was Balloon
+- Probably Balloon
+- Possibly Balloon
+-Was Airoraft
+- Probably Aircraft
+[Possibly Aroraft
+(attach overlay)
+V. EVALUATION
+22. DETAILS OF REPORT:
+I Good
+I Fair
+• Poor
+- Insufficient to Evaluate
+- Was Astronomical
+_ Probably Astronomical
+_ Possibly Astzoncaical
+- Other:
+_ Insufficient Data For Evaluation
+X Unknown
+24. COMMENTS:
+ATIC Test For 334, (13 Aug 52)

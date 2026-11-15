@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:50:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4556682, "source_ctime_ns": 1793360112494707601, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-056-0001.tif", "source_mtime_ns": 1785681632000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-056-0001.tif", "source_sha256": "3c651bb7ac8b248fb80a9dac6bb1a3f715558775088794d5ad82c31c13c2f34c"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 519, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+15 2122₴
+G
+EN0810 ENB026 YDA075 TYC966 TM3266
+/PP RJEDEN RJEDWP RJEPNY RJEPHQ
+DE RJEPNB 49
+P 151430Z
+FM COMDR EADF STEWART AFB NY
+O RJEDEN/COMDR ADC ENT AFB COLO
+JEPNY/COMDR 26 ADD ROSLYN AFS N
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CEN WPAFB OHIO
+RJEPHQ/DIR OF INTELLIGENCE HQ USAF WASH DC
+UNCLASSIFIED) CIC 0001 PD SUBJ: UFOS
+1• A. CIRCULAR
+• PIN HEAD
+C. WHITE WITH RED LIGHT
+D. NEG
+E. NEG
+F • NEG
+G. NEG
+H. NEG
+I. NEG
+NBAØ33
+46020 AISS UFOR REPT.
+NEW BURGH, N. Y.
+PROB BALASON

@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:21:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9386414, "source_ctime_ns": 1793364626525665292, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0018.jpg", "source_mtime_ns": 1785684881000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0018.jpg", "source_sha256": "e1a8eac1a1313bcdeafd7de5220b4805fe0efd02acebc0a4fd420b826bb1bdbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 910, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFID
+IAL
+EEH/iae
+UNCLASSIFIED
+COORDINATION
+CO
+DEPUTY CO
+EX OFFICER
+19 0SI 24/40 SIR-10
+1l August 1950
+SUBJECT :
+UNUSUAL AERIAL PHENOMENA
+25 Miles East of Oakland, California
+TO
+District Commander,
+17th OSI District (IG) USAF;
+Kirtland Air Force Base,
+New Mexico.
+CHIEF AGENT
+FILE CLERK
+1. Reference is made to letter, your headquarters, dated
+7 August 1950.
+2. Attached for your information is a copy of the Spot
+Intelligence Report that was forvarded to Headquarters OSI by thiJAT CONTROL
+District.
+AGENT
+JOHN G. SWOPE,
+Distreet Commander,
+1 Inel:
+Copy of Spot Intelligence Report
+dated 10 August 1950.
+ORIGINATOR
+CHIEF CLERK
+DET COMDR
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE
+KURT K. KUNZE, Capt, USAF
+BY
+Historian
+DATE
+5 DEC 1975
+24/40 S1R-10
+UNITED STATES AIR F
+THE INSPECTOR GENE
+11 AUG19 5
+OFFIC
+UNCLASSIFIED
+CON
+OSI 124-10
+(25 Aug 48)
+SMAMA-May 50-10M
+(30a)
+Declassification Authority: NND 923007

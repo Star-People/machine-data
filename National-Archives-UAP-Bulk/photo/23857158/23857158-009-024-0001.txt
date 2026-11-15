@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:28:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17432262, "source_ctime_ns": 1793359589752207540, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-024-0001.tif", "source_mtime_ns": 1785681463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-024-0001.tif", "source_sha256": "5985e330f3e550b14883daf257bac3384104a3fc415c8a7588107a8f3ce9f340"}
+
+===== PAGE 1 =====
+{"alpha_words": 182, "chars": 1460, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+1527 AISS UFT REPT. 3.72
+DATE TIME C9968 25 23.328 SepS6
+PUEBLO, COLO
+DE RJEDEN 023P
+R 2516002
+EM COMDR 4602D AISS ENT AFB COLO
+TO COMDRAIRDIVDEF 34, KIRTLAND AFB, NEW MEX
+COMDR AIR TECHNICAL INTELLIGENCE CENTER
+WRIGHT PATTERSON AFB, OHIO
+DIRECTOR OF INTELLIGENCE, HEADQUARTERS USAF
+WASHINGTON 25 D.C.
+PROB Auft.
+25
+/UNCLAS/AISOC 0871 PD THIS IS A UFOB MESSAGE PD
+(1) (A) ROUND PD (1) (B) 2-WASHTUB PD (1) (C) BRIGHT LIKE A LIGHT PD
+(1) (D) ONE PD (1) (E) N/A PD (1) (F) BIG ROUND LIGHT PF (1) (GZ) N/A PD
+(1) (H) NO SOUND--ANOTHER ACFT PASSED OVER HEAD WHICH MAY HAVE OBSCURED SON
+DSOUND PD (1) (I) GOING VERY FAST PD
+(2). (A) LIGHT PD (2) (B) 99 DEGREES ELEVATION PD (2) (C) NORTH PD
+(2) (D) STRAIGHT AND LEVEL PD (2) (E) FLEW STRAIGHT AWAY FROM HIM PD
+(2) (F) THIRTY SECONDS PD
+(3) (A) GROUND VISUAL PD (3) (B) NONE PD (3) (C) N/A PD
+(4) (A) 25/0337
+Z SEP 56 PD (4) ( B) NIGHT PD
+(5) LAJ 2317 PD (6) (A)
+* PUEBLO;
+WYOMING, PUEBLO, COLORADO PE
+07) (A) CAVU PD (7) (B) SURFACE /NNE/ 5; 6000/230/5; 10200/340/10:
+16202/300/10; 42000/278/65 PD (7) (C) CEILING AND VISIBILITY
+UNLIMITED PD (8) NONE (9) NONE (1Ø) NONE (11) JOSEPH A MACHYOWSKY
+2/LT USAF, ASSISTANT OPERATIONS CONTROL OFFICER PD
+COMMENTS CLN SIGHTING PROBABLY CAUSED BY A JET AIRCRAFT PD
+C12) NONE OD END
+25/17282 SEP RJEDEN
+WILL U PLS GIVE ME THE FOUR LINE IN THE TEXR
+(1) (H) NO SOUND --ANOTHER ACFT PASSED OVER HEAD WHICH MAY HAVE OBSCURED
+SOUND PD
+TNX
+RGR

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:49:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4453171, "source_ctime_ns": 1793374607306485879, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952375/0037.jpg", "source_mtime_ns": 1785696896000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952375/0037.jpg", "source_sha256": "8a319e5ae30a3791dce39cfb91337330f65e255af615f5158752076f520b5525"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 702, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Los Alamos, New Mexico
+30 December 1952
+I.
+Description of Incident
+An object traveling in a slight curve and accompanied by a high pitched
+crackling noise which trailed the object by four seconds was observed by an
+employee of AEC Security Section. The time of sighting was 2002 IST in clear
+weather conditions of 40 miles visibility. The observers credibility is con-
+sidereủ excellent.
+II. Discussion of Incident
+This report can be categorized as a low meteor, some of which enit the
+sound described above. Length of observation was extremely brief at tro
+seconds.
+III. Conclusion
+Probably meteor.
+DOWNGRADED AT 3 YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
+- 35
+T53-3895
+UNCLASSIFIED

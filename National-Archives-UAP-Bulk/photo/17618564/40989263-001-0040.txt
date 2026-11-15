@@ -1,0 +1,94 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:10:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6556268, "source_ctime_ns": 1793355120272586063, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0040.jpg", "source_mtime_ns": 1785564396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0040.jpg", "source_sha256": "687093d10d111efcc92aa977a0e3529128713c19ea0c9957ec1c3eccf9887fc2"}
+
+===== PAGE 1 =====
+{"alpha_words": 251, "chars": 1879, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONTROL CENTER LOG
+Date
+24 April 75
+Flight No
+H75-26/H-60X
+Page
+TIME
+0030
+0106
+0115
+0120
+0137
+0147
+0205
+0239
+0246
+0320
+0340
+0354
+0355
+0359
+0400
+0401
+0405
+0408
+0425
+0432
+0437
+0442
+O449
+0451
+0509
+0511
+0523
+0523
+0525
+0526
+0527
+0532
+0533
+0534
+0535
+0549
+0554
+0555
+0608
+0700
+REMARKS
+Control center opened by Sgt. Arrington and AlC Shryock.
+Received clearance for launch crew to go on runway.
+Launch crew report barrier is up. Command post says they
+Convoy went around barrier and are now on runway.
+Command check started.
+Command check complete except for valve check.
+Gas cutoff confirmed.
+Balloon layout started.
+Balloon layout complete.
+Command check complete.
+Inflation started.
+Inflation complete.
+Package is hot.
+Received clearance for launch.
+Balloon launched.
+Antenna dropped.
+Unable to record altitude with plotter due to unstable pin.
+I-I data on plot board noisy, but adequate for data.
+IND advised lost al] signal at launch. (radiosende tailme
+Issued channol 8 (Ballast pour) for 33 seconds. Freq. 5708.5
+Snooper II turned on at 45.2K. Indication by telemetry.
+Radar turned off to see if it is causing interference with IM.
+Radar turned on. Still having problems with TM
+Baracoder turned off. Was interfering with TM (Channel 5).
+Recovery departing Bldg. 850. Will call from Artesia,
+Recovery left gate.
+Balloon burst.
+Balloon terminated at this time ( primay command)
+Baracoder turned on.
+Aircraft crew left Bldg. 850.
+Channel 3 issued, and received. Package on standby.
+Package not shut down, off
+standby.
+Channel 3 issued, and received. Package on standby.
+Package shut down.
+Lost radar signal, due to line of sight.
+Lost baracoder.
+Command site turned off at this time.
+Aircrait leit Alamogordo Airport.
+Aircraft found payload, 188, 8 miles South Roswell VOR. Package
+undamaged, no danage to property. Aircraft advised to look
+for balloon until recovery can get there.
