@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:16:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7103170, "source_ctime_ns": 1793384928819660344, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991401/1056.jpg", "source_mtime_ns": 1785748287000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991401/1056.jpg", "source_sha256": "12de88ad44d71786753f0f80eabad933827d2217f77cbffbf5f2b475f5fe4b65"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 543, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RECEIVED
+16 FEB SI 10
+ATIC
+ZC SQF 483ZCWY B895
+MM RJEDSQ
+1961 FEB IS 01 31
+DE RJWFDS 29
+ZNR
+M 152240Z ZEX
+FM WEBB AFB TEX NOS
+TO RJWFAL/ADC ENT AFB COLO
+RJWFJG/819 ADIV DYESS AFB TEX
+RJEDSQ/ATIC WPAFB OHIO
+RJEZHQ/HQ USAF WASHDC
+RJEZHQ/SECRETARY OF THE AF WASHDC
+AF GRNC
+BT
+UNCLAS OP 105B. FOR AFCIN, HQ USAF. SAFIS, SECY OF THE AF. UFO. THE
+FOLLOWING REPORT IS SUBMITTED IN ACCORDANCE WITH PARAGRAPH 15, AFR
+200-2. A. DESCRIPTION. (1) N/A
+(2) BASEBALL
+(3) GREEN AND WHITE
+(4) ONE (1)
+(5) N/A
+1961 FED 10
+ATIC
+(6) NONE
+(7) NONE
+(8) NONE HEARD.

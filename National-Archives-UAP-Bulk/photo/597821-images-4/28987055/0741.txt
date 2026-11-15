@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:24:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8826712, "source_ctime_ns": 1793383457593063964, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987055/0741.jpg", "source_mtime_ns": 1785748452000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987055/0741.jpg", "source_sha256": "02b66028c223299d7d7f63d9bb967c5098222842a6cec8c25a329ab5d98597ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 466, "method": "ocr", "page": 1, "variant": "plain-vision"}
+M
+ZCZCSQPØ45CZCSQG287ZCQYA135
+RR RJEDSQ
+ZFD
+CDMAD21
+RR RJEDSQ
+DE RJWZDMS 4
+R 0816302
+FM COMDR 919TH SQ SASKATOON MT AIR STA BEAVERLODGE ALTA
+TO COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFE OHIO
+BT
+/UNCLAS/9190DC 6-026. REF YOUR MSG AFCINW RE2 6-1727-E, THE
+REBRT WE SUBMITTED WAS RECEIVED AT THIS STATION FROM EDMONTON GOBC
+AND THE PRESENT WHEREABOUTS OF THE PERSONS WHO OBSERVED THE UFO ARE
+UNKNOWN.
+BT
+28/1645Z JUN RJWZDMS
+SILY
+81 90 00076
+03/303U

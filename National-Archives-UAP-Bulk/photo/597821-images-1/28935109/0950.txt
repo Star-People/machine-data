@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:07:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4819781, "source_ctime_ns": 1793370703441971256, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935109/0950.jpg", "source_mtime_ns": 1785688610000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935109/0950.jpg", "source_sha256": "8b206e24b4c18755880d875a01cdfe9b7129633a226ac271858f0e66ef6da731"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 522, "method": "ocr", "page": 1, "variant": "plain-vision"}
+File No. 24-30
+UNDEVLLORD DATUNCLASCITET
+DISTRICT OFFIC
+NO.
+20, MCCORD AFB
+AT SEATTLE, VASHI GION
+Contact Chief Controller, Seattle Air Route Traffic Control
+Center, Seattle Tacoma Airport, Seattle, Washinton, and obtain flight
+schedules of commercial, military, and local aircrait in the vicinity
+of Hart Mountain, near Lakeview, Oregon, at ap roximately 1430 hours
+(PST), 27 May 1949. This information is pertinent to the investigation
+of this case as required in AFCSI Letter no. 85, dated 12 August 1949.
+UNCLASSIFIED

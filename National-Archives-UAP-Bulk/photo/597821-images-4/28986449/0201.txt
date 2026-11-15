@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:26:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9781454, "source_ctime_ns": 1793383173476305991, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986449/0201.jpg", "source_mtime_ns": 1785748243000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986449/0201.jpg", "source_sha256": "9b595a82d5c9444552e72b9dece6ee39550c14a089e523533ac3e40b2c12728c"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 697, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3. Supplemental Information
+(a) Rilex (out film type)
+(b) Brandon Orthoscopic 24mm eyepiece substituted for Is.
+(c) Kodak Panatomic X
+(d) 1/50
+(g) 4.5f
+(f) None
+(g) Equatorial Mount (solid stand)
+(h) No
+(1) Approximately 276°, 0° elevation with respect to ta crount.
+4. Equipment
+(a) Rilex (no lens) See 3b above
+(b) 4.5f to 32t
+(c) 1/10 to 1/200
+ADDITIONAL INFORMATION: This photograph was taken on 9 Apr:
+at 1850 PST. A subsequent photo was taken at 1855 but the =:
+partially obscured at this time and the picture did not rever
+object that appeared in the first photograph.
+chance. 9f
+CLAUDE H. SAWTER
+Capt. :
+USAP
+Investigating Officer
+2 Atch
+1. Diagram
+2. cy msg 250IN 4-2930
+Copies to:
+250TN

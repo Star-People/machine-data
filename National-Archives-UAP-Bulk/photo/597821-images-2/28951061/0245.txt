@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:07:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4820531, "source_ctime_ns": 1793374282061610270, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951061/0245.jpg", "source_mtime_ns": 1785696596000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951061/0245.jpg", "source_sha256": "e469cf2b8ae4e8ecccabf955a96b2553fd1845865a2608fbb51a1a005b9de2fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 190, "chars": 1086, "method": "ocr", "page": 1, "variant": "plain-vision"}
+X.
+3.
+3 0 0cr 52
+08 RICLASSIFIED
+13
+ACTION
+RF 238
+WPCØ91
+INFOR.
+YDA197
+WYC198
+- 3 8:308
+WDA249
+JUFPN 60
+PP JEDEN JEDWP JEPHQ 333
+DE JEFPN 62
+P 292222Z
+FM CO PERRIN AFB TEX
+TO JEDEN/CG ADC ENT AFB COLO SPRINGS COLO
+JEDWP/CHIEF AIR TECH INTEL CEN WRIGHT PATTERSON AFB DAYTON OHIO
+INFO JEPHQ/DIR INTEL L /O HQ USAF WASH 25 DC
+/GB81 8K
+FLYOBRPT. THIS MSG IN NINE PARTS. PART ONE: ROUND OBJ CMA
+BRIGHT BLUE CMA BRIGHTER GLOW ONE SIDE CMA JET SPEED CMA NO SOUND CMA
+TVLD STRAIGHT LINE E TO W. DISINTEGRATED INTO FRAG AND DISAPPEARED.
+PART TWO: ONE EIGHT ONE THREE CST CMA ONE ZERO SECONDS. PART THREE:
+VIS FM C DASH FOUR SEVEN ACFT CHA ALT FIVE FIVE ZERO ZERO FT. PART
+FOUR: LOC THREE THREE DEG THREE SEVEN MIN N CMA NINE SEVEN DEG ONE FIVE
+MIN W CHA PAOLI CMA OKLA CMA OBJ THREE ZERO DEG RIGHT OF OBSVR CMA
+FIVE FIVE ZERO ZERO FT ALT AT UNDET DIS. PART FIVE: OBSEVRD BY USAF
+CAPT JACK E MCKINISTER CMA CAPT JOHN R NAU CMA S/SGT G.W. WATSON CMA
+ALL PERRIN AFB CMA TEX. ALL RELIABLE. PART SIX: WEA CLEAR CMA VIS ONE
+FIVE MI CHOWNGRADED AT S TEAR DUERE
+DECLASSIFID AFTER IE YEA
+DOD DIR 8200.10

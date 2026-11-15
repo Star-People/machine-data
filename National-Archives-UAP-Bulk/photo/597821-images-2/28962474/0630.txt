@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:14:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6291799, "source_ctime_ns": 1793377015247974609, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962474/0630.jpg", "source_mtime_ns": 1785696518000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962474/0630.jpg", "source_sha256": "a11bf6f6e3a8f35e11f3727a3e2d764a73cb160e9fa903beb56a270754a276c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 891, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+22 June 1955
+3. DATE-TIME GROUP
+Local
+22/11002 June 1955
+GM T.
+5.
+PHOTOS
+• Yes
+· NO
+7. LENGTH OF OBSERVATION
+thirty (30) Minutes
+10. BRIEF SUMMARY OF SIGHTING
+SUBMARINE
+AISOP Form 5 (15 Oct 54)
+UFOB INDEX CARD AISS IPO8-188-55
+2. LOCATION
+12. CONCLUSIONS
+Was Balloon
+Samish Esland, Washington
+TYPE OF OBSERVATION
+Ground-Vi sual
+• Air Visual
+6. SOURCE
+•
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+• Air-Intercept Radar
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+•
+Was Astronomical
+Probably Astronomical
+Civilian and Military (GOC)
+8. NUMBER OF OBJECTS
+9. COURSE
+Possibly Astronomical
+Other Submarine
+Insufficient Data for Evaluation
+Unk no wn
+One (1)
+Submerged
+11. COMMENTS
+Although this sighting was definitely
+identified as a summarine it was re-
+ported as a UFOB, which this organisa-
+tion has the responsibility for within
+the continental limits of the United
+States.

@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:21:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8118790, "source_ctime_ns": 1793376939008466435, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962309/0496.jpg", "source_mtime_ns": 1785696666000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962309/0496.jpg", "source_sha256": "757d671011b5a4c5ca710572d4742b43f213e8a22b06055a42a105697c538ff4"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 1145, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+1 Jane 1955
+3. DATE-TIME GROUP
+Local .
+GMT 01/1718 % Jun 55
+5. PHOTOS
+- Yes
+1 No
+LENGTH OF OBSERVATION
+not determined
+10. BRIEF SUMMARY OF SIGHTING
+One (1) round sphere, s silver in color, and
+estimated to be about the size of a baskatball
+was observed to descend from high in the sky
+to the vicinity of some railroad tracks,
+However, no further evidence was later re-
+covered.
+2. LOCATION
+Harriaburg, Pennsylvania
+4. TYPE OF OBSERVATION
+A Ground-Visual
+• Air- Visual
+• Ground-Radar
+• Air-Intercept Radar
+6.
+SOURCE
+Civilian
+(GOC Observer)
+8.
+NUMBER OF OBJECTS | 9. COURSE
+one (1)
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Optical Illusion
+Insufficient Data for Evaluation
+Unknown
+Falling
+11.
+COMMENTS
+The intelligence officer of the 6l8th
+AC&W Squadron stated that there were
+twelve other persons present at the
+time of the supposed sighting, but they
+repostedly saw nothing unusual. For
+thia reason the report is strongly
+suggestive of an opticalnillusion.
+AISOP Form 5 (15 Oet 54)

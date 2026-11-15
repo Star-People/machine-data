@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:02:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3904731, "source_ctime_ns": 1793374930565186561, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953976/0068.jpg", "source_mtime_ns": 1785697001000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953976/0068.jpg", "source_sha256": "ce8c3e7eaaafc4e9452e92fc4be814e2f861995e73c6845530c25788e9aca904"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 361, "method": "ocr", "page": 1, "variant": "plain-vision"}
+| telness
+March 25, 1953.
+Commanding Officer
+Wright Ạ¿ eld
+Dayton, Ohio
+Re: "Flying Saucers" ? ?
+Dear Sir:
+I wish to roport an unusual celestial phenomenon
+quite different from single nateors, mateor ahovera, and
+lighted aircraft which I have witnessed. The attached
+data was recorded forthwith except room measurements
+verified the next day.
+Very truly yours,

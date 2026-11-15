@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:51:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1054541, "source_ctime_ns": 1793390566686196180, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302551126/0868.jp2", "source_mtime_ns": 1785808023000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302551126/0868.jp2", "source_sha256": "3f3d1d5b151f38c9a059cabc232cff7128cee7d332ae065b354e49bdef93e064"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 559, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 46647 (23 May 66)
+Pg 3 of 4
+2• NA
+PAGE 3 RƯYMBUA 9773 UNCLAS
+G. 1. FEN CLOUDS, STARS VISIBLE
+2. SURFACE - 240/12
+6608 - 309/30
+10090 - 310/20
+15920 - 320/25
+20000 - 320/40
+39903 - 340/75
+53903 - NA
+82300 - NA
+3. SCATTERED CLOUDS, BASES 5000 FT
+4. 15 VILES
+5. 3/8 CLOUD COVERAGE
+6. NO NE
+7. RELATIVELY UNSTABLE AIR MASS. NO SIGNIFICANT TEMPERATURE
+INVERSIONS
+H. NONE
+1. NONE
+J. NO KNOWN AIR TRAFFIC/ WEATHER BALLOON RELEASED TATOOSH ISL
+AFHQ
+FORM
+JAN 65
+0-309C
+UNCLASSIFIED

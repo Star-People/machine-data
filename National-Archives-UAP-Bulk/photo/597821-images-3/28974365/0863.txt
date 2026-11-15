@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:15:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6704376, "source_ctime_ns": 1793380055654945059, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974365/0863.jpg", "source_mtime_ns": 1785700900000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974365/0863.jpg", "source_sha256": "281d2924b2d880be1d1bb4faf94566452e7910a2e1767d1c369e62bcb9561252"}
+
+===== PAGE 1 =====
+{"alpha_words": 210, "chars": 1216, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page A
+20. Draw a picture that will show the motion that the object or objects made. Piace an "A" at the beginning
+of the path, a "3" at the and of the path, und show any changes in direction during the course.
+21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
+feet.
+22. How large did the object or objects appear as compared with one of the following objects held in the hand
+and at about arm's length?
+(Circle One):
+a. Head of a pin
+b. Pea
+c. Dima
+d. Nickai
+0. Quarter
+Silver dollar
+Baseball
+Gropafruit
+j. Basketball
+Other
+1. Half dollor
+22.1 (Circle One of the following to indicote how certain you are of your answer to Question 22.
+Certain
+c. Not vary sure
+b. Fairly certain
+d. Uncertain-
+23. How did the object or objects disappear from view? VE YO/ /)
+24. in order that you con give as clear a pisture as possibls of what you saw, we would like for you to Imagine that you could
+construct the object that you saw. Of what type material would you make It? How large would it be, and what shape
+would It have? Describe in your own words a common object or objects which whan placed up in the sky would give the
+same appooranes as the object which you saw.

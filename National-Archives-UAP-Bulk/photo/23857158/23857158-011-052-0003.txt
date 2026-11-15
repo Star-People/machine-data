@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:13:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6106292, "source_ctime_ns": 1793359947986332217, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-052-0003.tif", "source_mtime_ns": 1785681577000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-052-0003.tif", "source_sha256": "0c029e6d6c8967792dac998f1ec52d4e6bc79da498965e2c2ee4d0eb1ebb2cd5"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 930, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+#22
+Duras prem NU
+1/19/1020₴
+ENO 005
+ENA047 YMA268NGA023
+RR RJEDWP RJEDEN RJEPHQ RJEDNG
+0F40
+DE RJEDNG LE
+R 190842Z
+PM COMDR 739TH AC&W SQ WADENA MINN
+TO COMOR AIR DEF COMD ENT AFB COLORADO
+INFO
+RJEDWP/COMDR AIR TECH INTELLIGENCE CENTER WRIGHI PATTERSON APB ORLO
+TEPHO/DIRECTOR OF INTELLIGENCE HEADQUATERS USAF WASHINGTON D C
+RJEDNG /COMDR 31ST ADIV ST PAUL MINN
+39
+16020 AISS OFOB RECT 0135-2
+• FEB 5 6
+BATE-TIME GROUP IN
+Beaulieu, Minn.
+POS
+/UN C LA S S IF I E D/OPN1930158PD UFOB
+1A SIZE-BASKETBALL
+COLOR-GREEN AND RED
+2: DESCENDING SLOWLY DISAPPEARED OVER THE HORIZON DIRECTION NORTHEAST
+3. GROUND VISUAL
+4 KC1022
+9. 13102352WX-CLEAR Night
+5. KC1020
+F5 35
+1930
+6. D. LATHMANN GROUND OBSERVER RELIABILITY EXCELLENT
+PHONE 7122
+BEAULIEU MINN
+7, WX -CLEAR
+8. NEG
+9, NEG
+13, NEG
+11. NEG
+12. 1/LT. EDGAR F. PIERCE SR DIRECTOR POSSIBLE WX BALLOONS OUT OF DLH
+19/0855Z FES RJEDNG
+2542
+60
+142 PM.

@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:00:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3312011, "source_ctime_ns": 1793386586781989455, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996669/0310.jpg", "source_mtime_ns": 1785748052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996669/0310.jpg", "source_sha256": "17ccc7e247dfcdea766d6e3d9ec5a02aec1f75130c13bbf139b0f2d9ed8fb4ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 877, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1962
+DATE-TIME GROUP
+PROJECT 10073 RECORD CARD
+2. LOCATION
+34.05N
+144.38W
+Pacific
+NE Hawaii
+4. TYPE OF OBSERVATION
+• Ground- Visual
+B Air-Visual
+SOURCE
+12. CONCLUSIONS
+Was Balloon
+Probably Bailoon
+Possibly Balloon
+Was Aircraft
+• Ground-Radar
+Locai
+Probably Aircraft
+Possibly Aireraft
+• Air-Intercept Rador
+GM T
+PHOTOS
+Was Astronomical
+Prabably Astronomical
+• Yes
+9 No
+7. LENGTH OF OBSERVATION
+Civilian
+B. NUMBER OF OBJECTS
+Possibly Astronomical
+9. COURSE
+Other
+sile
+Insufficient Data for Evaluation
+Unknown
+10 min.
+o, BRieF SUMMARY oF sIGHTING Vapor trail with glowingli. COMMENTSSighting in area where missile
+bjt in front going F to W. Altitude very high
+Im Vandenberg launched down range
+apor trail viewed for 33 min. Objt in sight
+would pass. No confirming data avail-
+10 min.
+able however; all charanteristics of
+missile are present.
+ATIC FORM 329 (REV 26 SEP 52)

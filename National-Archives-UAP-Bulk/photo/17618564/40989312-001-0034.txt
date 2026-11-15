@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:53:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1650286, "source_ctime_ns": 1793356278090555647, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0034.jpg", "source_mtime_ns": 1785564658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0034.jpg", "source_sha256": "7e25e7af226bdfe3f8ae4908f947b8de96bd48119a7258a311c15fc655404fe4"}
+
+===== PAGE 1 =====
+{"alpha_words": 536, "chars": 3143, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Margin qoute:
+"One time I got amoebic dysentery in (Kang Me?) and had to sit so long in an "8 holer"
+that my comrades brought me comic books to read and I lost 25 pounds in one sittingại
+"The services generally kept pretty much apart, for our own safety. Air/ Ground Aid
+Service was an outfit that was very important up in Yenan. They were the ones who
+coordinated with Mao's people on helping downed pilots in enemy-neld territory. My
+outfit also became very important in that kind of work, because while Mao's underground
+would keep these men safe in the interior, there was no practical way they could march
+for thousands of miles to get to Allied lines. When we took in our communicators and
+landed at a disused Japanese air strip known as Varoff field in the middle of Japanese
+territory, we would unload our ten or fifteen Chinese communicators whom we'd
+crammed into the back of the B-25, and we'd load up with whoever had been assembled
+there, our own men, to carry them out to Yenan.
+"In such ways, the services worked very well together. I never suffered under the
+bureaucracy of Chunking, except going there to be court martialled. I imagine it worked
+well because there were so few of us. The maximum number of Americans in Yenan
+when I was there was forty, and the minimum dwindled to about twelve.
+"I've always thought the stories of the weather predictions connected with D-Day were
+grossly overblown. I would not want to say that the bombing of Japan could not have
+been carried out pretty effectively without this information. I would certainly say that it
+probably contributed mightily to scheduling and success. Weather is just a part of total
+planning, although an important part. More important, we were fighting a war far away
+from civilization, as we found in China, and we lost a lot of planes thinking they were
+going through a cloud. The cloud sometimes had a rock in the middle of it, a mountain
+peak. Weather information is quite important.
+ạMajor Kuntz was a good-looking young Major who flew up to Yenan and signed a
+combat flight plan out of Sian to Duck Dai Lee, Chiang's Chief of Secret Police. In this
+way nobody knew he was landing in the river bed at Yenan. I'd have my Chinese
+communicators trained with their backpacks and radios, and we'd load them into the B-
+25. Kuntz would take them to Varoff field and we'd off-load them and take off immedi-
+ately. Back he'd go to Sian as though he had come from a combat mission. The commu-
+nicators would go underground, and some would travel up to 500 miles to the area I had
+assigned. I'd have to wait for their first report wondering if each communicator was dead
+or if he was going to come through. Then a "beep-beep" on the radio, and I could put
+another pin in my map. These observers had to dodge around because the Japanese
+would use direction finders on them. My communicators were damned brave people.
+'Varoff field was built on a Chinese graveyard. The Japanese had never occupied the
+nearby town. It was too dangerous for them, because Mao's underground army had
+mined everything in the area. The peasants would drill holes in stones and put in black

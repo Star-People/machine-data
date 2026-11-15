@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:51:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1009898, "source_ctime_ns": 1793389170479261439, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537492/1049.jp2", "source_mtime_ns": 1785808613000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537492/1049.jp2", "source_sha256": "966be7282a4e39192b3bd27ea783d5b5e42b8a6b5461cc7c5e62fe68728fa847"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 813, "method": "ocr", "page": 1, "variant": "plain-vision"}
+METEOR
+30 funno
+FTD (TOEW)
+Wright-Patterson APB, Ohio 45433
+4 February 1965
+Mr
+Seward Post Office
+Seward, Pennsylvania
+Dear Mr
+Thank you for your recent letters describing possible satellite
+re-entries-
+The objects which you have described are similar to
+either meteor or satellite decay reports.
+Satellite decays are distinguished from meteor observations by
+the direction of flight and duration of the sighting. A satellite
+re-entry over Pemnsylvania vould hold an easterly component and
+the duration would be slightly longer than that described in your
+letter•
+The Air Force appreciates your reported meteor sightings and is
+interested in observations of this type as the characteristics are
+very similar to those of satellite decay.
+Sincerely,
+HECTOR QUINTANILLA, I
+MaJor, USAF
+Chief, Aerial Phenomena Branch

@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:12:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5875095, "source_ctime_ns": 1793375515372280106, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956631/1238.jpg", "source_mtime_ns": 1785696597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956631/1238.jpg", "source_sha256": "a05bc812792e3f7d120243ce9a58a2e76836ecd738fca5b8cb7534ae7121b9c0"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 995, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Bo26
+MPB29ŚšŚ
+Vietti
+19/01324
+WINsar,
+NELD
+15'
+Cation
+YDE177
+TYC2: 8
+TU:129
+Eatr
+4.K.7le
+JID249
+JIX B45
+RR JEPHO JEDEN JKDAC JEDUP 444
+1C 5îŘŚ
+R 2419502
+CONDR 64TH AD (D) PEPPERRELL
+AFF NF
+TC JEPHO/DIR/IN
+HO USAF WASHDC
+M/CONDR NEAC PEPPERRELL AFE NF
+EDWN/COMDR ADC
+T AFE COLO SPRINGS COLO
+JKDAG/CONDR AAC ELEMENDORF AFE ALASKA
+EPAC/CORDR USNS ARGENTIA NF
+JOPDC/HO CANAIRDEF ST HUBERTS, QUEBEC CA
+JFIC/COMICEDEFOR
+KEFLAVIK ICELAND
+JEDWP/CONDR
+# RIT
+TERSON AFE OHIO L
+ZEN/CONDR SS20TH
+GP PEPPERRELL AFS NF
+JAX/CCER GS17TH AB GP MCANDREW AFE NF
+JENC/CONDR 6602 AB GP E HARMON AFE NF
+JECC/CONDR 6SMERD AB GP GOOSE AD LABR
+5 NOV 1053
+09 06
+JEEC/COMDR 6611TH AB GP NARSARSSUAK AB GRNLD
+JECC/CONDR 6621ST AB GP SONDRESTRON AB GREMLD
+J_OSU/CONDR 6612TH AD EGP THULE AB GRMLD
+ADOIN 1742 UFOE ADOCC 1SS IS EVALUATED AS A RADICSONDE WEATHER BALLOON.
+THE DOUIPMINT WAS RECOVERED IN THE AREA OF THE SIGHTING AND WAS REPORTED
+TO HAVE FALLEN AT APPROKINATELY THE TIME OF THE INITIAL SIGHTING
+4/20142 NOV JEXC

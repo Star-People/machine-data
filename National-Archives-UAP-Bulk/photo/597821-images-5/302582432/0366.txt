@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:55:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1690829, "source_ctime_ns": 1793393962070765192, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582432/0366.jp2", "source_mtime_ns": 1785808428000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582432/0366.jp2", "source_sha256": "b52c18d9110f2e57ed70d4bd133e04f0556c2f158bb545c7597f9671b9c6ee3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 35, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "contrast-vision"}
+SATURDAY, MARCH 15, 1969
+HIGH
+HIGH

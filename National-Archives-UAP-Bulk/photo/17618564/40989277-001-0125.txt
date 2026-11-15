@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:48:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 580537, "source_ctime_ns": 1793355834905980211, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0125.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0125.jpg", "source_sha256": "6859950ac5112959673bf4466d03794e37ddaaf13da39bf14ece9ec79b20cf72"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 604, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10/25/96
+FRI 10:55 FAX 703 604 5533
+SAF/AAZD@CP6
+L 001
+****=***************=**
+***
+TX REPORT
+=***
+*********************
+TRANSMISSION OK
+TX/RX NO
+CONNECTION TEL
+SUBADDRESS
+CONNECTION ID
+ST. TIME
+USAGE T
+PGS .
+RESULT
+1054
+996932059
+SAF/AAZ
+10/25 10:54
+00'4źł
+2
+OK
+SAF/AAZD
+1720 Air Force Pentagon
+Washington, D.C. 20330
+FAX COVER SHEET
+DATE:
+TO:
+'FROM:
+25 OCT 96
+Mr Bosech
+Capt James McAndrew
+CC of memo to AF/JAG.
+TIME:
+FAX:
+PHONE:
+FAX:
+1150
+(703) 604-4788
+(703) 604-5533
+IRE:
+I CC:
+Number of pages including cover sheet: 2
+Message
+Changes have been made to the report; awaiting output from Graphics.
+Jim

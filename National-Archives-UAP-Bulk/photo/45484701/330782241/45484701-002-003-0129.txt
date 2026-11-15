@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:22:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8457935, "source_ctime_ns": 1793362152711775279, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0129.jpg", "source_mtime_ns": 1785684718000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0129.jpg", "source_sha256": "222ddd1e52d0c8dbe20e9a601f17b7b0683f6c8f379dc1173f51b4d3b200ce9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1003, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 5
+Essential Elements of Info
+Project "SIGN"
+8. Notes relative to observer on
+a. Sightings in goneral
+b. How attention was drawn to object (s)
+Sound
+Motion
+Glint of lightlection from object
+9•
+Witnesses Hone
+a. Addresses
+b. Occupation
+c. Reliability
+10. Comments of interrogator re intelligence and character of person
+interrogated
+Relativo to Radar Sightings
+1. Re radars now operating on ground
+a. Observations of range, speed, altitude and size of target
+b. Does target execute any turns? If so, what angle (180°), etc., and
+what radius of turn.
+If radius of turn is not observable, how long
+did the target stay in the turn and what was its speed?
+c. Note particularly any separation of distant target into soparation
+of a distant target into several targets upon approach. Track all
+if possible.
+If airborne when object sighted
+a. Were there any radar inductions or extra noise on radio circuits
+b. Give estimates of size, speed, maneuvers, eto.
+8-3801-TC
+Declassification Authority: NND 923007

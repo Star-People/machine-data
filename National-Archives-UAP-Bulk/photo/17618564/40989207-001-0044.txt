@@ -1,0 +1,108 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:23:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8503970, "source_ctime_ns": 1793354423263959427, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0044.jpg", "source_mtime_ns": 1785564282000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0044.jpg", "source_sha256": "b6a663cd78c94f5ff7e8b1b928a7268ac70d811f736c2ed0dcbd99200c46153d"}
+
+===== PAGE 1 =====
+{"alpha_words": 279, "chars": 2261, "method": "ocr", "page": 1, "variant": "plain-vision"}
+GPOA
+GPOB
+GPOS
+GPS
+GPS
+GPSP
+GPS / IMU
+GR
+HIRAAS
+HITRAN
+HQ
+IBSS
+ICBM
+IDA
+TACO
+MIT/LL
+MOA
+MSX
+NASP
+NATO
+NRL
+OTH
+Phillips
+Measurements Brancn
+Laboratory, Geopnysics Directorate,
+Electro-Optical
+Phillips Laboratory, Geophysics Directorate, Background Branch
+Phillips Laboratory, Geophysics Directorate, Simulation Branch
+Global Positioning System
+Phillips Laboratory, Geophysics Directorate, Space Plasma & Fields
+Branch
+Phillips
+Laboratory,
+Geophysics Directorate,
+Nov comment branca
+Space
+Phillips Laboratory, Geophysics Directorate, Solar Research Branch
+Global Positioning System/Inertial Measurement Unit
+Geophysics Requirements
+High Resolution Auroral and Airglow Spectrometer
+High Resolution Molecular Database
+Headquarters
+Infrared Background Signature Survey
+Intercontinental Ballistic Missile
+Institute of Defense Analysis
+Office of Judge Advocate General, Claims and Tort Litigation staff
+Licht Weiaht Fxo-Atmospheric Proiectile
+Massachusetts Institute of Technoloqy, Lincoln Laboratory
+Memorandum of Acreement
+Mid-Course Space Experiment
+National Aerospace Plane
+North Atlantic Treatv Organization
+Naval Research Laboratorv
+Over the Horizon
+office of the Under Secretary of Defense
+OUSDRE
+PC
+PE
+PE 62101F
+PE 64707F
+PE 63707F
+PE 61102F
+PE 63410F
+PIM
+PL
+PL / CA
+PL /GP
+PL/LI
+PL / OL-AC
+PL /OL-AG
+PL / SX
+PL /VT
+PL /WS
+DMD
+RED
+DA CRO
+RL
+SATCOM
+Office of the Under Secretary of Defense for Research &
+Engineering
+Personal Computer
+Prooram Element
+Geophysics
+Weather Systems (Engineering Development)
+Weather Systems (Advanced Development)
+Basic Research
+Space Systems Environmental Interactions
+Parameterized Ionospheric Model
+philling Laboratory
+Phillips Laboratory, Chief Scientist
+Phillips Laboratory, Geophysics Directorate
+Phillips Laboratory, Lasers & Imaging Directorate
+Phillips Laboratory, Edwards Air Force Base
+Phillips Laboratorv, Malabar Test Facility
+Phillips Laboratory, Space Experiments Directorate
+Phillips Laboratorv. Space and Missiles Technolocv Directorate
+Phillips Laboratory, Advanced Weapons and Survivability Directorate
+phillips Laboratorv Expert Unified Simulator
+Program Management Directive
+Research and Development
+Pomoto Accoce saintillation Warnino Svstem
+Rome Taboratory
+Secretary of the Air Force
+catellito comminications

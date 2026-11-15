@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:02:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3915076, "source_ctime_ns": 1793384163178967119, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989240/0504.jpg", "source_mtime_ns": 1785748460000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989240/0504.jpg", "source_sha256": "245689b6ddf89f9c39e61096e98ae2077eae6c16216a510ce57f8c9e04dc70e0"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 783, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MATIPLE SIGHTING
+• DATE
+21, 22, 23 Sep 60
+3. DATE-TIME GROUP
+Local.
+Yening
+GM T.
+PHOTOS
+O Yes
+• No
+LENGTH OF OBSERYATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Bermuda
+4.
+TYPE OF OBSERYATION
+• Ground-Visual
+0 Ai~ Visual
+6. SOURCE
+Civilian
+S. NUMBER OF OBJECTS
+• Ground-Rodor
+• Air-Inte
+9. COURSE
++ Rador
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibiy Aireroit
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluatio
+Unknown
+10. BRIEF SUMMARY OF SICHTING
+Reported sightings by local people of dull orange
+object on 21, 22, 23 Sep accompanied by wierd
+whirring sound, in evening.
+11. COMMENTS
+Follow-up report not received. Case
+listed as insufficiant data.
+ATIC PORM 329 (REV 26 SHP S2)

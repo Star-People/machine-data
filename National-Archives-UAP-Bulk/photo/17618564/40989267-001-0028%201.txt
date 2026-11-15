@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:31:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17193239, "source_ctime_ns": 1793355445899584794, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0028%201.jpg", "source_mtime_ns": 1785564456000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0028%201.jpg", "source_sha256": "47b0193a1785c79457cdf8e2aa52548ef340a63177b8e05638d22c69495a6161"}
+
+===== PAGE 1 =====
+{"alpha_words": 500, "chars": 3125, "method": "ocr", "page": 1, "variant": "plain-vision"}
+46
+flights are now being carried on GT balloons. Some 75 balloon flights have been
+made to date with no catastrophic failures in flight. These balloons have not been
+found to be sensitive to ascent rates, dynamic launches, high shears, or low
+temperature environments. Balloons built of these materials have carried payloads
+up to 11, 000 pounds and gross system weights of 13, 500 pounds. In the case of the
+Stratoscope II balloon system (Figure 3) the top balloon not only carries the gross
+system of 13, 500 pounds but also experiences an additional stress due to the
+superpressuring of the top balloon during gas transfer. This more than doubles the
+loading in the balloon skin.
+Most balloon users today recognize the merits of the GT-10 balloon and would
+use them except for one factor: Cost. A GT-10 balloon sells for three times that
+of the tape poly balloon of the same size. However, I would like to emphasize that
+balloon costs alone are not a valid comparison in establishing which balloon is the
+most economical in a given application. Reliability, cost of a second flight,
+instrumentation calibration and possible loss, helium, flight operations, and most
+important, loss of valuable time on the part of the scientists should also be taken into
+consideration. In the case of most research flights, the operational costs of a
+second flight alone are greater than the cost of one GT-10 balloon.
+A major part of the cost of these balloons is in the basic material. Polyethylene
+costs approximately 90 cents per pound while the Mylar used in GT-10 costs $3.50
+per pound and must then be processed by bonding to a woven fabric.
+The cost of
+these GT-10 balloons has over the past six months been reduced by a factor of 30
+percent due to value engineering and a larger volume. The G. T. Schjeldahl
+Company is under contract with the Air Force Cambridge Research Laboratories
+for this value engineering and for the development of a lower cost material to ex-
+tend the applications of these balloons to other programs. The present cost of the
+GT-10 series balloon along with the new non-woven material now being developed
+for Air Force Cambridge (GT-2929) are shown in the following table. (Figure 4)
+As volume increases through a broader use of these reinforced balloon materials,
+we expect the cost to be reduced even further.
+Work is continuing on the recovery and reuse of these balloons. If provisions
+are made to reef or sleeve the balloon on descent, recovery with minimum damage
+is possible. Figure 5 shows a concept which is being evaluated for balloon re-
+covery. The feasibility of recovery and reuse has already been demonstrated. Two
+balloons have been damaged in launch, repaired, and reflown. Two out of four
+3. 2 million cubic feet GT-12 balloons flown at Holloman have been recovered and
+returned to the factory for inspection and repair. These balloons had no reefing
+sleeves or provisions for quick release of the gas on impact. They were merely
+picked up by the recovery crew in the field and placed in a large box with no pro-
+tective sleeve.
+Figure 3. Stratoscope II Balloon System Ready for Launch
