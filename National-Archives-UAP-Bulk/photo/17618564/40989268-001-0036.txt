@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:19:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15078160, "source_ctime_ns": 1793355598018801995, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0036.jpg", "source_mtime_ns": 1785564486000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0036.jpg", "source_sha256": "dee49ae01e9486d048caeed76e888507b4699bdf69458b822e0537a09dedf158"}
+
+===== PAGE 1 =====
+{"alpha_words": 464, "chars": 3172, "method": "ocr", "page": 1, "variant": "plain-vision"}
+58
+TEMPERATURE (°C)
+45
+SPECIMENS - 2-MIL POLYETHYLENE, 1 INCH WIDE,
+10 INCHES LONG
+TEMPERATURE DECREASE - INCREMENTAL
+Bo
+- .2
+- .
+TRANSVERSE DIRECTION
+MACHINE DIRECTION
+Figure 2. Influence of Temperature Change on Polyethylene Dimensions
+59
+two indistinguishable except below -45°C, at which the machine direction contraction
+was somewhat more pronounced. The total contraction of 0.44 cm represents 1.7
+percent based on the average nominal length of 25.4 cm. Initial specimen lengths
+varied 0.45 percent. For a check on accuracy, two readings were taken on each of
+the ten clamps. The average difference was 0.012 cm which represents from one-
+third to one-seventh the range of values at a given temperature, or a trifle more
+than two of the smallest divisions in the graph grid.
+2.2 Length vs Temperature (Loaded Specimens)
+A second test series utilized the same equipment with minor exceptions.
+Weights of 0.6 and 1.0 pound were suspended from specimens (four each for machine
+and transverse direction). The period of preloading at room temperature varied
+from 42 min to 1 hr and 50 minutes. Occasional measurements were made to
+monitor the elongation, although emphasis was not placed on this effort because it
+will be performed with greater sophistication in another portion of the program.
+Figure 3 illustrates the contraction of these loaded polyethylene specimens as
+they were cooled. The axis intersection represents room temperature and the es-
+tablished "zero' point with respect to increments in specimen length, that is, the
+length under load immediately before the temperature reduction was begun. Ma-
+chine and transverse direction specimens were subjected to temperature reduction
+rates of both 1 and 2°C/min (simulating ascent rates of 500 and 1,000 ft/min
+respectively) while under both 300 and 500 psi stress. Primary control of tempera-
+ture decrease rate was by positioning of a slide in the inlet orifice. Temperature
+vs time was monitored by means of a Brown recorder. Figure 3 is typical of the
+results of all eight combinations. It represents machine direction polyethylene
+cooled at 2°C/min while under load of 300 psi. The contraction at the lowest
+temperature reached (-64°C) was about 0.43 cm from the most stretched condition
+reached prior to cooling. Those points to the left of the vertical axis are plotted
+with the time sequence from left to right (no scale). These data represent the length
+changes under preload without regard to temperature (that is, at room temperature
+and before temperature reduction was started); however, the original length is not
+shown here.
+Table 2 provides some opportunity to compare results illustrated in Figure 3
+with those obtained in other tests of this type. From the table we note that the
+amount of contraction experienced is slightly less for the runs conducted at 2°C/min
+than for the slower 1°C/min runs. Also of note is the fact that elongations (cal-
+culated from nominal initial lengths) experienced at room temperature are greater
+for 500-psi loaded specimens than for 300-psi. Even for 300-psi loadings, the
+contraction does not quite bring the specimen back to its original length. In other

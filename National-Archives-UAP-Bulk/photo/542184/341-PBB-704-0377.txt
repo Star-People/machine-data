@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:15:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9760210, "source_ctime_ns": 1793367441460539229, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0377.jpg", "source_mtime_ns": 1785565718000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0377.jpg", "source_sha256": "22371069dcea6af3f283ecf56ba549b0c1e5d4e35d327910e67ab357bb7f6c7b"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 33, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+pc sins Shaye
+
+Bircbyaing
+
+es
+
+F

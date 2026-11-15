@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:37:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1749222, "source_ctime_ns": 1793391476444569732, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558925/00970.jp2", "source_mtime_ns": 1785808268000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558925/00970.jp2", "source_sha256": "e39b99d66d8c09eacc3879249acd6b79296555e4cdbd1d0b08f6a7c65eedb7ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 389, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10075 RECORD
+DATE • TIME GROUP
+7 Dec 65
+0420Z
+2. LOCATION
+Houma, La.
+SOURCE
+Civilian
+10. CONCLUSION
+INSUFFICIENT DATA POR EVALUATION
+1. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+40 minutes
+1. BRIEF SUMMARY AND ANALYSIS
+SEE CASE
+TYPE OF OBSERVATION
+Ground Visual
+COURSE
+West-East
+PHOTOS
+D Yes
+IX No
+2. PHYSICAL EVIDENCE
+17 Yes
+XX Na
+FORM
+FTD SEP 63 0-329 (TDE) Provlo
+be used.

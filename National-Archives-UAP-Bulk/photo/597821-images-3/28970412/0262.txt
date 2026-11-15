@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:54:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5006153, "source_ctime_ns": 1793378992411588451, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970412/0262.jpg", "source_mtime_ns": 1785700779000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970412/0262.jpg", "source_sha256": "ecafd0db16afaceef88b464d70534fb141ecceac9bd25d81b1da599423a5de97"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 631, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SUBJECT: Examination of "Stony Meteorite# (Continued)
+TO: AFCIN-ЦE2
+TO: APCIN-4B4
+DATE: 30 July 57
+(C. A. Naugle)
+(D. T. Williams)
+Through: AFCIN 483
+COMMENT NR 2
+Attached is an informal report presenting the results of an examination of a
+large stone, as requested in Comment Nr 1.
+The examination was conducted by
+Drs. D. I. Williams and Charles B. Sclar, a mineralogist on our staff.
+It is concluded that the stone in question is not a meteorite.
+The attached report is considered to satisfy the requirements of Comment
+Nr 1. The stone is being returned under separate cover.
+toward. C. Com
+Howard C. Cross
+HCC:tr
+Enclosure (4)

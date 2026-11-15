@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:40:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1505105, "source_ctime_ns": 1793391975048874359, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563020/0276.jp2", "source_mtime_ns": 1785808178000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563020/0276.jp2", "source_sha256": "10044f951a6ed953775fa4e63cac565eb3501f46cdecba32025d590e22cfce08"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 263, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OEE DOU gg WRIT SRA A ik eet a kL en) St raed —_ we gh RUA ERPS HRS 108 age Re SET ORO ESS SED he + FEE TMi
+
+Memo for the Record: 4 April 67
+
+For 13 March 67
+
+Venus 2000L 7 deg El 278 deg Az
+Sirius 2200L 17 deg El 225 deg Az
+Rigel 2200L 10 deg El 248 deg Az
+
+ff

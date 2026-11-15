@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:10:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8791884, "source_ctime_ns": 1793379585107890479, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972759/00886.jpg", "source_mtime_ns": 1785701105000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972759/00886.jpg", "source_sha256": "7bcf16df46660f6548b0dcc76368b1c4b80a62c2f3cd0e8f4c9a3fd079349226"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 798, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+November 1957
+DATE-TIME GROUP
+Local_
+SM J
+05/0105źęźîę
+. PHOTOS
+• Yes
+• No
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+B. TYPE OF OBSERVATION
+Alabama
+• Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Rodar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly
+Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+•
+Was Astronomical Meteor
+EX Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+glimpse
+one
+10. BRIEF SUMMARY OF SIGHTING
+One soft glowing yellow object, travel
+ing so fast that unless you looked dir
+ectly at it you would not see it. Obj
+was seen through windshield of car.
+unknown
+11.
+COMMENTS
+Probable meteor sighting.
+ATIC FORM 329 (REV 26 SEP 52)

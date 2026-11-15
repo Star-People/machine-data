@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:34:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1718609, "source_ctime_ns": 1793389074202020045, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536077/01341.jp2", "source_mtime_ns": 1785807995000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536077/01341.jp2", "source_sha256": "0c321e811a53d06f4201218c952eddc8330bfd3f68f9e784cbaf23db05b17cd7"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 517, "method": "ocr", "page": 1, "variant": "plain-vision"}
+25/0/30₴
+INCOMING
+MESSAGE
+240CT
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+AF IN: 59928 (25 Oet 64) E/rh1
+ACTION:
+NIN-7
+INFO:
+XOP-1, XOPX-6, SAFOS-3, DIA-15 (33)
+ZCZCHQA5 1TZCCJC833
+Page 1 of 2
+SMB C 014
+00 RUEAHQ
+DE RUDIC 025 25/0156Z
+ZNR
+0 251
+0155Z
+FM ADMINO COMBARFORLANT
+TO RUECW/CNO
+ZEN/CINCLANTFLT
+RUWGALB /C INCNORAD
+RUEAAF /26NORAD REG REGION
+RUE AHQ/HQ USAF
+RUEGUH/COMEAST SEAFRON
+RUWGALD / SPADAT
+INFO ZEN/COMA SWFORLANT
+BT
+UNCLAS
+LOCATING ONE UFO
+1. SATELLITE
+2. 66-00N 27-40W
+3. 01302

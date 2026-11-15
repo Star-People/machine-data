@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:12:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9031481, "source_ctime_ns": 1793383648731501346, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987493/1145.jpg", "source_mtime_ns": 1785748030000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987493/1145.jpg", "source_sha256": "5342b069c58720b8d85306b5e47dced8358c667944c1201a2f2ebfbb1e4102d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 342, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SAUCER NEWS, Vo1 II, MAR 64
+Seattle, Washington
+12 JUN 60
+24.
+NEWS BRIEFS: The photo-
+graph at the right was sent to us by
+a correspondent in Seattle, Washing-
+ton,
+who wishes to remain anonymous.
+It was supposedly taken on June 12th,
+1960, by a young man who saw a disc-
+shaped object hover at low altitude
+for a period of several seconds..

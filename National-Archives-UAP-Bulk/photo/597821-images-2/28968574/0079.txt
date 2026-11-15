@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:57:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5586464, "source_ctime_ns": 1793378615097565326, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968574/0079.jpg", "source_mtime_ns": 1785696846000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968574/0079.jpg", "source_sha256": "6a820930bcd7621c69e5ee2f5aec05f94ef804acf3cea6bf5a9d509a1bd92125"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 469, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJEDNG 4G
+9 NONE
+10 NONE
+11 MAJOR, COMMANDER, SUBJECT AIRMEN STATE OBJECT APPEARED AS A FALLING
+STAR BUT WERE AMAZED AT THE CHANGE OF ALTITUDE AND SPEED OF OBJECT.
+I COULD NOT HONESTLY GIVE AN OPINION AS TO WHAT THE OBJECT MAY HAVE
+BEEN •
+12 NONE
+7B
+WEATHER FOR MSP CLR 15 MI
+SURFACE SSW AT
+5,998 - 310 AT 49K
+10,090 - 300 AT 50K
+15,008 - EPP AT 80K
+20,000 - 300 AT 90K
+J EPPPP A EPP AT 93K
+56,900 - 290 AT 80KŚš
+80, 000
+NOT AVAILABLE
+BT
+10/2241Z DEC RJEDNG

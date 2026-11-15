@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:56:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5379169, "source_ctime_ns": 1793378282263933489, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967460/0519.jpg", "source_mtime_ns": 1785696643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967460/0519.jpg", "source_sha256": "97b95801facbc9a637d036e14c0615cf2ba4b227bd353622ed187644facac736"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 517, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJEPSN 1D
+I. MENTIONED ABOVE
+2. A. ELLIPTCAL COURSE
+B. 60 DEGREES ELEVATION AND 180 DEGREES AZIMUTH
+C. 70 DEGREES
+D. COMES AND GOES
+I. FADED OUT OF SIGHT
+F. APPROXIMATELY 1 HOUR AND 54 MINUTES
+3. A. GROUND VISUAL
+B. BINOCULARS
+PAGE THREE RJEPSN 1D
+C. N/A
+R. A. FIRST SIGHTING APPROX. 2330Z 6 SEP 56
+B. NIGAT
+5. CAMP DRUN, WHEELER SAC AIRPORT
+5 •
+B. RONALD H. SCHALON, SPC ARMY, 1229 SVR. SQD. UNIT POST, AVATION
+CORPS •
+A. CLEAR WITH LIGHT PIND
+WATERTOWN WINDS ALOFT: 230/10, 200/10, 230/15, 260/29, 262/20.

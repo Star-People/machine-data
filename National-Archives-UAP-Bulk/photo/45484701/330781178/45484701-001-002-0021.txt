@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:01:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6288856, "source_ctime_ns": 1793361679933400405, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0021.jpg", "source_mtime_ns": 1785684754000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0021.jpg", "source_sha256": "1463ce9406184d2844bd90189bfa20d194a1a0691f9818bf8a4916ecbf383e04"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 236, "method": "ocr", "page": 1, "variant": "clean-vision"}
+VENO COUN
+0-508
+ISDroca VEG
+14 15 16/17
+10 JUN 1949
+SECURITY
+2260/0 10 2 20
+ФІЛЬВАДОИ
+DVIE
+0-1012
+BA VOLHOUL
+НЕБОВІ ОБ ИЛЕЗСУНОИ
+ОБЫСя ОБ ЗБЕСІГ ЛЕгіСУИе
+ІНЕ ТИВЬЕСОВ СЕИЕВУЕ
+DILED ALLER VIB LOKCE
+Declassification Authority: NND 923007

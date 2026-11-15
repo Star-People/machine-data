@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:51:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4396201, "source_ctime_ns": 1793386206312542706, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995209/0452.jpg", "source_mtime_ns": 1785748037000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995209/0452.jpg", "source_sha256": "b3f0faba48a88782b1cdf0fa7635d3de75136db6345b2927c0c63a6aee50d2eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 863, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+17 Oct 61
+3. DATE-TIME GROUP
+Local
+0030
+GM T
+170530Z
+5. PHOTOS
+• Y•s
+DiNo
+7. LENGTH OF OBSERVATION
+3-4 min
+10. BRIEF SUMMARY OF SIGHTING 5 silver green lights
+Plying in "X' formation fm w to E at speed
+slightly slower than airliner.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Canton, Ohio
+4. TYPE OF OBSERVATION
+a Ground-Visual
+D Air Visual
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+D Ground-Rodar
+• Air-Intercept Radar
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Prob1bly Astronomical
+Possibly Astronomicol
+Other
+EX. Insufficient Data for Evaluation
+Unk no wn
+11. COMMENTS Report Im flying & saucer" fan
+who goes out looking for things as hobby.
+Difficult to determine amount of distorti
+in report. Case listed as insufficient
+data.
+ATIC FORM 329 (REV 26 SEP 52)

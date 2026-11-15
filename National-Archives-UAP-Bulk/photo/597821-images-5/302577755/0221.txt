@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:26:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 970363, "source_ctime_ns": 1793393471677395876, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302577755/0221.jp2", "source_mtime_ns": 1785808111000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302577755/0221.jp2", "source_sha256": "ebe1c65410c2c712e32063ea1acc058e4c5df48ce45890a6982910f4115790c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 823, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+TIME GROUP
+Jul;
+-03. 2/00452
+SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+Three minutes
+6. TYPE OF OBSERVATION
+Ground-Visual
+. COURSE
+N
+8. PHOTOS
+0] Yes
+XX No
+9. PHYSICAL EVIDENCE
+• Yes
+FORM
+FTD SEP 63 0-329 (TDE)
+PROJECT 10073 RECORD
+2. LOCATION
+Dayton,
+10. CONCLUSION
+VI10
+INSUFFICIENT DATA
+I1. BRIEF SUMMARY AND ANALYSIS
+The observer sighted an oval shaped object that had a blurred
+ring of red lights then green lights.
+The object was flat
+on top and seemed to be spinning.
+COMMENTS: The observer was requested to complete a 117 but
+the address as given to the duty officer was incorrect.
+The
+description is very similiar to that of the serial advertiser
+who was operating in the Dayton area. However without a
+statement by the observer, the sighting is being carried as
+Insufficient Data.
+used.

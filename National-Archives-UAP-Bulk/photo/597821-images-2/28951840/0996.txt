@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:51:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4335868, "source_ctime_ns": 1793374474608165564, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951840/0996.jpg", "source_mtime_ns": 1785696427000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951840/0996.jpg", "source_sha256": "f26438e0328241666e95de7d4c0a384a13335ae724cc974c804a44e6b2e207a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 691, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+4 Dee 52
+DATE-TIME GROUP
+seal
+.1730_
+= 70>/'0330 ₴
+PMOTOS
+• Yes
+* No
+LENGTH OF COSERVATION
+PROJECT 10073 RECORD CARD
+LOCATION
+TANANA AEB, ALASKA
+TYPE OF CR
+ERVATION
+* Ground- Visuol
+• Air-Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Rador
+CIV. MAN
+• NUMBER OF OBJECTS
+one
+BRIEF SUMMARY OF SIGHTING
+A brilliant blue white light falling downward
+appeared to land.
+2. COURSE
+SE
+COMMENTS
+12. CONCLUSIONS
+000
+Was Balloon
+Probably Balloon
+Possibly Balioon
+Wus Aircraft
+Probebly Arreroft
+Possibly Aircrait
+000
+Vas Astronomicol
+Prabably Astronomical
+Possibiy Astronomical
+Other
+insufficient Data for Evaiuntion
+Unknown
+Reporting officer evaluates it as a
+meteor •
+ATIC FORM 329 (REV 25 BEP 52)

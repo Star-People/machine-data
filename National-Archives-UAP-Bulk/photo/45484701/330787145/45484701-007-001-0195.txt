@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:09:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8745076, "source_ctime_ns": 1793364528148412505, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0195.jpg", "source_mtime_ns": 1785684571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0195.jpg", "source_sha256": "741613ee3441db28b54ad2b3f72fbb46896867ae6081a0f0ca9fa703763a55cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 96, "method": "ocr", "page": 1, "variant": "clean-vision"}
+ever o30 •
+MO ZSIN
+RAZU AT ASAU X TE
+TE
+ZS6L1AC Z2
+*82 1
+Declassification Authority: NND 923007

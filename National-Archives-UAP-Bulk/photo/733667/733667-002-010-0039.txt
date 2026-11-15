@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:28:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1157431, "source_ctime_ns": 1793394404144005228, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-010-0039.jpg", "source_mtime_ns": 1785567366000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-010-0039.jpg", "source_sha256": "27504ea0fa958aeefb3c05c13d49f80e0a8ba0f59c95dd5da2b6c0d5c0569368"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 560, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Rt. 1 Box 445
+Marble, N.C.
+28905
+3/5/87
+Federal Aviation Agency
+Box 14
+Anchorage, Alaska
+Dear Sirs;
+I was very interested in the news
+recently regarding the unusual Uro
+sightings by the Japanese Airline
+crew, enroute to Alaska.
+Paul Harvey stated today on his
+broadcast that you folks have avail-
+able information relative to it.
+If this is the case please advise
+what it amounts to, recording etc.,
+and the cost to have mailed to me.
+Enclosed is my stamped and addressed
+envelope for your reply. Thank you
+very much.
+Respectfully yours,
+JE Brenes
+J.E. Bruner

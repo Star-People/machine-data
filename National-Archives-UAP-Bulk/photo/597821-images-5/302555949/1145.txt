@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:41:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1698224, "source_ctime_ns": 1793391165944527332, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555949/1145.jp2", "source_mtime_ns": 1785808206000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555949/1145.jp2", "source_sha256": "2d896b8ddc39730202c2d184162b90b538a5b23a33064a158d44821c6a36c942"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 912, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 22666 (14 Sep 66) R/fdb
+Page 1 of 3
+ACTION:
+RDC-4
+INFO: XOP-1, XOPX-2,
+SAFOS-3, NIN-7, DIA/JCS-1 (19) ADV CY DIA
+SMB A244CZCBVB788
+PTTU JAW RUEDGMA2985 2571825-UUUU--RUEDHQA.
+ZNR VUUUU
+P 14 15 192
+FM 52FTWG SUFFOLK COUNTY AFB NY
+TO RUEDHQA/ CSAF
+RUEDHA SECRETARY OF THE AF WASH DC
+RUWMFVA/ ADC
+RUEDMA 1AF STEWART AF B NY
+RUEDBOA/21AIRDIV NCGUIRE AFB NY
+OS
+OSA
+US
+USI
+USM
+IL
+ILP
+IDI
+ILS
+ILT
+FM.
+RID
+RUEDFIF/HQ FTD AFSC WRIGHT PATTERSON AFB CHIO
+BT
+OI
+UNCLAS 520DC 80212 SEP 66
+FOR USAF (AFNIN), 21AIRDIV (21ADOIN): UFO RPT. I AW AFR
+200-2 INFO SUBMITTED ON 6 UFO SIGHTINGS BETWEEN 2300 -
+SS
+SI
+2400Z, 9 SEP 66. INFO IN ALL SIX RPTS NATCHES: ALL
+CONSOLIDATED FOR THIS RPT. UFO IDENTIFIED AS BALLOON,
+ORIGIN UNKNOWN.
+A. (1) ROUND (2) DIME (3) WHITE (4) ONE (5) NONE (6) NONE
+7) NONE (8) NONE (9) NONE
+AFHO AN 0-309C
+UNCLASSIFIED

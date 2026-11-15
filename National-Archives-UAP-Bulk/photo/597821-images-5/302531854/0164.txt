@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:28:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1025095, "source_ctime_ns": 1793388749435837677, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531854/0164.jp2", "source_mtime_ns": 1785808672000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531854/0164.jp2", "source_sha256": "2ba54efafa496d88ddccdfd1bf650e935c496d9dd3dbab15f0c725f056503482"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 628, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+16 pesic6
+1 7/0645z
+UNCLASSIFIED MESSAGI
+AF IN : 5293 (17 Mar 64) G/#fN C O M | N G
+Page lof 2
+INFO
+: NIN-7, XOP-1, XOPX-4
+ARMY-2, NAVY-2, CMC-8 (111)5, NSA-7, OSD-15, SAF-03,3, JCS-35,
+SMB C 114
+QA454ZCECA209
+TO
+CYS
+O0 RUEAHQ
+DE RUHPF BØ35 17/0739Z
+ZNR
+0 170739Z
+FM COMBARF ORPAC
+E ACTION COPY
+TO RUMPHH/COMHAWSEAFRON
+MAR : 7 130
+OS
+OSA
+OSP
+US
+RUHLKM/C INCPACAF
+RUAUAAH/HADD KUN IA
+ZEN/C INCNORAD
+INFO RUECW/CNO
+RUEAHQ/COFS USAF
+RUHLH Q/C INC PAC
+RUHLHL/C INC PACFLT
+DSMG
+RUHLHS/C IN CUSARPAC
+RUHLKSA/PACAFBASECOM COMMAND CENTER HICKAM AFB
+RUECW/ SECNAV
+BT
+UNCLAS
+Au JANAP 146D

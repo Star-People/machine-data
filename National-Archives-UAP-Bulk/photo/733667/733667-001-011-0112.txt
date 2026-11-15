@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:46:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3729926, "source_ctime_ns": 1793394205454142508, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0112.jpg", "source_mtime_ns": 1785567336000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0112.jpg", "source_sha256": "b48480346c9d2a7d0f97192f9f9513a8f270f08764691c8f78372d10bcd54914"}
+
+===== PAGE 1 =====
+{"alpha_words": 547, "chars": 3934, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Federal Agencies Digitization Initiative Still Image Working Group - August 2010
+I. INTRODUCTION
+Context
+The Technical Guidelines for Digitizing Cultural Heritage Materials: Creation of Raster Image Master Files
+represents shared best practices followed by agencies participating in the Federal Agencies Digitization Guidelines
+Initiative (FADGI) Still Image Working Group for digitizing cultural heritage materials. This group is involved in a
+cooperative effort to develop common digitization guidelines for still image materials (such as textual content, maps,
+and photographic prints and negatives) found in cultural heritage institutions.
+These Guidelines were prepared by members of the working group during the winter of 2009-2010. This document
+draws substantially on the National Archives and Records Administration's Technical Guidelines for Digitizing
+Archival Records for Electronic Access: Creation of Production Master Files - Raster Images (June 2004), but has
+been revised and updated in several areas to reflect the current recommendations of the working group and to reflect
+changes that have occurred in the digitization field during the last five years. Readers will find updated sections
+covering equipment and image performance metrics, quality management, and metadata in this revision.
+For more information on the activities of the FADGI Still Image Working Group, please see
+http://www.digitizationguidelines.gov/.
+Purpose
+One of the tasks of the FADGI Still Imaging Working Group is to develop digital imaging guidelines that encourage
+and reflect collaborative digitization practices among federal agencies (and other interested institutions) in order to
+provide the public with images of uniform quality, and to provide a common set of practices and technical
+benchmarks for digitization service providers and manufacturers.
+In the context of the work of the FADGI Still Imaging Group, some of the primary objectives of these Guidelines
+are to:
+• Provide an approach to digitization that is practical today
+Describe technical parameters that promote a "well-defined" imaging environment
+Provide a consistent approach to imaging and metadata collection that will be appropriate for a wide range of
+outputs and purposes
+• Define a common set of quality or performance metrics to be used in describing and evaluating the digital
+object, as well as methods of validating those measures to defined requirements
+• Lay the groundwork for issues the Still Imaging Working Group intends to focus on in the coming months for
+potential incorporation into these Guidelines, including: metric aims and limits for imaging performance and
+quality specifications; color encoding accuracy; master and derivative file formats; transmissive image
+analysis targets; full lifecycle quality management plan; objective and subjective image performance analysis,
+and embedded/minimal metadata, among others
+These Guidelines define approaches for creating high quality digital copies of originals used primarily for
+facilitating online access and hardcopy reproduction. They may be considered appropriate for preservation purposes
+(to create copies that could replace the original), but this largely depends on the local or internal policies of an
+organization. Therefore, the recommendations in this document may not be appropriate for all preservation uses (for
+example, scientific analysis).
+Master files
+These Guidelines provide technical approaches to the creation of raster image (pixel-based) master files. In creating
+master files, the primary objective is to produce digital images that look like the original items and to create a
+"reasonable reproduction" without enhancement. However, practice may vary from institution to institution
+regarding the amount of processing or editing that is performed on master files.
+Technical Guidelines for Digitizing Cultural Heritage Materials: Creation of Raster Image Master Files

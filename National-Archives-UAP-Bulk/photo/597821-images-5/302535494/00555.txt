@@ -1,0 +1,114 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:42:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1705398, "source_ctime_ns": 1793389019567371914, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535494/00555.jp2", "source_mtime_ns": 1785808638000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535494/00555.jp2", "source_sha256": "c866d454fdc280351bf4223b3b1adbd9ad54a535ba1c68ef17912b5844c78287"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1656, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+15 - 31 AUGUST 1964 SIGHTINGS
+OBSERVER
+-19
+•19
+~19
+or
+27
+- 31
+*31
+LOCATION
+San Saba, Texas.
+New York City, New York
+Yosemite Park, California
+Highland Park, New Jersey
+Dayton, Ohio
+West Macon, Georgia
+200 Mile E Dover (Atlantic)
+• Littleton, Colorado
+Denver, Colorado
+Las Vegas, New Mexico
+49.05N
+171.40W (Pacific)
+Wilbur, Washington
+Salt lake City, Utab
+Nunn, Colorado
+Teaneck, New Jersey
+Waco,
+Texas
+42. 30N
+170.40w (Pacific)
+49.18N 159.15W (Pacific)
+48. 30N
+169.30W (Pacific)
+Moses Lake, Washington
+Lititz, Pennsyivania, South of
+Carmel VOR, Connecticut
+Fairborn, Chio
+Drexel Hills, Pennsylvania
+Portales, New Mexico
+Dayton, Chio
+Lynn, Massachusetts
+Littleton, massachusetts
+33.40N 173.00W (Pacific)
+Hondo AFE, Texas
+Webster,
+Massachusetts
++5. 30N
+170.30% (Pacific)
+Dayton, Ohio
+Citrus Heights, California
+Littleton, Massachusetts
+Altus, Oklahoma
+Lone Pine, California
+Western Springs, Illinois
+Dayton, Ohio
+Mi
+Military Air
+Military
+Military Air
+Military Air
+Military Air
+Civilian (PHOTOS)
+Civilian, Multiple
+Military
+Military Air
+Military Air (PHOTOS)
+Military Air
+EVALUATION
+Satellite
+UNIDENTIFIED
+UNIDENTIFIED
+Aircraft
+Insufficient Data
+Aircraft (w/Banner)
+UNIDENTIFIED
+Other (REFLECTION)
+Aircraft
+Insufficient Data
+Satellite
+Satellites
+Insufficient Data
+Balloon
+Satellites
+Astro (JUPITER)
+Astro (METEOR)
+Satellite
+Satellite
+Other HOAX
+Astro (METEOR)
+Astro (STARS/ PLANETS)
+Satellite
+Astro (JUPITER)
+Astro (VENUS)
+Aircraft
+Aircraft
+Satellite
+Other (STABILIZATION ON
+CHUTE/PIECE OF EQUIPMENT)
+Astro (SUN DOG)
+Satellite
+Astro (ARCTURUS)
+Satellite
+Astro (METEOR)
+Aircraft
+• AStro (JUPITER
+2. Astro (CAPELLA
+3. Astro (FORMALHAUT)
+Aircraft
+Satellite

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:19:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14567162, "source_ctime_ns": 1793361237885224884, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0243.tif", "source_mtime_ns": 1785565265000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0243.tif", "source_sha256": "46415c4403557936bb5c1049345b0cd1ed7ba412665ba5484dad224be71bb52d"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 785, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVIGATOR'S STATEMENT
+This is It Smith, Navigator.
+At 0829Z I had a
+two-station Loran fix
+at 0856Z had a 3 station Loran
+Radar was on at this time, 30-mile range tilt
+normal, our true course was 114 my last wind was 240
+and 36,
+true heading was 125 minus
+5 variation grounc
+speed or approximately 190.
+At 09142 Capt Faurot tapped
+ne on the shoulder and said that there had been
+flare sighted and for me to get a position. I DR'd
+ahead and gave the position to the radio operator who
+called it into Wake Island.
+Right after that Capt Faurot
+asked me to adjust the tilt on my scope, which I did.
+I glanced down and noticed a blip in the first five-mile
+range and climbed up in the astrodome to see if I could
+see anything.
+I saw nothing.
+1180923
+Sul 3
+DECLASSIFIED
+Authority NND 9237007

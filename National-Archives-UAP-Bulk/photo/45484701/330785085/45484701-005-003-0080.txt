@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:01:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6404897, "source_ctime_ns": 1793363353160710023, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0080.jpg", "source_mtime_ns": 1785684911000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0080.jpg", "source_sha256": "4b78c7d002ec64cf5b2b69b1199d3437e7adcc781d8a3aafbcd4674353031d9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 77, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Nov 26
+AIR FORCE
+OR SENERAL
+¡ 5 42°52
+Declassification Authority: NND 923007

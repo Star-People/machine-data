@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:12:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8976244, "source_ctime_ns": 1793383746375002491, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987757/1372.jpg", "source_mtime_ns": 1785748068000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987757/1372.jpg", "source_sha256": "48f59110857559ae86245479eccde4409561624ea68b1c1eac50e8369d68ac0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 886, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE:
+14 Jui 60
+3. DATE-TIME GROUP
+Local _
+2235 & 2345
+GM T
+15/0435 & 05452
+5. PHOTOS
+• Yes
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dayton, Ohio
+TYPE OF OBSERVATION
+A Ground- Visual
+• Air Visual
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+• Ground-Rodor
+• Air-Intercept Rador
+7. LENGTH OF OBSERVATION
+45 min
+one
+10. BRIEF SUMMARY OF SIGHTING
+Object which appeared bright as a star and had
+a flashing red light as it circled, size of a
+pinhead. Sweptback wings could be barely seen
+and they appeared to be pale red-blue.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Airerat
+10
+Possibly Aircrofi
+•
+•
+Was Astronomica
+Probably Astronomica
+Possibly Astronomica
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+circled
+11. COMMENTS
+The fact that the witness saw sweptback
+wings suggests that the object was a
+Jet a/c.
+ATIC FORM 329 (REV 26 SEP 52)
