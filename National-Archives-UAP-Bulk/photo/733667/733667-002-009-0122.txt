@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:14:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1427262, "source_ctime_ns": 1793394397095800650, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0122.jpg", "source_mtime_ns": 1785567364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0122.jpg", "source_sha256": "8a970f0498c9beae9316be21f09db15c31c42ef57e2da0d09833646de3d51602"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 394, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMORANDUM
+OF CALL
+TO:
+YOU WERE CALLED BY-
+YOU WERE VISITED BY
+OF (Organization)
+lancy Lolen
+Baker Street Productions
+PLEASE CALL -
+PHONE NO.
+CODE/EXT.
+WILL CALL AGAIN
+IS WAITING TO SEE YOU
+RETURNED YOUR CALL
+WISHES AN APPOINTMENT
+MESSAGE
+UFO order form
+P.O, Box 3610
+Mankato, Minn.
+56001
+RECEIVED BY
+DATE
+3/16
+TIME
+10:3ł
+63-10ął
+STANDARD FORM 63
+REVISED AUGUST 1967
+GSA FPMR (41 CFR) 101-11.6

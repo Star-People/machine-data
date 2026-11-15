@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:27:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4647932, "source_ctime_ns": 1793359085606631434, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-041-0001.tif", "source_mtime_ns": 1785681313000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-041-0001.tif", "source_sha256": "81faed54e662286d80bff6baf7ac04891f0f93acaf447665bd73ea13d44c7aea"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 675, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+AISS-0708-259-55
+LOCATION OF STO/THRO
+DATE/TIE OF CIETING
+08/04432 Aug 55
+RECD HQ 4602D
+8 Aug 55
+LOGCAD BY
+A/1C Deludder
+Near Saginaw, Michigan
+MEANS TOECD
+TTỊẠỊồSg
+INVES UNIT
+N/A
+DATE IR RECD BO
+ACTION
+No investigation authorized
+DATE INVES ASSIGNED
+N/A
+DATE IR APPROVED
+N/A
+ASSIGNING OFFICER
+N/A
+DATE IR TO ATIC
+N/A
+DATE OF FORM D
+8 Ang 55
+COMMENTS
+Balloons are released by Ceneral Mills, and the University of
+Minnesota alnost daily. A check with COC weather revealed that
+all balloons released lately have been drigting in the direction
+of Saginaw.
+CONCLUSIONS
+Possibly Balloon
+AISOP FORM 7 (2 APR 55)

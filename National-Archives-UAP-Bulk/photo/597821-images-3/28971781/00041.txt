@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:40:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8143011, "source_ctime_ns": 1793379253690143236, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971781/00041.jpg", "source_mtime_ns": 1785700991000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971781/00041.jpg", "source_sha256": "281102f213e7cee0cdeb220eab80518ff1d10f6a1d73d1bb8cf268351b6b0d47"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 419, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE RJ TWO RJEPNE 3M
+(2) A. SPOTTÉD FROM OBSERVATION POST
+B. UNKNOWN
+C. DOWN BETWEEN TWO HOUSES
+D. N/A
+E. VERY SLOW
+F• 15 MINUTES
+(3) A. GRCUND VISUAL
+B. N/ A
+C. NA
+(4). A. 2001Z SEPT 57
+B. AT NIGHT
+(5) A. DA 5242, FALL RIVER MASS
+(6)
+CANET DATI
+FALL RIVER MASS
+BM CG
+(8) N/A
+(7)
+(9) N/A
+A. CLEAR
+B. 10, 20C CLOUDS
+C. 18,020
+D. 15 MILES
+(10) NONE
+(11) NONE
+(12) NONE
+PAGE THREE RJEPND 3M
+E. NO CLOUD COVERAGE
+F. NA
+BT

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:20:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1777373, "source_ctime_ns": 1793388680565786066, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531004/0802.jp2", "source_mtime_ns": 1785808027000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531004/0802.jp2", "source_sha256": "1252764ec93454530fb958e6d30d6391a98e03acec44a32252ecbe95ee530105"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 954, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+5 November 1963
+3. DATE-TIME GROUP
+Local _
+GMT.
+05/11152
+5. PHOTOS
+Nebraska, & Iowa
+TYPE OF OBSERVATION
+• Ground-Visual
+REAir Vi sual
+6. SOURCE
+• Ground-Rador
+O Air-Intercept Radar
+O Yet
+E No
+7. LENGTH OF OBSERVATION
+Military
+Air & Civilian Air
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+•
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+D
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomicol
+Other.
+Insufficient Dato for Evaluation
+Unknown
+Maximum 30 Seconda
+Lights
+BRIEF SUMMARY OF SIGHTING
+Object changing from bright to dim and back
+to bright. 5 Air visual reports from
+Nebraska and Iowa area, Object moving S-N
+at 50 deg elev. Also reported moving N-S
+at 30 deg elev.
+Moving N-S and SW. One report
+moving N, remainder southerly.
+SN
+11. COMMENTS
+No decay this date. Exceptionally bright
+meteor or meteors.
+ATIC FORM 329 (REV 25 SEP 52)

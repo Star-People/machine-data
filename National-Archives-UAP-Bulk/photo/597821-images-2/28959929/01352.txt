@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:29:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5075732, "source_ctime_ns": 1793376257284246306, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959929/01352.jpg", "source_mtime_ns": 1785696671000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959929/01352.jpg", "source_sha256": "49b49de39585698391fe76a9f20069cbb95597608a37b9aebb056e27ee4277c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 835, "method": "ocr", "page": 1, "variant": "plain-vision"}
+APOIN-X/Lt Col Blocmer/er/71092/4 Nov 54
+5 MY 1524
+Wheelergburt, Chio
+Dear Its. 1
+Thank you for your letter of Detober 27th, which recorted your
+obsermiion of certain unidentifiable serial phencmena and further
+enclosed a piece of substance which you found.
+The Air Force has had a major active progran in this area over the
+leat several years, and your report and substance will be burned over
+co our analysts for further evalation.
+Por your convenience I an abtaching a copy of the HU, S, Air Force
+Dromery of Drenta and Information Concering the Unidentitted Iging
+Cojecc Progrem, which compiles the labest facts established by the
+Adr Force in ita progran in thia area»
+Very bady yours,
+Signed
+1 Incl
+USAP Cumpy on
+Uro Pran, unata
+JOSEPH A. BICOMER
+IS Colonel, UCAT
+Directorate of Intelligence
+Coord cy, APOIN
+X ref cy
+-Cy to ATIC

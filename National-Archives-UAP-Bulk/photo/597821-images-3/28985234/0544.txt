@@ -1,0 +1,119 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:28:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4944696, "source_ctime_ns": 1793382733078263442, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28985234/0544.jpg", "source_mtime_ns": 1785701074000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28985234/0544.jpg", "source_sha256": "c75b33f53596df853b0536297fdb56c800f99078ba3c5447942bb0460ea4a667"}
+
+===== PAGE 1 =====
+{"alpha_words": 186, "chars": 1563, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+Nov-Dec
+1
+1
+10
+11
+12
+12
+13
+13
+16
+17
+18
+18
+18
+24
+25
+29
+DATE
+7.
+10
+17
+18
+20
+23
+29
+NOVEMBOR 1959 SIGHTINGS
+LOCATION
+OBSERVER
+Clarkspa, Michiga
+(PHOTO)
+hugene, Oregon
+Multi
+31.14N
+61.51W (Atlantic)
+20 Mi N of Statesville, North Carolina
+Utica, New York
+Military
+bagnana, irag
+Asst Air Attache
+E of Trinidad, West ladies
+Notauk AFS, Long Island, New York
+Military (RADAR)
+MW of Sam Antonio, Texas
+No? Hawaiian Islaads (Pacific)
+Phoesix, Arizona
+Portlaad, Maine
+Garden City, Long Island, New York
+S or Punta Campas, Mexico
+260 Mi E of Resolution Island
+Indiaa House, WWI, Canada
+320 ML E of Maateo, North Caroliaa
+Military
+Uaknowa
+Military
+Duncanville, Texas
+Daytos, Ohio
+100 Mi N of Guan
+Military
+S of Crystal Springs, Mississippi
+11.55N 73.15W (Atlantic)
+Farmington, Michigas
+Boundbrook, New Jersey
+Roanoke Rapida, North Carolina
+Military
+Weat Branch, Michigaa
+LOCATION
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+Vandemberg AFB, Call praia
+Washington, D. C.
+Mambattaa Beach, Calitorala
+Wallope Islaad, Virgiaia
+Vandemberg AFB, Califoraia
+Papua, New Guinea
+Miami
+Florida
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipoing
+Newsclipping
+Newsclipping
+EVALUATION
+Balloon
+Astro
+(VENUS)
+Astro
+(METEOR)
+Astro (VENUS)
+Insufricient Data
+Astro (METEOR)
+Other (MISSILE)
+Balloon
+Aircraft
+Astro (METEOR)
+Other (UNRELIABLE REPORT)
+Insufficient Data
+Balloon
+Astro
+(METEOR)
+Astro (VENUS) .
+Insufficient Data
+Astro (METEOR)
+Balloon
+Astro METEOR)
+Astro (METEOR)
+UNIDENTIFIEO
+Astro (METEOR)
+Iasufficieat Data
+Aircraft
+Astro (METEOR)
+Insufficieat Data
+EVALUATION

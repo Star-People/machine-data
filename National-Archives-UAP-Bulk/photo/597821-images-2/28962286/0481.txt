@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:36:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6843109, "source_ctime_ns": 1793376931838357574, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962286/0481.jpg", "source_mtime_ns": 1785696430000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962286/0481.jpg", "source_sha256": "1629a1dbda91493685c86ee358799dc626d2180f18034ba2e006e587d59977d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 848, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5--201
+INT 501
+FOR OFF
+TAFR
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+ROW/TS
+THE INSPECTOR GENERAL USAF
+20th DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+McCHORD AIR FORCE BASE, WASHINGTON
+20D OSI 24~0
+19 June 1955
+SUBJECT:
+Unidentified Flying Object Obeerved Approximately 1 June 1955
+in Vicinity of Kennewick, Washington
+TO:
+Commander
+25th Air Division (Defense)
+McChord AFB, Washington
+ATTENTION: Intelligence Officer
+This office is in receipt of a letter from the Seattle Field Office,
+Federal Bureau of Investigation, copy of which is attached hereto for your
+information and ary action you may deen appropriate.
+1 Incl
+Cy 1tr, FBI, dtd
+12 Jun 56.
+PENCER W. RAYNOR
+Colonel, USAF
+District Commander
+TURNED OVER TO 4602 HISS
+FLT IA PER TELEPHONE CONVERSATION
+W/ S6T FRANCIS 20 JUNS6 (1000)
+FOR
+SMAMA-May 55-10M lp

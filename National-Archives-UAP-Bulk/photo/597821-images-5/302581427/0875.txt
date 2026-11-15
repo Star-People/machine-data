@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:11:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 980667, "source_ctime_ns": 1793393861085047664, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302581427/0875.jp2", "source_mtime_ns": 1785808205000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302581427/0875.jp2", "source_sha256": "085c97fa4506f312429e86bc5fe5150dad83bf070d62e58e55749c4c1f9bdaec"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 611, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ТУРЕ
+CLASS
+1
+D
+IV
+C
+D
+>
+20,
+З
+| 60;3
+1A-Treetop level
+B-Near Water
+C-intell/gent Signals
+D-Scouting a vehiele
+IIA-Cloud Ciger/Arratic
+B-Cloui Ciger/Stationary
+Abaorb/Eject Objects
+C-Cined Cigar 6 Setallites
+TIIA-71S
+CLASSIFICATION, SUMARY LECENC
+(ITT) b¿C¿oject Halts
+C-Halts/Changes
+Shape/Ejects Obj
+D-Ejects/Dog Fighte
+E-Chonge course/Ciscie
+IVA-Concimucts Flight
+B-Affecced by Aircraft
+C-Formation
+D-RN4/228-2AS
+(FOR DATA
+(IN I0; IX-200 0; V=00%)
+FOLER
+VA-Point Source
+B-Starltke/Long Hover
+C-Erratic/Fast Points)
+*-Great Signific,
+1-Significant
+-Ordinary
+: - Borderline
+0OL 0V0
+VEC128 - 2720N012 17 2
+PG 55

@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:33:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5770098, "source_ctime_ns": 1793369926566322355, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933271/0636.jpg", "source_mtime_ns": 1785688927000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933271/0636.jpg", "source_sha256": "fc05537f6a976c1c8cf7c99e0a1d18706cfb7ad8042a74a9a68b8f9ba86214cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 320, "method": "ocr", "page": 1, "variant": "plain-vision"}
+16 May 1949
+UNCLASSIFIED
+SUBJECT: Unidentified Aerial Phenomena - 249
+The terrain throughout the area covered is exceptionally rugged and most
+elevations above five hundred (500) feet are barren of vegetation and
+heavily snow covered.
+FOR THE COMMANDING OFFICER:
+WILLIAM H. SMITE
+Captain, USAF
+Intelligence Officer
+FI20

@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:22:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3333986, "source_ctime_ns": 1793382387293564870, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983587/0474.jpg", "source_mtime_ns": 1785700898000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983587/0474.jpg", "source_sha256": "302f8e3ea7a67083cbe770810ddaafbd353f63d2ff3ea6299e942752dbc8971f"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 871, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+3. DATE-TIME GROUP
+Local _
+2300
+GM T
+PHOTOS
+• Yes
+El No
+•. LENGTH OF OBSERVATION
+TYPE OF OBSERVATION
+• Ground- Visual
+• Air Visual
+6. SOURCE
+¡litary
+8. NUMBER OF OBJECTS
+not gaven
+10. BRIEF SUMMARY OF SIGHTING
+Two airplanes noticed balls of fire trave
+about 600 mph
+• Ground-Radar
+D Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+D
+Other.
+D:: Insufficient Data for Evaluation
+Unknown
+9. COURSE
+not given
+11. COMMENTS
+ing
+Two separate sightings of sane
+obj. Described almost identically. Ro
+follow-up info received. No info as to
+flight direction alt movement or other
+characteristics of flight given.
+Insufficient data upon which to base
+conelusion.
+ATIC FORM 329 (REY 25 SEP 52)

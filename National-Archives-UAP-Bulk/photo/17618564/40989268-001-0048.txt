@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:07:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18024311, "source_ctime_ns": 1793355609996156160, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0048.jpg", "source_mtime_ns": 1785564488000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0048.jpg", "source_sha256": "f286aaed9217a5d89eca5ee909f0b1f5058087d77b353e4480242f93381af7ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 950, "chars": 6023, "method": "ocr", "page": 1, "variant": "plain-vision"}
+82
+reliability. We feel that this is most important in a vehicle of this type for fairly
+obvious reasons.
+An analysis of failure of balloons manufactured by us reveals that the one factor
+that always seems to be present during failure is a cold tropopause temperature.
+Certainly not all of our balloons have failed in the presence of a cold trop, but when-
+ever a failure does occur, a cold trop has almost invariably been present. This
+would indicate that a cold trop temperature has been a critical environment for
+polyethylene balloons. We feel that under optimum conditions of balloon unfolding
+and in the absence of other defects, the balloon will go through a cold trop and fly
+successfully. Unfortunately, these ideal conditions are not easily achieved as it is
+almost impossible to control the unfolding, the aerodynamic flutter, particularly at
+higher ascent rates, wind shears, and so forth.
+The polyethylene material manufactured to the requirements of Specification
+MIL-P-4640A is tested for brittleness at -68°C by dropping a two inch diameter
+steel ball through a sample normalized at this temperature. If a fractured tear
+results the sample does not pass the test but if the tear is a ductile tear the sample
+is accepted. A fractured tear resembles the fracture seen when a pane of glass is
+broken while a ductile tear is a more or less straight line with usually no more than
+one branch if any. The type of tear is quite easy to distinguish and the results are
+reasonably consistent. Eight specimens are tested from a roll and, in order to be
+acceptable, no more than one specimen shall exhibit a shattered tear. Efforts have
+been made by some procuring activities in recent months to tighten this specifica-
+tion by requiring cold brittleness testing of samples from each roll of polyethylene
+film used. This is in contrast to the selective sampling of lots as called for in the
+MIL Specification. Two samples from each roll are taken and if either sample fails
+the roll is rejected. Our philosophy of testing at Winzen Research does not agree
+with this method of sampling and rejection. Film is made in continuous lengths so
+the top of one roll is immediately adjacent in production to the bottom of the follow-
+ing roll. We feel it does not buy one anything to reject the one roll and keep the
+other if the first roll does not pass and the next one does. Sampling from the ends
+of rolls statistically gives a very low sampling rate to begin with so we reject the
+entire lot if one sample fails. All of this indicates that balloon film produced in the
+past has been very marginal in passing a requirement of a brittle point test at
+- 68°C. Our testing over a considerable period of time certainly bears this out.
+Winzen Research has recognized these problems and on their own initiative and
+entirely with their own funds undertook a research and development program to
+come up with an improved material. The first results are a new polyolefin film
+material called StratoFilm* A facility was set up at Mt. Vernon, Texas to produce
+*Trade Mark Applied For
+this material commercially. While all properties surpass the requirements of
+MIL P4640 A by substantial margins, the most significant improvement is in cold
+brittleness. By the MIL P4640A test the brittleness temperature must be at least
+as low as -84°C (-119°F) or lower. This temperature is lower than the more
+commonly encountered tropical tropopause temperatures and so,we feel, gets one
+out of the critical environment area. Generally the films produced are well below
+this temperature limit. StratoFilm is produced under Winzen Research Inc.,
+Specification No. 340. There are several significant differences between this
+specification and the MIL Specification in addition to the cold brittleness test limits.
+In contrast to checking five points across the web for thickness variation and
+averaging them for nominal thickness and setting a maximum variation of -0.3 mil,
++0.4 mil, the WRI Specification calls for a continuous reading across the web with a
+maximum variation of + 0.3 mil. While it is not called out in WRI Specification
+No. 340, production specifications call for accurate control of average thickness,
+usually referred to as yield, by weighing a lineal yard of material and insuring that
+the weight is within acceptable limits. By this method average weight is held to
+about 2 percent variation, although on small runs it may run as high as 5 percent.
+Any sample falling outside the thickness tolerance limits will reject the entire lot
+from which the sample is taken.
+Width is not considered an important parameter in the WRI Specification.
+WRI Specification No. 340 calls for a minimum tensile strength in both directions of
+2400 psi. MIL 4640 requires only 2000 in the machine direction and 1600 in the
+transverse direction. We feel it important to balance the tensile strength in both
+directions as closely as possible. We call for a minimum elongation in both direc-
+tions of 400 percent. The MIL Specification calls for 400 in the transverse direction
+but only 250 in the machine direction. We have found so many variables and so many
+inconsistencies in the toughness test as given in MIL 4640A that we do not include it
+in our specification. We do include a tensile test across the fold in the material if
+the fold is to end up in the balloon wall. Specification No. 340 calls for this test to
+yield a strength at least 90 percent of the average transverse tensile strength. To
+repeat, the cold brittleness test in MIL 4640A is run at -68°C and in WRI No. 340 at
+-84°C. Failure of any sample in a lot in the WRI Specification rejects the whole lot.
+In 4640 one failure out of 8 is allowed and a lot can be resampled under certain
+conditions. In the modification of 4640 calling for auxiliary testing, if a sample fails
+it rejects that particular roll. Representative results on tests of recent lots of
+StratoFilm show brittlepoint temperatures as low as - 150°F (-101°C). Generally,
+properties have been very gratifying.

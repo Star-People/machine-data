@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:34:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6024262, "source_ctime_ns": 1793382872804990424, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985731/0961.jpg", "source_mtime_ns": 1785748246000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985731/0961.jpg", "source_sha256": "2f5fc7a679c0b420fac6b869081b8b2b6398c346159d8d76a5946bb0babb45da"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 840, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJEDDU 32
+2 THIRTY DEGREES /TWO HUNDRED AND FORTY DEGREES
+3 THIRTY DGREES/SIXTY DEGREES
+4 CONSTANT
+5 FADED TO NORTH EAST
+6 SEVEN TO EIGHT SECONDS
+C 1 AIR VISUAL
+2 NONE
+3 DC SEVEN C, N TOW NINE FIVE TWELVE THOUSAND
+TWO HUNDRED AND EISHTY DEGREES TWO AND THIRTY KNOTS
+MINNEAPOLIS MINNESOTA
+D 1 TWENTY FIVE/ZERO ONE THREE THREE ZULU
+2 NIGHT
+E. 1 FORTY TWO DEGREES NORTH EIGHTY DEGREES WEST
+2 WEST OF ERIE PENN OVER LAKE ERIE
+• PILOT
+MINNEAPOLIS MINN,
+• COPILOT
+•ST PAUL MINN,
+ENGINEER
+ST PAUL MINN,
+ALL PERSONNEL WITH NORTH WEST ORIENT AIRLINES MINNEAPOLIS MINN,
+G. 1 CLEAR AT TWELVE THOUSAND
+PAGE THREE RJEDDU 32
+2 SOUTH THREE KNOTS
+200 DEGREES 20 KNOTS
+26C DEGREES 15 KNOTS
+230 DEGREES 20 KNOTS
+260 DEGREES 25 KNOTS
+270 DEGREES 35 KNOTS
+260 DEGREES 40 KNOTS
+260 DEGREES 35 KNOTS
+3. FOUR THOUSAND FOUR HUNDRED FEFT
+4 FIVE MILES HAZE

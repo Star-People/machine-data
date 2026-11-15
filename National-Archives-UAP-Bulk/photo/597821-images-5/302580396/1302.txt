@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:18:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1723408, "source_ctime_ns": 1793393762713487016, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580396/1302.jp2", "source_mtime_ns": 1785808165000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580396/1302.jp2", "source_sha256": "6bd6c34380dde284b60830648f85b4ccc2a705b83cda1f37160c892ef655ef82"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 715, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DAT
+IME GROUP
+19 October 1968
+3. SOURCE
+Lian
+4. NUMBER OF OBJECTS
+See Case
+5. LENGTH OF OBSERVATION
+See Case
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+See Case
+8. PHOTOS
+• Yes
+TI No
+9. PHYSICAL EVIDENCE
+• Yes
+A9 No
+FORH
+FTD SEP 63 0-329 (TDE)
+PROJECT 10073 RECORD
+2. LOCATION
+envorch, Washington
+10. CONCLUSION
+INSUPFICLENT DATA
+Appearently the observer is watching either ground lights or
+stars, but there is too little information to make a
+definite evaluation.
+11.
+BRIEF SUMMARY AND ANALYSIS
+The observer saw several round red lights every night, weathe
+permitting from 19 October 1968 till 14 December 1968.
+She
+has watched these lights for as long as 2 hours but has never
+seen them disappear.
+NO.
+The

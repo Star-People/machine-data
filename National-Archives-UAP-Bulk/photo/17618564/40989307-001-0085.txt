@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:10:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 960839, "source_ctime_ns": 1793356195918010775, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989307-001-0085.jpg", "source_mtime_ns": 1785564634000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989307-001-0085.jpg", "source_sha256": "3bb7add67c60cc6f3ea9c84df8e74f38ede959aa12eebfb3ff71b4bcc37ff2a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 345, "method": "ocr", "page": 1, "variant": "plain-vision"}
+6 00 00 001
+RECORD
+GROUP
+319
+ENTRY
+CIC HISTORY
+BOX
+3
+GSA FORM 6801-C (REV. 1.73)
+RG 319 RECORDS OF THE ARMY STAFF
+ASSISTANT CHIEF OF STAFF, G-2 (INTELLIGENCE)
+COUNTER INTELLIGENCE CORPS COLLECTION.
+HISTORIANS' MASTER COPY, 'THE HISTORY OF THE CIC IN THE
+UNITED STATES ARMY, 1917 - 1953.'
+VOL. VIII
+THRU
+VOL. XI
+BOX NUMBER
+3
+HM 1991
+SUiTIAND
+...

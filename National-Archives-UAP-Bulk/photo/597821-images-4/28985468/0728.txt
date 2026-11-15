@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:31:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5563589, "source_ctime_ns": 1793382787751011702, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985468/0728.jpg", "source_mtime_ns": 1785748145000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985468/0728.jpg", "source_sha256": "8a65070fbf624977e7b9aa4f23a375a6f7fba8ffcd3759a9f588ea6d4b4fc146"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 614, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NANN
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCL
+INCOMING
+26 N8VSęąęł
+AF IN : 58947 (27 Nov 59) N/B/mp
+ACTION#/ CIN
+INFO : OOP,
+SMD AØ16
+SAFS
+PP RJEZHQ
+DE RJEDAMF 3
+P 27153ØZ
+FM 632 RADAR SQRONAKE RAPIDS N C
+TO RJWFAL/ADC
+RJEZSN/25 AIRDIV
+RJEDSQ/AIRATECHNICAL INTELLIGENCE CENTER
+RJEZHQ/HQ USAF AFCIN
+RJEZHQ/SECRETARY OF THE AIR FORCE SAFIS
+INFO RJEDAM/WASH AIRDEFSECT
+UNCLAS FROM ODC 11096.
+SUBJECT: UFO. THE FOLLOWING INFORMATION IS SUBMITTED IN:
+REFERENCE TO PAR 15, AFR 200-2.
+A. (1) MATCH FLAME
+(2) LITTLE FINGER AT ARMS DISTANCE
+(3) PALE GREEN
+(4) ONE
+(5) NONE
+(6) FALLING STRAIGHT DOWN
+(7) NONE

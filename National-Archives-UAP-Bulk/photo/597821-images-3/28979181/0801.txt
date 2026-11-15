@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:41:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8508425, "source_ctime_ns": 1793381065321961242, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979181/0801.jpg", "source_mtime_ns": 1785700650000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979181/0801.jpg", "source_sha256": "2508b90b4a87b86311989f64ac3856da198d5523a010d1539cbdcabc6f9f7183"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 724, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+Augus
+• DATE-TIME GROU
+Local
+GM T.
+03/0230Z
+5. PHOTOS
+1958
+• Yes
+7. LENGTH OF.OBSERVATION
+30 sec to
+l min
+0. BRIEF SUMMARY OF SIGHTING
+Rnd, yellow obj, size of baseball,
+traveling in a straight path & disap-
+pearing all of a sudden.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+.. SPr OF SERVATION
+Michigan
+ExGround- Visual
+• Air Vi sual
+• Ground-Rador
+• Air-Intercept Roder
+6.' SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+•
+Was Aircraft
+Probably Aireratt
+Possibly Aircraft
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+XInsufficient Data for Evaluation
+Unknown
+| 9. COURSE
+COMMENTS VER
+not
+Insufficient data.
+ATIC FORM 329 (REV 26 SEP 52)

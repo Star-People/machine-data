@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:31:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5606769, "source_ctime_ns": 1793380292271024281, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975228/00157.jpg", "source_mtime_ns": 1785700642000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975228/00157.jpg", "source_sha256": "b64742664c5a1f2808460d3b0adab6e2e6583633a4ea1a0828d4f3342a68c063"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 450, "method": "ocr", "page": 1, "variant": "plain-vision"}
+25/1945₴
+- lifetriss
+2770V57 07 39
+RF143
+SQG168 YDA117 XYA272IXDA123JBA115
+PP RJEDDN RJEDSQ RJEPHQ
+DE RJWPJB 1G
+P 2618027
+FM COMDR 751 ACRON MT LAGUNA CALIF
+TO RJEDDN/COMDR ADC
+RJEDSQ/COMDR AIR TECH INTELL CENTER
+RJEPHQ/DIR OF INTELL HQ USAF
+R.JWPJB/COMDR 27TH ADIV
+BT
+UNCLAS 751ST 1242-J PD
+1. A. LIKE
+SIGNAL LIGHT ON SHIP. PD
+B. A (PIN PD
+C.
+WHITE PD
+D. ONE PD
+E. NAA
+F. NONE PD
+G. NONE PD
+H. NONE PD
+I. WHITE GLASS ALT. TO RED EVERY 15 SECONDS PD

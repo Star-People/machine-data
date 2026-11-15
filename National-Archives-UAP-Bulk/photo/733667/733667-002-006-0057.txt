@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:06:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 666976, "source_ctime_ns": 1793394332207665307, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-006-0057.jpg", "source_mtime_ns": 1785567355000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-006-0057.jpg", "source_sha256": "e30c98c75791c5926cd72f3b2b11203b0ff29a5dd644a5e8c9c3433104f80e2e"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 135, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+GLORIA A. ANSON P. O. BOX 7011 MODESTO, CA 95355
+Pleras send price list
+of tapes If pilot Capt.
+Terauchi's craft sightings.
+Thank your

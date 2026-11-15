@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:20:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1792350, "source_ctime_ns": 1793391850505789530, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562147/01199.jp2", "source_mtime_ns": 1785808254000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562147/01199.jp2", "source_sha256": "1bee763e96520d3da5cfc879ba3555f7d6f9d093f8e6fdf355a3422d4eccab29"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 552, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AFIN: 61201
+Pg 7 of 7
+(3) APPROXIMATELY 15 DEGREES, AZIMUTH 350 DEGREES. SEE PARA 11K
+PART 1.
+(4) PHENOMENA MOVED AT 270 DEGREES OR DUE WEST OF OBSERVERS FOR
+APPROXIMATE
+LY 10 MINUTES, MADE A 90 DEGREE TURN TO THE SOUTH PROCEEDED
+SOUTH FOR 3 MINUTES AND MADE A 45 DEGREE TURN TO THE NORTH AND DIS-
+APPEARED INTO THE NORTH-NORTHWEST.
+(5) IT DISAPPEARED BY FADING OUT OF SIGHT.
+(6) 30 MINUTES.
+ANAN
+NOTE: SEC II IS AF IN 61217 (9 Mar 67)
+FORN
+AFHQ JAM 6S 0-309C
+UNCLASSIFIED

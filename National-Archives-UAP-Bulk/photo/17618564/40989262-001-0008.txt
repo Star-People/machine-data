@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:31:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5483491, "source_ctime_ns": 1793355096208907392, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0008.jpg", "source_mtime_ns": 1785564393000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0008.jpg", "source_sha256": "394f94b046a5e43df90df8d307b63c6baac91a48ebd9bb3730eeebed27bdaf0e"}
+
+===== PAGE 1 =====
+{"alpha_words": 250, "chars": 1757, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Nautical Miles from Target Center
+11-15
+15+
+Target Time Error
+11
+5
+Accumulative %
+95
+100 (172 cases)
+Minutes
+Accumulative Percent
+0-5
+39
+72
+6-15
+33
+84
+16-30
+12
+100 (215 cases)
+30+
+16
+The record is quite impressive, but the population does include a wide
+range of altitudes (40 to 120K, 12 to 40KM) with both fixed and adjustable
+launch sites. Some targets accuracies are shown in Figure 2.
+In addition to attaining target drop areas over WSMR, cities were chosen
+as overfly targets several times.
+Other experiences saw the balloon inter-
+cepting, (in the X-Y plane) ground vehicles carrying optical targets.
+2. BASIC MISSIONS PROCEDURES
+(1) At least six to eight months in advance of the desired launch date,
+target areas and drop altitudes are agreed upon. The advance decision is
+needed to make launch site arrangements and for general coordination, parti-
+cularly with the Missile Range.
+(L) Shortly aiterwards, a climatological analysis is performed and
+launch sites are selected. Logistics of preparing large, complicated pay-
+loads usually require a single site. This limits the number of 'go days"
+but does simplify most of the other problems associated with remote operations.
+(3) On launch minus one day, a nominal launch time is selected, based on
+the fixed target time, and the forecast trajectory.
+(4) The flight is launched at an adjusted time, finely tuned to the most
+update forecast trajectory.
+(5) The trajectory is corrected during flight, if necessary, by vary-
+ing the ascent rate in significant strata, via command ballasting and valving
+of the balloon.
+(6) Target achieved, but the remaining balloon control instrumentation
+(assuming a drop of the experiment) may still have to be flown on the balloon
+to a favorable recovery area.
+28

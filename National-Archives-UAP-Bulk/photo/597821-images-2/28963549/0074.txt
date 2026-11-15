@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:25:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4088583, "source_ctime_ns": 1793377407131908273, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963549/0074.jpg", "source_mtime_ns": 1785696745000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963549/0074.jpg", "source_sha256": "2f521fdaf60c2f862db7b65e387c3752b66e2f7e1cfa1008f2a6218ba5962710"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 446, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(SECURITY INFORMATION when filled in)
+SUPPLEMENT TO AF FORM 112
+REPORT NO
+PART
+D3-UFOB-5-55 SIX
+ORIGINATING AGENCY
+Det 3, 4602d AISS
+Incl #1, PART SIX, Rept D3-UFOB-5-55
+Overlay map of sight area
+PAGE 13 OF /3
+PAGES
+Hed Hook
+X Position of rlight 33 at time of
+sighting
+Salt Point
+A Position of light 14 at tine of
+sighting
+Poughkeepsie
+Newburet
+StewAr
+AF'B
+Beacon
+Washingtonville
+Home
+chester
+New York
+Sectionel Aeronautical Chart
+Scale 1:500,00

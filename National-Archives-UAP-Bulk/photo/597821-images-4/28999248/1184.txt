@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:42:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8778953, "source_ctime_ns": 1793387824191615813, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999248/1184.jpg", "source_mtime_ns": 1785748151000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999248/1184.jpg", "source_sha256": "f49b7cd60df3ff5e367aa93f09b74df189ff7ac3e321577845085e5ed806238f"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 945, "method": "ocr", "page": 1, "variant": "plain-vision"}
+T. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+5.
+21 September
+DATE-TIME GROUP
+Local
+GHT.
+22/0200z
+PHOTOS
+1962
+Sidney
+ohio
+TYPE OF OBSERVATION
+D: Ground- Visual
+• Air Visual
+S. SOURCE
+• Ground-Rader
+• Air-Intercapt Rador
+• Yes
+2. LÉNGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+- 60
+30 seconds
+one
+10.
+BRIEF SUMMARY OF SIGHTING
+Light about brightness of brightest
+star observed in straight flight at
+constant speed, white like a dim
+light bulb, observed in North disappear
+ing below horizon in East. Brighter than
+satellite and traveling much faster.
+Two observers.
+11.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probobly Aircroft
+EXPossibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomicol
+DOI
+Other.
+Insufficient Date for Evaluation
+Unknown
+masterly
+COMMENTS
+Probable a/e in distance.
+Characteristics of sighting
+those normally expected of a/c.
+.TIC FORM 329 (REV 26 SEP S2)

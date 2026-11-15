@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:53:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 27486296, "source_ctime_ns": 1793357205478785478, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1300-494317-0004.tif", "source_mtime_ns": 1785564853000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1300-494317-0004.tif", "source_sha256": "21aaeeadda0b68610879e76514d2fd08cad862f103e71e2fdce0cb63bed24c4b"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 1039, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I
+APPROVED 1 JUNE 1948
+FROM (Agency)
+Director of Intelligence
+Hgs, Tenth Air Force
+AIR INTELLIGENCE INFORMATION REPORT
+EPORT NO.
+AFXOI FLYOBRPT 6-52
+PAGE
+OF
+2
+PAGES
+(3) 10,000' - 290°/20 knots
+(4) 14,0001 - 2809/18 knots
+(5) 20,0001 - 260/10 knots
+(6) 25,000' - 2300/15 knots
+(7) 30,000* - 2800/34 knots
+(8) 35,000' - 2900/52 knots
+(9) 40,000+ - 2900/48 knots
+(10) 45,000' - 290/57 knots
+(11) 50,000+ - 2900/42 knots
+5. The reporting officer evaluates the sighting as jet aircraft.
+george H. Jonzeur
+1. JANCZE
+2nd It.
+USAF
+Director of Intelligence
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.—
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+Declassification Authority: NND 57565

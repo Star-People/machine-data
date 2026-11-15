@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:33:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5762055, "source_ctime_ns": 1793363010536884283, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0071.jpg", "source_mtime_ns": 1785685128000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0071.jpg", "source_sha256": "56301df7f430e8c1d7ea247a0d4e831d0ef0777b852a6ceb759d670880b09db3"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 619, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIALO
+3d Dist., File 24-0-112, Subj: Unidentified Flying Object, Harrisburg, Pa.,
+Approximately 1954, Sighted by HAROLD J. TAYLOR, Treasurer, Hillers Hutual
+Fire Insurance Co., Harrisburg, Pa.
+S/A GOING stated that if they received additional information
+relating to this subject, he would so advise this office.
+2. A search of the files of DO #3 were negative with reference to
+Subject.
+3. This memorandum is classified CONFIDENTIAL pursuant to the authority
+contained in paragraph 30c (2) (a), AFR 205-1.
+DAVID E. BALES
+Lt. Colonel, USAF
+District Commander
+CONFIDENTIAL
+Declassification Authority: NND 923007

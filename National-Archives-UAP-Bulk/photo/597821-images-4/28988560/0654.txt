@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:38:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7104861, "source_ctime_ns": 1793384016335740337, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988560/0654.jpg", "source_mtime_ns": 1785747956000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988560/0654.jpg", "source_sha256": "493dd81a3cd1866088fb4a6eb31f9f019897bc0596c942d50384d1c9ed2833f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 367, "method": "ocr", "page": 1, "variant": "clean-vision"}
+RJEDFJ/COMDR SELFRIDGE AFS MICH
+BT .
+UNCLA FSH-27-21 UFO
+A. /1/ OVAL
+/2/ UNK
+/ 3/ BROWNISH
+/4/ ONE
+/5/ N/A
+/6/ THREE LIGHIS IN A LINE
+/7/ UNK
+/3/ NONE
+/9/ NONE
+PAGE TVO RJEDSO 33F
+› /1/ OBSERVING ECHO SATELLITE
+/2/ OVCRHEAD
+/ 3/ UNKNOWN
+/4/ NORTH TO SOUTH
+/ 5/ UNKNOWN
+/6/ TWO /2/ MINUTES
+• /1/ GROUND VISUAL
+/2/ UNKNOWN
+/ 3/ N/A
+. /1/ 0430Z 27 AUGUST 1968
+/2/ NIGHT

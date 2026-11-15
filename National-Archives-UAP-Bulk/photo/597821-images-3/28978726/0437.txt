@@ -1,0 +1,123 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:37:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7001262, "source_ctime_ns": 1793380895146690004, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978726/0437.jpg", "source_mtime_ns": 1785700955000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978726/0437.jpg", "source_sha256": "f95bb44c2826a92850d6e91108850c7a010a063d3873cafcacfd82f77f11f012"}
+
+===== PAGE 1 =====
+{"alpha_words": 196, "chars": 1689, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+111
+1
+• 2
+2
+- 2
+- 3
+~5
+>7
+• 18
+~ 8
+v9
+- 10
+• 10
+• 11
+• 11
+• 11
+· 12
+→ 12
+• 12
+V 12
+~13
+V13
+· 13
+· 14
+• 14
+·14
+V24
+- 15
+DATE
+4-5
+11
+1 - 15 JULY 1958 SIGHTINGS
+OBSERVER
+LOCATION
+EVALUATION
+Little Neck, New York
+Other (UNRELIABLE REPORT)
+Springfield, Ohio
+Astro
+(METEOR)
+Philadelphia, Pennsylvania
+Astro (METEOR)
+Astro (ARCTURUS)
+Norfolk, Virginia
+E of Ascension Island
+Steamship African Planet Astro (METEOR)
+Columbia, South Carolina
+Astro (METEOR
+W of Germantown, Ohio
+Astro (STAR)
+White Cloud,. Michigan
+Falloon
+31;30N 70.30W (Atlantic)
+Civilian & M11 Aircraft Astro (METEOR)
+Seattle, Washington.
+Insufficient Data
+• Uruguay
+Astro (METEOR)
+Beaver Falls, Pennsylvania
+Insufficient Data
+W of Boreland, Michigan
+Astro (METEOR)
+Devils River, Texas
+Ea lloon
+Massilon, Ohio
+Insufficient Data
+Kentucky, Tennessee, Indiana
+Multi
+Astro (METEOR)
+Other (ILLUSION)
+Billings, Montana
+Lincoln, Nebraska
+• (PHOTO)
+Other (REFLECTIONS)
+Amarillo AFB, Texas
+Military
+Aircraft Tests
+Etain AFB, France
+Military
+Satellite (SPUTNIK III)
+13 Mi SW of Buffalo, Wyoming
+Balloon
+Randolph AFB, Texas
+Military
+Satellite (SPUTNIK III)
+Michigan, Ohio
+Multi
+Satellite (SPUTNIK III
+Dayton, Ohio
+Aircraft
+Wellington, Randolph AFB, Texas
+Pan Am, Military
+Satellite (SPUTNIK III)
+Grand Rapids, Michigan
+Insufficient Data
+St Louis, Missouri
+Aircraft
+Xenia, Bellbrook, Ohio
+Astro (VENUS)
+Seoul, Korea
+Civilian
+Insufficient Data
+Pyongteak Aux Afld, Kores
+Military
+Insufficient Data
+SW of Bermuda
+Multi
+Astro (METIOR)
+Oliver Springs, Knoxrille, Tennessee
+Satellite (SPUrNIK III)
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+LOCATION
+SOURCE
+EVALUATION
+North Carolina Coast
+Silver City, Texas
+American Meteor Society
+Newsclipping

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:24:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3951193, "source_ctime_ns": 1793376170946909132, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959552/01028.jpg", "source_mtime_ns": 1785696711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959552/01028.jpg", "source_sha256": "66d92b46179189e2aceb960986c1f6d3f44a4b884dbcea18e56b3d3fb553292e"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 366, "method": "ocr", "page": 1, "variant": "plain-vision"}
+BWPC/COMDR COMWESTSEAFRON
+JEPHQ/C/S USAF WASH DÇ
+CIRVIS REPORT FD AF 9052 B25 EDW C4 ABQ PD AF 9752 OVR PRC
+1853M SIGHTED A FLYING SAUCER VCNTY CLARKDALE ARIZ AT 1858M
+FLYING EAST TO WEST AT 110 PD BRIGHTLY LTD PD CLZD DISTANCE FASTER
+THAN JET TYPE ACFT PD THIS IS A PRELIMINARY REPORT PD REPORT RECD
+FROM ASQ ARTC 1302312 MARCH FLT SVC CENTER
+18/ 2502 SEP JWFRH
+NI

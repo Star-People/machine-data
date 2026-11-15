@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:22:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3532693, "source_ctime_ns": 1793380743159993869, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978209/1304.jpg", "source_mtime_ns": 1785700995000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978209/1304.jpg", "source_sha256": "7a4695c6d02c89377feba7552ff2436e2efc2f7c0685fd8a9d01ea3bdd0fdc05"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 816, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+13-14 May 1958
+3. DATE-TIME GROUP
+Local
+GM T
+5. PHOTOS
+not reported
+•Y•s Physical
+B No
+Specimen
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Willis,
+Virginia
+4. TYPE OF OBSERVATION
+C Ground- Visual
+• Air Visual
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+not observed
+multiple
+0. BRIEF SUMMARY OF SIGHTING
+Peeces of foil found on ground near
+house. Believed to have fallen during
+the night. Sent to ATIC for analysis.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+• Air-Intercept Radar
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+9. COURSE
+axather_Chaff
+Insufficient Data for Evaluation
+found on ground
+Unk no wn
+11. COMMENTS
+Pieces of chaff used in Radar jam-
+ming.
+ATIC FORM 329 (REV 26 SEP 52)

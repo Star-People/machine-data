@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:12:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1034259, "source_ctime_ns": 1793390091869441485, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546419/0662.jp2", "source_mtime_ns": 1785808292000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546419/0662.jp2", "source_sha256": "b2627172128df9410e4f3baa0ab93997a8e19b1c40b8c6fa0db3924607b99074"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 965, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Information Only
+Source:
+Saucer Neva, Vol 13, 71, Mar 6á
+ME States & Part Canada
+9 December 1965
+On the afternoon of December 9th,
+a mysterious fireball made its way
+across seven northeastern states and
+part of Canada,
+and was sightad by air-
+line pilots as well as by hundreds of
+other people. Strange metal strips were
+found in a swamp 40 miles north of Detroit,
+and a large woodad area about 30
+miles from Pittsburg, Pa.
+was sealed off
+for several hours
+while a thorough
+search for debris
+was made by hundreds of members
+of the Army's 662nd Rada:
+Squadron, state police, and volunteers.
+Nothing was found, however. Officials
+state
+that a meteorite was probably
+the cause of it all, but the times in-
+volved indicate that the object was travaling much too slow for a meteorite.
+There is also evidence that it changed course in flight.
+(N.Y. Journal-Ameri-
+сал, 12/10/65;
+The Jersey City N. J. Journal, 12/10/65; Duluth, Minn.
+Naws -
+Tribune, 12/10/65; UPI; etc.)

@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:34:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6168370, "source_ctime_ns": 1793380136533336430, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974674/1117.jpg", "source_mtime_ns": 1785701054000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974674/1117.jpg", "source_sha256": "2d2cd62baa22771ec613f03bf41188540c05d3975d80ac8a36a9a80b40ed20dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 925, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+.2
+November
+DATE-TIME GROUP
+Local.
+1957
+GM T.
+13/02412
+5.
+• PHOTOS
+• Yes
+XO No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+105
+4.
+_Angeles, California
+TYPE OF OBSERVATION
+a Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+CIV
+3A1L
+8. NUMBER OF OBJECTS
+5 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Round, bright white
+size of
+a pea.
+Traveling NW to SE.
+out of sight.
+object Disappeared
+12. CONCLUSIONS
+D
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+OXInsufficient Data for Evaluation
+Unknown
+9. COURSE
+NY to SE
+11. COMMENTS
+Winds were from NW. Description
+points to object being balioon
+which are generally released
+around 1800 hours. Also possible
+a/c. Also possible Venus. Motion
+not included in report.
+Insuffi-
+cient data.
+ATIC FORM 329 (REV 26 SEP 52)

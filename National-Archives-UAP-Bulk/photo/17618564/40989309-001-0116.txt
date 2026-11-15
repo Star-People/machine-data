@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:11:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 964290, "source_ctime_ns": 1793356219992555851, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989309-001-0116.jpg", "source_mtime_ns": 1785564641000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989309-001-0116.jpg", "source_sha256": "9d0dc84dc7e7a45f8a32dbd18ec3d869ca3fa145f60429c862d8ab09edf775ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 85, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT
+
+BLUE
+BOOK
+
+1 FEBRUARY 1966
+
+This document is part of an unclassified series

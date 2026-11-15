@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:28:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4752840, "source_ctime_ns": 1793373047186175707, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0518.jpg", "source_mtime_ns": 1785688723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0518.jpg", "source_sha256": "65ea73fefebf95e1cf7e0df31e8607a2e343e99e1499544fcd7815434c52bb90"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 653, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WERE
+TIME SINCH
+SC
+23. POSSIBLE B
+IV. BALLOON DATA
+RELEASE:
+L Yes
+//hes: Minutes
+UNCH SITES DOWNWIND OF SIGHTING:
+lon
+Type
+Launching Agency
+Yes
+_ NO
+Describa
+Il ghting
+8 •
+Regedian
+12.3, N.
+C•
+de
+21. EVALUATION OF SOURCE:
+Excellent
+1 Good
+MI Fair
+- Poor
+- Unreliable
+Extremely Doubtful
+Hoax
+23. PINAL EVALUATION:
+_ Was Balloon
+- Probably Balloon
+Possibly Balloon
+Was Airoraft
+]Probably Aircraft
+Possibly Aireraft
+attach overlay)
+V. EVALUATION
+22. DETAILS OF REPORT:
+| Good
+I Fair
+1 Poor
+Insufficient to Evaluate
+] Was Astronomical
+| Probably Astronomical
+Other:
+Insufficient Data For Evaluation '
+• Unknown
+24. COMMENTS:
+ATIC Test Forn 334, (13 Aug 52)

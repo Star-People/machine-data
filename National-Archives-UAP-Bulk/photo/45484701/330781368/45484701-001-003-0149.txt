@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:31:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5499362, "source_ctime_ns": 1793361803331966597, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0149.jpg", "source_mtime_ns": 1785685143000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0149.jpg", "source_sha256": "31f7ff9b2e6b2695ff70bf7ecd35b4dc71c486a6c12cd4413705dabf43c36e87"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 990, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CO**
+FEADQUARTERS
+AIR MATERIEL COMMAND
+MOTMXO
+Wright Field, Dayton, Ohio
+21 Jan 1948
+Institute of Meteoritics
+University of New Mexico
+Albuquerque, New Mexico
+ATTENTION: Dr. Lincoln LaPaz
+Gentlemen;
+Reference is made to the secrecy agreement executed by
+your company and to the personnel security questionnaires sub-
+mitted for persons within your organization who require access
+to classified information in connection with the submission of a
+bid or the performance of a contract for the Air Materiel Command.
+Consent as required by AR 380-5 for employment on work covered
+by United States Air Force contracts classified secret or top secret,
+is hereby GRANTED in the case of the following
+one
+United
+States citizen (s):
+LaPaz, Lincoln Dr.
+Very troly yours,
+/s/t/ J. F. McCLENDON
+Colonel, USAF
+Adjutant General
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THO
+BY
+KURT K. KUNZE, Capt, USAS
+Historian
+• DE G- 1975
+DATE
+OF SPEC
+008, 4
+mel # 3
+UNCLASSIFIED
+Declassification Authority: NND 923007

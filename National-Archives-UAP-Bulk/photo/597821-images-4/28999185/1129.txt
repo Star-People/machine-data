@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:42:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8784789, "source_ctime_ns": 1793387793165930661, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999185/1129.jpg", "source_mtime_ns": 1785748576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999185/1129.jpg", "source_sha256": "5cb7d906beda5c3b7fcb6014e44b27a117b1b3ca555008e65e160f8805f14844"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 866, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+| 12. CONCLUSIONS
+Was Balloon
+18 September 1962
+Wake
+Island
+Probably Balloon
+3. DATE-TIME GROUP
+4.
+TYPE OF OBSERVATION
+Possibly Balloon
+Local _
+• Ground- Visual
+GM T.
+18/10552
+X Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+-5. PHOTOS
+6. SOURCE
+• Yes
+7. LENGTH OF OBSERVATION
+& Civilian Airline o
+NUMBER OF OBJECTS
+(Tower
+Personnel)
+COURSE
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Satellitr
+Decay
+sufficient Data for Evaluatio
+Unknown
+not reported
+one breaking
+BRIEF SUMMARY OF SIGHTING
+oralling
+object sighted
+in one piece
+breaking up. Extremely bright. Ground
+observation of same phomena of
+incandescent objects numerous
+grouped of various sizes falling at ly
+acute angle apparently entering
+atmosphere fm SSW.
+NNE
+11. COMMENTS
+Probable decay of space debris.
+ATIC FORM 329 (REV 25 SEP 52)

@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:33:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5801977, "source_ctime_ns": 1793381562557588410, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980671/00712.jpg", "source_mtime_ns": 1785700841000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980671/00712.jpg", "source_sha256": "921eeead342164d96375969ec90d16de42d29328456da8dae688fa982375e709"}
+
+===== PAGE 1 =====
+{"alpha_words": 224, "chars": 1486, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 5
+25. Where were you lucated when you saw the object?
+(Circle One):
+26. Were you (Circle One)
+Inside a building
+In a-car
+Outdoors.
+In an airplone
+At sea
+f. Other
+In the business section of a city?
+In the residential section of a city?
+In open countryside?
+d.
+Flying near an airfield?
+e.
+Flying over 1 city?
+27. What were you doing at the time you saw the object, and how did you happen to notice it?
+Dri
+відне !
+28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+28.1 What direction were you moving? (Circle One)
+a•
+North
+East
+b. Northeast
+d. Southeast
+South
+Southwest
+g. West
+h. Northwest
+28.2 How fast were you moving?
+miles per hour.
+28.3 Did you stop at any time while you were looking at the object?
+(Circle One)
+Yes
+29. What direction were you looking when you first saw the object? (Circle One)
+a.
+North
+b. Northeast
+• East
+d. Southeast
+South
+iạiSouthwest
+g. West
+h. Northwest
+30. Whot direction were you looking when you lost saw the object? (Circle One)
+North
+b. Northeast
+East
+d. Southeast
+South
+Southwest
+g. West
+1. Northwest
+31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was
+from true North ond also the number of degrees it was upward from the horizon (elevotion).
+10-15°
+31.1. When it first appeared:
+a. From true North
+b. From horizon.
+degrees.
+45" degrees.
+31.2 When it disappeared:
+a. From true North
+b. From horizon
+degrees.
+30° degrees.

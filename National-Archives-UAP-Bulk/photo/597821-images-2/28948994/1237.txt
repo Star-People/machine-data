@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:25:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3990021, "source_ctime_ns": 1793373857277938619, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948994/1237.jpg", "source_mtime_ns": 1785696876000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948994/1237.jpg", "source_sha256": "f2cf1c426c461b226b397d886e798bf8c3a270c40ca8544999ecac5b25b6b7fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 735, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IV. BALLOON DATA
+21.
+WERE BALLOONS RELF
+CASED IN AREA?
+22.
+TIME SINCH SCHEDULED BALLOON RELEASE:
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+Location
+Зура
+51 No
+Minutes
+Launching Agency
+Lighted?
+Yea No
+JeSC110
+a.
+b.
+C.
+21. EVALUATION OF SOURCE:
+1 Excellent
+_.. Cood
+_J Fair
+„J Poor
+- Unreliable
+J Extremely Doubtful
+.] Нозх
+23. FINAL EVALUATION:
+_ Was Balloon
+C]Probably Balloon
+_J Possibly Balloon
+.. Was Aircraft
+-Probably Aircraft
+_ Possibly Aircraft
+(attach overlay)
+V. EVALUATION
+22. DETAIIS OF REPORT:
+1 Good
+| Fair
+1 Poor
+| Insufficient to Evaluate
+] Was Astronomical
+DO Probably Astronomical
+_ Posslbly Astronomical
+_ Other:
+- Insufficient Data For Evaluation
+_ Unknown
+24, COMMENTS:
+ATIC Tost Form 33, (13 Aug 52)

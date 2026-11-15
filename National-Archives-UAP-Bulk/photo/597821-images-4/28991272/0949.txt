@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:39:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7357038, "source_ctime_ns": 1793384879251716227, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991272/0949.jpg", "source_mtime_ns": 1785748406000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991272/0949.jpg", "source_sha256": "5e44aea8de91fd3ba7a863a2ad0738f72e625b3dd80c0617a2c59225bfa070a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 936, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 2470 (31 Jan 61)
+PAGE THREE RJDIKF 1
+Fo
+HELAN T. JOHNSON, 1ST LT, 57TH FIS PILOT B-6
+KEITH M. BRATTON, CAPT. 57TH FIS RADAR OPERATOR B-6
+G.
+WEATHER AND WINDS--ALOFT CONDITIONS AI TIME AND PLACE OF
+SIGHTINGS.
+(1) CLEAR
+(2) ALTITUDE
+SURFACE
+DIRECTON
+060 DEGREES T
+6,000
+10,000
+16,000ł
+20,000Ś
+30,000
+50, 000Ś
+80,000
+090 DEGREES T
+080 DEGREES T
+050 DEGREES T
+060 DEGREES T
+120 DEGREES T
+270 DEGREES T
+260 DEGREES T
+VELOCITY
+10 KNOTS
+15 KNOTS
+15 KNOLS
+10 KNOTS
+1ø KNOTS
+1ø KNOTS
+4Ø KNOTS
+100 KNOTS
+Page 3 of 5
+TEMPERATURE GRAD.
+2 DEGREES CNT.
+-6 DEGREES CENT.
+-15 DEGREES CENT.
+-29 DEGREES CENT.
+-41 DEGREES CENT.
+-61 DEGREES CENT.
+-55 DEGREAS CENT.
+-61 DEGREES CENT.
+H. NONE
+I. SEE K BELOW
+J. SEE K BELOW
+K. COMMENTS OF THE PREPARING OFFICER:
+INTELLIGENCE TECHNICIAN, M/SGI ROBERT F. PLYMPION. BASE
+CONTROL TOWER, 932ND AC&W SQUADRON AND DET 13, 9TH

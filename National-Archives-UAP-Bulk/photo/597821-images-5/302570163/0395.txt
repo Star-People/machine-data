@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:08:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 777538, "source_ctime_ns": 1793392737960280384, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570163/0395.jp2", "source_mtime_ns": 1785808136000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570163/0395.jp2", "source_sha256": "e218104413670dedcec6582f93e829d820b8a9171b4e51f6b691d9915cf6f8f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 993, "method": "ocr", "page": 1, "variant": "plain-vision"}
+4. Description of flight path and maneuvers of objects):
+Stationary
+5. How did the object (s) disappear:
+Unknown - (in trees over a pond. Witness drove to a better view point
+and object disappeared).
+6. How long were the object (s) visible:
+5 seconds
+C. Manner of Observation:
+1. Use one or any combination of the following items: Ground-visual,
+air-visual, ground-electronic, air-electronic:
+Ground visual.
+2. Optical Aids: (i.e., binoculars, telescopes):
+Eye .
+3. If the sighting occurred while airborne, give type of aircraft, identification
+number, altitude, heading, speed, and home station:
+D. Time and Date of Sighting:
+1. Greenwich date-time group and local time:
+• 1110Z 2 Oct 67
+0710L
+2. Light conditions (use one of the following terms: Night, day, dawn, dusk):
+Dawn
+E. Location of Observer (s): (Give exact latitude and longitude coordinates of each
+observer, and/or geographical position):
+4125N 7357W
+F. Identifying Information on Observer (s):
+1. Military or Civilian:
+Civilian

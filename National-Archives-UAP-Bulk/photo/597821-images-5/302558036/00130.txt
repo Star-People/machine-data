@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:20:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1761113, "source_ctime_ns": 1793391345182492508, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558036/00130.jp2", "source_mtime_ns": 1785808269000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558036/00130.jp2", "source_sha256": "9cdf2a76eb49695271545a34311415a17b556d80ca1f163653b35b98857a419b"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 667, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN : 47512 (3 Nov 66)
+Pg 4 of 4
+G. ONE POINT TWO DEGREES CENTIGRADE PER THOUSAND FEET TO
+FIFTY THOUSAND FEET.
+8. ANY OTHER UNUSUAL ACTIVITY OR DONDITION: NO INVERSION.
+9. INTERCEPTION OR IDENTIFICATION ACTION TAKEN: NONE.
+10. LOCATION OF AIR TRAFFIC AND BALL CON RELEASES: UNKNOWN.
+11. POSITION TITLE AND COMMENTS OF THE PREPARING OFFICER:
+PAGE 4 RUCIHNA0033 UNCLAS
+INTELLIGENCE OFFICER. OBJECT SEEN ON COLD NIGHT OVER LAKE
+SUPERIOR, SO LOCAL ATOVOSPHERIC DISTURBANCE IS POSSIBLE, OBSER-
+VER'S STORY SOUNDED COHERENT.
+12. PHYSICAL EVIDENCE. NONE.
+NANN
+AFHQ
+JAN 65Ù
+0-309C
+UNCLASSIFIED

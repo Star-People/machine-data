@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:07:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18267910, "source_ctime_ns": 1793358617511129792, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-003-0003.tif", "source_mtime_ns": 1785681150000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-003-0003.tif", "source_sha256": "d326780c7f15a6203c64d8bf46a0e10cf7bdae4e334e1bdad4d3a76c1cf9f17f"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 423, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE THREE RUWP JM 87
+SURFACE /320/12K
+6000/222/15K
+12800/229/15K
+16000/180/25K
+20000/240/25K
+30000/250/45K
+52000/270/80KÍ
+80002/NEG/NEG
+C. NO CEILING
+D. 12M
+E- NA
+8 NEGA
+9. N/A
+10. NEO
+11•
+STAFF INTEL OFF/POSS FALLING STAR/NO KNOWN ACFT IN VICINITY OR
+OTTER AIRBORNE OBJECTS/SIGHIING NOT CONFIRMED BY OTHER SOUCES.
+12. NEG
+BT
+13/223SZ SEP RJWPJM
+TRGR UR 002 IS TH-5 -) IS THAT ALLRGR

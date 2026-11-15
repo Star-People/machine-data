@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:22:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3188100, "source_ctime_ns": 1793376541277799888, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961074/0979.jpg", "source_mtime_ns": 1785696537000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961074/0979.jpg", "source_sha256": "1c05b91cb5c54356b54bc78c40e760d68447d7a20ea9130d1f8ebf92eea1f02a"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 41, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+and uh Nixon's uh Villa's down there:
+25

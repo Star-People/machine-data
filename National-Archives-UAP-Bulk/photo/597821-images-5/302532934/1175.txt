@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:10:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 910493, "source_ctime_ns": 1793388811925372315, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532934/1175.jp2", "source_mtime_ns": 1785808094000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532934/1175.jp2", "source_sha256": "0ebb124640152e6e363a69e6728f5fa0636b56e1c525d55de040a9bccddf385d"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 910, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+17 May 64
+3.
+DATE-TIME GROUP
+Local
+GM T
+18/0310Z
+5. PHOTOS
+• Yes
+9 NO
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Wilmington, Ohio
+4. TYPE OF OBSERYATION
+& Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+civilian
+8. NUMBER OF OBJECTS
+20
+minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Very white light in sky traveling from West
+to East. Light not visible to Two AF tower
+personnel in Aree. WP reported negative and
+Clinton County AField reported no lights
+visible.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+a
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomica
+9. COURSE
+Insufficient Data for Evaluation
+Unknown
+East
+11. COMMENTS
+Not observed by tower personnel in area.
+Case considered as misinterpretation of
+some conventional object since light
+not visible to tower operators.
+ATIC FORM 329 (REV 26 SEP 52)

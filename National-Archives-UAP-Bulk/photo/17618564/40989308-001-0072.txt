@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:15:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1464845, "source_ctime_ns": 1793356202522880055, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0072.jpg", "source_mtime_ns": 1785564636000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0072.jpg", "source_sha256": "50e88ac939044f718194dea42aa44da2600a8a7bb102561c05088eacae83b846"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1664, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NOTES
+2•
+70
+I1.
+12.
+130
+Research Division, College of Engineering, New York University,
+Technical Report No. 1 (New York, 1 April 1940), Table VII.
+Ibid., P. 1.
+New York University's balloon operations are described in the
+report cited above; in Research Division, College of Engineering,
+New York University,
+Technical Report No. 93.03, Constant
+Level Balloons Final Report (New York, 1 March 1951); and also,
+passim, in Progress Summary Report on U.S.A.F. Guided Missile
+Test Activities (HAFB, published monthly 1 November 1947-1 June
+1950).
+Cf. Visit of General Joseph I. McNarney Commanding General
+Air Materiel Command to Holloman Air Force Base 9 April 19483"
+Progress Summary Report, 1 August 1948, p. 26.
+Progress Summary Report, 1 October 1948, pp. 16, 22; later
+issues, passim.
+Progress Summary Report, 1 May 1949, pp. 31-33.
+Progress Summary Report, 1 March 1949, p. 38, and 1 February
+1950, p. 60.
+Progress Summary Report, 1 May 1949, Pp. 31, 32 and 1 May 1950,
+p. 65; interview, Ir. Bernard D. Gildenber & Chief, Balloor
+Control Section, Balloon Branch, AFMDC, by Dr. David Bushnell,
+AFMDC Historian, 9 September 1958; 1tr., Maj. Richard i. Braun,
+Chiei, Balloon Development Laboratory, AFORC, to Cmdr., APDC
+(attention: Dr. Bushnell), subj.: "Air Force Missile Development
+Center Balloon Launching History," 15 January 1959.
+Interview, Mr. Gildenberg by Dr. Bushnell, 9 September 1958.
+6580th Test Squadron (Special), Flight Summary, Non-Extensible
+Balloon Operations ... June 1950 to October 1954.
+Interview, Mr. Oildenberg by Dr. Bushnell, 18 December 1958.
+Balloon Branch, "Statistical Summary of First 1000 AFMDC
+Flights," 12 January 1959%
+Ibid.
