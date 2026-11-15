@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:39:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3632524, "source_ctime_ns": 1793373416366815931, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946758/0634.jpg", "source_mtime_ns": 1785688935000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946758/0634.jpg", "source_sha256": "c044b1bda7f1aa3a02429ebce7d83fa8226215d32c52c64b8c3a6e1b1dd14a5f"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 382, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+575TH AIR BASE GROUP
+SELFRIDGE AIR FORCE BASE, MICHIGAN
+BINT 319.1
+SUBJECT:
+Tranamittal of FLYOBRPT
+5 ACC 1952
+TO:
+Chief, Air Technical Intelligence Center
+ATIN:
+ATIAA-2C
+Wright Patterson Air Force Зазе
+Ohio
+The Inclosed report (FLYOBRPT) is forwarded in compilance with
+AFR 200-5.
+FOR THE COMMANDING OFPICER:
+2 Inels:
+1. AF Form 112, Part I.
+2. AAF Form 112, part II.

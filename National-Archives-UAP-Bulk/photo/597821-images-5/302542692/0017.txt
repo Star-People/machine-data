@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:25:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 962614, "source_ctime_ns": 1793389674566491551, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542692/0017.jp2", "source_mtime_ns": 1785808582000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542692/0017.jp2", "source_sha256": "c4f1dabfb443e54db4cfbe03d2d41edc24c91831ac71102bcd432adbb1e6f64b"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 670, "method": "ocr", "page": 1, "variant": "plain-vision"}
+16 angs. 60
+Mrs. Hunt/man/SAFOICC/72842/14 Sep 65
+SEP 1 5 1965
+ear И. а
+Your observation on the night or 16 August 1965 hee been
+evaluated as a satellite. The erratic flight can be attributed
+to an illusion as one light passes another or to atmospheric
+conditions such as a temperature inversion which could cause
+the object to appear to have such an arratic movement.
+Sincerely,
+JOHN P. SPAULDING
+It Colonel, USAF
+Chef, Civil Branch
+Commity Relations Division
+office of Information
+th
+Little Rock, Arkansaa 72204
+COURDINATED By (Office Symbol, Name, Crade, Date)
+SAF-OILE
+SAF-OIC
+Sk
+socia cy
+Comebk. cy
+Reader cy
+Activity
+Stayback
+SAFOI-2
+SAFOI -2
+* SAFOI-1
+- SAFOI -2

@@ -1,0 +1,116 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:54:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6340006, "source_ctime_ns": 1793355072646364948, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0008.jpg", "source_mtime_ns": 1785564388000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0008.jpg", "source_sha256": "f3a4502f3579fbb9c3df9244a78700853adb189b69f8e9376a7e23c26c9e4c47"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1136, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Date
+Jun 2, 1975
+Jun 13, 1969
+Jun 2, 1964
+Jun 25, 1968
+Jun 13, 1970
+Jun 18, 1969
+Jun 5, 1973
+Jun 28, 1979
+Jun 9, 1971
+Jun 23, 1976
+Jun 22, 1973
+Jun 20, 1974
+Jun 14, 1965
+Jun 25, 1976
+Jun 4,
+1973
+Jun 19, 1976
+Jun 2,
+1966
+Jun 7, 1968
+Jun 25,
+1979
+Float Altitude
+100K
+100K
+100K
+99K
+97K
+94K
+93K
+92K
+91K
+90K
+90K
+89K
+85K
+70K
+70K
+69K
+68K
+64K
+63K
+Float Duration
+26⅔Hrs
+4½Hrs
+26Hrs
+3⅔Hrs
+5Hr s
+' 3Hr s
+10Hrs
+3Hr s
+6Hrs
+5½Hrs
+4½Hrs
+4½Hrs
+6⅔Hrs
+4½Hrs
+5½Hrs
+3½Hrs
+6Hrs
+5⅔Hr s
+4Hrs
+Payload Impact Area
+37 mi. WSW of PHX
+17 mi. NW of HMN
+12 mi. SSE of Ray, AZ
+35 mi. SSE of TCS
+58 mi. NW of TCS
+9 mi. E of HMN
+25 mi. NW of HMN
+33 mi, SE of TCS
+43 mi. NW of TCS
+35 mi, NW of TCS
+40 mi. W of DMN
+5 mi. NE of Bayard, NM
+50 mi. NNW of HAFB
+1 mi. S of Three Rivers,
+20 mi. E of HMN
+12 mi. NE of HAFB
+4 mi. SW of Riverside, N
+20 mi. SSE of ABQ
+12 mi. SW of HAFB
+Jul 20, 1978
+Jul 18, 1966
+Jul 19,
+1963
+Jul 7, 1976
+Jul 12, 1966
+Jul 28, 197ęŚ
+Jul 28, 1979
+131K
+125K
+122K
+120K
+118K
+115K
+115K
+6⅔Hrs
+4½Hrs
+6Hr s
+5Hrs
+4½Hrs
+8Hr s
+8¼Hrs
+63 mi. W of TUS
+20 mi. S of CZG
+15 mi. NE of Ajo, AZ
+6 mi. WNW of GBN
+20 mi. S of PHX
+26 mi, WNW of Buckeye, A
+12 mi. W of GBN

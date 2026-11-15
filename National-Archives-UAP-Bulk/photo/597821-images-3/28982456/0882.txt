@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:51:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5655108, "source_ctime_ns": 1793382026969220109, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982456/0882.jpg", "source_mtime_ns": 1785700978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982456/0882.jpg", "source_sha256": "975dea2e669d19d137823c0bbaddf4183becbe895a1824eca41fa073d1d1d804"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+DATE-TIME GROUP
+Local
+GM T
+5. PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air- Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+not given
+8. NUMBER OF OBJECTS 9. COURSE
+12. CONCLUSIONS
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomicol
+Probably Astronomical
+Possibly Astronomical
+• Other
+D Insufficient Data for Evaluation
+Unknown
+not given
+seve
+10. BRIEF SUMMARY OF SIGHTING
+Sever
+1 fireba
+were seen eV
+for a veek, but only one at a time.
+night
+Coge
+were first observed as a red glow of fire
+at about 70° above horizon.
+not given
+11. COMMENTS
+Info is very limited in nature
+precluding on anslyete of the rpt.
+ATIC FORM 339 (REY 26 SEP 52)

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:56:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7117548, "source_ctime_ns": 1793377328338249002, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963289/1291.jpg", "source_mtime_ns": 1785696716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963289/1291.jpg", "source_sha256": "d2b271e8062b881e11a55a8a156583ac072321c85eb7ea7f2b012f0750001fad"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 387, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJEDNG 1H
+I. NEG
+A• NEG
+5. NEG
+C• NEG
+D. ASCEND DESCEND LIMITED AREA
+E. NEG
+F• 2 HRS APPRX
+A. GROUND VISUAL
+B. BINOCULARS
+C• NA
+A. 1523Z 26 AUG 55
+B. NIGHT AND DAY
+3, GOC POST MUSCATINE, IOWA
+39 YRS,
+UNK,
+LAURENCE GOW, UNK,
+STORE
+MUSCATINE, IOWA, STATE REP
+USCATINE, IOWA, SALESMAN
+MUSCATINE, IOWA, MGR PAINT
+PAGE THREE RJEDNG 1H
+EDWARD GOSMELL, UNK, UNK, ALOURNETTA, IOWA, UNK

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:22:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 792413, "source_ctime_ns": 1793393880554943717, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302581707/1084.jp2", "source_mtime_ns": 1785808089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302581707/1084.jp2", "source_sha256": "701c6514b28aad5580d2373c6c86ff8d04d71c1491ee555335cec5ac64d55816"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 495, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. BATE - TIME GROUP 11/210
+2. LOCATION
+69 12/020pz
+SOURCE
+10. CONCLUSION
+Astro (VENUS)
+Kettering, Ohio
+NUMBER OF OBJECTS
+Civ
+5.
+LENGTH OF OBSERVATION
+15
+es
+6. TYPE OF OBSERVATION
+- Vic:
+BRIEF SUMMARY AND ANALYSIS
+The obse
+ver sighted a bright ligho, similar to a
+protograp
+hers light in the SW.
+The light seemed to
+have colors underneath it.
+COURSE
+8.
+PHOTOS
+• Yes
+n- No
+PHYSICAL EVIDENCE
+• Yes
+3- No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous aditions
+of this form may be uaad.

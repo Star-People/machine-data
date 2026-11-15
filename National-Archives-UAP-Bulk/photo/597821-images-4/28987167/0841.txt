@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:57:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7637478, "source_ctime_ns": 1793383510438875034, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987167/0841.jpg", "source_mtime_ns": 1785748494000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987167/0841.jpg", "source_sha256": "89fa10e2d3cbda52a458ba33874b68dbb7e22978806ba05dce36595d80387664"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 763, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN :
+ACTION:
+INFO
+:
+NANNNNNNN
+SMD C 36
+CZCHQC862ZCBJA087
+YY RJEHZQ
+DE RBHPPH 051
+Y 051458Z
+FM COMHAWSEAFRON OCC
+TO RBHPB/CINCPACFLI
+INFO REEPM/CNO
+RBEPW / SECNA VV
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+8230 (5 Jun 69) COMPN G
+ARMY, NAVY, JCS, OSD, NSA, CIA, CMC, OOP, OOP-CP,
+вико
+RBHPA/CINCPAC
+RJWFALE/CINCNORAD ENT AFB CCOLO
+RJEZHQ/COFS USAF WASH DC
+RUHPB/CINCUSARPAC
+RBHPQ/COMHAW SEA FRON
+RB HPD /COMA SDE FOR PAC
+RBW PPG/COMWEST SEA FRON
+RBHPJ/CCGD FOURTEEN
+NAVY GRNC.
+BT
+CIRVIS EVALUATION X COMHAWSEAFRON OCC 051113Z X NO THREAT X
+SUBSEQUENT REPORTS FROM FLIGHTS THROUGH TARGET AREA INDICATE MO
+UNUSUAL RADAR TARGETS X EVALUATION ATMOSPHERIC PHENOMENON.
+ВГ
+CFN 051113Z
+05/1459Z
+SAFS
+NOTE : Adv cy del to OOP-CP, and CIN.

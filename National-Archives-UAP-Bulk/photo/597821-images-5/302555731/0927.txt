@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:31:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1685486, "source_ctime_ns": 1793391131832417780, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555731/0927.jp2", "source_mtime_ns": 1785808423000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555731/0927.jp2", "source_sha256": "c635dc4e83221b4d15cebd2228aeef8bfc76b7646c90d4442bb7e6de8a6218f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 317, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Dear dir:
+the best of my ability.
+When I filled this gage die und not d
+and some thinge I didnt underatonel so semethings
+may not be filled eut like you want it.
+W hen I put down strum thats the address
+it was at thit time but now we haul sacred into Quinner
+NorthPuteste about 16 miles from forner home.
+Yours truly

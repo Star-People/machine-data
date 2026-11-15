@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:04:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13620960, "source_ctime_ns": 1793358532982880562, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-036-0003.tif", "source_mtime_ns": 1785681120000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-036-0003.tif", "source_sha256": "3ec123761be0a8f2f118421b9b3d0c12f2555ff2964ef07e7c8a505554339771"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 981, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+075
+ROR TNKS
+= 30%
+ENO 86
+EVA062YDC014 XYA113 XOC02SJBA032J3E817
+EDEN SEA SEPH JAPA
+M 251713Z
+FM COMOR 669TH ACRON PORNUE CALIF
+TO JEDEN/COMDR ADC ENT AFB COLO
+JWPA9/COMOR 27TH ADIV DEF NORTON AFB CALIF
+JEDWP/COMDR AIR TECH INTEL CEN PARB OHIO
+JEPHO/DIR INTEL HOTRS USAR WASHOC
+TAF NOR UPAPA CALIF
+ВГ
+/UNCLASSIFIED/S69ACWS 075-Y PO UFOS PO 1 PD A PO OVAL PD B PD DIME PO
+C PO WHITE PO O PO ONE PO E PO N/A PO F PO NEGATIVE PO G PD NEGATIVE
+DO H PO NEGATIVE PO I PO NEGATIVE PO 2 PO A PO VERY FAST PD B PO VERY
+HIGH PO C PO NORTH-NORTH WEST PO D PO STRAIGHT LINE AND FADED FROM
+SIGHT POLE PD TWENTY FIVE MILES PO F PO FORTY FIVE SECONOS PO 3 PO A PO
+CROIND VISUAL PO 4 PO A PO 2320057 A2O 35 DO 3 PO LIGHT MAZE 2O S
+4026 PO 6 PD A PD4
+CAM HOLLYWOOD CMM CALIF PD 7 PO A PO N/A PO B PD SCATTERED
+CLOUDS AND LIGHT HAZE OVER HOLLYWOOD PO 8 PO NEGATIVE PO 9 PD NEGATIVE
+PO 10 PO NEGATIVE PO 11 PO NEGATIVE PO 12 PO NEGATIVE PD
+Эт
+25/1712Z APR JWPJB

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:04:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11402339, "source_ctime_ns": 1793367114445378623, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0116.jpg", "source_mtime_ns": 1785565656000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0116.jpg", "source_sha256": "df316cb4c4faa24a97b7d4d078d400c0b6c9632675bb59cf839b89a1a4dd16c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 49, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+IEZ
+59
+101
+20
+OI
+• ZI
+8
+9
+9I
+Özi
+OIZ
+OEZ
+ODZ
+OiE

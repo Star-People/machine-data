@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:41:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3859292, "source_ctime_ns": 1793373603664818000, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947771/0076.jpg", "source_mtime_ns": 1785688795000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947771/0076.jpg", "source_sha256": "8899bee2b4e6869cc57fa7bb2428f1b0295eb917cb8d0df56545e6f459a3ab22"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 777, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+LOCATION
+7 Aug 52
+DATE
+IME GROUP
+Lose: 07/0002.:
+EST
+07/0505 Z
+CH T
+PHOTOS
+C Yes
+XXX No
+LENCTH OF OBSERVATION
+BR
+30 Min.
+I SUMMARY OF SIGHTH
+DETROIT, MICHIGAN
+TYPE OF OBSERVATION
+KGround- Visuol
+Ci Ground-Radar
+•O Air-Vi wo
+"SOURCE
+0l Air-Intarcept Rader
+Civilian Man
+NUMBER OF OSJECTS
+9. COURSE
+11. COMMENTS
+Object the size of a 'arge star, white
+in color and chan ping intermittently to red,
+appeared motionless for 15 - 20 minutes, then
+roved out of sight.
+1..
+2.
+12.
+CONCLUSIONS
+Has Balloon
+Probably Balloon
+a
+Passibly Salicon
+Was Aircraft
+Prabably Aircraft
+OX Possibly Aircraft
+Was Astronom
+icol
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evalua
+Unkne wr
+Jets in area.
+Airfield in area.
+ATIC FORM J29 (REV 26 SEP S2)

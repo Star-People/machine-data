@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:37:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2503777, "source_ctime_ns": 1793362572875390809, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783159/45484701-003-002-0114.jpg", "source_mtime_ns": 1785684835000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783159/45484701-003-002-0114.jpg", "source_sha256": "21e8fa8331d156f0456106dcfa58d3ac255af9505978afbcfdabee2b19e3c69a"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 808, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+HEADQUARTERS
+58D FIGHTER¿INTERCEPTOR WING
+Otie Air Force Base
+Palmouth, Nassachusetts
+AS 452.1
+SUBJECT: Reporting on Unconventional Aireraft
+6 SEE 1901
+TO :
+Commanding General
+Air Materiel Command
+right-Patterson Air Force Base
+Layton, Ohio
+ATTENTION:
+-GIS
+AP371079
+In socordance with letter Headquarters, Eastern Air Defense Force,
+subject "Reporting of Information on Unconventional Aireraft", 19 Feb-
+ruary 1961, File INT 452.1, attached repert from 188d Pighter-Interceptor
+Squadron, Grenier Air Force Base, is forwarded herewith.
+FOR THE COMMANDING OPPICER:
+WARREN H. SCHWAB
+1, USAF
+1 Inel
+135d Ftr-Intep Sq rpt
+NO, ADC, Attay Dir of intel
+CO, EADF, Attn: Dir of Intel
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF
+PY
+Sael 3
+CONFIDENTIAL
+UNGI
+51S-152422-B
+Declassification Authority: NND 923007

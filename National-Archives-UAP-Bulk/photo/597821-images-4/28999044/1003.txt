@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:59:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8868052, "source_ctime_ns": 1793387717915164929, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999044/1003.jpg", "source_mtime_ns": 1785748253000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999044/1003.jpg", "source_sha256": "95b32ab11965659816ca03013076e949b30accd23a50563aa783cb90c8ac0f74"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 1010, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1l September
+1962
+3. DATE-TIME GROUP
+Local
+GMT.
+11/14302
+5. PHOTOS
+• Yes
+R No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Madisonville,
+Kentucky
+4. TYPE OF OBSERVATION
+KE Ground-Visual
+C Air Visual
+• Ground-Radar
+D Air-Intercept Radar
+S. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+1 hour 30 minutes
+multiple
+10. BRIEF SUMMARY OF SIGHTING
+Substance
+falling from atmosphere with
+appearance of spun glass. Fiber like
+substance in great quantity 1100 local.
+observation from 0930
+until
+Gassamer floating with
+15 mph wind.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+D
+Probably Astronomica
+Possibly Astronomicol
+gs Other.
+Spider
+Gossamer
+Insufficient Dota for Evaluation
+Unknown
+9. COURSE
+falling
+11. COMMENTS
+Migrating spiders observed by
+biology
+students and proffessors
+at local institutions. Witness
+recontacted and confirmed pre-
+sence of spiders with particles
+of gossamer.
+ATIC FORM 329 (REV 25 SEP 52)

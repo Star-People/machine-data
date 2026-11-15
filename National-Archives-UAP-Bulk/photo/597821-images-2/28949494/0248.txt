@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:41:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3868978, "source_ctime_ns": 1793373956747916180, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949494/0248.jpg", "source_mtime_ns": 1785696919000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949494/0248.jpg", "source_sha256": "db6293916557b8c1fd6e4ed755db3658a0703bd26669389a4388344ea8e4aa40"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 807, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IV. BALLOON DATA
+2L. WERE BALLOONS RELEASED IN AREA
+22. TIME SINCH SCHEDULED BALLOON RELEASE!
+23. POSSIBLE BALLOON LAUNCH SIYES DOWNWIND OF SIOHTING:
+Location
+Type
+Deli
+RA
+ETYes
+30 Minutes
+Launching Agency
+AWS
+Describe
+Tighting
+b.
+d.
+21. EVALUATION OF SOURCE:
+- Excollent
+La Good
+•J Fair
+L Poor
+• Unreliable
+•Extronoly Doubtful
+1 Hoax
+25. PINAL EVALUATION:
+- Was Balloon
+C Probably Balloon
+- Possibly Balloon
+-Was Airoraft
+•Probably Aircraft
+• Possibly Aircraft
+(attach overley)
+V. EVALUATION
+22. DETAILS OF REPORT:
+| Good
+Prair
+• Poor
+I Insurficient to Evaluate
+] Was Astronomical
+] Probably As.r nomical
+• Possibly Asianomical
+- Other:
+• Insufficiont Data For Evaluation
+LEt Unknown
+24. COMMENTS:
+He mone repaito are varied. Undoubtediy some
+make ensluations difficult.
+ATIC Test Form 334 (13 Aug 52)
+...

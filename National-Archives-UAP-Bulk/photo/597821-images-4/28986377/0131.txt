@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:59:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8794961, "source_ctime_ns": 1793383126065462136, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986377/0131.jpg", "source_mtime_ns": 1785748313000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986377/0131.jpg", "source_sha256": "356ee98301f06a61e010acca843c27bce10d877f0e066b3b089a0abf12bf6763"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 765, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+apriL 1051
+3. 1
+ATE-TIME GROU
+Locai
+GMT.
+5. PHOTOS
+DYes Physical
+Specimen
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+LOCATION
+Salem,
+_Arkansas
+TYPE OF OBSERVATION
+2K Ground- Visual
+D Air- Visual
+SOURCE
+D Ground-Rodar
+D Air-Intercept Redor
+Civilian
+8. NUMBER OF OBJECTS | 9.
+COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+0
+Wes Aircraft
+Probably Aircroft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Chaff
+Insufficient Data for Evaluatio
+Unknown
+not reported
+multiple
+10. BRIEF SUMMARY OF SIGHTING
+Letter reporting presence of metal
+strips found on ground. Enclosed
+sample for analysis.
+on ground
+11. COMMENTS
+Strips of foil were chaff, used
+in Radar janning.
+ATIC FORM 329 (REV
+SEP 52)

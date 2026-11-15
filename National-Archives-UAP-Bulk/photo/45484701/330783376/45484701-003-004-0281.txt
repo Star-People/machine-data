@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:43:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4070989, "source_ctime_ns": 1793362732352729930, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0281.jpg", "source_mtime_ns": 1785685020000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0281.jpg", "source_sha256": "f596a5e0bd44d2d25d9aa7e530ae98e55778f5f19352c424a6e6c932636c3b77"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 583, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO ROUTING SLIP
+1 NAME OR TITLE
+NEVER USE FOR APPROVALS, DISAPPROVALS,
+CONCURRENCES, OR SIMILAR ACTIONS
+INITIALS
+CIRCULATE
+ORGANIZATION AND LOCATION
+DATE
+file
+4
+COORDINATION
+FILE
+INFORMATION
+NECESSARY
+ACTION
+NOTE AND
+RETURN
+SEE ME
+SIGNATURE
+REMARKS
+pe a
+(24- 185) a
+tom - al
+Fils re.
+53
+00
+X755328
+UNITED STATES AIR FORCE
+TUE INSI
+TOR GENERAL, 1
+Ост 17
+15 35'5ął
+FROM NAME OR TITLE
+ORGANIZATION AND LOCATION
+DATE
+TELEPHONE
+FORM
+DD 1 FEB 50 95
+Replaces DA AGO Form 895, 1 Apr 48, and AFHQ
+Form 12, 10 Nov 47, which may be used.
+16-48487-1 GPO
+Declassification Authority: NND 923007

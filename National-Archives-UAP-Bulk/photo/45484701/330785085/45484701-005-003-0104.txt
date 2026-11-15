@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:55:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7072299, "source_ctime_ns": 1793363364325747930, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0104.jpg", "source_mtime_ns": 1785684914000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0104.jpg", "source_sha256": "02b3d7ab263d7950fa09579cbb78de4511cfec6e82964a2e8dcd355bd1dc9a76"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 115, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OUT
+
+a
+AO
+
+DIV.
+OS!
+
+-
+fii >
+FSA 7
+
+Cv |
+me te  #, i/g)
+
+“Oo
+
+MANAGEMENT
+
+NND 923007
+
+ty
+
+Declassification Authori

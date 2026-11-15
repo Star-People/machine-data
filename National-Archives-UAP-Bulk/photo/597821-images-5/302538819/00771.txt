@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:35:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1741602, "source_ctime_ns": 1793389283965287414, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538819/00771.jp2", "source_mtime_ns": 1785808234000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538819/00771.jp2", "source_sha256": "8b0c4568e69fd5e3f9aeee7ce211f99c81c1c39c576a3fa3fa532398fee21a3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 117, "method": "ocr", "page": 1, "variant": "plain-vision"}
+BEDFOLO, OMO .
+Mra Buat/SAFOICC/72842/21 Jun 65
+22 Ju 65
+STATIVE LTAIS08, SAP-08
+• Dres
+soply to-ma
+Mia an tha acone

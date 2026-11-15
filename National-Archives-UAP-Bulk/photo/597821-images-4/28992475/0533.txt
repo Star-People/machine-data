@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:42:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3970639, "source_ctime_ns": 1793385254313632536, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992475/0533.jpg", "source_mtime_ns": 1785748330000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992475/0533.jpg", "source_sha256": "7556d4bfed6c7703655492560bf4a2ba7ef791e4c239241101b8f1bd0e785c8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 714, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+AF IN: 49831(11 May 61) IN C 0 M/N°°G
+ACTION: CIN-14
+INFO :
+ARMY -30, 00P-CP-1
+SAFS-3,
+002-CR-1 CMC(217)CS-35, OSD-15, NSA-7, CIA-11, 00P-2,
+To: AT'e
+→ain
+Film. Jenja
+SMB B 269
+ZCZCHQA608 ZCCJA8 92
+.. ...
+YY RJEZHQ
+DE ROFYAW 191
+ZNR
+Y 112204Z
+FM DEEP 76/CUW2
+TO RJFYQH/COMUSFORAZ LAJES FLD AZORES
+RJEZHQ/COFS USAF WASH DC
+RJWFALB/CINCNORAD ENT AFB COLO
+CIRVIS MSG/SIGHTED VERY BRIGHT FAST MOVING OBJECT AT 2056Z 3742N
+0042E INTENSITY OF STAR SIRIUS MEASURED ALT 59 DGRS 49 MINUTES 15
+SECONDS MOVING WEST TO EAST TRUE BEARING 202 DGRS THE OBJECT IS AS
+BRIGHT AS THE STAR SIRIUS
+BT
+11/221ØZ MAY ROFYAW
+NOTE: Advance cy del to 00P-CP at 112218Z

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:58:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8342665, "source_ctime_ns": 1793387844759634055, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999288/1224.jpg", "source_mtime_ns": 1785747887000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999288/1224.jpg", "source_sha256": "a5e4f97a5889b6e4103f9cc60278796863e038b6d9159a9aaed25502e7be0db5"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 419, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+1127TH USAF FIELD ACTIVITIES GROUP
+FORT BELVOIR, VIRGINIA
+REPLY TO
+AT TN OF:
+SUBJECT:
+9 NOV 1962
+AFCIN-1B2
+Report of Unidentified Flying Object
+TO:
+FTD
+Wright-Patterson AFB Ohio
+Forwarded in accordance with AFR 200-2.
+FOR THE COMMANDER
+JAMES E. LAZENBY
+Colonel, USAF
+AFCIN- 18..
+1 Atch
+Ltr, SMUPA-VE-0063, US Army
+Munitions Command, Dover, N.J.,
+30 Oct 62, Subj: Rpt of UFOB
+Copy to
+AFSC w/o Dopplet Chart

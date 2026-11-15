@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:29:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1444076, "source_ctime_ns": 1793393186481062503, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0403.jp2", "source_mtime_ns": 1785808393000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0403.jp2", "source_sha256": "5e5cb4b1acf8e48e47495bb14c6a7247ced013b4b0d37df39c496bc8cf5ac7c0"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 758, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNIVERSITY of PENNSYLVANIA
+PHILADELPHIA 19101
+Flower and Cook Observatory
+Dear Colonel Quintanilla;
+Following my last letter of a few
+days ago, I have recomputed the orbit of the March 3,1968, ob-
+Ject, putting in the curvature correction with the proper sign.
+Fortunately it does not change the text in any respect nor the
+atmospheric path, only the last 6 lines need change with data
+on the orbit. I will now put the figures in as they should be:
+Radiant corrected
+a 52 n -7°
+R.A. 58°
+Decl. - 32
+Parabolic orbit: Inclination
+18"
+Long Ascending node
+164°
+Long. Perihelion
+327*
+Perihelion distance
+0.93 A.U.
+I regret the necessity of having
+to ask that you make the corrections, but fortunately they
+are at the very end.
+Sincerely your
+Narberth, Pa. is c72.

@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:21:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 690818, "source_ctime_ns": 1793392748993303366, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570407/0496.jp2", "source_mtime_ns": 1785808039000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570407/0496.jp2", "source_sha256": "6424775baae826216aaeff7b990d686ebda930358116e598ac672040fd2490d0"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 770, "method": "ocr", "page": 1, "variant": "plain-vision"}
+J 19677
+TDFT (UFO) Maj H Quintanilla, Jr/70916/1sb/1 Dec 67
+Uro Observation, October 4, 1967
+Lawrencedurg, Indiana 47025
+l. This replies to your request for an evaluation on your unidenti-
+fied flying objects (Uros) sighting of October 4, 1967. It is prob-
+able that you observed Echo I, since at 8:52 pm, EDT the satellite
+was at 88 degrees longitude and 40 degrees latitude (Wester Indiana)
+and should have been visible from your position. The satellite was
+going southeast and approxinately five minutes later; at 8:57 pm,
+it passed into the earth's shadow.
+2. Thank you for reporting your observation to the Air Force.
+TDPT (UFO) OFFICIAL FILE CY
+ECTOR qUINTANIA, Jr, MAJOr, USAF
+Chief, Aerial Phenomena Office
+Aerospace Technologies Division
+Production Directorate

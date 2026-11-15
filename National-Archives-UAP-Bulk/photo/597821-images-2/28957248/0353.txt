@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:48:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4958435, "source_ctime_ns": 1793375688433930882, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957248/0353.jpg", "source_mtime_ns": 1785696824000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957248/0353.jpg", "source_sha256": "912df3b312563f88bd8f7b0c4396abb7cbdf40286bebb33211cd5129ad0f9f8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 714, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1954-1956
+3. DATE-TIME GROUP
+Local
+Day
+GMT.
+5. PHOTOS
+XO Y•.
+• No
+LENOTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+LOCATION
+Shreveport, Louisiana
+TYPE OF OBSERVATION
+RixGround- Visual
+1) Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+civilian
+ẠỊNUMBER O
+two
+OBJECTS
+9. COURSE
+....
+11. COMMENTS
+12. CONCLUSIONS
+Posity Belon
+Was Aireratt
+a
+Probably Aireraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomica
+Possibly Astronomica
+ax Other Birds
+Insufficient Date for Evalua
+•
+Unknown
+10. BRIEP SUN
+MARY OF SIGHT
+Letter received in 1958 of sighting of objects
+photographed during the period of 1945-1956.
+Photo analysis shows objects to be
+birda on rise, probably pheasanta
+ATIC FORM 329 (REV 26 SEP 52)

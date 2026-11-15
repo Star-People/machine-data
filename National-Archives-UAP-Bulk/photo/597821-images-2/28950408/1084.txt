@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:41:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3900730, "source_ctime_ns": 1793374139667232403, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950408/1084.jpg", "source_mtime_ns": 1785696443000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950408/1084.jpg", "source_sha256": "e91b65b3bf4b5fc9169dc2085f0bb8477c9bac52efea2f70214d3cf8977dd715"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 787, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+12 Oct 5e
+PATE-TIME GROUP
+Local 12/21001
+12/12008
+GRAT
+5. PHOTOS
+O YA
+LENOTH OF OBSERY
+5 min
+one
+WEARY CE
+Source flying at approx 8000' at speed 160
+knots made : left turn. During turn the
+RO visually observed a reddish-orange ball of
+light. Pilot speeded up for intercept.
+Light appeared to descend, fade away to the N
+at speed twice as fast as a/c. Radar return
+was negative.
+PROJECT 10073 RECOKD CARD
+LOCATION
+HUNGNAK, NORTH KOREA
+PYFE OF COSERVATION
+C Ground. Visual
+I Ain Visual
+SoURCE
+Ci Ground • Radar
+AF Pilot and radar observer
+COURSE
+or Kadur
+y 12 CONCLUSIONS
+Was Balloon
+Probably Balcon
+Possibly Belicon
+a
+Nas Airsicit
+Probably Airerat
+Possibly Airero!
+Was Astrononrical
+Probably Astronomical
+Ci Possibly Astropemical
+In suf:
+O ink.
+11. CON
+ATIC FORM J29 (REV 26 SPP S2)

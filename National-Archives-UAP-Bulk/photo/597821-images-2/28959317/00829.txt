@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:43:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4379927, "source_ctime_ns": 1793376115981135521, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959317/00829.jpg", "source_mtime_ns": 1785696552000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959317/00829.jpg", "source_sha256": "fdf1070bd824220f5d114d319c0a0fcac3e239c7ab571bd93aacd5714a303ac8"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 906, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+13 Aug 1954
+3. DATE-TIME GROUP
+Local
+GM T
+NOT GIVEN
+5. PHOTOS
+• Yes
+X• No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Staver, Norway
+4. TYPE OF OBSERVATION
+i Ground-Visual
+• Air Visual
+6. SOURCE
+D Ground-Radar
+• Air-Intercept Radar
+Military
+and
+8. NUMBER OF JECT CİT. COUR
+COURSE
+Stationary for 7 Min
+1
+10. BRIEF SUMMARY OF SIGHTING
+The object remained stationary for seven
+minutes and then disappeared at a speed many
+times that of
+sound. Object was round, lower
+surface flat.
+Appeared like silver or
+aluminum
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+•
+a
+Probably Astronomical
+Possibly Astronomical
+08
+Other
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+Insufficient data. Second hand report.
+W/Rpt. IR204-54 UFO-AA Norway - On file
+in ATIC repository.
+ATIC FORM 329 (REV 26 SEP 52)

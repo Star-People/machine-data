@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:27:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1014588, "source_ctime_ns": 1793356083684928217, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0242.jpg", "source_mtime_ns": 1785564602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0242.jpg", "source_sha256": "7789b2c9ae22a7aca437baba9e9f8225c46c341222756d588d1d7ef64e57f161"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 164, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Le)
+O
+x
+nl
+[a
+=)
+”
+7)
+ul
+a
+a
+tr
+4
+wi
+VU
+al
+us
+a.
+
+400
+
+500
+
+NYU BALLOON PROJVECT
+CALIBRATION CURVE
+For OtLaNno Pressure MODULATOR
+N2 L-404
+
+CA9-5
+Fee. 24,1949 LHM

@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:08:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19723228, "source_ctime_ns": 1793356778347441364, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0401.tif", "source_mtime_ns": 1785564756000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0401.tif", "source_sha256": "e74f3637e3775a4ca4728d039df5098f9a81547e8105d20f741bdd709ebf56de"}
+
+===== PAGE 1 =====
+{"alpha_words": 365, "chars": 2277, "method": "ocr", "page": 1, "variant": "plain-vision"}
+the chance that Martians, under such widely divergent condi-
+tions, would have a civilization resembling our own is ex-
+tremely remote. It is particularly unlikely that their
+civilization would be within a half century of our own state
+of advancement. Yet in the last 50 years we have just started
+to use aircraft and in the next 50 years we will almost
+certainly start exploring space.
+Thus it appears that space travel from another point within
+the Solar system is possible but very unlikely. Odds are at
+least a thousand to one against it.
+This leaves the totality of planets of other stars in the
+Calaxy as possible sources. Many modern astronomers believe
+that planets are fairly normal and logical affairs in the life
+history of a star (rather than cataclysmic oddities) so that
+many planets can be expected to exist in space.
+To narrow the field a little, some loose specifications can
+be written for the star about which the home base planet would
+revolve. let us say that the star should bear a family re-
+semblance to the Sun, which is a member of the so-called "main-
+sequence" of stars, 1.e., we eliminate white dwarfs, red giants
+and supergiants.
+For a description of these types, see refer-
+ence 2, chapter 5.
+There is no specific reason for making this
+assumption except to simplify discussion:
+we are still consider-
+ing the majority of stars.
+Next, true variable stars can be eliminated, since conditions on
+a planet attached to a variable star would fluctuate too wildly
+to permit life. The number of stars deleted here is negligibly
+small.
+Reference 3, pages 76 and 85 indicate that the most
+common types are too bright to be in nearby space unnoticed.
+Lastly, we shall omit binary or multiple stars, since the condi-
+tions for stable planet orbits are obscure in such cases.
+About
+a third of the stars are eliminated by this restriction.
+As our best known sample of space we can take a volume with the
+Sun at the center and a radius of 16 light years. A compilation
+of the 47 know stars, including the Sun, within this volume is
+given in reference 4, pages 52 to 57. Eliminating according to
+account for 16 stars and two trinaries account for 6 more.
+remainder, 22 stars, can be considered as eligible for habitable
+30
+Declassification Authority: NND 57565

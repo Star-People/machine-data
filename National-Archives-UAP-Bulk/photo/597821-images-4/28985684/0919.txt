@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:47:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4775222, "source_ctime_ns": 1793382856226326847, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985684/0919.jpg", "source_mtime_ns": 1785748391000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985684/0919.jpg", "source_sha256": "f18d37ec366432b481f9550cef35e9afc6dd2e099ea2bb03f2d978ad2417689f"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1120, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+HisJanuary, 1960
+3. DATE-TIME GROUP
+Local -
+GNT.
+01252
+5. PHOTOS
+D No
+7. LENGTH OF OBSERVATION
+Not stated
+10. BRIEF SUMMARY OF SIGHTING
+Plaming object generally described as
+by a large number of persons, both Military
+and Civilian from locations ranging from
+Aluth, Minnesota to Cheyenne Wyoming. Most
+of the information was put on a tape record-
+ing at March APB, Calif, however little info
+could be gained as most of it was garbled.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+North Dakota, Minnesota, Wyoming
+4. TYPE OF OBSERVATION
+a Ground-Visual
+Xe Air- Visual
+• Ground-Radar
+D Air-Intercept Radar
+6. SOURCE
+Military and
+8. NUMBER OF OBJECTS
+11 an
+9. COURSE
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolloon
+Was Aircraft
+Probobly Aircraft
+D
+Possibly Aircraft
+Was Astronomical
+loteor
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+Not given
+11. COMMENTS
+Object reported as a meteor.
+Sighting
+has no information which would tend to
+indicate that this was anything other
+than a meteor observation.
+Duluth
+Maistrom - Set Smith
+ATIC FORM 329 (REV 25 SEP 32)

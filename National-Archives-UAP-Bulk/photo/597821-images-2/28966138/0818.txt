@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:46:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4741784, "source_ctime_ns": 1793377951824502565, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966138/0818.jpg", "source_mtime_ns": 1785696752000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966138/0818.jpg", "source_sha256": "c7c40b59d6c815a59bc1af390dd498d105046146a99f4da718bbd5551e1a3449"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 644, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ Witness
+-9 JUL 1956 07 00 -
+NNNN WPA#38 YD 8002 TY8035 TMA 26NYA 10
+PP RJEDEN RJEDWP RJEPHQ RJEPNE
+Z4E4
+DE RJEPNY 12
+P 0905532
+FM HQ 26TH ADIV ROSLYN AFS NY
+TO RJEDEN/COMDR ADC ENT AFB COLORADO
+RUEDWP/COMDR AIR TECH INTEL CEN WRIGHT PATTERSON AFE OHIO
+RJEPHQ/DIR OF INTEL HO USAF WASH 25 DC
+RJEPNB/COMDR DET 3 4602ND AISS STEWART AFD NY
+ROEPNB/COMDR FLT 3 4602ND AISS STEWART ALE NY
+INFO RJEPNB/COMDR EADF STEWART AFF NY
+BT
+/UNCLASSIFIED/CITE NBR 4698. ATTN: CIC EADF. SUBJ: UFAOB.
+1. (A) RED CHANGING TO WHITE BACK TO RED
+(B) N/A
+(C) RED AND WHITE
+(D)
+1
+(E)
+N/A
+(F)
+N/A
+(G)
+N/A
+CHO
+N/A
+<I)
+LATER BECAME TWO SEPERATE LICHTS ONE RED ONE WHITE

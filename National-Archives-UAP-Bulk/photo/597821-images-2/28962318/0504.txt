@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:00:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9054931, "source_ctime_ns": 1793376943684078025, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962318/0504.jpg", "source_mtime_ns": 1785696692000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962318/0504.jpg", "source_sha256": "486e5e9b9a3d5c3c908a3c83642a15cfc4d1b8088274dd16e472529004bffb42"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 847, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO, RJEPJR 1D
+2. (A› NO SPECIAL REASON FOR FIRST SIGHTING OF OBJECT' OBSERVER IS
+ALWAYS ALERT FOR ANYTHING FLYING OVER POST.
+(B) NO INFO
+(C) NO INFO
+(D) LEVEL FLIGHT PATH
+(E) OBJECT FADED OUT OF SIGHT
+(F) APPROX. 12 MIN
+3. (A) GROUND VISUAL
+(B) NONE USED
+(C) N/A
+4. (A) 2320Z/4JUN 1955
+(B) DAYLIGHT
+3. (A) PL 9716
+O •
+FEELTON' PA. STUDENT.
+NO ADDRESS GIVEN GOC PO T SUPERVISOR.
+7. (A) WINDY BROKEN CLOUD COVER
+(B) PK AREA 5.200 FT. 360/20 KNOTS
+23.202
+020/55 KNOTS
+33. 232
+022/63 KNOTS
+40. 003
+220/63 KNOTS
+PAGE THREE RJEPJR 1 D
+(C) APPROX 25.002 FT BROKEN
+(D) APPROX 10 MILES
+(E) NO INFO
+(F) NONE
+8. THERE IS AN NAVAL DEPOT IN VIC. OF HARRISBURG. POSSIBILITY THAT SOME
+OPERATION THERE MAY HAVE BEEN REASPONSIBLE FOR INCIDENR.
+9. NO INTERCEPT
+12.
+11. F.
+E. BULLIARD 2LT USAF DUTY CONTROLLER AT TIME OF INCIDENT.
+12. NO PHYSICAL EVIDENCE.
+BT

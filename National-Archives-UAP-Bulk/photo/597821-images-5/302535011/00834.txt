@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:33:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1710635, "source_ctime_ns": 1793388994307674855, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00834.jp2", "source_mtime_ns": 1785808582000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00834.jp2", "source_sha256": "19782d155ac20d2648228eae5a621774f3bbfa161b2978d079def5502e25463c"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1122, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NO CASE (INFORMATION ONLY) REPORT OF SHIP IN AREA 37N 74W 18 AUGUST
+* INCOMING
+MESSAGE
+SMS BØ16
+HQAU5 9ZCCJA066
+00 RUEAHQ
+DE RUCKDW 504 18/235 9Z
+ZiN R
+0 1 82 35 9Z
+FM CCGDF IVE
+TO RUCKHC/C INCLANTFLT
+ỊDEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+AF IN : 6623 (19 Aug 64) E/am
+ACTION: NIN-7
+INFO: XQP-1, XOPX-5, SAF-OS-3, NAVY-2,
+ARMY-2, CMC-9' (102)
+JCS-35, OSD-15,
+NSA-7, DIA -15
+RUC SBRB/C INCSAC
+RUCK DT /COM ASWF ORLANT
+RCCSC/CANA IRDEF
+RCEOM /C ANCOM ARL ANT
+RUEGUH/COM EAST SEAFRON
+RUEASN/26TWO SIX NORAD
+INFO RUECJD/COMDT COGARD
+RUEG UF /COM EAST AREA
+UNCL AS
+MERINT. FOLLOWING REPORT RECEIVED BY COAST GUARD RADIO STATION
+PORISVA FROM SS P C SPENCER KLDJ AT 18235ØZ
+QUOTE SIGHTED STEEL TRAWLER ABOUT 100 FEET LONG TWO MASTS MANY
+ANTENNAS INCLUDING TWO RADAR AND TWO DIRECTION FINDING TYPES
+POSITION 3658N 7439W 2245Z GREY HULL WHITE DECK HOUSE NO NAME
+NUMBER OR HOME PORT ON HULL ABOUT 15 MEN SEEN ON DECK SOME WORKING
+WER THE SIDE APPARENTLY PAINTING VESSEL MAKING NO HEADWAY. RED AND
+WHITE BUOY ABOUT ONE MILE SOUTH OF TRAWLER UNQUOTE
+AT NOTE: 10 per A 1392 4345
+Readdressed to CIA, Immediate,

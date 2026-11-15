@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:55:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7055074, "source_ctime_ns": 1793381786579296204, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981612/0113.jpg", "source_mtime_ns": 1785700761000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981612/0113.jpg", "source_sha256": "d31b2ee9099e0d48064640df6b9a204e116430fe87b7deb6f703c0b830a563e6"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 913, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2 Jan 52
+3. DATE-TIME GROUP
+Local
+GM T.
+03/01007
+5. PHOTOS
+• Yos
+D-No
+7. LENGTH OF OBSERVATION
+7 min
+10. BRIEP SUMMARY OF SIGHTING
+Stationary red ball or light in the sky,
+color changing from red to silver to amber,.
+Size somewhat like a grupefruét. Obj had up
+and down movement and was moving in fast
+circles.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Anniston, Alabama
+4 TYPE OF OBSERVATION
+It Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Rador
+• Air-Intercept Radar
+Civilian Guards
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Has Balloo
+Probably Balloon
+Possibly Balloon
+•
+Nas Aircrat
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomica
+Possibly Astronomica
+Other
+DOXInsufficient Date for Evaluation
+Unknown
+NW to SW
+11. COMMENTS
+Although there is a possibility
+the obj was a reflecton, there is in-
+sufficient information to form
+valia conclusion.
+ATIC FORM 329 (REY 26 SEP S2)
