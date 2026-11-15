@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:36:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1713978, "source_ctime_ns": 1793389295391219682, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538931/00905.jp2", "source_mtime_ns": 1785808521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538931/00905.jp2", "source_sha256": "cf91ab16da359acf916e2b5a4adb2014f2e1d887ab222c9e0c526db59c0c73c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 369, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ALLEGANY BALI
+STICS LABORATORY
+OR IRATED BY
+HERCULES POWDER COMPANY
+NCORFORATEI
+P. O. BOX 210 • CUMBERLAND, MARYLAND 21501
+Safety Is Contagious
+ChICA I!!
+Attention: Major Hector Quintanilla, Jr.
+Headquarters
+Foreign Technology Division
+Air Force Systems Command
+United States Air Force
+Wright-Patterson Air Force Base, Ohio
+EN
+HER. 16827 5M 9-65 17089
+PRINTED IN U.S.A

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:10:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17604088, "source_ctime_ns": 1793357737994646311, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1625-558206-0002.tif", "source_mtime_ns": 1785564964000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1625-558206-0002.tif", "source_sha256": "c65db122786bfab586d67e6ecd749dcafb457a054c7062cfdaffee8380cd9362"}
+
+===== PAGE 1 =====
+{"alpha_words": 303, "chars": 1829, "method": "ocr", "page": 1, "variant": "plain-vision"}
+P. 0. Box 545
+Ft. Davis, Texas
+April 20, 1953
+Civil Aeronautics Administration
+Communications Branch
+Marfa Air Field
+Marfa, Texas
+Dear Sir:
+Yesterday, on April 19th, about 1:20 P.M., while observing a
+vapor trail just west of Ft. Davis, from horizon to horizon,
+and from northwest to southeast, I observed an object which
+appeared to be floating just west of the vapor trail, about half-
+way between Ft. Davis and your air field at Marfa.
+I at first thought it may have been a balloon released by the
+plane that made the vapor trail, as it appeared to be about the
+same altitude, but was not of a spherical shape like an ordinary
+balloon, and perhaps larger, somewhat oblong in shape, The object
+then appeared to descend somewhat and resemble an eagle or buzzard
+sailing, but was much too high for such; but still appeared to
+drift about like a buzzard and to hover at times. The object then
+began to swing in an arc toward the north with great acceleration,
+and short pointed wings became visible, as it passed over, at per-
+haps half the altitude of the vapor trail.
+It continued to accelerate until the speed became uncanny and much
+greater than any jet plane I have ever seen. All the while it
+appeared to be an amber color. There was no sound whatsoever and
+no vapor trail. It followed a course a little west of north and
+disappeared over the horizon beyond the Davis mountains, in about
+45 seconds. As it became a speck in the distance it changed
+directions lightly two or three times to the right, to the left, and
+up and down, and then continued on the same course as before.
+the while it appeared to be going about a mile in two seconds.
+I shall appreciate your forwarding this information to proper
+authorities, if of importance.
+Yours very truly,
+A VC : NMM
+AF558206
+A. V. Chapin
+Declassification Authority: NND 57565

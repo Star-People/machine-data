@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:01:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9187319, "source_ctime_ns": 1793385980976177384, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994537/0934.jpg", "source_mtime_ns": 1785748177000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994537/0934.jpg", "source_sha256": "9793b6e9dabc353e6616261273bae73302611489ae573b4a221f62c99a74d48e"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 800, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+12 Sep 61
+3. DATE-TIME GROUP
+Local -
+1200 CDT
+GM T.
+1217002
+5. PHOTOS
+• Yos
+LENGTH OF OBSERVATION
+1 min
+10. BRIEF SUMMARY OF SIGHTING Medium dark objt, tan
+or cocoa color. Size of car. Viewed looking E
+through window.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+12. CONCLUSIONS
+Chicago, Illinois
+4. TYPE OF OBSERVATION
+B Ground-Visual
+• Air Visual
+T. SOURCE
+Civilian
+.. NUMBER OF OBJECTS
+•
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+• Ground-Reder
+• Air-Intercept Radar
+Was Aireraft
+Probably Airerati
+Possibly Aircraft
+Was Astronomical
+•
+Probably Astronomica
+Possibly Astronomica
+9. COURSE
+Othel
+Ex Insufficient Date for Evaluatior
+N
+Unknown
+I1. COMMENTS Info given by witness is not
+sufficient for evaluation. Could have beer
+a cloud. Only 1 witness. Case listed as
+insufficient data.
+MC FOR

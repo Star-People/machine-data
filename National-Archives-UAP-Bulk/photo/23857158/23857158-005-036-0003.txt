@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:50:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5631412, "source_ctime_ns": 1793359079693224671, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-036-0003.tif", "source_mtime_ns": 1785681311000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-036-0003.tif", "source_sha256": "ce73b4bdf6a02bf8f98209fc95a26270b7846464128a2603a41b8b70bf416b93"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 748, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE THREE JEDHR B22
+(A)
+ST IGNACE, MICHIGAN WHO WORKS FOR
+BELIEVED TO BE LOCATED AT ST. IGNACE
+WEATHERND WINDS ALOFT
+(A) NEGATIVE
+(B) 1000
+FEET
+360
+DEGREES AT 4 KNTS
+608
+29ø
+* 25"
+10000
+250
+" 30*
+16000
+300
+60"
+20000 FEET
+300 DEGREES AT 95 KNTS
+32880
+290
+160
+50000
+290
+110 -
+(C) NO CEILING
+(D)
+GOOD 12 TO 15 MILES
+(E) SCATTERED 1800 FEET
+(F) N/A
+8. RAWIN SONTE WEATHER BALLOONS FROM SAULT STE MARIE WEATHER STATION.
+9. NEGATIVE
+10, NEGATIVE
+I1. GEORGE F. SONIAK, CAPT USAF, ACTING EXECUTIVE OFFICER.
+PAGE FOUR JEDHR B22
+(A) ESTIMATING 100 FEET IN DARKNESS IS DIFFICULT. THE INITIATOR OF THIS
+REPORT FEELS BECUASE OF A DEFINITELY CLEAR SKY CMA THE OBJECT MAY HAVE
+BEEN A BRIGHT STAR.
+12. N/A
+04/2045Z JAN JEDHR

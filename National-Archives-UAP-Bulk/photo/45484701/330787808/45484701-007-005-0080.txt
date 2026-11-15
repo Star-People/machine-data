@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:03:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10045208, "source_ctime_ns": 1793364843801612090, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0080.jpg", "source_mtime_ns": 1785685206000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0080.jpg", "source_sha256": "5bd1dafa17de25b74cc03097d90001963185a221be58cc4bc5afc45443862398"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 155, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+ИО
+ОЗГІНО ВИЗТЯКИОСАЗИ
+90
+30
+СЕМІЗАОИИ
+ORAT
+POLLO
+TRONTUA YA
+КОБІ К КЛИБЕ СвІ/ 021
+Asio:2il?
+Ya
+STAG
+03
+S
+66L NON E
+Declassification Authority: NND 923007

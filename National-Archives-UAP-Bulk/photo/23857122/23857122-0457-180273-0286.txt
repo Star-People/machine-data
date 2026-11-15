@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:06:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17356064, "source_ctime_ns": 1793356665452984760, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0286.tif", "source_mtime_ns": 1785564738000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0286.tif", "source_sha256": "2ee0f1b381377fbf9c2e9bde8646039d6245b7766b62b97985d6d029b04577f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 525, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+Incident ml64, a, b -- Uniontown, Fennsylvania -- 29 June 1948
+There is no astronomical explanation for this incident.
+Its occurrence at the time of a thunderstor suggests
+that the report might be referred to an expert on ball lightning
+to see whether this might be a possible explanation,
+Another possibility is that the observers saw a beacon
+_ searchlight projected against clouds, although if this were the
+case, it should have continued visible at regular intervals.
+TED
+Declassification Authority: NND 57565

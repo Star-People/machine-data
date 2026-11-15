@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:10:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17776006, "source_ctime_ns": 1793361561997500834, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0029.tif", "source_mtime_ns": 1785565380000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0029.tif", "source_sha256": "7b43116fb77c23dc1cbb77d54c9221c21aafd4fce5c594ddd2e299aed0bfa9bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 335, "chars": 2349, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NIGHTTLIE ASTRONOMIAL SKY SURVEYS AND
+UNIDENTIFIED FLYING OBJECTS
+Carl Sagan
+Harvard College Observatory
+and
+Smithsonian Astrophysical Observatory
+Cambridze, Masaachusetts
+There are 'severdi instances of extended observations of large fields of view of the night sky by
+trained astronomical observers. These observations are usually performed in the context of meteor
+studies. One such is the Harvard Meteor Project, in which visual and photographic observations were
+performed (the latter with Super-Schmidt cameras, and a 60 degree field of view) in New Mexico
+during the period 1954-1058. Note that this is a locale and period characterized by extensive reports
+ol unidentified flylng objects. In all, a surface area of 7 x 103 km? was observed to 80 km altitude for
+a total period of 2 x 105 minutes. Observations were good down to magnitude +4. No unexplained-ob-
+Jects were detected.
+A second example of such an observation program is the photographic and visual Prairie Network
+of the Smithsonian Astrophysical Observatory. The total area covered is about 106 km?, but only
+brich objects - brigiter than magnitude -0 - can be photographed. The cameras cover essentially
+the entire sky, and the network encompanges parts of the states of lowa, Kansas, Nebraska, South
+Dakota, Oklahoma, Ilinois, Colorado, andi Missouri. In 2500 hours observing to date, no unexplained
+flyin objects have been detected. In fact, in the cases of both the Harvard Meteor Project and the
+Smilhonlan Astrophysical Obaervatory Prairie Network, nobright movingobjects other than meteors
+and occagional aircraft were detected. An even more extensive meteor survey, worldwide in scope,
+was performed during the LG.Y. under the direction of'Dr. Peter Millman of the National Research
+Council of Canada. Unfortunately, much of this data is still unreduced.
+These sky survevs ard much more extonsive in area and time than such previous stellar astro-
+nomical surveys as the Palomar Sky Atlas, which also showed no unusual objects. Especially con-
+sidcring the experienccofthe observers in the foregoing observations, it scema likely that the frequent
+reports of unidentified flylng objecta observed at night by individuals relatively unfamiliar with the
+skies are due to niginterpretationa of common astronomical cbjecta.
+REPRODUCED FROM HOLDINGS OF THE NATIONAL ARCHIVES
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 1, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}

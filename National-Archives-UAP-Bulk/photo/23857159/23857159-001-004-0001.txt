@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:06:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12322356, "source_ctime_ns": 1793360989266635578, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0001.tif", "source_mtime_ns": 1785565201000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0001.tif", "source_sha256": "1cc5adebe7a79e96fbb9ce103a8682565c7a31793a4811099711b8258518e224"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1041, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS AIR FORCE INTELLIGENCE SERVICE
+FORT BELVOIR, VIRGINIA 22060
+DEFENSE
+REPLY TO
+ATTN OF:
+DAD, Wash, DC 20330
+SUBJECT:
+Transfer of Records for Inclusion Into Project Blue Book
+27 AUG 1979
+TO:
+Modern Military Branch, Rm 11-W
+Attn: Mr. Francis J. Heppner
+Military Archives Division
+National Archives and Records Service (GSA)
+Washington, D.C. 20408
+1. The attached Air Intelligence Information Reports (AIIRs) (both
+original and sanitized copies), dated December 1953 through January 1961,
+relating to sightings of unidentified flying objects are forwarded for
+inclusion into Project Blue Book per instructions received from
+HQ USAF Information Management and Resources Division. The control
+number on the transfer is NN3-342-79-2.
+2.
+Also included at attachment 2 is an updated sanitized version of
+AF1209930.
+The original was forwarded to your office on 12 June 1978.
+Chief of Administration
+4 Atch
+1. List of AIIRs
+2. AIIR 1209930
+3. Original AIIRs
+4. Sanitized AIIRs
+DECLASSIFIED
+Authority NND 9237007

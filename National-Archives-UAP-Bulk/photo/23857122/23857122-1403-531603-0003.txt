@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:13:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 29472256, "source_ctime_ns": 1793357499304987709, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531603-0003.tif", "source_mtime_ns": 1785564912000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531603-0003.tif", "source_sha256": "0bd75123aa7ab2d5585c2b2a794a2d268d2051063e3a87760766c710129b1790"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1023, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+KESTRICTED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+TR-3-53E
+FROM (Agency)
+5th Ftr-Intep Se, MeGAFB, N.J.
+PAGE
+OF 3
+PAGES
+The weather was ceiling and visibility unlimited and the stars were out. "The
+position of Venus at 1010 Zebra was local hour angle 226 degrees 12 minutes -
+declination south 22 degrees 58 minutes." This information was taken from the
+Air Almanac.
+James B. Donnelly
+JAMES B. DONNELLY
+2nd Lt.,
+USAF
+Intelligence Officer
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+LESTRICTED
+(CLASSIFICATION)
+16-55570-1 * U.:
+Declassification Authority: NND 57565

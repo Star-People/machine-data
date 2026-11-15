@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:54:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7096526, "source_ctime_ns": 1793384554627618739, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0307.jpg", "source_mtime_ns": 1785748428000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0307.jpg", "source_sha256": "4521266e12e02d272b2c60af94d3a2ec7fe18ed009e2ae2d39be79e9f49ad4c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 948, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JOHNSON, E.E. Capt
+1. DATE
+14 Dec 60
+3. DATE-TIME GROUP
+Local.
+1937
+CM T
+5/03372
+PHOTOS
+• Yes
+CL No
+7. LENGTH OF OBSERVATION
+6 min
+10. BRIEF SUMMARY OF SIGHTING
+Object star shaped, white changing to red and
+orange. A/c sighting from 32,000 ft. Object
+moving in level flight from Nwto SE. Total
+observation 6 min.
+Passed behind a/c.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Spokane, Vashington
+112. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloor
+TYPE OF OB
+• Ground-Visual
+D Air Visual
+SOURCE
+RVATION
+• Ground-Redar
+• Air-Intel
+ept Radar
+D
+Military
+8. NUMBER OF OBJECTS
+9. COURSE
+Was Aircraft
+Probably Aircrat
+Jossibly Aircraf
+Was Astronomical
+Probbly Astronomica
+Possibly Astronomicol
+Ohar Satellite
+Insufficient Date for Evaluation
+Unknown
+one
+SE
+11. COMMENTS
+Satellite data requested hovever not
+received. Apparent object in orbit. Case
+listed as unconfirmed satellite in view
+of no conflieting information.
+ATIC FORM 329 (REV 26 SEP 52)

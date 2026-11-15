@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:27:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 758881, "source_ctime_ns": 1793392165168859818, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565002/1064.jp2", "source_mtime_ns": 1785808358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565002/1064.jp2", "source_sha256": "f1d656b06072b69f65a469e32ba027222ca2a11c2aacd21de72fe2aac78c9b88"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 709, "method": "ocr", "page": 1, "variant": "plain-vision"}
+It Col Quintanilla/70916/mhs/22 May 63
+TDPT (UPO)
+Analysis of UPO Observotion
+TDDCS/2d Lt Secrest
+= 300
+1. We would like to thank 20 It M. A. Secrest for his excellent
+analysis of the 19 April 1957, Zumey, California, unidentified
+Flying object sighting. It is one of the most comprehensive
+analysia that ve have received, froa a support activity in PrD,
+in quite some time. The background data that Is Secrest provided
+in his analysts vill enable this office to ansver inquirtes on
+chia sighting vita eccuracy.
+2. Ve are re-evaluating the sighting to that of a small aircraft
+with londing lights, as It Secrest sugaested.
+Chief, Terial Phenomena Orrice
+Aerospace Technologies Division
+Production Directorate

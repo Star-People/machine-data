@@ -1,0 +1,219 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:38:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1800316, "source_ctime_ns": 1793393200220977601, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0508.jp2", "source_mtime_ns": 1785808394000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0508.jp2", "source_sha256": "5a23e87439342e5336dc344bc6024f63dfaddded94a920fc8831fb6750989251"}
+
+===== PAGE 1 =====
+{"alpha_words": 867, "chars": 5390, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1902 W. B.
+SYMBOLIC FORM OF MESSAGE
+ill Nddff VVwwW PPPTT NChCẠ Tapp 7RRR.S
+Note: This Abridged Code Shows Only Data Normally Plotted on Printed Maps
+SAMPLE CODED MESSAGE
+405 83220 12716 24731 67292 30228 74542
+SYMBOLIC STATION
+MODEL
+SAMPLE PLOTTED
+REPORT
+TTE CHIPPP
+VVww @ ‡ppa
+RR
+Ö247
+¾**0+28/
+30---6 0Ą
+2 45
+EXPLANATION OF SYMBOLS AND
+Symbols in order
+as they appear
+in the message
+MAP ENTRIES
+Explanation of symbols
+and decode of example
+above
+Remarks on coding and p
+Vashingto
+Usually printed on manuscript maps below
+station circle.
+Omitted on Daily Weather
+Map in favor of printed station names
+V Total amourt of clouc
+= complet ly covered
+Observed in tenths of cloud cover nd coded
+n Oktas (eighahs) according to code table i
+Nock (6
+Plotted in symbols shown in same
+table.
+True direction from
+dd
+which wind is blowing
+32 = 320° = NW
+Coded in tens of degrees and plotted as the
+shaft of an arrow extending from the station
+circle toward the direction from which the
+wind is blowing.
+ff
+Wind speed in knots
+20 = 20 knots
+Visibility in miles and
+VV
+16 or 3/4 miles
+W W
+slight
+Coded in knots (nautical miles per hour) and
+plotted as feathers and half-feathers repre-
+senting 10 and 5 knots, respectively, on the
+shaft
+block O
+of the wind direction arrow. See
+Decoded and plotted in miles and fractions
+up to 3 1/8 miles. Visibilities above 3 1/8
+miles but less than 10 miles are plotted to
+the nearest whole mile. Values higher than
+lles are omitted from the map.
+Coded in figures taken from the "ww" table
+(hick a and plotted in the corresponding
+same
+block, Entries for code
+figures 00, 01, 02, and 03 are omitted from
+this map.
+W
+Past weat
+Coded in figures taken from the WWY tab!
+block at) and plotted in the corresponding
+symbols same block.
+No entry made for
+code figures 0, 1, or 2
+PPp
+Barometr
+Pressure
+(in millibars) reduced
+to sea-level
+247 - 1024.7 mb.
+Coded and plotted in tens, units, and tenths
+of millibars. The initial 9 or 10 and the
+decimal point are omitted. See block 9
+TT
+Nn
+Current air temper-
+ature
+31 = 31 F.
+Fraction of sky covered
+by low or middle cloud
+6 - 7 or 8 tenths
+Coded and plotted in actual value in whole
+degrees F
+See block
+CL
+Observed and coded in tenths of cloud
+cover.
+Plotted on map as code figure in
+message. See block
+Cloud type
+Predominating clouds of types in C
+7 = Fractostratus and/
+(block are ended thin that table ala
+OL
+Fractocamulas
+plotted in corresponding symbols.
+bad weather (seud)
+Height of base of cloud
+2 - 300 to 599 feet
+Observed in feet and coded and plotted as
+code figures according to code table in
+block O
+EXPLANA
+Weather maps slowing the development and movement of w
+systems are among the principal tools used by the weather fore
+Of the several tipes of maps used, some portray conditions i
+surface of the earth, while others depict conditions at various heis
+the atmosphere. Some cover the entire Northern Hemisphere
+others cover on y local areas as required for special purpose
+maps used for daily forecasting by the Weather
+Bureau are sim
+many respects to the printed Daily Weather Map. At Weather B
+offices, maps showing conditions at the earth's surface are draw
+times daily.
+Maps of upper level temperature, pressure, and h
+are prepared twice each day
+A more detailed explanation of w
+forecasting froni synoptic charts appears in the pamphletiẠạiWe
+Forecasting," U.S. Department of Commerce, Weather Bureau
+and is for
+sale by the Superintendent of Documents, U.S. Gove
+Printing Office, Washington 25, D. C
+PRINCIPAL SURFACE WEATHER MAP
+To prepare the surface map and pres
+ent the inior mation quic
+pictoriany, two actions are necessary: (1) weather observers a
+places must go to their posts at regular times each day to obses
+weather and send the information by wire or radio to the office.
+the maps are drawn; and (2) the information must be quickly trans
+to the maps. In order that the necessary speed and economy of
+and ur ans mis sion time may be realized, codes nave been devi
+sending the information and for plotting
+it on the maps.
+CODES AND MAP PLOTTING
+A great deal of information
+a in a brief coded we:
+message. If each item were named and
+described in piain lang
+very lengthy message would be required; and it would be confus
+read and difficult to transfer to a map.
+Use of a code permi
+message to be condensed to a few five-figure numeral group:
+figure of which has a meaning depending on its position in the me
+Persons trained in the use of the code
+n read the message as
+The location of the reporting station is
+inted on the map as
+circle (the station circle).
+A definite arrangement of the data
+ine station circie, called une stat
+model, is used (see bio
+When the report is plotted in these fi
+ions aroma une s
+CLOUD
+ABBREVIATION
+91 Or FS-Strata:
+DESCRIPT
+Ci-Cirrus
+2
+Cs-Cirrostratus
+Cu of fair weat
+evelopment
+of considerable devel
+WiN Or W
+or Se bases all at same i
+Ch with tops lacking cle
+but distinctly not cirri
+shaped; with or without
+Ce-Cirrocumulas
+4
+se formed by spi
+ften present als
+Ac-Altocumulus
+5
+Sc not formed by spreadir
+As- Altostratus
+6
+St or Fs or both, but no Fa
+Ns-Nimbost
+7
+nd/or Fe of bad weat
+| Cu or Fc-Cumulas
+1 or Fractocumules
+Cut and Sc (not formed by
+of Cu) with bases at diffe
+Cb-Cumu
+Ch having a clearly fibr
+often anvil-shaped,
+Se, St, or scud
+00
+Cloud development NOT
+oDserved or Not Doser.
+able during past hour
+10
+NOT deep
+NO
+20
+30
+moderate dust
+40
+og at dista

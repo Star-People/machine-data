@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:05:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15157158, "source_ctime_ns": 1793355427268937814, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0009.jpg", "source_mtime_ns": 1785564453000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0009.jpg", "source_sha256": "b8ad211e7f15c256b7c70153d2501bc2f675ad615a034b9ead520de8060921e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 643, "chars": 4300, "method": "ocr", "page": 1, "variant": "plain-vision"}
+The station would have to be assembled in its entirety at the factory and be
+hauled by planes to the place of future operation. There it will be attached to a
+surface anchor and a step-down transformer substation with automatic equipment
+will have to be built at this spot.
+According to preliminary estimates, with continuous mass production of such
+wind-power stations the cost of installed capacity of 1 kw would amount to about 5
+to 6 times less than at existing small rural electric power stations. In the future,
+even this low cost could be considerably reduced, which would help in solving the
+problem of electrification of remote virgin-land state farms and Siberian-forest
+settlements and industries which are located far from electrical power transmis-
+sion lines. In addition to their basic purpose, such high-altitude electric power
+stations could be used for radio and television relay stations and automatic meteo-
+rological stations.
+The project of such tropopause power stations has been discussed by the
+Technical and Economic Council of Ministers of USSR for Automation and Machine
+Building under the chairmanship of Academician A. I. Berg, and was evaluated as
+presenting an indisputable interest. This project underwent, at thebeginning of
+1962, a serious discussion at an enlarged meeting of the Technical Council of the
+Ministries of Power Engineering and Electrification where, in addition to power
+engineers and electrical engineers, several specialists on aeronautics, aerodynamics,
+meteorology, and aerology participated. The Council expressed an opinion for
+continuation of work for the realization of such a station.
+From the time of the meeting of the Council, almost a whole year elapsed.
+And the vice-chairman of the Technical Council of the Ministry, I. Ugorets, still
+has not found the time to legalize this decision and to push forward further inves-
+tigation. 'We think that also to the readers of Izvestiya it will not be indifferent
+to know how many more months (and maybe years) Ugorets will need in order to
+determine at last his own attitude to this daring project'."
+2. DISCUSSION
+The purpose of this talk is to present a thumbnail sketch of the immediate
+capabilities of balloon flight, to consider briefly some of the contemporary bal-
+loon flight problems and to discuss the future of ballooning.
+To most people, all balloons are the rubber, meteorological type. To be
+sure, such balloons are enormously useful for carrying lightweight, expendable
+instruments to probe the troposphere and lower stratosphere. In general, these
+balloons rise at rate of 1, 000 to 1, 500 ft/min, reach their design ceiling altitude,
+and then burst. A balloon of this type, having a limited capability for short
+duration constant level flight, has been developed both by the Australians and by
+companies within our country. However, since the rubber balloon is inherently
+unstable, altitude control is difficult. In my mind, one should consider the rubber
+balloon ideal for its chief mission as a radiosonde carrier, but inherently un-
+suitable for constant level flight.
+2,1 Zero Pressure Balloon
+To most of this audience, the word balloon probably brings to mind the zero-
+pressure, constant level type. Fig. 1 illustrates the typical time-altitude flight
+curve of such a balloon. After an early morning launch, this flight is characterized
+by an ascent rate which is nearly constant to the designed ceiling altitude; flight at
+the maximum altitude until noon or shortly thereafter; a protracted, slow descent
+during the afternoon; a rapid, post-sunset descent to a night-time flight level that
+is determined by pressure-controlled ballast; constant level flight during the night,
+then a rapid ascent following sunrise to a daytime level that is slightly higher than
+that of the previous day. Of course, the ballast control level can be altered to
+provide either nearly constant day-night performance, or widely differing day-
+night floating levels as needed. Gas valving and ballasting can also be controlled
+by radio command to make the balloon flight performance conform to special
+scientific or mission requirements.
+100,000
+FLIGHT
+ZONE
+80,000
+60,000
+ALTERNATE
+NIGHT
+FLIGHT ZONE
+40,000
+20,000
+NOON
+DAY
+NIGHT
+DAY
+Figure 1. Normal Flight Profile of a Zero Pressure Balloon

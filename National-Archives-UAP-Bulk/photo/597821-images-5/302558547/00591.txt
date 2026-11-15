@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:35:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1713744, "source_ctime_ns": 1793391421454049161, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558547/00591.jp2", "source_mtime_ns": 1785808148000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558547/00591.jp2", "source_sha256": "90db30a3764e579ef1f37fff37f50f18917658f8269f2019b070d499454e7098"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 569, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+H9, 1360TH AIR BASE CROUP (MAC)
+ORLANDO AIR FORCE BASE, FLORIDA 32313
+13600/Maj Sacco
+Unidentified Flying Object (UFO)
+21 Dec 66
+FTD (TDETR)
+The following is submitted in accordance with AFR 80-17
+a. (1) Round like a ball
+(2)
+Grapefruit
+(3) Orange and fluorescent
+(4) One
+(5) N/A only one
+(6) None
+(7)
+None
+(8)
+None
+(9)
+None
+b. (1)
+Sighted object out window of automobile
+(2) 45° straight ahead
+(3) Northeast
+(4) Down then up
+(5)
+Unknown. Sighter turned off street and lost visual contact
+(6) 2 minutes
+c. (1)
+Ground-visual
+(2) None
+(3) N/A

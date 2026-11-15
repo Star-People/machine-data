@@ -1,0 +1,90 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:02:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9606935, "source_ctime_ns": 1793362123168228891, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0067.jpg", "source_mtime_ns": 1785684713000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0067.jpg", "source_sha256": "8421ecf7878214ab13544f89df788527daecb8df4d9219b1c51c2aae9f58ba2a"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 712, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ON
+DETAILS :
+On 19 September 1949 a check of the records of the U.S. Weather
+Bureau, cheeTyson Airport, Knoxville, Tennessee, revealed that weather
+balloons were released on 1 September 1949, as follows:
+0400 hrs:
+ALtitude-MSL
+SurFace
+2000 feet
+5000
+4000
+5000
+6000
+7000
+8000
+10000
+11000
+Direction (degrees)
+Calm
+330
+520
+510
+320
+320
+320
+300
+280
+270
+Velocity
+Calm
+3 lmots per hr
+6 lots per hr
+8 knots per hr
+10 kots per hr
+12
+18
+22
+1004 hrs
+Surface
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+10000
+1603 hrs:
+Surface
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+10000
+1757 hrs
+Sur face
+2000
+5000
+4000
+5000
+6000
+7000
+8000
+9000
+10000
+30
+340
+320
+310
+320
+320
+310
+350
+360
+20
+560
+120
+8
+7
+7
+Declassification Authority: NND 923007

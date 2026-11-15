@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:08:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13650422, "source_ctime_ns": 1793366247916610072, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0087.jpg", "source_mtime_ns": 1785565504000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0087.jpg", "source_sha256": "9b4413ab18149dc027228e2e0d345258d9d4c31c576e3c3f43878dd13022a28d"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 35, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+a a
+r +
+Mi
+*
+
+wa80
+
+oa ane ae ape

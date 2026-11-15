@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:41:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3937357, "source_ctime_ns": 1793385170672060367, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992106/0202.jpg", "source_mtime_ns": 1785748215000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992106/0202.jpg", "source_sha256": "a24a2005a23412fc8d3be2562ac9101fc26513d423a9e4dc8dc0031655aebbbd"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 664, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AEROSPACE TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+REPLY TO
+ATTR OF:
+AFCIN-4X2
+SuBJect: Extract from Duty Officers' Report
+12 Apr 61
+To: AFCIN-4E2 (Attn: Maj Friend)
+The following, extracted from Capt Ingnolt's Report dated 11 Apr 61,
+is quoted for your information:
+Air Force Command Post phoned at 0200 local with the following
+UFO report:
+Object sighted by SAC KC-97 25nm SW of Goose Bay,
+flying at 13,000 feet, appeared above and anead of aircraft
+line of flight. Object split into two parts and burned at
+12/06152.
+Message was relayed to Mr. Goard, 4F3, by phone.
+MICHAEL J. STROFE, JR.
+Major USAF
+AFC IN-4X2

@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:51:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5909713, "source_ctime_ns": 1793377264365425246, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963099/1138.jpg", "source_mtime_ns": 1785696716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963099/1138.jpg", "source_sha256": "87dbaa61371d4eefd521f640fbddca041223cf3df8d9ed66b025cc713df4d028"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 891, "method": "ocr", "page": 1, "variant": "plain-vision"}
+. DATE
+9 August 1955
+3. DATE-TIME GROUP
+Local.
+GMT 09/20222 10g 55
+5.
+PHOTOS
+• Yes
+- No
+7. LENGTH OF OBSERVATION
+Eight (8) Minutes
+10. BRIEF SUMMARY OF SIGHTING
+2. LOCATION
+Acron, Ohio
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6. SOURCE
+UFCB: INE-X CARD AISS UFOB-261-55
+12. CONCLUISIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+• Air-Intercept Radar
+Wos Aireraft
+Probably Aireraft
+Possibly Aircroft
+Civilian and Military (COC)
+8. NUMBER OF OBJECTS
+9. COURSE
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+One (1)
+One (1), round, Jellow and white object,
+heading
+southwest, was seen by COG personnel.
+11. COMMENTS
+ATIC Forms 16l sent to the observers of
+this sighting.
+Upon receipt of the above
+forms, this neadquarters will forvard
+its conclusion to ATIC.
+POSSIBLE BISOON
+AISOP Form 5 (15 Oct 54)

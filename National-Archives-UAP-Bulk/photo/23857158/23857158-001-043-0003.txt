@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:38:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2094670, "source_ctime_ns": 1793358169591932221, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-043-0003.tif", "source_mtime_ns": 1785681012000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-043-0003.tif", "source_sha256": "5c6a86d1ce45dc0f28d3a52c9647b0a7a47277767fb00d39df5acc0d28794c33"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 680, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AFDFR
+Subj:
+UFOB
+16 November 1954 .
+11. Preparing officer is the Air Force Development Field Representative,
+ARDC, with duty station at Camp Detrick, Maryland. No cause of the
+sighting is advanced.
+12. None.
+/s/t/
+WILLIAM W. EAKINS
+Lt. Col., USAF
+AF Development Field Representative
+AISOP (16 NoT 54)
+1st Ind
+HEADQUARTERS, 4602D AIR INTELLIGENCE SERVICE SQUADRON (ADC), Ent Air
+Force Base, Colorado Springs, Colorado NOV 2 3 1954
+TO: OIC, Flight 3-H, 4602d AISS, McGuire Air Force Base, Trenton,
+New Jersey
+Request you conduct a follow-up field investigation whenever you
+happen to be in this area.
+BY ORDER OF THE COMMANDER:
+PAY L. JON
+3538

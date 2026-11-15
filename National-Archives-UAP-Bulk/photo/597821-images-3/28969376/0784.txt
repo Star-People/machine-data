@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:45:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4606751, "source_ctime_ns": 1793378815106316627, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969376/0784.jpg", "source_mtime_ns": 1785701106000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969376/0784.jpg", "source_sha256": "48c259c585ef377d999a7ecb73d3568ca0c472d025f8fd2edf524625180d7596"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 746, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJWPJB 11B
+(50 MILES). E. OUT OF RADAR RANGE F. 40 SECONDS 3. A. ELECTRONIC
+AIR SURVEILLANCE RADAR B. NONE C. NONE 4. A. 23/0755Z. B. NIGHT
+5. LOS ANGELES INTERNATIONAL AIRPORT TOWER LONG BEACH MUNICIPAL
+TOWER (CAA). 6. A. CIVILIAN AIR OPERATION SPECIALIST. (TOWER
+OPERATORS). JOHNSON, NORMAN, GS 11 (EXCEPT FOR TECHNICAL KNOW-
+LEDGE OF RADAR, OBSERVER RELIABLE). 7. A. CLEAR 15 MILES VISI-
+BILITY B. ADCC FORCASTER C. CLEAR D. 15 MILES E. NONE F. NONE
+8. NONE 9. TWO F89'S FROM OXNARD DISPATCHED TO THE AREA 10. NONE
+11. SR. CONTROLLER, CAPTAIN, USAF. POSSIBLE MALFUNCTION OF RADAR
+EQUIPMENT. SINCE NO VISUAL SIGHTINGS WERE REPORTED, AND AT 0807Z
+THE STATION'S RADAR LOST IT'S HIGH VOLTAGE AND WENT OFF 12. NONE
+BT
+26/00582 MAR RJW PJB

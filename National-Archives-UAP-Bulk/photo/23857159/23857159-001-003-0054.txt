@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:10:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17177098, "source_ctime_ns": 1793360738821736325, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0054.tif", "source_mtime_ns": 1785565120000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0054.tif", "source_sha256": "cf4f31c8fa05cbf1e804af1a729ba8944b0f5f714b4a2f8bbd6f16aed2169f7c"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 526, "method": "ocr", "page": 1, "variant": "plain-vision"}
+: PAge 3
+In talking with friends who hed accompented us on previous nints, we
+found that at least one other person saw the larger oblect from a distancs
+approximately 15 miles northeast of where we vere located. This person did
+not see the object as long as we did but lost track of it while it was in
+the brightness of the moon.
+This person read a copy of this report and felt that the time, desbriptic
+of shape and color agreed as well as the airplanes zit sighted.
+- - 30---
+UNGLASOIFIED
+DECLASSIFIED
+Authority NND 9237007

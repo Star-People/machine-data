@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:42:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4093362, "source_ctime_ns": 1793386589287900866, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996675/0319.jpg", "source_mtime_ns": 1785748324000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996675/0319.jpg", "source_sha256": "f4586ba719e12718e9319a25bbd771e27c759d30420b8115b5cd67c7780cecf7"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 508, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 43591 (8 Apr 62)
+RBBHPHH/HAWSEAFRON KUNIA TUNNEL ANNEEX
+RRBHPB/COMASWFORPACC FORD ISLAND HAWAII
+RJWXBR/CINCSAC OFFUET AFB NEB
+BT
+UNCLAS CIRVIS/NAVY WV-2 SIGHTEDD POSS SATELLITE OR
+COMET HELD VIISIBLE 3 MINUTE. SMALL ROUND OBJECT WITH
+LONG TAIL OF BRIGHT LIGHT. POSIT 33DEG 3Ø MIN NOORTH
+177 DEG 20 MIN WEST AT 08073ØZ CUS EAST TO VEST.
+NO EVALUATION
+08/0824Z APR RJHPPKH
+NOTE : Advance copies del to OOP-CP & CIN.
+2 of 2

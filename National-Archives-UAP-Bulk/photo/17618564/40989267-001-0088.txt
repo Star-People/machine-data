@@ -1,0 +1,85 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:06:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15986061, "source_ctime_ns": 1793355505679461411, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0088.jpg", "source_mtime_ns": 1785564467000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0088.jpg", "source_sha256": "5fc521b0308da1e581a4385e883f28916cb29a32e47424719f35cf10929dac48"}
+
+===== PAGE 1 =====
+{"alpha_words": 975, "chars": 6022, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Why in the world send up a satellite if a balloon can do the job as well, and in many
+cases better and almost certainly much more cheaply? Better, because if a transis-
+tor goes bad in the satellite, you've had it unless you want to bring the satellite back
+to earth and relaunch it. In the manned balloon, the observer merely gets out a
+small soldering iron and replaces the transistor, or better, replaces a troublesome
+module. You will remember that in this context we are bringing the light into the
+gondola so that the great majority of the astronomical instruments and auxiliaries
+are at cabin pressure.
+Or, if it is a more major breakdown, he returns to earth, repairs the damage
+and starts up again, like the clerk in heaven in Mark Twain's story "Captain
+Stormfield's Visit to Heaven'. In this story, you will remember, the clerk of
+heaven in attempting to help Captain Stormfield find his way about, tries to find the
+earth on their huge map of the universe. He used a balloon to ascend and explore
+the various parts of the map. It seems he got hungry, came down, packed a lunch,
+and went up again. This would have been more difficult had he been using a satellite.
+It would also be more difficult to perform several interchangeable observations
+at will. An astronomer in a balloon gondola can, however, obtain the infrared
+spectrum of a flare star, switch to the photometer and obtain the scintillation-free
+light curve, and swing the camera in place and take a photograph of the field. He
+can visually examine planetary and lunar markings and make an on the spot decision
+as to which to observe, and how to observe them. And in all these cases he is able
+to make last minute critical adjustments of various kinds, adjustments which can
+easily make the difference between success and failure.
+The visual examination of planetary and lunar details alone could well iustifv
+manned balloon astronomy, even in the absence of the battery of other reasons
+already given. The overwhelming difficulty in observing planetary details, say,
+the decades-old controversy-producing matter of the canals of Mars, for instance,
+is not the faintness of the object nor the resolving power of our telescopes but the
+many disturbing effects of the atmosphere which can be lumped under the omnibus
+term of "astronomical seeing"'. Even on nights of "good seeing' fine markings on
+the moon and the planets can be glimpsed only at momentary instants of comparative
+atmospheric quiet. If Mars were viewed from above the atmosphere, even though
+the image were not well stabilized and roamed through the field, the observer's
+eye could easily accommodate to such motions and could continuously discern a
+wealth of details only tantalizingly suggested by momentary glimpses from the
+surface of the earth. The chance to visually observe the moon and planets for
+hour after hour, uninterrupted by the "deafening noise of the earth's atmosphere,
+would be an opportunity devoutly desired by many, many astronomers. This vision
+brings to mind the remark of the late Henry Norris Russell, "When good astronomers
+167
+die they do not go to Heaven, they go to the moon.ại The undistorted vision pro-
+vided py an alriess moon can be virtually duplicated by a man in a balloon just
+fifteen to twenty miles above the surface of the earth.
+In short, I emphatically believe that the astronomer and his instruments
+should be carried to the top of the atmosphere in a routine basis.
+• By routine I do
+not mean every Monday, Wednesday, and Friday, but I do mean that such
+observations should be carried out without fanfare and troublesome publicity. The
+day may well come when an astronomer will prepare for a series of observations
+at the top of the atmosphere with no more concern that he now gives to his prepara
+tions for observations at a mountain-top observatory.
+Now perhaps I have not clearly separated the desiderata of making astronomical
+observations from the top of the atmosphere from the present technical capabilities
+of launching a balloon with, say, a two-ton load, to 80, 000 feet for a period of many
+hours.
+The scientific mission must be examined entirely on its own merits and the
+technical capability of providing the logistics for that mission must also be examined
+separately. There are observations of the outside universe that can be made only
+from above the atmosphere. The imp
+tance of making such observations must be
+assessed quite separately from the capability of carrying them out. If they are
+truly important, then the means of making them should be examined. If we don't
+have the capability we should admit it and do something about developing it, before
+we attempt to marry the scientific mission to the technical logistics capability.
+Otherwise we run into the amateur theatrical type of fiasco we had with Stargazer
+in which a scientific mission was shot down because of our lack of understanding
+of static electricity and explosive squibs, among other things. Clearly there could
+not have been a Project Mercury without an adequate booster. Likewise, Stargazer
+was impossible without an adequate booster.
+I should like to assume, in presenting the thesis for Manned Balloon Astronomy,
+that this nation certainly has the capability of learning how to launch large balloons
+with ease, with safety, and with confidence. There certainly is no reason at the
+present stage of the technical development of this country, to have balloon launching
+a ''crossed fingers' operation, or having to resort to the use of good luck charms.
+I am simply going to assume that if this nation is capable of developing boosters to
+the moon and beyond it is capable of a booster to 80, 000 feet.
+In summing up. I believe we have the following: What is balloon astronomy?
+As a technique. balloon astronomy, as distinguished from other types of scientific
+ballooning. consists of making those observations in astronomy which cannot be
+made from the surface of the earth. or which can be made better and with greater
+significance from altitude

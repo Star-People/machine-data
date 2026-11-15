@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:07:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13275842, "source_ctime_ns": 1793358763774710268, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-042-0001.tif", "source_mtime_ns": 1785681195000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-042-0001.tif", "source_sha256": "4a5ca87d14ba1febb3ef7adf513dc4f3714e35f0bac43e7931fa611b7ff4d4ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 660, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+DATE/TIME OF SIGHTING
+AISS-UPOB-387-55
+LOCATION OF SIGHTING
+02/03302 Nov 55
+North of Lakeland, florida
+MEANS RECD
+ACTION
+IT Mag
+Investigation authorized
+INVES UNIT
+DATE INVES ASSIGNED
+Might 2-C
+DATE IR RECD HQ
+3 November 1955
+DATE IR APPROVED
+I RECD HQ 4602D
+3 NoT 55
+LOGGED BY
+S/Sgt DeRudder
+ASSIGNING OFFICER
+Maj Thrasher
+DATE IR TO ATIC
+DATE OF FORM 5
+4 November 55
+COMMENTS
+Investigation of this sighting assigned to Flight 2-C on 3 November
+1955. Results or investigation to be recorded below upon receipt
+02 AP Тори 112.
+CONCLUSIONS
+Probadly A/ 4B-41 A/ inarea
+AISOP FORM 7 (2 APR 55)

@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T10:01:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9100344, "source_ctime_ns": 1793362198648860302, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0221.jpg", "source_mtime_ns": 1785684724000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0221.jpg", "source_sha256": "49488c4d3d07be719394f55ade3863d84db90048f16388cc8c36aa9cb3fcfe39"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 152, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+JESST esf\bluoD .
+•
+СРЕЗНОУЛОЙ СУИСЕТТЕ ЗА
+BA VOLHOUTEL OB IN
+105-00-07
+STAG
+Y&
+ino
+0/81 21 91) S
+MART SS
+me
+770
+Declassification Authority: NND 923007

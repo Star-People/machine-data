@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:32:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1017696, "source_ctime_ns": 1793389130569562422, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536818/0427.jp2", "source_mtime_ns": 1785808020000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536818/0427.jp2", "source_sha256": "8a21695617cb9d2792dc1778bf69a579b86a931478261cd9f42827807530419c"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 659, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COMING
+MESSAGE
+DEPARTMENT
+F THE AIR FORCE
+AGE BRANCH
+UNCLASSIFIED
+AF IN : 10978 (5 Dec 64) E/rff
+ACTION: SAF-OS-3 (4)
+Page 1 of 16
+SMB C234 HQC163ZCQJB793
+RR RUEAHQ
+DE RUWHBSQ 5 05/0830Z
+Z NR
+R 050800Z
+FMCOMMANDER 821 RADARSQ BAKER AFS OREGON
+TO RUCDSQ/WRIGHT PATTERSON AFB OHIO
+RUEAHQ/SAFOI WASHINGTON D C
+RUWGALE/ADC ENT AFB COLORADO
+RUWHSB/28AIRDIV HAMILTON AFB CAL IF
+RUNHBS/READS STEAD AFB NEV
+BT
+UNCLAS 821/12-909 PD. FOR TDEW AT FOREIGN TECHNOLOGY DIVISION.
+WRIGHT PATTERSON AND IO AT ALL OTHERS. SECTION TWO OF THREE. REPORT
+SUBMITTED LAW AFR 200-2:
+2. USE OF AIDS:
+OBSERVER 1; NUNE
+OBSERVER 2; BINOCULARS
+OBSERVER 3; SURVEYORS SCOPE
+OBSERVER 4; NONE

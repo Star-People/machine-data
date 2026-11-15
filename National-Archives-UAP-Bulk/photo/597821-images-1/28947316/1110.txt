@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:40:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3762443, "source_ctime_ns": 1793373516015010501, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947316/1110.jpg", "source_mtime_ns": 1785688826000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947316/1110.jpg", "source_sha256": "241184d64d8f995bb64be4a65cca9197254e6908325dc9078e9396e038a0adb8"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 850, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TENTATIVE
+OBSERVERS QUESTIONNAIRE
+-
+SECTION A
+1. When did you see the object:
+1.1 Date:
+Day
+1.2 Time of day:
+S
+Month
+Hre.
+5 3
+Min.
+1.3 Time Zone: (Cirole One):
+Eastern
+Contral
+Mountain
+Cirole One): (& Daylight Sevin
+•. Standar‹
+Year
+A.M. or P.M
+Pacifio
+Other
+1.4 Girgle one of the following to indicate how certain you are
+of your answer to the above question _.<!
+Certain
+Fairly certain
+Hot very sure
+Just a guess
+2. Where did you see
+le objecti
+mest
+Manetta, Pa.
+Postal Address
+City or Town
+State
+3. Where were you located when you saw the object:
+(Cirole One):
+Inside a building
+In a car
+Outdoors
+d. In an airplane
+•. At sea
+1. Other
+Country
+3.2 Were you:
+(Circle One):
+a.
+B•
+In the business section of a city?
+In the residential section of a city?
+In open countryside?
+Flying near an airfield?
+Flying over a oity?
+Flying over open country?
+Other

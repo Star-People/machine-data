@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:43:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4435350, "source_ctime_ns": 1793360073180411489, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-033-0003.tif", "source_mtime_ns": 1785681620000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-033-0003.tif", "source_sha256": "787da4324a3bc10893f25ee9fb7c37903342966991e9e91ffeee64af74de7c53"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1160, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Z
+OSSSSSSSSSSSS
+TMB0#A0228003
+PP RJEPHQ RJEDEN RJEPNB RJEDWP
+DE RJEPNY 32
+P 312003Z
+FM HQ 26TH ADIV ROSLYN AFS NY
+TO RJEDEN/COMDR ADC ENT AFB COLORADO
+RJEDWP/COMDR AIR TECH INTEL CEN WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIR OF INTEL HQ USAF WASH 25 DC
+RJEPNB/COMDR DET 3 46Ø2ND AISS STEWART AFB NY
+INFO RJEPNB/COMDR EADF STEWART AFB NY
+/UNCL/CITE NBR 4383. ATTN: CIC EADF. SUBJ: UFOB.
+1• (A) LIKE A/C
+(B) HALF THE SIZE OF AIRLINES A/C-TYPE UNKNOWN
+(C) WHITE
+(D) 1
+(E) N/A
+(F) GREAT SPEED
+(G) NEG
+(H) NEG
+(I) NEG
+EN0003 X ENA041 YDE047 TYC055
+0113567
+OpS
+139
+746020 AISS OFOB REPT
+DATE-TIME GROUP •
+Dz Muyst
+Flushing L.I, Newk
+Probable A/c until
+PAGE TWO RJEPNY 32
+pictares arrive Final
+2. (A) SPEED & FEATURES
+decision at that time
+(B) 1500 ANGELS
+(C) N/A
+(D)
+FOLLOWED AIRLINES A/C -EVENTUALLY PASSED AIRLINES A/C WITH
+GREAT BURST OF SPEED
+(E)
+FADE FM SIGHT
+(F) 5-10 MINUTES
+3. (A)
+GRAOUND VISUAL
+(B) N/A
+(C) N/A
+4. (A) 31/1700Z
+(B)
+DAY
+5. HJBL
+1542 ON CAMPUS OF QUEENS COLLEGE IN FLUSHING LI
+6. (A)
+QUEENS COLLEGE, FLUSHING LI
+TELEPHONE:
+(B) N/A
+7. (A) CLEAR
+(B) 6,000 290
+DEG
+3Ø KT
+10,000
+280
+DEG
+38
+05
+16,000 282
+DEG 30 KT

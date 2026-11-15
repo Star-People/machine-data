@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:13:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 52715812, "source_ctime_ns": 1793357032497236704, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1216-481596-0008.tif", "source_mtime_ns": 1785564814000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1216-481596-0008.tif", "source_sha256": "e495d86f9a1702e7378f10b0059c3039e61da1bae376f2db90fd1e657ec2eda9"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 423, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1890
+Liberty
+350-
+2810
+285°
+VOYLES LAZY V RANCH
+1100-
+18 e
+EAGL
+RUTHERFORD RAN
+HA
+CARLAN
+6000 TO 20,000 FEET
+30°
+Antonio
+SAT =
+310
+170
+Sia Kello
+[254 SKF 1] 15'
+320
+200
+260°
+50 Wimbere
+·080
+N
+330 180
+(Joins San Antonio)
+340
+210|
+HQ
+080
+98°H
+350
+(Joins San Antonio)
+360|
+390
+BLUE TINT INDICATES AIR TRAFFIC CONTROLLED AREAS
+For pilot information see reverse side
+o side of the radials.
+Declassification Authority: NND 57565

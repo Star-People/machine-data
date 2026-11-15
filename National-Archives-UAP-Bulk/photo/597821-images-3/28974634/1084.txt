@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:58:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8315904, "source_ctime_ns": 1793380128717377343, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974634/1084.jpg", "source_mtime_ns": 1785700901000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974634/1084.jpg", "source_sha256": "a14fca44982648d9a967a701c3c4b9a6aa05514bb2d8df48af45f318f2a238a0"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 614, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. NONE
+II. A. SPEED OF OBJECT
+B• 2590 FT
+C. 1530 FT
+D• STRAIGHT-
+E. PROGRESSED OUT OF VISION
+• 20 SEC.
+Озрим
+III. A. VISUAL
+B. NONE
+C. NONE
+IV. A. 12/1300Z
+B. DAY
+V. A. 4145N 7500W
+B. CALLICOON CENTER
+VI•
+55 YRS,
+ROSCOW, NY
+VII. A• (
+CLEAR
+B. SURFACE: CALM
+6,520 FT: 320 DEGREES AT 29 KTS
+13,229 FT: 328 DEGREES AT 25 KTS
+15,200 FT: 310 DEGREES AT 32 KTS
+PAGE THREE RJEPNB 42
+29,020 FT: 302 DEGREES AT 20 KTS
+30,200 FT: 292 DEGREES AT 52 KTS
+52,220 FI: 292 DEGREES AT 25 KTS
+32,222 FT: NA.
+VITI. A. NONE
+B. NONE
+C. NONE
+IX. NONE
+X• NONE
+XI. CAPT STEPHEN M. FLANAGAN, USAF
+OPERATIONAL INTELLIGENCE OFFICER
+A. NONE
