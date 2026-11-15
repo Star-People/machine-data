@@ -23,3 +23,7 @@ The Brazil collection has a Portuguese-first processing path. See
 [`docs/portuguese-processing.md`](docs/portuguese-processing.md) for its paired
 Portuguese/English schema, provenance, safety limits, pilot, and Mac worker
 operations.
+
+## Field Station observations
+
+Verified human-reviewed anomalies are ingested as versioned metadata in `Field-Station/`, with links to Internet Archive evidence. Reviews and original model predictions remain distinct. See [the observation schema and ingestion guide](docs/field-observations.md).
