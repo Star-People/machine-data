@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:09:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7633938, "source_ctime_ns": 1793383971371833563, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988430/0539.jpg", "source_mtime_ns": 1785747992000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988430/0539.jpg", "source_sha256": "3cb853af04cf4be9417549badd50d8d15280d003f2e53481f78745f67af7b793"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 864, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR RJEXHD 67
+ARC
+(2) TWELVE O'OCLOCK POSITION WITH 80 DEGREES ELEVATION AT
+FIRST SIGHTING
+(3) TEN O'CLOCK POSITION WITH 45DEGREES ELEVATION END
+OF SIGHTING
+(4) OBJECT'S FLIGHT PATH WAS IN A SOUTHERLY DIRECTION
+(5) BY EXPLOSION AND CLOUD FADEOUT
+(6) OB3:5, FOUR SECONDS, CLOUD RESULT, NINE MINUTES
+(H) NONE
+<I> NA
+(J) NA
+(X) PREPARING OFFICER: JAMES F, WOOD, CAPT, USAF, BASE
+INTELLIGENCE OFFICER, HQ 390STH COMBAT SUPPORT GROUP APO 117,
+EW YORK, NEW YORK. THE FOLLOWING ADDITIONAL INFORMATION WAS
+ECEIVED FROM THE CREW MEMBERS: (1) CREW ARRIVED AT FLASH
+POSITION OF 50MM FROM AIRCRAFT BY TIMING RELATIVE MOTION OF
+CLOUD AS IT MOVED FROM TEN O'CLOCK TO NINE O'CLOCK POSITION
+DURING NINE MINUTE OBSERVATION. (2) CREW REPORTED SIGHTING
+TO CONGO AIRWAYS AT 22/1754Z AND RECEIPT WAS ACKNOWLEDGED. AT
+22/1300Z, CONGO AIRWAYS AGAIN CONTACTED AND ADVISED CLOUD HAD

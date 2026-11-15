@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:56:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4659447, "source_ctime_ns": 1793380463852533337, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976132/00928.jpg", "source_mtime_ns": 1785700722000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976132/00928.jpg", "source_sha256": "2cd70d7ea3f3ce3a41acdbb2607f3ddd6ac09046e9ede289b7d8a1045e7b927b"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 368, "method": "ocr", "page": 1, "variant": "plain-vision"}
+13 14/011Z
+) Witness
+1 very mith F tiful at 09102 39
+08611 00 23 37
+: 6 Dec57 07 31
+ATIC
+9550 13 454
+4 - 4x2a
+SQB078 YDB072 TYBØ96 TMA058NBA072NBM006
+PP RJEDDN RJEDWP RJEPHQ RJEPNY RJEPNB
+DE RJEPNB 1M
+P 1422302
+FM COMDR 762D ACWRON
+TO RJEDDN/COMDR ADC
+RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB
+RJEPHQ/DIR INTEL HQ USAF
+RJEPNY/COMDR 26TH AIR DIV
+INFO RJEPNB/COMDR EADF
+BT

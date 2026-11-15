@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:08:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8093393, "source_ctime_ns": 1793379446142751590, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972330/00524.jpg", "source_mtime_ns": 1785700876000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972330/00524.jpg", "source_sha256": "4a3796d3de47e7be1595188e8e97b495688143777edb22a47038ac3577a0f645"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 974, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+19
+DATE-TIME GROUP
+Local.
+GM T.
+19/17407
+5. PHOTOS
+Idenhal
+England
+TYPE OF OBSERVATION
+# Ground Visual
+Docuja.
+D Air Visual
+SOURCE
+Bf Ground-Rodar
+• Air-Intercept Rodar
+VIS%
+• Yes
+XE. No
+7. LENGTH OF.OBSERVATION
+Military
+8. NUMBER OF OBJECTS
+29 minutes
+ome
+10. BRIEF SUMMARY OF SIGHTING
+Circular disc shaped object, size
+of dime at arm's length, color vary.
+ing from yellow to orange, both
+colors intense and distinct. Visua.
+contact with one, radar with two. No
+trail or exhaust. No sound.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+OX Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evalua
+Unknown
+9. COURSE
+westward
+11. COMMENTS
+Venus in position of object
+sighted.
+Venus very bright at
+this time. Venus (no radar tar-
+gets in azimuth of visual sight-
+ing) .
+RADAR TARGETS 1ST SAME 15
+ATIC PORM 329 (REV 26 SEP 32)

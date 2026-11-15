@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:15:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9801324, "source_ctime_ns": 1793359381094081164, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-055-0002.tif", "source_mtime_ns": 1785681396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-055-0002.tif", "source_sha256": "edfae9f2b72d12d84086dad039d450a188c78da48e06edea26dd46b5e623c366"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1090, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+EN O
+ORS
+KETURN FOR CENTRAL FILES
+240639z Samish Island, Week
+NT
+Bor, Washingta
+EN0003
+0 ENC077 YDD088 XYC115 XDE076DMB036
+RR RJEDEN RJEDWP RJEPHO
+DE RJWRDM 29A
+R 231800Z
+'FM COMDR 635TH ACWRON MCCHORD AFB WASH
+TO RJEDEN/COMDR ADN ENT AFB COLO SPRINGS COL
+RJEDWP/COMDR AIR TECH INTELLIGENCE CEN WP. AFB HIO
+RJEPHO/DIR OF INTELLIGENCE HQ USAF WASH 25 D C
+ZEN/COMDR 25TH ADIV MCCHORD AFB WN
+4602D AISS UFOB REP
+DATE-TIME GROUP.
+22/1100₴ June 55
+VUNCL/635ACW 232. FOLLOWING UFOB REPORT SBMITTED IN ACCORDANCE WITH AFR
+200- PARAGRAPH 7. 1. A.
+SUB B. UNKNOWN C. BLACK D. ONE E. NONE F. NONE
+G. NO H. NO I. NO 2.
+A. FRIGHTENED WHEN IT SURFACED B. NO C. NO D.
+SURFACE
+30 MINUTES E. SUBMERGED F. NO 3. A. NAKED EYE
+B. NO C. NO 4.
+0302 PST.
+22 JUNE 1955 B. DAWN 5.
+SAMISH IS. NORTH Y. A
+WASHINGTON:
+MY SEATTLE, WASHINGTON, MILITARY SUPERVISOR
+7. A. CLEAR B. NOT AVALILABLE C. UNKNOWN D. EXCELLENT 8. NONE 9. NONE
+10. NONE 11 SPOTTED IN CHUCKANUT BAY NORTH WEST SHORE 12. NONE 13. AF
+FORM 112 WILL NOT SUBMITTED.
+BT
+/ 24/0124Z JUN RJWPDM
+RETURN FOR CETTRAL PILE

@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:52:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4088552, "source_ctime_ns": 1793375941779002888, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958372/00046.jpg", "source_mtime_ns": 1785696492000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958372/00046.jpg", "source_sha256": "56fe229849b7fdb61bd94dc9e77e043dc9158420707ee871fe697a309fdc1773"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 67, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Photegagh Strip
+of Ground Terrain
+(Pahral Indee, the ent 24 me 59)

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:59:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5154560, "source_ctime_ns": 1793370546964386438, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934832/0698.jpg", "source_mtime_ns": 1785688729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934832/0698.jpg", "source_sha256": "5b12f2f2b7e48c9eb8162ff05c4f6971d4b0bb8964387f48517815f281318116"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 276, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AKuENTIAL RZC
+Aerial Phenomena, Flying Objects over Boise, Idaho
+MCIAXS
+MCGA
+15 Jul 49
+For necessary evaluation and return.
+1 Incl
+Rpt of S/A J.E. KUTTLER
+(1 cy r/dram)
+DELLA J. ANGST
+Major, USAF
+Executive
+Office of the Inspector General
+DJAmjI
+P-203-S
+B-262
+6-1334
+SIDENTIAL

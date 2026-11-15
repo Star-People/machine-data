@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:12:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8428018, "source_ctime_ns": 1793384554101023599, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0306.jpg", "source_mtime_ns": 1785748428000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0306.jpg", "source_sha256": "d58c667e8da96b785db5e4f75e9a639f17ebad0e1870394fda49400a1057a5d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 934, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL MESSAGE
+CAUTION
+(INFO)
+UNCLASSIFIED
+SAFOI
+NAVY DEPARTMENT
+LEASED BY
+DRAFTED BY
+READDNES:
+• CPERATIONAL IMMEDIATE PRICRITY
+14 DEC
+62
+10 1425407
+FM COOD SEVENTEEN
+TO COMALSEAFRON
+FM COMALSEAF RON
+TO COMAAC
+INFO CNO
+CINCPACFLT
+FACAF HICKAN AFB
+PBEPJO
+CINCAL
+AF IN : 18773 (14 Dec 60) G/riJ
+AF DIST
+CIN¿44
+UNCLAS
+OOP-2
+OOP-CP-
+MY 140456ZŚ
+SAFS-3
+(21)
+INVESTIGATION OF INCIDENT MAS REVEALED THAT VESSEL VEGA/WE 2765
+IN COMPANY WITH VESSEL AMAK/WA 2336 GATHERING LCGS IN VICINITY CF
+TDWE INO FOINT. APPROX 15 M
+NNW FROM KETCHIKAN. USING SPOTLIGHTS.
+2. VESSELS DID NOT SIGHT UFC AND BELIEVED THEY WERE CAUSE CF REPORTS.
+NOTE :
+Advance copy to CIN.
+Reference not identified in SMD.
+92 COG
+SECMAV ASTSECNAVRES&DEV 20 29 09E 290 23 33 34 35 05 26 07 07D 72 73 74
+76 94 IP NAVAIDE CMC JCS CSA CSAF/CIA NIC CCGAFE FLAGPICT BFR
+TO NO Neeą
+CIRCUIT NO.
+¡PAGE
+9/ML/LH/1
+137
+OF
+PAGES
+TIME OF RECEIPT
+07222/14 DEął
+DATE TIME GROUP
+143540Z DEC 62

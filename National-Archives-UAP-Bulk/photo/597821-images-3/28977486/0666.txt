@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:55:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4397594, "source_ctime_ns": 1793380652755539305, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977486/0666.jpg", "source_mtime_ns": 1785700754000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977486/0666.jpg", "source_sha256": "92799a693965fc0fa54b23b87a6d8c24adfa3e810979065c98451803f1374e2b"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 841, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+58
+GM T
+5. PHOTOS
+Point
+A TYPE OF OBSERVATION OPOLON
+CKGround- Visual
+• Ground-Radar
+D Ai~Visual
+• Air-Intercept Radar
+SOURCE
+• Yes
+E No
+7. LENGTH OF OBSERVATION
+an
+a. NUMBER OF OBJECTS
+one
+10. BRIEF SUMMARY OF SIGHTING
+Rnd, obJ, size of house,
+w/a well
+defined trail. Color prior to
+explosion
+was
+pale white. At time of
+explosion
+yellow flame,
+red & bluish-
+black
+flashes were seen w/the yellow
+color
+being most prominent. Subsequen
+to explosion obj again appeared pale
+hite & heading SW.
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balioon
+Possibly Balloon
+Was Aircraft
+•
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+le teot
+Probably Astronomica
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+SY
+11. COMMENTS
+Probably a fireball.
+ATIC FORM 329 (REV 26 SEP 32)

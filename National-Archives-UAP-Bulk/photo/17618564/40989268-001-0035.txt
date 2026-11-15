@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:17:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17179953, "source_ctime_ns": 1793355597115928241, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0035.jpg", "source_mtime_ns": 1785564486000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0035.jpg", "source_sha256": "ca3575e452bb2c970a43785cc1e78a337418f228bd5dfaf9850cdef7fb3374ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 465, "chars": 3174, "method": "ocr", "page": 1, "variant": "plain-vision"}
+56
+1. TEST MATERIAL
+The material on which tests were performed is described in Table 1.
+Table 1. Test Material
+Source
+Type
+Resin
+Identification
+Width
+Thickness
+• VisKing Corporation, Division of Union Carbide (now Ethyl
+VisQueen Film Division, Ethyl Corporation)
+- Polyethylene
+Union Carbide DFD 5500
+Reference 01-24153, ARL 511
+33 inches center fold
+2 mil nominal, 1.98 mil (average of 4 measurements)
+Machine Direction
+2349Śł
+606
+Transverse
+3260
+788
+Tensile Strength (psi)
+Elongation, ultimate (%)
+Toughness (milliseconds)
+Falling Ball - flat 39.6, crease 36.9
+Melt
+- 0.649 gram/10 min
+Cold Brittle-
+ness
+4 ductile at - 68°C
+2. INFLUENCE OF TEMPERATURE ON CERTAIN PROPERTIES OF POLYETHYLENE
+Figure 1 portrays equipment which was used to carry out the first phase of
+this work. Environment was supplied to the test chamber by a Tenney TSU 150
+Servo supply which circulates 40 cfm through various test chambers to which it may
+be attached. Either dry ice, liquid CO2, or both may be used as coolant. The
+temperature control is adjusted manually and the thermostatically controlled
+damper provides a bypass so that chamber air is recirculated without passing
+through the dry ice bed. If necessary, heat can be added during the recirculation
+process.
+The test chamber is a multipurpose unit fabricated for use on this specific
+program. A door opens at the back, while the front is a triple-pane window. When
+completely outfitted the chamber can accommodate up to 40 specimens (film or
+seals). Bottom clamps are rigidly attached, while upper clamps are attached to air
+cylinder shafts. Pressure regulators, gages, and manifolding are so arranged that
+up to five different infinitely variable pressures can be maintained at a given time,
+Figure 1. Apparatus for Conduct of Dead Load Tests at Low Temperatures
+making it possible to conduct prolonged seal tests using a number of different dead
+loads at the same time. Load tapes can also be tested with this apparatus since its
+pressure capability and strength have been designed with this requirement in mind.
+The pressure cylinder approach was adopted to provide a convenient means of
+loading after the specimens had been cooled to the desired temperature--a means,
+unlike weights, that will not subject remaining specimens to shock and vibration
+when one specimen fails.
+2.1 Length vs Temperature (Nonloaded Specimens)
+Creep tests under very light loads can be made by pinning the shafts to fix the
+position of the upper clamps and suspending desired loads in the form of weights.
+Figure 2 indicates the change in length of nonloaded polyethylene specimens. Length
+measurements were made by cathetometer. The contraction experienced is plotted
+against the various points at which the temperature was stabilized. Five specimens
+in which the long axis paralleled machine direction were used, as well as five
+transverse direction samples. To illustrate the range of values, all points are
+plotted; for any given temperature, the cluster to the right represents machine
+direction values, while the cluster on the left represents values for transverse
+direction. Averages for both were so nearly the same as to make a graph of the

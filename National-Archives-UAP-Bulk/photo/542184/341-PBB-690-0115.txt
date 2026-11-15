@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:16:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11614270, "source_ctime_ns": 1793367113703989368, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0115.jpg", "source_mtime_ns": 1785565656000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0115.jpg", "source_sha256": "970e6dd599daf9da85c4bc2a5acaf1368193a11df7e03fe812b91a107f72bffc"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 93, "method": "ocr", "page": 1, "variant": "plain-vision"}
+L01
+Or a
+Angow OZ
+ba,22
+OZI
+cB.
+OIZ
+Notaben idenk
+OZZ
+OEZ
+palma
+ODZ
+anatemlaalna
+OOE
+OZE
+OEE

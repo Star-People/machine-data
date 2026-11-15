@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:23:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20192508, "source_ctime_ns": 1793356686331703593, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0308.tif", "source_mtime_ns": 1785564741000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0308.tif", "source_sha256": "079f245ce34493c1fdfaaa2c2aec0ee0f7d1825fc2a1f3282495df5d34cac478"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 629, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident 7181 -- near Dayton, Ohio -= 14 Vetober 1948
+There is no astronomical explanation for this incident.
+Since the speed of the plane was 160 Pi, if it had
+passed through a cluster of small balloons, a floek of migrating
+birds, or any other group of relatively stationery objects, they
+would undoubtedly have appeared to observers within as objects
+whizzing by, much as telephone poles appear fron a window of a
+speeding train. Little credence can be given to the pilot's
+statement that the objects could not have been migrating birds;
+there would have been no time for identification.
+Declassification Authority: NND 57565

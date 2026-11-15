@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:12:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8422445, "source_ctime_ns": 1793385694253572859, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993936/0390.jpg", "source_mtime_ns": 1785748552000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993936/0390.jpg", "source_sha256": "7747715d67666f9ef76d173a20dbb4c409ddedd91c50c0dc710bad78a402061e"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1023, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCIASSINED MESSAGE
+INCOMING
+AF IN : 18110 (8 Aug 61) M/ape
+ACTION:
+INFO :
+CIN-17
+OOP-2,
+OOP‚CP-1, SAFS-3 (24 )
+SMB C 010
+RR RJEZHQ
+DE RJEZDX 25B
+ZNR
+R 081915Z
+UKO
+FM 4505 AREFWG LANGLEY AFB VA
+TO RJWFAL/ADC ENT AFB COLO
+RJEZKN/25 ADIV STEWART AFB NY
+RJEDSQ/ATIC WPAFB OHIO
+RJEZHQ/USAF WASHINGTON DC
+ZEN/IAC LANGLEY AFB VA
+BT
+UNCLAS FROM ARWOI 8/042. HQ USAF FOR ACS/I AND OIS. TAC
+FOR TIN. SUBJ: UFO. IN COMPLIANCE WITH AFR 200-2 THE FOLLOWING INFO IS
+SUBMITTED: PART A. (1) TWO BLADED PROPELLERS. (2) STATED THAT IT
+LOOKED LIE THE SIZE OF A TURKEY BUZZARD. (3) ORANGE; COLOR OF THE
+MOON WHEN IT FIRST RISES. (4) NOT LESS THAN FIVE OR MORE THAN SEVEN.
+(5) FLYING IN LINE FORMATION. (6) FLOATING IN THE AIR BUT WINGS
+SEEMED TO BE FLYING ALONE, WAVERING SOME. LOOKED LINE A PROPELLER
+THAT HAD BEEN PUT UP IN THE AIR AND THEN ILLUMINATED. (7) NONE.
+(8) NO SOUND. (9) NONE. PART B. (1) VISITORS WERE LEAVING AND
+VAS LOOKING NORTH. (2) 360 DEGREES; ELEVATION UNKNOWN; ESTIMATED

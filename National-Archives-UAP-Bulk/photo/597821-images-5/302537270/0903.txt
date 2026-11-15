@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:36:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 991168, "source_ctime_ns": 1793389160640747435, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537270/0903.jp2", "source_mtime_ns": 1785808427000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537270/0903.jp2", "source_sha256": "0bbc7c152567ebc086cb84d6684fa5dec0502589a71f0e9871843b16e961f9c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 227, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TIN CLEARVIEW MANUHESTUR ASTRONOMICAL SOCIETY
+1050 Hayward Street
+Telephone: 623-8951
+Manchester, New Hampshire 03103
+RONALO F. TRUDEAU
+DIRECTOR
+MRS. D. TRUDEAU
+EXEC. SECRETARY
+Let more chestall come
+as on ont
+Gert
+te meet
+210

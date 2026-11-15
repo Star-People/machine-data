@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:13:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8731408, "source_ctime_ns": 1793363688364305806, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0062.jpg", "source_mtime_ns": 1785684856000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0062.jpg", "source_sha256": "05382445c39e5feac93966b145268fb54aa8020a5e06fb2a4ba44ea9d4991786"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 637, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAL
+INFORMATION
+CURIT
+24-0
+25 August 1952
+SUBJ: Unidentified Flying Object
+Mr. BLYTHE is around 60 years of age and has flown commercially on
+business trips in the past. BLYTHE is owner of the A-1 motor court at 2518 N.
+Central Avenue, Topeka, Kans. BLYTHE advised that Mr. and Mrs. BOB FOUGHT,
+1308 Pea Street, Sacramento, Calif., had also seen the object, and their ob-
+servation had not been brought to the attention of the press.
+ACTION: In absence of specific request by competent authority, no
+further action is contemplated by this office.
+CHARLES P. MARTIN
+Colonel, USAF
+District Commander
+Declassification Authority: NND 923007

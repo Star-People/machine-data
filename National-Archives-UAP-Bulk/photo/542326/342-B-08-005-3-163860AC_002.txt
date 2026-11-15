@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:32:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 93873, "source_ctime_ns": 1793368393214245324, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-08-005-3-163860AC_002.jpg", "source_mtime_ns": 1785565814000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-08-005-3-163860AC_002.jpg", "source_sha256": "07d937b5b1b7977ec2653eeb25dcb52c15f8a80a38c9cdc83d8e7fa322023210"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 134, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Boeing IM-99 "Bomarc", USAF Area Interceptor missile, being launched at
+Cape Canaveral Missile Test Annex, Florida. 13 December 1958.

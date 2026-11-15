@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:43:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1496800, "source_ctime_ns": 1793355959313584842, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0010.jpg", "source_mtime_ns": 1785564569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0010.jpg", "source_sha256": "1021e78f1c3c94078d4ec4b40509b62e0c0716532cfafe9dd2fdbdd7ecef12b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 283, "chars": 1923, "method": "ocr", "page": 1, "variant": "plain-vision"}
+4
+observation of all biological specimens to the Air
+Force Ballistic Missile Division. Provide vivarium
+support to the Air Force R & D Program.
+The adoption of the new mission of the Aeromedical Field
+Laboratory put an end to two of its projects: Project 7851,
+Human Factors of Space Flight, and Project 7857, Research in
+Space Bio-Sciences. These projects, for which Dr. Simons
+had served as project officer, contained the laboratory's in-
+house and contractual work in cosmic radiation, subgravity,
+and cabinạenvironment research. Both were phased out by the
+end of 1958. Responsibility for much of the work in question
+was shifted to the School of Aviation Medicine and (to a
+*
+lesser extent) the Aero Medical Laboratory at Wright Field.
+For example, management of over $100,000 in university research
+contracts negotiated under Project 7851 was now transferred
+to the School of Aviation Medicine. '
+A more complicated problem was posed by Project 7850,
+Biodynamics of Space Flight, which included essentially all
+those aspects of the previous laboratory mission that were to
+be retained either in the same or in somewhat altered form.
+Headquarters Air Research and Development Command proposed in
+July 1958 to abolish the project as such and redocument
+Holloman work in biodynamics as a subordinate task of Project
+7222, Biophysics of Space Flight (now simply Biophysics of
+Flight), which was an activity of the Aero Medical Laboratory.
+As explained officially; 6
+In order to redistribute the present workload of
+the Aeromedical Field Laboratory, AFMDC, so that
+* I.e., Wright-Patterson Air Force Base, Ohio, seat of the
+Wright Air Development Division and of its predecessor, the
+Wright Air Development Center, not to mention its predecessor's
+predecessors. In view of the instability of Air Force organi-
+zational designations, a shorthand term such as Wright Field
+is extremely convenient even if technically loose.

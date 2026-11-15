@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:13:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8525717, "source_ctime_ns": 1793385546777787185, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993618/0107.jpg", "source_mtime_ns": 1785748462000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993618/0107.jpg", "source_sha256": "09d66999f9997c9451b7b9b724f148f94bf213b0bb7de84e1fb855a83fc1de65"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 908, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNGLASSIFIED MESSAGE
+INCOMING
+AF IN
+: 4841 (26 Jul 61)
+Page 4 of 4
+PAGE FOUR RJWZJBK 1
+(2) SURFACE; SSE LIGHT AND VARIABLE 6,000 NOT AVAILABLE; 19,000,
+340 DEGREES 10 KNOTS; 16,000, 170 DEGREES 15 KNOTS; 20,200,
+140 DEGREES 15 KNOTS; 30,000, 180 DEGREES 10 KNOTS; 40,000, 190
+DEGREES 10 KNOTS.
+(3) 1802Z - 10,000 BROKEN; 1100Z - ESTIMATED 9,090 OVERCAST.
+(4) 1000Z - 35 MILES; 1100Z - 35 MILES.
+(5) 1000Z - BROKEN THREE TENTHS; 1100Z - OVERCAST NINE TENTHS.
+(6) LOCATED IN SOUTH QUADRANT AND WEST QUADRANT.
+(7) 2 - 2 1/2 DEGREES PER THOUSAND FEET.
+H. NO UNUSUAL ACTIVITY IN THE AREA.
+I. NONE.
+- Jo NONE.
+K. OPERATIONS OFFICER - PRELIMINARY INVESTIGATION INDICATES THAT
+THE SIGHTING WAS OF A METEOR AT A GREAT DISTANCE FROM THE EARTH,
+OR OF AN EXCEPTIONALLY BRIGHT STAR.
+L.o NONE o
+25/2358Z JUL RJWZJBK
+NOTE
+This is a corrected copy of AF IN 4300 (26 Jul 61).

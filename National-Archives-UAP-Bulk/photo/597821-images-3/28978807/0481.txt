@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:07:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6968900, "source_ctime_ns": 1793380908143776891, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978807/0481.jpg", "source_mtime_ns": 1785700897000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978807/0481.jpg", "source_sha256": "286df617c9541fd9f417552d1b71f87878e8413530bf5c62b30e7ba9ffbc9265"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 664, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MR CRIMi
+PROJECT 10073 RECORD CARD
+2. LOCATION
+31.30N 70.30W Atlantic
+4. TYPE OF OBSERVATION
+• Ground-Visual
+1152-06/06158 X0 Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+•PATION
+Military & Civilian Pilots
+8. NUMBER OF OBJECTS
+9. COURSE
+ore
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+•
+Was Aircraft
+Probably Aircraft
+•
+Possibly Aircraft
+* Not Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+SIGHTING
+"t high alt & left long
+ks. Obj burst into bright
+fire lighting entire
+e sparks observed floating
+¡er explosion.
+N/%
+11. COMMENTS
+Description of a bolide.
+*• SEP S2)

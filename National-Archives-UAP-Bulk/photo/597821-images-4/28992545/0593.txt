@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:52:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4034965, "source_ctime_ns": 1793385270462437150, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992545/0593.jpg", "source_mtime_ns": 1785748086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992545/0593.jpg", "source_sha256": "50658b3e226477b59378776073010828301b3decb4a326004e3de89c6350073d"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 977, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+12. CONCLUSIONS
+Was Balloon
+14 May 61
+3. DATE-TIME GROUP
+Local
+2005
+GM T.
+1501052
+5. PHOTOS
+South Hadley Falls, Mass.
+TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6. SOURCE
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+• Ground-Radar
+• Air-Intercept Radar
+Probably Airerati
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+• Yes
+• No
+7. LENGTH OF.OBSERVATION
+Possibly Astronomical
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+Other
+Echo I
+•
+Insufficient Date for Evaluation
+Unk no wm
+8 min
+10. BRIEF SUMMARY OF SIGHTINGObiong Sphere, size Of
+11. cOMMENTS Description, flight path, and
+duration are characteristic of a
+dime. Bright white front, reddish rear. Appeared
+80°-90°. Disappeared 40°-50°. Appeared to
+satellite. Reporting agency checked with
+have a slight weaving or rolling motion. Just
+Goddard Space Flight Center, which
+confirmed that satellite Echo I was
+faded from view.
+objt in question.
+ATIC PORM 329 (REV :

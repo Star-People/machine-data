@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:49:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3456011, "source_ctime_ns": 1793376643762098432, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961526/1316.jpg", "source_mtime_ns": 1785696558000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961526/1316.jpg", "source_sha256": "5d20b7b5a85301226e2957d4e581a0a06a2c0a354ca2d4ad2cb13aea38deb36b"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 918, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+.- DATE
+3.5
+March 2955
+2. LOCATION
+Cabalina Isle, California
+3.
+DATE-TIME GROUP
+Local
+GM T
+5. PHOTOS
+4. TYPE OF OBSERVATION
+15/2231 2 Har 55
+7 Ground-Visual
+• Ground-Radar
+D Air- Visual
+• Air-Intercept Radar
+SOURCE
+7 Yes
+Ể No
+Civilian
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+approx 2 seconda
+ona (7)
+10. She (L) cajest, aporax the size of a nickel
+held ab am' a length, very bright and orange
+in color, was coserved to fall straight
+down in the vicinity or Catalina tala.
+12. CONCLUSIOKS
+D
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+straight down
+1. COMMENT
+rossoLy astronomical, bus due to cha
+brevity of the sighting, no further
+investigation was daemed worthwhile by
+this organization (1602d AISS)
+AISOP Form 5 (15 Oct 54)

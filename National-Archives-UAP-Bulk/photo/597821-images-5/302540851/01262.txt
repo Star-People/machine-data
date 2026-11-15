@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:37:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1034084, "source_ctime_ns": 1793389440549272351, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540851/01262.jp2", "source_mtime_ns": 1785808615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540851/01262.jp2", "source_sha256": "ad14dae88ea0344443c5d37a0f87283ec8fed24269b2a52e91c5c9ff21f670cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 736, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NO CASE:
+Information Only
+SOURCE: Flying Saucer Review
+Nov-De: 65
+24 Jul 65
+Brampton, England
+Brampton
+The little north-western wave got
+under way with an incident on Juls
+24 (there may have been earlier cases
+But they are not known to us at time
+› writing) which has a certain
+ignificance. From the Cumberland
+Vetes of July 30, sent to us by Mr.
+D. W. Hutton, we learn how David
+Bell (16) of Brampton, and three
+friends, saw a bright blue blur in the
+north-western sky early on the 2-4th.
+Fairly high when first observed, the
+object descended towards the youths,
+hung stationary awhile before moving
+off to the East. After disappearing
+and re-appearing, a series of orange
+dous "came out in front of it', and the
+object then vanished.

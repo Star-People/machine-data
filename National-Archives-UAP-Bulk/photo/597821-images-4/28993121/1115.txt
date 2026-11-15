@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:53:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4156556, "source_ctime_ns": 1793385403313956551, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993121/1115.jpg", "source_mtime_ns": 1785748276000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993121/1115.jpg", "source_sha256": "f83ebe5896dfb4c2c7b7296e473dea8ed38da986d6d6cda5eeb00e968d04590a"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 617, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. Time and Date of Sighting:
+(1) About 0300 hours - 2d time 0800 - 30 June 61
+(2) Light conditions - just before davu
+Location of Observer:
+Crosse Pointe, Michigan
+Identifying Information on Observer:
+Name: Mrs.
+Residence:
+Phone:
+housewife, age 38
+Grosse Pointe, Mich.
+8. Observer's account of veather conditions - clear, no clouds at all.
+h. Weather Conditions:
+Selfridge AFT weather report for 0300, 30 June 61:
+Ceiling: 12000 ft - broken clouds
+Visibility: 6 miles - •moke
+Wind direction and velocity: MSN at 3 nots;
+no thunderstorms in area.
+*Colonel,
+Commander
+Copies to:
+Conde SelFridge AFB
+Hq USAP (AFISI-6D)

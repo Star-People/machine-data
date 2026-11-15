@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:35:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 959304, "source_ctime_ns": 1793394103283741413, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302583700/0067.jp2", "source_mtime_ns": 1785808555000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302583700/0067.jp2", "source_sha256": "3387ee2d37f43e2a7cc6e28abf88d5badfcef9a516e235127a6e4d7b521d47c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 609, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2 9 SEP 1969
+TDPT (UFO)
+UrO Sighting, 26 August 1969
+Edwards AFB, California 93523
+1.
+Reference your UFO sighting of 26 August 1969.
+The
+stimılus for your sighting has been identified as probably
+the decay of Cosmos 294 rocket body. The rocket body entered
+the earth's atmosphere at 8:54 p.m. PDT +7 minutes and had an
+end point at 25.2 degrees north latitude, 111.8 degrees vest
+longitude.
+2. Thank you for your cooperation and interest in reporting
+your sighting to the Air Force.
+HECTOR QUINTANTIA, Jr, It Colonel, USAF
+Chief, Aerial Phenomena Office
+Aerospace Technologies Division
+Production Directorate

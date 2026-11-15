@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:17:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16003697, "source_ctime_ns": 1793355747600378524, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0189.jpg", "source_mtime_ns": 1785564515000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0189.jpg", "source_sha256": "cccdad797fae7b89b8bad61419eb0255dcd6f9a885d0f50413001d90e189a1bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 214, "chars": 1416, "method": "ocr", "page": 1, "variant": "plain-vision"}
+365
+XXXI. The Balloon as a Stepping-Stone
+to Space Flight
+Otto C. Winzen
+Winzen Research Inc.
+Minneapolis, Minnesota
+Abstract
+The plastic balloon vehicle, native to the United States, is a valuable, proven
+test platform which could serve to fill the gap between earth-bound simulators and
+final space flight. Balloons operate at an altitude where the environment, both
+physically and psychologically, resembles closely that of space flight. The balloon
+vehicle is uniquely capable as a manned space station analog with the capability of
+long flight duration, at low cost and immediate availability.
+In the search to reduce
+the exorbitant cost of test programs leading to manned and unmanned space flight,
+we would be remiss not to explore its unique capabilities. The high confidence
+level achieved by seven successful major manned flights made by Winzen Research
+Inc. for the U.S. Navy and U.S. Air Force add to the attractiveness of the vehicle.
+The paper presents illustrations of these operations, illustrations of polyethylene
+balloon capabilities, and advanced concepts.
+Seventeen years have passed since we flew the first plastic Skyhook balloon,
+sponsored by the Navy Office of Naval Research, then still the Office of Research
+and Inventions. The objective, then and now, was not so much to improve the art of
+ballooning as to develop a reliable and inexpensive research tool and test platform
+for science.

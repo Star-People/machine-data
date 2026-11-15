@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:40:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1042643, "source_ctime_ns": 1793389430952761061, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540710/01062.jp2", "source_mtime_ns": 1785808027000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540710/01062.jp2", "source_sha256": "2bdd4fd5c265c4b0b61cff27dc3cb85361162b7162d00a711d002157d0b6698e"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 803, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NOMING
+MESSAGE
+OFPARIMENT OF THE AIR FORC
+STARF MESSAGE BRANCH
+UNCLASSIFIED
+AF IN : 37664(29 July 65)
+(5) NA
+Pg 2 of 4
+(6) NONE
+(7) NONE
+(8) NONE
+(9) NONE
+8. DESCRIPTION OF COURSE OF OBJECT (S):
+(1) ATTENTION TO THE OBJECT WAS CALLED WHEN THE OBERSVER AND HIS
+SIFE NOTICED A LIGHT ABOVE AND SLIGHTLY BEHIND TWO AIRCRAFT WHICH
+WERE ON A WNW TO ESESCOURSE. THE OBJECT LOOKED LIKE A STAR MOVING
+ON THE SAME COURSE AS THE AIRCRAFT BUZ MUCH SLOWER. THE AIRCRAFT
+SOON DISAPPEARED OVER THE HORIZON. THE OBJECT CONTINUED IN THE SAME
+DIRECTION AND EVENTUALLY FADED FROM SIGHT.
+(2) OBJECT FIRST NOTICED DIREKTLY OVERHEAD.
+(3) OBJECT FADED TO ESE ABOVE THE HORIZON
+(4) STRAIGHT LINE COURSE.
+(5) FADED TO ESE
+(6) "AT LEAST HALF AN HOUR OR MORE"
+C. MANNER OF OBSERVATION:
+(1) GROUND -SVISUAL
+(2) BPTICAL AIDS - NONE

@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:16:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10302941, "source_ctime_ns": 1793363900110716054, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0023.jpg", "source_mtime_ns": 1785685032000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0023.jpg", "source_sha256": "91f4a5304ebc69d4c5550bc66fcc480a9cb67a4b5ebbfb2049adadf4a17cdc08"}
+
+===== PAGE 1 =====
+{"alpha_words": 252, "chars": 1714, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+16D 24-0
+28 April 1959
+SUBJECT: Reported Unidentified Object Found in Mexico
+TO :
+District Commander
+5th District OSI (IG) USAF
+Wright-Patterson APB, Ohio
+1. Reference is made to telephone conversation this date between
+Major EDMUND GLAVEY, Chief of your Counterintelligence Division, and
+Mr. ROBERT HUSHBECK of this office.
+On 27 April 1959, Nr. ROLAND B. MULCAHY, Geologist, Anaconda
+Mining Company, Kearns Building, Salt Lake City, Utah, advised sub-
+stantially as follows:
+24-0- 3794ł
+He received a letter written in Spanish dated 23 April 1959
+from PABLO V
+Mexico, in which CRUZ stated that he had located a "Satellite or
+apparatus thrown towards the moon." The object had a silk para-
+chute attached, was unharmed, and landed in an area where it could
+be approached by vehicle to within 200 meters. CRUZ did not know
+whether the object was of American or Russian manufacture and
+desired that American authorities be notified so that he might
+collect a reward.
+He has had dealings with CRUZ, involving mine leases for
+several years, and though CRUZ may exaggerate at times, he believes
+CRUZ is truthful in this instance. However, CRUZ is uneducated and
+may not know a "Satellite or apparatus thrown towards the moon"
+from a weather balloon.
+Cocorit, Mexico is located on the Western coast of Mexico near
+the town of Ciudad Obregon, a seven hour drive from Nogales, Mexico.
+From past experience he recommends that CRUZ be contacted prior
+to notification of Mexican authorities, as they would probably send
+a large number of persons to that area.
+UNCLASSIFIED
+CLASSIFICATION CANCELLE
+BY AUTHORITY OF THE
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+DATE
+4 DEC 1975
+Declassification Authority: NND 923007

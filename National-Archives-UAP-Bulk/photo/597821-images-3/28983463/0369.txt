@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:59:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5172507, "source_ctime_ns": 1793382361649131959, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983463/0369.jpg", "source_mtime_ns": 1785700888000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983463/0369.jpg", "source_sha256": "238a4c87bd49e58aa7e824e752eaadd9b25b01ccacdf4c670a79a2bb2deaf907"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+epprop point catere
+object was reported
+no approp 4000kT in
+elevation, Elevatin
+is opprop
+18881T. 79 pentann
+He mountaise range
+to the S w of fenderson
+rise to as brign 2z
+1979 ft, starting at
+3 cso pr fant sw of
+Wenderson.
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+59
+3. DATE-TIME GROUP
+Local
+CM T
+5. PHOTOS
+Q:Ground-Vi Ground-Visual
+• Air Visuol
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+3.N0
+7. LENGTH OF OBSERYATION
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+10
+Was Balloon
+Probably Beiloor
+Possibly Balloon
+Was Aircraft
+Possibly Aireraf
+Possibly
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluatio
+Unknown
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTą
+Probably
+an afe
+reflecting th
+coight
+ine of
+ATIC FORM 329 (REV 26 SEP 52)

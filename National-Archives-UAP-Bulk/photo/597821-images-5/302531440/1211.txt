@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:43:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1442514, "source_ctime_ns": 1793388720350641268, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531440/1211.jp2", "source_mtime_ns": 1785808718000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531440/1211.jp2", "source_sha256": "b4b51140cad6eeb159525d0cd50cfc64430078661604baf48c763b8e59dc976c"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1046, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24 JAN
+N-NNN
+MISSILE
+DEPARTAENT OF THE AIR FORCE
+STAFF MESSACE BRANCH
+UNCLACED MESSAGE
+INCOMING
+AF IN : 20898 (15 Feb 64)X/der
+Page 1 of 3
+ACTTON: OSD-15
+INFO
+SAF-OS-3
+SMB C248
+~19-
+ZCZCHQC993ZCQJB 149
+RR RUEAHO
+DE RUCSBR 228 15/1806Z
+ZNR
+R 151645Z
+FR SAC
+TO RUEAHS/ SECDEF
+INFO RUEAHQ/OSAF WASK DC
+RUWHNF/BSD NORTON AFB CALIF
+RUEA GL/AF SC
+OFFICE
+SAFS
+SAFUS
+Dep RR
+| SAFMA
+Dep MA!
+Dop PM
+Dep TO
+Dep SH
+SAFEM
+SAYRD
+SATMP
+MP O
+R ROTO
+SAFAR
+SAFGO
+SAFOI
+SAFTE
+SAFUL
+DING
+RUWHSS/ISAD VANDENBERG AFB CALIF
+BT
+UNCLAS DXIP-1 15228. FOR OASD (PA). INFO:
+SAF-OIPC, BSE, SCE AND DXI. A MINUTEMAN LAUNCH FROM
+VANDENBERG AFB ON 24 JAN 1964 WAS SEEN FROM IDAHO TO MEXICO
+AND RESULTED IN OVER 120 TELEPHONE QUERIES FROM NEWS MEDIA
+AND CIVIL AUTHORITIES. THE LAUNCH
+OCCURED AT TWILIGHT AND CREATED AND PREDICTABLE METEOROLOGICAL
+PHENOMENA. THE SAME PHONOMENA OCCURS DURING A PRE-DAWN
+LAUNCH. TO PRECLUDE UNDUE PUBLIC SPECULATION AND CONCERN,
+RECOMMEND THAT RELEASE 6 TO ANNEXI OF DOD PUBLIC AFFAIRS PLAN
+59-A-22 BE ADDED AS FOLLOWS: QUOTE. A (TYPE MISSILE) WAS

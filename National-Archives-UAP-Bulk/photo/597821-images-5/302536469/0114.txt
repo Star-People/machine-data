@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:39:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 985478, "source_ctime_ns": 1793389110124887194, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536469/0114.jp2", "source_mtime_ns": 1785808324000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536469/0114.jp2", "source_sha256": "6bd23ad57d1bd93d10ba6e301c4111b210dda3eae499cd2a4be4bb441af12d65"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 740, "method": "ocr", "page": 1, "variant": "plain-vision"}
+BOWSER-MORNER Testing Laboratories, Inc.
+CHEMISTS •
+INSPECTORS
+ENGINEERS
+Founded 1911
+LABORATORY REPORT
+420 DAVIS AVENUE
+MAIL ADDRESS P.O. BOX 51
+DAYTON I, OHIO
+PHONE: 253-8805
+January 7, 1965
+Report to:
+Report on:
+Univeraity of Cincinnati - Cincinnati, Ohio
+Spectrographic Semi¿¿uantative Analysis
+Laboratory No.: 616507
+Your Mark: 2.0. No. 31984
+Sample Identification:
+4-1993
+Calcium
+Copper
+Magnesium
+Silicon
+Iron
+Nickel
+Sodium
+Al umi num
+Manganese
+Titanium
+Zirconium
+Molybdenum
+Varddium
+Barium
+Strontium
+Chromium
+6.00
+• 02
+2,5
+29.0
+9.0
+-02
+1.0
+4.0
+• 15
+1.50
+•05
+.O1
+Trace
+•03
+.03
+•10
+Respectfully submitted,
+BOWSER-MORNER Teating Laboratories, Inc.
+Client - .
+Pile - l
+SL/bb
+Spectrographer
+And Auborial
+Pete an Consi
+Property of Clienta

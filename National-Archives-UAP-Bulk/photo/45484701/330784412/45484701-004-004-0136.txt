@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:03:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6435600, "source_ctime_ns": 1793363089602617440, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0136.jpg", "source_mtime_ns": 1785684808000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0136.jpg", "source_sha256": "f0dde5e23f3c281d1fb0825759a079eed7a7c4b1f4183bb0172af6fb7e38778e"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1195, "method": "ocr", "page": 1, "variant": "plain-vision"}
+B/L fr Hq USAF, Subj:
+(Unclass) Radar Targets -
+Corner Reflectors SPECIAL
+INQUIRY, dtd 9 Jen 51
+MATS 24-231
+Ist Ind
+MACIG
+UNCLASSIFIED
+HQ, MILITARY AIR TRANSPORT SERVICE, Andrews AF Base, Washington 25, D.C.
+15 JAN 1951
+TO: Chief, Air Weather Service, Andrews AF Base, Washington 25, D. C.
+1. Attention is invited to basic communication and inclosure.
+20
+Request your headquarters comment on the recommendation con-
+tained in paragraph 3 of Inclosure #l.
+BY COMMAND OF MAJOR GENERAL KUTER:
+1 Incl
+Dup cy of Inel 1 w/d
+en, a hole
+JULIUS A. KOLB
+Colonel, USAF
+Deputy Inspector General
+AWS DM 4/3.44 Radar 2d Ind
+HQ, AIR WEATHER SERVICE, Andrews AFB, Washington 25, D. C.
+TO: Commander, Military Air Transport Service, Andrews AFB, Washington
+25, D. C.
+1. All AWS units which use Corner Reflectors (Radar Targets) will
+be instructed to indicate on the target that it is a weather target and
+may be retained by the finder.
+The Signal Corps will be requested to have similar information
+stamped on the radar targets by the manufacturer in the future.
+FOR THE CHIEF, AIR WEATHER SERVICE:
+1 Inel:
+n/e
+KENNETH
+FOLORER
+CAPTAIN, USAF
+ASST. ADJ. GENERAL
+UNCLASSIFIED
+Declassification Authority: NND 923007

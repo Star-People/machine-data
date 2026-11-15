@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:38:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 814520, "source_ctime_ns": 1793391630153243726, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560382/0630.jp2", "source_mtime_ns": 1785808562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560382/0630.jp2", "source_sha256": "13e539f922d9fdd965f30c6684ae8742d735d287e3872aaddf483d1407c6f410"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 997, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED -
+DEPARTMENT OF THE AIR FORCE
+STAFF DRESSAGE BRANCH
+RICOMING MESSAGE
+AF IN : 44726 (24 Jan 67) H/wlc
+Pagel of 3
+ACTION: RDC-4
+INAB Bİ52 V532 XOPX-2, SAFOS -3, NIN-7, DIA-1 (1210 VE
+PTTE JAN RUQLMKA2200 024 15 12-EEEE-RUEDHQA.
+OS
+OSA
+ZNY EEEEE
+UST
+19
+P 241442Z
+FM AFETR PATRICK AFB FLA
+TO RUMFVA/AD C
+13/2
+RUCEFA/823AIRD IV HOMESTEAD AFB FLA
+RUEDFIF/FTO WRIGHT PATTERSON AFB
+R LED HQA / CSAF
+R LED HQA/O SAF
+BT
+UNCLAS E F T O ETOP 23123 24 JAN 67. SEC 2 OF 2
+NOISE LEVEL WAS 27 MICROVOLTS, CONTINUED ON BOTH ANTENNAS THROUGHOUT THE
+MORNING & LEVEL REMAINED APPROXIMATELY 27 MICROVOLTS.
+AT 1300E EMPLOYED PORTABLE FM RECEIVER TO ATTEMPT TO PINPOINT NOISE
+SOURCE, TWO DEFINITE & DISTINCT NOISE SOURCE DIRECTIONS WERE NOTED.
+ONE WAS CAUSED TO A CHASIS OF PANADAPTER SCOPE EQUIPMENT & WAS
+RHYTHMNIC RATHER THAN RANDOM. THE OTHER SOURCE OF NOISE WAS ERRATIC
+AND RANDOM AND OCCURRED IN BURSTS, LARGELLY NON-DIRECTIONAL, OCCURRING
+THROUGHOUT THE PM BAND.
+FORN
+AFHO JAM GS 0-309C
+UNCLASSIFIED

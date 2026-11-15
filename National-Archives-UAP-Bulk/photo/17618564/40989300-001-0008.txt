@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:37:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1079200, "source_ctime_ns": 1793356038281483835, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0008.jpg", "source_mtime_ns": 1785564590000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0008.jpg", "source_sha256": "7427669f4d0d057f91a2e58b21b839665abc33c2920ef26861cc77356293bb81"}
+
+===== PAGE 1 =====
+{"alpha_words": 223, "chars": 1557, "method": "ocr", "page": 1, "variant": "plain-vision"}
+were to be freed at 40,000, 42,000 and 45,000 feet. The use of sand ballast,
+to be dropped in increments upon descent to altitudes below 31,000 feet,
+was supplemented by an early model of the automatic ballast valve set to ox-
+pend liquid ballast at 34,000 feet.
+From the height-time curve of the flight (Figure 2), it will be seen that
+the maximun altitude reached was much above the predicted 35,000 feet. Also
+IBALLOON BURST
+INTERPRETATION No 2
+50 F1heda
+-153 F1/ma
+- 5 eate
+DATA SUBJECT TO INTERPRETATION
+DUE TO LACK OF RECORDERS
+NTERPRETATION No
+2 BALLOONS BURST
+I8 REMAINING
+35
+- 350 F1 / min
+LI BALLOON BURST
+• OBSERVED LIFTER BURN-OFF
+22- REMAINING
+684 F1/min
+HEIGHT-TIME CURVE
+FLIGHT-5
+Released at Alamogordo, NM
+June 5th. 1947-0517 M.S.T.
+-519 F1/mia
+- 150 F1 /d
+5 BALLOONS BURST
+-1050 Ft/ala
+- SAND ONE PAST DON
+/ SAND BALLAST DROPPING
+1-400 FANŚ
+-EXTRAPOLATED
+UCTED COU
+→ BALLOON BURST
+50
+100
+4 = BALLOONS + 3 LIFTERS
+1S TIME (min)
+200
+250
+300
+Figure 2
+the rate of rise was greater than expected. Both of these evidences of ex-
+cess buoyancy are attributed to superheating of the balloon by sunshine.
+The real height is somewhat in doubt because the conventional radiosonde baro-
+switch (Army type ML-310/)was used, and the pressure signal which was trans-
+mitted was ambiguous at some points.
+On this flight theodolite readings were taken until the balloon was 90
+miles away from release point after 260 minutes of flight. In addition,
+visual observations were taken from a B-l7 aircraft which circled the bal-
+loon for most of the flight.
+-7-

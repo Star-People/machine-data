@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:06:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7267278, "source_ctime_ns": 1793385046582016271, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991678/1308.jpg", "source_mtime_ns": 1785748146000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991678/1308.jpg", "source_sha256": "8974950f6d64969b8a7870a789158c9c40346d4392b53aa67d05969e46c993a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 635, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFO ANALYSIS SHEET
+Location
+Springfield & Dayton, Chio
+Date (Local) 2 March 1961
+Hour (Local) 1930
+Hour (7 Time Group) 030030Z March 61
+Satellite: (Det 5 ATIC, Ext 3279)-
+Astronomical Phenomena (Meteor, Comet, Planet, etc) Fireball
+Radar Analysis' (AFCIN-LE1)
+NA
+Natural Phenomena (Ball Lightning, etc) ----
+Aircraft, Balloons, Airships, etc.
+Other
+Evaluation of Source Reliability.
+Unknorm
+Analysis and Conclusions:
+Two witnesses seperated by several miles saw the
+the object at the game timeim indicating that the object was at a very high axi
+altitude. The description of the object is characteristic of a meteor called
+a fireball.

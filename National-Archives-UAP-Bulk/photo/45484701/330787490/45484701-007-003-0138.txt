@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:09:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7789296, "source_ctime_ns": 1793364690491180987, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0138.jpg", "source_mtime_ns": 1785684892000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0138.jpg", "source_sha256": "c1db17d923592b674a2c6d3ad53530ba22379957b0ed3b05520586b04c75c16e"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 785, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+INCOMING CLASSIFIED MESSAGE
+MAY 23 03 50-5₴
+PAGE TWO JUPFN 58LM
+RESTRICTED
+SECURITY INFORMATTON
+A HORIZ AZIMUTH OF THREE FIVE ZERO DEGREES AND A VERTICAL ANGLE OF
+EIGHT FIVE DEGREES SMCLN THAT OBJ APPEARED TO BE RECTANGULAR IN SHAPE
+AND TO BE AN EXTREMELY BRIGHT SILVER COLOR PD FURTHER THAT OBJ MERELY
+DISAPPEARED FR SIGHT AND DID NOT FLY AWAY PD HO WESTERN AIR DEFENSE
+FORCE HAMILTON AFB NOTIFIED PD PICKERING BEING INTERVIEVED BY THIS
+OFFICE
+JUPFN
+ACTION : OIN
+INFO : CSI, CIG, CDS, 0OP
+CAP
+IN : 69130
+(23 May 52)
+Page 2 of 2 pages
+SDM/hhh
+AFHQ FORM 0-309g
+19 JAN 51
+PREVIOUS EDITIONS OF THIS FORM MAY BE USED.
+RESTRICTED
+16-63734-1 * U.S GOVERNMENT PRINTING OFFICE: 1951-O-927440
+Declassification Authority: NND 923007

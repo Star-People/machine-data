@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:44:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1650224, "source_ctime_ns": 1793388958819715476, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534938/00131.jp2", "source_mtime_ns": 1785808523000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534938/00131.jp2", "source_sha256": "315e84c8a1d66ddf2c6437da85e74b324b2942d3ef12f04577e5549244fdee84"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 373, "method": "ocr", "page": 1, "variant": "plain-vision"}
+6. Identifying Informabion
+civilian,
+Binghanton, II.Y., 15
+years experience in sky observation.
+Reliability - excellent.
+T. Weather and Winds - see atch /2.
+8. Comments. The investigators feel that Mr. Dudine's observation explains
+the observetion in attachment 73. He has kept a detailed log of all sightings
+and positively identifies the sighting as a svept-wing bomber.

@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:09:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7764686, "source_ctime_ns": 1793359918083196771, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-034-0006.tif", "source_mtime_ns": 1785681566000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-034-0006.tif", "source_sha256": "ec60e75706348710449bb7a2f35d7da70198ae80cfaf4c3b3f194204370ff84c"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1251, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+08/07202 MAY
+Прас
+ENO 004
+ENB059 YMA051 YYE026HRA020 HRA016HRJ001
+MM RJEDEN RJEDAE RJEDWP RJEPHQ
+DE RJEDHR 1J
+M 080035Z
+FM COMDR 676TH ACWRON ANTIGO AFS WISC
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
+RJEDAE/COMDR 37TH AD TRUAX FLD MADISON WISC
+RJEDWP/COMDR AIR TECH INTEL CEN WRIGHT PATTERSON AFB OHIO
+RJEDHQ/DIR OF INTL HDQ USAF WASHINGTON 25, DC
+/UN CLASS I FIE D/ ANOPS 05-034 PD THE FOLLOWING UFOB REPORT
+IS SUBMITTED IAW AFR 2000-2 PD
+(A) ROUND
+(B) BASEBALL
+(C) REDDISH ORANGE
+(D) THREE SIGHTINGS FIRST, SIX OBJECT. SECOND, TWO OBJECTS.
+THIRD, NINE OBJECTS
+(E)
+U SHAPED FORMATION
+(F) NEGATIVE
+(G) NEGATIVE
+Delier
+Poscible Birds
+776020 7754 0808 PE
+Marinette, Mich
+PAGE TWO DE RJEDHR 1J
+(HO NAGATIVE
+(I) NAGATIVE
+1
+(A) REV. BURNEISTER IS AN AMATEUR ASTROMOMER AND WAS OUT LOOKING
+AT THE STARS WHEN HE MADE THIS SIGHTING.
+(B) NEGATIVE
+(C) NEGATIVE
+(D) CAME OUT OF THE EAST ON A WEST NORIH WEST HEADING. STRAIGHT
+LINE OF FLIGHT
+(E) DISAPPEARED OVER THE HORIZON
+(F) APPROXIMATLY ON HOUR
+3 (A) GROUND VISUAL
+(8) BINOCULARS
+(C).
+N/ A
+4 (A) 05/0230Z WX MAY 56 TO 05/0330Z/ MAY 56
+(B) DUSK
+5 CA 2206
+6 (A) REV.
+FORTY TWO,
+MARINETTE MICHIGAN CLERGY
+(B) N/A
+7
+(A) CLEAR
+(B) SURFACE: 240 DEGREES AT 6 KNOTS

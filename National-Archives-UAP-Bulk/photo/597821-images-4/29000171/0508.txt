@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:55:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4330301, "source_ctime_ns": 1793388143995216923, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000171/0508.jpg", "source_mtime_ns": 1785748314000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000171/0508.jpg", "source_sha256": "04f259d761354505938e60e2540e3c563160d5204082f531446374cb2270ddb7"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 386, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+23 January 1963
+North Royalton, Ohio
+NORTH ROYALTON, OHIO Jan. 23, 1963 - 10:30
+El. Mr. Norm Summers, school teacher saw
+a brillant green object with a cone-shap-
+ed orange or yellow tail.
+It started from
+directly overhead and then dropped down be
+hind the horizon.
+It was as large as a
+nickel at arms length.
+Duration of sight-
+ing: 3 seconds. (KYW Program)

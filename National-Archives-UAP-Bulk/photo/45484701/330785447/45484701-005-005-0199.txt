@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:13:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8629045, "source_ctime_ns": 1793363574917774137, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0199.jpg", "source_mtime_ns": 1785684630000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0199.jpg", "source_sha256": "4e73cdc0faa91017e37bcd167766144edcb2674761938d76d295f5d45a31ee31"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 746, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HAL
+CSI
+Hq: US AF
+AFOSI
+DISTRICT COMMANDER, 10th COI DISTRICT(IO)
+Selly AFB, San Antonio, Texas
+5 July 1950
+Confidential
+PRIORITY
+CAP IN 4646 (5 Jul 50) Confidential
+58360
+PARAPHRASE NOT REQUIRED
+From AFCSI reur flying saucer sessage 4 Jul 50.
+Request object be further identified through contact with competent technicians
+that have been to the scene of the landing. Investigation authoriaed if necessary
+to secure such evaluation. Reply sconest.
+AFCSI FILE COPY
+BY ASKING ONE CAP, SAR PUNC
+Historian
+4 DEC 1975
+BY
+DATE
+UNCLASSIFIED
+nor 2 11 20.20
+Confidential
+USAI
+OFFICE OF
+SPECIAL INVESTLGATIONS
+PAUL M. FOLD,
+AFCSI
+tajor, vom
+53623
+TURNER, I
+Colonel, USAP
+xecutive, Special Investigations
+JUL 1 1 1950
+Declassification Authority: NND 923007

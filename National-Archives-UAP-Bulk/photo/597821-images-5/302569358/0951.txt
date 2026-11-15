@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:43:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1451955, "source_ctime_ns": 1793392634914572717, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569358/0951.jp2", "source_mtime_ns": 1785808572000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569358/0951.jp2", "source_sha256": "5744d72d0afddf782f8028576d4d8491ebe0eb059bcdd65264690b616b4346e6"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 465, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SAF-LL
+It Col Quigley
+Attached 1s a proposed reply to Mr
+- Zephyrhills, fia., who wrote to the
+Vice President about his UFO sighting.
+2.
+SAF-OIC action officer is Miss
+-Ext. 76526.
+GERALD R. JORGENSEN, CO1.,
+USAT
+Chiof, Community Relstions Division
+Office of Information
+26 Sep 67
+75117
+COORDINATED By (Office Symbol, Name,
+SAFOI- CC
+Meen
+Allo
+Ков.
+Grade, Date)
+SEP 2 8 1967
+-Geord cy - SAF-OIC
+Combk cy - SAF-OIC
+Reader cy - SAF-OIC
+Activity cy - SAF-OIC
+Stayback

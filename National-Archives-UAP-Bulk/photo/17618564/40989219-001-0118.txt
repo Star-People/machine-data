@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T21:08:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7702320, "source_ctime_ns": 1793354761949029630, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0118.jpg", "source_mtime_ns": 1785564336000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0118.jpg", "source_sha256": "cc25de27f9a90c4821a03702236a2ede3976771cf2052c7bd75ce1e2a6144171"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 195, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+STATEMENT OF ISSUES
+
+< IS ARTICLE 133, UNIFORM CODE OF MILITARY JUSTICE,
+
+A CRIMINAL STATUTE?
+
+II IS ARTICLE 133, UNIFORM CODE OF MILITARY JUSTICE,
+
+AS A CRIMINAL STATUTE, VOID FOR UNCERTAINTY?

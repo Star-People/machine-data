@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:47:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1745623, "source_ctime_ns": 1793389917152993358, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544911/0739.jp2", "source_mtime_ns": 1785808217000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544911/0739.jp2", "source_sha256": "b878e8f428760c8a74d0595121ef9567ef7310d76139650f07b0ecdfffdc38af"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 661, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARIMENT OF THE AIR FORCE
+2032 Communications Squadron (AFCS)
+Lockbourne Air Force Base, Ohio
+STATEMENT
+(UFO SIGHTING)
+At 0255 I observed a white object over the approach end of R/W 23
+at an estimated 30 to 40 degrees above the horizon moving SSW, The object
+then made a circle around the base to the MW where it faded out. The
+object was traveling at a high rate of speed and was at an estimated 15 miles
+From (7-8)
+for the base. The object vas under observation for about 5 minutes,
+28 Sept 65
+010701
+PALMER G. PRAIT, AP24253990
+SSgt, USAF
+I certify the above statement to be correct.
+28 Sept 55
+10070
+THOMAS A. DOONAN, Capt, USAP
+Flight Facilities Officer

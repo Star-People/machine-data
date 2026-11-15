@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:56:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4692419, "source_ctime_ns": 1793374966387381337, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954116/0207.jpg", "source_mtime_ns": 1785696548000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954116/0207.jpg", "source_sha256": "82dd14fe51f7344daf5873180d257fd737728b2366faa3607c1c90799fdfe7bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 529, "method": "ocr", "page": 1, "variant": "plain-vision"}
+11 11 1009 1872053 20 51 2
+ACTION
+INFOR
+RC1140
+WPF 151
+1953
+TYB2 63
+16:5
+JE. 20198
+JEN B268
+NMNM JEDWP
+DE JENC 8
+NM 8814272
+FM CO ERNEST HARMBN AFB NF
+TO CG ATIC WRIGHT¿PATTERSON AFB OHIO
+AOIT-2-E. REFERENCE YOUR MESSAGE ATIAE-4473, PROJECT BLUE BOOK, AF
+FORM 112 WAS PREPARED AND FORWARDED BY DIRECTOR OF INTELWIGENCE NEAC
+IN ACCORDANCE WITH COMMAND POLICY. INFORMATION REQUESTED IN YOUR MESS-
+AGE WILL BE FORWARDED UPON COMPLETION OF INVESTIGATION BEING CONDUC-
+TED BY OFFICE SPECIAL INVESTIGATION THIS BASE.
+08/14322 MAY JENC
