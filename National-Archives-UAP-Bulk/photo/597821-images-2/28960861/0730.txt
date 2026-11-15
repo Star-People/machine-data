@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:34:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3698258, "source_ctime_ns": 1793376472133940055, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960861/0730.jpg", "source_mtime_ns": 1785696913000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960861/0730.jpg", "source_sha256": "8df113c33d886def5fdb20abaf19185446a2eb00d4215de9d9e1e1a52beef16c"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 658, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFCB INDEX CARD
+TE
+JAN 1955
+3. DATE-TIME GROUP
+Local
+GM T
+5. PHOTOS
+90145Z (DUSK)
+TO No
+7. LENGTH OF OBSERYATION
+20 SECONDS
+O.
+BRIEF SUMMARY OF SIGHTING
+2. LOCATION
+12. CONCLUSIONS
+D
+SALONA BEACH,
+CALIFORNTA
+4. TYPE OF OBSERVATION
+Ground- Visual
+• Ground-Radar
+D Air-Visual
+• Air-Intercept Radar
+SOURCE
+a
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+robably Aircraf
+Possibly Aircraf
+8.
+CIVILIAN
+NUMBER OF OBJECTS
+9. COURSE
+_NE
+11. COMMENTS
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+i Other.
+POSS, ILARE
+Insufficient Data for Evaluat
+Unknown
+ONE
+LICHT BLUE LICHT,
+SPLIT
+IN TO TWO.
+POSSIBLY A FLARE.
+AISOP Form 5 (15 Oet 54)

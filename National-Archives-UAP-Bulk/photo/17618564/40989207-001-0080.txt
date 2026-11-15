@@ -1,0 +1,146 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:59:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12158572, "source_ctime_ns": 1793354447098687191, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0080.jpg", "source_mtime_ns": 1785564286000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0080.jpg", "source_sha256": "a4932cd14e3e3bfc4711625338a3b5e8cf13c2f1b3d0a0da07dfacfb5b06af72"}
+
+===== PAGE 1 =====
+{"alpha_words": 745, "chars": 5233, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AEROSPACE ENGINEERING
+Scientists and engineers collabo-
+rate closely to probe the environment in
+which Air Force systems operate.
+Experimental payloads are carried aloft
+on balloons, rockets, satellites, and the
+shuttle. The Air Force Geophysics Lab-
+oratory conducts a technology base pro-
+gram in payload design, telemetry,
+tracking, command and recovery sys-
+tems, and data-handling techniques.
+AFGL has launched more than a
+thousand rockets since 1946, many
+from the White Sands Missile Range.
+Auroral payloads are launched from
+the Poker Flat Research Range, Alas-
+ka. The Laboratory maintains a perma-
+nent balloon-launch facility at Hol-
+loman AFB, operating primarily within
+the White Sands Missile Range. Mobile
+facilities also permit rocket and balloon
+launchings as needed anywhere in the
+world. A new Payload Verification and
+Integration Facility at the Laboratory's
+headquarters provides for environmen-
+tal and structural testing of balloon,
+rocket, and spacecraft payloads.
+The Laboratory flies both free and
+te hered balloons, or aerostats. Free
+balloon systems rise slowly, at 800-900
+feet per minute, and can stay aloft for
+hours or even days, reaching altitudes
+of over 150,000 feet. Planetary probes
+released from balloons can be tested in
+the stratosphere. The descent speeds
+and decelerations that NASA's Galileo
+probe will encounter on Jupiter were
+simulated from 97,000 feet above the
+White Sands Missile Range. In cooper-
+ation with the Rome Air Development
+Center, AFGL developed for the De-
+fense Communications Agency a high-
+powered antenna as an integral part of
+the 3,000 foot tether cable on an aero-
+stat. It could reconstitute low frequen-
+cy and very low frequency communi-
+cations among strategic forces.
+A Laboratory capability is under
+development to provide a simple, quick-
+response support system to allow our
+scientists to use the inexpensive "Get-
+Awav- Special' canister for simple
+shuttle experiments.
+The Research Library of the Air
+Force Geophysics Laboratory is inter-
+nationally recognized for the excellence
+of its geophysics collections. It has the
+largest and most comprehensive scienti-
+fic and technical research collection in
+the Air Force, including extensive hold-
+ings in mathematics, chemistry, phys-
+ics, astrophysics, electronics, and geo-
+physics. Each year the library adds more
+than 2,500 new titles to the book collec-
+tion. The library also subscribes to ap-
+proximately 1,800 current periodical
+titles. Of these, approximately 4,000
+volumes are bound each year and added
+to the permanent collection.
+The library also offers computer-
+aided literature searches of the Defense
+Technical Information Center's (DTIC)
+several files, as well as many commer-
+cially available data bases. Patrons thus
+have immediate access to millions of
+citations from journals, books, re-
+ports, proceedings, and reviews pub-
+lished throughout the world.
+AFGL has implemented an inte-
+grated distributed data-processing sys-
+tem, providing the Laboratory's users
+with optimum computer capability.
+The system consists of a broadband
+local area network interconnecting a
+large-scale scientific processor (CDC
+Cyber 180-860), a medium-scale virtual
+memory machine (VAX-11/780), lab-
+oratory data acquisition and control
+systems and subnets, over 350 terminals
+(intelligent and basic interactive), of-
+fice automation, and mass storage fa-
+cilities. Additionally, there are num-
+erous high-speed graphic displays,
+printers, plotters, and microfiche
+systems, with general purpose and
+unique software to support a variety of
+technical requirements. Acquisition of
+a high-performance scientific processor
+with a capability of 400 million floating
+point operations per second (mega-
+flops) is in the planning stage for the
+near future.
+AFGL has recently opened a new
+Payload Verification and Integration
+Facility, a major test facility for the
+space age. Its high bay area (100 feet by
+48 feet) can test payloads 25 feet in
+length or height and weighing 10,000
+pounds. A clean room provides a dust-
+free environment in which sophisti-
+cated space instruments can be as-
+sembled. For three-axis vibration test-
+RESEARCH FACILIHES
+ing, the facility has an 8,000 force
+pound shaker (a 30,000 force pound
+shaker will be installed in the near
+future). Attached to the high bay area is
+a two-story building housing a tele-
+metry ground station, a machine shop,
+a laboratory for thermal-vacuum and
+thermal-cycling component acceptance
+tesung, ana an equipment pool.
+To simulate space environments in
+the laboratory, AFGL has a number of
+six-foot vacuum chambers, the largest
+of which is 6 by 9 feet. The unique fea-
+ture of this chamber is a reaction cell
+which can be evacuated and cooled to
+20° above absolute zero, thus creating
+the "wall-less" conditions of space.
+Gases injected into the cell are excited
+by microwave discharges and mixed
+with inert gases to produce infrared ra-
+diation. An infrared spectrometer gives
+data which indicate the best viewing
+frequencies for Air Force satellite
+detectors
+AFGL can also simulate a nuclear-
+perturbed atmosphere by using a laser
+to create a plasma inside a cell. This fa-
+cility produced the first spectra of neu-
+tral oxygen emission in the infrared.

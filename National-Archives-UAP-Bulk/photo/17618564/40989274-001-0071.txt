@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:46:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6356721, "source_ctime_ns": 1793355813601375423, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0071.jpg", "source_mtime_ns": 1785564531000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0071.jpg", "source_sha256": "d7b1abcc8bf32f212850a7b83336bb29491d652330d0b6ee755bb80284797486"}
+
+===== PAGE 1 =====
+{"alpha_words": 342, "chars": 2434, "method": "ocr", "page": 1, "variant": "plain-vision"}
+II. SCOPE OF THE CIP PROGRAM
+Eligible titles
+Titles are included in the CIP program on the basis that they will
+most likely be widely acquired by the nation's libraries. These titles
+must be forthcoming monographs which will be published in the U.S.
+bearing a U.S. city in the imprint.
+These titles may be:
+1. Multipart items (i.e., sets).
+2. New or revised editions.
+3. New impressions of titles formerly published without CIP and
+for which a MARC record does not exist.
+4. Federal government publications.
+5. Translations into Spanish intended for the U.S. Spanish- speak-
+ing population.
+6. Compilations of serial articles brought together in one volume
+as a collection.
+Ineligible titles
+Titles not likely to be widely acquired by the nation's libraries are
+ineligible. These titles can more efficiently enter the nation's biblio-
+graphic system by being cataloged after publication by local libraries,
+regional networks, and vendors.
+The following types of material are also ineligible:
+1. Books which do not list a U.S. city as place of publication on
+2
+the title page and/or copyright page. A statement indicating
+distribution in the U.S. is not sufficient.
+2. Books from publishers who do not maintain a U.S. office of
+editorial staff capable of answering substantive bibliographic
+questions.
+3. Books paid for or subsidized by individual authors; books pub-
+lished by a house publishing the works of only one author.
+4. Books for which a Library of Congress card number has been
+preassigned.
+5. Serials. These are periodicals, annuals, and other publications
+regularly issued under the same title. Normally, only the date
+or volume number changes from one issue to the next. (See Sec-
+tion IX.)
+6. Religious instructional materials. Examples include publica-
+tions for classes at all grade levels, vacation Bible schools, con-
+firmation studies, etc.
+7. Expendable educational materials such as laboratory manuals,
+teachers' manuals, programmed instruction test sheets, work-
+books, etc.
+8. Specialized publications of a transitory and/or consumable na-
+ture such as trade catalogs, telephone books, calendars, color-
+ing books, comic books, cutout books, etc.
+9. Translations from English into a foreign language, other than
+Spanish.
+10. Translations from one foreign language into another foreign
+language, other than Spanish.
+11. Mass market paperbacks.
+12. Single articles reprinted from periodicals and other serials.
+3

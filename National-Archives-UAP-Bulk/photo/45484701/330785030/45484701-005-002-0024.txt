@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:54:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8703186, "source_ctime_ns": 1793363303713018254, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785030/45484701-005-002-0024.jpg", "source_mtime_ns": 1785684900000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785030/45484701-005-002-0024.jpg", "source_sha256": "3e53febe90d6d0821e368a1a78d620bf8a0cbc2a50a5f796072e410161168e64"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 652, "method": "ocr", "page": 1, "variant": "plain-vision"}
+84¿82
+Clouds - 2/10 stratus at 2,500 feet
+3/10 cirrus at 25,000 feet
+Humidity - 81%
+Visibility - 10 miles
+Weather balloon released at 2200 hours.
+All of the above information was furnished verbally to Lt. Colonel
+TYLER I. BIRCH, Staff Provost Marshal, Air Force Missile Test Center, Patrick
+Air Force Base, Florida, on 16 and 17 June 1954.
+co:/ Dir OSI (2 oys)
+Center, ATTI: AFIAA-20,
+Bright¿«'atterson AFB, Ohio,
+THRUs Sth District Office
+OSI (2 сув)
+JAMES N. LOVENBURY
+Ib. Colonel, USAF
+District Commander
+030
+A 160
+DEC
+24+185 - 7-1
+NITED STATES MR FORC
+HE INSPECTOR GENERAL
+JUN 25 1 3 47°54
+SPECIAL MYS
+STIONS
+Declassification Authority: NND 923007

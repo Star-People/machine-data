@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:39:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4730701, "source_ctime_ns": 1793380383099690042, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975683/00537.jpg", "source_mtime_ns": 1785700928000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975683/00537.jpg", "source_sha256": "cedc69dce6f4e7d418391eec7b5a8cf18ceb587770ee2a39fe031b5550e60949"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 969, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3-4 December 1957
+3. DATE-TIME GROUP
+Local
+GMT.
+03-04/2100 dusk
+S.
+PHOTOS
+• Yes
+• :No
+7. LENGTH OF OBSERVATION
+45 minutes
+10. BRIEF SUMMARY OF SIGHTING
+One object, round, size of dime, color
+orange and yellow on top and red at
+bottom. Cloud layer, also sighting
+on previous day.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Baffin Island, Canada
+4. TYPE OF OBSERVATION
+X.. Ground- Visuol
+• Air Visual
+• Ground-Rader
+• Air-Intercept Radar
+6. SOURCE
+Military
+6. NUMBER OF OBJECTS
+9. COURSE
+one
+12.
+CONCLUSIONS
+FOK Was Balloon
+Probobly Balloon
+Possibly Balloon
+Was Aircraft
+Probably Airerat
+•
+Possibly Aircra!
+Was Astronomical
+Probobly Astronomica
+Possibly Astronomical
+•
+Other.
+Insufficient Data for Eveluation
+Unknown
+11. COMMENTS
+Re Msg CONADCC 0329 WX people
+state WX Balloons released
+daily from Zgedesminde Danish
+A on west coast GreenLand,
+also state winds on 3 and ‹
+December would have brought
+these balloons over area of
+sighting.
+ATIC FORM 329 (REV 26 SEP 52)

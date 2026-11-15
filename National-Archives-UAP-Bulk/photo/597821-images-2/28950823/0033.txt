@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:39:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4543828, "source_ctime_ns": 1793374226441469654, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950823/0033.jpg", "source_mtime_ns": 1785696571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950823/0033.jpg", "source_sha256": "7f558edc15eb6d9abad70c7d929fef6a25457fcc62fd1d0712586a29006ffe8b"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 709, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE OF OBSERVATION
+not 52
+Le WINDS ALOFT
+VELOCITY
+(feet)
+(knots)
+1,000
+2,000
+Вале сово
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+9,000
+10,000
+12,000
+14,000
+16,000
+18,000
+20,000ł
+5. WAS AN INVERSION LAYER NOTED?
+(If yes, at what altitude?
+6. WERE ANIT
+ADERSTORMS NOTED IN AREA?
+(If yes, at what quadrant?
+7. CLOUD COVER:
+tenths et
+tenths at
+feet.
+9. COMMENTS:
+PROJECT 10073 WEATHER DATA SHẠỊ
+2. TIME OF OBSERVATION
+3. STATION OBSERVING
+0900Z-
+DIRECTION
+(degrees)
+ALTITUDE
+(feet)
+25,000ł
+30,000ł
+35,000
+40,000
+45,000
+50,000
+55,000
+60,000
+65,000ł
+70,000
+75,000
+80,000
+85,000
+90,000
+95,000
+100,000
+VELOCITY
+(knots).
+- DIRECTION
+(degrees)
+LINo
+LJ No
+8. VISIBILITY WAS
+MILES.
+tenths at
+ATIC Teat Form 333 (13 Aug 52)

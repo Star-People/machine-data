@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:34:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3617542, "source_ctime_ns": 1793386302813698477, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995630/0830.jpg", "source_mtime_ns": 1785748023000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995630/0830.jpg", "source_sha256": "7d7f735690dd6089d91737a0f38cb360e7274c9cb85b55a49f82e7ad6b614df2"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 586, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIRÉO MESSAGE
+AF IN : 6876 (18 Nov 7) C 0 M
+INFO : CIN-14, 00P-2, O0P-CP
+SAFS-
+•, DIA-2
+R/scc
+(23)
+01-3
+13-15šŘ
+OO RJHPKH RJWFALSJEZHQ RBEPW RUHPFS RBHPA RJHPKM RBWPPG RBHPQ
+DE RBHPHC Ø45A
+ZNGY
+0 180907Z
+FM COMHAWSEAFRON
+TO RJHPKH/COMHAWAIRDEFDIV KUNIA
+INFO RJWFAL/CINCNORAD ENT AFB COLO
+RJEZHQ/COFSUSAF WASH DC
+RBEPW/CNO
+RBEPW/SECNAV
+RUHPF S/CINCUSARPAC
+RBHPA/CINCPAC
+RJHPKM/PACAF
+RJHPKM/PACAF BASE COM HICKAM
+RBWPPG/COMWESTSEAF RON
+0 180620Z
+FM NHGJ
+TO RBHPHH/HAPU
+RJHPKM/ HF BL
+RBEPW SSMW
+RBHPB/ YJXR
+RBKAC/YTSD
+INFO RBHPQ/EYOB

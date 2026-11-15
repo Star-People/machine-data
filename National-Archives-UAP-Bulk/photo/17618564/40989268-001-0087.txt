@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:59:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16444092, "source_ctime_ns": 1793355649026936708, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0087.jpg", "source_mtime_ns": 1785564496000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0087.jpg", "source_sha256": "42ea5003866abb3bf09a722a4eb87cad5577e0268802343000daf34d2090a5f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 569, "chars": 3608, "method": "ocr", "page": 1, "variant": "plain-vision"}
+160
+Effective absorptivity of bead surface
+K= Function of many parameters including binding post temperature, lead
+length, air pressure, and so on.
+NB • K= for A ≤ • 31 Watm. and length ≥ 0.5 cm.
+= Time ›
+The first term describes the convective heat exchange with the air; the second term,
+the heat exchange with the holding wires; the third, the radiative heat exchange; and
+the last term is caused by the lag of the sensor because of its heat capacity. For
+simplicity, the terms for the self-heating by the measuring current and the aero-
+dynamic heating are left out. If Eq. (1) is rearranged to solve for (T-Ta), which
+represents the error in measuring Ta, then it is clear that increase of the 3rd and
+4th terms in Eq. (1) means increase of the error (T-Ta). However, increase of the
+coefficient of (T-Ta) in the first and second terms in Eq. (1) means decrease of
+error. It is therefore desirable that the sensors have as high a heat transfer co-
+efficient as possible. The fact that the second term can help to reduce the error,
+if the leads are not too short (that is, K > 0), is often overlooked. The main source
+of error is the radiation described by the 3rd term in Eq. (1). This term is written
+in more detail in the following expression:
+Order of magnitude
+as 7= as Sa + a; So (1/2T + 1/2T4 - T4).
+0.14 Watt
+0 to 0.01 Watt
+7s = Radiation intensity for visible range
+as
+= Absorptivity for visible range
+aj
+= Absorptivity for intra-red range
+= Stephan Boltzmann constant
+TA = Effective black-body radiation temperature of environment above sensor
+= Effective black-body radiation temperature of environment below sensor.
+The first term of Eq. (2) gives the absorption from the visible range of the solar
+radiation; the rest describes the infrared heat exchange. Because the value of S is
+about 4 times larger than So, the second term on the right side of the equation may
+be as large as 1/3 of the first term if a = d;. It is therefore advisable to choose a
+coating the emissivity of which is small in the visible range as well as in the infrared
+range. Aluminum coating has a nearly uniform emissivity of 0.04 to 0.08 for freshly
+161
+deposited coatings. This will deteriorate with time when exposed to air and much
+more so if the air is humid and dusty. To take full advantage of the high reflectivity
+of the aluminum coating, it is therefore good practice to keep the element in a
+sealed, nitrogen-filled container until shortly before the launching.
+The heat transfer is dependent on the ventilation velocity as long as we stay in
+the continuous flow region. The heat transfer coefficient shown in Figure 3 for
+ventilated and unventilated sensors was computed for the temperatures of the standard
+atmosphere. The effect of the ventilation decreases with decreasing pressure and
+can be neglected below 1 mb for sensors smaller than 5-mil diameter. In my con-
+siderations that follow, the ventilation velocity is assumed to be zero.
+10-3
+1000 mb.
+Figure 3. Heat Transfer Coefficient of Ventilated and Unventilated Thermistor
+Bead and Wire Thermometers
+In Figure 4 are shown the heat transfer coefficients for three different sizes of
+bead thermistors. The increase of the heat transfer coefficient with decreasing size
+is obvious from the curves. Because the heat absorption from the radiative field is
+constant per unit surface area the radiation error will decrease with increasing heat
+transfer coefficient. The time constant decreases even more rapidly with bead size
+as may be seen in Figure 5. Here the reciprocals of the time constant for the same
+three beads are plotted versus pressure.

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:43:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5301502, "source_ctime_ns": 1793377736559319329, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965179/1447.jpg", "source_mtime_ns": 1785696521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965179/1447.jpg", "source_sha256": "429751eb2992a88336fcc741ce8019ed6a2f40d073846163ef39f62278b753d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 809, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20//6200
+Multi
+RFØ97
+WPCØ96 YMB041 YYB247 YYC221 KFA15
+21 MAR56 07 311
+FG Ø53
+FGEØ08
+4 4x
+RR RJEDEN RJEDUP RJEPHQ
+DE RJEDKF 7GE *
+R 2021207ÍŘŚ
+TM COMDR 797TH ACWRON FORDLAND AFS MO
+TO RJEDEN/COMDR ADC ENT AFB SOLO SPGS COLO
+RJEDWP/COMDR AT INTELL CEN WRIGHT PAT AFB OHIO
+RJEPHQ/COMDR INTELL HQ USAF WASH DC
+RJEDKF/COMDR 20TH ADIV GRANDVIEW AFB MO
+BT
+/U N C L A S S I F I E D/ OPS-3-5G UFAB REPORT CLN
+1, (A) BALLON TRAILING OBJECT UNDERNEATH ORANGE COLOR TEARDROP SHAPE.
+(B) EIGHT (8) TINES THE SIZE OF HIS FIST.
+(C) ORANGE COLOR ON UNDERSIDE OF OBJECT.
+(D) ONE (1)
+(E) N/A
+(F) UNDERSIDE OF OBJECT ORANGE COLOR.
+(G) N/A
+(H) N/A
+(I) N/A
+PAGE TWO RJEDKF 7GE
+2. (A) ACCIDENTALLY
+(B) 33 DEGREES ELEVATION 160 DEGREES AZIMUTH
+(C) 33 DEGREES ELEVATION 160 DEGREES AZIMUTH
+(D) STRAIGHT TRACK
+(E) PASSED OUT OF SIGHT

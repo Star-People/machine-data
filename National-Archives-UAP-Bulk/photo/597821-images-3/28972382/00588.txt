@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:51:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8163116, "source_ctime_ns": 1793379478641386888, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972382/00588.jpg", "source_mtime_ns": 1785700645000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972382/00588.jpg", "source_sha256": "6e47a4cda416f8b587a1811814f536273ea4e99ba5d8673558a743b67dd008fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1295, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+AIR FORCE MISSILE TEST CENTER
+AIR RESEARCH AND DEVELOPMENT COMMAND
+UNITED STATES AIR FORCE
+Patrick Air Forco Baso, Florida
+reply address communication to Comd
+IFMTC, attention following office symbo
+1 Nov 57
+Dear Captain Elvood:
+This Center received a courtesy copy of Major L. J. Tacker's
+letter to you of 28 October 1957, regarding "a large gondola
+shaped unidentified Flying Object which hovered over Pope (sic)
+County...23 October 1957".
+It is believed that Polk County is
+the correct location as there is no Pope County in Florida.
+An investigation has not uncovered any record of the
+reference call having been received at this Center. Four of
+the five pertinent agencies checked, maintain blotters Or logs
+on such calls.
+The fifth agency, the ArMIC Staff Provost Marshall,
+also has no knowledge oi the call.
+It is regretted that this Center can not be of further
+assistance in this matter. A study by this office revealed that
+over 90% of the UFO calls are the result of sightings relating
+to our operations (missile test, weather balloons, aircraft
+instrumentation and range instrumentation checks).
+Sincerely yours,
+Fattem
+ROBBRI SATTEM, Captain, USAF
+Capt. Wallace W. Elwood, ISAF
+Assistant Adjutant
+Air Technical Intelligence Center
+Wright Patterson Air Force Base, Chio

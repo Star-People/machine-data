@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:00:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17274690, "source_ctime_ns": 1793361961763913739, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0071.jpg", "source_mtime_ns": 1785685165000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0071.jpg", "source_sha256": "3d3f12c1fc661fc9ebf2791ffa482a3a351f8fe28e4ab3d4ee61442afaef0ffe"}
+
+===== PAGE 1 =====
+{"alpha_words": 202, "chars": 1673, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+GEOSTROPHIC WIND SCALE
+for
+Lambert Contormai Projection
+Scale 1:10,000,000
+
+*C At es = ee MG ay a \ Pe eens Wa NTHER PLOTTING CHART
+Pea rit) 2m J owe 14% iy pe G * “ / , yf rn ie e 2 os 4 “ gt . SCALE 1:10,000,000 eames? i300
+Air Density for 500 m / - / >,
+
+UNLBED STATES
+“WRC 4-48
+
+REVISED FEBRUARY 1945
+LAMBERT CONFORMAL CONIC PROJECTION
+CALE TRUE ALONG STANDARD PARALLELS 30° AND 75°
+2/45 Sx
+
+nage Act, $0 U. S.C., 31 and 32, as amended. Its transmission or the revelation of its contents in any
+
+4 i 3 janner to an unauthorized person is prohibited by law. Severe penalties are prescribed for negligence in the
+ey , ‘\Or > - / ; 20 % sateguarding of all information of military value included on this map.
+Vaca Rag a Btn 33
+| - - - - - 4+4+}+---+-—___+—_# ;
+} 8 Ba \— + — 1:10,000,000 —=Om SO 268
+oe ro me a 560) pecen” “™ 1420 # 13660 Oo \
+/ | \ | \ ler 50 4 i 54,1 878
+y 10° c . EES i Piaf t a ae: “ a 0 ms 290 1249 -
+4 460 Cy Wp “6 ia Bi
+
+Velocity (rniles per hour)
+
+1700
+
+1;10,000,000
+1$e
+
+1230
+
+1270
+
+ie RE \ ss \ aN :
+wi : : : F = Binet es aan p : , 1220. 4 + : er
+a, STATION 4.1... Af f13... Keen YL... TIME LS HA. LELOM.... DATE. 15. Mp... LIGA. 5 ym “pan af a. ‘ x Rast
+Z 3M, Fornesseck 3 o | We Bae > he Sarnia: : b= \ \ “ A
+FORECASTER ei el UNIT OMA. SPACN.......PLOTTED BY....92ee W560. ) oe P| Vacs
+Sok R. Ver pore. f p pe | | 0s - Oe sng iis
+125° 120° 115° ‘ y oS)
+
+0° 95° 90° ; = |
+Prepared at the direction of the Commanding General, Army Air Forces,
+R TRI TED under the supervision of the Aeronautical Chart Service,
+by the U.S. Coast and Geodetic Survey, Washington, D.C. February 1945.
+
+UNITED STATES WRC 444
+
+Declassification Authority: NND 923007

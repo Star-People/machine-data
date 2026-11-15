@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:37:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4131674, "source_ctime_ns": 1793394362432376484, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0024.jpg", "source_mtime_ns": 1785567359000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0024.jpg", "source_sha256": "8314f8d8b48c159c097e9003d3298b30cbd1f9e36b9a60e9d70671551dfa17d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 503, "method": "ocr", "page": 1, "variant": "plain-vision"}
+San Jose State
+University
+3/3/87
+To the FAA - Anchorage,
+I read in the San Francisco Chronicle that
+you are selling some items that involved a
+Japan Airline flight and an UFO. I'm not
+interested in the entire package, but would like
+a few items. I am particularly interested in the
+radar pictures. I would appreciate it if you
+could send me a price list of the individual
+items. Thank you.
+Sincerely,
+Alvin Fong
+ALVIN FONG
+429 SOUTH 9IH STREET #1/
+SAN JOSE, CA 95112-3735
+© 1985 CSA, In
+College
+Legals™

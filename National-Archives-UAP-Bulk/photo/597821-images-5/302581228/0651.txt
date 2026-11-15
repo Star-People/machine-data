@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:23:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 731889, "source_ctime_ns": 1793393844774420971, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302581228/0651.jp2", "source_mtime_ns": 1785808205000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302581228/0651.jp2", "source_sha256": "5ff5cc87d9779e4f20cc26271f8e952192bd07b5f376207361c8245a9c146382"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 874, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TDPT (UFO)
+UFO Photograph of 19 Nov 68, near Acton, Texas
+17 JAN 1969
+Lt. Col. Ray P. Carter
+USAF Representative
+FAA SW Region
+P.O. Lox 1689
+Fort Worth, Texas 76101
+Reference your letter of 13 Jan 1969. The negatives for the
+19 Nov 68, Acton, Texas photos have been submitted to the FTD
+photo analysis section. However, because Uro photographs are
+handled on a low priority basis, the analyeis has not been
+completed yet. If the observer wants his negatives back immedi-
+ately, we can return them before the analysis is completed;
+however, due to higher priority work, the analysis of the
+negative may take several months yet. Request you notify us
+of the decision of the observer or have the observer notify
+us of his decision.
+FOR THE COMMANDER
+HECTOR QUINTANILLA, Jr, It Colonel, USAF
+Chief, Aerial Phenomena Branch
+Aerospace Technologies Division
+Production Directorate

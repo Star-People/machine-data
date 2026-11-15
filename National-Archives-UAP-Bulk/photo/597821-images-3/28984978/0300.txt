@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:45:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6126383, "source_ctime_ns": 1793382659275509341, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984978/0300.jpg", "source_mtime_ns": 1785700764000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984978/0300.jpg", "source_sha256": "529ee021c2a13ecb186f3cad5aa0c074a44d54de3799e0e39b2a17e8054e71c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 677, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+2853D AIR BASE WING
+Robins Air Force Base, Georgia
+TO SPEED DELIVERY OF
+YOUR REPLY. PLEASE
+ADDRESS COMMUNICATION
+TO ATTENTION OF
+WRBB
+SUBJECT:
+TO:
+Unidentified Material (Final Report)
+27 October 1959
+ATIC
+Wright-Patterson AFB, Ohio •
+1. Attached Laboratory Report is final report on
+substance found at location of Sharon, Georgia on
+12 October 1959. We believe this matter to have been
+satisfactorily resolved; that subject material is, in
+fact, natural phenomenon from cloud seeding efforts.
+2. No further investigation is deemed warranted and
+case is considered closed.
+FOR THE COMMANDER:
+ROBERT T. RUST
+Major, USAF
+Base Provost Marshal
+1 Atch
+Laboratory Report

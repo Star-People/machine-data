@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:32:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1918188, "source_ctime_ns": 1793358526789241467, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-035-0003.tif", "source_mtime_ns": 1785681118000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-035-0003.tif", "source_sha256": "be4e3ab57349208bbd999a405d0f40395523bfe87ce795761e095b5d7dddc343"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 550, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+•AISOP
+Lt. Hammond, Flight 1-C
+Commercial Phone Call to It. Hammond, Fit 1-C AISS #54
+Captain Bronstein
+21 Apr 11 1955
+Capt Bronstein/4498
+AISS #54
+MIMORANDUM FOR THE RECORD
+Sgt. Crawford oalled It. Hammond, Flight 1-C, concerhing the authorization
+of a U708 follow up investigation. It. Hammond stated that his unit would take
+action immediately.
+Secondly, a matter dealing with the elarifieation of a previously submitted
+' AT Forn 112 was diseussed.
+ROBERT BRONSTEIN, Captain, USAF
+Operations Control Officer

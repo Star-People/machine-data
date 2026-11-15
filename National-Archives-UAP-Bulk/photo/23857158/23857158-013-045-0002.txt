@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:33:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3453292, "source_ctime_ns": 1793360220069896185, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-045-0002.tif", "source_mtime_ns": 1785681661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-045-0002.tif", "source_sha256": "aa854b20bf3aa2be7c312929181ce15ca79a68e5f253298646abb3e195a94e19"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 757, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+(2)
+DESCRIPTION OF COURSE
+(A) WHILE TRACKING AIRCRAFT WITH BINOCULAS
+(B)
+UNKNOWN
+PAGE TWO OF RJEPDG 2G
+( C)
+UNKNOWN
+(D)
+(E)
+WHEN FIRST SIGHTED HEADING WEST THEN EAST DISAPPEARED NORTH
+FADE OUT
+(F)
+60 SECONDS
+(3)
+MANNER OF OBERVATION
+(A)
+GROUND VISUAL
+(B)
+BINOCULAS
+(C)
+N/A
+(4) TIME AND DATE OF SIGHTING
+(A)
+15/2355Z AUG 56
+(B) DUSK
+(5) LOCATION OF OBSERVER(S) PL 5918
+(6) IDENTIFYING INFORMATION OF ALL OBSERVERS
+(A)
+1, AGE 31.
+• PA GAS STATION ATI,
+(7)
+WEATHER & WINDS-ALOFT CONDITION AT TIME & PLASE SIGHTING.
+(-) CLEAR VISABILITY
+(8)
+• NONE
+(9) NONE
+(10) 1 A/C HEADING WEST TYPE UNKNOWN
+(11) NONE
+(12) NONE
+16/0203Z AUG RJEPDG
+O RGR YOUR NO. 006
+: 5-58
+THAT IS ALL MATE AND SORRY FOR ALL THE TRBL
+CUL
+MSEE YOU LATER

@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:08:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18027494, "source_ctime_ns": 1793365406656084185, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0033.jpg", "source_mtime_ns": 1785685083000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0033.jpg", "source_sha256": "cef14842eac29626c32d2f7a3d51f3dc5cfee06ba0c346343a7dd60e2bbae493"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 97, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+44ur, Ano 4 ae J.
+TY — 2 a rts
+; } ; r=
+4
+6% i.
+A Yr em
+
+Declassification Authority: NND 923007

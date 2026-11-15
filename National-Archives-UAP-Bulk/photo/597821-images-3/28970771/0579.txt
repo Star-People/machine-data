@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:36:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3998724, "source_ctime_ns": 1793379059282022227, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970771/0579.jpg", "source_mtime_ns": 1785700874000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970771/0579.jpg", "source_sha256": "fa8a99c2353f40841877ac9a86103b13732cd9f0e1500c1c03e3ed6692c1ae7a"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 834, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DE RJEPNY 3
+R 250 232 Z
+FM COMDR 26TH ADIV ROSLYN AFS ROSLYN NY
+TO RJEDEN/COMDR ADC ENT AFB COLORADO
+RJEDWC/COMDR ATIC WRIGHT PATERSON AFB OHIO
+ROEPHO/DIR INTEL HQ USAF WASH 25 DC
+RJEPNE/COMDR DET 3 4602ND AISS STEWART FB NY
+INFO RJEPNE/COMDR EADF STEWART AFB NY
+BT
+/UNCLAS/ATTN: CIC CITE NER 8103 SUBJ: UFOB
+(1) DESCRIPTION:
+(A) STRING OF TINY LIGHTS IN FORM OF A VEE
+(B) OBJECT HAD NO VISIBLE BODY
+(CA SILVERY,
+BRIGHT, SHINYN GLOWING WHITE
+(DO ONE
+(E)
+(F) STRING OF LIGHTS
+(G) NO TAILN NO TRAIL
+(H) NO SOUND
+(I) ONE
+OBSERVER RPORTED WING AND LIGHTS, SIX
+(2) DESCRIPTION OF COURSE
+CAL UNN
+(B) UNK
+(DO
+OBSERVED AS (1)STANDING
+STIL
+(3) HIGH AND TRAVELED N.
+(E)
+(3) MANNER OF OBSERVATION:
+(A) GROUD VISUAL
+(B) OBERVER NER 2 UNSE BINOCULARS
+(C) ---
+(4) TIME AND DATE OF SIGHTING
+(A) 25 0010Z
+DUSK
+atie
+AND THEN MOVING NW. (2) MOVED ONE.

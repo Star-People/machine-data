@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:25:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 808908, "source_ctime_ns": 1793392160560353157, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302564939/0988.jp2", "source_mtime_ns": 1785808107000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302564939/0988.jp2", "source_sha256": "ef616f1879b093e1cc4f4d9f2d1752dadfcc90bad47972c60febcfa905ffd550"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 711, "method": "ocr", "page": 1, "variant": "plain-vision"}
+17. Opul 67
+15 FED 1968
+TDPT (UFO) Maj Quintanilla/70916/mhs/14 Feb 63
+Uro Observation, 17 April 1967
+salem, Virginia
+24153
+Reference your unidentified flying object (UPO) observation of
+17 April 1967 and subsequent photographs. In your letter you
+indicated that you would forward the original negatives on your
+sighting; to date, they have bnot been received. In order that
+we may evaluate your sighting, please forward your original
+negatives in the inclosed envelope. Upon completion of analysis,
+we will return your negatives.
+TDPT (UFO) OFFICIAL FILE CY
+ACTOR QUINTANTELA, JC, MaJOR, USAF
+phief, Aerial Phenomena Office
+Aerospace Technologies Division
+Production Directorate
+1 Atch
+Self addressed envelope

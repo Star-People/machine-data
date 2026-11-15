@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:57:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9861839, "source_ctime_ns": 1793379577365048777, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972737/00870.jpg", "source_mtime_ns": 1785700800000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972737/00870.jpg", "source_sha256": "70450d4e122d67b3e29fb9b27089c381640431512402bc46e7a2214d67d463c5"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 571, "method": "ocr", "page": 1, "variant": "plain-vision"}
+D-135 Y
+J HEADING 150 KIS SPEED ST. LOUIS, MO
+D. 1. NOV 4, 21307-2140Z
+2130-6=1530
+E. 1. 40 12'N 90 17'W
+F• 1. CIVILIAN
+MO PHONE
+28 YRSa
+CAPT - OZARK AIR LINES
+FLOCIEANT
+REPEATING LAST LINE
+2. NA
+G. 1. FAIR WITH OVERCAST
+2. NO WINDS ALOFT
+509 FT CEILING
+NO WING
+DATA GIVEN.
+4. FAIR 7 MILES
+OVERCAST
+6. NONE
+H. 1. RECEIVING DUBUQUE IOWA RADIO VERYWEAK ALL OTHER RADIOS RECEIVING
+LOUD AND CLEAR
+I. 1. NONE
+J. 1. NONE
+K. 1ST LI. JAMES PROWELL. 798 AC&N NO COMMENTS
+L. NONE
+05/23552 NOV RJEDKF
+2 out
+the wend date, canno
+cates.
+however, the descristion
+sect is of a bullson.

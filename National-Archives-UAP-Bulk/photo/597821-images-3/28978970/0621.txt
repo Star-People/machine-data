@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:49:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7370570, "source_ctime_ns": 1793380968683734554, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978970/0621.jpg", "source_mtime_ns": 1785701012000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978970/0621.jpg", "source_sha256": "8ab1ed2a678b4d8ebe3032695b62f880353abf1cf7fb0900c8bdccb68ec39c35"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 534, "method": "ocr", "page": 1, "variant": "plain-vision"}
+00 RJEZHO
+DE RBEPJC 16
+0 1720082
+.FM COMDT CG
+TO RJEDDN/CADC
+RJEDDN/ ENT AF B
+RBEKZC/ COMASDEF ORLANT
+RJEZHQ/COFS USAF
+WAH DC
+DEPARTMENT OF THE AL: FORCE
+STAFF MESSACE DIV ION
+UNCLASSIFIED MESSAG
+IICORIT
+G
+4 = 4 (Cape Bung
+WASHINGTON DC
+atic
+JUL 29 1956
+10 0el
+O 171634Z
+FM COMDT CG
+TO BOLLING AFB
+NR 1 GOVT SANTA CECILIA /KQWU CK190 17 1505 GMT
+GOVT US COAST GUARD WASHINGTON
+BT
+AT 091ØGMT IN LATITUDE 16.0 NORTH 76.5 WEST SIGHTED AN
+UNIDENTIFIED OBJECT IN THE SKY BEARING 34 DEGREES TRUE
+AF IN : 21913 (17 Jul 58)
+Page 1 of 3 pages

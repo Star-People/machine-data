@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:43:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5363013, "source_ctime_ns": 1793381723801957712, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981406/01364.jpg", "source_mtime_ns": 1785700762000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981406/01364.jpg", "source_sha256": "059f76f8419956ebc34fcf6a7a0537d153f6db7c7029ea482616af9c35fa7f0d"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 550, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE OF RJEDKQ 144H
+(7) WEATHER AND WINDS ALOFT CONDITIONS AT TIME AND PLACE
+OF SIGHTING
+(A) CLEAR
+(B) SURFACE SE 4
+6,020- DEG 270KT 38
+19,000 - DEG 280KT 40
+16, 303- DEG 252KT 5g
+20,302- DEG 230KT 55
+38,328- DEG 30ØKT 75
+50, 320- DEG 300KT 72
+80,320- N/A DEG KT
+(C) CLEAR
+(D) 13 MILES
+(E) ZERO
+(F) N/A
+(8) NONE
+(9) NONE
+(10) NORMAL FLOW OF AIR TRAFFIC AT HARRISBURG STATE APT AND
+OLMSTED AFB, PA.
+PAGE FOUR OF RJEDKQ 144H
+(11) ASST OPNS OFF OLMSTED FLIGHT SERVICE CENTER. HAD CONTROL TOWER
+SCAN AREA WITH BINOCULARS NOTHING SIGHTED.
+(12) NONE

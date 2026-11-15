@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:38:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4381447, "source_ctime_ns": 1793372297546580907, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942231/00318.jpg", "source_mtime_ns": 1785688925000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942231/00318.jpg", "source_sha256": "e1fc734862be010f410965284670e63ef1be22d995d7fc490cff5f4e7e8f83fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 831, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+21 Nay 1952
+3. DATE-TIME GROUP
+Local
+0830
+CST
+N
+GM T
+PHOTOS
+• Yes
+* No
+7.
+LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Lombard, Illinois
+4. TYPE OF OBSERVATION
+• Ground- Visual
+• Ground-Roder
+• Air- Vi suol
+16. SOURCE
+• Air-Intercept Rodor
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+1
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolloon
+a
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+000
+800
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Class marble
+Insufficient Data for Evaluation
+Unknown
+10. BRIEF SUMMARY OF SIGHTING
+Knowm object--origin unknown. Could have been
+shot from slingshot, kicked up by truck etc.
+Shape: Spherical
+11. COMMENTS
+Tar covered glass marble hit sources.
+mail box and dented it. Marble was
+hot. F-86 had just flown over
+ATIC FORM 329 (REV 26 SEP S2)

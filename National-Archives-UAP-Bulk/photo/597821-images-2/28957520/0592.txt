@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:36:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3972465, "source_ctime_ns": 1793375749081599443, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957520/0592.jpg", "source_mtime_ns": 1785696618000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957520/0592.jpg", "source_sha256": "6a1b2baa1e99560863d4d8c183b17736fa0fa7ed39be798ea323aebfbcfe69e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 708, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+8 February 1954
+3. DATE-TIME GROUP
+Locol
+CM T09/01052
+5. PHOTOS
+• Yes
+:Ex No
+7. LENGTH OF OBSERVATION
+unkown
+PROJECT 10073 RECORD CARD
+2. LOCATI
+Key west, Florida
+TYPE OF OBSERVATION
+0 Ground- Visual
+Air Visual
+J. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Pan An Airlines
+NUMBER OF OBJECTS
+9. COURSE
+one
+NE
+10.
+BRIEF SU
+ARY OF SIGHTING
+No description of object or length of sighting
+given. Object in flight from SW to ME at
+20,000 feet
+11. COMMENTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluati
+Unk no wn
+ATIC PORM 329 (REY 26 SEP 52)

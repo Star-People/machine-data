@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:26:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1019590, "source_ctime_ns": 1793355911729010167, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989288-001-0029.jpg", "source_mtime_ns": 1785564556000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989288-001-0029.jpg", "source_sha256": "1f70356fdfbe14f1eaa374b39158d7938cac5df2a7a50ed00441d43ebd457a0e"}
+
+===== PAGE 1 =====
+{"alpha_words": 186, "chars": 1258, "method": "ocr", "page": 1, "variant": "plain-vision"}
+26
+underwater experiment, subjects were tilted aa much as twenty-
+two degrees before perceiving the tilt. The underwater tests
+have also made a definite contribution to the methodology of
+subgravity research, and offer the advantage of more prolonged
+exposure to test conditions than a comparable aircraft trajec-
+tory. 27
+The Aeromedical Field Laboratory has worked in close
+cooperation not merely with the owners of indoor pools but also
+with Air Force and private researchers interested in subgravity
+studies. The School of Aviation Medicine, in particular, has been
+conducting an active subgravity program at Randolph Air Force
+Base, Texas. Under the principal direction of Dr. Siegfried J.
+Gerathewohl, this program in ita present form dates from 1955;
+it, too, has been centered around subgravity test parabolas flown
+in jet aircraft. The general calegories of testing and research
+have been much the same as in the Holloman program, but in
+some respects work at Randolph has pointed the way while in
+other respects--notably instrumentation--the Holloman program
+has been generally more advanced. Fortunately, there has been
+little if any sign o: the rivalry that has sometimes marred re-
+lationships between research programs of the Aeromedical Field

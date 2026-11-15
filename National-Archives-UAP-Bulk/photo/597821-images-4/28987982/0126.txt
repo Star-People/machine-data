@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:46:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6595132, "source_ctime_ns": 1793383819646149078, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987982/0126.jpg", "source_mtime_ns": 1785748550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987982/0126.jpg", "source_sha256": "2191226e00c70265fd506c5b713cb3eb3318cc7157b851f33d80bbbb8ea67e04"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 602, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR RJEDNU 96
+CHANUTE AFB ILL, REPORTED NEGATIVE SIGHTING. MR
+FAA TOWER OPERATOR, UNIV OF ILL AIRPORT, CHAMPAIGN, ILL
+REPORTED NEGATIVE UNUSUAL SIGHTINGS. MR
+OF THE OBSERVATORY, UNIV OF ILL, REPORTED NO ONE ON DUTY AT
+THE TIME OF AMN STELLES OBSERVATION. MAJ DAVISON, COMDR 791
+AC& HANNA CITY, ILL REPORTS NO UNUSUAL RADAR BLIPS AND
+NEGATIVE GROUND CONTROL INTERCEPTS BY AIR DEFENSE SECTOR AT THAT
+TIME. IT IS THE REPORTING OFFICERS OPINION THAT THE SIGHTING BY
+AMN STELLE FITS THE DESCRIPTION OF MR.
+OF THE UNIV OF ILL
+AS THAT OF A METEOR ENTERING THE UPPER ATMOSPHERE.
+23/2220Z JUL RJEDNU
+NNNN

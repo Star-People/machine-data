@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:34:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3608029, "source_ctime_ns": 1793371821749054658, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939960/01086.jpg", "source_mtime_ns": 1785689030000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939960/01086.jpg", "source_sha256": "a3b3e92f90f0f0568120f50d0c4292560bb7eb17f5120b9515ad3359f1db22ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 789, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2 Oct 1951
+3. DAYE-TIME CROUP
+Local
+2120
+03/04202Í
+GM T
+5. PHOTOS
+• Yes
+1 No
+7. LENGTH OF OBSERVATION
+2 Seconds
+10. BRIEF SUMWARY OF SIGHTING
+Color: Forward, Red; trailing, orange blue.
+Shape oblong tapering. Size 3-4 ft. Speed
+of jet a/c. No sound. It faded avay.
+PROJECT 10073 RECORD CARD
+LOCATION
+Wite Sands, N.M.
+TYPE OF OBSERVATION
+LT Ground- Vi sual
+• Air Visual
+6. SOURCE
+Military and Civilian
+B, NUMBER OF OBJECTS 9. COURSE
+12. CONCLUSIONS
+Was Bolloon
+Probably Balloon
+Possibly Balioon
+• Ground-Roder
+Was Aiseraft
+Probably Aireref
+• Air-Intarcept Radar
+Passibly Aircrai
+Was Astronomical Meteor
+Probebly Astronomical
+Possibly Astronomical
+D Other
+• Insufficient Date for Evaluation
+Down at 45 deg an a d
+Unknow
+11. COMMENTS
+Evaluated as Meteor
+ATIC FORM 329 (REV 26 SEP 52)

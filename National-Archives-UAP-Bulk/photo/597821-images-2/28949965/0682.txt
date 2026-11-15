@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:37:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4114512, "source_ctime_ns": 1793374052065504652, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949965/0682.jpg", "source_mtime_ns": 1785696618000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949965/0682.jpg", "source_sha256": "2dd5cc5daefd3e85ab53cab5ef031597f8d4fa39ff84843ddd4d71b3a5566dad"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 720, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE OF OBSERVATION
+he WINDS ALOFT.
+ALTITUDE
+(foot)
+VELOCITY
+(knote)
+PROJECT 10073 REATHER DATA SH
+2. TIME OF OBSERVATION
+3. STATION OBSERVING
+DIRECTION
+(degrees)
+1,000
+2,000
+3,000
+4, 000
+5,000
+6,000
+7,000
+8,000
+9,000
+10,000
+12,000
+14,000
+16,000
+18,000
+20,000
+WAS AN INVERSION LATER NOTED?
+Off yes, at what altitude?
+WERE ANY THUNDERSTORMS NOTED IN AREA?
+(IS yoS,
+at what quadrant?
+70
+CLOUD COVER:
+tenths at
+tentha at
+feet.
+feet.
+COMMONTS:
+ALTITUDE
+(tegt)
+25,000ł
+30,000
+35,000
+40,000
+45,000
+50,000
+55,000
+60,000
+65,000
+70,000ł
+75,000
+80,000
+85,000
+90,000
+95,000
+100,000
+• Yes
+• Yes
+VELOCITY
+(knots)
+DIRECTION
+(degrees
+tenths
+at
+tenths at
+feet.
+feet.
+• No
+• No
+8. VISIBILITY WAS
+MILES.
+ITIC Teat Form 333 (13 Aug 52)

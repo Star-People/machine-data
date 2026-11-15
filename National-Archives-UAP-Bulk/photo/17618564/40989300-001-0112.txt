@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:32:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2465718, "source_ctime_ns": 1793356046470047237, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0112.jpg", "source_mtime_ns": 1785564592000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0112.jpg", "source_sha256": "ca009b4567a77a4e9228b22a00fed57512bb7aa9ad95003619f07c8b268b0eb0"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 343, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NE.
+- MEXICO
+OMI
+FROM
+ALAMOGORDO
+RELEASE POinte
+EL PASO
+U.S.
+MEXICO
+SCALE OF MILES
+1ồỊi = APPROXIMATELY 40Mi.
+45E
+N G1.5E
+CLOVIS
+ROSTEL
+REA INTO WHICH
+AJORITY OF BALLOONS
+HOULD DRIFT
+SPRIN
+BIG SPRING
+went
+TEXAS
+S45E
+FIG. 18
+367.5€
+NYU BALLOON PROJECT
+COveRAGE Or PROBABLE BALLOON
+PATHS BY 4 STATION SCR-658 NET
+DATE 3-12-48
+DWN BY S.G.
+C 48-7
