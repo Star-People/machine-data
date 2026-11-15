@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:27:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8632172, "source_ctime_ns": 1793354622950151185, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0004.jpg", "source_mtime_ns": 1785564315000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0004.jpg", "source_sha256": "a44beb5e54ae84d84ca7879491595d2ddec0f2abef85d7b497d4c6feff3bad09"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 903, "method": "ocr", "page": 1, "variant": "plain-vision"}
+VERBATIM
+RECORD OF TRIAL
+(Proper)
+of
+A0257543
+ADAMS, GEORGE F.
+(Last name, first name, middle initial)
+6th Tactical Hospital
+6th Bombardment Wing, Heavy, U.S. Air Force
+(Organization and armed force)
+.. Lleutenant Colonel
+(Service number)
+(Rank or grade)
+Walker Air Force Base
+New Mexico
+(Station or ship)
+GENERAL
+COURT-MARTIAL
+Appointed by
+_THE COMMANDER
+(Title of convening authority)
+FIFTEENTH AIR FORCE (SAC)
+(Command of convening authority)
+Tried at
+Wa Ker.
+Force Base, New Mexico
+(Place or places of trial)
+on 13-14-15 August.
+(Date or dates of trial)
+* 19-57
+INDEX
+RECORD
+4-5-0
+Introduction of counsel
+Challenges •
+Arraignment
+Motions
+Pleas
+Findings
+Sentence
+Proceedings in revision
+TESTIMONY
+NAME OF WITNESS
+PROSECUTION
+ISt It
+DEFENSE
+Lapt R
+COURT
+None
+Direct and
+Redirect
+42-49-
+54-106ł
+109-716ŚŘš
+128
+129
+130
+131
+-3-33-
+39-40
+123
+25
+Cross and
+Recross
+48-92-
+106
+176
+Court
+49
+104
+19-30
+40-4
+39

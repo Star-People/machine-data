@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:14:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5267162, "source_ctime_ns": 1793378281975280946, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967460/0518.jpg", "source_mtime_ns": 1785696643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967460/0518.jpg", "source_sha256": "8bf03766b1ccf27ad719f738c6da0c68d4dcd2839983c51c8e79ddbb63a70483"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 779, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+September 1956
+3. DATE-TIME GROUP
+Local
+CM T
+06/03302
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Camp Drum,
+New York
+TYPE OF OBSERVATION
+DK Ground• Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intereopt Rodor
+military
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolloon
+•
+Was Aircraft
+Probably Airerart
+Possibly Aireroft
+Was Astronomical Mars
+Probably Astronomical
+Possibiy Astronomical
+Other_
+•
+Insufficient Data for Evaluation
+Unknown
+approx 2 hours
+one
+10. BRIEF SUMMARY OF SIGHTING
+One object cone shaped, size of dime,
+color pink turning to white, object
+faded out gradually and reappeared.
+(fades and reappears))
+stationary
+11. COMMENTS
+Probably Mars.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:01:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3090856, "source_ctime_ns": 1793376072931997421, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959086/00632.jpg", "source_mtime_ns": 1785696897000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959086/00632.jpg", "source_sha256": "e52a3152c5c119c6ffb6c952bdd198b9551ebd305c0ce01a627a81f149f63916"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 957, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+12.
+23 July 1954
+3. DATE-TIME GROUP
+Local
+GMT 23/1630Z
+5. PHOTOS
+Narsarssuak AB Greenland
+4. TYPE OF OBSERVATION
+Xa Ground- Visual
+É Air Visual
+D Ground-Radar
+• Air-Intercept Radar
+¿. SOURCE
+• Yes
+a No
+7. LENGTH OF OBSERYATION
+Military
+8. NUMBER OF OBJECTS
+9. COURSE
+Varied
+Varied
+0. BRIEF SUMMARY OF SIGHTING
+rubis sighted at 285 degrees true, later
+were sighted clockwise around horizon to
+25 degrees true. Usually appeared in pairs.
+Formed in three seconds and disarated in
+twelve seconds. Three a/c dispatched and
+observed 40 puffs. Grey color. Similiar to
+flak bursts and about the same size. Altitude
+estimated 6,000 ft.
+11. COMMENTS
+Evaluated as flak.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balioon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+FLAK
+Insufficient Data for Evalution
+Unk no wn
+ATIC FORM 329 (REV 26 SEP 52)

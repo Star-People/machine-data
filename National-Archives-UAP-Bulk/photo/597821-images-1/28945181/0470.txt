@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:08:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4066065, "source_ctime_ns": 1793373033790432909, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0470.jpg", "source_mtime_ns": 1785688721000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0470.jpg", "source_sha256": "14da276f23e75ff55a6b33c71b85aa6ea88f980acecb0fa70736398fd0ddec34"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 381, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACTION
+ATiA
+3. C. Files
+RC 119
+ПPF202
+TYD1 51
+B1Ur
+JEPOW B6S7
+195
+09:#
+P JEDY?
+DE JEPQW COS
+P 2021002
+FM HQ 2522TH AB WC MITCHEL AFD NY
+TO CG AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFD CHIC
+MTL 2115-7 PIO PD ATTN FLYODAPT PD NO REPLY RECEIVED TO CUR MESSACE
+MTL 977-7 PIO ADDRESSED ATTENTION FLYOERPT SUBJECT REPORTS OH
+UNIDENTIFIED FLYING OBJECTS.
+29/312522 JUL JEPOW

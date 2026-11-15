@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:16:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5595394, "source_ctime_ns": 1793383782052428876, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987858/0014.jpg", "source_mtime_ns": 1785748544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987858/0014.jpg", "source_sha256": "92638933827f5cc273d6d3b2b54254e6b38ba2eb2a87e2fd120fb1f468448070"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 319, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJWZEH 37A
+9. NA
+PART II
+1. BRIGHT APPEARANCE
+2. 3CDEGREES ABOVE HORIZON
+3. MA
+4. STRAIGHT LINE AT SLIGHT DOWN ANGEL
+5. OBSCURED DY TREES
+6. FRACTICH OF A SICOND
+PART III
+1• VISUAL
+2. NOME
+5. MA
+PART IV
+1. 2005162
+2. NIGHT
+3. IVA
+PAR V
+1. LAKEWOOD COUNTRY CLUE GOLF COURSE
+TACOMA, WASHINGION DKNC 2905
+PART VI

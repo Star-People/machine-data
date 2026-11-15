@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:26:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8181888, "source_ctime_ns": 1793385983118290917, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994537/0938.jpg", "source_mtime_ns": 1785748177000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994537/0938.jpg", "source_sha256": "83aa520f4a58a88058c1ca16931ecdd6f905dd7d7b0ea5d2366e5b25cff13ac8"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 565, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON
+OFFICE OF THE SE
+TARY
+3 October 1961
+Dear Mis
+Your letter of September 14th addressed to the President
+of the United States has been referred to this office.
+Your interest in describing the object you saw is appreciated.
+I have enclosed a questionnaire, which you may fill out in order
+to provide us with more information. You may mail the completed
+questionnaire in the enclosed pre-addressed envelope.
+Sincerely,
+delm
+WILLIAM T. COLEMAN, JR.
+Major, USAF
+UFO Project Officer
+Public Information Division
+Office of Information

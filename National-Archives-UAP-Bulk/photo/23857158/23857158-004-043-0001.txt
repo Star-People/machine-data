@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:33:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13709064, "source_ctime_ns": 1793358766198915189, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-043-0001.tif", "source_mtime_ns": 1785681196000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-043-0001.tif", "source_sha256": "8bfb3a6a0f8ff8eade8685d000a4d8f2739f21cb076c9f2f08a48b9956aec9fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 715, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+AISS-170B-388-55
+LOCATION OF SIGHTING
+Ocala, Florida
+MEANS RECD
+TT Mag
+INVES UNIT
+FIt 2-C
+DATE IR RECD HQ
+DATE/TIME OF SIGHTING
+03/01352 Nor 55
+| RECD HQ 4602D
+4 Nov 55
+LOGGED BY
+S/Sgt Deludder
+ACTION
+Investigation authorized
+DATE INVES ASSIGNED
+3 Now 55
+DATE IR APPROVED
+ASSIGNING OFFICER
+Maj Jhrasner
+DATE IR TO ATIC
+DATE OF FORM 5
+LL November 1955
+COMMENTS
+Although the preparing officer of the IT Msg resolved the sighting
+aS PROSAELS AIRCRAFT,
+Flight 2-C will check into this sighting
+further while investigating another sighting near Ocala.
+CONGLUSIONS
+Concur with preparing (IT) Afree
+Hus Ac: SAC Refueling mission
+AISOP FORM 7 (2 APR 55)

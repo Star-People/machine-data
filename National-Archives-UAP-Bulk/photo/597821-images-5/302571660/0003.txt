@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:59:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1705320, "source_ctime_ns": 1793392840096962251, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302571660/0003.jp2", "source_mtime_ns": 1785808156000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302571660/0003.jp2", "source_sha256": "f0e3d8473a70b0e539f5295b4ce543b2e0964ddf616f8a62307da71320cb21ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 405, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE - TI
+24 Get 5r
+3. SOURCE
+Civilian
+1. NUMBED
+GROUP
+OBJECTS
+5. LENGTH OF OBSERVATION
+Unknown
+TYPE OF OBSERVATION •
+N/A
+7. COURSE
+Unknown
+8. PHOTOS
+Yes
+9. PHYSICAL EVIDENCE
+• Yes
+X No
+FORM
+FTD SEP 63 0-329 (TDE)
+PROJECT 10073 RECORD
+2. LOCATION
+Greenville
+10. COMCEUSION
+INSUFFICIENT DATA FOR EVALUATION
+11. BRIEF SUMMARY AND ANALYSIS
+Second hand report. Observer sent a 164 but it was not
+returned.

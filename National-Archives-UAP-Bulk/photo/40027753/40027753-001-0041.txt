@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:37:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18211222, "source_ctime_ns": 1793361574006894738, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0041.tif", "source_mtime_ns": 1785565382000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0041.tif", "source_sha256": "e68e65ca3b7ae1fe6dd5a371c9038fd3c56e2bcffaa14c0e38fb2267b7e6e61d"}
+
+===== PAGE 1 =====
+{"alpha_words": 280, "chars": 1905, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Textual records of Project BLUE BOOK (the documentation relatine. to
+investigations of unidentified flying objects), excluding names of
+eople involved in the sightings, are now availahle for research in
+the National Archives Buildinr,.
+The records include anoroximately
+two cubic feet of unarranged project or administrative files, 37
+cubic feet of case files in which individual sirhtings are arranged
+chronologically, and three cubic feet of records relating to the
+Office of Special Investigations (OSI), portions of which are
+arranged chronologically, by OSI district, and hy overseas command.
+A cubic foot of records comprises about 2000 pages.
+Finding aids for these records include a file list for the project
+files and an index to individual sightings, entered by date and
+location.
+Access to BUE ROOK textual records is by means of 94 rolls of 35mm
+microfilm (T-1206) in the National Archives microfilm reading room
+(Room 400). The first microfilm roll includes a list of contents
+for all of the rolls and the finding aids. Photographs scattered
+amonp the textual records have also been filmed separately on the
+last two rolls.
+Requests for copies of individual rolls of microfilm ($20. each) should
+be addressed to the Publication Sales Branch (NEPS), National Archives,
+washington, D. C. 20h0ß. Orders for the 10 page list of roll contents
+or the 19 page report summarizing Project BIE BOOK, dated March 1967,
+may be placed with the Military Reference Branch (NMR), National
+Archives, Washington, D. C. 20408. The cost of photocopy orders 1s
+.35 per page, with a minimum order cost of $5.
+nade payable to the National Archives Trust Fund.
+Motion picture film, sound recordings, and some still pictures are
+maintained by the Motion Picture & Sound & Video Branch (NNSM) and the
+Still Pictures Branch (NNSP).
+REPROOUCED FROM HOLDINGS OF THE NATIONAL ARCHIVES
+REPRODUCED AT THE NAT WONAL ARCHIVES
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 1, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}

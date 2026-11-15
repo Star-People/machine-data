@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:10:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4377611, "source_ctime_ns": 1793373187669751173, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945810/1038.jpg", "source_mtime_ns": 1785689056000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945810/1038.jpg", "source_sha256": "075caf31da4bfcb7657a2ed9830d64180984c33ef822dc8b0b5aaa4a1151f956"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 544, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1' ATIN?
+2. 8779
+VUL I802
+10 08
+WPD 159
+TYD222
+JEPHQ B184
+PP JEDWP
+19. У 250
+DE JEPHQ 23A
+P 2617312
+FM HQ USAF WASHDC
+16:06
+- 00
+TO CG ATIC WPAFB OHIO
+FROM AFOIN 41267 ATIN CLN ATIAAZC THE FOLLOWING MSG FR FLI SVC Palsongs?
+CENTER OLMSTED AFB CMA PA CHA IS QUOTED FOR YOUR INFO CLN
+MR
+CHIEF OVSERVER AT PSP
+PSP RECEIVED AT 261052 PST OBJECT SEEN THROUGH BINOCULARS APPEARED
+TO BE ROUND LIKE MOON IT SEEMS NOT TO BE MOVING AT 261106Z OBJECT
+REPORTED STANDING STILL FOR PAST FIVE MINUTES REPORTED BY THREE
+PREVIOUS WOMEN.
+26/17452 JUL JEPHQ
+Сy-1

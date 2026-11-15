@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:02:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3521481, "source_ctime_ns": 1793371601682618112, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939060/00252.jpg", "source_mtime_ns": 1785688714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939060/00252.jpg", "source_sha256": "796e654a6d940a644e5e90b53a0b22431680f6b19baecff5a7776c67edf2336a"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 1123, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SUBJECT:
+Unidentified Object
+MCIA
+Col Feiling
+MCI
+14 Feb 51
+Request that you give me a short resume of action taken in connection vith the
+inclosed cables concerning an unidentified object in the general vicinity of
+Newfoundland.
+3 Incis
+1. СУ
+inc msg (1-1p) 51s-20766-2
+2. Cy inc msg (1-1p) 515-20769-2
+(1-1p) 515-22120-2
+/ 3/ HAROLD E. WATSON
+Colonel, USAF
+Chief, Intel Dept
+Honaker /mi
+59210
+Bldg 2638
+P B21
+DICI
+MCLAXA-la
+20 reb 51
+2
+1. The inclosed cables were reviewed by this office in light of criteria which
+has been developed up to the present time in the investigation of such incidenta.
+The
+matter vas also discussed vith an astronomer attached to the Graduate Center at Aren 3.
+2.
+As a remilt, it was concluded that while there is a possibility of the object
+being a meteor or a fireball, the description furnished gives reason to believe that
+the aircrey sctually saw an unusual "northern lights display.
+3. This information la being passed on to TC3, Hq USA?.
+3 Incla:
+n/e
+KENT PARROT
+It Colonel, USAF
+Chier, Aircrart & Propulsion Sec
+Technical Analysis Division
+Intelligencs Department
+6-5376
+P D-11
+3 2630

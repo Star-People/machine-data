@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:04:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4017242, "source_ctime_ns": 1793379182473933741, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971420/1156.jpg", "source_mtime_ns": 1785700983000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971420/1156.jpg", "source_sha256": "302c103d3b7455a84fe8a11f1ec1721a993e11634ae254bfb4d6b25699ef5df8"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 343, "method": "ocr", "page": 1, "variant": "plain-vision"}
+9 SEP 57 10 4 100
+14E4
+NNNNWPH295V WPC106 VYC1Ø7 VDD051PTA038
+PP RJESGL RJEDWP
+DE RJESPT 9
+P M 1015152
+FM COMDR AFMTC PATRICK AFB FLA
+TO RJEDWP/COMDR ATIC WPAFB OHIO
+INFO RJESGL/COMDR EGLIN AFB FLA
+BT
+UNCLASSIFIED FROM MTOI-9-0293.
+YOUR AFCIN-4-E4 CITE 9-1292-E FOR AFCIN-X1 MAJ BYRNES.
+INFO COPY TO OPS 5055J. NEGATIVE
+BT
+10/1516Z SEP RJESPT

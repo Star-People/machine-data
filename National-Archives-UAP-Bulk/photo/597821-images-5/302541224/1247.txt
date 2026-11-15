@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:00:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1757228, "source_ctime_ns": 1793389469899104638, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541224/1247.jp2", "source_mtime_ns": 1785808022000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541224/1247.jp2", "source_sha256": "3cace2d38f5b623ae74e16533aa26b347b92389eed03b45a43746d3206fc7ebb"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 863, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE - TIME GROUP
+12 August 65 12/0650%
+SOURCE
+Civilian
+NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+15 Minutes
+TYPE OF OBSERVATION
+Ground-Visual
+COURSE
+Rising
+8. PHOTOS
+• Yes
+XOXNO
+9. PHYSICAL EVIDENCE
+• Yes
+XI NO
+FORM
+FTD SEP 63 0-329 (TDE)
+Provi
+2. LOCATION
+Sioux City, Iowa
+10.
+CONCLUSION
+BATTOON
+Description duration and flight in accord with Balloon analysis.
+Balloon released at 06157 in fight to NE and would be in ares
+11. BRIEF SUMMARY AND ANALYSIS
+Round red object with center of green and white observed directly
+overhead.
+Rising. Disappeared overhead. Disappeared by beco
+ming
+smaller.
+Balloon released from local weather station prior to sighting and
+winds were to the No, placing the balloon over the observers ares
+witness had turned in multiple reports during previous week an
+observation was made while looking for UPO's.

@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:07:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3972279, "source_ctime_ns": 1793385260630326873, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992500/0556.jpg", "source_mtime_ns": 1785748397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992500/0556.jpg", "source_sha256": "143b3162fad9d8bfed009bfd7eef34504478aea93ec4099173ea73aa46a2987a"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1144, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(3) SOUTH QF REPORTING ACFT AND HIGH ABOVE
+(4) WHEN FIRST SIGHTED OBJECT WAS NORTH AND HIGH ABOVE
+REPORTING ACFT PD PILOT OBSERVED OBJECT DRIFTING
+VERY SLOWLY ALOGN FOR APPROX TWENTY MINUTES PD OBJECT
+THEN TURNED SOUTH AND DISSAPPEARED AT A TREMEHDOUS CATE
+OF SPEED PD
+(5) INSTANTANECUSLY TO THE SOUTH (APPROX TEN SEC)
+(6) TWENTY MINUTES
+C. (1) AIR-VISUAL
+(2) USE OF OPTICAL AIDS NOT REPORTED THIS UNIT
+(3) TRANSCANADA FLIGHT 307 PD TYPE UNK CMM ALT UNK, HDG
+270 DEGREES CMM HOME BASE TORONTO CMM ONTARIO
+D. (1) 12/2042Z MAY 61
+(2) DAY
+E. (1) REPORTING ACFT FORTY NM EAST OF PECK ONMI HEADING 270 DEGREES
+F. (1) CAPTAIN WRIGHT CMM HOME BASE MALTON ARPT CMM TORONTO
+AGE UNK CMM FIRST PILOT TRANSCANADA AIRLINES CMM VERY
+RELIABLE
+(2) NA
+G. (1) SCATTERED CLOUDS
+(2) SURFACE SE 7 6,0001-180 DEGREES/16, 10,0001-170 DEGREES/20
+16,0001-160 DEGREES/11, 20,0001-150 DEGREES/12, 30,000-180
+DEGREES/21, 50,0001-310 DEGREES/20, 80,000'-050 DEGREES/15
+(3) 3,000' SCATTERED, 10,000' SCATTERED
+(4) FIFTEEN MM
+(5) LESS THAN 4/10'S
+(6) NONE
+(7) UNK
+NONE KNOWN
+NONE
+K•
+UNK OTHER THAN MIL TRAFFIC IN AREA
+MR
+WATCH SUPERVISOR, DETROIT ARICO, HO COMMENTS
+L •
+NONE

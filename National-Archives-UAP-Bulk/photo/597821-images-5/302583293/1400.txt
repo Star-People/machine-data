@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:54:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1239905, "source_ctime_ns": 1793394057549091892, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302583293/1400.jp2", "source_mtime_ns": 1785808208000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302583293/1400.jp2", "source_sha256": "ffec01c8a44625d9cb5ea2ff761510e33379ee33a631229be2a5427548bbc71b"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 529, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE
+IME GROUP
+19/0010 EDT
+19. Aus 69 19/04102
+3. SOURCE
+Civilian
+1. NIMBER OF OBJECTS
+Two (2)
+5. LENGTH OF OBSERVATION
+About 1 1/2 hours
+6. TYPE OF OBSERVATICH
+Ground-Visual
+7. COURSE
+descending in Sy
+3. PHOTOS
+П Yos
+R No
+PHYSICAL EVIDENCE
+• Yes
+2. LOCATION
+Near Fairborn, Onio
+10. CONCLUSION
+Astro (STARS/PLANETS)
+BRIEF SUMMARY AND ANALYSIS
+Observers sighted two flashing lights in the SW. The lights
+gradually got lower and finally disappeared on the horizon
+after 1 1/2 hours.
+FORN
+FTO SP J) 0-329 (TDE)

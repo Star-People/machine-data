@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:13:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5093945, "source_ctime_ns": 1793372342088561399, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942396/00465.jpg", "source_mtime_ns": 1785688915000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942396/00465.jpg", "source_sha256": "d5f6a0068be6c3c36db1fb5afd193522f13ce008db5271f4f8861dde18391d21"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 859, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+30 May 1952
+3.
+DATE-TIME GROUP
+Locol
+0400 3
+CM T.
+3:
+5. PHOTOS
+() Yes
+7. LENGTH OF OBSERVATION
+1 Sec
+10. BRIEF SUMMARY OF SIGHTING
+Color:
+Shape:
+Green body w/yellow trail
+Sphere w/tail
+PROJECT 10073 RECORD CARD
+LOCATION
+17 miles S. Fresno, California
+TYPE OF OBSERVATION
+Q Ground- Visual
+• Air Visual
+C) Ground-Radar
+• Air-Intercept Radar
+SOURCE
++ 12. CONCLUSIONS
+Was Balloon
+Probably Balleon
+Possibly Ballcon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+C:
+Vas Astronomical
+Probably Astronomicei
+Possibly Astronomical
+Other Prob Meteor
+Insuffierent Data for Evaluatior
+Unknown
+Male civilian
+8.. NUMBER OF OBJFCTS
+COURSE
+90°
+11. COMMENTS
+Object emitted bright green flames.
+Had tail length of diameter of object.
+Tail ycllow sparks.
+Went out when
+directly over source.
+Vain broken clouds at 25,000'
+Maneuvers: Arched
+ATIC FORM 329 (REV 26 SEP 52)

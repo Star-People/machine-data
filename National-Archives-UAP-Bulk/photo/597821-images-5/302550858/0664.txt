@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:55:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1294279, "source_ctime_ns": 1793390539554927414, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550858/0664.jp2", "source_mtime_ns": 1785808395000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550858/0664.jp2", "source_sha256": "a5021548e2290da48c7e5b46809cef614f68e27d65bca1e8906b5cd5c9926ab3"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 468, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE - TIME GROUP
+10 May 66 10/1755
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+2 minutes
+6. TYPE OF OSSERVATION
+Ground Visual Bx
+7. COURSE
+SW
+3. PHOTOS
+• Yes
+9 No
+9. PHYSICAL EVIDENCE
+• Yos
+2 No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previou
+2. LOCATION
+Dobbston, Ohio
+10. CONCLUSION
+Insufficient Data for evaluation.
+11. BRIEF SUMMARY AND ANALYSIS
+Form 164 requested and request was returned because of no
+such address.
+y be used.

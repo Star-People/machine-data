@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:04:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3984991, "source_ctime_ns": 1793385151080972808, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992020/0124.jpg", "source_mtime_ns": 1785748544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992020/0124.jpg", "source_sha256": "11aab16c5e88d2f3efce95c9e661b59a4b900c496905d35ff86df87f6033d549"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 838, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1 Apr 61
+3. DATE-TIME GROUP
+Local
+GM F1/1034šźęŚ
+S. PHOTOS
+• Yes
+5 NO
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Guantanamo Bay, Cuba
+TYPE OF OBSERVATION
+• Ground-Vi sual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+military
+8. NUMBER OF OBJECTS
+One
+| 9. COURSE
+10. BRIEF SUMMARY OF SIGHTING
+Round vellow ball tr
+black smoke.
+Smoke
+dissapated rapidly.
+Observed from 30 deg
+elevation in East disappearing below horizon.
+Descending
+11.
+COMMENTS
+Ident
+J-15
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircrat
+Possibly Aircraf
+Was Astronomical
+Probably Astronomical
+•
+Possibly Astronomical
+• Other
+Missile
+Insufficient Data for Eval
+Unknown
+test 321 7
+Alabema
+42. njg
+Ditector
+Retospace
+Studies Inst
+ATTN. Archives Branch
+RETURN
+ATIC FORM 329 (REV 26 SEP 52)

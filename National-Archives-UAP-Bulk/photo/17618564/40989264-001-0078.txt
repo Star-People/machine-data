@@ -1,0 +1,94 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:35:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17763152, "source_ctime_ns": 1793355243736666410, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0078.jpg", "source_mtime_ns": 1785564419000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0078.jpg", "source_sha256": "d391e02b424266d67f159960e7014d8cacffd84f1dab73356dabb21c99928869"}
+
+===== PAGE 1 =====
+{"alpha_words": 408, "chars": 3745, "method": "ocr", "page": 1, "variant": "plain-vision"}
+0003ął
+00031/
+0003źîŘŚš
+0003ął
+00034
+00035ł
+0003ćł
+0003šŘęš
+00038
+00039
+00040
+00041
+00042
+0004zł
+148
+An Introduction to Astrodynamics (with Maud Makemson) Academic Press,
+New York, October 1960, 358 + xxi.
+"Librations on a Slightly Eccentric Orbit, " ARS Journal, 30, No. 1,
+124-26, January 1960.
+"Plane Librations of a Prolate Ellipsoidal Shell, " ARS Journal, 30, No. 1,
+126-128, January, 1960.
+'Lunar Guidance, " (with Maj. J. Schmitt and C. C. Combs) in SR-183
+Lunar Observatory Study Vol. II (S), ARDC Project No. 7987, Task No.
+19769, AFBMD TR 60-44, pages II-3 to II-43, April 1960.
+"Orbit Determination from Range and Range-Rate Data, " ARS Preprint
+1220-60, May 1960.
+'Astrodynamics, " in Space Trajectories (Academic Press, New York),
+October 1960 29-68.
+"Three-Dimensional Drag Perturbation Technique, " ARS Journal, 30,
+No. 8, 748-753, 1960. (Same as 00026)
+"Review of Perturbations of Orbits of Artificial Satellites Due to Air Resis-
+tance, ARS Journal, July 1960, 703-704, Vol. 30, No. 7.
+"Review of Dependence of Secular Variations of Orbit Elements on Air
+Resistance, " ARS Journal, July 1960, 675, Vol. 30, No. 7.
+'Efficient Precision Orbit Computation Techniques (revised) ARS Journal,
+30, No. 8, 740-747, 1960.
+"State-of-the-Art-1960 Astrodynamics, " Astronautics, 5, No. 11, 30, 1960.
+"Novel Orbit Determination Techniques As Applied to Air Force Systems, "
+paper presented to the Seventh Annual ARDC Science and Engineering Sym-
+posium Boston, Massachusetts, November 30, 1960.
+1960 Advances in Astrodynamics, " ARS Journal, December 1960 (expanded
+version of Item 00038).
+'Analysis and Standardization of Astrodynamic Constants, " (with Makemson
+and Westrom), Journal of the American Astronautical Society, VII, No. 1.
+00044
+00045
+00046
+00047
+00048
+00049
+00050
+00051
+00052
+00053źŘš
+00054
+00055
+149
+"Preliminary Results Concerning Range-Only Orbit Determination, " Pro-
+ceedings of the First International Symposium on Analytical Astrodynamics,
+p. 61, June 29, 1961.
+"Perturbations, " pp. 4-16 - 4-18; 'Orbit Determination, " pp. 8-34 - 8-38;
+"Navigation, " pp. 27-33 - 27-34, Handbook of Astronautical Engineering,
+McGraw-Hill Book Company, Inc., 1961.
+"State of the Art - 1961 Astrodynamics, " Astronautics, Vol. 6, No. 12,
+December 1961.
+"Review of Methods of Celestial Mechanics, by Dirk Brouwer and G. M.
+Clemence, " and Review of Physical Principles of Astronautics by Arthur
+I. Berman, " The Journal of the Astronautical Sciences, Vol. VIII, No. 4
+Winter 1961.
+"Astrodynamics" Chapter in McGraw-Hill Encyclopedia of Science and
+Technology, McGraw-Hill Book Company, Inc., 1962.
+'Determination of the Orbit of the Russian Venus Probe, " (with B.C.
+Douglas, David Newell, A. K. Stazer, R. L. Held and M. Lifson). ARS
+Journal, pp. 259-260, February 1962.
+"A Note on the Determination of Orbit from Fragmentary Data, " (with
+B. C. Douglas and Mary P. Francis). Lockheed Astrodynamics Research
+Report #1, LR 15379, April 1962.
+"Review of Introduction to Space Dynamics by W. T. Thomson, " Review
+of An Introduction to Celestial Mechanics by Theodore E. Sterne, " Review
+of Fundamentals of Celestial Mechanics, by J. M. A. Danby, " The Journal
+of Astronautical Sciences, Vol. IX, No. 4, Winter 1962.
+"Influence of Planetary Mass Uncertainty on Interplanetary Orbits, "ARS
+Journal, No. 12, Vol. 32, December 1962.
+"Elimination of Spurious Data in the Process of Preliminary and Definitive
+Orbit Determination, " Dynamics of Satellites Symposium (Paris, May 28-30,
+1962), Berlin, Springer-Verlag, 1963.
+"Utilization of the Laplacian Method from a Lunar Observatory, " Icarus,
+Vol. 1, No. 4, January 1963.
+"Lunar Radio Beacon Location by Doppler Measurements, " (with T. P.
+Gabbard), AIAA Journal, Vol. 1, No. 4, April 1963.

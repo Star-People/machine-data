@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:27:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8240390, "source_ctime_ns": 1793386960985226492, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997932/0017.jpg", "source_mtime_ns": 1785748553000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997932/0017.jpg", "source_sha256": "40fd7650c69b57653382231e8609f030207e6eb295a7fac60d291fff1db6089a"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 713, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON
+OFFICE OF THE SECRETARY
+July 23, 1962
+Dear
+The Office of the President has asked the Air Force to reply to
+your recent letter concerning an unidentified aerial sighting from
+your bedroom window.
+Please complete the attached form, in duplicate, and mail them
+back to me. If your report is detailed the Air Force will have an
+analysis to you shortly.
+For your information I have inclosed the latest Department of
+Defense Fact Sheet which explains the Air Force's position relative to
+unidentified flying objects.
+Sincerely,
+2 Attachments
+1 •
+FTD Form 164
+2.
+DOD Fact Sheet
+NILLIAM J. LOCKADOO
+It. Colonel, USAF
+Public Information Division
+Office of Information
+Ashland, Wisc.

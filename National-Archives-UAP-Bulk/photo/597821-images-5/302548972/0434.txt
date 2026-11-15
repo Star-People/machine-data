@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:57:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1419809, "source_ctime_ns": 1793390311724192306, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548972/0434.jp2", "source_mtime_ns": 1785808699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548972/0434.jp2", "source_sha256": "c72d969eec40b847bf985b822bac6ccb099699db172a09f322567c331a365b71"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 627, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+6 April 66 07/01152
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+Two
+5. LENGTH OF OBSERVATION
+1 - 2 Minutes
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+Overhead - Circling
+8. PHOTOS
+• Yes
+9. PHYSICAL EVIDENCE
+• Yos
+FORM
+FTD SFP 43 0-320 (TDE)
+PROJECT 10073 RECORD
+2. LOCATION
+Houston, Texas
+10. CONCLUSION
+AIRCRAFT
+- ?
+11. BRIEF SUMMARY AND ANALYSIS
+mall objects appeared in iky. One het was following the
+One heading toward Ellington
+one heading to life of
+Observer noted red and white blinking lights.
+Observer probably
+mistook two aircraft in approach patter at Ellington AFB.
+Tech data accred
+Send. / 64

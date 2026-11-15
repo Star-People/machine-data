@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:05:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4087707, "source_ctime_ns": 1793386806865719606, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997410/1022.jpg", "source_mtime_ns": 1785748575000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997410/1022.jpg", "source_sha256": "f28ae2d2d3f669bb23ceb09565ba4a1f05ca5df7f515575c3c5b53ff1c6f7571"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 16, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+boca
+
+eat mes.

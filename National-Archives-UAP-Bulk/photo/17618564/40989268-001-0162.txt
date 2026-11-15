@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:34:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15907130, "source_ctime_ns": 1793355723607499719, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0162.jpg", "source_mtime_ns": 1785564510000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0162.jpg", "source_sha256": "756c2cd37738a502bf40710e8cab2ff54f2f2f2c1bfcbb9af59786eb4b93e87c"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 975, "method": "ocr", "page": 1, "variant": "plain-vision"}
+310
+delay, the probe spacing and the speed of sound one can calculate the apparent
+elevation angle at which correlating signals reached the microphones as 45 degrees,
+with no dependency on azimuth. This angle is just what would be measured if the
+sound were produced by a large volume or horizontal plane of statistically-independ-
+ent noise sources such as the turbulent eddies in the atmosphere at jet stream
+altitudes. The value of delay time at which correlation occurred shows that the
+sound arrived first at the lower microphone, then at the upper one, and is proof
+that propagating sound rather than local flow noise was detected by the array.
+lim 1
+f(t)
+Movable Head
+(variable T)
+Tape Playback
+ultiplier
+Integrator
+I Display
+I f(t) g(t- T) dt
+- VS - T
+g(t - T)
+Figure 14. Cross Correlation Process
+20
+CORRELATION (%)
+Acoustic Background
+5-Minute Sample
+10
+- 10
+Figure 13. Moveable Playback Head
+0.2
+0.3
+DELAY TIME (sec)
+Figure 15. Correlation of 2-Probe Data
+0.4
+0.5

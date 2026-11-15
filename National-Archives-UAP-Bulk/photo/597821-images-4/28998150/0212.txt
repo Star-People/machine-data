@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:21:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6785100, "source_ctime_ns": 1793387095817736627, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998150/0212.jpg", "source_mtime_ns": 1785748070000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998150/0212.jpg", "source_sha256": "96666c15e33a13f04bcb1b983b54b4687a64c72dd64c18f0979443a938ade3cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1210, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL MESSAGE
+PRECEDENCE
+EMERGENCY
+ROUT INE
+(INFO)
+(ACTIONI
+RELEASED BY
+AF IN : 42410 (12 Jul 62) S/sc
+TR 1211502
+FM USS WILHOITE
+'TO COMWESTSEAFRON
+INFO COMBARPAC
+COMDESFLOT FIVE
+COMCORTRON FIVE
+COMHAW SEAF RON
+UNCLASSIFIED
+DRAFTED BY
+NAVY DEPARTMENT
+EXT. NO.
+READDRESSED OPERATIONAL IMMEDIATE 121251Z
+FM COMWEST SEAF RON
+TO CINCPACFLT
+INFO COM28NORADRGN
+CINCNORAD
+CINCSAC
+CNO
+COF S USAF
+CANA IRDEF
+MONTREAL
+CANCOMARPAC
+COMF IR STFLT
+COMPACMISRAN
+UNCLAS
+MERINT A. ONE B. ROUND, WHITE, SECOND MAGNITUDE STAR.-C.
+UNIDENTIFIED FLYING OBJECT. E.
+BEARING 020 DEG TANGO 1057Z ALT 21 DEG 070 DEG TANGO, 1102Z ALT 14
+DEG 076 DEG TANGO M. EAST I. SIGHTED BY 0OD AND LOOKOUTS. VERIFIED
+BY CO. OJECT DISAPPEARED BEHIND LOW CLOUDS 1105Z. CONSIDERED
+AF DIST: CIN-14, NSA-7, CIA-11, OOP-2, DIA-10, CIIC-3, OOP-CP-1,
+SAFS -3
+(51)
+NOTE: ADVANCE COPY SENT TO CIN, DIA AND OOP-CP.
+9E... COG
+SECNAV. • UNSECNAV. • 20. •09. • 09B. • 03. • 310. 33.. 34. 35.. 06.. 60. • 610. 07. 0 94
+32.. IP.
+• NAVA IDE. • COGARD
+NEC
+•. DIRNSA. • SECDEF.. JCS(J2).. FLAGPLOT.. BFRoCSAF
+(ADVANCE COPIES DELIVERED)
+CONTROL NO.
+54875/ JF/BD/ 4
+CIRCUIT NO.
+B106
+PAGE
+1
+OF
+PAGES
+TIME OF RECEIPT
+1334Z 12 JUL
+UNCLASSIFIED
+DATE TIME GROUP
+121152Z JUL52

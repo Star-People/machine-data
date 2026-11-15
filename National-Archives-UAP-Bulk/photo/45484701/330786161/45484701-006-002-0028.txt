@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:30:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10472752, "source_ctime_ns": 1793363839616496434, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0028.jpg", "source_mtime_ns": 1785685025000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0028.jpg", "source_sha256": "3568847d7eb56be9c98136fa4a2949bc77c9dad1f7ea2f23eb0531d3a7ec4932"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 36, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+1956 SEP 26
+16 27
+COUNTER INTEL DIV

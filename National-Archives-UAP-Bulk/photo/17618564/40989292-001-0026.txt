@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:55:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1287915, "source_ctime_ns": 1793355932179093860, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0026.jpg", "source_mtime_ns": 1785564562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0026.jpg", "source_sha256": "ac153cf945cec1cfb7b7f5944357043ea65d5020795065299a8f454bf3498c32"}
+
+===== PAGE 1 =====
+{"alpha_words": 217, "chars": 1494, "method": "ocr", "page": 1, "variant": "plain-vision"}
+16
+35,000¿foot track with chimpanzee or human subjects submerged in
+a special water tank that is already on order. It should not be
+thought, however, that Task 78506 is exclusively concerned with
+the possible uses of fluids in manned space flight. It merely
+happens that the first actual experimentation was directly related
+to this procedure. In the end, a wide range of g-patterns will
+be tested both with and without this and other protective devices, I9
+Although research on acceleration and deceleration patterns
+of space flight was primarily a responsibility of the Biodynamics
+Branch, at least until the recent reorganization of the Aeromedical
+Field Laboratory, staff mombers of the Space Biology Branch--which
+has been abolished outright--made some contribution to these studies.
+The Space Biology Branch, headed by Lieutenant Colonel (Doctor)
+David G. Simons, had charge of Project 7851g Human Factors of
+Space Flight, which took in both subgravity research and the
+various cosmic radiation and cabin environment studies that gave
+rise to the Man-High balloon flights. However, Project 7851 also
+contained a separate Task 78502, entitled Descent and Recovery
+(Re-entry)
+When first established in 1954, this task was regarded as
+a natural outgrowth and continuation of work done earlier in
+devising techniques for the recovery of animal capsules carried
+to the upper limits of the atmosphere in research rockets. Simons
+personally had been concerned with "descent and recovery" of the

@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:55:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1363084, "source_ctime_ns": 1793365967114078196, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll2-0097.jpg", "source_mtime_ns": 1785565457000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll2-0097.jpg", "source_sha256": "3c8b4230f71a20744866d4b5b22de3673fa2cf55a90a85ff96ef9ed2fa54dcb8"}
+
+===== PAGE 1 =====
+{"alpha_words": 2, "chars": 10, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+TUNO WU a
