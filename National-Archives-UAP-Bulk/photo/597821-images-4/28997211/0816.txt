@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:36:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3953316, "source_ctime_ns": 1793386739683701350, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997211/0816.jpg", "source_mtime_ns": 1785748132000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997211/0816.jpg", "source_sha256": "c39f30a3249f601adc3f14caba9e1be4311d516f4a7e6babf3fba0e921df92ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 886, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIPSD MESSAGE
+AF IN : 18248 (6 May 62) H/SpC O M I NG
+ACTION: CIN=17
+INFO: OOP-2, 00P-CP-1, SAFS-3, DIA-7 (31)
+S4 B
+028
+ZCHQD496ZCYJA124
+PP RJEZHO
+DE RJEDARL 1
+ZN R
+P 0603002
+FM 790TH RADAR SQ SAGE KIRKSVILLE AFS MO
+D RJWFAL/AIR DEFENSE COMMAND ENT AIR FORCE BASE COLO
+RJEDAH/30TH AIR DIVISION SAGE TRUAX FIELD WISC
+Pg 1 of 4
+RJEDSO/AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB
+RJEZHQ/HG USAF AFCIN WASHINGTON DC
+RJEZHS/ SECRETARY OF THE AIR FORCE SAFIS WASHINGTON DC
+INFO RJEDAH/CHICAGO AIR DEFENSE SECTOR CHODC TRUAX FLD WISC
+UNCLAS 790 486/62 UNFO REPORT IN ECCORDANCE WITH AFR 200-2. IMMED
+ATTN REG REGARDLESS OF TIME OF RECEIPT.
+A. DISCRIPTION OF THE OBJECTS
+(1) ROUND
+(2) SIZE OF BASEBALL
+(3) WHITE
+(4) TWO (2)
+(5) ABREAST
+(6) SEEMED TO BE SHAPED LIKE A DINNER PLATE.
+(7) THERE WAS NO TAIL TRAIL OR EXHAUST VISIBLE

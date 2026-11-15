@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:54:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8059044, "source_ctime_ns": 1793382113547537713, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1083.jpg", "source_mtime_ns": 1785701023000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1083.jpg", "source_sha256": "f4859775b9d7b25e2a471735ff26a5a4af51084fe7f604fada928cead2b23b03"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 745, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5. Aircraft identificetion
+a. Type aircrast 15-52 D
+b. Serial No..
+56-687
+c. Home Station ELLSWoRTH AFid
+SO DAK
+Paga two
+Tight Date NOLASSIFIED
+Reading
+010
+Yag
+• Trus
+- Compaas
+Ind. Altitude
+3/000
+Ind. Airspeed
+241
+7. Was an attempt to detect the objaot on airborne radar nada? (Cirale ons)
+No Radar
+Radar Inoporativo
+a. IS IS, desaribes
+8. Wes an intercept attempted? (Cirale one)
+9. Were photograpis taken?. (Cirala one)
+... IDe
+- no
+10. Were any other aireraft sesa in the area? (Cirals ens)
+Tos
+a. IP IS, was any attemps rade to contact than? Commentin
+11. Were any nearby pround stations ontacted during oo soon after the sighting?
+(Cirale one)
+No. Commentes
+INOL ASSISTED
+INGRADET
+DECLASSIFIRD
+AT 3
+YEAR INTE
+12
+YEA
+1006TH AISS Classified

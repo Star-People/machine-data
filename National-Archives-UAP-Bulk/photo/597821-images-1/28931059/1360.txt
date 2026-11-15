@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:42:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5080142, "source_ctime_ns": 1793369241084947904, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1360.jpg", "source_mtime_ns": 1785688780000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1360.jpg", "source_sha256": "d3c23ea09a950a5e2502b8853a9646756d5864b532db05fea4e0bbd1af0bc10e"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 713, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ASC-231-D
+(15-10-43)
+A. G. P
+ROUTINE
+MULTIPLE
+ADDRESS
+FROM:
+TO:
+CLASS:
+TELETYPE NO:
+FLORIDA (COTY?)
+ORIANDO AIT
+ORLAIDO
+FORCE BASE
+PESACOL
+AVAL AIR STATIO
+SIGADOLA ¡Y
+PENSACOL
+I AL SITTI
+CORT - PINSACOLA 1Ý
+TRIALS AG
+PANAMA CITY
+FORCE BASE
+TELETYPE MESSAGE
+AIR SERVICE COMMAND TELETYPE NETWORK
+DATE
+NAME, RANK AND TITLE OF AUTHENTICATING OFFICER
+ATLANT
+ATLANTA
+CHA PIL
+SATANTA
+COLONESS
+ARIST TA
+ROBINS
+TAGON
+(ARD)
+ISB
+J
+UNKI'S AIR
+JACKSON 24
+KISSIER AIR FORCE BASE
+R AIR BASS (NATIONE GUARD)
+MERIDIAN VO
+SOUTH CAROLEL
+APRON PIRAT STRET
+PORE JARS N 21
+CHICARU AIR U SE (NOTT NAD GUARD)
+CREENVILLE AIR FORCE BASE
+GRENVILLE 14Śł
+V
+SHAN AIR PRCE BASE
+SS32
+NATAL
+STATION
+CAS, NORTH CAROLE
+GORCO
+SUPPLY
+COORDINATION
+S₴

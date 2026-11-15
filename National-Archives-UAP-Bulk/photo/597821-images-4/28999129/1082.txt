@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:57:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8891011, "source_ctime_ns": 1793387766363911689, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999129/1082.jpg", "source_mtime_ns": 1785748431000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999129/1082.jpg", "source_sha256": "41b7d0995a5ad8898d21d5258675c29245ed32c04563295f0a2177dc9679e8ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 485, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NO CASE (INFORMATION ONLY)
+9 SEP 62Ś
+Another type of colored substance is the "blue rain" that sprinkled
+a thirty-mile stretch of countryside near London on September 9,
+1962. Falling without warning from clear skies, it left a blue stain
+that wouldn't wash off. Inevstigation showed that the substance
+came from jet planes taking part in Britain's annual giant air show
+at Farnborough. The jets were using the blue dye to color their
+vapor trails and make a more spectacular display.

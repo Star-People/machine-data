@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:57:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8878946, "source_ctime_ns": 1793363513391814262, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0066.jpg", "source_mtime_ns": 1785684622000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0066.jpg", "source_sha256": "7fca70672f9f1bfba1f451a37b801a76738e5620b194fea8a39c8878a85ecb64"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 121, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Sceteh of Object sighted;
+
+AA FAA MONTE A alate
+ai
+et aay
+bai,
+
+oy
+i
+Wi My
+en
+ee
+
+Declassification Authority: NND 923007

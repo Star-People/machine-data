@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:55:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8303230, "source_ctime_ns": 1793364598590437438, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0093.jpg", "source_mtime_ns": 1785685197000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0093.jpg", "source_sha256": "edcb9e6f34b2375e515dfbb6419ef98d4da63db49ad785b3b47913bc9d8b1a6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 1050, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SMAMA-Feb 495M
+Hq OSI
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+THE INSPECTOR GENERAL USAF
+18th DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+USAF SPECIALIZED DEPOT, BOX 310, MAYWOOD, CALIF.
+31 January 1950
+Mr. Frank B. Curry
+1000 West Linden Street
+Independence, Missouri
+Dear Sir:
+UNCLASSIFIED
+Reference is made to your letter of January 13, 1950
+addressed to the United States Research Bureau, Los Angeles,
+California, pertaining to an article which recently appeared
+in "The Wyandotte Echo". Your letter was referred to this
+office from the United States Department of Agriculture,
+Bureau of Agricultural and Industrial Chemistry, 263 South
+Chester Avenue, Pasadena, California.
+The information you furnished has been noted and is being
+forwarded to Headquarters, United States Air Force, Washington,
+D.C., for appropriate handling.
+Your making this information available is greatly
+appreciated.
+Very truly yours,
+KEEFE O'KEEFE
+Lt Colonel, USAF
+District Commander
+UNCLASSIFIED
+Declassification Authority: NND 923007

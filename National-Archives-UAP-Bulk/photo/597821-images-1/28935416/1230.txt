@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:42:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4939550, "source_ctime_ns": 1793370810520377495, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935416/1230.jpg", "source_mtime_ns": 1785688628000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935416/1230.jpg", "source_sha256": "74ac38d5595775ef409ad45fdfb42db97e0a7a86d78304795698bafd9458e358"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 491, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+MCIAXS/GW T/mr
+MCIAZS
+Lima, chio
+Dear aro
+receipt of your letter dated 18 July 1949 is respectfuly
+acknowledged by this leadquarters.
+the information regarding your sighting of an uni-
+dentified aerial object has been made a matter or record and
+is being incorporated into our study of this subject.
+Your aotion in forwarding the requested information is
+appreciated.
+Yours very truly,
+7. R. CLINGERIA
+Colonel, USAF
+Chief, Aralysis Division
+Intelligence Department
+UNCLASSIFIED

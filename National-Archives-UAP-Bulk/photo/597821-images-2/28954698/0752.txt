@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:46:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6067790, "source_ctime_ns": 1793375108661853697, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954698/0752.jpg", "source_mtime_ns": 1785696766000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954698/0752.jpg", "source_sha256": "81447b223affeef214b1f39dd4ccb63c5c88517527d8c0159d279a5817f89d32"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 542, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Quincy
+To Salem iW 109.1 SVM 22
+(Joins Detroit)
+388 RML :37
+To Detroit
+N
+L42°
+2000
+Hillsdale
+1000
+nkers j
+Cadmus
+30'
+420
+260Г
+460 L
+2301
+430
+(Joins Chicago) 2° W5
+4401
+84°
+2101
+270
+Kilometer
+250 Nautical Mile
+Statute Miles
+GEOREF 5-51
+MILWAUKEE (V-7)
+SECTIONAL AERONAUTICAL CHART
+Consult Coast and Geodetic
+78°
+Survey Radio Facility Charts
+and Civil Aeronautics Admin-
+istration Airman's Guide for
+changes in aeronautical intor-
+mation on this chart after
+JUNE 6, 1951
+Next scheduled edition, December 1951
+(cleoctand)
+U.S. AIR FORCE EDITION

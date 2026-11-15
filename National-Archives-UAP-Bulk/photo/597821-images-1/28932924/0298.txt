@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:43:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5387288, "source_ctime_ns": 1793369814814642952, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932924/0298.jpg", "source_mtime_ns": 1785688888000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932924/0298.jpg", "source_sha256": "a23c379e073f2d0b925956aeaecc622d52e946584e01f370eb4d0b138c8b1085"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 324, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+FLIGHT PLAN
+TILLAMOCK OR GOK
+DATE
+MARB AND AD
+5270
+FILOZ LIGANBA NUMBAR
+COLOR 07 AIDANS
+TYPA 02
+POINT 03
+PARTUEN
+AOUTS OP
+DESTIN
+CRUISING AI
+• 024AD
+LIDIO
+TIME OF DE
+ATED 7IG CIRCUTS
+UT. IS HOURS AND RINUPSS
+10603
+1389200
+C1llenook
+120°
+Hagatarille_
+109
+023
+COASTAY ECHCOS 0F ARIORANTICS
+AUB COPYI
+UNCLASSIFIED

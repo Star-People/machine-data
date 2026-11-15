@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:39:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4372587, "source_ctime_ns": 1793377449544948918, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963797/0260.jpg", "source_mtime_ns": 1785696793000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963797/0260.jpg", "source_sha256": "ac2e690c6ae1b0bec84997b078c3615cd0054cb5264a37693a21badd0a040804"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 831, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1 Oct 55
+3. DATE-TIME GROUP
+Local
+GM T.
+01/2204
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Shelby, Iowa
+4. TYPE OF OBSERVATION
+Xi Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Y•s
+• No
+7. LENGTH OF OBSERVATION
+civilian (GOC)
+S. NUMBER OF OBJECTS
+ls hours
+6
+10. BRIEF SUMMARY OF SIGHTING
+Round, disk, vhite, two small parachutes,
+dropped no sound, observers thought they heard
+a/c, then saw objs. Faded in and out of
+sight.
+SEE CASE FILE.
+12. CONCLUSIONS
+Day Was Balloon
+Probably Balloon
+D
+Possibly Balloon
+Was Aircraft
+•
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+•
+Possibly Astronomical
+Other.
+Insufficient Data far Evaluation
+Unknown
+9. COURSE
+S tO N
+11. COMMENTS
+Primary obj balloon. w/package recovered
+Miltiple sighting
+ATIC FORM 329 (REV 26 BRP 52)

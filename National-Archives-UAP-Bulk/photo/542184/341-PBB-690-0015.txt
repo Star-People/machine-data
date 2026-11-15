@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:06:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17219960, "source_ctime_ns": 1793367039343347687, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0015.jpg", "source_mtime_ns": 1785565645000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0015.jpg", "source_sha256": "96353a7d40572cd1828ae5a2511f1aa676cdcb8070cc05b3ff0157fd7e615c2e"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 64, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+330
+320
+300
+OFL
+DEL
+hanta
+22'241
+2
+20
+16
+1432 10
+06
+CT
+6
+5.
+220

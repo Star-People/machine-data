@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:57:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8914924, "source_ctime_ns": 1793364825053685099, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0048.jpg", "source_mtime_ns": 1785685204000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0048.jpg", "source_sha256": "ac756c0c5941056c9465a080b9ca717e06d112f18b138d96b65a100d051dd6e0"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 773, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LY INFORM
+20D OSI 24-0
+4 August 1958
+ASC plane at 9:15 PM, 2 August 1953, and neither he nor the pilots noticed
+anything unusual when coming in for a landing; that it was MoHALF's feeling
+that very possibly the objects seen were fog banks which he had seen forming
+in the Pasco«Kemewick region.
+c. Mr. EDDY requested Mr. DUCOM to pass the above information
+to the Office of Speoial Investigations at Rochord AFB, Washington, for any
+action deemed appropriate. No investigation is contemplated by this district
+at this time.
+FOR AND IN THE ABSENCE OF THE DISTRICT COMMANDER:
+RALPH HARRISON
+Chiof, Personnel Investigations
+co: Directorate OSI
+Condr, S6024 AISS, Nethord APB
+24-185-20-
+AuC 6
+PeCi
+TES AIR FORCE
+FOR GENFRAL
+19 2 4'53
+SEN
+Declassification Authority: NND 923007

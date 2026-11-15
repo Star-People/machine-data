@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:57:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8821399, "source_ctime_ns": 1793379687426372266, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973199/01290.jpg", "source_mtime_ns": 1785700783000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973199/01290.jpg", "source_sha256": "ea266eecf1391e99aa4e129adcbe141c5c85a72c5f79e3651f64beda7338a134"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 879, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+5 November 1963
+3. DATE-TIME GROUP
+Local
+GM T.
+06/02452îŚłš
+5. PHOTOS
+• Yes
+•-No
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Chattanooga,
+TYPE OF OBSERVATION
+•I Ground Visual
+• Air Visual
+6-
+SOURCE
+Tennessee
+• Ground-Rodor
+• Air-Intercept Rador
+Civilian
+8. NUMBER OF OBJECTS
+four minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+One round bright beige object, 30
+inches in diameter. Object was
+seen
+flying over head on a straight flight
+path for * minutes.
+12. CONCLUSIONS
+Was Balloon
+Probably Ballee
+ossibly Balloo
+9. COURSE
+•
+•
+Was Aircraft
+Probably Aircraf
+OX Possibly Aircraf
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+•
+Unknown
+straight
+11. COMMENTS
+Description, duration, flight
+path
+ind.cate
+that this sighting
+was possibly caused by an aircraft
+No report in file.
+ATIC FORM 329 (REV 26 SEP 52)

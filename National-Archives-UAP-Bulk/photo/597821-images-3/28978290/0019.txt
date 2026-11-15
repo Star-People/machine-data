@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:46:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6347849, "source_ctime_ns": 1793380759420947230, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978290/0019.jpg", "source_mtime_ns": 1785700723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978290/0019.jpg", "source_sha256": "e4af38c38799a23856ff496669a273b460cc2959f4a6a5dcdd3d997739c3386e"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 714, "method": "ocr", "page": 1, "variant": "plain-vision"}
+21 May 1958
+MPI
+SUBJECT:
+Unidentified Object
+TO &
+Commander
+ATTN :
+Air Tochnical Intelligence Center
+Wright-Patterson Air Force Base, Ohio
+1. Unidentified object inclosed herevith is forwarded
+for evaluation.
+2. Object was found in field near Frenchman's Bayou,
+Arkansas, thirty-two (32) miles north of Memphis, Tennessee.
+The field has gumbo type soil and this type rock or metal
+is not native to area.
+3. Mr.
+owner of field, turned the object
+over to a representative of this station. He stated he
+understood the Air Force was looking for material that may
+have re-entered from outer space.
+4•
+evaluation.
+Request this office be advised of results of
+FOR THE COMMANDER:
+HODGES C GOWDEY
+It Colonel, USA
+Inspector

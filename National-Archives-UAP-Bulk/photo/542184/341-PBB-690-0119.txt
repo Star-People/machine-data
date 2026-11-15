@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T04:03:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11489580, "source_ctime_ns": 1793367116594339512, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0119.jpg", "source_mtime_ns": 1785565656000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0119.jpg", "source_sha256": "47cbe7bb77c1429d413a3738fd35e45105dc2cf69103edc85bc4e6e98c80c81b"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 92, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "contrast-vision"}
+330
+30
+tatilın a300
+22'24,
+20
+2
+ACCUTI
+SP:18
+16
+143 19
+: 12,10
+8
+CT
+100
+20
+o
+240
+120
+230
+23

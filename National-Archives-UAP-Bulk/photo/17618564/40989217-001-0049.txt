@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:55:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8269770, "source_ctime_ns": 1793354555056609305, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0049.jpg", "source_mtime_ns": 1785564304000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0049.jpg", "source_sha256": "7a95315ca6b16c3e37fe4d521492a9fde597e86a174f06a15ec1bd8c4106a5c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 776, "method": "ocr", "page": 1, "variant": "plain-vision"}
+General Court-Martial Order Number 86
+18 Octoler 1957
+DISTRIBUTION:
+7 - ITCOL ADAMS
+1. - COL REARDON, Hq 47th Air Div, Pres
+1 - ITCOL TATUM, Hq 15AF, LO
+1 - CAPT FOX, Hq 4061st ABGru, TC
+1 - CAPT ELIS, Hq 96th ABGru, DC
+1 - FO, WAFB,
+NMe×
+< - Comdr, 15AF
+10 - TJAG,
+Hq USAF, Wash 25, D C
+2 - TJAG, Hq USAF, ATTN: Admin Br, Wash 25, D C
+1 - Comar, 6th TacHosp
+1 - Comdr, 6th Bombig
+1 - Comdr, 812th ABGru
+1 - Comdr, 47th AirDiv
+1 - GAO, AF Aud Br, 3800 York St, Denver, Colo
+1 - AAG, Hq USAF, ATTN: Mi1 Pers Red Div, Wash 25, D C
+2 - SJA, SAC, Offutt AFB, Nebr
+5 - Comdr; AFFC, ATTY: Sup Div, 3800 York St, Denver, Colo
+2 - Prof of Law, USM.
+2 - Prof of Law, USAFMA
+2 - Comdr, AU, Maxwell AFB, Ala
+2 - Dir of Mil Pers, Hq USAF, ATTN: Promotions & Separations Div,
+Wash 25, D C

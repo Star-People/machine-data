@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:29:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1395809, "source_ctime_ns": 1793388715775849945, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531369/1137.jp2", "source_mtime_ns": 1785808086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531369/1137.jp2", "source_sha256": "7709b009d4123123f153ee2c9f3ea5c05c5e13712fc9129c919b766a4f591c7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 415, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• a 0 on
+Source:
+1, милидату, 1904
+10 Deco
+Taco a,
+ishan con
+Mysterious Explosion
+At Tacoma
+At approximately midnight on Decem
+ber 10, 1963, what sounded like an ex-
+plosion was heard over a wide area of
+Tacoma, Washington. City and county
+officials were unable to determine the
+cause. However, the usual number of in-
+quiries were made by local citizens. No
+Air Force planes were reported in the
+area at the time.

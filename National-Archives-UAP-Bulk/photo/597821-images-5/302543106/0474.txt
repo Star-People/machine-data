@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:25:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 209131, "source_ctime_ns": 1793389708122330423, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543106/0474.jp2", "source_mtime_ns": 1785808176000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543106/0474.jp2", "source_sha256": "6a7a1ded29b6c342585da99f60a58280bdd22bce71e8d1ab4bfaeaed49b3bc9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 529, "method": "ocr", "page": 1, "variant": "plain-vision"}
+N° 515
+(1 S 121166) D
+ADMINISTRATION
+DES POSTES DE FRANCE
+Service des postes
+.
+RÉPUBLIQUE
+FRANÇAISE -
+C 5*
+Timbre du bureau
+renvoyant l'avis
+AVIS DE (3)
+RÉCEPTION
+PAYEMENT
+L
+• A REMPLIR PAR
+L'EXPÉDITEUR
+qui indiquera son adresse complète pour le renvoi du présent avis (3)
+_
+• Montame la dallet f6
+(Déportement)
+FRANCE
+(1) Si le présent avis doit être renvoyé par avion, le revêtir de la mention très apparente « Renvoi par avion »
+et de l'étiquette « Par avion ».
+(2) Biffer ce qui ne convient pas. (3) Voir également au verso.

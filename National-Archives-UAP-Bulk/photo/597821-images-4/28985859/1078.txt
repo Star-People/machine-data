@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:40:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4668340, "source_ctime_ns": 1793382915648044571, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985859/1078.jpg", "source_mtime_ns": 1785748585000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985859/1078.jpg", "source_sha256": "ec5dffb79e580227e6353b18bcc1b2e631031f21deb7ead74b285cd39c55aa1a"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 843, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+lu February, 1960
+3. DATE-TIME GROUP
+Local ..
+GMY//11002
+5. PHOTOS
+• YOs
+XA No
+7. LENGTH OF OBSERVATION
+2-L Seconds
+10. BRIEF SUMMARY OF SIGHTING
+White, dics-shaped object, larger than a
+basketball. Looked like a light beam. No
+sound or trail.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Sparrevohn, Alaska
+4. TYPE OF OBSERVATION
+B Ground-Visual
+D Air Visual
+5. SOURCE
+L Ground-Radar
+• Air-Intercept Radar
+military
+8. NUMBER OF OBJECTS
+One
+12. CONCLUSIONS
+Was Balloon
+Probably Bailoon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Meteor
+Probably Astronomicol
+Possibly Astronomical
+Other-
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+West to East
+11. COMMENTS
+Object was probably a meteor. Duration
+of sighting and other characteristics
+of meteor observation present.
+ATIC FORM 329 (REV 25 EXP 52)

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:49:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7053609, "source_ctime_ns": 1793384773157516898, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991039/0735.jpg", "source_mtime_ns": 1785748338000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991039/0735.jpg", "source_sha256": "ea10c3f35e29e8fb163bf1387c386a4ffd117a9967ac61782ffec89b5d94adc5"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 551, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+1961
+3. SOURCE
+4. NUMBER OF OBJECTS
+5. LENGTH OF OBSERVATION
+6. TYPE OF OBSERYATION
+7. COURSE
+6. PHOTOS
+• No
+9. PHYSICAL EVIDENCE
+• Yes
+• No
+FORM
+FTD SEP 43 0-329 (TDE)
+PROJECT 10073 RECORD
+2. LOCATION
+10. CONCLUSION
+INFORMATION ONLY
+11. BRIEF SUMMARY AND ANALYSIS
+This case was reported in March-April 1966. Since the actual
+sighting had occurred some time ago it is almost impossible
+to check it out.
+Also due to the time lag the pertinent
+data has probably become distorted. Therefore this case is
+considered Information Only.

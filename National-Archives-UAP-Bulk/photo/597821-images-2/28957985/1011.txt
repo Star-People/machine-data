@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:40:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4679001, "source_ctime_ns": 1793375847871111806, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957985/1011.jpg", "source_mtime_ns": 1785696497000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957985/1011.jpg", "source_sha256": "f44615989ea0bbc287dae405fbb80a4065ee22a93330350afd7f7d0e5930fff7"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 570, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+•TIME GROUP
+* Apr 54 / 2835₴
+•. SOURCE
+civilian from vessel
+1. NUMBER OF OBJECTS
+3. LENGTH OF OBSERVATION
+not reported
+6. TYPE OF OSSERVATION
+ground-visual
+7. COURSE
+Southeast
+8. PHOTOS
+No
+0. PHYSICAL EVIDENCE
+• Yes
+No
+FORM
+FTD SEP 63 0-329 (TDE)
+PROJECT 10073 RECORD
+2. LOCATION
+40.38K. 44.10W (ATLANTIC)
+10. CONCLUSION
+PROBABLY BALLOON
+11. BRIEF SUMMARY AND ANALYSIS
+Balloon, very large, moving against wind - white smoke under-
+ath.
+Reported as balloon.
+Wind at altitude can be opposite to
+surface vinds. Wind direction not included in report.
+a may bo wood.

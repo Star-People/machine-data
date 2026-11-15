@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:53:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7788057, "source_ctime_ns": 1793378492282396127, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968165/1128.jpg", "source_mtime_ns": 1785696561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968165/1128.jpg", "source_sha256": "46ccdbbb71722d6e1c14360ab81f71d4b90157d464247df9400632d089836cd9"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 877, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+3 November 1956
+3. DATE-TIME GROUP
+Locol
+GM T.
+04/0120Z
+S.. PHOTOS
+Cincinnati,
+Ohio
+TYPE OF OBSERVATION
+XIX Ground, Visual
+• Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intorcept Radar
+• Yes
+CXNo
+7. LENGTH OF OBSERVATION
+Civilian
+NUMBER OF OBJECTS
+three to six seconds
+one
+10-
+BRIEF SUMMARY OF SIGHTING
+One round luminous bright white object
+the size of a pencil eraser at arm's
+length. Object was seen in a downward
+flight path disappearing beyond the
+horizon after having been viewed
+for 3 to,6 seconds.
+12. CONCLUSIONS
+o
+•
+Posite Balcon
+Was Aircrait
+Probably Airerat
+Possibly Aircrat
+ax Was AstronomicalMeteor
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Date for Evaluatio
+Unknown
+9. COURSE
+downward
+11. COMMENTS
+Description, duration,
+indicate
+that sighting was caused by a
+meteor.
+ATIC FORM 329 (RKY 26 SEP 52)

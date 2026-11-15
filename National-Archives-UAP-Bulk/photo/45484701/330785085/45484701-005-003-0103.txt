@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:51:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7385817, "source_ctime_ns": 1793363363886247075, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0103.jpg", "source_mtime_ns": 1785684914000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0103.jpg", "source_sha256": "9eab336c5ae13bc40ac66e325ceb75c1fbd716c8bd423a018747359dfc176aec"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 853, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3. On 6 December 1950 the members of the team were asked for
+their official conclusions. At that time they stated they had come
+to "no official conclusions" but individual members of the team ex-
+pressed their personal opinions that the cause of the incidents was
+"probably due to weather conditions" and mainly "temperature inver-
+sions".
+4. The team, before departure, made some verbal recommendations.
+First, that scope cameras be made available at the Radar Station so
+that future incidents can be properly recorded and evaluated. Secondly,
+that weather conditions be more closely studied in connection with future
+incidents.
+5. The above is furnished for your information.
+PATRICK W. HAYES
+It. Colonel, USAF
+District Commander
+g4 185-879
+COUNTER INTELL
+UNITEDD
+THE INED
+• DEC 27%
+HEM2 1955h
+File
+Antuila
+·546
+Declassification Authority: NND 923007

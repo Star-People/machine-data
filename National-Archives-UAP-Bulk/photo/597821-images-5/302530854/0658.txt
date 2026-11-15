@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:33:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1757269, "source_ctime_ns": 1793388664464374570, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530854/0658.jp2", "source_mtime_ns": 1785808039000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530854/0658.jp2", "source_sha256": "accd51a9774da6587467dfa0d30ce001f5cfcae63f83ae9b1071687f100ea120"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 825, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+31. Oct 1963
+DATE-TIME GROUP
+Local
+740FM
+GMT..
+5. PHOTOS
+• Yes
+X Ne
+7. LENGTH OF OSSERVATION
+2 or 3 meconds
+10. BRIEF SUMMARY OF SICHTING
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Saudi Arabia
+TYPE OF OBSERVATION
+• Ground-Visual
+• Air-Visual
+16. SOURCE
+D Ground-Roder
+• Air-Intercept Radar
+Civilian
+NUMBER OF OBJECTS | 9. COURSE
+1
+Firey object in sky. Sighted through window.
+Object in flight from NE to south.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balioon
+Was Aircraft
+a
+Probably Airerat
+Possibly Aircraft
+Was Astronomicol Meteor
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+SW
+11. COMMENTS
+Meteor observation, one object decayed
+this date, however direction of flight
+and duration of sighting not consistant
+with decay analysis.
+ATIC FORM 329 (REV 25 EEP 52)

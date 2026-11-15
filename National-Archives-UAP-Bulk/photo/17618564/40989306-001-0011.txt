@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:34:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2035176, "source_ctime_ns": 1793356159263548915, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0011.jpg", "source_mtime_ns": 1785564624000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0011.jpg", "source_sha256": "a5e4daa42ebb5cdd313f9fa83702c72f2e54aae6e88f1592978634c30e435c81"}
+
+===== PAGE 1 =====
+{"alpha_words": 296, "chars": 2010, "method": "ocr", "page": 1, "variant": "plain-vision"}
+The paper tubes used on the AN/CRT-1B have presented certain
+manufacturing problems, particularly the sealing of exposed plies when
+holes were drilled. Even though treated, these exposed plies frequently
+caused failures by rapidly absorbing water and causing premature swolling and
+leakage. For these reasons a plywood tube was used in the present dovel-
+opment.
+This tube, manufactured by the Plymold Corp. of Lawrence, Mass.
+has enormous strength as compared to the pressed paper variety and requires
+no extra consideration when sawed or drilled.
+CONCLUSICNS
+This development is considered to have the following improvements
+and features as compared with the AN/CRT-1B:
+(a) Release of parachute when the buoy is waterborne should alle-
+viate certain unfavorable conditions found in previous design.
+(b) The water activated battery, having an indefinite shelf life,
+should solve an extremely serious problem existant from the
+use of dry cells with restricted storage life.
+(c) The folded, onc piece antenna will completely eliminate all
+failures due to collapsing antennas, noisy contacts from
+telescoping joints and dangers of antennas binding or break-
+ing at any time during the launching sequence.
+(d) The plywood tube will entirely remove all premature failures
+of buoys due to absorption of water as occurs in current units.
+(e) Deletion of power switch eliminates troubles due to corrosion
+in AN/CRT-1B switches as currently reported.
+(f) Entire unit can be assembled and sealed at factory for imme-
+diate service without disassembling to mount batteries.
+References
+1. Buships 1tr. File No. 945-3140 of 6 April 1945 to Director
+NRI. (Secretary Radio Problem Priorities Board).
+2. NRL 1tr. to Chief of the Bureau of Ships. Serial R-360-102/45.
+File no. S68/94(368) of 30 June 1945. Test of later Activated
+A-B Battery Pack, Type 4PC37-66MC14.
+3. NRL 1tr. to Chief of the Bureau of Ships. Serial C-360-136/45
+of 26 July 1945. Method of Mounting N6A195 Water Activated
+Night Marker. Problem S1117R-C.
+4•

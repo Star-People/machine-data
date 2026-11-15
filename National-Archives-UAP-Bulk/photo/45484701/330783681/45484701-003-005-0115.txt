@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:52:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7544053, "source_ctime_ns": 1793362787917049301, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0115.jpg", "source_mtime_ns": 1785684556000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0115.jpg", "source_sha256": "9389ebc0135e1843d0b3d94a958945cc04a6dda288ee55cc05a5ad98108bdfe5"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 78, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IN
+1957 NOV 12 10 25
+COUNTER INTEL DIV
+Declassification Authority: NND 923007

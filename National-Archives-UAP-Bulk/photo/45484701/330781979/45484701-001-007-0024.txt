@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:37:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4109389, "source_ctime_ns": 1793361986756489562, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0024.jpg", "source_mtime_ns": 1785684542000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0024.jpg", "source_sha256": "41a1fccedf6dc60c25d17c973c56aa809d98107e5dcefae70bb231ac3dc10ae6"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 241, "method": "ocr", "page": 1, "variant": "clean-vision"}
+CONFIDENTIAL
+DARK
+BLACK
+SIDE VIEW
+REAR VIEW
+BLACK
+SILVER
+DARK
+BLACK
+FRONT VIEW
+BLACK
+Agent's note: Sketch copied from one drawn by
+Mr. Fred Nash,
+20 Crystal Ave.,
+Salt Lake City, Utah
+BOTTOM VIEW
+Ex. B
+Declassification Authority: NND 923007

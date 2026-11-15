@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T03:50:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7221190, "source_ctime_ns": 1793354652300551235, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0061.jpg", "source_mtime_ns": 1785564319000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0061.jpg", "source_sha256": "8828267eac3c577ec12268e91627444790a412a8de1e1a70ab5a0a89444d253d"}
+
+===== PAGE 1 =====
+{"alpha_words": 259, "chars": 1518, "method": "ocr", "page": 1, "variant": "plain-vision"}
+&. While you were in the courtroom with Captain Fox, did he point out to
+you various positions of the members that would be at the trial?
+A. He did, sir.
+I believe you said you had been in the hospital once since you entered
+the Air Force, prior to 31 December 1956, is that correct?
+A. That's true, sir.
+I Have you ever been in the hospital at Carswell Air Force Fase?
+I was, sir; yes, sir.
+X' And you were admitted to the hospital here, is that correct?
+That's true.
+Q. Then you have been in the hospital twice, is that correct?
+That's true.
+DO: I have no further questions.
+REDIRECT EXAMINATION
+Questions by the prosecution (TC):
+. Lieutenant Goodnough, every time that I've talked to you in this court-
+room, would you tell the court what I told you to say?
+A. The truth and nothing more.
+What else?
+A. The truth and nothing more.
+TC: No further questions.
+DC: I have no further questions of the witness.
+IO: That concludes examination by the counsel?
+TO: Yes, sir.
+DC: (Nods head in the affirmative.)
+IO: Does any member of the court wish to ask Lieutenant Goodnough any ques-
+tions at this time, remembering the fact that she has not been sworn as a
+(There was no response from any member of the court.)
+Pres: No.
+EXAMINATTON BY THE COURT
+Questions by the law officer:
+Lieutenant Goodnough, you said you had been in this hospital here and at
+Carswell, when was that?
+A. It was in February... December 1956, sir.
+Q. December 1956; and when was the other time you were in the hospital?
+A. It was February 1956.
+49
