@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:21:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1391554, "source_ctime_ns": 1793392724960769066, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570070/0355.jp2", "source_mtime_ns": 1785808296000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570070/0355.jp2", "source_sha256": "d48931a424ae073103982bdc3217e80e43fd9491c499fa9584aea092bfef821f"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 689, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Роде 6
+30. Have you ever seen this, or a similar object before. If so give date or dates and location.
+31. Was anyone sise with you at the time you saw the object? (Circle One)
+31.1 IF you answerad YES, did they see the object too? (Circle One)
+31.2 Please list their names and addre
+No
+No
+Allentown, Pa.
+Strast Allentown, Pa.
+32. Please givs the following information about yourself:
+NAME
+Last Name
+ADDRESS
+Stroot
+Allentown
+City
+Zone
+Middle Name
+Pennaylvania
+State
+TELEPHONE NUMBER
+AGE
+52
+SEX
+F
+Indicate any odditional information about yourself, including any special experience, which might be pertinent.
+33. When and to whom did you report that you had seen the object?
+Day
+Month
+Year

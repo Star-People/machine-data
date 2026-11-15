@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:24:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1780805, "source_ctime_ns": 1793389197405075750, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537986/00019.jp2", "source_mtime_ns": 1785808486000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537986/00019.jp2", "source_sha256": "189e342d6caf95a7a464a18f139e55a057f777f40d93d83058432b3d4c4d209c"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 620, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE • TIME GROUP
+15 March 65 16/01352
+2. LOCATION
+Lincoln, Hebraska
+Civilian
+4. NUMBER OF OBJECTS
+About Bight
+5. LENGTH OF OBSERVATION
+Seconds
+6. TYPE OF OBSERVATION
+Ground-Visual
+10. CONCLUSION
+Aircraft (B-47)
+3-47's dep rting Lincoln AFB, between 1930-1926 heading South.
+Descriptin confores with the six engine fires and two over-wing
+Lights of B-47 going away from the observer.
+11.
+BRIEF SUMMARY AND ANALYSIS
+About eight lights observed fro a matter of seconds.
+Described as a/e li hts in
+odd fontation. Looked like a/c
+Lite, gellich bron.
+d seni-circle to rear.
+Disappeared over
+SW
+• Yor
+XX No
+• Yes
+XX No
+FORM

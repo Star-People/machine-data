@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:31:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4883670, "source_ctime_ns": 1793374233129370261, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950843/0060.jpg", "source_mtime_ns": 1785696459000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950843/0060.jpg", "source_sha256": "1049da0b5d36c3949ece1874f5db51ca88c11ee11325bc44996e18a41d4c333d"}
+
+===== PAGE 1 =====
+{"alpha_words": 181, "chars": 1108, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Box 9580
+Hq 1125th FAG (ATIC)
+Wright-Patterson AFB, Ohio
+2 February 1953
+Dr. Lincoln LaPaz
+Institute of Meteorites
+University of New Mexico
+Altuquerque, New Mexico
+Dear Sir:
+During our discussion on & January 1953, you asked me to check
+two sightings for you, one on 17 October 1952 in the Albuquerque area
+and one on 20 November 1952 in the Hutchinson, Kansas, area. I'm
+sorry it has taken so long to answer but I've been traveling quite
+a bit.
+The sighting on 17 October 1952 that at first appered to be
+the risual observation of an object that was simultaneously tracked
+by radar did not turn out to be that. On checking we found that there
+was no correlation between time, or direetion of the reported object,
+and the radar pickup. It appears that the radar return was due to
+interference and the object visually observed was a regular meteor.
+sidered to be unknown no record would be kept. Our files show no reports
+that could have been this meteor. I checked plus or ninus four days
+thinking that possibly the dates reported were incorrect but could find
+Yours very truly,
+EDWARD J. RUPPALT
+Capt, USAF

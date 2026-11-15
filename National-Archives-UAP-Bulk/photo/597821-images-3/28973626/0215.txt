@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:41:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8178190, "source_ctime_ns": 1793379849381227091, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973626/0215.jpg", "source_mtime_ns": 1785700925000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973626/0215.jpg", "source_sha256": "c1741c642dc11dc0ceca1a5c79add2ddd271bc73d1ec747be6a09c1654d2178c"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 723, "method": "ocr", "page": 1, "variant": "plain-vision"}
+803-252
+25
+15.032-270
+36
+20. 822-262
+52
+30, did - 2610
+788
+te
+45,802-278
+92
+C) KAGASHIMA-SATTERED MIDDLE DECKE
+& YAKSHIMA -3,Ø0Ø SCATTERED WITH MIDDLE DECK AND BROKEN
+D)
+AT 18,ØØØ', 6/8 COVERAGE.
+E) 6/8.
+F) NONE.
+8) NEGATIVZ.
+9) 2 F-86D SCRAMBLED AT 1235Z ON TRACK A137H.
+TIME 1250Z. LOCATION LD
+3327. ALTITUDE S,0221. INTERCEPTOR REPORTED NOTHING OBSERVED.
+C-47NALTEMPTD TO INTERCEPT THEIOBJECT. AFTER TWO OR THREE MINUTES
+LIGHTS DISAPPEARED ONLY TO REAPPEAR AFTER C-47 RESUMED ORIGINAL
+HEADING.
+12)
+NEGATIVE. NAVAL MESSAGE FROM USSIKEARSARGE STATED NO AIR OPS CON-
+DUCTED DURING THE PERIOD CONCERNED, LT COMDR JOHNSON,
+COMNAV OPS
+E
+ADV-COPY
+CADJ-TOR
+CADJ-NUMBER
+SUSPENSE
+INCOMING MESSAGEFORM
+FEAF FORM 162 1 January 1957

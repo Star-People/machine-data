@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:23:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1711368, "source_ctime_ns": 1793391190887534608, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556075/1301.jp2", "source_mtime_ns": 1785808142000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556075/1301.jp2", "source_sha256": "d7544043899a2b59d1fe08fbc79f3e855365f793e14b3ed025da0693c310c17b"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 195, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+SOR AY Mregh COPE ag ETE OE
+
+a ied
+
+G4-1600 JAVELIN
+
+Lift off of the Javelin vehicle from Wallops
+E.D.T. on Saturday morning September
+
+8.27 TA
+
+Tsland, Va.
+24, 1966,
+
+at 5:13
+
+NASA W-66-579

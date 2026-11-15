@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:25:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3533553, "source_ctime_ns": 1793376007249638862, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958784/00369.jpg", "source_mtime_ns": 1785696466000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958784/00369.jpg", "source_sha256": "148a0785b1bdd44bc2f8c3579c05add891e5cabf7ba6be430a0c521cac899fd7"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 631, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ATICCO
+F 30/8→ 453 AF
+лен
+- 0.0 хи
+39 JUM54 02492
+pickuß un H.M.
+ATIF-S
+ZATIA
+3. AT16-2
+4. АП і сови
+TPSD28A
+WPD 223
+ACTION
+YDB033
+TYB 223
+JT D023
+JEN C 21
+JEO B37
+YY JEPHQ JEDWP JEDEN JKDC JCPDC ZOY
+#OBP 201
+E M E R G E N C Y JEPHO JEDMP JEDEN JKDC JCPDC 555
+DE JEOBP 13
+Y 3201092
+FM COMDR 641SI AC&W SQ
+TO JEPHQ/DIR OF INTELLIGENCE HQ USAF WASH D C
+*EXEXNEAC COC PEPP AFBF
+JEDEN/CG ADC ENT AFB COLO
+JKDC/CG AAC ELEMENDORF AFB ALASKA
+BEPAC/CO USNS ARGENTIA NF
+JEXC/CO 64TH AIR DIV PEPP AFB NF
+JCPDC/ CANAIRDEF ST HUBERT QUEBEC
+JFIC/COMICEDE FOR KEFLAVIK ICLD
+JEXC/CO 6600TH ABG PEPP AFB NF
+JENC/CO S602ND ABG ERNEST HARMON AFB NF

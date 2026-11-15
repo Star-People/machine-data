@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:32:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5084061, "source_ctime_ns": 1793376115720546370, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959305/00828.jpg", "source_mtime_ns": 1785696465000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959305/00828.jpg", "source_sha256": "725dadb3f8284e8bd5a6f93c3b9582727f1176346adbd861c83415e1cf73059f"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 271, "method": "ocr", "page": 1, "variant": "clean-vision"}
+PAGE FOUR JESYQ 02B
+S. NONE
+9. NONE
+12. C45 AIRCRAFT OBJECT DISAPPEARED
+11. EASTERN AIRLINES DIVERTED BY
+COLUMBUS CAA STA. NO SIGHTING
+12. OPERÄTIONS OFFICE MARVELL FLIGHT SERVICE CENTER MAXWELL
+AFB ALABAMA
+NO ADDITIONAL COMMENT.
+SIGNED GOLINSKY END.
+13/34022 AUG JEESYQ

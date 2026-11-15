@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:39:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7313010, "source_ctime_ns": 1793361990496339382, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0034.jpg", "source_mtime_ns": 1785684543000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0034.jpg", "source_sha256": "510ae664a97372c4556cfdfcaffb47a101d6d412e6bce3c7f43662b6ad52f6ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 158, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Case No. 24-3
+Apparent Size
+Faint
+ribs
+Direction
+of
+Flight
+HoE.
+Altitude
+- undetermiaed
+Speed
+Color
+- buff-gray
+Inel 1
+Declassification Authority: NND 923007

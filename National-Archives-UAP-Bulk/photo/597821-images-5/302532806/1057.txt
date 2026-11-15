@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:04:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 881529, "source_ctime_ns": 1793388805072159578, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532806/1057.jp2", "source_mtime_ns": 1785808424000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532806/1057.jp2", "source_sha256": "eaffcada2ebe314d1b920718392591232453c5fcc652f59d04bea3bc1d6dc89e"}
+
+===== PAGE 1 =====
+{"alpha_words": 234, "chars": 1512, "method": "ocr", "page": 1, "variant": "plain-vision"}
+U.S. AIR FORCE TECHNICAL INFORMATION
+This questionnoire has been prepared so that you can give the U.S. Air Force as much
+information as possible concerning the unidentified aerial phenomenon that you have observed.
+Please try to answer as mony questions as you possibly can. The information that you give will
+be used for research purposes. Your nome will not be used in connection with any statements,
+conclusions, or publications without your permission. We request this personol information sa
+that if it is deemed necessary, we may contact you for further detoils.
+1. When did you see the object?
+2. Time of day:
+1000
+Hour
+Minutes
+14
+Day
+MAY
+Month
+64
+Yoar
+(Circle One):
+A.M. or
+P.M.
+3. Time Zone: (Circle One)
+a. Eastern
+Central
+c. Mountain
+d. Pacific
+•. Other
+(Circle One):
+Daylight Saving
+Standard
+4. Where were you when you saw the object?
+E DAYTON
+Nearest Postal Address
+City or Town
+OHIO
+State or County
+5. How long was object in sight? (Total Duration)
+20
+Minutes
+a. Certain
+b. Fairly certain
+5.1 How was time in sight determined?
+5.2 Was object in sight continuously?
+Hours
+c. Not very sure
+d. Just a guess
+estimate
+Yes X
+No
+Seconda
+6. What was the condition of the sky?
+DAY
+a. Bright
+b. Cloudy
+NIGHT
+Bright
+Cloudy
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the objest?
+(Circle One): a. In front of you
+d. To your left
+b. In back of you
+•. Overhead
+c. To your right
+f.
+Don't remember
+FORM
+FTD OCT 62 164 Thie form auper
+• FTD 164, Jul 61, which is obsolete.

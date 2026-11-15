@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:25:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3333416, "source_ctime_ns": 1793371703379829229, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939508/00639.jpg", "source_mtime_ns": 1785689005000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939508/00639.jpg", "source_sha256": "39a76382ac02173728cadf2670b48bd892ef09a9ec55f136539225fe0d0690da"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 355, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EXTRACT FROM STATUS REPORT #
+DATE: 3 Sept 51
+MIE (Local): 1400
+LOCATION: Spokane, Wash.
+LENGTH OF THE OBSERVED: 3 - 4 Min.
+SOUND: None
+SPEED: Erratic
+ALTITUDE: Unknown
+HEADING: 2250
+SOURCE: AF Major
+ACTION OR COMENTS: Pending
+DESCRIPTION OF INCIDENT: Three objects appeared out of the N.W. Appeared to
+be a disk when viewed through a Bonocular.
+7.3712-36

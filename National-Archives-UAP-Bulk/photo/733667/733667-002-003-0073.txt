@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:19:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1305461, "source_ctime_ns": 1793394296237480973, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0073.jpg", "source_mtime_ns": 1785567350000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0073.jpg", "source_sha256": "7563c453ed0f4056cf86ec6f2a625b891dca1eae3abb51879313f74de8397de4"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 305, "method": "ocr", "page": 1, "variant": "plain-vision"}
+March 27 1987
+Gentlemen:
+I am writing to request a order form for ordering
+information regarding the unidentified flying object
+observed by the flight crew of a Japan Air Lines
+aircraft on November 17 of last year.
+Thank you.
+Rategin Soglor
+Kathlyn Taylor
+901 North Eleventh Street
+Herrin, Illinois
+62948

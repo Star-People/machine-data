@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:34:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5769205, "source_ctime_ns": 1793383823136323520, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987997/0136.jpg", "source_mtime_ns": 1785748366000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987997/0136.jpg", "source_sha256": "1d49ea6935008e6d0919253d97ca3ab3b76771b98d6e001f92964c08c266e23c"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 674, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+23 0010, 1960
+3. DATE-TIME GROUP
+Local
+GM T
+29/01.52
+5. PHOTOS
+• Yes
+O NO
+7. LENGTH OF OBSERVATION
+I0. BRIEF SUMMARY OF SIGHTING
+ATIC FORM 329 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Lorain, onio
+4. TYPE OF OBSERVATION
+I Ground- Visual
+• Air Visual
+SOURCE
+• Ground-Rodor
+• Air-Intercept Radar
+Civiliar
+•. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+o
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical Vega
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Date for Evaluation
+Unknown
+11.
+COMMENTS
+star
+direction
+orted and wa
+enan
+in color an
+tributed to refracti
+atrospheric n

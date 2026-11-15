@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:39:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7040558, "source_ctime_ns": 1793384518721190407, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990496/0243.jpg", "source_mtime_ns": 1785748514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990496/0243.jpg", "source_sha256": "a338c32393cb6265712d6da114ddff0c89a4dbd5ce7a400391a216c8a79cfaa8"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 101, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+STOPES CPIM S60 0209
+
+se
+
+No Case (Information Only) 13 December 1960
+Neenah, Wisconsin
+
+co-——--—..

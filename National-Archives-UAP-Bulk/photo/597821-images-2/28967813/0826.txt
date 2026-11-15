@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:38:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6945971, "source_ctime_ns": 1793378388028316744, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967813/0826.jpg", "source_mtime_ns": 1785696823000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967813/0826.jpg", "source_sha256": "f8cce9297b4b2720b944ae2d919f84459dc33f38b618d07987138dcbeb8b451b"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 624, "method": "ocr", "page": 1, "variant": "plain-vision"}
+R 0303002•
+FM COMDR 789TH ACRON OMAHA NEBR
+TO RJEDKF/COMDR 20TH ADIV GRANDVIEW AFB MO
+RJEDEN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR ATIC WP AFB OHIO
+RJEPAG/DIR OF INTELL HW USAF WASH DC
+RJEDKF/COMDR CADF GRANDVIEW MO
+/ N C L A F X I E D/ OPNS 527 THE FOL IS A UFOB REPT
+10
+A. NO
+B. NICKEL
+C. LINKING RED ABOVE GREEN LIGHTS
+D. ONE
+I. NONE
+F. NONE
+G. NONE
+H. NONE
+I. NONE
+2.
+A. AIRCRAFT OBSERVING
+B. NONE
+C. NONE
+D. EAST TO WEST WHEN IT DISAPEARED IT WENT SOUTH WEST.
+E. SLOWLY WENT OUT OF SIGHT HEADING SOUTHWEST
+F. ELEVEN MINUTES
+3 •
+A. GRUND VISUAL
+B. EYE VISUAL
+C. NA
+4•
+A. 015012 3 OCT 1956
+B. NIGHT
+ICTION INFOR
+alie
+11:50

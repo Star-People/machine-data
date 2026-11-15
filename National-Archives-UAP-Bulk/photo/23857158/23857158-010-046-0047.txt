@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:24:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2140130, "source_ctime_ns": 1793359776304874006, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-046-0047.tif", "source_mtime_ns": 1785681516000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-046-0047.tif", "source_sha256": "9b1f795f73e4083c865fbdda0cb87b80b832e11c7b84b65f1df722e0ceea59c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 546, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+24 October 1956
+Mr.
+Odebolt
+Iowa
+Dear Mr.
+Thank you for your latter of October 12, 1956. It has been of great
+asaistance to us in determining a preliminary evaluation for the Odebolt
+DVOB sighting.
+If it would still be conveniant to you, we would greatly appreciate
+your complating the ATIC Form 164 and forwarding it to us. Completion of
+the form will allow us to officially substantiate your conclusion;
+Again, our thanks for your cooparation.
+Sincerely,
+CHARIES W. GODSET
+Captain,
+USAP
+Assistant Adjutant

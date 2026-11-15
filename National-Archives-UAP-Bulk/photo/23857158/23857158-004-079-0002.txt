@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:50:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19174882, "source_ctime_ns": 1793358946528540925, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-079-0002.tif", "source_mtime_ns": 1785681273000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-079-0002.tif", "source_sha256": "930b212771b8f393df3b4879b1946260363c09e3c11d8f2f98b9404a120b9de3"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 759, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+* CU L MATE
+4602D AISS UFOR REPT.
+360
+DATETIME GROUP IL/005T7 O+55
+LENARS U THERE MATE
+O ANAD FAS
+110720 ₴ OCT
+OCTSS
+ops
+TO COMDR 788TH AC&W SQ WAVERLY AFS IOWA
+TO RUEDEN/CONDR ENT AFB COLO SPRINGS COLO
+PJEONG/COMDR 31ST ADIV DEF SNELLING APS ST
+PAUL
+PJEDWP/COMOR AIR TECH INTELL CENTER
+WPIGHT
+PATTERSON DAYION OHIO
+RUEPHO/CIRECTOR INTELL HO WASH'25 D.C.
+/UN CL A S SIF I E D/788-11-J-21
+IAW AFR 220-2 UFOB
+I.A. NEG
+B. PINHEAD
+C. RED-GREEN-WHITE
+D.
+LONE
+Z. MA
+C. NEG
+H. NEG
+PosE Astro
+PAGE TWO RUEDNG IH
+2. A. GROUND OBSERVER
+B. 15-025
+C. 2-025š
+D. EAST-WEST, WEST-EAST
+• FADED OUT
+ONE HOUR, FOUR MIN,
+GROUND VISUAL
+NEG
+NAA
+4. A. 11/10/55 00512
+NIGHT
+CLEAR
+5022-220/15
+10002-242/20
+15208-240/20
+20702-260/30
+30200-260/15

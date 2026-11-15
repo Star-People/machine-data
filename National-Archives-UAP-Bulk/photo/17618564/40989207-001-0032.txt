@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:43:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9030680, "source_ctime_ns": 1793354416063971729, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0032.jpg", "source_mtime_ns": 1785564281000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0032.jpg", "source_sha256": "1ea68b42d4a4767033c93ec926c5d9d181c5930632062d4265b7baffc6633982"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1359, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5. FY92 TECHNOLOGY TRANSITION EXAMPLES
+14
+VISIBLE CORONAL
+AL DISK ON DOY 106.58; SAC. PEAK GREEN-LINE AT R = 1.15
+THE VISIBLE SUN ON:
+16 APR 1993
+PL/GPSS/R. ALTROCK/T. HENRY/J. CORNETT
+INTENSITY
+(*1.E6)
+1>30
+15<1<30
+9<1<15ł
+5<1 < 9
+1<2
+GOODITY:
+O POS. ANGLE 360 CORONALFHOLES BAE SHYA AS YHITE SURROUNDED BY BLACK
+SOLAR DATA FOR SPACE FORECASTING
+TECHNOLOGY DESCRIPTION:
+Solar coronal data and sunspot drawings aid in
+determining the location of new solar activity centers and "coronal
+holes".
+The appearance of activity centers results in an increased
+background level of ionizing radiation that affects terrestrial
+atmospheric heating and produces an increased probability for outbursts
+of activity that produce wide-spread geophysical effects.
+ạẠịCoronal
+holes" produce long-lived solar particle streams that can also have
+wide-spread geophysical effects.
+TECHNOLOGY RECIPIENTS: Air Force Space Forecast Center
+TECHNOLOGY BENEFICIARIES: SPACECOM and other operational commands
+CECHNOLOGY PAYOFF:
+These new solar data will increase the timeliness
+of the forecasts of the planetary magnetic index Kp and other
+solar-geophysical parameters, with which AFSFC is tasked.
+This will
+have wide-spread benefits throughout USAF operational commands that
+rely on the speed and accuracy of these forecasts for satellite
+control, communications, radar operations, etc.

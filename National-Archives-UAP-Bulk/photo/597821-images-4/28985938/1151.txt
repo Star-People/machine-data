@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:32:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4978691, "source_ctime_ns": 1793382944962905113, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985938/1151.jpg", "source_mtime_ns": 1785747871000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985938/1151.jpg", "source_sha256": "781307acb2e16e14ba13ddb0c927f56041f10013699228c2b9494fbcc9328107"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 882, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+DATE
+20 Febr
+T3, 1960
+DATE-TIME GROUP
+4.
+Local .
+CM P3//0100 2
+PHOTOS Ka Y•s
+2. LOCATION
+urand blanc, Michigan
+TYPE OF OBSERVATION
+L CL
+• Ground- Vi sual
+• Air Visual
+6. SOURCE
+D No
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+n/a
+Une
+BRIEF SUMMARY OF SIGHTING
+Photographs of the moon were submitted
+when objects were noticed after film was
+developed.
+• Ground-Radar
+D Air-Intercapt Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircruft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Emulsion Fl:
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+W/A
+11. COMMENTS
+It is the opinion of the photo analysi:
+branch that the objects on the film
+are not real images, but results from
+damage to the emalsion during the
+developing process.
+ATIC FORM 329 (REY 26 SEP 52)

@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:26:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3741099, "source_ctime_ns": 1793394205764998865, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0113.jpg", "source_mtime_ns": 1785567336000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0113.jpg", "source_sha256": "063d36df43bcefd8679fde9c59af159c8ceee1a5b207ec3b1aed3caa0aed1d37"}
+
+===== PAGE 1 =====
+{"alpha_words": 574, "chars": 3997, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Federal Agencies Digitization Initiative Still Image Working Group - August 2010
+In general, master files have the following attributes:
+Maintain the essential features and information of the original
+Represent the best copy produced by a digitizing organization, with best defined as meeting the objectives
+of a particular project or program
+Represent digital content that the organization intends to maintain and manage for the long term
+Are created primarily for the production of a range of copies used for specific purposes (such as derivatives
+and duplicates)
+Document the image at the time of scanning, not what it may once have looked like if restored to its
+original condition
+Institutions may create one or more digital master copies depending on the nature of the originals and the intended
+purpose of digitization. Digitization should be done in a use-neutral manner, and should not geared for any
+specific output. If digitization is done to recommended image parameters and all other requirements as described in
+these Guidelines, we believe the master image files produced should be usable for a wide variety of applications and
+outputs. If digitization is done to meet the alternative minimum image parameters and all other requirements, the
+master image files should be usable for many access applications, particularly for web usage and reproduction
+requests.
+Generally, given the high costs and etfort for digitization projects, we do not recommend digitizing to anything less
+than the alternative minimum image parameters. This assumes availability of suitable high-quality digitization
+equipment that meets the assessment criteria described (see the section on Quantifying Scanner/Digital Camera
+Pertormance) and produces image tiles that meet the minimum quality described in the Guidelines. It digitization
+equipment fails any of the assessment criteria or is unable to produce image files of minimum quality, then it may be
+desirable to invest in better equipment or to contract with a vendor for digitization services.
+SCOPE
+The focus of the Guidelines is on historical, cultural and archival materials. The scope is limited to digitization
+practices for still image materials only (e. g., textual content, maps, photographic prints and negatives).
+The Guidelines are intended to be informative, not prescriptive. We acknowledge that this document does not
+address the entire range of imaging quality parameters (such as noise, distortion, etc.), but these topics will be
+incorporated as the Still Image Working Group identifies recommendations in these areas. The Working Group has
+produced a "Gap Analysis" document that identifies and prioritizes digitization activities that are not currently
+defined within existing agency guidelines, or are not adequately addressed by existing guidelines. The Gap Analysis
+contains topics that the Working Group intends to investigate and provide as updates and recommendations in future
+versions of these Guidelines.
+The current Gap Analysis can be found on the FADGI website at:
+http://www.digitizationguidelines.gov/stillimages/documents/Gap.html.
+We hope to provide a technical foundation for digitization activities, but further research will be necessary to make
+informed decisions regarding all aspects of administrative, operational, and technical issues surrounding the creation
+of digital images. These guidelines provide a range of options for various technical aspects of digitization primarily
+relating to image capture, but do not recommend a single approach.
+The following topics are addressed in this document:
+Digital image capture for still images - creation of master files, image parameters, digitization
+environment, color management, etc.
+• Color encoding accuracy - color space, color temperature for imaging and viewing, quality of linear vs.
+area arrays, and quality of different interpolation algorithms
+Technical Guidelines for Digitizing Cultural Heritage Materials: Creation of Raster Image Master Files

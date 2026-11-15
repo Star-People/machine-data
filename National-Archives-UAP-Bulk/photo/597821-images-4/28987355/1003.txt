@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:39:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7213443, "source_ctime_ns": 1793383587688997287, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987355/1003.jpg", "source_mtime_ns": 1785748244000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987355/1003.jpg", "source_sha256": "262d6f6e07f5b40da5f991cec4860e1a88d39f7d2f6c153eaf5d969939e6d338"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 993, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MULTIPLE
+1. DATE
+24 Jun 60
+3. DATE-TIME GROUP
+Local
+GM T
+25/0500Z
+S.
+PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+3-5 min
+one
+10. BRIEF SUMMARY OF SIGHTING
+Seven sources reported object, color yellow,
+fairly brilliant, traveling W-E 25-32-35°,
+brighter than Mars. No sound. Disappeared as
+it turned in a southerly direction, seeming to
+climb at extremely fast speed.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+West Indies vicinity
+4. TYPE OF OBSERVATION
+X Ground-Visual
+* Air Visual
+SOURCE
+• Ground-Rador
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraf
+Possibly Aircraft
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Missile
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+ESE
+11. COMMENTS
+A call was made to Cape Canaveral and it
+was determined that a Titan missile was
+launched at 00052. Its trajectory was
+aprox the same as that reported for the
+object.
+ATIC FORM 329 (REV 26 SEP 52)

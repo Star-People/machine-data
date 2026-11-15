@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T05:30:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4456270, "source_ctime_ns": 1793386224662732047, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995278/0516.jpg", "source_mtime_ns": 1785748459000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995278/0516.jpg", "source_sha256": "181390efd5e964d0a00fd3d84a2122cfdf59f19184b3598bf5d79032746aabbf"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 786, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL MESSAGE
+PRECEDENCE
+(ACTION)
+UNCLASSIFIED
+NAVY DEPARTMENT
+RELEASED. BY.
+DRAFTED BY
+EXT.
+(INFO)
+E. LOCATION OF OBSERVER (S)
+- 58.46N 144.29W, OUT OF SIGHT OF LAND.
+F. INFORMATION ON OBSERVERS
+. •
+Y 48. RELIABILITY EXCELLENT,
+MAILING ADDRESS SAME AS SHIP. FPO SAN FRANCISCO
+2.
+• (ABLE SEAMAN) 41. RELIABILITY, EXCELLENT,
+MAILING ADDRESS SAME AS SHIP
+3. BLANK
+4. BLANK
+5. BLANK
+6. BLANK
+7. BLANK
+G. WX CONDITIONS
+1. VESSEL IS HAVING MEN THAI SIGHTED OCCURANCE MAKE UP A REPORT
+OF WHAI THEY SAW AND IF NEED COPY WILL BE ABLE TO GET AT MSISO
+ANCHORAGE. THEIR ETA 24 OCT.
+2. NA
+. 3. EST 2080
+-
+4. 8 TO 10 MILES
+5. ABI 5/10 COVERED, CUMULUS.
+- 5. NONE
+7. 2622 DRY 43 WET 38
+A BLANK
+CONTROL NO.
+62495
+CIRCUIT NO
+PAGE
+3
+OF
+PAGES
+4
+TIME OF RECEIPT
+UNCLASSIFIED
+DATE TIME GROUP
+240500Z OCTŘŚ
