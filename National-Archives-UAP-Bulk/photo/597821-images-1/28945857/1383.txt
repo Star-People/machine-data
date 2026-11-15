@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:17:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3858080, "source_ctime_ns": 1793373268523439838, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1383.jpg", "source_mtime_ns": 1785688741000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1383.jpg", "source_sha256": "0d72b0c3bf6a21762fe5a8bb5d84802446df7d54441e569a1e39ec5ebbd33485"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 597, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- 05
+Washington, D. C.
+2100
+27 July 52
+(As telephone to OIN-2A2 on 28 July 1952)
+1. Hound object large, casting sun's reflections. Wavered then
+shot straight up-disappearing from sight. Seen in assumed N.E.
+direction.
+2. 2100 EDT, 27 July 52, observed for one minute.
+3. Visual with naked eye from ground.
+4. Observers at Washington National Airport. Object seemed to
+hover over the Capitol Building in Washington, D. C.
+5. Sgt. Thomas Froellich, Miss
+and friend-
+assigned to Documents and Dissemination Branch, D/1, Hq USAF, X-52563.
+Reliability unknown.
+(SEE IM JULY, 1952, SILVER SPRINGS, MA.)

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:58:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1109807, "source_ctime_ns": 1793365969575882156, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll2-0124.jpg", "source_mtime_ns": 1785565457000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll2-0124.jpg", "source_sha256": "7e132dea2dacb96a7bf3cb903a027fa92ac049f88c76d8f3a9ecd9519f2c787a"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 32, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+‘Mes teteee
+
+wm,
+
+2
+
+rome.
+
+Xe

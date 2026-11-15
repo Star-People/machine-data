@@ -1,0 +1,138 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:21:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4450033, "source_ctime_ns": 1793377756323906213, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965255/0075.jpg", "source_mtime_ns": 1785696666000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965255/0075.jpg", "source_sha256": "030cf03c7e92a40766add02fd9ae5aa050a69cc93a570240574e83575fcaacec"}
+
+===== PAGE 1 =====
+{"alpha_words": 238, "chars": 2012, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+Apr
+9
+10
+13
+16
+16
+16
+18
+18
+18
+19
+21
+23
+24
+27
+27
+27
+28
+30
+DATE
+1,4
+22
+25
+29
+30
+APRIL 1956 SIGHTINGS
+OBSERVER
+LOCATION
+Passaic, New Jersey
+S of Bakersfield, California
+Liberty, Missuri
+N-31, Pepperrell AFB, Newfoundland
+Cedar Key, Florida (CASE MISSING)
+Military
+Civilian GOC
+McKinney, Texas
+Newport, Rhode Island (CASE MISSING) Civilian
+Casablanca, Morocco
+Civilian Multi
+Samish Island, Washington
+Mckinney, Texas
+Inman, South Carolina
+Albany, New York
+Schenectady, Rochester, New York
+rome, New York
+Gurnie, Illinois
+Griffis AFB, New York
+Multi Gd & Air Vis
+San Diego, California (CASE MISSING) Civilian
+McKinney, Texas
+Henderson, North Carolina
+Fitzgerald, Georgia
+Fairfield, Utah
+McChord AFE, Washington
+Unknown
+SE corner Minnesota
+Military Air
+Traverse City, Michigan
+(Garbled)
+Minneapolis, Minnesota (CASE MISSING) AF Major
+Richmond, Virginia (CASE MISSING)
+Multi (Civ & Mi1)
+Seattle, Washington
+St Paul, Minnesots
+Military
+Vuyyuru, Ințiana
+Greensboro, North Carolina
+Huntington, California
+Old Bridge, New Jersey
+Tacoma, Vashington
+ADDITIOMAL REPORIED SIGITINGS (NOT CASES)
+LOCATION
+Coffeyville, Kansas
+Dusham, North Carolina
+Florida
+Brom's Gulch, Montana
+Tallahassee, Florida
+Cumberland Beach, Canada
+Baudette, Minnesota
+Monomet, Massachusetts
+Coffeyville, Minnesota
+El Monte, California
+Phoenix, Arizone
+Tast Mensfield, Vassachuetts
+SOURCE
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newselipping
+Nevsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Moreclippine
+EVALUATION
+Insufficient Data
+Insufficient Data
+Other (UNRELIABLE RPT)
+Astro (VENUS)
+Aircraft
+UNIDENTIFIED
+Balloon
+Astro (METEOR)
+Astro (VENUS)
+Insufficient Data
+Astro (STARS/ PLANDTS)
+Astro (VELUS)
+Astro (VENUS)
+Aircraft
+Insufficient Data
+Astro (VENUS)
+Other (BIRDS)
+Astro (METEOR)
+Insufficient Data
+Astro VENUS
+Astro (VENUS)
+Aircraft
+Astro (STARS PLANETS)
+Astro (VENUS
+Astro (VENUS)
+Bạ l1oon
+Astro (METEOR)
+Balloon
+Astro (METEOR)
+1. Astro (METEOR)
+2. Aircraft
+Astro (VENUS)
+Aircraft
+Aircraft
+EVALUATION

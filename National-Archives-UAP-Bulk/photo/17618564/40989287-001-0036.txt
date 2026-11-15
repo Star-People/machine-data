@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:53:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 270544, "source_ctime_ns": 1793355909228446584, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989287-001-0036.jpg", "source_mtime_ns": 1785564555000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989287-001-0036.jpg", "source_sha256": "86a5185316e1338fd801e932f557a5d25a9272146b3f2a625f9376c24c01e48a"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 62, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HAFB
+DATE
+CONTRACTOR
+BALLOON
+DIAM FT MILS IBS
+EQUIP
+WT LBS
+34

@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:53:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 683266, "source_ctime_ns": 1793392753201304273, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570469/0064.jp2", "source_mtime_ns": 1785807986000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570469/0064.jp2", "source_sha256": "56badc0f6de90f1d6acf39a5c038dd993662219c2bf07b648174f7914053510f"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 484, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TDET/UFO OFFICIAL FILE CY
+22 Sept 67
+IDET/UFO (Maj Quintanilla/70916/nhs/23 Oct 67)
+Uro Observation, 22 September 1967
+4600 ABWg (Captain K. Duff)
+Ent AFB, Colorado 80912
+Reference your message WCOT B02670 Sep 67, subject UPO Report.
+Request information on what steps were taken to determine a
+possible cause for this sighting.
+what air traffic was in the
+area at the time of observation?
+FOR THE COMMANDER
+DOT 241967
+MES C. MANATT, Colonel, USAF
+Firector of Technology andSubsystems

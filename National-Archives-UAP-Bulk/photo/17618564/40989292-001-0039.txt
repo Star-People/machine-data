@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:07:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1267117, "source_ctime_ns": 1793355933181351738, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0039.jpg", "source_mtime_ns": 1785564562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0039.jpg", "source_sha256": "b3d4d4969d930e697e12a30f1a99ab50d6eb59e69e434718f301141f8a7d2385"}
+
+===== PAGE 1 =====
+{"alpha_words": 239, "chars": 1516, "method": "ocr", "page": 1, "variant": "plain-vision"}
+28
+out further that his experience underscored the desirability of
+backward facing seats in passenger aircraft; there is even some
+question whether he would have lived through the ordeal if his
+seat had been facing the other direction. It is interesting to
+note, finally, that Captain Beeding did not ride alone on 16 May
+1958. His sled also carried Doctor von Beckh's anti-g platform,
+39
+whose rat passenger did not go into a state of shock.
+Since the aim of Task 78503 is to accumulate general research
+data on the physiological effects of impact force, test configu-
+rations on the Daisý Track are not necessarily determined by any
+one specific Air Force problem, However, the track has also been
+used to test particular items of equipment, such as integrated
+harness designs for B-52 and F-104 aircraft, and force-attenuating
+seat cushions. It has even been used to check out recording
+equipment for the Holloman high-speed test track. In the case of
+B-52 harness testing,runs had to be suspended before completion
+of the planned series because one test at thirty-five g level
+caused hospitalization of the subject for two days. Arrangements
+40
+were than made to have the harness equipment redesigned,
+For that matter, data acquired on impact forces per se will
+be useful for study of a great many different problems. These
+include not only aircraft seating arrangements, but also stresses
+in catapult and rocket takeoff, and re-entry deceleration.
+Something has been said in a previous monograph concerning the

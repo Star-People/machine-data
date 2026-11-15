@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:55:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 813965, "source_ctime_ns": 1793391583247615248, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559750/0194.jp2", "source_mtime_ns": 1785808559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559750/0194.jp2", "source_sha256": "502b5381e9104c197644e07b63871ee4e3718ef537ada3b7605975cea7c4e883"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1267, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DISSIPATION OF LOW LEVEL INVERSION AT
+[so]
+ORECASTER
+EXPLANATION
+DRY ADIABATS DIe the SHEN
+1000 5020760 500 500 00 N00 209. 0801
+drawing a straight line from the temperature scale
+(mean sea level or station pressure) on the pressure scale, and reading height on
+appropriate height scale.
+ICAO STANDARD ATMOSPHERE SOUNDING is indicated by a thick brown line.
+The saturated adiabats and isoplets of saturation
+use of vapor pressure cver a plane water surface at all temperatares.
+Extension of chart to 25 mb has been accomplished by overlap with pressure indi
+cated in brackets (100) at 400 mb. and (25) at 100 mb.
+the overlap
+are labeled in parentheses ( )
+APPROXIMATE VIRTUAL TEMPERATURE may be obtained from the formula T, =1+
+where 7, is wetual temperature in °C. f is free al temperature in *C, and w is mixing
+Black dots along wind scaie line indicates the levels for which wind data are reported
+and pictted
+The open circles O indicate the mandatory pressure levels at which wind
+All heirats used in this
+700/500
+1000/500 -
+%
+F200-
+1000/700
+FAHR
+PUBLISHED BY THE AERONAUTICAL CHART AND INFORMATION CENTER
+S LOUIS NO 43118
+JUNE 1964 (ACIC)
+BASE 100
+SOLID LINE- TEMPERATU
+D0T722 LINE
+DEWi
+NUMBER
+FAT, MS1
+STATION
+62-
+NUMBER
+12. 00
+TIME (GCT)
+DATE (GCT)
+TIME (GCT)

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:20:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4358367, "source_ctime_ns": 1793371241265480994, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937314/0165.jpg", "source_mtime_ns": 1785689028000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937314/0165.jpg", "source_sha256": "9ed81e638e23fdca4ed908fcee0470f773225caf23c9533f3fb245b4c48bfca4"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 424, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DANS
+OF 1:70
+OSI Report
+• 26.
+13 Jan 1951
+0605
+Starlike
+Same planet Venus
+Apparently didn't change position
+13/1305ą
+13 Jan 1950
+Holloman AFB, N. Mex.
+Airman
+Brilliant white changing to
+red and green
+Hovered
+Unknown
+Ground
+Source observed object due north of the base
+SICi
+100-150 above horizon.
+Object disappeared
+when daylight arrived.
+This is the third sighting reported by
+same
+observer in a week.
+RESTRO
+PROB (CAPELLA)

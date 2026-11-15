@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:03:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3076863, "source_ctime_ns": 1793376272557736271, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959996/01406.jpg", "source_mtime_ns": 1785696826000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959996/01406.jpg", "source_sha256": "8f8c966a87dafb27cc9a82903b926ca275c25eed914fd4973f2a5c6aff7a93f3"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 675, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE - TIME GROUP
+28 OCT 54
+28/15242
+13. SOURCE
+AIRLINE PIT, CILVIAN
+4. NUMBER OF OBJECTS
+ONE
+5. LENGTH OF OBSERVATION
+BRIEF
+6. TYPE OF OBSERVATION
+AIR VISUAL
+7. COURSE
+MOTIONLESS
+8. PHOTOS
+D Yes
+Et No
+9. PHYSICAL EVIDENCE
+• Yes
+• No
+FORM
+2. LOCATION
+ПИТДА, ОКТАНОМА
+10. CONCLUSION
+INSUPFICIENT DATA FOR EVALUATION
+11. BRIEF SUMMARY AND ANALYSIS
+Brief observation while a/c in turn. No sound, size of small
+fighter a/c, no vapor trail, wings shaped like half-noon,
+moving very slowlygmotionless.
+M COMMENTS:
+Observation too brief for essential data. Insufficient data
+for evaluation.
+FTD SEP 63 0-329 (TDE) Prevlous editions of this form may be uaed.

@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:09:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1427099, "source_ctime_ns": 1793392342169731503, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302567288/0192.jp2", "source_mtime_ns": 1785808168000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302567288/0192.jp2", "source_sha256": "14a6d1d29866298712f9902425a074c4fd736ff81b10798186c3647d1aa050e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 494, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS 75TH TACTICAL RECONNAISSANCE WING (TAC)
+BERGSTROM AIR FORCE BASE, TEXAS 78743
+REPLY TO
+ATTN OF I
+D0I
+sUBJEcT: UIO Sighting Report
+7 JUL 1967
+TO:
+Foreign Technology Division
+Wright-Patterson AB, Ohio
+Reference our D0I 00586, dated 7 July 1967, subject: UTO Sighting
+Report, the attached diagram is forvarded for your information.
+FOR THE COMMANDER
+A. Calli
+ROBERT O. CRABTREE, Colonel, USAF
+Deputy Commander for Operations
+1 Atch
+Diagram of UNO Sighting

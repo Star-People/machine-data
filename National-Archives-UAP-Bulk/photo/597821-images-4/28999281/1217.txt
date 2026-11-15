@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:33:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8476914, "source_ctime_ns": 1793387842050894790, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999281/1217.jpg", "source_mtime_ns": 1785748185000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999281/1217.jpg", "source_sha256": "a6e9c2fca7d96f790db881f93a04dbb10c0c4bbc5796c706aac02d3d62b11a20"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 419, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN: 14200 (23 Sep 62)
+Pg 2of 2
+UECW/CNO WASHINGTON DC
+RQECW/SECNAV WASHINGTON DC
+AF GRNC
+Вт
+UNCLAS/CIRVIS/V43224POSSIBLE SATELITE IN SIGHT
+20 SECONDS BRIGHTNESS OF SECOND MAGNITUDE STAR.
+35N 174W 23/06372 SEP ALTITUDE UNKNOWN SOUTH TO
+NORTH EXTREMELY HIGH SPEED.
+NO EVALUATION
+ВТ
+23/28382 SEP RUHLKH
+NOTE: ADV CY TO OOP-CP, CIN AND DIA.

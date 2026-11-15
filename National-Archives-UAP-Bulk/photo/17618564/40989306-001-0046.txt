@@ -1,0 +1,90 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:14:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2420047, "source_ctime_ns": 1793356163083038317, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0046.jpg", "source_mtime_ns": 1785564625000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0046.jpg", "source_sha256": "7489effcd9bd8f87ec9804af1f1e4b920597526fe2caf577372b6911bf9cb7e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 476, "chars": 3123, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HOW
+SONOBU
+DROPPED
+FROM A PBM
+1. Static Line Pulls
+Parachute Storage Cup
+Off, Releasing Antenna
+and Chute.
+2. Buoy Pulls Chute Out of Cup,
+Weak Link Assuring That Chute is
+not Bunched. Antenna Erects
+and Turns Transmitter On.
+3. Parachute Release Link Frees
+Cup Which Falls From Plane.
+4. Chute Opens and Hydraulic
+Load Line Release is Cocked.
+5. Buoy Descends and Strikes Water
+With Impact Velocity of about 25 M.P. H.
+Operating Hydrophone Release Plate
+at Bottom of Buoy.
+6. Parachute Falls and Detaches Itself
+From Buoy on Operation of Load Line
+Release When Loaa
+Line Slackens,
+were
+carried
+on TBF, TBM,
+PV-1,
+PBM-3/35/3D, PBY-5/5A, and PB4Y-1
+aircraft and "K" type airships. They can
+7. Torque Tube Extends,
+Releasing Hydrophone
+and Motor Blades.
+either be launched out of a plane manually
+or released automatically from the bomb
+bay.
+Parachute Detaches Itself
+As the buoy drops, several changes automatically occur:
+The static line pulls the top cap off, the parachute billows
+out, the antenna is erected and the transmitter is turned
+on. The parachute cocks the hydraulic load line release,
+decreases the forward velocity, thereby allowing the buoy
+to enter the water vertically at about 25 miles per hour.
+Upon striking the water, the parachute falls and detaches
+itself, the torque tube extends releasing the hydrophone
+and motor blades, the torque tube wedges in an extended
+position and the hydrophone locks in place. The 24-
+inch hydrophone extends seven feet below the surface
+and the entire equipment rotates 3 to 5 r.p.m. The top
+of the buoy remains just above the water, its location
+marked by a fluorescent dye contained in a bag attached
+to the top of the buoy.
+If a submarine is near, the rotating hydrophone picks
+up sound waves which are amplified and transmitted to the
+receiver in the aircraft. A small compass and variable
+condenser is housed in the transmitter which slightly
+varies the carrier frequency. This variation in frequency
+is measured in the aircraft receiver and the meter cali-
+brated to indicate magnetic headings. In the plane the
+radio operator and pilot use special receiving equipment
+to watch and listen to the sonobuoy signals. As the rotating
+DIGEST May 25, 1945
+CONFIDENTIAL
+8. Torque Tube Wedges
+in Extended Position,
+Hydrophone Locks in
+Place, Moror Turns
+Hydrophone and Buoy. • 9. Chute Sinks
+buoy broadcasts, the meter attached to the receiver
+swings through 360 degrees approximately every 15 sec-
+onds in step with the variation in frequency caused by
+the compass and condenser in the transmitter. When
+the rotating hydrophone faces the submarine, the signal
+will be the loudest and at that point the pilot or operator
+can read the bearing from his meter. If the pilot drops
+a second directional sonobuoy and triangulates, he can
+estimate the submarine's approximate location.
+Figure 5-The parts of a modified AN/ARR-3B receiving
+equipment
+Sonobuoy Completely Redesigned
+A few nondirectional AN/ARR-3B receivers have been
+modified for directional use, but the standard directional
+receiver for fleet use will be a completely redesigned set,
+(Continued on Page 18
+11
+945

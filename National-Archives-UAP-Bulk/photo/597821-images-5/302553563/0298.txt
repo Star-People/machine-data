@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:10:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1660302, "source_ctime_ns": 1793390799058247246, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553563/0298.jp2", "source_mtime_ns": 1785808618000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553563/0298.jp2", "source_sha256": "cc41219518019ae3e8fe908245005e82dda6d4dbed2f0d1fbc6486e26266e855"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 582, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Arling ton, Va 31 Jule
+ITD (TOETH) /7
+Wright-Patterson AFB, Ohio 45433
+11 August 1966
+OFFICIAL FEE COPY
+Onlice of Record
+rs.
+Arlington, Virginia 22202
+Dear
+Reference your unidentified flying object report of 3l
+July 1900.
+The only indication of azimuth and elevation
+of the alleged UFO was given as just above the morning
+was at an elevation of 18 degrees.
+Request you complete the enclosed PTD Form 164 and enclose
+a sketch of the alleged UrO in relation to the morning
+star.
+Your cooperation is appreciated.
+Sincerely,
+RECTOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book

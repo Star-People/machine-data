@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:19:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4177596, "source_ctime_ns": 1793385369326098011, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992969/0982.jpg", "source_mtime_ns": 1785748155000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992969/0982.jpg", "source_sha256": "509d3a747209996962417370c010a80236bb9a779286f7c7615a7c9b03cac745"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 843, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAN MESSAGE DIVISION
+UNCLASSIFED MESSAGE
+INCOMING
+AF IN : 19451 (9Jun61)
+page 3 of 4
+PAGE THREE RJEDFJ 2G
+SELFRIDGE AIR FORCE BASE, MICHIGAN
+DUTY: PETROLEUM OIL LUBRICANT MAINTENANCE
+ESTIMATED RELIABILITY: FAIRLY RELIABLE.
+G. WEATHER AND WINDS -- ALOFT CONDITIONS AT TIME AND PLACE OF
+SIGHTING:
+1. CLEAR WEATHER.
+2. WINDS:
+SURFACE 260 DEGREES AT 15 KNOTS
+12,000 FT 310 DEGREES AT 15 KNOTS
+20,000 FT 280 DEGREES AT 25 KNOTS
+38,000 FT 280 DEGREES AT 40 KNOTS
+40,000 FT 270 DEGREES AT 45 KNOTS
+50,000 FT 270 DEGREES AT 50 KNOTS
+3. NO CEILING.
+4. VISIBILITY WAS FOR 10 MILES.
+5. THIN LAYER OF HIGH CIRRUS CLOUDM
+6. NO THUNDERSTORMS WITHIN 100 MILES.
+7. TEMPERATURE WAS AT 72 DEGREES.
+H. THE ORBITING FALL OF THE ECHO SATALLITE IS THE ONLY POSSIBLE
+OCCURENCE THAT WOULD ACCOUNT FOR THIS SIGHTING. ITS PATH CROSSED THIS

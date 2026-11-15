@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:29:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7005273, "source_ctime_ns": 1793380020578123500, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974246/0757.jpg", "source_mtime_ns": 1785700621000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974246/0757.jpg", "source_sha256": "ec6b473f7fdd9cb79f5725602955751d5910113ec4517506e8aaceae277990e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 931, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+& November 1957
+3. DATE-TIME GROUP
+Local
+GMT.
+08/2320Z
+5. PHOTOS
+• Yes
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+12. CONCLUSIONS
+Was Balloon
+10 Mi
+from philadelphia, Mista
+TYPE OF OBSERVATION
+Pessably Balloon
+INGround- Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Rader
+Wos Aireraft
+Probably Aireraft
+Possibly Aireraft
+6. SOURCE
+Was Astronomical
+Probably Astronomical
+Civilian
+8. NUMBER OF OBJECTS
+•
+Possibly Astronomical
+9. COURSE
+Other.
+Insufficient Data for Evaluation
+Unknown
+3 minutes
+two
+South
+10. BRIEF SUMMARY OF SIGHTING
+TI. COMMENTS
+Two cigar shaped objects, bright orange.
+From the description of the
+Flying wing to wing, then one object
+object, it appears objects sighted
+seemed to drop below the other. Had
+were unidentified a/c rather
+pointed tails w/contrail, traveling
+than an UFO.
+North to South. One object moving up
+& down. Faded out in distance.
+ATIC FORM 329 (REV 26 SEP 52)

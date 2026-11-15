@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:58:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1182257, "source_ctime_ns": 1793356084630490263, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0252.jpg", "source_mtime_ns": 1785564602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0252.jpg", "source_sha256": "bfed25e4c39d85c7716918d057a4ea013f9e584846413a490beece40f0521836"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 181, "method": "ocr", "page": 1, "variant": "plain-vision"}
+: 2.0
+VERTICAL
+DISTANCE- Inches
+- .
+CENTER
+LINE
+o
+Mean Time Scale
+Correction Curve
+FOR LANGE U-48 BAROGRAPHS
+C 48 - 26A
+|-|~49
+LHM
+HORIZONTAL CORRECTION- Inches
+O.I
+0.2
+0.3
+FIG. 37

@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:15:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3670536, "source_ctime_ns": 1793386460804793282, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996221/1366.jpg", "source_mtime_ns": 1785748037000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996221/1366.jpg", "source_sha256": "3330d69c13ea53a53fb964b05d1dfb689785a068a56452a7087b2cdbd3c1f2d0"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 459, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 26850 (4 Feb 1962_)
+Page 2 of 2
+PAGE TWO RBDIC Ø22
+LY DIRECTION AT CONSTANT SPEED.
+3. OBSERVED VISUALLY WITHOUT OPTICAL AIDS. POSIT OF ACFT TIME OF
+SIGHTING 6514N, 2846W HEADING 215T, ALT 12000, TAS 210 IN THE
+CLEAR ABOVE A BROKEN CLOUD LAYER. WIND AT FLI LEVEL 30H; 5/60 KTS.
+4. OBJECT EVALUATED AS POSSIBLE SATELLITE.
+BT
+04/06072
+NOTE: 032335Z is not identified in SMB.

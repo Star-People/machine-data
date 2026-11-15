@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:39:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14187486, "source_ctime_ns": 1793355588777113082, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0027.jpg", "source_mtime_ns": 1785564484000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0027.jpg", "source_sha256": "9dc1bfb39ecb8fd672877be4f85bfc79cf305cec70b108176f1a7efaed3fe25c"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1176, "method": "ocr", "page": 1, "variant": "plain-vision"}
+III. Polyethylene Film with a Hi-Slip Additive
+as a Balloon Barrier Material
+J. A. Haveter
+Viron Division of
+Geophysics Corportion of America
+Minneapolis, Minnesota
+Abstract
+One of the factors blamed for polyethylene-balloon ascent failures is blocking
+between layers of film as the balloons expand and unfold during ascent.
+This
+blocking could prevent the balloon from unfolding and cause an internal buildup of
+superpressure until the balloon ruptures. The use of a slip additive in polyethylene
+film to decrease the film coefficient of friction was studied as one of the solutions
+to this blocking problem.
+Polyethylene suppliers have long used slip additives in their commercial film.
+Air Force Cambridge Research Laboratories funded a program with Viron to test
+the use of a hi-slip additive in the balloon-grade polyethylene to determine its
+acceptability for use as a balloon barrier material. Viron has laboratory-tested
+the film and has used it to build three 2.94-million-cubic-foot balloons. This report
+describes the characteristics of the film, summarizes the test results and the
+production problems involved, and presents the limited flight history of balloons

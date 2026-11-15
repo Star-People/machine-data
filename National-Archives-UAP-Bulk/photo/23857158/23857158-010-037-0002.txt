@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:27:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6580184, "source_ctime_ns": 1793359747957953869, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-037-0002.tif", "source_mtime_ns": 1785681510000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-037-0002.tif", "source_sha256": "a3dde06a26e4db74a74f40c1a887d90ebdab73b5cb95d24cf2bcd4956b8d85a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+RGR UR NR. 08
+OZEN0209
+ENB106 YMB132KFA121KFG236 N
+RR RJEDEN RJEDWP RJEPAG
+DE RJEDKF 1GM
+R 221520Z
+FM COMDR 789TH ACW SQ OMAHA NEBR
+TO RJEDKF/COMDR WWPTH ADIV GRANDVIEW FB MO
+RJEDEN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR ATIC ZP AFB OHIO
+RJEPAG/DIR OF INTELL HQ USAF WASH DC
+RJEDKF/COMDR CADF GRANDVIEW AFB MO
+BT
+//U N CLASS I FIED/OPNS 163 THE FOL IS A UFOB REPT:
+A..
+ROUND
+HALE DOLLAR
+C.
+D•
+ORANGE
+ONE
+E.
+NONE
+NONE
+V. NOIHING
+I. NONE
+J./893,3
+OPS
+22/21/0₴
+4602D AISS UFOB REPT
+76
+DATE TIME GROUP 22C3
+MARS6
+Insufficieat Data
+Sioux City, towa
+PAGE TWI RJEDKF 1GM
+2.
+A. STUR, GREWL LARGER TO THE WEST
+B. 45 DEGREES
+C. STAYED AT 45 DEGREES
+D. GAINED ALIIIUDE
+E. UNK
+F. FEW SECONDS
+FROM OBSERVATION PUSI
+NONE
+NONE
+4•
+A•
+2.
+2285302
+NIGHT
+JN 3425
+3.
+CAR SALESMAN

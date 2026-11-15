@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:17:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3866936, "source_ctime_ns": 1793371788218603556, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939743/00949.jpg", "source_mtime_ns": 1785688770000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939743/00949.jpg", "source_sha256": "f34e0dbd6f01f8e765bbf13cf0ac380c5663f0021c91654b95b96f8d8e36231f"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 973, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DISPOSITION FORM
+R7C
+UNCLASSIFIED
+FILE NO.
+TO ATIAA -2C
+SUBJECT
+(Restricted)
+FROM
+WCEFP -2
+Evaluation of Negatives
+DATE
+DEG 3
+1951
+COMMENT NO2
+Mr. Chapman/sgp
+31381/B1₫g 17
+1.
+The attached negatives have been evaluated as per the
+attached Test Report WCEFP-2-4. It is not possible at this time to
+confirm or deny the authenticity of these negatives as a record of
+unknown objects against either a starlit or overcast sky. No images
+which could be interpreted as stars are present.
+2. In the event further photographic tests are subsequently
+desired, to discover the spot magnitudes involved, this Laboratory
+will cooperate fully in carrying them out.
+2 Incls:
+1- 35 mm Negatives (4)
+2- Test Rept-WCEFP-2-4
+Hegatives Still at Leb.
+Hale delled Chapman
+¡5'oo on e/ Dee 51
+In A. At unevek, maj USAF
+ORGE W. GODDARD, COl, USAF
+Shief, Photo Reconnaissance Lab
+Weapons Components Division
+CONCURRENCE:
+Тонавтаи NCEFP- 2
+P$ 1UN WCEFP-2
+O Pryor
+WCEFP
+DD FEB 50 96
+REPLACES NME FORM

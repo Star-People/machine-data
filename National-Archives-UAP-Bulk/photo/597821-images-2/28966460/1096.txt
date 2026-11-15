@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:26:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6094442, "source_ctime_ns": 1793378027844409399, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966460/1096.jpg", "source_mtime_ns": 1785696851000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966460/1096.jpg", "source_sha256": "e8a02a00761269a85973d01b08109ffe0e991881875982d9676023d7e1a10244"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 651, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/UNCLASSIFIED/ACK 0952. UFOB REPORT.
+T5555555MA. SPEAR
+2.A. BRIGHT GLOW
+B. LONG CIGAR B. 235 3MILE
+C. WHITE
+C. 240 4MILE
+3.A. GROUNG VISUAL 4.A. 29/0B
+B. FEILD GLASSES
+B• NIGHT
+FROM 2 STORY
+OBSERVATION POST
+C. N/A
+AGE 40
+D. ONE
+D. TORWARD SW
+5. CM 1331
+MERIDEN CONN
+E. NA
+F. NONE
+E. FADED
+F. 13 MINUTES
+ALSO MRS
+6.B. MAN IS
+CHIEF OBSERVER
+CONSIDERED VERY
+RELIABLE
+AGE 40 HOUSE
+WIFE OCCUPATION OF
+HUSBAND CRANE OPR
+G. NONE
+H. NONE
+I. NONE
+7.A. VERY CLEAR
+8. N/A
+E. 5000 300-2K
+10000 300-20K
+15000 310-20K
+30000 340-40K
+C. UNLIMITED-SCATTERED
+D. 7 MILES
+I. SCATTERED
+F. NA
+9. NONE
+10. CL 5030
+11. S/SGT MOREL
+OPERATION TECH
+12. NONE
+29/04212 JUL RJEPJR

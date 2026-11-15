@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:19:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3994156, "source_ctime_ns": 1793385261142827430, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992505/0558.jpg", "source_mtime_ns": 1785748078000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992505/0558.jpg", "source_sha256": "e4e6f48371840fee86d8b6c1842a5b1887c6cda1d6b2e0b633a4f6b6f7b887e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 880, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+12 May 1961
+3. DATE-TIME GROUP
+Local 1730 - 1830
+GM T.
+12/2330 - 13/0030
+5. PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dallas, Texas
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Bailoon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+• OtherPoss Birds
+Insufficient Data for Evaluatio
+Unk no wm
+BRIEF SUMMARY OF SIGHTING
+hree objects observed as they flew in
+circles S of the observers location.
+11. COMMENTS
+It is probable that the objects
+observed were birds reflecting bright
+sunlight. There is little evidence
+available in this report and it is
+therefore, classed as "Insufficient
+Evidence.
+ATIC FORM 329 (REV 26 SEP 52)

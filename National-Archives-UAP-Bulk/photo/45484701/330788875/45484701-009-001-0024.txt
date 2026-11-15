@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:41:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19910036, "source_ctime_ns": 1793365395961025562, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0024.jpg", "source_mtime_ns": 1785685081000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0024.jpg", "source_sha256": "e78a8eae444fa1d3f3f547f8e2eabd5cdd29652d042bf3cdcc1d9f7274dfd5db"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 105, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Chron. 24-185~24-12x1
+Chicago, illnois
+November 9, 1951
+3 Photos.
+Declassification Authority: NND 923007

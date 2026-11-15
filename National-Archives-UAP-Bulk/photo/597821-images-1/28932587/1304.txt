@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:25:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5707499, "source_ctime_ns": 1793369708829170279, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932587/1304.jpg", "source_mtime_ns": 1785688989000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932587/1304.jpg", "source_sha256": "0859972b4114091c3158c0f53ba038ed8d071d5f17283ee8759c6eda82d4dc4b"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 343, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3{ ‹
+20l; Pilot balloon sounding released from Azores station at
+0300 8-
+"Time of might "about" that time. Desoription sounda very muoh
+like lighted pilot balloon sounding, Only disoropancy is speed whioh
+1a reported from 25 M.P.H. to 800 M.P.H. If the lower speed la cor-
+reot, objeet may be almost certainly assumed to be a weather balloon.

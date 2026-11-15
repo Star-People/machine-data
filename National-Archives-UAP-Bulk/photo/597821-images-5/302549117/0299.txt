@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:00:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1723125, "source_ctime_ns": 1793390332423749911, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549117/0299.jp2", "source_mtime_ns": 1785808658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549117/0299.jp2", "source_sha256": "a4a78eae6cf5043cfd27d763f98689a8c53d5f610eb0010e399b735dbcb7d0a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 599, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3 iar 66
+ENGINEERING
+ENGINEERING ANALYSIS
+SUPPORT WORK REQUEST
+PHOTO ANALYSIS
+MACHINE COMPUTATION
+PPT NUMBER:
+DESCRIPTION OF WORK:
+REFERENCE MATERIAL:
+REQUESTED BY
+- SYMBOL
+PHONE
+I CERTIFY THAT THIS WORK IS AUTHORIZED BY ME AND THAT IT HAS THE FOLLQWING PRIORITY AND
+DEADLINE WITHIN MY DIVISION.
+PRIORITY
+DEADLINE DATE
+ENGINEERING SUPPORT MONITOR
+FINAL WORK TO BE IN FORM OF :
+ENGINEERING NOTE
+WORK REQUEST APPROVED
+BY :
+PRIORITY NUMBER
+ONE
+FTD
+FORM
+SEP 64
+462
+SIGNATURE OF APPROVING DIVISION CHIEF
+ASSISTANT
+DATE
+COMPUTATION
+PI REPORT
+DRAWING
+DEADLINE DATE
+TWO
+THREE
+PROGRAM
+66-60
+WORK ORDER NUMBE

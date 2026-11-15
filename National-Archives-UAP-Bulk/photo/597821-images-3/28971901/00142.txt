@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:33:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8188054, "source_ctime_ns": 1793379294155505788, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971901/00142.jpg", "source_mtime_ns": 1785700750000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971901/00142.jpg", "source_sha256": "dd4c76414ca1607f21ee4d650424280b995ccef93efaded7eaed6345d258e177"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 1042, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+October 1957
+3. DATE-TIME GROUP
+Locol.
+GMT09/2240 20/0110Z
+S. PHOTOS
+United States
+TYPE OF OBSERVATION
+• Ground Visual
+XX Air Visual
+6. SOURCE
+• Ground-Rodar
+• Air-Intercept Radar
+• Yes
+X? Nº
+7. LENGTH OF.OBSERVATION
+37 hours longest
+one
+10. BRIEF SUMMARY OF SIGHTING
+Various reports of object white or
+amber larger than star. Very bright,
+some include tail or halo, usually
+reported as circular, motion station-
+ary. Unkown date october
+7/2300Z Dayton, Ohio NW
+10/0001Z New York W Lindhurst, L.I.
+13/2315Z New York
+Hichsville
+12/0104Z Charlotte, N.C.
+19%
+P883z Smy Antonior Arras
+300Z
+paltz
+New York
+20/0110z
+Larson
+AFB, Wash
+ATIC FORM 329 (REV 26 SEP 52)
+20/2325 Washington, D.C.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+EXWas Astronomical Comet
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+westerly
+11. COMMENTS
+Third comet of year visible to
+naked eye. Comet ENCKE.

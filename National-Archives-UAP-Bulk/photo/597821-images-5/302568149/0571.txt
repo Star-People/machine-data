@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:07:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1280979, "source_ctime_ns": 1793392495904054484, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302568149/0571.jp2", "source_mtime_ns": 1785808541000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302568149/0571.jp2", "source_sha256": "bfa417276fd36724559ccca4bae91a2db5e9a4098c596d9a7d43a67344eeaae0"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1168, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3. Ceiling:
+Data taken from DDR (Bridgeport, Conn)
+1400 ft overcast
+4. Visibility: 8 miles
+5. Amount of cloud cover: 8/8ths
+6. Thunderstorms in area and quadrant in which located: None
+7. Vertical temperature gradient:
+Standard atmospheric lapse except as
+noted below.
+H. Any other unusual activity or condition, meteorological, astronomical,
+or otherwise, that might account for the sighting:
+Low level inversion - SEC to 1500 ft
+I. Interception or identification action taken:
+None
+J. Location, approximate altitude, and general direction of flight of any air
+traffic or balloon releases in the area that might possibly account for the sighting:
+Unknown
+K. Position title and comments of the preparing officer, including his
+preliminary analysis of the possible cause of the sighting(s):
+Observor of objects stated that she called State Police several times, who
+saw nothing. She claimed other people had also seen the objects. Only
+saw them in valley and preliminary analysis indicates she saw reflected
+or refracted lights due to the inversion.
+Major Charles P. Crosby, Airdrome Officer
+L. Existence of physical evidence, such as materials and photographs:
+None
+4

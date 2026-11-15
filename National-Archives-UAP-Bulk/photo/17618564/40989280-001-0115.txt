@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:57:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1031644, "source_ctime_ns": 1793355852730398463, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0115.jpg", "source_mtime_ns": 1785564541000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0115.jpg", "source_sha256": "d052c3901a487f85c429c35127c6484464a84714461c4763aa47abb0d20617c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 217, "chars": 1408, "method": "ocr", "page": 1, "variant": "plain-vision"}
+92
+For all these reasons, the Balloon Franch developed an
+early interest in radio-command separation. The idea was not
+necessarily to take the place of timing and aneroid devices,
+but to have some means of ending a flight sooner if it seemed
+advisable. One command cut-down system developed by Holloman's
+own Electronic and Atmospheric Projects Section was given
+checkout tests in 1951 and appeared successful. Another command
+cut-down system, flicht-tested at Holloman in 1953, had been
+developed by the Aero Medical Leboratory of Wright Air
+Development Center. This last system was duly adopted not only
+for many aeromedical research flights but for other missions
+as well. In fact on some flights it is still being used. The
+main drawback of this as of most other command cutdown systems
+was vulnerability to interferin, radio signals: there is one
+case in which a Holloman balloon flight cut down apparently in
+response to the playing of "Tiger Rag" on a local radio
+20
+station.
+A different means of expediting post-flight recovery,
+developed experimentally at Holloman during the pre-polyethylene
+days of the Balloon Branch, was the "locator balloon," a small
+weather-type balloon rigged to descend along with the other
+flight equipment. Its function was to remain floating above the
+New Mexico brush after impact and act as guide to recovery
+parties. The method showed some promise but never came into

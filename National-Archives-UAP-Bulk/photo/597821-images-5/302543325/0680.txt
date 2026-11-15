@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:55:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 974139, "source_ctime_ns": 1793389724042374403, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0680.jp2", "source_mtime_ns": 1785808302000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0680.jp2", "source_sha256": "46e392d0b123028ac3d5e10cbb219e03de1dd92b0fa0c812d03353de10cce54d"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 698, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NO CASE:
+Information Only
+SOURCE:
+Flying Saucer Review
+Nov-Dec 65
+25 Aug 65
+Stonehenge, England
+Discs over Stonehenge
+Mr. and Mrs. P. Willsher of
+Southend-on-Sea were driving near
+Stonehenge when, according to the
+Etening Post of August 26, Mrs.
+Willsher saw
+"Four silvery objeets
+coming over a hill. At first she
+thought the sun's rays were catching
+the wings of an acroplane but there
+was no sound in the air above. She
+drew her husband's attention to the
+strange sight.
+ạiMr. Willsher stopped the car. got
+out and looked up.
+At first I could
+see only two of these queer things,' he
+said later.
+"Then a third emerged
+and a fourth joined the trio shortly
+after.
+They were moving circular
+dises.'"

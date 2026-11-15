@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:32:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7769594, "source_ctime_ns": 1793384796822848619, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991092/0785.jpg", "source_mtime_ns": 1785748411000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991092/0785.jpg", "source_sha256": "caf4d8556da82c98e46a6f759205e4882fdd8ad9a8bb3a3f4dda072527061265"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 879, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL MESSAGE
+RECEDENCE
+UNCLASSIFIED
+(ACTION)
+RELEASED BY
+DRAFTED BY
+NAVY DEPARTMENT
+EXT. NO.
+PRECEDENCE
+(INFO)
+C. BEHIND BLDES, ANGLE OF ELEV 22 DEG, WNW OF CAMARILLO, CALIF.
+° DESCENDING FROM EAST TO WEST AT ABOUT 60 DEG ANGLE
+E. BEHIND VISIBLE HORIZON
+F. 2 SEC.
+3. A. GROUND VISUAL
+B. NONE
+C. N/ A
+_4. A. 162400Z
+B. LATE DUSK
+5. APPROX POSIT-LATITUDE 34-12N LONGITUDE 119-02W
+6. A. NONE-INQUIRIES REFERRED TO USAF
+B. SUDDRETH, J. M. ,LCDR, USN., PILOT, VERY RELIABLE
+To Ao
+SKY CLEAR, SMOKE LAYERS NW OVER MOUNTAINS UP TO 6000 FT. 1830U
+PT MUGU OBSERVATION.
+B. 1620U POINT ARGUELLO OBSERVATION SURFACE 270/4 6032. FT-110/7 12200
+FT-080/17 16000 FT 100/14 200200 FI-090/9 30200 FT-090/10 50000 FT-320/37
+63000 FT-300/11
+C. UNLIMITED
+D. UNRISTRICTED
+E. NONE
+F. NONE
+- 8. NONE
+CONTROL NO.
+CIRCUIT NO.
+151
+PAGE
+2
+PAGES
+3
+UNCLASSIFIED
+TIME OF RECEIPT
+DATE TIME GROUP
+170605Z JAN 61

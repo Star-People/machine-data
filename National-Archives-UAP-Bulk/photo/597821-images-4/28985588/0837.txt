@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:06:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4212631, "source_ctime_ns": 1793382827967207689, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985588/0837.jpg", "source_mtime_ns": 1785748521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985588/0837.jpg", "source_sha256": "7bf4d4af07aa7169aad1627594c9e3df01d85a4055dc9803d918075f6c39eb5b"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 360, "method": "ocr", "page": 1, "variant": "plain-vision"}
+and rear.
+No windows were apparent.
+They did nothing unusual,
+Just when by in straight
+level flight towerd Ohesapeake Bay, at a speed I estinated
+about two to three times my own 100 M.P.R. 4 short
+distance past me they seened to increase speed considerably
+end disappeared raotely to the west.
+Hoping this report may be of some small value,
+Sincerely,
+Penple,

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:01:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1750049, "source_ctime_ns": 1793391328597519048, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557926/00029.jp2", "source_mtime_ns": 1785808668000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557926/00029.jp2", "source_sha256": "ee4a2303642fdbb6558b3d061bf24ea94e7dd90996785ffdc3282666995796a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 841, "method": "ocr", "page": 1, "variant": "plain-vision"}
+J. Location, approximate altitude, and general direction of flight of any air traffic
+or balloon releases in the area which might possibly account for the sighting:
+J. V-34
+vorthwest to Southeast approximately S miles pouth of Roscce.
+2. V-249:
+N. to SSE approximately 4
+miles Best of Roscoe.
+3 but scouting night operations attroximately 12 miles
+K. Position, title and comments of the preparing officer:
+Due to the flying conditions outlined in raragrept G and the
+close
+rossible air traffic as outlined in paragrant
+that object #1 was most procably an aircraft
+proceeding
+northwest on Victor 34.
+Due to the limited
+information available on object 72 1 can
+only assume it wes also an aircraft as outlined in reregrerh d.
+John #. cannon
+cart.
+USAP
+#1lot 4650th Cos
+L. Existence of physical evidence, such as materials and photographs:
+None

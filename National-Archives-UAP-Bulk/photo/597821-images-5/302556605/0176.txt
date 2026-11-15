@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:54:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 781138, "source_ctime_ns": 1793391237587941908, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556605/0176.jp2", "source_mtime_ns": 1785808202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556605/0176.jp2", "source_sha256": "5bb43f75e550dce17ad665489ecd8f0f42099a3c176214a20bc83bfff8e10a66"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 648, "method": "ocr", "page": 1, "variant": "plain-vision"}
+7/0ct 66
+FTD (TDETR)
+Wright-Patterson AFB, Ohio 45433
+7 November 1966
+OFFICIAL FILE COPY
+TDETR
+O of tard
+Mrs.
+Dalton, Massachusetts
+Dear Mrs.
+01226
+Reference your letter of 21 October 1966 regarding your
+observations of alleged UrOs in the Dalton, Massachusetts
+area. Without essential data such as azimuth, elevation,
+flight characteriatics, etc., a meaningful evaluation is
+not warranted. If you would complete the enclosed my
+Form 164 on your 6 October sighting, a more comprehensive
+evaluation will be possible.
+Thank you for reporting your observations to the Air Force.
+Sincerely,
+HECTOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book

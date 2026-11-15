@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:29:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6908150, "source_ctime_ns": 1793363206839447110, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0027.jpg", "source_mtime_ns": 1785684637000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0027.jpg", "source_sha256": "24437e7a40b18208612bdaefa4045a59113b5861b4044645338fa5e0c0ef200f"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 33, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "contrast-vision"}
+REGÊNED
+OV 1949
+6th District OSI

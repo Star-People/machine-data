@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:26:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6247667, "source_ctime_ns": 1793377768755022414, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965327/0123.jpg", "source_mtime_ns": 1785696575000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965327/0123.jpg", "source_sha256": "aacefb617d1af1dfce77f46a4a6de0b68a37259ddcb589014cd344d76777fd1c"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 488, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THOR RJEPSN &D
+WHEN TAKING
+OFF FROM SCHENETADY CMM IT WAS TO THE
+Be 90 DEGREES: RIGHT
+& DEGREES, STARBOARD
+DO FLIED PARALLEL TO HIM EROM SCHENETADY, TO OSHEGO
+E DISAPPEARED OVERS LAKE ONTARIO
+15 MINUTES
+AIR VISUAL
+Be NONE
+6000FT 330 DEGREES (EAST TO VEST) 180 KNOTS
+• & APRIL 56 0315Z.
+Be NIGH:
+SO FROM SCHENETADY, TO OSUEGO
+Ge A CAPTAIN P
+PILOT CAMERICAN AIRLINE GOOD
+WEST
+SNYDER 21 MY
+To Reu CLEAR
+Bow NOT AVAILABLE
+Ce 600D FT
+Dez. CLEARS
+E. THIN OVERCAST AT SCHENETADY REST CLEAR

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T06:33:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8362069, "source_ctime_ns": 1793387890844998883, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999378/1307.jpg", "source_mtime_ns": 1785747943000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999378/1307.jpg", "source_sha256": "e1c68e6c2a558e759e7c052043dc254246bc033b0d2fc3544817c2f8ddeaed35"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 530, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Froject Bluebook;
+Information on enclosed pictures;
+Camera;
+No.1 Rexo Junior, mfg. Burke & James, Inc., Chicago, Ill.
+Folding or bellows type. This camera is over 40 years old,
+has been repaired but no change from the original.
+FILm
+Eastman Kodak, type 620, Verichrime Pan, fresh.
+Date;
+Early October,1962
+Time;
+Between 1:00 and 4:00 P.M.
+Place;
+Along state route 10 N. Caroline. Overlooking Socco Valley.
+Visibility;
+Excellent, no fog, smoke or haze.
+Weather;
+Clear; bright sun; few small, float
+ite clauds.
+Ft.Wayne,
+Ind. 46805
