@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:31:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5847932, "source_ctime_ns": 1793388557373536567, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001540/0620.jpg", "source_mtime_ns": 1785808453000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001540/0620.jpg", "source_sha256": "4b370dab532872fd50cfcf8311bcda616dee02a559cf996de82d219a0a404f4b"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 1127, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AFIN: 19655 (29 Jun 63)
+Page 3 of 3 Pages
+PAGE THREE RUWGNH 245
+6KTS 10,000 FT 070 DEGREES 3 KTS; 16,000 FT 310 DEGREES 6KTS 20,000
+FT 050 DEGREES 10KTS; 30,000 FT 330 DEGREES 10 KITS; 50,000 FT
+010 DEGREES 24 KTS; 60,000 FI 060 DEGREES 18 KIS.
+/3/ CEILING 35,000 FT SCATTERED HIGH SCATTERED, / 4/ VISIBILITY
+10 MILES. /5/ SCATTERED CLOUDS. /6/ CB BUILDUPS OBSERVED FROM
+KELLY WEATHER STATION 6 MILES NORTH OF THE OBSERVERS POSITION/
+CSS OBERSERVED NORTH NORTHEAST TO EAST MOVING NORTH. SMALL BUILDUPS
+SOUTH. /7/ VERTICLE TEMPERATURE GRADIENT: DRY, 80 ADIABATIC,
+SURFACE 2, 7,500. SURFACE TEMPERATURE: 90 DEGREES F; 6,000 FI 16
+DEGREES C; 10,000 FT 9 DEGREES C; 16,000 FT -3 DEGREES C; 20,000 FI
+- 10 DEGREES C; 30,000 FT -34 DEGREES C 50,000 FT -72 DEGREES C.
+H. TEMPERATURE INVERSION: HIGHER THAN NORMAL. INVERSION BETWEEN
+16,500 FT AND 17,500 FT.
+I. NONE.
+J. NONE.
+X. PREPARING OFFICER: ALPHONSE M. STRAMOSKI TITLE AIR TRAFFIC
+CONTROL SPECIALIST AND AIRCRAFT ACCIDENT INVESTIGATOR.
+L. NONE.
+BT
+28/2255Z JUN RUWGNH
+NOTE :
+Adv cy del to DIA & NIN

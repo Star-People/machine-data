@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:27:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5064979, "source_ctime_ns": 1793361621710354736, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0038.jpg", "source_mtime_ns": 1785684840000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0038.jpg", "source_sha256": "a2917dbd69fa4e0b41ac9c99d0ef5a710a4fce0b2c9c6c4be08babb15048f729"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 217, "method": "ocr", "page": 1, "variant": "plain-vision"}
+VEJOHT APPROX IMAT FLY
+40 TO60 TÔN
+INOYI
+STOE VI
+TUS.
+STABLIZING FIN
+LANDING GF
+TOP VIEW
+FIN
+SKETCH OF
+CLOSED CYCLE
+DRO PUL SIO I
+AIR CRAFT SEFA
+A 04:32 JUNERE
+1949 BY
+ALPH K GA
+Declassification Authority: NND 923007

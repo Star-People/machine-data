@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:55:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 29589556, "source_ctime_ns": 1793357086382507958, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1223-482226-0004.tif", "source_mtime_ns": 1785564827000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1223-482226-0004.tif", "source_sha256": "42d27336e72c86c4dee44c17e8b89e17273f5dec5b8a7727fc24638bc86f4110"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 902, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART H
+APPROVED 1 JUNE 1948
+FROM (Agency)
+43rd Bomb Wing, Intelligence Div
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+IК-L-53
+PAGE
+3 OF 4
+PAGES
+Mrs Helmer observed generally the same thing Sergeant Helmer saw,
+however,
+due to near-sightedness was not able to observe this object for more than
+15 seconds after sighting it.
+UDOLPH
+Capt, USAF
+Chief, Intel Div
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+SIMOTED
+(CLASSIFICATION)
+18--55570-1
+Declassification Authority: NND 57565

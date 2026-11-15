@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:24:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4087354, "source_ctime_ns": 1793375535949224833, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956715/1313.jpg", "source_mtime_ns": 1785696950000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956715/1313.jpg", "source_sha256": "e075964fe9312f352f762ed1eaa3d7f09c6ef66cdf2ba83773c5a0e9c5c3b94c"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1193, "method": "ocr", "page": 1, "variant": "plain-vision"}
+30/0735
+UNCLASSIE
+3100т 53 01 42 г
+5
+MPAD2ZAYDA017 | Welvess
+TYE. 00 4
+JEPSN 041
+PP JEDEN JEDWP JEPSN 333
+DE JEPSN 70A
+P 3017522 ZNJ
+FM OFFICER IN CHARGE FLIGHT 3-G 4602D AISS PRESQUE ISLE AFB MAINE
+TO JEDEN/COMDR ADC ENT AFP COLORADO SPGS COLO
+JEDWP/CONDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATTERSON AFE OHIO
+INFO JEPSN/DIRECTOR OF INTELLIGENCE 32D AIR DIVISION HANCOCK AFE
+EASTWOOD STA 6 SYRACUSE NY UNCLASSIFIED
+JEDEN/COMDR 4602D AIR INTELLIGENCE SERVICE SO ENT AFE COLO SPGS COLO
+VF3G 4622D AISS J-20. UFOR REF PAR 6 CHA AFR 200-2
+CMA FOL INFO IS HEREBY SBM COLON 1 (A) BASEBALL BAT SHAPE PD 1 (B)
+APRI SIZE COMPARABLE TO FUSZLAGE OF BAKER-36 PD 1 (C) YELLOW ORANGE CHA
+VERY BRIGHT PD 1 (D) ONE PD 1 (E) NEGATIVE PD 1 (F) EDGES SHARP OUTLINED
+PD 1 (G) SHORT TAIL OF SPARKS OBSR PD 1 (R) NEGATIVE PD 1 (I)
+NEGATIVE PD 2 (A) NEGATIVE PD 2 (B) APRX ELEVATION 40 CMA AZIMUTH 40
+PD 2 (C) APRX ELEVATION 35 CMA AZIMUTH 45 PD 2 (D) STRAIGHT FLIGHT PATH
+PD 2 (E) SUDDEN CMA COMPL DISAPPEARENCE PD 2 (F) FIVE SECONDS PD
+3 (A) GROUND VISUAL PD 3 (E) NEGATIVE PD 3 (C) NEGATIVE PD 4 (A)
+300235 CCT53 PD 4 (B) NIGHT PD 5 CON TWR PIAFB CMA HKGB 5842 PD 6 (A)
+-2 NOV 1953 00 42
+DAGE THO
+EPSN 73A

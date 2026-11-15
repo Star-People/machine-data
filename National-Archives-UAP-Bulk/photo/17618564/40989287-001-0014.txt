@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:12:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1135252, "source_ctime_ns": 1793355907906239787, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989287-001-0014.jpg", "source_mtime_ns": 1785564555000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989287-001-0014.jpg", "source_sha256": "28e1841e59a398c621c28b46af9ca764d2dcd4c63a575b2fe34a4bca67bca640"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1220, "method": "ocr", "page": 1, "variant": "plain-vision"}
+S
+S
+S
+RESULT'S
+BALLOON HAFE DATA
+REMARKS
+S
+S
+S
+S
+S
+S
+S
+N
+S
+S
+S
+S
+F
+S
+PS
+F
+S
+S
+S
+S
+First balloon destroyed by covered wagon headboa
+lease failure
+S
+S
+Good balloon performance, despite hole in neck
+Pilot chute activated main chute after 19 second
+with full load
+S
+6 Vertical inflation of free l1ft
+1 Dropped to 45,000 ft, MSL, cut by ascent rate swi
+15 second free fall, before drag chute activated
+S,F 1 Excellent data for O.S.U., maximum altitude too 1‹
+samplers
+PS
+6
+Transmitter failed after ll hours
+2
+Launching platform failed before release
+S
+Parachute partially ripped, opening below 20.0 kil
+with 340 pound load
+6
+Flight observed thru HAFB theodolite within 2 min.
+separation
+20 sec. free fall with 432# package before parachut
+First balloon destroyed, as load was hooked into ri!
+Main chute deployed after 16 seconds free fall
+S
+S
+No code heard after 20 min - keying relay 'of transmi
+S
+S
+Good telemetaring data on COg dimaribution received
+30 pounds of ballast first night
+- c
+PS
+6
+S
+S
+S
+to
+24 pounds of ballast first night
+Excellent solar, temperature, load inclination data rec
+Feet with no drag chute, parachute opened and failed.
+36 seconds free fall
+10 knot launch
+Only continuous DF heard after 6 hours
+12

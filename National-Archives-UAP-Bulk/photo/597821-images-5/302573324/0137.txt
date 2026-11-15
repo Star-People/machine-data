@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:06:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 713611, "source_ctime_ns": 1793393052548349941, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302573324/0137.jp2", "source_mtime_ns": 1785808551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302573324/0137.jp2", "source_sha256": "3ea2831112fa1461b9ad069c4550c6964157c066d85b678d49173755f2159330"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 404, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+EFTO PRIORITY
+F. OSSERVER IDENTIFICATION
+1. N/A
+20
+G. WEATHER CONDITIONS
+• SECURITY POLICE, VERY RELIABLE
+PAGE 3 RUNJBDA0542 UNCLAS E F T O
+1. CLEAR
+2. UNAVAILABLE
+3. N/A
+4. 30 MILES
+5. CLEAR
+6, N/A
+7. UNK
+H. NONE
+1. NONE
+J. N/A
+K. UFO OFFICER SUMMARY
+OUR INVESTIGATION REVELAED THAERE WERE NO AIRCRAFT OR
+SCHEDULED BALLOON ACTIVITY IN THE VICINTY OF THE SIGHTING
+UNCLASSIFIED
+EFTO
+PRIORITY

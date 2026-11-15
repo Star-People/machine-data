@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:13:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1404653, "source_ctime_ns": 1793388727069459233, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531527/1285.jp2", "source_mtime_ns": 1785808238000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531527/1285.jp2", "source_sha256": "5a3eb497936727e98b5ef4ea299eddd205a20903e77832aa36646ff55f8d487e"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 639, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIPIED MESSAGE
+INCOMING
+AF IN : 12076 (10 Feb 64)
+Page 3 of 4
+PAGE 3 RUWAKP 12 UNCLAS
+(1) SIX (6) MILES EAST OF ALBANY OREGON ON HIGHWAY 20
+F. IDENTIFYING INFORMATION OF OBSERVER
+(1)
+MAINTENANCE FOREMAN, RT 1
+ALBANY OREG, AGE 52, PHONE
+C-1
+G. WEATHER AND WINDS
+(1) HIGH SCATTERED AT 10 MILES
+(2) SERTIOS L. MARTINENKO, CAPI, USAF, DEI 1, 35TH WEARON
+ADAIR AFS, OREG
+(A) 06M - 250/10KTS
+10M - 270/25 KTS
+16M - 290/25KTS
+20M - 310/25KTS
+30M - 300/35KTS
+50M - 220/35KTS
+80M - NOT AVAILABLE
+(3) UNLIMITED
+(4) TEN (10) MILES
+(5) THIN SCATTERED
+(6) NONE
+(7) THREE (3) DEGREES PER 1,000 FT.

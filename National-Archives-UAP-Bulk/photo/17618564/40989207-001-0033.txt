@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:44:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9274523, "source_ctime_ns": 1793354416687407732, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0033.jpg", "source_mtime_ns": 1785564281000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0033.jpg", "source_sha256": "cec10177202f87e55129d6232ea75ee70b414bb1e3f8d23e87df286c48da8a53"}
+
+===== PAGE 1 =====
+{"alpha_words": 321, "chars": 2300, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INFRARED EARTH BACKGROUND SIGNATURES
+CIRRIS-1A Data for Filter Optimization
+IBSS Solar Specular Structure Data
+TECHNOLOGY DESCRIPTION: PL/GPO has measured the spectral and spatial character of the
+emission from earth and cloud backgrounds from two shuttleborne experiments (CIRRIS 1A and
+IBSS) flown on STS-39 in April-May 1991. These measurements are currently the best
+available space-to-ground data to test atmospheric and cloud models in the critical CO2, 4.3 um
+absorption band.
+TECHNOLOGY RECIPIENTS: SDIO/TNS, USAF/SMC/CNS, USAF/SMC/MBS, USN/NRL/BDC
+TECHNOLOGY BENEFICIARIES: SDIO-BRILLIANT EYES, MSX, and SPAS III Programs; and
+USAF-FEWS Program; SDIO/USN-Strategic Scene Generator Model
+TECHNOLOGY PAYOFFS: Advanced surveillance and tracking systems must choose spectral bands
+which maximize target energy and reduce the competing signals from earth/cloud and earthlimb
+backgrounds. CIRRIS 1A and IBSS data will improve and validate the background models used by
+the DoD community to design future systems. In addition, the data has been used directly to
+improve the filter band selection on important upcoming SDIO experiments in the design and
+fabrication stage.
+REMOTE ACCESS SCINTILLATION WARNING SYSTEM (RASWS)
+• OPERATIONAL SYSTEM DIAGNOSTIC
+AMASE SODE ALATION
+TECHNOLOGY DESCRIPTION:
+The Remote Access Scintillation Warning
+developed in-house,
+voice
+message
+reports
+of
+system link outages caused by the ionosphere to a remote user on a
+telephone line. This PC-based satellite receiving system acquires
+signals
+from
+satellites,
+performs
+real-time
+analysis
+scintillation imposed by the ionosphere,
+and provides information
+on
+the level of degradation of a satellite to ground link to a
+remote user on a telephone line.
+TECHNOLOGY RECIPIENTS: OL/A HQ Air Force Space Command (LKZ),
+Space Forecast Center
+TECHNOLOGY BENEFECIERIES: SPACECOM
+TECHNOLOGY PAYOFF: The
+system
+allows
+an operator
+at a
+SATCOM
+terminal to determine that the outages in a satellite communication
+link has been caused by the turbulence in the ionosphere and not by
+failures of the transmitter,
+can
+simultaneously
+receiver or the sateliite.
+The system
+determine
+disturbance
+levels
+at
+different
+satellite transmission frequencies and may also serve as a tool for
+efficient frequency management at SATCOM terminals.
+17

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:13:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1549219, "source_ctime_ns": 1793356278533457370, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0039.jpg", "source_mtime_ns": 1785564658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0039.jpg", "source_sha256": "839d864060aac7cd4f53c045be2abb10afa9b6ee905c9971a79c634d022d55b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 450, "chars": 2884, "method": "ocr", "page": 1, "variant": "plain-vision"}
+"A little coal was mined in shallow underground mines with man or horsepowered bucket
+hoists. Factories, such as they were, were horse or waterpowered, or powered by men
+working treadles.
+"The power for Mao's main radio station was a big, jacked-up Japanese truck. An
+electric generator was driven by a belt from the jacked up back wheel to a pulley on the
+dynamo. Fuel was from a wood gas-producer. Some large radio condensers and resistors
+were in big home-made ceramic vats with metal plates that slipped back and forth in
+"The simple public hygiene of blanching vegetables permitted the use of the only
+fertilizer readily available: the Chinese way, with human excrement.
+"There was a hospital with 80 beds. Here, I saw the only Russian supplies-Red Army
+field surgical instruments. The day I was there, 30 eye operations had been performed in
+the moming. The training cadavers were preserved in the same kind of alcohol (Bygar)
+that we drank. I hope we did not drink it recycled! They were also attempting to culture
+penicillin.
+"There was an arsenal where knee-mortars, crude rifles, ammunition and detonators were
+made. This arsenal was pitifully insufficient-but Mao recycled all captured Japanese
+equipment. His claim, 'The Japanese are our supply lines" was no vain boost. Some of
+us have only recently discovered the common sense of turning waste to
+use-Mao did it 45 years ago. One example: Chinese bronze and brass coins, which
+would have made a treasure for museums, were removed from ancient tombs to make
+cartridge cases.
+"Paper was made laboriously by pulping the leaves of the lilies that abounded in the
+vicinity. The sheets were then individually silk screened from the pulp and dried by
+sunshine on whitewashed walls. Thus, Mao used solar energy. Soap was made from a
+recipe of half mutton fat and half castor and hemp oil boiled with lye and salt. Local
+fiberouswood, cotton, and wool were woven with treadle power looms. Glass and
+porcelain were fired using local sands with clays and minerals added for coloring.
+"Everyone worked at appropriate tasks, from children to the most elderly. When I visited
+Japanese-held territory which was really Mao-held territory behind the Japanese main
+front (but surrounded by Japanese), the Chinese, young and old, were drilling holes in
+innocent-looking stones and boulders to be filled with black powder and detonators. Any
+place the Japanese traveled Mao territory, they never knew which boulder at the side of
+the road, which stone bench by the fireplace, or which stone in a wall would blow up.
+Home industries behind the regular Japanese lines even made wooden cannons, obviously
+a one-shot proposition, but marvelous for psychological warfare.
+"Chinese hospitality was heartwarming-particularly in the country. On a drive 200
+miles east of north to put a weather station on the Great Wall, I discovered the friendli-

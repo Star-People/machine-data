@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:51:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15807847, "source_ctime_ns": 1793355591819955846, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0030.jpg", "source_mtime_ns": 1785564485000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0030.jpg", "source_sha256": "1b09d59a4c20675760a748f5b7b28be3ede7ec894773d8bbacc28758f3c2c6bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 406, "chars": 2656, "method": "ocr", "page": 1, "variant": "plain-vision"}
+46
+6. CONCLUSIONS
+A few conclusions can be made as a result of the testing program and fabrica-
+tion. First, the addition of the slip additive to the basic polyethylene resin does not
+significantly change the physical properties of the film other than the coefficient of
+friction, nor does it affect the use of tapes, seals, or other materials or processes
+used on the film in connection with balloon fabrication. Second, the slip additive
+reduces the coefficient of friction of the film appreciably, especially at room
+temperature. As the film temperature is decreased, however, the difference in
+coefficient of friction of the two films decreases considerably. The difference in
+the hi-slip friction coefficient of 33 percent over standard polyethylene at low
+temperature, however, leaves some doubt that it will be a significant aid in
+minimizing blocking at low temperatures.
+Although hi-slip polyethylene as decribed above is not considerably better than
+standard polyethylene for balloon use, the concept of using slip additives in
+polyethylene films should not be abandoned. A lower degree of additive, for example,
+might be used with thin polyethylene films to decrease blocking problems both in
+fabrication and in flight.
+The fact that polyethylene with a slip additive has been produced to MIL-P-
+4640A and has proven adequate for balloon construction opens this film configura-
+tion up for any balloon use in which it might prove better than standard polyethylene.
+IV. Statistical Implications of Balloon Materials
+R. L. Hauser
+National Center for Atmospheric Research
+Boulder, Colorado
+Abstract
+The author has been working the last two years with the scientific balloon
+group of the National Center for Atmospheric Research.
+Our concern in the NCAR work has been directed toward improvement of
+balloon materials for better flight reliability. In this program we have tested a
+large number of candidate materials -- films and scrims -- and have been con-
+cerned with both character and quality.
+The quality of polyethylene balloon film is the basis for this paper, since we
+must recognize that variation of quality is an unavoidable reality in all materials.
+The strength properties of balloon films will vary from sample to sample in a
+manner that might be either the normal or the Poisson distribution, as shown in
+Figure 1.
+These are the more probable distributions, but others are certainly
+very possible.
+1. DESIGN CRITERIA
+Balloons are designed principally for axial tensile loads on the basis of
+strength per unit width of material. The weight concern is expressed in terms
+of weight per area, usually as pounds per thousand square feet.

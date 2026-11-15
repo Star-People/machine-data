@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:15:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1706776, "source_ctime_ns": 1793389642334254856, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542413/1431.jp2", "source_mtime_ns": 1785808547000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542413/1431.jp2", "source_sha256": "d44ff711678042f785894aa572f137330d1ca4aa8596adb2bcc4ae024bc34132"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 706, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCOMING
+MESSAGE
+15 any
+1/23152ł
+DEPAR? VENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+AF IN
+6489 (17 Aug 65) F. crg
+ACTION :
+INFO
+NIN-7
+XOP-1, XOPX-8,
+SAFOS-3
+SMB C077 CHQE340ZCYJB829
+RR: RUE AHO
+DE RUCDOU 23S 2290241
+ZNR VUUUU
+Pg 1 of 4
+SMB-1, DIA-1 (22)
+OS
+OSA
+OSP
+US
+Ri
+ILP
+ILS
+TIT
+RD
+MPP
+MPR
+ДА
+AAA
+UNCLAS SVC RUEAHQ 97ØS 2290220 X ZDK RUDDU 23 2282138 R 161500Z
+AND ZEL OF ADDRE SEE X
+RR RUEAHQ
+DE RUDDU 23 2282138
+ZNR DUUUU
+R 161509Z
+FM DUADS DULUTH MAP MINN
+TO RUNGALE/ADC
+RUCCAH/30 AIR DIV TRUAX AFB WISC
+RUCOSQ/FOREIGN TECH DIV WAFB OHIO
+RUE AHQ/HQ USAF WASH DC
+ВТ
+UNCLAS DUOIN 00989 AUG 65
+15/3152
+1715 Coco
+FO: USAF, SAFOI & AFNIN, 30TH OIN, SUBJ: UEO:_
+1. DESCRIPTION OF OBJECT:
+DSYC

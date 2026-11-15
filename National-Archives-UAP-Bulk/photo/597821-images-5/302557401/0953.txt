@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:08:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 779802, "source_ctime_ns": 1793391291039779981, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557401/0953.jp2", "source_mtime_ns": 1785808205000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557401/0953.jp2", "source_sha256": "4b2914c0a98d2a9a8d125ea65db25d190fa306d814c5043699166e5a1abf738f"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 519, "method": "ocr", "page": 1, "variant": "plain-vision"}
+26 Cct 6%
+PID (IDER) 11
+Wright-Patterson AFB, Ohio 45433
+7 November 1966
+OFFICIAL VILE COPE
+TOETR
+of Песат
+West Bablyon
+Long Island, New York
+11101
+Dear Mr.
+Reference your unidentified observation of 26 October 1966.
+The Information which we have received is not sufficient for
+evaluation.
+Request you complete the attached FTD Form 164
+and return it in the envelope provided.
+We wish to thank you for reporting your observation to the
+Air Force.
+Sincerely,
+RECTOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book

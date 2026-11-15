@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:27:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4792740, "source_ctime_ns": 1793375883518598260, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958169/1161.jpg", "source_mtime_ns": 1785696444000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958169/1161.jpg", "source_sha256": "fbce99b2c7bf08892ab3784b9fc877818af49152fddf5ef090c02f1e66f085b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 848, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+DR 10 May 1954
+DATE-TIME GROUP
+Locol _
+1030
+10/15302
+GM T.
+S. PHOTOS
+• Yes
+7. LENGTH OF.OBSERYATION
+Not. Given
+10. BRIEF SUMMARY OF SIGHTING
+PROJECT 10073 RECORD CARD
+2. LOCATION
+East Point, Georgia
+TYPE OF OBSERVATION
+D-Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Roder
+• Air-Intercept Rodor
+Civilian
+6. NUMBER OF OBJECTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircroft
+Probably Aircraft
+Possibly Aircraft
+•
+Was Astronomical
+Probobly Astronomical
+• Possibly Astronomical
+• Other_
+Insufficient Date for Evaluation
+Unknown
+9. COURSE
+NE to SW
+COMMENTS
+Probable a/c sighting
+500-600MPH. No sound. Travel in straight flight,
+flying in horizaontal position in relation to
+earth. Altitude approx 4,000 It. Weather was
+bright, clear day: small wind. Objects were
+flying a p. V formation.
+ATIC FORM 329 (REV 26 SEP S2)

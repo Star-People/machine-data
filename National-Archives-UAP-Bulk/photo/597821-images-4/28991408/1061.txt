@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:36:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7169791, "source_ctime_ns": 1793384931079973851, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991408/1061.jpg", "source_mtime_ns": 1785747994000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991408/1061.jpg", "source_sha256": "4cbf616132d643cc33934f7f92e7b049e41f67be190db7a392e10e6a548b99eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1105, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+12 Feb 61
+3. DATE-TIME GROUP
+Local-
+2344
+GM T.
+130744Z
+5. 'PHOTOS
+a 3135N 12720W
+W of Guadalupe Island
+TYPE OF OBSERVATION
+• Ground- Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+5. SOURCE
+• Yes
+EX No
+7. LENGTH OF.OBSERVATION
+8. NUMBER OF EJECT 9, COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomicol
+Probably Astronomical
+Possibly Astronomical
+Other.
+Prob Satellite
+Insufficient Dato for Evaluation
+Unknown
+6 min
+E
+10. BRIEF SUMMARY OF SIGHTINGBright white, round, starl. COMMENTS Characteristics of satellite,
+shaped objt size of BB pellet at arms length
+whitish color, in sight 6 min. Constant
+appearing as satellite on 090° heading ob-
+speed and direction to NE aprox 040°.
+served from 5° above horizon passing left toright
+Request for satellite info not
+in front of a/c observed for 90° arc in 6 min,
+received; however in absence of con-
+disappearing 35° above horizon. Nor picked
+tradictory info, probably satellite.
+up on radar.
+ATIC FORM 329 (REV 26 SEP 52)

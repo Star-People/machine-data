@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:33:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6468854, "source_ctime_ns": 1793372529551711029, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943122/01195.jpg", "source_mtime_ns": 1785688930000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943122/01195.jpg", "source_sha256": "1c26f1881bb66f082949f3d954307f7d03250de1bd056539e12e08b76af83da5"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 406, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JEDPK 021
+MINUTES PD OBSR BAKER CLN 213% CDST 25 JUN 52 TEN MINUTES PD
+PAREN THREE PAREN VISUAL FR SURF PTS ONE MILE APART PD
+PAREN FOUR PAREN NW CHICAGO ILL PD
+PAREN FIVE PAREN UNK PD
+PAREN SIX PAREN CLEAR CHA SSW EICHT CMA 2028 HRS 15202 FEW SCATTERED
+CLOUDS PD
+PAREN SEVEN THRU NINE PAREN NEG PD
+PAREN ONE ZERO PAREN TWO JET AND TWO TRANS NORTH HEADING CMA EXACT
+TIME UNK PD
+12/1512Z JUL JEDPK

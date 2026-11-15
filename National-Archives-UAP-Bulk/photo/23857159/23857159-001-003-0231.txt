@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:50:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13833434, "source_ctime_ns": 1793360917675665497, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0231.tif", "source_mtime_ns": 1785565154000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0231.tif", "source_sha256": "3b92b2e261e94234ec9b28a237e92f85d9e669de9f04a2b0642a6303614e1338"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 528, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- 1108323
+HEADQUARTERS, TWELFTH AIR FORCE
+United States Air Force
+OFFICE OF THE ASSISTANT CHIEF OF STAFF,
+INTELLIGENCE
+TECHNICAL CHANNEL COMMUNICATION
+APO 12, USAF
+12ITD
+SUBJECT: Submission of Report
+TO :
+Director of Intelligence
+Headquarters, USAF
+Washington 25, D.C.
+Inclosed
+report is submitted in accordance with AFR 200-2,
+12 August 1954.
+FOR THE ASSISTANT CHIEF OF STAFF, INTELLIGENCE
+1 Incl
+Air intel
+Info Rept
+Ip: Ramstein 7468
+Stenty C. dammer
+/ • SLMMON
+Colonel USAF
+Ass't Executive
+DECLASSIFIED
+Authority NND 9237007

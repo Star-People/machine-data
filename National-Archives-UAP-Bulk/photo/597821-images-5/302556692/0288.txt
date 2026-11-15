@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:06:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 768593, "source_ctime_ns": 1793391244930786212, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556692/0288.jp2", "source_mtime_ns": 1785808481000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556692/0288.jp2", "source_sha256": "90a0a11e2564dbddad88d0a5d257c60b1068d0b78be6799ebcf16fcd897da0a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 323, "method": "ocr", "page": 1, "variant": "plain-vision"}
+October, 8,1966
+Canera, "Fr Stop 3, and Vero shutter speed used.1/100
+25, feet,
+I am enclosing 3, slides
+and these were taken at the same time and all I could
+see in the sky was a big bright flashing orange light,
+Weather conditions, clear sky, weather dry, dark night
+no sound.
+Over Price, Utan
+Octaver-8,1900
+Time 10.P.M

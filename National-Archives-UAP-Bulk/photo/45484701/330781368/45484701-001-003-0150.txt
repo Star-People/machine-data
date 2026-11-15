@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:33:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6358492, "source_ctime_ns": 1793361803694081710, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0150.jpg", "source_mtime_ns": 1785685143000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0150.jpg", "source_sha256": "6e77275039e3e2e217c6a83d9257c17ee326e277df26f8e230dc2df073918a6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 779, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Securite
+EJA
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+INCOMING CLEAR MESSAGE
+• EUB 174
+WFA295
+WBA298
+10 53240
+PP JEP
+FM UBK 16/HQ 17TH DIST OSI KIRTLAND AFB ALBUQ NM 1416152
+TO CHIEF OF STAFF USAF WASH D C ATTN DIR OF SPEC INVESTIGATIONS OFC
+OF THE INSPECTOR GENERAL USAF
+AF GRNC
+A00+OSI-12-4 PD REF VOUR RESTRICTED TELETYPE 13 DECEMBER 1948 PD INITIAL
+REPORT ON UNUSUAL AERIAL PHENOMENA PAREN FLARES PAREN TRANSMITTED
+VIA AIR MAIL TO YOUR HQS AS OF 1715 HOURS 13 DECEMBER 1948 PD REPORT
+SHOULD REACH YOUR HEADQUARTERS THIS DATE END
+EN
+CFN A0Q-0SI=12-4 13 1948 1715 13 1948
+94 -
+ACTION:
+AF IN
+CSI
+GLASSIFICATION CANCELLED HERO A
+- Historian g DEC 1975
+DATE
+HOW/ejc
+ACTION C
+UNCLASSIFIED
+16-55689-1
+U.S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 923007

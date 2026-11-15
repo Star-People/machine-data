@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:43:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9104217, "source_ctime_ns": 1793362083472410792, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0101.jpg", "source_mtime_ns": 1785684948000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0101.jpg", "source_sha256": "0e93eb8bf4d1509bc7f912b1ee1cfa625364a6d76542473ba9ddabfbfda06358"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 556, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNKNOWN SUBJEOT
+- 33-144
+DETAILS
+On several occasions, Special Agent As von MAUCHER, Baltimere,
+Detachment, has attempted to contact SMITH without success. Ir. SMITH
+has failed to keep several appointments with Special Agent von MAUCHER
+and Special Agent D'HOOGE, and has failed to come to the door on
+several occasions when it was certain that he was home.
+A complete invescigation, Pile 924-93, JONATHAN S. CALDWELL, 18
+being conducted by this district Office relative to leads developed
+from this case.
+- CLOSED -
+Declassification Authority: NND 923007

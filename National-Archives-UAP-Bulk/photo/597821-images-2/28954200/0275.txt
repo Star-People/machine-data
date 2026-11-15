@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:23:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4006919, "source_ctime_ns": 1793374983381381986, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954200/0275.jpg", "source_mtime_ns": 1785696485000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954200/0275.jpg", "source_sha256": "9acd5a39999166196513b842ca22884eda11f90bb43e292ba2d8af937a8fd2ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 542, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+arch 53
+01/05552
+3. SOURCE
+2. LOCATION
+Convad, Lont me
+Civilians
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+of Reported
+TYPE OF OBSERVATION
+Cro unc
+7. COURSE
+10. CONCLUSION
+Astronorical (VIVS)
+the planet Venus is very bright and low on the hordson at the
+ne of observation.
+11. BRIEF SUMMARY AND ANALYSIS
+e round, Ir3°, bright white object somed
+novinG ›
+roud than stor
+and said object
+trevdled very slowly.
+st
+S. PHOTOS
+• Yes
+EKNO
+• PHYSICAL EVIDENCE
+• Yes
+FIXNo
+FORM
+FTD SEP 63 0-329 (TDE)
+Previoue
+may be usod.

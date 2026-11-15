@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:46:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9761080, "source_ctime_ns": 1793379733937492682, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01389.jpg", "source_mtime_ns": 1785700814000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01389.jpg", "source_sha256": "905206f43168beaf480c9df95153d12c26d636997a2583f2fde7a44e3557e88e"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 35, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "contrast-vision"}
+6 November 1957, Aurora (21 Canos)

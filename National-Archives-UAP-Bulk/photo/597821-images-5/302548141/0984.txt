@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:09:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 839201, "source_ctime_ns": 1793390241562519479, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548141/0984.jp2", "source_mtime_ns": 1785808178000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548141/0984.jp2", "source_sha256": "de2fddf5c6593a662694f57292852e6eda7813db36c8f4c0b9a3159e1dd38a6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 671, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Dear Sir,
+On March 28, 1966, I reported in a postal card, to you,
+to have made an unidentified observation
+In reply to this card you sent me an FTD Form 164 to fill
+out and return. i did so and mailed this form to you on April
+6, 1966. I have since recieved no reply from you and was
+wondering If maybe through some error you didn't recieve or
+misplaced this report form. If so I would appreciate you sendin
+me another report form.
+If you have recieved my report form which I mailed to you
+and have not yet had a chance to reply to me I would deeply
+appreciate your doing so as I am interested in your findings
+and evaluation of the report.
+Sincerely,
+Toledo, Ohio
+43609

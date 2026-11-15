@@ -1,0 +1,92 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:28:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5093423, "source_ctime_ns": 1793368594477338945, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0310.jpg", "source_mtime_ns": 1785688706000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0310.jpg", "source_sha256": "b04fc0b448ffd746078d7919a637592fe70189a6305e9f2637c2d9a621e04ae4"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 1190, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+8708 1
+8709 3
+8710
+8711
+87/2 6-7
+871313
+8714 14
+8715 14
+8716 15
+87/7 15
+15
+8718 16
+8719 16
+8720 16-17
+872/20
+8722 21
+872323
+872429
+872529
+DA TE
+Mar
+8126573
+1 - 29 MARCH 1954 SIGHTINGS
+OBSERVER
+LOCATION
+Middleboro Massachusetts
+Marietta, Ohio
+Beavercreek, Ohio
+35N 174W (Pacific)
+Dayton, Ohio
+29 40N
+178. 00E
+(Pacific)
+43.01N 171 40W
+(Pacific)
+Silver Springs, Maryland
+Dallas, Texas
+Kings Mountain, North Carolina
+Miami, Florida
+Lakewood, California
+34.30N 176.30W (Pacifie)
+Orange, Connecticut
+Shelton, Connecticut
+Roswell, New Mexico
+Barbourville, Kentucky
+10.55N 75.04W (Atlantic)
+Kansas City, Kansas
+Military
+Military - Civilian
+Military
+(PHOTO)
+Military
+Multiple
+(PHOTO)
+Military
+LOCATION
+Universe
+Miami Florida
+London, England - New York
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+OBSERVER
+Science News Ltr
+MeKisie
+News Clipping
+EVALUATION
+Other (UNRELIABLE REPO
+Astro (VENUS)
+Astro (VENUS )
+SATELLITE
+INSUFFICIENT DATA
+Other (MISSILE)
+INSUFFICIENT DATA
+AIRCRAFT
+SATELLITE
+AIRCRAFT
+INSUFFICIENT DATA
+Astro (METEOR)
+SATELLITE
+INSUFFICIENT DATA
+Other (PSYCHOLOGICAL)
+1. Photo Analysis
+(CHEMICAL DROP ON FILM
+2. INSUFFICIENT DATA
+Astro (VENUS)
+Other (FLARES)
+Astro (VENUS)
+EVALUATION

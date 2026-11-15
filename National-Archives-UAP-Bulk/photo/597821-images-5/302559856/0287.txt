@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:09:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 833907, "source_ctime_ns": 1793391589521359954, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559856/0287.jp2", "source_mtime_ns": 1785808583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559856/0287.jp2", "source_sha256": "85bf15826b562d74def5ddb2167a8e9cb599c2553e1a7fdcfcca8d920a7039d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1221, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAR 1 8 1968
+IDPT (UFO) Maj Quintanilla/70916/mhs/16 Mar 68
+Photographs of UFO, 13 January 1967
+TDPT (UFO) OFFICIAL FILE CY
+Cleveland, Chio
+44104
+1. Reference your unidentified photograph of 13 January 1967.
+Your photograph was examined by photo analysis personnel with
+the following results.
+a. Shamination of the suomitted negative has negated retouching.
+Source indicated the two "objects vere not visible when the general
+outdoor scene was photographed. Both images are located in tne
+upper right portion of the frame. Bach image appears as a white,
+highly illuminated ellipse, and exhibits much higher definition
+than any foreground or background detail in the photography. Two
+additional faint images are located below and adjacent to the two
+indicated by source, and appear similar inconfiguration to the
+subject imagery. This suggests the resultant imagery was probably
+caused by a reflection of an artificial light source during exposure
+or a double exposure.
+2. We are returning your original color negative; thank you for
+permitting the Air Porce to analyze your negative.
+ECTOR QUIITANILLA, Jr, Major, USAF
+Chief, Aerial Phenomena Office
+Aerospace Technologies Division
+Production Directorate
+1 Atch
+Negative

@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:25:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4317556, "source_ctime_ns": 1793381643687777320, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981087/01082.jpg", "source_mtime_ns": 1785700976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981087/01082.jpg", "source_sha256": "907b4554e54f5524fa8cfd99f23fb25f20852b741fb044ad9fbdf66b497f0eb0"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 830, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3. DATE-TIME GROUP
+Lo cai.
+GM T.
+20
+5.
+PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+GREECE
+24.10N 5828E
+4 TYPE OF OBSERVATION
+R: Ground- Visual
+O Air- Visual
+8. SOURCE
+• Ground-Radar
+C) Air-Intercept Radar
+• Yes
+7. LENGTH OF.OBSERVATION
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+00
+Other
+Insufficient Data for Evaluation
+Unknown
+I0. BRIEF SUMMARY OF SIGHTING
+ooJ w/white hea
+tail,
+climbing
+Em NE to S.
+Firs
+detected 10dgrs above
+HOL
+L2On
+ppeared at 60dgrs above hor
+zon
+(IR 702-58šŚ
+2) Lotter
+American Oil
+Co
+oyee
+samo
+nenomena.
+Direction
+1955-1020Ś
+S. Desc
+dese
+sout
+100d as
+brighter
+shooting
+11. COMMENTS
+has ail
+a mecco:
+istics
+ATIC FORM 329 (REV 25 SEP 52)

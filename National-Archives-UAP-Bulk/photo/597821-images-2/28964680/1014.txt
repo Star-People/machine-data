@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:22:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3971544, "source_ctime_ns": 1793377631904458225, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964680/1014.jpg", "source_mtime_ns": 1785696530000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964680/1014.jpg", "source_sha256": "094317bdbc33de2696a03a91da7cd05b855e167fe9aafc0ed5c39c49db7d6870"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 897, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+28 January 1956
+3. DATE-TIME GROUP
+Local
+GM T.
+29/0005Z
+5. PHOTOS
+Pittsfield,
+Maine
+4. TYPE OF OBSERVATION
+XX Ground- Visual
+• Air Visual
+6. SOURCE
+• Yes
+2DNO
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+1/2 hour
+one
+10. BRIEF SUMMARY OF SIGHTING
+Round object 10 times larger than
+largest star. Color Blue with white
+center. Red outer edge. Outer edge
+ragged. No sound, no contrails,
+eratic movements
+up and down and
+to right and left disappeared slowly.
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+•
+•
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+•
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Venus
+EXProbably Astronomical
+Possibly Astronomical
+•, Other_
+Insufficient Data for Evoluation
+Unknown
+9. COURSE
+west
+11. COMMENTS
+Venus in west at 15° elevation
+in process of setting.
+ATIC FORM 329 (REV 26 SEP 52)

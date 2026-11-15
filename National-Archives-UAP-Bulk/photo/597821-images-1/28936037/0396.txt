@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:20:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3299081, "source_ctime_ns": 1793370966220794768, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936037/0396.jpg", "source_mtime_ns": 1785688923000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936037/0396.jpg", "source_sha256": "56fad4bc28ff359ceafa1009fbf9999835b3faffd4abcaa26ae9c767d13a05e3"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 760, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+HEADQUARTERS EIGHTH AIR FORCE
+FORT WORTH. TEXAS
+OFFICE OF THE DIRECTOR OF INTELLIGENCE
+25 July 1949
+STATEMENT
+On 24 July 1949 at approximately 2030 hours, I saw what
+appeared to be seven dully lighted objects in a type ""
+formation slightly to the West moving very rapidly fron South
+to North. The distance between lights apparently did not
+change during the time they were visible, which indicated that
+they might have all been on a single object. This forration
+of lights was visible for only four or five seconds and finally
+faded away into the Northern sky.
+I certify that the above statement is true and correct to
+the best of my knowledge:
+Major, USA
+UNCLASSIFIED
+DOWNGRADED AT 3 YEAR INTERVALS.
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10

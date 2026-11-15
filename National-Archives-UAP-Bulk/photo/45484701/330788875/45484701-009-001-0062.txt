@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:55:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 25576580, "source_ctime_ns": 1793365436515999973, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0062.jpg", "source_mtime_ns": 1785685089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0062.jpg", "source_sha256": "0227e5d1da61b8f4bac059a6f644d8c9da3ca707949c255a8bd8fceb32f25b8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 75, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+SR-Z
+ICO
+EXHIBIT 0, OSI Coso #21-30
+Declassification Authority: NND 923007

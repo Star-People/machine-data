@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:13:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1409360, "source_ctime_ns": 1793356083070711198, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0236.jpg", "source_mtime_ns": 1785564601000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0236.jpg", "source_sha256": "c01f0e94183e03bd45120ba927abd7e08b936258587021632c6d3507cf7a496d"}
+
+===== PAGE 1 =====
+{"alpha_words": 327, "chars": 2075, "method": "ocr", "page": 1, "variant": "plain-vision"}
+is not useful when the changes occur at a nearly con-
+stant altitude due to the width of the steps and the am-
+biguity of direction of vertical motion. Two pressure
+measuring systems have been found satisfactory for use
+in constant-level work and are discussed below. For a
+discussion of the radio transmitters which have been
+used (the standard T-69 and the NYU AM-1), see Techni-
+cal Report No. 2, Balloon Project, New York University
+Research Division.
+(1) Olland Cycle Pressure Measuring Instrument
+This instrument, shown in Figure 31, is used in
+balloon flights as the primary pressure measuring
+without ambiguity. It modulates the transmitted
+radio signal at intervals whose timing is determined
+by the pressure of the air at the balloon's position.
+As presently designed, the modulator contains a
+standard Signal Corps ML-310E radiosonde aneroid
+unit, a rotating cyclinder of insulating material
+with a metal helix wound around the cylinder, and a
+6-volt electric motor which rotates the cylinder.
+There are two contacting pens which ride on the cy-
+linder and conduct electrical current when they
+touch the helix. One pen is fixed in position and
+makes a contact at the same time in each revolution
+of the helix. This contact is used as a reference
+point for measuring the speed of rotation of the
+cylinder. The time that the second one, which is
+linked directly to the aneroid cell, makes contact
+with the spiral, is dependent on the cylinder speeed
+and on the pen position which is determined by the
+pressure. By an evaluation chart, the atmospheric
+pressure can be determined as a function of the
+relative position of the pressure contact as compared
+to the reference thus eliminating all rotation effects
+but short term motor speed fluctuations.
+Preparation of the modulator for flight consists of
+the following steps:
+(a) Test the motor operation. When a 6-volt battery
+is inserted in the motor circuit with the proper
+polarity, the motor should run smoothly at one
+revolution per 60 to 80 seconds. Noisy opera-
+tion is probably a sign of dirty or corroded
+-54-

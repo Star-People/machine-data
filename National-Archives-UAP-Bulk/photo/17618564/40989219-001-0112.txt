@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:44:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9336547, "source_ctime_ns": 1793354758496918997, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0112.jpg", "source_mtime_ns": 1785564335000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0112.jpg", "source_sha256": "35d074295f3f62e221b414223b94d69aff8ebe7aa807e9e223afac5c17c319a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 513, "chars": 3439, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COURT-MARTIAL REPORTS
+NO. 18
+1954-1955îŚę
+UNITED STATES V. McGLONE
+(ACM 9462)
+Headnote 2:
+Pertinent to consideration of whether or not Specification l of Additional
+Charge I and Specification 1 of Additional Charge II are sufficient pleadings
+of offenses in violation of Articles 133 and 134, are
+the following provisions
+of the Manual for Courts-Martial, United States, 1951:
+"The specification should include the following:
+"A statement in simple and concise language of the facts constituting
+The facts so stated will include all the elements of the
+offense sought to be charged. A specification must include every reason-
+able hypothesis of innocence .
+• If the alleged act of the accused is not
+in itself an offense, but is made an offense by applicable statute (in
+cluding Articles 133 and 134), regulations, or custom having the effect of
+law (213a), words importing criminality such as "wrongfully, " "unlawfully, "
+"without authority," or "dishonorably, " depending upon the nature of the
+particular offense involved should be used to describe the accused's acts.
+In this connection, see 28c. However, if the alleged act of the accused
+would not under any circumstances be an offense, the mere addition to
+the specification of words importing criminality will not in itself convert
+the act into an offense.
+To a reasonable extent matters of aggravation
+may be recited.
+If applicable, the wording of the appropriate punitive
+article or other statute should be used in preference to a supposedly
+equivalent expression. For example, in charging a person with being found
+drunk on duty, the specification should not allege that he was found in-
+toxicated on duty."
+(par 28a(3), p 31).
+In the Legal and Legislative Basis,
+Manual for Courts-Martial, United States
+1951, the provisions of paragraph 28a(3) of the Manual are discussed as follows:
+"Paragraph 28a(3) lays down some broad, general rules as to the manner
+of alleging offenses.
+As noted above the specification forms in appendix
+6 do not need to be tested by these rules.
+Rule 7c of the Federal Rules
+of Criminal Procedure and the decisions of the Federal courts
+thereon are
+the sources of much of this material.
+If it is concluded that the mere
+addition of words importing criminality to a specification alleging an act
+or omission that is not per se an offense will not make an offense of that
+act or omission,
+rules evolve that demand all the technical niceties of
+common law pleading.
+iạTo avoid such technicalities, words importing criminality, such as
+"wrongfully" "unlawfully," etc., have been given a definite meaning.
+For
+example, with respect to offenses laid under Article 133 or Article 134,
+the general rules laid down in paragraph 28a(3) should lead to this result:
+If, in the light of the general situation existing at the time and place
+alleged, the act described can reasonably be considered as being unbecoming
+an officer and gentleman, as prejudicial to good order and discipline, or
+as bringing discredit upon the armed forces, then the addition of an appro-
+priate word importing criminality or wrongfulness is sufficient to apprise
+the accused that the act charged is alleged to have been committed under
+unbecoming, discrediting, or disorderly circunstances.
+Such drcumstances
+must be inferred if applicable law, regulation, or custom or practice having
+the effect of law, makes such act unlawful. See CM 307097, Mellinger, 60
+BR 199, 213." (pp 42-43).

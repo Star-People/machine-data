@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:08:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 793343, "source_ctime_ns": 1793393123918962427, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574352/1027.jp2", "source_mtime_ns": 1785808116000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574352/1027.jp2", "source_sha256": "65d7f09ffd1ef7c0ee83f09e7b76049e1f95b3d253ebdd7ba72fde17a965beb2"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 290, "method": "ocr", "page": 1, "variant": "plain-vision"}
+18 76 68
+Lyndhurt, O hir 44;
+February 18, 1965
+Wright Patterson Air Force Base
+Layton, O hio
+Gentlemen:
+On the date listed above
+I sighted an Unidentified Flying
+Object. I am almost positive
+it was not a conventional aircrafe
+Please send me one of your for
+I am anxious to know what I.
+Я .

@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:24:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4168273, "source_ctime_ns": 1793373050528780401, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0531.jpg", "source_mtime_ns": 1785688723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0531.jpg", "source_sha256": "919f8bd486fd236b4884d98ef5b58e9776148673a86285feadff549380649016"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 70, "method": "ocr", "page": 1, "variant": "clean-vision"}
+IVHE
+1/12/3
+~
+WAS =S
+UPRD
+yoU
+2K YMILL
+NEED
+TO LE
+ANSERW
+E D
+ENY
+WORE

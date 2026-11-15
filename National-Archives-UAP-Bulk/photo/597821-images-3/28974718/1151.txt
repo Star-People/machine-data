@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T16:33:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6400781, "source_ctime_ns": 1793380143865283556, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974718/1151.jpg", "source_mtime_ns": 1785700870000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974718/1151.jpg", "source_sha256": "185bc5f5b50808dc4e7d25d33c9463160104164b9cdf5fd7ee47524a151c710d"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 917, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+18 November 1957
+3. DATE-TIME GROUP
+Local
+GM T_
+5. PHOTOS
+13/1:002
+• Yes
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Reese
+AEBE
+Texas
+4. TYPE OF OBSERVATION
+Q: Ground-Visual
+APOcuLars
+) Air Vi suc
+SOURCE
+• Ground-Radar
+O Air-Inte
+sept Radar
+Civilian
+& Military
+8. NUMBER OF OBJECTS
+| 9. COURSE
+12. CONCLUSIONS
+10
+Wes Bailoon
+EX Probably Balloon
+Possibly Belloon
+Was Aircraft
+Probably Aircraft
+D
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unk no Wr
+1 hr 30 mins
+one
+10. BRIEF SUMMARY OF SIGHTING
+Object changing from round to egs
+shape, size of basketbali, white
+and silver. Object oscillating side-
+ways on a north-south axis. Object
+appeared to be round and light in
+color.
+Eaterly
+11. COMMENTS
+Object believed to be a balloon.
+Balloons can rise quite rapidly
+to very high altitudes.
+ATIC FORM 329 (REV 26 SEP 52)
