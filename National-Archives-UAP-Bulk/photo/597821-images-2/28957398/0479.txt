@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:15:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4044036, "source_ctime_ns": 1793375723342109707, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957398/0479.jpg", "source_mtime_ns": 1785696581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957398/0479.jpg", "source_sha256": "71128f4a313b589b6357841d7492e65644247e1a2517714a95e3754ad2765244"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 597, "method": "ocr", "page": 1, "variant": "plain-vision"}
+A2215 Z
+B DUSK
+/57 LOCATION OF OBSERVES
+A BLACKSTONE ARMY AIR FIELD
+/6/ IDENTIFYING INFORMATION OF ALL OBSERVERS
+DONCANSON # B AIFVAYS OPERATIONS SPECIALIST CAA INSAC PO BOS 382
+BLACKSTONE VA UNKNOWN
+AIRWAYS OPERATIONS SPECIALIST CAA INSAC PO BOX 382
+BLACKSTONE VA UNKNOWN
+CP
+AIR FIELD OPERATIONS
+AIR FIELD OPERATIONS
+PAGE THREE JEDIS 4A
+/7/ WEATHER AND WINDS ALOFT CONDITIONS AT TIME AND PLACE OF SIGHTING
+A DUSK CLEAR
+B SURFACE WINDS
+332 DEGREES
+6002
+10300
+1632ął
+22300
+3233ęŘšŘ
+50000
+82235
+C UNLIMITED
+D 15 PLUS
+343
+313
+352
+300
+320
+282
+27)
+E THIN BROKEN AT 20000
+5 KNOT S
+S40
+25
+70
+85
+135
+12 2

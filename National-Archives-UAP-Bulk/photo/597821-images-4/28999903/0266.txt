@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:20:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4711528, "source_ctime_ns": 1793388071822707375, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999903/0266.jpg", "source_mtime_ns": 1785748582000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999903/0266.jpg", "source_sha256": "0138172c28e4bb73329a6ea43fb0282cd390145d57e4e254282af28e34d3aef4"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 668, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATA PROCESSING DIVISION
+CLIMATIC CENTER, USAF
+Air Weather Service (MATS)
+Asheville, North Carolina
+REPLY TO
+ATTN OF: CODPD
+SUBJECT: Wind Data, Atlanta Georgia
+26 April 1963
+TO: Aerospace Technical Intelligence Center/TDE
+Foreign Data Division (Sgt Moody)
+Wright-Patterson AFB, Ohio
+1.
+Reference:
+Telephone request, Sgt. Moody, to this organization
+25 April 1963.
+2. We are sending photocopies of the following:
+a. WAN 10, Surface Weather Observation for Atlanta, Ga. 1 Dec 62.
+WBAN 20, Computation Sheets for four observations on 1 Dec 62
+for Athens, Georgia.
+FOR THE DIRECTOR
+RICHARD L. HOKE
+end Lt•:
+USAF
+isst. Administrative Officer
+1 Atch
+Vnd data f/Atlanta, Ga.

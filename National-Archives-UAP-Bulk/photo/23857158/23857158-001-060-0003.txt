@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:10:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2662722, "source_ctime_ns": 1793358199947441565, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-060-0003.tif", "source_mtime_ns": 1785681020000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-060-0003.tif", "source_sha256": "dba007086a510a4e9672cbb1ac913809024cb063f9dc0952d0a52b91345827d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 154, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+A First Sighsted.
+m real.
+B. Ofject stoped + light got Wins nea
+C. Object Maud aut
+ght.
+Weboar 1
+Westgate S400 Weit

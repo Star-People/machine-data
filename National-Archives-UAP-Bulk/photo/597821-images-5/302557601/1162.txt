@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:59:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 800884, "source_ctime_ns": 1793391303799947113, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557601/1162.jp2", "source_mtime_ns": 1785808271000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557601/1162.jp2", "source_sha256": "ec48b97d4c1207e17b3048b1caca662cbd9dff0d3871ea799a53177b6d2813b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 774, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+CATE • TIME GROUP
+24 October 66 25/00200
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+2. LOCATION
+10. CONCLUSION
+Satellite (EGIO II)
+One
+5. LENGTH OF OBSERVATION
+1 Minute
+6. TYPE OF OBSERVATION
+KAKA Ground-Visual
+7. COURSE
+Northward
+8. PHOTOS
+D) Yes
+2 No
+9. PHYSICAL EVIDENCE
+• Yes
+XX No
+FORM
+FTD SEP 63 0-329 (TDE) Previous editione of this form may be used.
+Blycheville, Arkansas
+ECHO II was over 10?N 30N at 0222 and heading Northward.
+11. BRIEF SUMMARY AND ANALYSIS
+Observer noted star like object, bright like the morning star
+Speed was estimated at more than 1000 M/H. The object appear
+to be divided in the center but remained intact. Object was
+traveling toward the north and was seen to the west.
+Description is consistent with that of a satellite.

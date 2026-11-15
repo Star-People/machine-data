@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:47:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 999890, "source_ctime_ns": 1793388759332359089, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532015/0316.jp2", "source_mtime_ns": 1785808674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532015/0316.jp2", "source_sha256": "11f909a7a9193f389c22688c5476baf098a64999bafd4fed4094396b408716ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 733, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Received from Colonel Welms, Command Post, 10 April 64, 114Q
+SUBJECT: Unidentified Flying Objects
+Original Message
+MCC, Norad advised that there were 6 to 12 unidentified flying
+objects at 30 miles East of Merced, California. Radar picked up 12
+objects at altitudes 60,000 ft., 90,000 ft., and higher elevations.
+F-106'a were scrambled at Castle Air Force Base. There were no
+results because of high altitudes. They are checking the possibility
+of sending U-2'3.
+Later Sent to Air Staff
+Objects were following a 50 mile race-track pattern. F-106's vere
+flying a 99,099 ft. altitude. Pilots locked on to some of the objects
+but could not keep the lock. Norad said they were sending 2 more LINK
+gircraft with pilots in pressure suita.

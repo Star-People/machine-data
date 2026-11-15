@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:49:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1372408, "source_ctime_ns": 1793391207002518209, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556239/1427.jp2", "source_mtime_ns": 1785808456000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556239/1427.jp2", "source_sha256": "8f3f9fadce9a2ba2a172c0c95ac3d3909c9e0207427067ed2a4bf8007eab17f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 980, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AERONAUTICAL SYSTEMS DIVISION
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+Materials Applications DivisiolABORATORY
+EVALUATION REPORT
+ANALYSIS OF IGNEOUS ROCK
+REPORT NR: NAA 67-10
+PROJECT NR: 7381
+MANUFACTURER:
+SUBMITTED BY: ASP (Lt BOwen)
+DATE: 3 March 1967
+TYPE EVALUATION: AnalySiS
+SPEC NR:
+ITEM SERIAL NR:
+PURPOSE:.
+Analysis of an igneous zock-like sample.
+I1•
+PACTUAL DATA:
+1. The fused sample was submitted to MAAS to determine the material's
+composition and identify the alloy. See Figure 1.
+2.
+A spectrographic analysis of the material showed it to be alpha
+ferri c
+oxide (A -Feroz)•
+IIT. CONCLUSION:
+Since the spectrographic analysis of the sample did not reveal an
+established alloy system, no apparent source or use for this material could
+be determined from the composition.
+IV.
+RECOMMENDATIONS:
+None •
+THIS REPORT IS NOT TO BE USED IN WHOLE OR IN PART FOR ADVERTISING OR SALES PROMOTION PURPOSES
+ASD
+FORM
+JUN 61 64
+REPLACES WADD FORM 64 WHICH IS OBSOLETE.
+AF-WP-B-JUL 61 5M

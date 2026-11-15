@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:56:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3316403, "source_ctime_ns": 1793384142335599667, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989119/0403.jpg", "source_mtime_ns": 1785748088000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989119/0403.jpg", "source_sha256": "a4809fb0736a723f5d776cf92da8255e99340128e03ce2db99bbaa61c46ceb24"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 647, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NATIONAL ACADEMY OF SCIENCES
+NATIONAL RESEARCH COUNCIL
+2101 CONSTITUTION AVENUE, WASHINGTON 25, D. C.
+OFFICE OF INFORMATION
+September 29, 1960
+London,
+Chfo
+Dear Mr.
+I regret that we shall not be able co fumish any information
+regarding an serial object that you might have seen on the
+evening of September 17th, since the Academy-Research Council
+does not conduct observation programs that might baar on
+your concern.
+I am taking the liberty, however, of forwarding your letter
+to the Department of Defense, in the hope that some office
+there night be able to assist you.
+Very gincerely,
+Howard J. pets
+Director
+ILL: lea
+CC: Department of Defense

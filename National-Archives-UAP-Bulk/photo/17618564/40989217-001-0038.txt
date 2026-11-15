@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:15:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6932569, "source_ctime_ns": 1793354547924350741, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0038.jpg", "source_mtime_ns": 1785564303000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0038.jpg", "source_sha256": "df31e0dead213fd70b2ba36ab00166562efcbdca715a26d3dd7f5d2eae3d1a75"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 716, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+47TH AIR DIVISION (SAC)
+Thited States Air Force
+Walker Air Force Base
+New Mexico
+SPECIAL ORDERS)
+NUMBER
+* *EXTRACT *
+5 September 1957
+* *
+* * *
+16. DP, IT COL CFORGE F ADAMS, A0257543, (YOB - 1907) (PAFSC - 935)
+(FLT SURGEON, on flying status), PERM ITS OR - IT COP is REL from ASC
+With 6th TACHOSP,
+6th BOMNG, SAC this STA and from EAD EFF 10 SEP 57;
+ASO HQ COMAC (MARS) Air RES
+REC CEN, 3800 York SI, Denver COLO, EFF 11
+SEP 57. HOR - 75 Borica ST, San Francisco, CALF. Al1 TEMP APT are
+TERM EFF date of REL from AD. IPA, POS.
+TDN. 5783500 048~141 P 531.11-
+02-03 S 99-999. AUTH - SDIT 501, SEC I, PARA 32, AFR 36-22.
+******
+********
+* *
+FOR THE COMMANDER:
+KENTETH R BEI DLEMAN
+CWO (1-3), USAF
+ASTADJ

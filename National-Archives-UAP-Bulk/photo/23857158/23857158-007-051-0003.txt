@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:16:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7290286, "source_ctime_ns": 1793359368436220197, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-051-0003.tif", "source_mtime_ns": 1785681392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-051-0003.tif", "source_sha256": "bd299568f9339b67e7dc027fe1256db1947464d503f34985cc6b46e2c0aa7bed"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 245, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+Declassification Authority NND 923007
+PAGE THREE JEPNL GE
+! 54320 DEGREE 20K
+(C) NO CEILING
+(D) TEN MILES
+(E) NONET
+(F). NONE
+8. NO
+9. NONE
+10. NONETE
+11.1ST LI TOM FA
+HAMILTON SENIOR DIRECTOR ADDE UNKNOWN
+12. NONE
+16/1055Z MAY JEPNL
+VRECE WCLO

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:13:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6531113, "source_ctime_ns": 1793361843407789008, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0082.jpg", "source_mtime_ns": 1785685075000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0082.jpg", "source_sha256": "05d20053c6ae4a4b1be9cd5c9ee510e95a098f5a0df904f5d3906d752eceef53"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 757, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TO:
+FROM :
+TIMB:
+DATE:
+DIRECTION:
+SPEED:
+COLOR:
+ALTITUDE:
+POINT OF OBSERVATION:
+SOUND:
+OBSERVER:
+STATEMENT BY OBSERVER:
+It. Barle D. Hightower, Operations Officer
+Protective Force, AESS
+Inspector Paul J. Semald
+0010
+2 March 1949
+Horizontal plane from north to south.
+very fast
+Station 103
+Inspector Panl J. Sewald
+At approximately 0010, 2 March 1949, while making a
+foot patrol at Station 103, 1 observed a light low
+in the sky. It appeared quite dim and constant in
+intensity.
+It was traveling nearly in a horizontal
+plane from north to south. I saw it for about two
+seconds when the trees cut off my view. It appeared
+to be traveling very fast as it crossed one half my
+line of vision during the time I observed it.
+Declassification Authority: NND 923007

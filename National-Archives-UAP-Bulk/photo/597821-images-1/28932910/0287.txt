@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:22:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4803247, "source_ctime_ns": 1793369811400671017, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932910/0287.jpg", "source_mtime_ns": 1785689000000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932910/0287.jpg", "source_sha256": "87441f936b70929b93bfe458d74f9c59700d9403c8ba9439432836ec13e22464"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 339, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCOMING MESSAGE
+UNCLASSIFIED
+DOWNGRADED AT S YEAR INTERVALS.
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+UNCLASS!
+IDENTINO 233
+This copy will be safeguarded with the gretest care until action is completed, at which time it will
+MCAG Form No. 22A be prepared for destruction in accordance with Section IV, Ha. Office Instruction No. 11-2

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:46:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 821689, "source_ctime_ns": 1793393550483968117, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578701/1392.jp2", "source_mtime_ns": 1785808334000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578701/1392.jp2", "source_sha256": "c505cdeafb41d89978afb31eff38e0a78faf3c73d628a6ee050da2f024ea097a"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1147, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT-PATTERSON AIR FORCE BASE. OHIO 43433
+REPLY TO
+ATTN OF:
+SUBJECT:
+IDPT (UFO)
+WO Obaervation, 11 August 1960
+6 SEP 1968
+TO:
+Darien Police Department
+Darien, Connecticut 05820
+The Aerial Phenomena Office is in receipt of an unidentified
+Flying object (UrO) report, Fron Pound Ridge, New York (about 10
+miles north of Stamford, Connectieut) which occurred on 11 August
+1963 at approximately 4:10 pm, IPT.
+The observer stated tbat he sighted a metallic dice¿Shaped
+object that traveled in a south-southeast direction and crossed
+about 50 degrees of ere in approximately eight seconds.
+3. Did you receive any reports of unusual objects for this date?
+We vould appreciate your comments as to a posalble cause for this
+sighting.
+Thank you for your assistance on this matter.
+It Colonel, USAP
+Chief,
+Kerial Phenomeca Office
+Aerospace Technologies Division
+Production Directorate
+1 Atch
+Solr Addressed Snvelope
+Dear Sir:
+In reference to the above, this Department did not receive any
+information concerning unusual objects.
+Very truly yours,
+Darien
+Police Dep
+Records
+Bureau

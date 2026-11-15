@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:30:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6928526, "source_ctime_ns": 1793377216120381954, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962979/1039.jpg", "source_mtime_ns": 1785696562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962979/1039.jpg", "source_sha256": "8104d6877cdbf433845339386ab1f117acf7af545dfbd121d4178a8757b6a090"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 291, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACTION
+5
+18
+2 AU1500 33
+1 006 55
+> AFON- HEH
+4X2a
+WPF130 YMA135TNG
+ø49
+RR RJEDEN RJEDWP RJEPHQ
+DE RJEDNG 20A
+R @11630Z
+FM COMDR 31ST ADIV SNELLING AF STA ST PAUL MINN
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRING COLO
+RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB ONTO
+RJEPHQ/D/I HQTRS USAF WASH D C

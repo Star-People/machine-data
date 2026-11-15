@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:01:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 999765, "source_ctime_ns": 1793393792376546299, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580576/0032.jp2", "source_mtime_ns": 1785808322000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580576/0032.jp2", "source_sha256": "490bc7e850db5535049ef7ea2b73ed54969c8b1f21be74fb362d8d777608a86e"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 491, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EVALUATION :
+UNKNOWN
+AMPORT /
+68
+- * 57
+14 ctls
+NICAP MASSACHUSETTS INVESTIGATING SUBCO MITIEE W GUNCY, MA
+(P.0. Box 19 - Wenham
+Hass. 01984)
+AC 617/468-4815
+M° EacheiN
+UFO REPORT
+, DATE:
+19 OCTOBER 1968
+PLACE: W. QUINCY,
+_MASS
+TIME:
+1:30-2:30 AM EDT
+WITN
+TESSES:
+OBJECTS
+TEMPERATURE:
+WIND DIRECTTON:
+WIND SPEED:
+VISIBILITY:
+GEILTNG:
+64°
+WSW
+14 MPH
+12 MILES
+CLEAR
+JACOUES VALLE
+(Rer. 4 bolow)
+TYPE:
+II & I
+CIASS: A &
+WEIGNT:
+teport
+CC: NICAP HEADQUARTERS
+COLORADO UNIVIRSITY
+AUSAP FTD WPAFB

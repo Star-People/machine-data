@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:50:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1462593, "source_ctime_ns": 1793355960927178639, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0030.jpg", "source_mtime_ns": 1785564569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0030.jpg", "source_sha256": "edc96df3395f6da754cb3c92107ac149afa439bcef3ea5af48845e9a4c99395d"}
+
+===== PAGE 1 =====
+{"alpha_words": 266, "chars": 1843, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24
+place on 6 August 1958, in connection with the program of
+research on windblast which was conducted by the Aeromedical
+Field Laboratory of the Air Force Missile Development Center.
+This program formed Task 78505, Tolerance to Ram Pressure and
+Thermal Effects (until March 1958 simply Tolerance to Abrupt
+Windblast), of the laboratory's Project 7850, Biodynamics
+of [Space] Flight. It had begun in 1954 as part of Colonel
+Stapp's study of combined windblast and deceleration such
+as a flier experiences in high-speed escape from aircraft.
+In due course, high¿g deceleration and supersonic windblast
+became the subject of separate test programs, with a lighter
+and faster sled, Sonic Wind Number Iwo (AFMDC 5503), designed
+and built for the specialized windblast tests. These remained
+oriented toward the aircraft escape problem, even after the
+deceleration experiments had developed into a program of
+1
+more basic research on tolerance to g-forces.
+The last previous windblast experiment on the Holloman
+track had been conducted on 2 March 1956. This was just
+before the first track extension (to slightly over 5000
+feet); and the next four experiments in the Aeromedical Field
+Laboratory's windblast series took place not at Holloman but
+on the Supersonic Naval Ordnance Research Track (SNORT) at
+China Lake, Calif. The naval test track was used because
+its 21,500-foot length permitted the attainment of sub-
+stantially higher sled velocities than either the original
+3550-foot Holloman track or the extended 5000-foot facility
+could offer. Velocity was, of course, the key ingredient
+for windblast experimentation-and the research program could
+not simply wait until Holloman's present 35,000-foot test
+track became available.
+The first SNORT test was a checkout run of February
+1957; but the other three were full-scale experiments with

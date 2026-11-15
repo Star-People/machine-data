@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:21:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10168640, "source_ctime_ns": 1793362271383411451, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0032.jpg", "source_mtime_ns": 1785685170000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0032.jpg", "source_sha256": "fab52ae6fc8f9f82e1d98d9b66a41367cf6344e008054a8f858b17912349df99"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 286, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DISTANC
+O+ RENOMENA TO
+OBSERVER UNKNOWIV
+POSITION
+OF AERIAL
+FIRST
+SIghTED
+PhENOMENA
+NORTH EAST
+POSITIOn of ObSERVER IN BOAT
+LAKE
+KENDRA, ONT.
+LARE
+SHORE
+LINE
+10 MI To
+*ephas →
+POSITION OF AERIAL
+PhÊNO MENA
+WhEn LAST SEEN 30° Southot EAST
+fuel # 2
+Declassification Authority: NND 923007

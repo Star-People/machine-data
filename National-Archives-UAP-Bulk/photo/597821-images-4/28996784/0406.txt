@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:14:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4019493, "source_ctime_ns": 1793386612348971706, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996784/0406.jpg", "source_mtime_ns": 1785748270000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996784/0406.jpg", "source_sha256": "8bfd01530905e487214fabcb6ad94862100f9995f30934356712ff2398f79c11"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 925, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+1962
+3. DATE-TIME GROUP
+Local
+GM T.
+22/07502Ś
+5. PHOTOS
+2. LOCATION
+18.45N
+166° E
+Near Wake Is.
+TYPE OF OBSERVATION
+12 Ground- Visual
+• Air Visual
+SOURCE
+D Ground-Radar
+D Air-Intercept Radar
+• Yes
+• No
+7. LENGTH OF.OBSERVATION
+8. NUMBER OF OBJECTS 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Bailoon
+Possibly Balloon
+Was Aircraft
+Probably Aireraf
+Possibiy Aircraf
+Was Astronomical
+Probably Astronomical
+D
+Possibly Astronomical
+Other.
+Echo
+Insufficient Data for Evaluation
+Unknown
+NE
+10. BRIEF SUMMARY OF SIGHTING Round pea Sized Objt.
+11. cOMMENTS At 0750Z on 22 April Echo was
+nite. No tail or sound viewed fm 330° at 35°
+at 30° N 154° E. Ex heading NE. This
+elevation after 8 min light. Sighting at night would be visible In reported location
+Im ship with aid of binoculars.
+and all other factors conform to a
+satellite sighting. Case evaluated as
+Echo I.
+ATIC FORM 329 (REV 26 SEP 52)

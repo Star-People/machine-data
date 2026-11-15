@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:46:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 800969, "source_ctime_ns": 1793391232783815696, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556550/0113.jp2", "source_mtime_ns": 1785808272000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556550/0113.jp2", "source_sha256": "cd5ed7685a8d0d4e48b13d089f56b741c55c48b4b87246a5a52f48723b8d36c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 773, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 70073 RECORD
+1. DATE - TIME GROUP
+4 October 66 05/0140%
+3. SOURCE
+Civilians
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+5 Minutes
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+N
+8. PHOTOS
+• Yes
+XX No
+9. PHYSICAL EVIDENCE
+• Yes
+XX NO
+FORM
+FTD <FP 63 0-329 (TDF)
+2. LOCATION
+Rochester, New York
+(3 Witnesses)
+10. CONCLUSION
+Satellite (ECHO II)
+ECHO II was over (78W 50N) at the time of sighting at about 0133?
+11. BRIEF SUMMARY AND ANALYSIS
+on a ND heading.
+Observer viewed an object moving in a easterly direction at
+about 2140(L). It appeared as a bright white light, similar
+to a star or satellite.
+The observer called to his wife and
+daughter to come out of the house and view the object, when
+they got outside the object changed to a northerly direction.

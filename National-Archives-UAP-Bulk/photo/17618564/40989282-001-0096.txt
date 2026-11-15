@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:55:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2492681, "source_ctime_ns": 1793355869312639012, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989282-001-0096.jpg", "source_mtime_ns": 1785564546000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989282-001-0096.jpg", "source_sha256": "e9e9d2a8f488dc2bc3e32299a8961a66c3690da2a6db9aae13531825e946120b"}
+
+===== PAGE 1 =====
+{"alpha_words": 232, "chars": 1471, "method": "ocr", "page": 1, "variant": "plain-vision"}
+74
+General Davis went on to explain that out of eight F-86, F-89,
+and I-33 aircraft assigned only one was in commission, and that
+in the previous December and January forty hours of missile
+tests had been cancelled for lack of chase aircraft. Lighty
+1
+hours more simply had not been scheduled for the same reason.
+In the first three months of 1955 there were seventy-five
+incidentsạ of lack of support, complete or partial, In
+September and October, according to still another count, around
+thirty missions were cancelled and thirty not scheduled for
+lack of chase aircraft,
+while presumably other missions were
+flown with partial support that limited their effectiveness.
+To be sure, cancellation figures and the like must not be taken
+too literally. The more firing is accomplished, the more chances
+there are for aircraft malfunctions to develop, and the sooner
+periodic inspections come due; hence an increase in support
+rendered may actually lead to more cancellations. Likewise the
+record may show seven separate, consecutive cancellations for
+a minor project that flew its mission successfully on the
+eighth try with no real hardship resulting from the delay.
+the other hand, neither does the record show all the times
+that a project does not even attempt to schedule, knowing the
+effort would be useless. Certainly the air support problem
+appeared real enough to the units directly affected, such as
+Recovery Systems Division, which for fifteen consecutive weeks

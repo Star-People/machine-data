@@ -1,0 +1,92 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:23:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5054758, "source_ctime_ns": 1793356260157628134, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0037.jpg", "source_mtime_ns": 1785564653000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0037.jpg", "source_sha256": "851f62bd39ff53a63028b1ac645c9a6828c225c22b4b22cae8fa3cdad54c9483"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1141, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AUTHORITY.
+EN FLYING STATUS
+ESE DATE
+RESTRICTIONS
+RATING.
+: DESIGNATION
+SPECIALTY. OR
+DE RATINOS, SPECIALTIES, AND DESIGMATIONS ENTRE CADEN
+EFFECTIVE DATEN
+INTHORITY - ATE
+10 26-P5 006
+200000200
+"S.
+NO OF ENGINES
+AIRPLARE, QUALIFICATIONS (MiLitary)
+TYPE OF PLANE
+CONVEN-
+TIONAL
+OVER 2
+JETI
+OVER 2
+OTHER
+COMBAT DATA (AAF only)
+ME HOSPITAL (Loca
+HOSPITAL (Location)
+40.
+FLYING HOURS
+MONTH AND YEAR
+HOURS
+250
+500
+- 750
+1000
+1500
+2000
+3000
+5000
+INTERNSHIP
+RESIDENCIES AND FELLOWSHIPS
+47. CicenINO FLYING EXPERIENCE (Nature
+lant dete flore
+50.
+SERVI CE
+POST GRADUATE INSTRUCTION
+COUR SE
+HOSPITAL AND TEACHING APPOINTMENTS
+HOURS
+TOTAL
+•MONTHS
+MONTHS:
+TOTAL
+MONTHS
+YEAR
+COMPLETE
+COMPLETED
+P YEA
+COMPLETE I
+> PRIVATE P
+LOCATION AND TYP
+TIME
+53. CERTIFIED BY AMERICAN BOARD OF
+SUB SPECIALTY
+[LICENSE (T7PN)..
+STATE OR TERRI
+55. BOOKS AND TECHNICAL PAPERS PUBLISHED TE
+AS FROM E
+PEDE
+YEAR
+-YEAR
+PROFESSIONAL AND EDUCATIONAL SOCIETIES (VIER
+Brown
+*COMPLEXION
+Ruddt
+SPECTACLES DATA
+AUTHENT ICATINO SIGNATUREA
+TAME, GRADE AND.
+ARM OR SERVICE OF OFFICER AND DATE
+MARCEL, Major,
+rosr
+27 October
+1947
+58.
+- COLO
+Blue
+61. BLOOD TYPE
+STOR
+MARCEL JA
+15221 75}

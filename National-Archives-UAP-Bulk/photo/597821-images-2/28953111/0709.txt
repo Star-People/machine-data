@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:58:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3873485, "source_ctime_ns": 1793374762644785513, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953111/0709.jpg", "source_mtime_ns": 1785696574000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953111/0709.jpg", "source_sha256": "776051b6919396810731fdd12a392e5f02fa065a14f42da503de454f70c81be1"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 964, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Terre Haute, Indiana
+1 February 1953
+Description of Incident
+A military aircraft on a 270° heading 10 miles west of Terre Haute sighted
+a close group of moving lights changing color from red to blue, to green to yellow.
+The pilot estimated their altitude to range between 30,000 It. to 15,000 ft. flying
+In a manner similar to conventional aircraft. Searchlights from the St. Louis area
+seemed to be follcwing the unidentified lights. The time of sighting was about 2130
+EST .
+II. Discussion of Incident
+ATIC made a check on local aircraft and found that there were many commercial
+and military flights in and out of St. Louis at the approxinate time of sighting.
+It is possible that searchlights from St. Louis picked up one of these aircraft.
+The observing aircraft was 100 miles away from St. Louis which probably accounts
+for the changing color of lights.
+III. Conclusion
+Possibly sirere:t.
+)
+DOWNGRADED AT 3
+DECLASSIFIED AFT
+DOD DE
+T53-3695
+56
+# UNCLASSIFIED

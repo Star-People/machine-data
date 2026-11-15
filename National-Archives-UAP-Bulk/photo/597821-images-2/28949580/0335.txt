@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:08:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4827182, "source_ctime_ns": 1793373975647788621, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949580/0335.jpg", "source_mtime_ns": 1785696580000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949580/0335.jpg", "source_sha256": "c6c00c6222c261ccc620a4198f038894f6ed3f64355977c1b913b454dc56516f"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 309, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AUTICAL CHART
+Compiled to ICAO Standards
+For ICAO number add 2000 to the chart number.
+(359 MLU S2
+To Monroe
+92°p
+TOE
+Winn bor
+WINNSBORO
+(Joins 408)
+PC
+_ 32°.
+30
+мирт
+Port Gib
+* LOUISIANA
+MISSISSIPPI
+NATCHEL JANS
+271
+NATCHEZ AIRPARK
+CROSBY
+• PB
+REDWOOD RA
+OAKDAL
+NEW EVANGE
+40
+Opelou
+Church Point
+ota
+NA
+LYON

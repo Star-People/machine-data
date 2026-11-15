@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:15:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6936781, "source_ctime_ns": 1793364625390456412, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0016.jpg", "source_mtime_ns": 1785684881000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0016.jpg", "source_sha256": "d332c5a67a717db692d7ca6adb7f3d5b5b07f291665fd1510dc2739465806ad4"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 703, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS SIXTH ARMY
+PRESIDIO OF SAN FRANCISCO, CALIFORNIA
+Office of the Assistant Chief of Staff, G-2
+1 August 1950
+Colonel John G. Swope
+19th OSI District
+Fairfield-Suisun Air Force Base
+Fairfield, California
+Dear Colonel:
+The inolosed letter was sent to us from the Far East
+Command. It would appear that Mr. Fred W. Reed, if his
+statements are correct, has gone a long way ahead of the
+Air Force and his invention should be of considerable
+interest.
+For this reason, we are forwarding it to you for such
+action as you see fit.
+Yours sincerely,
+1 Incl
+Cy Itr, Fred W.
+Reed, 5 Jul 50
+ALEX G. KIRBY
+It. Colonel, GSC
+Asst. AC of S, G-2
+24/40 SIRI1
+UNCLASSIFIED
+Declassification Authority: NND 923007

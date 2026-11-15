@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:48:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1217655, "source_ctime_ns": 1793356028826779965, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0062.jpg", "source_mtime_ns": 1785564587000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0062.jpg", "source_sha256": "cb6c3a8263ce04e9aa06a9df163a5d676c53d07193789354e656c9e52a0e53f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1409, "method": "ocr", "page": 1, "variant": "plain-vision"}
+XXXXXXXXXXXXXXX
+MATERIEL
+TSELT
+TSELT/TCR/gen
+18 June 1946
+MENORANDUM FOR: Major General Curtis Lekay
+SUBJECT:
+Relief of Major R. T. Crane as Project Officer for
+MOGUL and TORRID
+1. In compliance with General Spaatz' directive, I contacted
+Dr. M. Ewing at Columbia University on 15 June 1946 and discussed
+the proposed relief of Major R. T. Crane as project officer on
+projects MOGUL and TORRID.
+2. Dr. Ewing was exceedingly pleasant and agreed to the relief
+of Major Crane, asking only that it be done in such a way as to
+cause as little embarrassment to any of the parties concerned as
+possible. I advised him that the matter would be handled diplomatically.
+3. I then discussed with Dr. [wing the subject of a successor
+to Major Crane and suggested to him that Colonel Marcellus Duffy, a
+Regular Army officer and well-qualified on meteorological research
+and development work, might be made available for this duty. Dr. Ewing
+advised that he believed that he could work well with Colonel Duffy
+if he is assigned to this work. It was further agreed that as soon as
+a project officer is finally selected, a conference would be held with
+Dr. Ewing and the new project officer and Colonel Maier and Colonel
+Graul in order that there will be a clear understanding as to the .
+objectives to be accomplished.
+TOM C. RIVES
+Brig. General, USA
+Chief, Electronic Subdivision
+Engineering Division
+noted by semed fract.

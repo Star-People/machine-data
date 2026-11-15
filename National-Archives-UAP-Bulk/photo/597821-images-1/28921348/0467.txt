@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:12:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6255080, "source_ctime_ns": 1793368645105978083, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0467.jpg", "source_mtime_ns": 1785688712000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0467.jpg", "source_sha256": "cc6a7aa57206662e82ebcd0ab059eb8e0b9c1241ea87ba1cb09c26279b02a820"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 754, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+1 - 15 SEPTEMBER 1968 SIGHTINGS
+OBSERVER
+LOCATION
+Monrovia, California
+San Francisco, California
+Blanchester, Ohio
+Cincinnati, Ohio
+Cincinnati, Ohio
+Dayton, Ohio
+Charlestown, Indiana
+Brooklyn, New York
+Aiken,
+South Carolina
+Miami, Florida
+Las Vegas, Nevada
+Green Bay, Wisconsin
+Memphis, Tennessee
+Huntington, New York
+Kewonna, Indiana
+Ocala, Florida
+Albuquerque, New Mexico
+Multiple
+• (PHOTO)
+EVALUATION
+Other (PSHYCOLOGICAL) /2Y$3
+Insufficient Data
+12484
+Insufficient Data
+12485
+Insufficient Data
+12484
+Balloon
+12 487
+Aircraft
+72488
+Insufficient Data
+12480
+Balloon
+12490
+InsufficientData
+12491
+Insufficient Data
+12492
+Astro (STARS/ PLANETS) /2493
+Balloon
+12494
+Balloon
+12495
+Insufficient Data
+12494
+Astro (ARCTURUS)
+12451
+UNIDENTIFIED
+12498
+124984

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:21:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10382993, "source_ctime_ns": 1793364193688339121, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0245.jpg", "source_mtime_ns": 1785684594000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0245.jpg", "source_sha256": "5454d629eb6aab55d9b69ddc2ca469bf6244ec5d80ebc604eb6d60929ddf7e2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 349, "method": "ocr", "page": 1, "variant": "plain-vision"}
+that there were no unusual westher conditions at the time of the aightings
+Cheek with the Operations and Projects Division, Hollonan Air Force Sase,
+and the Research Section of White Sands Proving Ground revealed that
+no teeting devices had been sent aleft in this vicinity as the tine of
+the sightings
+CLOSED
+Declassification Authority: NND 923007

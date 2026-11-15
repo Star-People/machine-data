@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:59:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4102084, "source_ctime_ns": 1793354327908514237, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989193-001-0001.jpg", "source_mtime_ns": 1785564266000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989193-001-0001.jpg", "source_sha256": "66552d57dfab850bafb017462256d924513ded6ac41d6de21338928ce6fb72b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 189, "chars": 1343, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ROBERT G. TODD
+2528 Belmont Avenue
+Ardmore, PA 19003-2617
+October 29, 1994
+ATTN: It. James McAndrew
+Center for Air Force History (SAF/AAZD)
+170 Luke Ave., Suite 400
+Bolling AFB, DC 20332-5113
+Jim:
+Professor Moore consulted his magic CD-ROM of telephone numbers and found only
+one person with the name Herbert G. Markley, as follows:
+Herbert G. Markley
+139 Minnie St.
+Keller, TX
+Phone:
+(817) 431-0702
+Naturally, I have no way of knowing if this is the same Herbert G. Markley who
+worked at Alamogordo Army Air Field in August of 1947 and who launched
+balloons with radar targets attached.
+Professor Moore also consulted his magic CD-ROM for the telephone number for
+William R. Clingermen, who was the chief of the Analysis Division, Intelli-
+gence (T-2), Air Materiel Command, Wright Field, in July of 1947.
+By the way,
+if I have noffurnished is before, Clingerman's service number was O-20591.
+Professor Moore came up with two possibilities:
+William R. Clingerman
+1344 Frizzell In NW
+Port Charlotte, FL
+Phone: (813) 743-3278
+William R. Clingerman
+4135 Kings Hwy
+Port Charlotte, FL
+Phone: (813) 624-5521
+Professor Moore's magic CD-ROM also came up with another possibility, but with
+no middle initial:
+William Clingerman
+636 Dawn Rd
+Madison, OH
+Phone:
+(216) 428-5256
+The first two listed above strike me as the most likely candidates, however.

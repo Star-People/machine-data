@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:57:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 626980, "source_ctime_ns": 1793393029313571104, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302573046/1327.jp2", "source_mtime_ns": 1785808427000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302573046/1327.jp2", "source_sha256": "85005f2f7ff584ad7e913d3567915a2e70866dd4599ece702483d387f19c2d29"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 442, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACTION
+MEMO ROUTING SLIP
+NEVER OSBE
+CONCURI
+TO
+PROVALS
+INITIALS
+CIRCULATE
+DATE
+COORDINATION
+TDETR
+FILE
+INFORMATION
+XXX
+NOTE AND
+RETURN
+PER CON.
+VERSATION
+SEE ME
+SIGNATURE
+REMARKS
+A copy of this report was sent to
+Dr. Condon at the University of Colorado.
+6486th Air Base Wing
+BDOI
+APO
+96553
+UNITED STATES AIR FORCE
+OFFICIAL BUSINESS
+FROM
+BDOI
+NCOIC Director
+DD 1 507 60 95
+REPLACES PREVIOUS EDITION
+DATE
+21 DEC 67
+PHONE
+442224
+• GPO : 1963 O

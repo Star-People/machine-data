@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:32:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7029843, "source_ctime_ns": 1793381783206624217, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981601/0105.jpg", "source_mtime_ns": 1785700793000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981601/0105.jpg", "source_sha256": "82ac834eaa686edcb3b02cbc77ff3d0cc986e44a6b47963ec709dbf304561fcd"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 200, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Ạie port on V.F.O.
+1) 15I Januany 1959
+10
+2) 9:35 PM
+3) Eastem Standand Jime
+KILBURN
+SOUTH AUSTRALIA
+:S)
+3-5 secs (centain)
+6) No trace of daylight.
+3) - (no oun.)
+8) Many stans (dear night). As moor

@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:00:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 888395, "source_ctime_ns": 1793388773927591140, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532129/0874.jp2", "source_mtime_ns": 1785808127000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532129/0874.jp2", "source_sha256": "efa83ae0435427875f441b3f79c589c1dcddc6e1bb7aaab6c19fbde9189a65e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 358, "method": "ocr", "page": 1, "variant": "plain-vision"}
+BELL AEROSYSTEMS COMPANY
+DIVISION OF BELL AEROSPACE CORPORATION-A TEXTION
+COMPANY
+POST OFFICE BOX ONE • BUFFALO, NEW YORK 14240
+ONE OFTHE
+extroni
+COMPANIES
+Attention:
+Headquarters
+Foreign Technology Division
+Air Force Systems Command
+United States Air Force
+Wright-Patterson Air Force Base
+Ohio 45433
+Captain Hector Quintanilla
+FTD
+TDEW/UFO)
+08
+VIA AIR MAIL

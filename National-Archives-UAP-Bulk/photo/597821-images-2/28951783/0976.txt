@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:30:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6760867, "source_ctime_ns": 1793374468999943390, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951783/0976.jpg", "source_mtime_ns": 1785696531000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951783/0976.jpg", "source_sha256": "1a228cc0e53f82b8cad942400c81e362e77f993ce77fc90614bac5648cd432a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 177, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a cag SR oras seer oe tn “Ee.
+
+COLORADO PHOTO MAPS 1:25,000 | AMS 1 FOUNTAIN
+
+104°45'00" 1024 522 1095 523 1096 «= 524 1097 525 42'30" 1098 a 1099 527 1030 528 103}
+
+38°45'00"

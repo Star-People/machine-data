@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:00:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4354900, "source_ctime_ns": 1793377909508975260, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965943/0651.jpg", "source_mtime_ns": 1785696415000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965943/0651.jpg", "source_sha256": "c8b3e265d1f51aee41fbad72a5e8f95692c9fef80b5405a7ddbbe9a7e51f28b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 471, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JESKB 4D
+I. NONE
+2•
+A. PASSING OF AN A/C
+B. FROM EYE LEVEL SWEEPING UPWARD 093 DEGREES FROM POST
+C.
+D. FROM SOUTHEAST TO SOUTH SWEEPING UP, DOWN, THEN UP AGAIN
+E•
+3. NAKED EYE WITHOUT BINOCULARS THEN WITH BINOCULARS
+A. BROUND VISUAL
+B. BONOCULARS
+C. N/A
+A. 25/2452Z
+B. NIGHT
+5. HP 3212
+LUTZ FLA. LABORER IN
+FACTORY
+LUTZ FLA. STUDENT
+PAGE THREE RJESKE 4D
+7•
+A. LIGHT CLOUDS TO MOSTLY CLEAR SKIES, GOOD VISION
+B. 283/12, 332/PN L/VREL, L/VRBL
+C. 142/15, 110/25
+D. 15 MILES

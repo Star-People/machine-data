@@ -1,0 +1,88 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:09:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5275456, "source_ctime_ns": 1793368611797639020, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0369.jpg", "source_mtime_ns": 1785688708000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0369.jpg", "source_sha256": "3d904cac70a0b2291d7b56bf8176e8497cfc415a812673fcb5da3ce2ad1ae0b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 1143, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+10141
+10192 2
+70193 ₴
+10194 4
+10195
+- 4
+101940
+701977
+10/98 12ł
+70/99 15-16
+10200 15
+1020/ 17
+1020218
+70203 20
+1020422-23
+10205
+24+
+/ 0206 26
+10207 25
+10208 26-
+1020923
+DATE
+10210
+LOCATION
+Morocco
+Duluth, Minnesota
+salisoury, North Carolina
+Atlanta, Georgia
+Houston, Texas
+Nederland, Texas
+Tampa, Florida
+Duson, Louisiana
+Creenville, Ohio
+Brunswick Naval Air Station, Maine
+Centerville, Ohio
+19.50N 170.00E (Pacifie)
+Fairborn, Onio
+Sandyhook, Connectieut
+Rochester, New York
+Bartlett, New Hampshire
+Farmington, Illinois
+Manchester, New Hampshire
+Sells, Arizona
+FEBRUARY 1966 SIGHTINGS
+OBSERVER
+Civilian
+Mi
+. lita
+ppe
+LOCATION
+Williamsburg, Massachusetts
+Medford, Massachysetts
+Victoria, Australla
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+Lor
+NICAP
+Itr
+EVALUATION
+Astro
+(METEOR)
+Astro (MARS)
+UNIDENTIFIED
+InsufficientData
+Qther (CONFLICTING DAI
+UNIDENTIFIED
+Astro (STARS/PLANETS)
+Aircraft
+Astro (MOON)
+1. Astro (JUPITER)
+2. Insufficient Data
+Astro (VENUS)
+Astro (METEOR)
+Aireraft
+Astro (VENUS)
+# Vis: Insufficient I
+#. Photo: Insufficient
+Aircraft
+Ensufficient Data
+. Vis: Conflieting De
+Insufficient Data
+Astro (VENUS)
+EVALUATION

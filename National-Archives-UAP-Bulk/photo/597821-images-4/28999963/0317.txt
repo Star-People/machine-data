@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:21:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4724744, "source_ctime_ns": 1793388088915161174, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999963/0317.jpg", "source_mtime_ns": 1785748022000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999963/0317.jpg", "source_sha256": "b6ab9d670a659cc7d224fa8180423ad80068ee164fe640c7ea81252f73bcecc1"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 879, "method": "ocr", "page": 1, "variant": "plain-vision"}
+* AF IN: 53210 (11 DeC 62) X/eMBARTMENT OF THE AIR FORCE
+TAFF MESSAGE BRANCH
+INCLASSIFIED MESSAGA
+ACTION: CIN-17
+INCOMING
+INFO : O0P-1,
+OOP-CP-2, SAFS-3,
+DIA-10, ĐIA-CIÍC-3, 033-15, NSA-T, VIA-11 (119)
+JCS -35,
+SMB A 089
+VZ CHQA 79 1Z CJJ 0791
+••''' YY RUEAHQ
+DE RUEGUF 012
+Z NR
+Y 110323Z
+FM COMEA ST AREA
+TO RUCKHC/ CINCLANT FLI
+RUWGALB/CINCNORAD ENI AFB COLO
+RUEAHQ/ COFS USAF WASHDC
+RUCKDT / COMA SW FORLA NI
+RUEGUH/COMEA ST SEAFR ON
+RCE OM / CANCOMARL ANT
+RCE PA O/ CA NA IRDE F
+RUEASN/TWO SIX NORAD DIV
+INFO RUECJD/COMDT COGARD
+USCG GR NC
+UNCLAS.
+MER INT.
+FERRY GAYHEAD, ORIENT PI. FERRY, REPORIS SIGHING FLASHING
+RED LIGHT AND RADAR PIPS 300 DEGREES TRUE ONE MILE FROM
+LITTLE GULL PI. LI, LONG ISLAND SOUND. UPON APPROACHING
+OBJECT DISAPPEARED VISUALLY AND ON RADAR. FERRY MADE
+SEARCH OF AREA RESULTS NEGATIVE.
+BT
+NOTE: ADV CY TO CIN, DIA AND OOP-CP.
+SUS DUPE AFIN: 53144.

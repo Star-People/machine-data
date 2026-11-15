@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:16:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4100777, "source_ctime_ns": 1793376204661828062, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959693/01154.jpg", "source_mtime_ns": 1785696562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959693/01154.jpg", "source_sha256": "53104ec0d3c7973ce6d77718eb802ccb5d37cd797c1bff5824e60111467faa6f"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 852, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAC
+3 PA
+PR
+CMM. 37 CAM JACKSONVILLE CM
+71/0
+RILOT CAPTAIN
+PATICAN AIRLINES CONSIDERED RELIABLE CMM
+MM 32 CUM CONTROL TWOER CMM WASHINGTON MATIONAL
+IRPORT CMN AIRCRAFT CONTROLLER CMM CONSIDERED RELIABLE CMM MRANDREW
+CH 31 CMM ROUTE 2 C
+POX 77 FAIRFAX CMM VA. AIRCRAFT
+300
+ROLLER COM CONSIDERED RELIABLE.
+SPARE
+SPAREN WILLIAM R. WASSNER CMM CAPT CMM 1299 AIR TRANSPORT FOUADRON
+SCHM POLLING AFE PILOT CONSIDERED RELIABLE.
+CA
+1299 AIR TRANSPORT SQUADRON CMM BOLLING AFB CMM PILOT CMM
+FRED RELIABLE.
+7
+A PAREN CAVU
+FARE
+B. PAREN WASHINGTON NATIONAL AIRPORT 1900 EST WINDS.
+ASURKACE
+315 DEG 5 KNOTS
+FI 330 DEG 25 KNOTS
+190
+FT 310 DEG 27 KNOTS
+1PT 310 DEG 27 KNOTS
+# 16:02F1 310 DEG 34KNOTS
+200 EFT 300 DEG 44 KNOTS
+30002FT 290 DEG 48 KNOTS
+WC.PFT 27C DEG 32 KNOTS
+AFT 290 DEG 124 KNOTS
+PARIN C PARE
+UNLIMITED
+PAREN D PAREN
+UNRESTRICTED
+PAR
+PAR
+INE
+.....
+-

@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:00:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4415651, "source_ctime_ns": 1793382438194457316, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983898/0753.jpg", "source_mtime_ns": 1785701056000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983898/0753.jpg", "source_sha256": "41e8b987a05b49359c86ce79327458d21386a36a444027d027a99ef4a865c19e"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 897, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+21 Jul
+59
+3. DATE-TIME GROUP
+Local
+not given
+GM т.
+5. PHOTOS
+Louisana
+4. TYPE OF OBSERVATION
+a. Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+•
+Probably Aircraft
+Possibly Aircraft
+•
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+•
+•
+OrAmusement Park Li
+Insufficient Data for Evoluation
+Unknown
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+8-12 mins
+I0. BRIEF SUMMARY OF SIGHTING
+Rnd obj, 2 ft in diameter, red-orange,
+then white, then red-orange again, Had a soun
+like humming bird wings. Traveled back and forth
+from NE to SW at 20 mph.
+In sight approx
+8-12 mins.
+9. COURSE
+NE
+11. COMMENTS
+Possible reflection of lights fm
+amusement park on low clouds. No
+explanation for sound.
+ITIC FORM 379 (REV 26 SEP 52)

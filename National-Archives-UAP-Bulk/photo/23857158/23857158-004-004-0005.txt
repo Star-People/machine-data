@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:23:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13560596, "source_ctime_ns": 1793358621111803905, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-004-0005.tif", "source_mtime_ns": 1785681151000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-004-0005.tif", "source_sha256": "247c450c8e9116beddd2bb87fdb3022e38bd3429fce214d69a90261893dc7c66"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 789, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+151
+2 ed
+watc
+De Ruede
+DOSS At OPS
+EN023EN8024JBA006
+PR. RJEDEN
+DE: RJWPUB: 23
+R 232200Z
+FM OIC FLT 1-C 4602D AISS NORTON AFB CALIF
+TO COMDR 46Ø2D AISS ENT AFB COLO SPR COLO
+BT
+/UNCALSSIFIED/ AISIC 148 PD REF TP CONVERSATION BETWEEN AMN DERUDDER
+AND LT CONNOR 21ØØZ SEP 55 CONCERN UFOB SIGHTED BY MR I J HAPPE
+1010Z 13 SEP 55 PD EDWARDS AFS AND GEORGE AFB REPT NO LOC IFC AT
+TIME OF SIGHTING CMM HOWEVER SOURCES POSITION CMM 34 DEG 37 MIN
+N - 117 DEG 40 MIN W CMM WAS NEAR CENTER OF TRIANGLE FORMED BY
+AIRWAYS AMBER 2 CMM GREEN 4 AND BLUE 14 WHICH HANDLE APPRX 85
+PERCENT OF AIR IFC OVER SO CALIF PD
+ADVISE IF FUTHER INVEST IS
+ROR PD IF FUTHER INVEST ROR REQ YOUR REPLY QUOTE ORIG MSG ON
+SIGHTING AS NO CY AVAIL THIS STA PD END
+BT
+24/0204Z SEP RJWPJB

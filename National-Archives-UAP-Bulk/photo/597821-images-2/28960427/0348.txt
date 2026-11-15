@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:06:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4549736, "source_ctime_ns": 1793376381419025891, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960427/0348.jpg", "source_mtime_ns": 1785696946000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960427/0348.jpg", "source_sha256": "3e84d83e1e622a20e11cd458b89ec89fcc8342910003ba9c9e72c104fcc8540b"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 709, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+November 1954
+3. DATE-TIME GROUP
+Local _
+27/00202
+GMT
+5. PHOTOS
+• Yes
+C. No
+LENGTH OF OBSER
+TION
+3 minutes
+10. BRIEF SUMMARY OF SIGHTING
+Round, yellovish red lights.
+idly to
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Gilville,
+New Jeraey
+4. TYPE OF OBSERVATION
+I Ground- Visual
+• Air Visuai
+6. SOURCE
+• Ground-Rodar
+• Air-Intercept Radar
+Civilian
+NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Bailoon
+Probably Balloon
+Possibly Balloon -
+Was Aircraft
+a
+Probabiy Aircraft
+Possibly Aireraft
+Was Astronomicai
+Probably Astronamical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+Hover
+ed then
+NE
+11. COMMENTS
+Possible searchlight activity, possible
+a/c. Insufficient Data for analysis

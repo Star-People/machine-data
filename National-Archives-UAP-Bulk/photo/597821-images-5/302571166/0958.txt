@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:46:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 809563, "source_ctime_ns": 1793392801834523018, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302571166/0958.jp2", "source_mtime_ns": 1785808176000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302571166/0958.jp2", "source_sha256": "eb68eead94a0264839fef78857106afe9304ae7cff9dd4a46c9821bf762000f5"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 371, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 62803
+Pg 4 of 4
+K. PONALD E. PIMP, IST LT., USAF, LOWRY AFB, COLO (XPCP) 80220,
+АРУ
+1. REMARKS: LOCAL WEATHER ACTIVIIY CONIACTED AND KNOW OF NO
+WEATHER BALLOONS IN AREA G SIGHING. THIS OBJECT WAS
+PAGE 4 RUNTFNA0419 UNCLAS
+ALSO REPORTED BY E
+CRO., STUDENT.
+AFHQ 506
+0-309C
+UNCLASSIFIED

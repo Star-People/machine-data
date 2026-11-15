@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:05:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1460807, "source_ctime_ns": 1793391915597726302, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562604/0045.jp2", "source_mtime_ns": 1785808200000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562604/0045.jp2", "source_sha256": "48429d5a1e3ce70bb375412a07709dd8a7256f7528c3b18ebcd15cd886f1e35c"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 968, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN : 70645.
+Pg 4 of 5
+G WEATHER AND WINDS-AL OFT CONDITIONS FOR 2000 EST 8 MARCH 1967:
+(1) HIGH SCATTERED, VISIBILITY 5 MILES RESTRICTED BY SMOKE, SUR-
+FACE TEMPERATURE 19 DEGREES FAHRENHEIT, DEWPOINT 14 DEGREES FAHRENHEIT,
+MIND 140 DEGREES AT 4 KNOT'S, ALTIMETER SETTING 30.17.
+(2) WIND DIRECTION AND VELOCITY:
+PAGE 4 RUCIFLA0005 UNCLAS
+SURFACE-140 DEGREES AT 7 KNOTS, 6000' - 260 DEGREES AT 30 KNOTS,
+10,000° - 270 DEGREES AT 40 KNOTS, 16,000 ° - 270 DEGREES AT 45 KNOTS,
+20,000' - 280 DEGREES AT 55 KNOTS, 30,000° - 290 DEGREES AT 65 KNOTS,
+50,000° - 280 DEGREES AT 80 KNOTS, 80,000° NOT AVAILABLE.
+(3) NONE
+(4). 5 MILES
+(5) SCATTERED.
+(6) NO THUNDERSTORMS
+(7) NO UNUSUAL TEMPERATURE GRADIENTS EXISTED.
+H NONE
+L NONE
+A NONE
+CHIEF, BASE OPERATIONS AND TRAINING DIVISION, RAYMOND W, NYLS,
+MAJOR, 1 CMBT SPT GP (1C BOT), SELFRIDGE AFB, MICH, 313-4651241
+AFHO JAM 1S 0-309C
+UNCLASSIFIED

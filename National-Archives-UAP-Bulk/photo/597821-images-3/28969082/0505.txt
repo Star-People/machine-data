@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:22:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4893620, "source_ctime_ns": 1793378738037805660, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969082/0505.jpg", "source_mtime_ns": 1785700691000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969082/0505.jpg", "source_sha256": "24fffab2a794bc17ed59b40218c1f903aee3b8b91424fbcc5aab2f466e3477d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 532, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ДНА СГЕИЬ
+MIER
+C* 260 41
+ME. CINCI
+н* Ио 20ЛИ0
+CAV AVRED SLECIVE FLIRALION 2OD EVAN CHE MOL VANITESTE ED
+ERE 1R0 KOE
+09/05802
+030957-1
+| Witness
+ATIC
+13 MAR 57 07 41
+YE4
+44/229 13/02083
+KBAØ53
+PP RJEDEN RJEDWP RJEPWH RJEPNB
+DE RJESKB 6D
+P 121530Z
+FM COMDR 660TH ACRON MACDILL AFB FLA
+TO RJEDEN/ COMDR ADC ENT AFB COLO
+RJESKB/COMDR 35TH ADIV DOBBINS AFB GA
+RJEDWP/COMDR AIR TECH INT CNTR WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIR OF INT HQ USAF WASH DC
+INFO RJEPNB/COMDR EADF STEWART AFB NY
+ВТ
+/UNCLASSIFIED/OPS 2124 PD ATTN: EADF CIC PD

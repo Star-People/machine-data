@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T02:04:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5044770, "source_ctime_ns": 1793378118764111042, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966858/1427.jpg", "source_mtime_ns": 1785696912000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966858/1427.jpg", "source_sha256": "8975f287056ec0d5ed154387fa01652a5757ec136ded5dcde76dfd21544b2601"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 631, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACTION
+I 6 Auc167 10
+JEDWP H267NR71
+T ATIC
+DEFERRED
+UNCL
+DE WA 297
+FM COMDET 1 ACIC WASHDC
+15/19282
+TO COMDR 85TH AIR DIVISION ANDREWS AFB: MD.
+COMDR AIR TECH INTELL CENTER WRIGHT FATTERSON AFB& OHIO
+COMDR AIR DEFENCE COMMAND ENT AFBI COLORADO
+BT
+ACR 15-H-4. UFOB.
+PAR. 1. /A/ AMORPHOUS LOOKED LIKE A BLIMPES GONDOLA.*
+/B/ QUARTER
+/C/ NO COLOR ẠRED LICHTS ON EACH BEAM' WHITE LIGHTS BETWEEN THE RED"
+/ D/ 1
+/E/ N/ A
+/F/ NO
+/G/ NONE
+/H/ NO NOISE
+/I/ NONE
+PAR. 2. /A/ RED LIGHTS ON BEAMS"
+/B/ FOUR O"CLOCK HIGH FROM PRONE POSITION SE DEG - 85 DEG SE BY E
+/C/ UNKNOWN. OBSERVER STOPPED WATCHING
+/D/ STRAIGIT AND LEVEL FLIGHT: E BY SE

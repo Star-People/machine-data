@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:28:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6276754, "source_ctime_ns": 1793388587694891086, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001631/0703.jpg", "source_mtime_ns": 1785808182000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001631/0703.jpg", "source_sha256": "dfe98c49b5faf28ddef2043640ce618424cb8511878a043651d2b0e96b172ab0"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 540, "method": "ocr", "page": 1, "variant": "plain-vision"}
+August 13, 1963
+Dear Mr.
+Your letter to NASA concerning an unidentified aerial
+sighting has been forwarded to this office.
+As you did not give the exact location at the time of
+the sighting, it is impossible to confirm that you saw a
+specific satellite, however, your description of the object
+loes suggest that the sighting was caused by Echo.
+hope this
+the ination file Me her to attached. I
+Sincerely,
+Attachment
+Échot rediatini
+15-19 Cupbs
+MASTON M. JACKS
+Major, USAF
+Public Information Division
+Office of Information
+Hamilton, Montana

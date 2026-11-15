@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:53:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1720671, "source_ctime_ns": 1793390321615067251, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549045/0234.jp2", "source_mtime_ns": 1785808106000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549045/0234.jp2", "source_sha256": "3d1485599cc945189bdaa3d67d421609ed4cb738fb861cbade7582e5ffe8d11a"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 809, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN : 28714(3 Apr 66)
+Pg 3of 5
+F. IDENTIFYING INFORMATION OF ALL OBSERVERS
+10 N/A
+2. MURRAY, R. L.
+LTJG
+VP-49
+PILOT
+1
+DALMAN, R. C.
+SMITH, W. T.
+MONTGOMERY, R•
+COOK, D. L.
+ONEIL, R. B.
+LTJG
+LTJG
+AMH 1
+AT 2
+AMCS
+VP-49
+VP -49
+COPILOT
+OBSER VER
+VP -49
+VP -49
+FLT. ENGR .
+RAD 10
+1
+VP -49
+OB SER VER
+1
+G. WEATHER AT TIME OF SIGHTING
+1. CLEAR AT ALTITUDE; VISIBILITY UNLIMITED. HAZE LAYER FROM 12,900 TO
+29,380 FT.
+PAGE THREE RUKAK 114 UNCLAS
+2. UNK
+3. NONE
+4. UNLIMITED AT ALTITUDE
+5. SCTD CUMULUS AT 12,888 FT.
+60 NONE
+H. UNUSUAL ACT IMKTZCNHICH MIGHT ACCOUNT FOR SIGHTING
+1. NO UNUSUAL ACTIVITY NOTED. METEORITE ACTIVITY EVALUATED LIGHT AND
+THOSE OBSERVED HAD NO RESEMBLANCE TO OBJECT SIGHTED.
+FORM
+AFHQ JAN 65 0-309C
+UNCLASSIFIED

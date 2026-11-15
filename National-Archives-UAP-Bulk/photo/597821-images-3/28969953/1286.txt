@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:06:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4546213, "source_ctime_ns": 1793378921671004665, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969953/1286.jpg", "source_mtime_ns": 1785701108000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969953/1286.jpg", "source_sha256": "aa36ff292c54430b44ab76fb18af6c544fa8b6d1c1c8445be62a0381bd2808a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 847, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE. 2S MAY 5Z
+29 Hay 57
+3. DATE-TIME GROUP
+25/033oZ May 50
+5. PHOTOS
+UFOB INDEX CARD
+AISS UTCP 119-57
+12. CONCLUSIONS
+2. LOCATION
+mikhorn, Wise.
+4.
+TYPE OF OBSERVATION
+B: Ground- Visual
+• Air- Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+6. NUMBER OF OBJECTS
+Was Balloon
+Probably Balicon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unk no wn
+Three
+• Yes
+# No
+7. LENGTH OF OBSERVATION
+Tho minutes
+10. BRIEF SUMMARY OF SIGHTING
+Three red and white circular objects.
+00~
+sarvers noticed pomd dimmer than normal noise
+of aircraft.
+Objecta were seen visually for
+two minutes.
+9. COURSE
+Unknown
+11. COMMENTS
+Description, duration, indicate that
+this sighting was caused by aircraft.
+AISOP Form 5 (15 Oet 54)

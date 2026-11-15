@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:12:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3747438, "source_ctime_ns": 1793373715039265519, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28948314/0580.jpg", "source_mtime_ns": 1785688810000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28948314/0580.jpg", "source_sha256": "39359051d074e156228d0a4fe4e469c4e1407c950600438129f41da82766e207"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 519, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+PROJECT 10073 RECORD CARD
+LOCATION
+riage
+TYPE OF OBS
+DA
+CYT
+PHOTOS
+Ken.
+• Ground- Radar
+D AI
+0359
+C Yes
+I No
+7. LENCTH OF OSSERVATION
+20 minutes
+BRIEF SU
+60 10 :
+RY OF SIGHT
+lave
+utes
+¡ suci
+1zmon
+NUMBER OF OBJECTS
+2
+cept Radar
+COURSE
+12. CONC
+Probesly
+Possiby o
+Was Aircref:
+ossibly Airer
+Vas Astrona
+Probably Astro:
+Possibly Astronomicol
+Other
+Insufficient Detu for Ev
+Unknown
+Objects seen singly
+=
+11. COMMENTS
+Jet a/e in the Vietnity.
+112 to Fol20V.
+1 disappoored beyond horizon.
+ATIC FORM 329 (REV 26 SEP 52)

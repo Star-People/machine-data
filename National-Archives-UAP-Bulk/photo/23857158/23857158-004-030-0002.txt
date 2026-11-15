@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:28:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20551184, "source_ctime_ns": 1793358715581786363, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-030-0002.tif", "source_mtime_ns": 1785681180000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-030-0002.tif", "source_sha256": "034c8c4df0135244787295c28019d026466467a239b48668c21385c45e951a86"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 992, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+D STATIONARY
+E STILL IN SIGHT
+F
+15 MINUTES
+MANNER OF OBSERVATION
+A GROUND VISUAL
+& NONE
+C NONE
+4•
+TIME AND DATE OF SIGHTING
+A280625ęŘł
+B NIGHT!
+5. LOCATIONS OF OBSERVER
+BOYINTA BEACH FLA BETWEEN NAPLES FLA AND FORT MYERS FLA 2619N
+8149W
+6. IDENTIFYING INFORMATION OF ALL OBSERVERS
+A CIVILIAN
+: BOAT CAPTIAN - MR
+FLA
+PAGE THREE JESY 01B
+•B MILITARY
+NONE
+7. WEATHER AND WINDS ALOFT AT TIME AND PLACE OF SIGHTING
+A •
+B.
+SURFACE Ø3 DEGREES/3 KNOTS
+600ØFEET 250 DEGREES/25 KNOTS
+10,00ØFEET 250 DEGREES/35 KNOTS
+16,000 FEET 270 DEGREES/50 KNOTS
+20,000 FEET 270 DEGRE 0
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKI
+20,000 FEET 270 DEGREES/70.
+30/000 FEET 270 DEGREES/70
+59,000 FEET.
+KNOTS
+278 DEGREES/90 KNOTS
+80,200 FEET 270 DEGREES/80 KNOTS
+C CEILING- CLEAR
+D VISIBILITY- 12 MI
+E CLOUD COVER- NO
+F THUNDERSTORMS- NONE
+8. NONE
+9, NONE
+10. UNKNOWN
+I1. OPERATIONS OFFICE MAXWELL FLIGHT SERVICE CENTER MAXWELL AFB ALA
+12. NONE
+SGND GOLINSKY END
+BT
+28/0723Z JAN ROESBJ

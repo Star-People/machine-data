@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:09:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5054382, "source_ctime_ns": 1793374482536013347, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951856/1027.jpg", "source_mtime_ns": 1785696986000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951856/1027.jpg", "source_sha256": "eb253a42110c73edffcf06e7fbf022b17180954079468214631e659ed2a71915"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 444, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NR
+1. Atir
+2. Altian
+3.C.
+F143
+-C 1052 22
+00 2
+IPB199
+WYDE97
+JWFDL A141
+5:05
+RR JEDWP
+DE JWFDL 033
+R 1920152
+FM CG RANDOLPH AFB TEX
+TO CG ARIC WRIGHT PATTERSON AFB OHIO
+GIC 886M. URMSG AFOIN-ATIAA-12-6-E. PROJ BLUE BOOK, AF FORM 112 WAS
+FORWARDED IN DUP. CYS IN COMPLIANCE W/PAR 7E(2), AFL 209-5. THIS FORM
+WAS FORWARDED THROUGH CHANNELS 12 DEC 52. ALL QUESTIONS ASKED IN YOUR
+HESSAGE WERE ANSWERED IN THIS RPT.
+19/20142 DEC JWFDL
+segfilesig e

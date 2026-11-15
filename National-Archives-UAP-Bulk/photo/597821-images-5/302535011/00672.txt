@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:51:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1684214, "source_ctime_ns": 1793388981282359281, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00672.jp2", "source_mtime_ns": 1785808580000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00672.jp2", "source_sha256": "b55bc0613e00f663a61a5d08938354fdd5b28c561460673e3c0e043c66240a34"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 147, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+se he a eR at ES RO en se
+
+~ tee ee eet mean & concen at
+
+Ae et ee ee a Oe CONNER
+
+ce eee ge Le ee ae RN ae oO ee
+
+~ . _
+
+Por ree
+
+eee —ntatmamen

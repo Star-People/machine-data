@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:58:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3836360, "source_ctime_ns": 1793359448802945147, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-015-0004.tif", "source_mtime_ns": 1785681417000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-015-0004.tif", "source_sha256": "b92baad59136fbe0a5589b9a91d0fd4a658858a88c851866d0ffcfad57193e04"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 745, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+08 4156
+ADA
+23/00072
+Мля 23
+H
+COME IN PLS I HAVE TRF FORU
+ENO 001
+NC149 XYC249JBA161
+•RR RJEDEN
+DE RJWPJB 22B
+R 222130Z
+EM OIC FLT 1-C 4602D AISS NORTON AFB CALIF
+TO COMDR 4602D AISS ENT AFB COLO SPR COLO
+/UN C L A S S IF I E D/AISIC 041 PD REF TT MSG 2701 TAC CD0263
+AND TELEPHONE CALL FROM AMN DE RUDDER CMM AISS 21 MAR 56 PD TELESCOPE
+15 POWER PD OTHER OBSRS CMM MR AND MRS A
+В СМИ
+- CMM TORRANCE CMM CALIF PD MARINE AND NAVAL ING CENTER AT SANTA
+ANNA CMM CALIF STATES BLIMP WAS ALOFT AT TIME OF SIGHTING PD
+THROUGH TELEPHONE CONVERSATION WITH WITNESSES AND ABOVE INFO CMM THIS
+OFFICER BELIEVES SIGHTING WAS CAUSED BY BLIMP PD IS ANY FURTHER ACTION
+REQUESTED OF THIS UNIT QUES MX END
+22/2312Z-MAR RJWPJB

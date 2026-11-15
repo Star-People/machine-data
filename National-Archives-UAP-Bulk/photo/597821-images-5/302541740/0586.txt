@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:54:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1764127, "source_ctime_ns": 1793389543737219765, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541740/0586.jp2", "source_mtime_ns": 1785808263000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541740/0586.jp2", "source_sha256": "984d2e38347bfb22d11630164c30816446a6021b9ffbd045563abc3bd74d8b58"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 492, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DAT: • TIME GROUP
+4 August 65 04/12472
+1. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+4 Minut es
+6. TYPE OF OBSERVATION
+Ground - Visual
+COURSE
+2. LOCATION
+Sacramento, California
+10. CONCLUSION
+ATLAS MISSILE
+Atlas Missile launched from Vendenberg AF3 at 1243Z
+BRIEF SUMMARY AND ANALYSIS
+tall of light, silver in color with long vapor trail travellin
+NA .
+Estimated altitude of 5,000 ft.'
+8. PHOTOS
+• Yes
+9. PHYSICAL EVIDENCE
+• Yes
+XX No
+FORM
+FTD SEP 63 0-329 (TDE)
+used.

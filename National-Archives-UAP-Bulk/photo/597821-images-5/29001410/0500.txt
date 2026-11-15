@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:27:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5736832, "source_ctime_ns": 1793388511815777052, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001410/0500.jpg", "source_mtime_ns": 1785808138000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001410/0500.jpg", "source_sha256": "37ea4fe0bec2c4d40e0183e01a7422aa3741c7c1e0ac15b94d90a67f321ee3a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1176, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+24 June 1963
+3. DATE-TIME GROUP
+Local 2040 Local
+GM T 25/0240Z
+5. PHOTOS
+Versailles, Missouri
+TYPE OF OBSERVATION
+B Ground-Visual
+• Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+· No
+7% LENGTH OP OBSERVATION
+minutes
+Civilian
+8. NUMBER OF OBJECTS
+one
+10. BRIEF SUMMARY OF SIGHTING
+Round white object would get bright and then
+lim. Appeared as a light. Initial observation
+at 60 deg elevation at estimated altitude
+above 60,000 It.
+Object in sight for 20 minutes
+during which time it would speed up and slow
+down and followed a zig-zag path over the horizon
+(behind trees) to the North. Observed through
+Binoculars at dusk, some daylight remaining.
+Information received by letter and subsequent
+telephone call.
+12.
+CONCLUSIONS
+Was Balloon
+Probably Baltoon
+Possibly Balloon
+•
+Was Aircraft
+Probably Aircraf
+Possibly Aircrat
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+• Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+Zig Zag, Variable
+11. COMMENTS
+Description of the sighting indicates
+a balloon observation. Flight and all
+essential data conform with this
+analysis.
+ATIC FORM 329 (REV 26 SEP 52)

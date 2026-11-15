@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:23:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11702965, "source_ctime_ns": 1793355423055013474, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0004.jpg", "source_mtime_ns": 1785564452000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0004.jpg", "source_sha256": "22d0813d86c7dc73631ae91a5ea2329ba40b27dd0b49dc61b19f70c68471166d"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 890, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Contents
+1. INTRODUCTION by Robert M. Slavin, AFCRL
+2. BALLOON CAPABILITIES AND FUTURES by Thomas W. Kelly
+3. STRESSES AND CONFIGURATIONS OF NATURAL-SHAPED
+BALLOONS by Justin H. Smalley
+4. EXPANDED USE OF INFLATABLES THROUGH NEW MATERIALS
+by Richard J. Slater
+5. REACTION JET AZIMUTH CONTROL SYSTEM FOR GONDOLA
+STABILIZATION by James G. Nelson
+6. STATUS OF METEOROLOGICAL SOUNDING BALLOONS
+by Robert Leviton
+• BALLOON-BORNE SAMPLING PROGRAM IN THE STRATOSPHERE
+›v Arthur A. Andersor
+8. THE AFCRL HIGH ALTITUDE ATMOSPHERIC OPTICS PROGRAM
+by Robert B. Toolin
+• ORIENTATION OF BALLOON-BORNE INSTRUMENTS
+›y Russell A. Nide
+10. BAL-AST DAYLIGHT TRACKING SYSTEM by Murk Bottema
+1. THE CASE FOR MANNED BALLOON ASTRONOM
+. Allen Hynel
+12. HIGH ALTITUDE SURVEY BALLOONS by Arthur Dewey Struble, Jr.
+13. CAPABILITIES OF CAPTIVE BALLOON SYSTEMS
+by James A. Menke
+29
+41
+67
+83
+91
+113
+131
+141
+157
+169
+183

@@ -1,0 +1,93 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T01:23:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5115898, "source_ctime_ns": 1793368605311395802, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0347.jpg", "source_mtime_ns": 1785688707000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0347.jpg", "source_sha256": "9c203ec9cb95a22df7bf62abffd643095c6cbd16c9a3ef59a4df9ceef8d2727b"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 1133, "method": "ocr", "page": 1, "variant": "plain-vision"}
+9578 31
+DATE LOCATION
+Elmhurst, Illinois
+Midwest Flap
+9580
+H1931-5203
+21 - 31 JULY 1965 SICHTINGS
+OBSERVER
+Foran
+Separano
+(FOLDER)
+Multiple RADAR PHOTO
+EVALUATION
+1. Astro (METEOR)
+2. Astro (MOON)
+Other (INVERSION EFFECTS
+DATE
+21
+21
+579
+22
+23
+23
+24
+24
+24
+25
+25
+es
+es
+26
+27
+27
+27
+27
+27
+28
+28
+29
+29
+30
+30
+LOCATION
+Hingham, Mass
+Greytown, South Africa
+Congonhas, Brazil
+Columbia River Basin, Wash.
+San Pablo, Brazil
+Ubeda, Spain
+Helsinki, Finland
+Brampton, England
+Salem, Oregon area
+Lima, Peru
+Andalusia, Spain
+Terceira Island, Azores
+Diamante, Argentina
+Caracas, Venezuela
+- Bloomingburg, N. Y.
+Carnarvon, Australia
+San Sebastian, Spain
+Brazil
+Lina, Peru
+Alicante, Spain
+chincheros, Peru
+Maracaibo,
+Venezuela
+Layton, Ohio
+Lima, Peru
+Oregon, Washington area
+Vila de Beluca, Chile
+Comana, Venezuela
+Sintra, Spain
+Goonumola, New South Wales
+Benton City, Washington
+Sydney, Vebraska
+Oklahoma City, Okla.
+Me. Airy, N. C.
+N. Weymouth, Mass.
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+Fowler (NICAP RPT)
+ews Clipping
+EVALUATION
+Shaver (Ltr)
+News Clipping
+MR (Lt Harriman)
+News Clipping
+Parries (Ltr & News Clipping)
+Fowler (NICAP RPT)

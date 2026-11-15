@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:20:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9259180, "source_ctime_ns": 1793363354184615399, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0082.jpg", "source_mtime_ns": 1785684911000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0082.jpg", "source_sha256": "33a05f664d76cb1eaae9ab1afb05cdd3c75a829380b2d90caafef86cc85fcf82"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1266, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETAILS:
+This investigation was requested by the Air Provost Marshal,
+Brookley AFB, Alabama who advised that WEALTHY FILES, Negro janitor at
+Brookley Arb, Alabama had reported sighting an unconventional aircraft fly-
+ing over the base at approximately 0704 hours, 15 December 1950.
+AT BROOKLEY AFB, ALABAMA
+2. Information obtained from WEALTHY FILES, Negro janitor at
+Brookley AFB, Ala.,
+concerning his observations is listed below in accordance
+vith AFCSI Letter No. 85, dated 8 September 1950:
+a.
+DESCRIPTION:
+(1)
+SHAPE:
+Similar to airplane fuselage but with more
+upsweep on underside toward nose and tail.
+(2) SIZE:
+Approximately 30-40 feet long.
+(3) COLOR: Dark.
+(4) NUMBER: One.
+(5)
+AERODYNAMIC FEATURES: Unbroken contour. No wings,
+engines, cowling, control surfaces, nor windows
+(6)
+TRAIL OR EXHAUST: None visible.
+(7) PROPULSION SYSTEM: None visible.
+(8) SPEED: 180-200 miles per hour.
+(9) MANEUVERS: 90 degree climbing turn to right.
+(10) MANNER OF DISAPPEARANCE: Enveloped by fog.
+b. TIME SIGHTED: Approximately 0704 hours, 15 December 1950.
+c. LENGTH OF TIME OBSERVED: Approximately two seconds.
+d. METHOD OF OBSERVATION: Visual. Observer does not wear
+glasses.
+(Observer read 3/16" printing at distance of
+10 feet)
+Declassification Authority: NND 923007
