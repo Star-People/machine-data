@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:32:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6649663, "source_ctime_ns": 1793383829839086795, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988017/0155.jpg", "source_mtime_ns": 1785748333000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988017/0155.jpg", "source_sha256": "14da109e1679e16ff7a2c224f9c9d8440ad586c1c196e0c49dd68dabc1c4c40d"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 575, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SS EXILONA
+DATE
+29 Jily, 1260
+3. DATE-TIME GROUP
+Local.
+GMT? 1901ął
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+10. BRIEF SUMI
+RY OF SIGHTING
+ATIC FORM 329 (REV 26 SEP. 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Atlantic
+Ucean
+4. TYPE OF OBSERVATION
+O Ground-Visual
+• Air Visual
+6.
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+•
+Perily Balcon
+Was Aircraft
+Probably Aircrat
+ossibly Aireral
+Was Astronomicol
+•
+Probably Astronomical
+Possibly Astronomical
+D.: Other
+_Missil
+Insufficient Date for Eveluatior
+Unknown
+11. COMMENTS
+est
+2773

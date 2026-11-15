@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:01:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3538212, "source_ctime_ns": 1793372178916002401, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941710/1272.jpg", "source_mtime_ns": 1785688629000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941710/1272.jpg", "source_sha256": "80472dd2b214db395077a064e7ac67ab084ab33465871f29609046733ea02e64"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 742, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ROUTING
+JOINT MESSAGEFORM
+ACE ABOVE FOR COMMUNICATIONS CENTER ONLY
+FROM: (Originator)
+TO:
+ATTO
+CO 146FTR BAR VG
+GEORGE APS CALTFORNIA
+TELETYES
+DATE-TIME GROUP
+220000 19T02
+PRECEDENCE
+FOR:
+L BOOK MESSAG
+L MULTIPLE ADDRESS
+IDENTIFICATION
+ORIGINAL MESSAGE
+• YS
+REFERS TO MESSAGE
+CLASSIFICATION
+_ NO
+INFO:
+FROM: AFOIN ATIAL 5-1E:
+UNCLASSIFIED
+Re your nessage 1 May 1952 re unidentified flying object vould like following
+information:
+1. Weather and winds aloft.
+2. Balloon raleases in area.
+3. A/C in vicinity.
+DOWNCRADED AT & YEAR INTERN
+DECLASSIFIED AFTER 12 YEA
+DOP
+UNCLASSI
+PASES
+DRAFTER'S NAME (and signature, when required)
+Is 1. K. Rothatain
+SYMBOL
+FORM
+DD 10CT 49 173
+WHICH MAY BE LSED.
+CER'S SIGNATURE
+TELEPHONE
+OFFICIAL T
+Mucine tenera

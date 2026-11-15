@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:53:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1015995, "source_ctime_ns": 1793355925919451479, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0004.jpg", "source_mtime_ns": 1785564560000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0004.jpg", "source_sha256": "7a4e76558d5b2fb14efc998b3fbcd7949e11932038513d7b471d1948b77d4f82"}
+
+===== PAGE 1 =====
+{"alpha_words": 161, "chars": 1113, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FOREWORD
+On 24 August 1957, Lieutenant GeneralSamuel E. Anderson,
+Commander of the Air Research and Development Command of
+the UnitedStates Air Force, pinned a Distinguished Flying Cross
+upon the uniform of Doctor (Major) David G. Simons. For
+Simons, Chief of the Space Biology Branch of the Aeromedical
+Field Laboratory at the Air Force Missile Development Center,
+the award for personal heroism and outstanding scientific ac-
+complishment represented recognition for progress in a pro-
+gram initiated at the New Mexican scientific and engineering
+installation more than ten years before. For Anderson and
+other responsible officials of both the Command and the Center,
+the presentation of the coveted medal documented victory in
+another phase of man's efforts to explore the limitless reaches
+of the vertical frontier and to perfect a human capability for
+operating within interplanetary space beyond the earth's at-
+mosphere.
+This ceremony of decoration stimulated an awareness of
+the desirability of examining the history of Air Force participa-
+tion in space biology research. A serious study of the origins

@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:47:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18627695, "source_ctime_ns": 1793355694592367165, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0132.jpg", "source_mtime_ns": 1785564504000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0132.jpg", "source_sha256": "fedc6ec9450570508829d1fd5c74090bc64fb2c321673b4604f73275f868d8bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 568, "chars": 3933, "method": "ocr", "page": 1, "variant": "plain-vision"}
+250
+3.5 Outside Container
+The contents of the instrument package--vented wet-cell batteries, foam
+insulation with a large effective surface area and a frost-laden heat sink--represent
+a copious source of moisture. Since we prefer not to use a long sampling tube, for
+reasons previously given, it is necessary to seal these sources of contamination
+from the vicinity of the sample inlet. This is done by enclosing the components in
+a sealed stainless-steel container which is vented through a zeolite adsorber.
+3.6 Long Load Lines
+In order to sample air which is uncontaminated by the balloon, parachute, and
+other flight equipment, the hygrometer package should be located at a considerable
+distance from all other gear. Relatively small, lightweight instrument packages
+using inflight recording lend themselves readily to suspension far below other
+equipment. Packages which have enough battery and heat-sink capacity for long-
+duration flights, or which are not electrically independent, must be located within,
+say, thirty feet of the load bar. In this case, reliable data are assured only during
+descent or after floating long enough for clean-up to occur.
+3.7 Sample Inlet Tubes
+Since we cannot be assured that data obtained using long sampling tubes will
+be free from contamination errors, short inlet tubes are normally used. On the
+Contamination Study flights (Contract AF 19(628)-3857) however, we plan to mount
+one hygrometer package on top of the balloon. To obtain a low center of gravity the
+package must be mounted immediately above the valve assembly. During ascent
+this package, which is in an aerodynamically unfavorable location, may be in con-
+taminated surroundings. For this reason, air will be taken in through a ten-foot
+vertical sampling tube, and the possibility of contamination from the tube itself
+will be minimized by using small-diameter (3 inch I.D.) tubing and a high flow
+velocity.
+3.8 Performance Testing
+In addition to life testing under simulated environmental conditions, each in-
+strument is subjected to a performance check in the Stratospheric Moisture
+Simulator. For this purpose we use the setup pictured in Figure 11. The hygrometer
+head and fusion sink to be tested are enclosed in a bell jar, with the controlled-
+humidity jet entering through the baseplate. The inlet tube of the hygrometer samples
+air from within this jet, and we can make a performance check with includes cali-
+bration at a low frost point (the heat-exchanger coils attain a temperature of -76°C
+with a dry-ice and alcohol bath).
+Figure 11. Hygrometer Test Fixture
+3.9 Instrument Packages
+Figure 12 depicts the flight train proposed for a forthcoming flight in the
+Contamination Study program. On top of the balloon is a package housed in an
+aluminum container and mounted on a six-foot diameter stabilizing platform.
+Figure 13, a photograph of this package with the cover removed, shows the hygrom-
+eter head, heat sink and relief valve, vacuum pump, hygrometer electronics, and
+battery power supply. The inlet is a ten-foot tripod-supported stainless-steel tube.
+Suspended directly below the load bar is the main hygrometer package, shown
+in Figure 14. This package contains two hygrometers and associated equipment,
+and includes two in-flight recorders which monitor both hygrometer outputs, heat-
+sink temperature, interior temperature of the package, free-air temperature, and
+the hygrometer output and fusion-sink temperature from the top-mounted package.
+This main unit is housed in a stainless-steel container.
+A third hygrometer package is lowered from a reel on a 2000-foot load line
+terminated with 30 feet of stainless-steel cable above the package. This unit is of
+the same design as the ones which will be used by AFCRL for vertical soundings in
+their Stratospheric Humidity program (Contract AF 19(628)-4206). Figures 15 and
+16 show the layout of components within the stainless-steel outer container.

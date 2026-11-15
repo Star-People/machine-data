@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:10:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1154864, "source_ctime_ns": 1793355920319992096, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0018.jpg", "source_mtime_ns": 1785564559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0018.jpg", "source_sha256": "bf5d5eb7166e30ee7c3b996c40db3d0e2d4f06945a1b552a164e9624caee7ac1"}
+
+===== PAGE 1 =====
+{"alpha_words": 242, "chars": 1504, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10
+given point during the run. Unfortunately, the jettisonable
+windshield inflicted quite a bit of damage on chimpanzees, causing
+the death of more than one, before this method finally proved
+17
+its value.
+During October Colonel Stapp went to California,
+where he performed an autopsy on a Northrop test pilot believed
+to be the first person who had actually ejected from an aircraft
+at supersonic speed. For his own research on human tolerances
+Colonel Stapp was interested to learn whether the pilot had
+suffered any major harm from windblast, tumbling, and decele-
+ration. He could find none, concluding that the fatal injuries
+were due to being struck by the tail surface of the plane.
+Much of the activity of the Aeromedical Field Laboratory in
+the autumn of 1954 consisted of preparations-¿including chimpanzee
+19
+control runs at 600 miles an hour and faster
+for the most
+memorable of all Colonel Stapp's rocket sled rides, the one of
+10 December 1954% This test was designed to explore both
+deceleration and windblast, but there was no attempt to simulate
+abrupt onset of wind pressure. The jettisonable windshield was
+still unreliable, and the swinging-door system used in August
+weighed too much for the sled to attain desired velocity. Hence
+no windshield at all was used. Colonel Stapp merely wore the
+helmet he had used in August, completely covering his head, and
+saw to it as before that his arms and legs were well secured
+against flailing, which was one effect of windblast already known

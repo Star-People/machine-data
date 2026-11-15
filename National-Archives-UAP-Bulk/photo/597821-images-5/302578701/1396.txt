@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:07:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 783287, "source_ctime_ns": 1793393550735587319, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578701/1396.jp2", "source_mtime_ns": 1785808334000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578701/1396.jp2", "source_sha256": "e30312db63218c2c57bbac7ea046503071280ee373d56e90f2540bd7c2845e88"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 878, "method": "ocr", "page": 1, "variant": "plain-vision"}
+11 Qui B9
+A961 63S
+23 SEP 1963
+TDPD (UZO)
+It Colonel Quintanilla, Jr/70916/ber/23 Sep 63
+UPD Observation, 11 August 1963
+PDPT (UFO) OFFICIAL READING FILE
+ound Miage, New York 10576
+Ve bave been unable to identiry tha stimulus for your l1 August 1963
+unidentified flying object sighting. Inquiries vere made to the
+police departsents of several cities and towns along what you indiented
+was the probable flight path or the object. Io one reported anything
+unusual to these police departments.
+No pilots reported seeing anything
+unusual for the 1lth to the Volunteer Flight Officer's letsork, and no
+meteors vera reported to the American Meteor Society for the afterncon
+of the ilth.
+Therefore your sighting is being carried as unidentified
+in our files.
+MOTOR SUITANTIA, Jr, LA Colonel, USAF
+Chie 2, Aerial Phenomena Office
+Aerospace Technologies Division
+Production Directorate

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:18:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3458273, "source_ctime_ns": 1793371470461623803, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938410/1116.jpg", "source_mtime_ns": 1785688822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938410/1116.jpg", "source_sha256": "a670bb6e576a427336d528abb4ee7a824a792b0c27558dd7134b7e2de53f3963"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1085, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ESL 15082
+TiTY
+UNCLASSIFIED
+HEADQUARTERS
+SIGNAL CORPS ENGINEERING LABORATORIES
+FORT MONMOUTH, NEW JERSEY
+0304
+REFER TO SIGEL-RMB-5
+Project 172B
+ADDRESS REPLY TO
+Commanding General
+SUBJECT:
+Report of Flying Saucer Sighting
+2: 00V
+TO s
+Chief, Engineering and Technical Division
+Office of the Chief Signal Officer
+Depertment of the Army
+Washington 25, D. C.
+Attention: SIGGG-M
+The attached report obtained from the Massachusetts Institute
+of Technology Weather Radar Research Group under Contract DA-36-
+039 sc-32038 with the Signal Corps Engineering Laboratories, is for-
+warded for your information and possible transmission to interested
+parties within the U. S. Air Force. Massachusetts Institute of
+Technology Weather Radar Research Group has been requested to treat
+this matter as "Restricted, Security Information" in accordance with
+AR 380-5. It is understood that this communication constitutes the
+first formal report on this occurrence.
+12 Inel.
+1. Cy of ltr fm MIT
+dtd 6 Oct '52
+2. MIT map dtd 21
+Sep 150, 0950E
+EDWIN R. PETZING
+Brigadier General, USA
+Commanding
+UNCLASSIFIED

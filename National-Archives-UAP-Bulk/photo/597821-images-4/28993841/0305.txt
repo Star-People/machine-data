@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:38:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8438039, "source_ctime_ns": 1793385649733123582, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993841/0305.jpg", "source_mtime_ns": 1785748133000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993841/0305.jpg", "source_sha256": "66baeb9aade5fc1f37f9b9e7d8f60d2b164e3cbfa29d40a42129703209246476"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 991, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly
+Balloon
+J Aug 61
+3. DATE-TIME GROUP
+Local _
+2250
+0403502
+GM T.
+5. PHOTOS
+I. TYPE OF OBSERVATION
+Ohac
+Xia Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Rodar
+• Air-Intercept Radar
+• Yes
+Nas Aircra
+Probably Aireraf
+Possibly Aircratt
+DE Was Astronomical JUPITER,
+Probably Astronomica
+•
+Possibly Astronomical
+7. LENGTH OF OBSERVATION
+Civilian
+3. NUMBER OF OBJECTS
+9. COURSE
+Other
+Insufficient Data for Evaluatio
+Unknown
+50 min to 3 hrs.
+10. BRIEF SUMMARY OF SIGHTING Shiny light 7*
+W
+times
+11. cOMMENTS Objt was observed to SE, and
+brighter than stars in SE. In same general ar
+ee remained in same general area, however
+moving to W. Red, green and yellow color.
+moving toward W slowly. Planet Jupiter
+was found to be in position reported, and
+it will appear very similar to that re-
+ported.
+It is therefore concluded that
+objt reported was probably planet Jupiter.
+ATIC FORM 329 (REV 25 SEP 52)

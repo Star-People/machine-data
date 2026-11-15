@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:54:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1294023, "source_ctime_ns": 1793388866751631128, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533728/00467.jp2", "source_mtime_ns": 1785808021000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533728/00467.jp2", "source_sha256": "fb86e1fed8cd843e9b02c4835bab34420898637094eb2aae7f5441c74ac3a035"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 488, "method": "ocr", "page": 1, "variant": "plain-vision"}
+22 January 1965
+Dear Mr.
+The Air Porce cannoc identity a photogroph
+wichout the date or location of the sighbing and
+the name of the photographer who book the film.
+There are no unidentifled cases in Air Force
+Piles which were aubmitted with photographio
+evidence.
+All photographs submitted have been
+identified as known or conventional objects or
+hoaxes.
+Sincerely,
+MASTON M. JACKS
+MAJOr, USAR
+Public Information Division
+Ofrice of Information
+Mr.
+84 Summer Avenue
+Newarkc 4, New Jergey

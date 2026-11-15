@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:18:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3201227, "source_ctime_ns": 1793384200200344225, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989452/0685.jpg", "source_mtime_ns": 1785748010000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989452/0685.jpg", "source_sha256": "fbd05fa5c1c993ab67796b81ca5de8f7c4e8ed1680dc16acc5f2e6e099bab855"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 405, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJAOKA 94
+B. (1) 15 DEGREES TO 20 DEGREES LEVATION 297 DEGREES AZIMUTH
+(2) 15 DEGREES TO 30 DEGREES ELEVATION 115 DEGREES AZIMUTH
+(3) STRAIGHT STEADY COURSE FROM WNW TO ESE
+(4) DISAPPEARED BERIND CLOUD BANK BOTH DATES
+(5) FOR 45 SEC ON 28 SEP ESTIMATED. FOR 60 SEC ON 29 SEP
+ESTIMATED:
+C. (1) GROUP -- VISUAL
+(2) N/A
+D. (1) 10157 28 SEP - 99502 29 SEP
+(2) DUSK
+BT
+30/0719Z SEP RJAOKA
+UNCLAS EFTO

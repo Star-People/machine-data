@@ -1,0 +1,91 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:32:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6408726, "source_ctime_ns": 1793368627420097429, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0419.jpg", "source_mtime_ns": 1785688709000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0419.jpg", "source_sha256": "d11e84a884ff91a5ecd762519703e57f96f398484a92b89c429aca24cf9cf961"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 1275, "method": "ocr", "page": 1, "variant": "plain-vision"}
+8 - 15 MARCH 1967 SIGHTINGS
+8
+9
+9
+9
+9
+LOCATION
+Gladatone, Michigan
+Grosse Point Wood, Michigan
+Holland, Missouri
+Denver, Colorado
+Tempo, Arizona
+Denver, Colorado
+Dayton, Ohio
+Denver, Colorado
+Colorade Springs, Colorado
+Peterson, Minnesota
+Lothridge, Ohio
+Braza, Iowa na (CASE MISSING)
+Onawa,
+Auburn, Pennsylvania
+Osceola, Arkansas
+Alexandria, Virginia
+Junaluska, North Carolina
+Brooklyn, New York
+Manistee, Michigan
+Kibleen, Texas
+Les Vegas, Nevada
+Torrance, California
+EVALUATION
+Astro (VENUS)
+BALLOON
+AIRCRAFT
+Astro (VENUS)
+BALLOON
+Astro (METEOR)
+Other (GROUNDLIGHTS)
+Astro (METEOR)
+Astro (METEOR)
+INSUFFICIENT DATA
+INSUFFICIENT DATA
+AIRCRAFT
+UN IDENT IF LED
+AIRCRAFT
+AIRCRAFT
+INSUFFICIENT DATA
+Sighting: Other (HOAX)
+Photo: Other (HOAX)
+AIRCRAFT (W/AFTERBURNER)
+Astro (VENUS)
+Astro (SIRIUS)
+1. Astro (VENUS)
+2.
+AIRCRAFT
+Sighting: Other (CONFLICTING
+DATA)
+CONFLICT ING
+DATA)
+STARS/ PLANET
+FALSE
+TARCET
+Tillamook, Oregon
+Augusta, Georgia
+Corvallis, Oregon
+Rochester, Minnesota
+Lexington, Missouri
+BALLOON
+CONFLICTING
+DATA
+(CONFI
+ICT
+ING
+DATA)
+Eugene, Oregon
+Corvallis, Oregon
+Green, Kentucky
+Souix City, Jowa
+Madison, Wisconsin
+Junction City, Oregon
+Macon, Gaorgin
+Hilbert, Wisconsin
+Sebeka, Minnesota
+Dayton, Ohio
+Springfield, Missouri
+Tuscon, Arizona
+Dayton, Ohio
+BALLOON

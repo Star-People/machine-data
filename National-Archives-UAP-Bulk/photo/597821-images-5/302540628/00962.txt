@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:53:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1019623, "source_ctime_ns": 1793389426003184209, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540628/00962.jp2", "source_mtime_ns": 1785808551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540628/00962.jp2", "source_sha256": "cb862c56d33ab4a4752eb4d7819d52d83e29a90f427bd5d8abaf5d3dc46f0659"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 610, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Mrs. Hunt/man/SAFOICC/72842/27 Sep 65
+SEP 2 8 1965
+Dear Miss
+whis is in reply to your jetter regarding an aerial opject
+mich you observed on 23 Jaly 1965.
+The object vhich yry observed has been evaluated as a sat-
+allite. We ars mable to identify the specifie satellite that
+you obeerved. There are more than 30 satellites and satellite
+components visible to the naked eye. > Thank you for reporting
+your obeervation to the Air Force.
+Sincerely,
+JOSE PE SPAULDING
+Lt. Calonel, USAF
+Chief, Civil Branch
+Community Relations Division
+Office of In'ommation
+Visa
+Washington
+-MATED 3/ (Office Symbol,
+SAR-OT C
+Date)

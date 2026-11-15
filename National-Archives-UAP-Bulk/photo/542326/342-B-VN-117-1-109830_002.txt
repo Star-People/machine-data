@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:33:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6944880, "source_ctime_ns": 1793368462794173624, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-VN-117-1-109830_002.tif", "source_mtime_ns": 1785566144000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-VN-117-1-109830_002.tif", "source_sha256": "700ee88a766bccfa467ad0e134bac7a716f14ea7042ba52a27a7188b37eeb3ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 285, "method": "ocr", "page": 1, "variant": "plain-vision"}
+109830 USAF - The Rockpile prisoner of war camp
+where American POWs were formerly held captive by
+the North Vietnamese.
+OFFICIAL DEPARTMENT OF DEFENSE PHOTOGRAPH
+WASHINGTON, D. C.
+31 MAY SelF
+CONTROL NO: 73¿040 NEG: 4x5 cy bwn
+FILED:
+AIR FORCE ACTIVITIES (Vietnam)
+PRISONS & PRISONERS

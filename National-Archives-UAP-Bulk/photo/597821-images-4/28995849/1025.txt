@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:22:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4093721, "source_ctime_ns": 1793386357075113899, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995849/1025.jpg", "source_mtime_ns": 1785747851000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995849/1025.jpg", "source_sha256": "3ecfb7b514adf38e4716e7a9439691b9fb2eaf2e4f70cabf4d9c3958cc00118a"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 611, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATA PROCESSING DIVISION
+CLIMATIC CENTER, USAF
+Air Weather Service (MATS)
+Asheville, North Carolina
+REFIX TO
+ATTN OF: COOPD
+SUBJECT: Radiosonde Data for Panama City Area
+23 Jan 1962
+TO: Aerospace Technical Intelligence Center
+ATT: APCT! 482K, Sg0. 10007
+right-Patterson APB, Ohio
+Reference: Your telephone request 0930 EST, 12 Jan 1962.
+Ne are sending copies ef adiabatic charts for the Panana Ci
+lorida area as follows:
+Eglin A
+Cape San Dias
+20-22 Doc 61
+20-21 Dec 61
+Observations not received fron Ca
+e San Blas for 22 Dec 1961.
+E DIRECTOR
+DECOSTER
+Daba Processing Division
+At ch
+Photocopies/Adiabatic Charts

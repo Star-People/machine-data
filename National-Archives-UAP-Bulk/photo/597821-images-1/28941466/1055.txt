@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:21:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3929095, "source_ctime_ns": 1793372130785257468, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941466/1055.jpg", "source_mtime_ns": 1785688767000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941466/1055.jpg", "source_sha256": "b01c613268f74047daf36e958265680c5deb3b88ed24a9e109aa9865f1ad58e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 654, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+19 Apr 52
+3. DATE-TIME GROUP
+Local
+- 1050
+10/1550
+GM. T.
+5. PHOTOS
+• Yes
+O No
+7. LENGTH OF OBSERVATION
+28 minutes
+10. BRIEF SUMMARY OF SIGHTING
+Identified as friendly a/c.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Benjon, Pennsylvania
+4. TYPE OF OBSERVATION
+• Ground• Visua!
+D Ground- Roder
+U Air- Visual
+6. SOURCE
+• Air-Intercept Radar
+Radar Operators
+8. NUMBER OF OBJECTS
+COURSE
+3
+E
+11. COMMENTS
+12. CONCLUSIONS
+Vos Balloon
+Probably Balloon
+D
+130
+D
+Possibly Belloon
+Wos Aircroft
+Probobly Aircroft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomicol
+Other
+Insufficient Data for Evalu
+Unknown
+ATIC FORM 329 (REV 26 SEP 52)

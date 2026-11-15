@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:11:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1538402, "source_ctime_ns": 1793356324950288988, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0125.jpg", "source_mtime_ns": 1785564674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0125.jpg", "source_sha256": "8fd1a4dc05a22bc295d3536eb25086989edf551ba9ad47491ee6527215a4f4ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 268, "chars": 1944, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECRET
+Observations of the upper atmosphere ("mother-of-pearl clouds")
+" and theoretical conclusions lead to the result that, if the wind
+• velocity is high enough, the influence of a terrestrial obstruction
+may be effective up to 100,000 ft.
+Complementary Contracis: None
+Project title: A plication of Mathematical-Fhysical Methods to
+Forecasting
+Froject scientist: It. I. D. Thompson
+Summary of In-Laboratory work:
+To continue theoretical investigati ns originally begun at the
+Meteorology Froject of the Institute for Advanced Study, Princeton,
+W.J., and to complement the present refearches of that Froject, this
+Laboratory is planning computational routines for predicting the day-
+to day changes in large scale, one-dimensional, "quasi-barotropic"
+flow. Preliminary calculations of the Princeton group, with whon
+chis Laboratory is in close contact, show unusual promise, inasmuch
+as the predicted dispersion and stability, as well as speed of
+propagations, were of the correct sign and magnitude. Anticipating
+that high-speed computing machines will soon be available for numerical
+weather prediction, the Laboratory will also undertake to tabulate the
+"Green's Functions" which occur in the Fourier Integral solutions
+corresponding to small arbitrary initial disturbances in large scale,
+three dimensional, "quasi-barotropic" flow.
+In connection with the program outlined above, the stability of
+arbitrarily non-uniform laminar flows to small pulses will be studied
+in an attempt to account for the concentration of atmospheric wave
+energy within a few, relatively narrow bands of the spectrum.
+Complementary Contracts: None
+(It is proposed that support be extended
+to the Inspitute for advanced study)
+8. Froject title:
+' The search Weather Station
+Froject scientist: Ir. P. L. Frank
+Summary of In-Laboratory work:
+Owing to slow supply schedules and the shortage of adequately
+SACRET
+19
+This document is part of an unclassified series

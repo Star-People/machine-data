@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:52:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 934279, "source_ctime_ns": 1793356263805049944, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0060.jpg", "source_mtime_ns": 1785564654000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0060.jpg", "source_sha256": "6e5ae40570323851b2a601e424089bf580ed6567ed69402a2a89c8196fc4f806"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 855, "method": "ocr", "page": 1, "variant": "plain-vision"}
+19th Weather Squadron
+АРО #606, c/o Postmaster
+Miami, Florida
+June 9, 1943
+Before the undersigned, authorized by the 1l4th Article of War to
+administer oaths of this character personally appeared Captain Henry A.
+Mooney, 0483719. Air Corps, who after being duly sworn, deposes and says!
+iOn May 29, 1943, I, the undersigned, instructed 1st It Janes B. Breece,
+0562605, A.C., to notify the Base Weather Officers at Kano and Aden that
+some boxes of radiosonde equipnent was scheduled to arrive shortly at each,
+also that these boxes would not be opened until the arrival of technically
+trained personnel to install same. On May 30, 1943, I asked It Breece if
+he had notified these officers as requested and his reply was "Ihey have
+been notified"."
+SART A
+temy co oney
+Captain, Air Corps.
+Man M. Strattm
+MAX M. STRATTOM
+Ist Lieut., Air Corps
+Summary Court.

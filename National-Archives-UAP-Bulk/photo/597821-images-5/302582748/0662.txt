@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:13:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1725461, "source_ctime_ns": 1793393996397614423, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582748/0662.jp2", "source_mtime_ns": 1785808151000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582748/0662.jp2", "source_sha256": "c465252067c28968b38a80b4fe3858a3306954ddda16c0ef08f192c76d6132e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 63, "method": "ocr", "page": 1, "variant": "plain-vision"}
+and
+P
+→ lease he
+fran
+arid
+wani
+Trat, me ou
+beat arouna t
+outa

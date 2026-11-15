@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:24:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4656702, "source_ctime_ns": 1793381380739174585, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980074/00146.jpg", "source_mtime_ns": 1785700890000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980074/00146.jpg", "source_sha256": "499db25476a2e36326d6a724289a2d5ddb8362ac5cb9a5d78c80b7e189253724"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 551, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PP RJEDSQ
+DE ROEMBJ 148A
+P 2911082
+FM CMDR 2047TH AACS MAXWELL AFB ALA
+TO RJEYBN/CMDR EASTERN AIR DEFENSE COMMAND STEWART AFB NY
+RJEDEN/CMDR AIR DEFENSE COMMAND ENT AFB COLARADO SPRINS
+COLORADO
+RJEDSQ/CMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON
+APBOHIO
+RJEZHQ/DIRECTOR OF INTELLIGENCE HEADQUARTERS USAF WASHINTON
+25 D.C.
+RJESKB/COMDR 35TH AIR DIV (DEFENSE), DOBBINS AFB
+MARIETTA, GEORGIA
+BT
+10
+-• ROUND
+B. SIZE OF PEA
+WHITE FLOW
+D. ONE AT FIRST THEN BROKE INTO SEVERAL PIECES
+E. NO PARTICULAR FORMATION
+F. NONE
+G LONG TAIL
+H. NONL
+I. NONE

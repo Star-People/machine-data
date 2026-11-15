@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:25:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4759078, "source_ctime_ns": 1793382849295530065, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985657/0898.jpg", "source_mtime_ns": 1785748358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985657/0898.jpg", "source_sha256": "37aedfbad9b567ca6143cec47e007997a775c651b55c18fd5f4950bd2b7a1052"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 324, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SUBJECT:
+70:
+AIR TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+AFCIN-4E2
+UFO Sighting
+SAFOI-3d (Maj L. J. Tacker)
+Suggest questionnaire be forwarded to Mr.
+FOR THE COMMANDER:
+BILIP G. EVANS
+Colonel: USAF
+Deputy for Sciences and Components
+1 Atch:
+Cy 1tr 9 Jan 60 fr
+2 7 JAN 1960

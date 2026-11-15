@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:59:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2788126, "source_ctime_ns": 1793360088976812579, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-045-0001.tif", "source_mtime_ns": 1785681625000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-045-0001.tif", "source_sha256": "abed2a92d323c2badb5290f345ae0d738baeb704d520c4932c27fad39969a2e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 674, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AlSOC - Copy
+Declassification Authority NND 923007
+6 September 1956
+ralo, New Iork
+Dear Hrsa
+This organization is responsible for analysis and preliminary
+investigation of unidentified flying object sightings within the
+boundaries of the United States. We appreciate your cooperation in
+reporting your sighting; however, additional information is needed
+for analysis of this sighting.
+The inclosed ATIC Form No. 164 (U.S. Air Force Technical Infor-
+mation Sheet) is forwarded for your convenience in supplying this
+squadron with the needed information. Again our thanks for your
+cooperation.
+Sincerely,
+2 Incls
+1. ATIC Form 164
+Rtn Envelope
+JOHN D. TAYLOR JR.
+USAF
+Adjutant

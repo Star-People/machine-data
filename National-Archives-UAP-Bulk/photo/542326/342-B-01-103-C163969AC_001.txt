@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:50:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 84007232, "source_ctime_ns": 1793368387103656574, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-C163969AC_001.TIF", "source_mtime_ns": 1785566088000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-C163969AC_001.TIF", "source_sha256": "9fc47fad83c7648e02ea8a330015a08da7a06bdac177e42af500b4f03a46103e"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 161, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Fe ee
+
+INDEXED
+
+UNIDENTIFIED FLYING OBJECTS
+
+( over)
+
+Copied 22 July 1960 from §x10 print rec'd
+23 May 1960 from ATIC, Wright-Patterson AFB,
+
+Ohio thru SAF-OI.

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:10:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1014482, "source_ctime_ns": 1793390069538168698, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546154/0416.jp2", "source_mtime_ns": 1785808128000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546154/0416.jp2", "source_sha256": "64ee26972647a9006ee131b765cacb80c884461883cc3cfe8acc82c0f82a506f"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 567, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 30360 (20 Nov 65)
+6 of 6
+50,000
+MINUS
+3 DEGREES
+30,000
+NOT AVAILABLE
+H.ANYOTHER UNUSUALACTIVITY OR CONDITION: NONEACCOUNTED FOR.
+I. INTERCEPTION OR IDENTIFICATION ACTION TAKEN:N/A
+J.THE DUTY FORECASTER, DEI. 41, 12TH WEATHER SQUADRON AT THE
+WASHINGTON AIR DEFENSE SECTOR STATED THAT HE HAD NO KNOWLEDGE OF
+ANY WEATHER BALLOONS BEING RELEASED IN THE AREA. THEREPORTING
+MNNN
+NOTE: ADVANCE COFY DELIVERED TO DIA
+SECTION 2 1s AF IN 36356 20 Nov 65
+AFHQ
+FORM
+MAN 65
+0-309C
+UNCLASSIFIED

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:03:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4064855, "source_ctime_ns": 1793375501181055433, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956562/1177.jpg", "source_mtime_ns": 1785696801000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956562/1177.jpg", "source_sha256": "55e68a3c043700e4fd4ead91d36022d1875ae3b63489ef8e4a068c349484075f"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 669, "method": "ocr", "page": 1, "variant": "plain-vision"}
+21 1
+UNCLASSIFIED
+Hutti
+1511
+PEØ11
+JEDNG 824
+AR JEDUP
+ET SNELL
+15/101
+DE JEDNG $1A
+R 3021552 ZNJ
+FM COMDR 31ST ADIV ST PAUL MINN
+TO CHIEF ATIC WRIGHT PATTERSON AFB OHIO
+7 P tile
+UNCLASSIFIED
+WD 2823 PD ATTN ATTIAA-2C REURMSG CITE PROJECT
+BLUE BOOK PD COMPLETE RPT SUBMITTED DIRECTLY TO YOU VIA AF FORM ONE ONE
+TWO DATED TWO ONE OCTOBER ONE NINE FIVE THREE PD FLIGHT SERVICE RPT
+INDICATES TWO FOX DASH EIGHT SIX IN AREA SOUTH AND WEST OF
+INNEAPOLIS AT APPROXIMATE TIME HOWEVER THIS DOES NOT IN ITSELF
+ATISFY OR CORRELATE WITH SUBJECT OBSERVATION PD
+1/BØØ1Z OCT JEDNG
+DOWNGRADED AT 3 YEAR INTERVALS:
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
+SION Z
+08 42
+MINCLASSIFIED

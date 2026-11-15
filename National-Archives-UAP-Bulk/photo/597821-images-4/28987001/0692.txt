@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:41:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9480905, "source_ctime_ns": 1793383433885931079, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987001/0692.jpg", "source_mtime_ns": 1785747886000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987001/0692.jpg", "source_sha256": "52dcaead57216cf6200063c7e8e0aacd5d019d2ea207132ed7ef62965f084a70"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 912, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JOINT MESSAGEFORM
+PRECEDENCE 160 JA
+ROUTINE
+ACTION
+INFO
+FROM:
+SECURITY CLASSIFICA
+UNCLASSIFIED
+SPACE BELOW RESBRVED FOR COMMUNICATION CENTER
+TYPE MSG (Cbeck)
+07/18322
+ACMBUNTING /
+ORIG, OR REFERS TO
+0 281130Z
+SARATION
+UNCLAS
+SPECIAL INSTRUCTIONS
+ATIC, W-P AFB
+TO:
+/INCLASSIFTED/FROM: AFCIN-1B2 6- 1728-F
+ATTN HAWAIRDEFDIV.
+YOUR MSG O 281130Z, REQ THE FOLLOWING INFO BE
+FWD TO THIS CTR: APPARENT SIZE OF OBJ; HOW WAS SPEED OF OBJ
+DETERMINED? WHAT WAS THE APPARENT DIRECTION OF MOTION? SPEED,
+ALTITUDE, AND HEADING OF OBSERVERS' AIRCRAFT; DATE OF THE
+ẠỊSIGHTING; DID OBJ DISAPPEAR OVER HORIZON OR APPEAR TO BURN OUT?
+HAVE SIMILAR OBJECTS BEEN OBSERVED BEFORE BY THE WITNESSES?
+DATE
+2
+MONTH
+JUNE
+TIME
+14ST
+YEAR
+1960
+SYMBOL
+AFC IN-LE2
+TYPED NAME AND 7YY
+Major Robert
+PHONE
+69216
+SECURITY CLASSI
+ATION
+UNCLASSIFIED
+FORM
+DD, MAY 88 173
+rien
+PHILIP.G.
+Colonel,
+USAF
+AFCIN-LE2
+REPLACES DD FORM 173. 1 OCT 49. WHICH WILL

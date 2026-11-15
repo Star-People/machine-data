@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:31:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6256541, "source_ctime_ns": 1793381947651588073, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0652.jpg", "source_mtime_ns": 1785700902000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0652.jpg", "source_sha256": "5e6a63d8ced687fb5a0d1535bcc942d5ffc2ea500b866c6baffdafdf04a0af45"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 413, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(4) The inexperience of witnesses with the appearance of
+astronomical bodies when observed under other than normal atmospheric
+conditions.
+(5) The witnesses were out looking for strange lights, and as
+will always happen, some were observed. They looked so long and hard that
+they began seeing lights dance around.
+(ó) The power of suggestion cannot be discounted as being partly
+responsible for the sightings.
+11

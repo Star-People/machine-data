@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:33:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6914891, "source_ctime_ns": 1793377181811951919, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962894/0976.jpg", "source_mtime_ns": 1785696839000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962894/0976.jpg", "source_sha256": "ef08a4388f9c37492db2a35c799e6be1023f28ae1ec5c4309b396f8e880f8e48"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 818, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1, DATE
+21 Jaly 1955
+• DATE-TIME GROUP
+Local
+GMT 21/21102 301 1955
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+UFOB INDEX CARD AISS-UFOB 234-5:
+2. LOCATION
+112.
+CONCLUSIONS
+Was Balloon
+6.
+Seat lo
+Washington
+4. TYPE OF OBSERVATION
+• Ground- Visual
+• Air- Visual
+SOURCE
+Probably Balloon
+• Possibly Bolloon
+• Ground-Radar
+• Air-Intercept Radar
+000
+000
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+8. NUMBER OF OBJECTS
+9. COURSE
+Other.
+Insufficient Data for Evaluation
+Unk no wn
+Two (2) Minutes
+One (1)
+10. BRIEF SUMMARY OF SIGHTING
+One (1), round, bleek; object the sise of &
+quarters held at arma length was seen overhead
+and appeared to go straight up and disappear.
+Straight up
+11. COMMENTS
+Lack of sufficient data for evaluation.
+AISOP Form 5 (15 Oct 54)

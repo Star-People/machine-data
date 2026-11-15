@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:34:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7001114, "source_ctime_ns": 1793384734966057853, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990958/0658.jpg", "source_mtime_ns": 1785747979000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990958/0658.jpg", "source_sha256": "faa1339b64cf450d0b7817f519a58dec1f1aa120e07bec3879640f7ed81082c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 746, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+13 Jan 6l
+3. DATE-TIME GROUP
+Local
+GMT_
+14/05.74
+5.
+PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+53•35N
+162.00% (PACIFIL)
+4. TYPE OF OBSERVATION
+Or Ground- Visual
+• Air Visual
+• Ground-Rodor
+D Air-Intercept Radar
+ẠỊSOURCE
+Military
+NUMBER OF OBJECTS
+10. BRIEF SUMMARY OF SIGHTING UFO Great
+ance
+moving easterly fm 256° AZto 187° Az across
+arcturus at 55° elev.
+9. COURSE
+12. CONCLUSIONS
+Was Balioon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical METEOR
+Probably Astronomica
+•
+Possibly
+Astronomico
+Other.
+Insufficiont Data for Evaluatior
+Unknown
+SE
+I. COMMENTS No duration given hovever,
+general description voula fit meteor.
+ATIC FORM 329 (REY 26 SEP 52)

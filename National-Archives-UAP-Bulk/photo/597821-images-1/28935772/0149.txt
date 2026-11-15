@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:06:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4529925, "source_ctime_ns": 1793370911069657331, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935772/0149.jpg", "source_mtime_ns": 1785688539000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935772/0149.jpg", "source_sha256": "e99abe0093256768d84e503df9cc042060686328300226333a4235b9cf899e78"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 501, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ONCLASSIRED
+HEADQUARTERS FOURTH ARMY
+FORT SAM HOUSTON, TEXAS
+000.9 AKADB-I
+SUBJECT: Unidentified Aerial Phenomena
+29 July 1949
+TO :
+Commanding General
+Air Materiel Command
+Wright Patterson Air Force Base
+Dayton, Ohio
+ATTENTION: M.C.I.
+The inclosed report re unidentified aerial phenomenon observed
+by Mrs.
+at Alexandria, Louisiana, 6 July 1949, is
+forwarded for your informetion.
+FOR THE COMMANDING GENERAL:
+1 Incl
+As stated
+Martial
+MAX H. GOOLER
+Colonel, GSC
+Actg AC of S, G-2
+ONCLASSIFIED
+AUG S
+399

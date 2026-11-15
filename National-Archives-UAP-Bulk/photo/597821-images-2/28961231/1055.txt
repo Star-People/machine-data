@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:01:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3769363, "source_ctime_ns": 1793376562733848254, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961231/1055.jpg", "source_mtime_ns": 1785696620000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961231/1055.jpg", "source_sha256": "41cc0d654215fd30444500d347e9b5e1d94eb8edc70be8c21e7b2fe96c47d05d"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 837, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Multi
+10
+HEADQUARTERS
+4602d AIR INTELLIGENCE SERVICE SQUADRON (ADC)
+ENT AIR FORCE BASE
+COLORADO SPRINGS, COLORADO
+SUBJECT:
+UFOB Report
+TO:
+Commander
+Air Technical Intelligence Center
+ATTN :
+Captain Charles Hardin (UFOB's)
+Wright-Patterson Air Force Base
+Dayton, Ohio
+4 May 1955
+1.
+Inclosed is UFOB Report transmitted to this Squadron by Hq,
+26th AD (Defense).
+2.
+This Squadron concurs in the hypothesis of the Preparing
+Officer that the sighting was possibly caused by search light activity.
+There have already been other reports from this same vicinity caused
+by similar phenomena (see, e.g., sighting of 4 and 5 March, sources:
+place: New York City). Due to the improb-
+ability at this tine of gaining much more information, there will be no
+further investigation in this matter.
+Somer
+1 Incl
+UFOB Report
+RA
+Major,
+Adjutant
+JONES
+USAF

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:01:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3654248, "source_ctime_ns": 1793376472942730829, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960864/0734.jpg", "source_mtime_ns": 1785696769000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960864/0734.jpg", "source_sha256": "d342172d1eb035f59da3d1bccb61990e84e353458e00377986de06c258ff31a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1138, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/UN CLA S S IF I E D/INT 201 PD UFOS (1) (A) OVAL ELLIPTICAL (5) SIZE
+OF AN EGG(C) CHROME LUSTRE CHANGING TO PINK HUE (D) ONE (E) N/A (F) NONE
+(G) NONE (H) NONE (I) NONE (2) (A) BRIGHT LIGHT (3)45 DEGREES, ELEVEN
+O'CLOCK (C) UPON LINING-UP ACFT WITH OBJECT, OBJECT CHANGED TO 20
+DEGREES (D) SHOOT OUT TO RIGHT, BACK TO LEFT UPON LINE UP (E) WENT OUT
+OF SIGHT (F) APPRX 2 MINUTES (3) (A) AIRBORNE VISUAL (8) NONG (C) 5-47,
+23,222 FEET, SOUTHWEST, 350 KNOTA, DOBBINS AFB (4) (A) 1214302 JAN 55
+(D) DAY (5) 32 MILES SOUTHVEST ATLANIA, AIRPORT ENROUTE TO MACON
+GEORGIA (6) (A) MR
+ATLANTA, GEORGIA
+LOCKHEED AIRCRAFT CORPORATION, FLIGHT ELECTRONICS ENGINEER, 5 YEARS
+PAGE TWO JESKS 21
+FLYING IN B-29 AND B-47, OVER 1202 HOSRS (7) (A) HIGH CIRRUS, 33-35200
+SEET, THIN, SCATTERED, BROKEN, HAZY, SMOKE ON GROUND (3) 270/25 AT
+5, 265/35 AT 10, 260/72 AT 16, 270/98 AT 20, 230/110 AT 30, 230/100 AT 59
+(C) 25200 SCATTERED (D) 7 MILES (E) LESS THAN S/10THS (8) NONE (10)
+NONE REPORTED (11) DIRECTOR OF INTELLIGENCE, 35TH AIR DIVISION-POSSIBLE
+CAUSE UNKNOWN DUE TO LIMITED INFORMATION AVAILABLE FROM SOLE OBSERVER.
+(12) NONE END
+BT
+12/23592 JAN JESKB

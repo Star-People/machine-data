@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:51:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 825378, "source_ctime_ns": 1793391583837722071, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559750/0202.jp2", "source_mtime_ns": 1785808559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559750/0202.jp2", "source_sha256": "fbe879ee46d4f246cb181e9de4a33afa9655376d2e30548762cf05aead263394"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 882, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FTD WORK ORDER
+1. Description of Work: (Include title of unscheduled tasks.)
+Examine photos received from Major Nyls, Selfridge AFB,
+Michiagn of UFO sighted near Lake St. Clair, Michigan.
+Provide photo analysis of these prints using supplementary
+information provided by Major Nyl's investigative report.
+TDET/UFO
+12 Jan 67
+- FROM-
+2601,02,12,02
+3 Monitor wism fer
+Quintanilla
+4. Phones
+70916/76678
+5. DIA Task No.
++65-01-59
+6. DIA Priority
+6A
+7. D1te Needed
+13 Jan 67
+8. Consequence Code
+A
+9. Classification of
+Sources
+All Source
+10. Classification of
+End Product
+Unclassified
+11. PPTD or Dep Sig.
+18. Div. Chiefs Instructions / Modific1tion or
+Expansion of
+Work Description
+Aerodynamics Team
+-TO-
+12. Div./ Dir. Symbol
+TDDP
+13. M-H Estimate
+& hrs
+14. Monitor
+Davis
+15. Phones
+72961
+16. Div. Precedence
+Div. Chief Dir. Sig.
+67-3
+16 gan o 7
+FTD Farm 13 MAV 44
+Conv Nr. 1 to Black 3

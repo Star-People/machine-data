@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:28:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5528034, "source_ctime_ns": 1793369142936545724, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930765/1041.jpg", "source_mtime_ns": 1785688815000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930765/1041.jpg", "source_sha256": "9b29fb0a7f3570114a3d8d9364ce437e8c5bdbcef793a3fd1a7f12b95a12c012"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 468, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5-611
+UNCLASSIFIED
+APCIR-CO-5 (5-61)
+21 Hay 1248
+SUBJECT: Flying Diges
+TO:
+Conmanding General
+Air Material Command
+Wright-Patterson Air Porce Bame
+Dayton, ohio
+Attn:
+MCT
+Ateached la a report of a flying dise sighting by an officer
+on duty in the Cffensive Air Branch of this Directorate.
+BY COMMAND OF THE CHIEF OF STAFF:
+1. Inel.
+ROBERS TAYLOR Ird
+Colonel, USAP
+Chief, Collection Branch
+Air Intelli ence Requirements Divisden
+Directorate of Tutelligence
+UNCLASSIFIED

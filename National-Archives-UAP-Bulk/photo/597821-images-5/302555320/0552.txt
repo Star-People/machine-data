@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:16:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1760752, "source_ctime_ns": 1793391070682522675, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555320/0552.jp2", "source_mtime_ns": 1785808119000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555320/0552.jp2", "source_sha256": "e9c5dcd81c7e3450267f94413936e47b4ae86d47164e62576654529803480975"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 440, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NOCASE
+TDET/UFO ( MaJ H Quintanilla/70916/vap/25 May) 26 lay 1967
+Request for UFO Information
+USAF (SAFOICC)
+Reference the attached letters requesting information on
+unidentified flying objects.
+Proposed replies have been
+prepared and are with their respective letters.
+FOR THE COMMANDER
+TDET/UFO OFFICIAL FILE COPY
+MES C. MANAIV, Colonel, USAF
+Tirector of Technology and Subsystems
+3 Atch
+1. Itx,
+2. Itr,
+3. Ltra
+(undated)
+7 Jan o
+undated

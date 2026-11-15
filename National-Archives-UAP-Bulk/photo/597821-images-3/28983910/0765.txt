@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:27:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5141999, "source_ctime_ns": 1793382441806354314, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983910/0765.jpg", "source_mtime_ns": 1785700981000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983910/0765.jpg", "source_sha256": "50bf7a31bd4e9f72b6bd4883fef81880fbc806a5c82e14560c82fa75b73d126b"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 517, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5. N/A
+6. IN VERTICAL POSITION
+7. NONE
+8. N/A
+PAGE TWO RJEZSNW 10
+9. SLOW MOVING
+B. 1.
+LOOKED SKYWARD
+2 .
+49 DEGREES
+3.
+UNKNOWN
+4 •
+SLOWMOVING ORBIT ING
+5. FADED FROM SIGHT
+6./ 45 MINUTES
+C. 1. GROUND VISUAL
+2. 7 POWER GERMAN BINOCULARS
+3. N/A
+D. 1. 0130Z 22 JULY 59
+2.
+SUNSET
+E •
+HENDERSON CMN NY
+F. 1.
+CMM 37 CMM ROUTE 1 CMM ADAMS NY CMM
+ENGINEER CMM GOOD EX-USAF PILOT
+2. N/A
+G. 1. CLEAR
+2. WATERTOWN WINDS ALOFT CLN 10009 CMM 260/10 CMM 16000 CMM
+259/10 CMM EPPPP CMM 270/20 CMM 53000 CMM 279/25
+3. CEILING CLEAR

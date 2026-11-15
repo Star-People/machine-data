@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:34:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7101085, "source_ctime_ns": 1793384995300352243, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991568/1198.jpg", "source_mtime_ns": 1785748505000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991568/1198.jpg", "source_sha256": "15b25da64e98c2199da2ec755d572b4762b5cd41a9061fca997d5f9a3edbf90d"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 869, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+27 Feb 61
+DATE-TIME GROUP
+Local 1041
+GM T_271.741Z
+5. PHOTOS
+• Yes
+E No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Yuma, Arizona
+TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+SOURCE
+& Ground-Radar
+• Air-Intercept Radar
+Military
+NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+•
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Poss Chaff
+Insufficient Data for Evluation
+Unknown
+1 hr 48 min
+10. BRIEF SUMMARY OF SIGHTING Similar to chaff drop.
+Gradually lost altitude, very slow moving.
+Gradually faded. Rate of descent--aprox 300'
+per minute.
+11. COMMENTS Sighting was made only on
+radar. FTD radar specialists indicate
+that most plausible explanation is that
+a chaff drop was being conducted.
+ATIC FORM 329 (REV 26 SEP 52)

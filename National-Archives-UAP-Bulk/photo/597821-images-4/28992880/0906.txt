@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T18:04:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4214989, "source_ctime_ns": 1793385350175401009, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992880/0906.jpg", "source_mtime_ns": 1785747919000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992880/0906.jpg", "source_sha256": "451b2437af770ea6f19d56c933a1257b8de74b1fd56093265e23d0947e21d946"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 395, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJEDDU 51
+(9) NONE
+B (1) CAUGHT EYE OUT OF LEFT CAR WINDOW
+(2) 1223 FEET 75 DEGREES TO NORTH
+(3) Ø DEGREES TO NORTH
+(4) DESCENDED
+(5) ENDED IN BLUE GLOW
+(6) ONE SECOND
+C (1) VISUAL
+(2) NONE
+(3) N/A
+D. (1) 2549Z 1 JUN 61
+(2) NIGHT
+E US HIGHWAY 194 AT WHITE PINE RIVER BRIDGE
+F MR
+STUDENT
+G (1) CLEAR
+(2) SE 9 KTS
+* 280/32
+292/35
+282/47
+PAGE THREE RJEDDU 51
+280/35
+282/55
+L, DULUTH, MINN

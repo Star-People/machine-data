@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:56:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1537512, "source_ctime_ns": 1793356286654715753, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0136.jpg", "source_mtime_ns": 1785564661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0136.jpg", "source_sha256": "f11efa022011635a9defb2e99b4f28e5c2202c59801d988f4e9e0091100eb9fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 447, "chars": 2829, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Margin quote:
+"Sports are a dreadful drain on the time needed for educating the mind."
+"We should also take a hard look at our teachers, cull the bad ones out, and pay the good
+ones what they deserve. The teachers who have learned only a single doctrine that
+permeates from the top are a tremendous force against the free growth and development
+of better school education. Such doctrinaire mass-thinking fosters forces which work
+against improvement, forces which attempt to over-pattern and overcontrol so that many
+good teachers in the system feel frustrated. It would be interesting to know how many of
+the teachers who are well enough educated to be good teachers, through frustration, find
+work elsewhere. If many do, the system becomes a filter through which the good pass
+freely, and which retains the mediocre. Instead of giving present educational leaders
+more money, I think we should insist on a change of faces, and money used for the right
+purposes.
+"The tendency toward vocationalism in the schools is a tendency toward education for
+obsolesence. In this continuum of education the colleges commit many of the same
+errors which degrade the meaning of education for which we criticize the schools. In
+many of the colleges and universities in the nation, we have courses which are
+subcollegiate, they are to meet the needs of those products of the high schools who do did
+not learn fundamentals. We have courses which are so specialized in nature they should
+be offered in good trade schools. Just as the schools fail to achieve their real purpose by
+attempting to do everything, so the colleges are spreading more and more in certain areas
+to take over that part of training which would be better learned by a moder type of
+apprenticeship. Vocational training should occur in vocational schools, not colleges and
+universities.
+Margin quote:
+"We must lay stress on fundamental learning in a disciplined manner, and on the
+development of individuality, which is the basis on which to build a useful life and to get
+set and to get
+experience for future leadershipiẠỊi
+ẠWe should not think of education in the schools as one package, and college and
+university education as another. Education at all levels in fundamentals is essential. Our
+education must be aimed toward the productive use of leisure time in individual pursuits
+that bring inner satisfaction, rather than toward an overemphasis of passive mass
+spectatorship which leads to frustration. It is the slower students that must be counseled
+to stick to fundamental studies. It is only continual competition, and continual self-
+evaluation, that can lead to steady improvementiẠạ
+ạI believe that accrediting agencies should accept their responsibi-lity of quality discer-
+ment instead of the pseudoscientific formula approach. The teacher licensing procedure

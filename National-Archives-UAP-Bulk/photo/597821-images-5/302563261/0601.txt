@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:59:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1782647, "source_ctime_ns": 1793392004259863569, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563261/0601.jp2", "source_mtime_ns": 1785808323000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563261/0601.jp2", "source_sha256": "95d2364a9979edc87d7dbebb3dcfeb0205d434e4f886fcc1b01155986d2df011"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 524, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10073 RECORD
+ME GROUP
+19/03052
+18 Mar
+SOURCE
+Civilian
+NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+40 minutes
+TYPE OF ORSERVATION
+Ground Visual
+COURSE
+North West-South E
+PHOTOS
+Yes
+* No
+9. PHYSICAL EVIDENCE
+2. LOCATION
+Memohis,
+Tennessee
+10.
+CONCLUSION
+Possible (AIRCRAFT)
+(2 witnesses)
+T1.
+BRIEF SUMMARY AND ANALYSIS
+Observer stated that the object appeared to be a solid.
+Object had edges that were sharply outlined.
+Observer state
+the object hid behind a tree.
+Object had red and white ligh
+No
+FORM
+FTD SEP 63 0-329 (TDE)

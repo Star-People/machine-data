@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:26:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5101585, "source_ctime_ns": 1793378619360681280, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968597/0095.jpg", "source_mtime_ns": 1785696779000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968597/0095.jpg", "source_sha256": "3697f443f0c44d801e9c40e24357699a73b1e2696b4b3512c91e0e120d3331ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 581, "method": "ocr", "page": 1, "variant": "plain-vision"}
+| Witness
+1210Nн0 E
+ATIC
+i 3 DEc56 15 242)
+4E4
+3 4 xsQ
+16
+IACTIO:
+P
+H2FSPC145 YDA103 VYB#81 VDD1 6KEA035
+PP RJEDEN RJEDUP RJEPHO RJEPNE
+DE RJESKE 2D
+P 13161 2
+FM COMER SGOTH ACURON MACDILL AFB FLA
+TO RJEDEN/COMDR ADC ENT AFE COLORADO SPRINGS COLO
+ZUL/COMDR 35TH ADIV DODDINS AFB CA
+RJEDWP/CONDR AIR TECH INT CHTR WRIGHT PATTERSON AFE CHIO
+RJEPHO/DIR OF INT HO UCAF WASH 25 DC
+INFO RJEPAD/COMDR CADFR STEWART AFB NY
+ET:
+13:27
+/UNCLASSIFIED/OPS D6 1 PD ATTN: RADF-CIC.,UFOB PD
+A. DART
+D. SIZE OF DIME
+C. RED HOST, VELLOW DODY AUD GREEN TAIL
+D. O..F.
+E. NONE
+F. NO.E
+. .0....
+I. NONE

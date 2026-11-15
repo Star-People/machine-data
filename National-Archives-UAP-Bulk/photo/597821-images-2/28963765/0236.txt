@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:23:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4147126, "source_ctime_ns": 1793377443906138818, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963765/0236.jpg", "source_mtime_ns": 1785696709000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963765/0236.jpg", "source_sha256": "c949e3d864d9e4f28403c245429a57c6ec3e7059031c9159b1a61df34acc92cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 942, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+27 September 1955
+3. DATE-TIME GROUP
+Local 27/23152 Sep 55
+GM T
+5. PHOTOS
+UFOB INDEX CARD AISS-UFOB-351-55
+2. LOCATION
+12.
+Tarrytown, New York
+4. TYPE OF OBSERVATION
+o Ground-Visual
+• Air Visual
+6. SOURCE
+•
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+•
+One (1)
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other:
+Searchlight
+Insufficient Data for Evaluation
+Unknown
+7. LENGTH OF OBSERVATION
+Five to Six Minutes
+10. BRIEF SUMMARY OF SIGHTING
+One (1) circular intense light, The object
+traveled a sig-sag course with 90 degree turns.
+The object seemed to collide with aireraft in
+the area of the sighting. The object seemed
+to be elliptical at times.
+9%
+COURSE
+Zig-Zag
+11. COMMENTS
+Description indicates the probability
+of searchlight activity.
+( NO CASE IN FILE)
+, AISOP Form 5(15 Oct 54)

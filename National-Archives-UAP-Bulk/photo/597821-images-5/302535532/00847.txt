@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:13:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1710910, "source_ctime_ns": 1793389019678380731, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535532/00847.jp2", "source_mtime_ns": 1785808103000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535532/00847.jp2", "source_sha256": "c46a1eee60415583fd08dc1bd5046250b5eaf315a7b2e56f23817977e34593a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 659, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE : TIME GROUP
+1 Sept 64iỊi01/11212
+3. SOURCE
+Glitary
+4. NUMBER OF OBJECTS
+Two
+5. LENGTH OF OBSERVATION
+2 - 3 seconds
+6. TYPE OF OBSERVATION
+Air-Visual
+7. COURSE
+SE
+8. PHOTOS
+• Yos
+I NO
+9. PHYSICAL EVIDENCE
+• Yos
+I NO
+FORM
+FTD SEP 63 0-329 (TDE)
+2. LOCATION
+Guam
+10. CONCLUSION
+Astronomical (HITZOR)
+Probable meteor observabion.
+11. BRIEP SUMMARY AND ANALYSIS
+Two white green objects apparently buming with white trail
+pulsating prior to buming out in flight from 340 deg to
+70 dem elevation above
+160 deg in straight line.
+airbore observers
+243.6012-1
+1764
+RETURN TO
+Director
+Aerospace Studies Inst
+ATTN: Archives Branch
+Maxwell AFB, Alabama
+provsousa

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:39:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8720426, "source_ctime_ns": 1793380184621639346, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974839/1256.jpg", "source_mtime_ns": 1785700663000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974839/1256.jpg", "source_sha256": "ba431075569d752c7709b2283b6069bf0704d0b9a142aee6d8b4363c86eaff3b"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 856, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+Novem
+bber 1957
+3. DATE-TIME GROUP
+Locol _
+22-1
+GM T.
+15/03412
+5. PHOTOS
+O Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Beverly,
+Issachusetts.
+4. TYPE OF OBSERVATION
+70 Ground- Visual
+• Ground-Radar
+D Air-Intercept Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Wes Bailoon
+Probabiy Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircrat
+Possibly Aircrel
+Was Astronomical
+D Probably Astronomical
+Possibly Astronomical
+EX Other
+Light
+Insufficient Date for Eval
+Unknown
+15 minutes
+EWO
+10. BRIEF SUMMARY OF SIGHTING
+back &
+11. COMMENTS
+fortr
+Two Lights, with appearance of small
+Probably airdrome beacon light.
+funnel, l it in diameter, white
+Either the light itself, or re-
+side by side, moving back
+and forth.
+flection on clouds.
+Had not disappeared at tine of reporting.
+ATIC FORM 329 (REV 26 SEP 52)

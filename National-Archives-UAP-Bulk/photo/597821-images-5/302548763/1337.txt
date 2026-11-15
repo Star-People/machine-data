@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:51:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 831038, "source_ctime_ns": 1793390280894629663, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548763/1337.jp2", "source_mtime_ns": 1785808697000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548763/1337.jp2", "source_sha256": "b0beb9b951c4c752cb995dae7fe6a2a0d001b639763b91f646c9787807822574"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 513, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LONg BRANCH, N. J. 3I MARLE 01/0030FMLE
+FTD (TDEW)
+Wright-Patterson AFB, Ohio 45433
+25 May 1966-
+Long Branch, New Jersey 07740
+Dear Miss Desmond,
+Reference your unidentified observation of 31 March 1966.
+The
+information in your letter of ll May 1966 was not sufficient
+for evaluation.
+Request you complete the attached FT Form
+164 and return it in the envelope provided.
+We wish to thank you for reporting your observation to the Air
+Force.
+Sincerely,
+HECTOR QUINTANILLA,
+Jr, Major, USAF
+Chief, Project Blue Book

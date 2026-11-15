@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:08:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 822111, "source_ctime_ns": 1793391577692894455, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559693/0119.jp2", "source_mtime_ns": 1785808149000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559693/0119.jp2", "source_sha256": "4401356347aaa34abee4421fcdfe78485d640a5894ab46125c7b4513c997703a"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 764, "method": "ocr", "page": 1, "variant": "plain-vision"}
+c. (1) Ground visual
+(2) Telescope, Gilbert, toy approximately 36 inches long, lens
+6 inch diameter.
+(3) NA
+d. (1) 6 Jan 67 00152
+(2) Night
+e. 28° 37'N 81° 26'W. Residence
+One quarter mile north of Ri-Mar Drive In Theater.
+area.
+(1)_
+Civilians, Mrs
+kindergarten teacher.
+14, (son) student,
+onde, Oriando, Florida,
+Mrs.
+48, kindergarten teacher
+Avenue, Orlando, Florida.
+14, student
+Avenue, Orlando, Florida.
+(2) N/A
+g. (1) Clear with light scattered clouds.
+(2)
+USAF Weather, McCoy AFB, Florida
+Surface
+calm
+6M
+160° @ 15 Kt
+10M 220° @ 15 Kt
+16M 250° @ 30 Kt
+20M 250° @ 35 Kt
+30M 260° @ 43 Kt
+50M Not available
+80M Not available
+(3) Unlimited
+(4)
+Clear, 10 miles
+(5)
+None
+(6)
+None
+(7)
+Surface - 6°C
+ЗМ
+0°c
+6M
++5°C
+10M +7°C
+20M +9°C
+Standard Temperature Deviation
+2

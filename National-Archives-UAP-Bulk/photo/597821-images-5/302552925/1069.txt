@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:52:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 962672, "source_ctime_ns": 1793390724397455386, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552925/1069.jp2", "source_mtime_ns": 1785808175000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552925/1069.jp2", "source_sha256": "c113abcb57f06b65a75854c09d4deca91c9f0b8e1e5d57f945b03fd0898ce6d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 249, "method": "ocr", "page": 1, "variant": "clean-vision"}
+This is additional information as to the location
+of the observation point.
+The latitude is 42 degrees 58.13 minutes
+ine longitude is ro degrees.
+[lion is located about 23 miles southeast of Griffis Air Force Base.
+Our address is:
+Ilion, W.Y.
+13357

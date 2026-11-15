@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:45:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13642896, "source_ctime_ns": 1793358842221331176, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-051-0001.tif", "source_mtime_ns": 1785681232000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-051-0001.tif", "source_sha256": "4645836ba03220fd15d1f674d01d1b0ed762a1f6ef62049f60830ce4bf44f94b"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 720, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+DATE/TIME OF SIGHTING
+AISS-UFOB-393-55
+09/032LZ November 1955
+LOCATION OF SIGITING
+Scattered points in southern Idaho
+MEANS RECD
+ACTION
+TT Mag
+No investigation authorized
+INVES UNIT
+DATE INVES ASSIGNED
+N/A
+DATE IR APPROVED
+N/A
+RECD HQ 4602D
+10 Nov 55
+LOGGED BY
+S/Sgt Deitidder
+ASSIGNING OFFICER
+N/A
+DATE IR TO ATIC
+N/A
+DATE IR RECD HQ
+N/A
+DATE OF FORM 5
+10 November 1955
+COMMENTS
+Due to the wide scattered points from which the object was viewed
+1t is the opinion of this headquarters that the sighting was gen-
+erated by a meteor. The trail and color would substantiate.
+CONCLUSIONS
+PROBABLY ASTRONOMICAL: Medeor or meteorite
+AISOP FORM 7 (2 APR 55)

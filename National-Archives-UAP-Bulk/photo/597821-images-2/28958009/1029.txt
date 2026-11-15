@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T17:22:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4081302, "source_ctime_ns": 1793375851971720104, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958009/1029.jpg", "source_mtime_ns": 1785696833000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958009/1029.jpg", "source_sha256": "1ffbf276b07033471f4c056f88dd3291b503a0445b048b275ed9940cc72b8dd3"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 633, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+10 Apr 5%/11/0230Z
+3. SOURCE
+civilian
+4. NUMBER OF OBJECTS
+one
+S. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD
+2. LOCATION
+Columbia, Missouri
+10. CONCLUSION
+INSUFFICIENT DATA FOR EVAIUATION
+11. BRIEF SUMMARY AND ANALYSIS
+Bright white light like acft nav lights approached airport at
+rapo d speed, suddenly climbed straight up into oversast -
+по поіве.
+Several vitnesses according to report.
+6. TYPE OF OBSERVATION
+ground-visual
+7. COURSE
+West
+8. PHOTOS
+• _ Yos
+- NO
+9. PHYSICAL EVIDENCE
+• Yos
+• No
+FORM
+FTD SEP 63 0-329 (TE)
+Provious editions
+Possible a/c, bovever, insufficient date for analysis.
+om may be usad.
