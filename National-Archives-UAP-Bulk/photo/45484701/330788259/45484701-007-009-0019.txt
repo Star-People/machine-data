@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:21:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10418249, "source_ctime_ns": 1793365067494478012, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0019.jpg", "source_mtime_ns": 1785684985000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0019.jpg", "source_sha256": "18d3568f9fc9ff428fbb9ebde9f090189e5dcd7de5fe29d9f3dc61cebb3bfd1c"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 769, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFCSI-6D/Mr O'Donnel1/Tef/Code 161 ext 8896/18 Jan 56
+UNCLASSIFIED
+APOST-SD 24-185-24
+SUBJECT:
+RICHARD JENSEN, Civilian, Hamlet, Indiana
+SPECIAL INQUIRY
+TO g
+District Commander
+24th OSI District (IG)
+529 S LaSelle St, An 1023
+Chicago 5, Illinois
+Reference is made to your file 24-155 and your letter dated
+31 December 1954 concerning SUBJECT.
+SUBJECT for the reasons outlined in referenced letter.
+Permission is granted to you to return the "rocket" to the
+FOR THE DIRECTOR:
+1. Mutha Maj: USAT
+ENTE P. MORITZ
+Counter Intelligence Division
+Directorate of Special Investigations
+The Inspector General
+911917
+14 JAN 19555
+DIV
+osi
+AFOSI-6D
+Mr O'Donne11 6790M
+138
+UNCLASSIFIED
+CMBK OY AFCSI-6D
+G81 JAN 1955
+AFCSI FILE OY
+824-185-24-21
+Declassification Authority: NND 923007

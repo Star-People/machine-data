@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:01:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5281865, "source_ctime_ns": 1793369899345943030, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933137/0562.jpg", "source_mtime_ns": 1785688619000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933137/0562.jpg", "source_sha256": "037a5150767769a8aae041d865d2e1651dac2b540890042464f62b01f422d11c"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 758, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+[19475
+1 - 28 FEBRUARY/SIGHTINGS
+OBSERTER
+10
+11
+14
+17
+27
+19
+LOCATION
+South Parcereburg, Vest Virgiaia
+12,3CN - 13,10W (Carribean)
+Codman 478, Kantucky
+Dayton, Obio
+Multiple
+MIlitary
+Curling Bast, Newfoundland
+Basto Ganado Mission, Arizona
+Albuquerqua, New Mexico
+Mul:iple
+Dandia Base, New Mezico
+Goose Bay, Labrador (CASE MISSING)
+148 1 209112018
+Sandberg Pass, Calicorala
+littla Rock, Arkan
+Civilian
+Military
+Winchester
+Los Alamos, New Mexico (CASE MISSING) MIlitary
+Chicago, Illinoia
+SVALUATION
+Astro (METSOR)
+BALLOON
+Astro (STARS/PLANETS)
+Astro (METBOR)
+(PHOTOS) Astro (STARS/PLANETE
+INSUFTICIENT DATA
+AIRURANT
+Astro (METBOR)
+Other (MIRAGE)
+Balloox
+Astro (MSTSOR)
+DATE
+LOCATION
+ADDITIONAL REPORTED SIGHTINCS (NOT CASES)
+S OU ROSS
+OBSERVER
+1 - 28 733

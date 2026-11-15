@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:47:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1455044, "source_ctime_ns": 1793391954506297648, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562884/0118.jp2", "source_mtime_ns": 1785808046000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562884/0118.jp2", "source_sha256": "145a34926226d3eb0b87bb3da0e455f28008ed7a646f791ad4144d22c2af7a47"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 827, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TDET/UFO OFFICIAL FILE CY
+TDET/UFO (Maj. Quintanil1a/70916/jaf/9 Oct 67)
+UPO Observation of March 9, 1967
+OCT 9 1967
+Mrs.
+Longbottom, Oh1o
+We regret that because of the late date at which you reported
+your sighting a complete investigation could not be made. It is
+important that an individual report their sighting immediately to
+the nearest Air Force Base.
+2.
+It is necessary to know if there was any air activity in the
+area that might have caused the sighting. However, the FAA
+destroys all air activity records after thirty days. We did find
+that there are several low level, high speed refueling routes in
+the area.
+3. Because we cannot make a comprehensive evaluation of your
+sighting, we felt it necessary to clasaify your report as
+Insufficient Date.
+MBS C. MANATT, Colonel, USAF
+Sizector of Technology and Subsystems

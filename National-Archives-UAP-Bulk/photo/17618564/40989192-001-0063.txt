@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:57:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4141769, "source_ctime_ns": 1793354310716058208, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0063.jpg", "source_mtime_ns": 1785564262000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0063.jpg", "source_sha256": "67a4d8fcd0528737a59c886cd8b939c9bfdc2d080fe2eb640a7bdf8123cf7bf8"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 695, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TOP SECRET / MAJIC
+NATIONAL ESDREY CAMORMATION
+TOP SECRET
+... ....
+001
+G-1
+EYES ONLY
+COPY ONE OF ONE•
+BRIEFING DOCUMENT: OPPRATION MAJESTIC 12
+PREPARED POR PRESIDENT-ELECT DWIGHT D. EISENHOWER: (EYES ONLY)
+18 NOVEMBER, 1952
+WARNING n
+This 18 a TOP SECRET - EYES ONLY document containing
+compartmentalized information essential to the national gecurity
+of the United States. EYES ONLY ACCESS to the matendal herein
+10 strictly limited to those posessing Majestic-l2 olearance
+level. Reproduction in any form or the taking of written or
+mechanically transcribed notes ia strictly forbidden.
+EYES ONLY
+TOP SECRET: / MAJIC
+EYES ONLY
+T52-EXEMPT (E)
+00
+This document is part of an unclassified series

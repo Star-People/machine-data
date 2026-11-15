@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:58:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4485430, "source_ctime_ns": 1793378106459393568, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966805/1383.jpg", "source_mtime_ns": 1785696806000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966805/1383.jpg", "source_sha256": "32c6c4d3a11b34e246f5883f65c5507d3ffdaf21ebc1c5e94c882987e4c31935"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 659, "method": "ocr", "page": 1, "variant": "plain-vision"}
+59/17
+WPD232 YDA162 XYB204 XDD143JBA@66JBF002
+00 RJEDEN RJEDUP RJEPHO
+AЕ4
+DE RJWPJB 2F
+0 1109002
+FM COMDR 756TH ACRON BORON CALIF
+4 4 хга.
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+RJWPJE/COMDR 27TH ADD NORTON AFB SAN BERNARDINO CALIF
+RJEDWP/COMDR ATIC WRIGHT PETTERSON AFB OHIO
+RJEPHQ/DIRECTOR OF INTELLIGENCE HEADUARTERS USAF WASHINGTON DC
+ВТ
+UNCLAS 750TH 0632 ATTN: U.F.0.B.
+(A) ROUND GRAPEFRUIT SHAPE
+(B) GRAPE FRUIT
+(C) RED, WHITE AND YELLOW (D) ONE
+(G) NO FLAME OR SMOKE
+(H) NONE
+(I) ALTITUDE 25,023'
+2. (A) BRIGHTNESS OF OBJECT
+(B) DIRECTLY OVER SE PART OF BAKERSFIELD / 20% E~
+(C) STILL IN SIGHT IN SAME PSITIO
+GVVE
+STANDING STILL NO MOVEMENT

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:22:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10683788, "source_ctime_ns": 1793364239920120685, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0317.jpg", "source_mtime_ns": 1785684600000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0317.jpg", "source_sha256": "5fed1c83d6031ec251e6764b46b9383d53b2fe64d7a3b59fa4df5619a42b6ae7"}
+
+===== PAGE 1 =====
+{"alpha_words": 333, "chars": 2193, "method": "ocr", "page": 1, "variant": "plain-vision"}
+were so convinced that they saw them that he had to make a report to
+1 Washington on the matter.
+Why fellow newspapermen, working on their own, found a similar
+response among the officials whom they contacted.
+"All of the scientists and military observers, whether or not
+they had seen any, were agreed on this point: the saucers are not man-
+made.
+"David Lilienthal, chairman of the Atomic Energy Commission, dis-
+misses as 'foolish! the suggestion that they may be something related
+to atomic energy...........
+18. Since the above editorial deals in generalities, no specific ques-
+tions were asked CONOVER as to his source for the information set out therein
+but he volunteered that he "sort of dreamed it up."
+19. It is noted that reference report indicates Commander MeLAUGHLIN'S
+name 18 DOUGLAS C. McLAUGHLIN, and that CONOVER'S article gives his name as
+Commander ROBERT McLAUGHLIN.
+Since CONOVER could not remember the USN Com-
+manding Officer's name it is possible he erred in recalling the correct first
+name. It might also be mentioned here that none interviewed seemed to indi-
+cate that the name MOORE (of the General Mills Aeronautical Laboratory) had
+been revealed to them, although it appeared from their releases that the
+contents of the report signed C. B. MOORE had been discussed with them.
+20. One copy of this report is being forwarded to District Office No. 12,
+Scott AFB, for their possible information in the event that Captain EDWARD D.
+DETCHEMENDY has as yet not been interviewed.
+2l. In connection with any further investigation which is conducted by
+District orlice No. 1, it is requested that extreme care be used in question-
+ing any Naval personnel on information furnished in this report by CLETE
+ROBERTS, Newscaster, KFWB, Hollywood, since he was very cooperative during
+this investigation and attempted to be very helpful.
+inclosures:
+FOR DISTRICT OFFICE NO. LY, KIRTLAND APB
+Article by MARVIN MILES, Los Angeles Times, 30 August 1949.
+Article by AUSTIN CONOVER, Hollywood Citizen-News, 30 August 1949.
+Editorial by AUSTIN CONOVER, Hollywood Citizen-News, 5 Sept. 1949.
+REFERRED UPON COMPLETTON TO THE OFFICE OF ORIGIN
+Declassification Authority: NND 923007

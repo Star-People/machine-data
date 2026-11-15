@@ -1,0 +1,94 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:52:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3097239, "source_ctime_ns": 1793384328745605047, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990010/1180.jpg", "source_mtime_ns": 1785748365000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990010/1180.jpg", "source_sha256": "a03d411c68f1251f75b448475173244cbb1ca08d0f92a01f8ff812c000c653df"}
+
+===== PAGE 1 =====
+{"alpha_words": 232, "chars": 1463, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 2
+8. IF you sow the object at NIGHT, what did you notice concerning the STARS and MOON?
+8.1 STARS (Circle One):
+8.2 MOON (Circle One):
+o. None
+b. A few
+c. Many
+Don't remember
+a. Bright moonlight
+b. Dull moonlight
+c. No moonlight - pitch dark
+Don't remember
+9. The object appeared:
+(Cirele One):
+a. As a light
+b. Shiny
+c. Dark
+d. Don'i remember
+10. If it appeared as a light, was it brighter than the brightest stars?
+11. Did the object:
+a. Appear to stand still at ony time?
+b. Suddenly speed up and rush away at any time?
+c. Breck up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flash or flicker?
+h. Disappear and reappear?
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+(Circle One for each question)
+DoniẠị Know
+Don't Know
+No
+IN
+Don't Know
+Don't Know
+Don't Know
+Don't Know
+No
+No
+Don't Know
+DonẠi Know
+12. Did the object move behind something at any time, particularly a cloud?
+(Circle One):
+it moved behind:
+Yes
+a No
+Don't Know
+IF you answered YES, then tell what
+13. Did the object move in front of something at any time, particularly a cloud?
+(Circle One):
+Yes
+No
+Don't Know.
+in front o
+IF you answered YES, then tell what
+14. Did the object appear:
+(Circle One):
+a. Solid b. Transparent
+e. Vapor d. Don't Know
+15. Did you observe the object ihrough any of the following?
+a. Eyeglasses
+b. Sun glasses
+e. Windshield
+d. Window glass
+Yes
+Yes
+Yes
+Yes
+Na
+No
+No
+No
+e. Binoculars
+f. Telescope
+g. Theodolie
+h. Other
+Yes
+Yes
+Yes
+No
+No
+No

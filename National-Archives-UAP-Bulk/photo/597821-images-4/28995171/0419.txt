@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:57:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4292849, "source_ctime_ns": 1793386194207944461, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995171/0419.jpg", "source_mtime_ns": 1785748370000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995171/0419.jpg", "source_sha256": "15aa32751e66bae707947bf6181eb51709539e577252840b49e0c12ee28d958c"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 801, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSA
+AF IN : 30773 (17 Oct 61) IN C 0 M IN G
+P& 3 of 4
+PAGE THREE RJEDAFU 1
+(2) DUSK (SUNSET)
+E. 45 DEGREES Ø3 MINUTES NORTH LATITUDE, 99 DEGREES 57 MINUTES
+WEST LONGITUDE, 4 MILES NORIH OF GETTYSBURG, SOUTH DAKOTA.
+F. (2) SSGT
+903D RADRON RADAR OPER RELIABLE
+AZ C
+903D RADRON AIR POLICEMAN RELIABLE
+A2C
+903D RADRON, IEO, RELIABLE
+A2C
+903D RADRON, MOTOR POOL, RELIABLE
+A2C,
+903D RADRON, COMMUNICATIONS, RELIABLE
+G. (1) ALL OBSERVERS REPORT GOOD WEATHER, NO PRECIP NOTED.
+SIGHTING MADE NEAR SUNSET
+(2) SURFACE
+6000 280 DEGREES 15 KNOTS
+10000 300 DEGREES 25 KNOTS
+16000 290 DEGREES 30 KNOTS
+20000 300 DEGREES 35 KNOTS
+30000 290 DEGREES 30 KNOTS
+50000 310 DEGREES 30 KNOTS
+80000 310 DEGREES 15 KNOTS
+(3) CEILING CLEAR
+(4) VISIBLITY 15 MILES

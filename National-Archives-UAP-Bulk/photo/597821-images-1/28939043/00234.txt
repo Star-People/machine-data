@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:55:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3729620, "source_ctime_ns": 1793371597806312425, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939043/00234.jpg", "source_mtime_ns": 1785688794000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939043/00234.jpg", "source_sha256": "c6b0bbf717e2d0e49f626131d955ca6b509c467a9b474edf70bcc6a2a4200743"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 862, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2 Feb 51
+3. DATE-TIME GROUP
+Locol
+GM T
+03/0300Z
+5. PHOTOS
+• Yes
+LI No
+7. LENGTH OF OBSERVATION
+/pr/Civen 1 hr
+10. BRIEF SUMMARY OF SIGHTING
+Color was red-green-blue
+white.
+Shapte like
+a light. Speed was stationary to slow. Alt
+est 1 - 2,000. Radar pickup attempted with
+negative results.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Varietta, Ga
+4. TYPE OF OBSERVATION
+D Ground- Visual
+D Air- Visuai
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+Town operator and other airmen
+6. NUMBER OF OBJECTS
+9. COURSE
+1
+12. CONCLUSIONS
+Was Bolloon
+10
+Probably Balloon
+Possibly Balloon
+Was Aircrafi
+Probably Aireraft
+Possibly Aircraft
+Was Astranomical
+SIRIUS
+Probably Astronomical
+Possibly Astronomicol
+Other
+Insufficient Data for Evaluation
+Unknown
+Stationary
+11. COMMENTS
+Astro Sirius at 185 AZ 45 dog elevation.
+Evaluated as Astro SIRIUS
+ATIC FORM 329 (REV 26 SEP 52)

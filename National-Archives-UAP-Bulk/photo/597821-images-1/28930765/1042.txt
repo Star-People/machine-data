@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:04:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5800774, "source_ctime_ns": 1793369143250215236, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930765/1042.jpg", "source_mtime_ns": 1785688815000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930765/1042.jpg", "source_sha256": "a432468beac6abe0b9c58e5eb53fd6412f43a2207cc731fc36251dd3d2d72dd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 243, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Incident Gi26 == inacostia, liaval Air Station <= 30 April 1943
+
+there is nothing in the description of this incident ~
+a" =f . ° my ‘ c . 4
+to indicate astronomical
+
+ae
+
+orisin of tne object obsorved. It
+a J
+
+appears to have been a balloon.

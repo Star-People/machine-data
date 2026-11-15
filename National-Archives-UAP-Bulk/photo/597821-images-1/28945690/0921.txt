@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:45:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1222880, "source_ctime_ns": 1793373155141067216, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945690/0921.jpg", "source_mtime_ns": 1785688916000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945690/0921.jpg", "source_sha256": "3385dfb6286b395bfa73f1eacc6fad2892db5e1b00ac857be147e51a07b084c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 183, "method": "ocr", "page": 1, "variant": "clean-vision"}
+E
+This is a sketch of the "flying saucer" formation drawn by Rita
+Acuna which she and three others saw streaking across. the
+skies. The original has been sent to Air Force officials.

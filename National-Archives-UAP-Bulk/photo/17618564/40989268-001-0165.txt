@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:25:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14354835, "source_ctime_ns": 1793355726032339274, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0165.jpg", "source_mtime_ns": 1785564511000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0165.jpg", "source_sha256": "8ea470e594e587214be14ec0ca5ae8419451586e75ca740b446900b21987d5a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1550, "method": "ocr", "page": 1, "variant": "plain-vision"}
+of the peak between 0.2 and 0,02 cps, and, of course, its exact frequency will change
+from day to day. If any future work is done in this area, certainly the spectral
+peak, and hence the size of the largest turbulent eddies should be monitored with
+microphones or microbarographs that respond to the lowest frequencies involved.
+12 db/octave rise
+10.7 db/octave rolloff
+P(W),
+db
+Inertial Subrange
+Below 1 cps
+Above 10 kc
+FREQUENCY
+Figure 19. Theoretical Acoustic Spectrum of Turbulence
+317
+XXVII. Qu1lity Engineering of
+Scrim-Reinforced Balloons
+T. W. Kelly and A. O. Korn
+Air Force Cambridge Research Laboratories
+Bedford, Massachusetts
+L. Curtis and R. Moroney
+G. T. Schjeldahl Company
+Northfield, Minnesota
+Abstract
+The scrim-reinforced Mylar balloon is a highly reliable carrier for heavy,
+expensive, scientific payloads but has been prohibitively expensive for general'
+use. A 30 percent cost reduction has resulted from an 18-month program evaluat-
+ing new films,
+fibers, and adhesives, refined lamination techniques, and balloon
+desien simplification in combination with streamlined production procedures.
+The successful flight test of a nonwoven scrim balloon, the development of a
+novel nonwoven scrim loom, as well as scheduled tests for balloon recovery and
+reuse, promise to further reduce the cost differential between supported and un-
+supported film balloons.
+1. INTRODUCTION
+Ever since its introduction in 1945, the polyethylene balloon has been the
+workhorse of the balloon field. It has lifted scientific payloads of seemingly end-

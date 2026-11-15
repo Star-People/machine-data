@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:10:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5537724, "source_ctime_ns": 1793369157351184257, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930808/1086.jpg", "source_mtime_ns": 1785688865000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930808/1086.jpg", "source_sha256": "445eeccce9c0b1cb70e2dac6143a852c90062ab44b5fcf991af8b09f8219ae08"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1041, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFE
+NATIONAL MILITARY ESTABLISHMENT
+RESEARCH AND DEVELOPMENT BOARD
+WASHINGTON 25, D. C.
+2 February 1949
+MEMORANIUM TO: Air Materiel Command
+Intelligence Division
+Wright Patterson Air Base
+Layton, Ohio
+Atto:
+W. R. Clingerman
+SUBJECT:
+Memphis Incident
+1. It is requested that ell pertinent details of the
+so-called "Memphis incident" of May 7, 1948, 2:00 to 5:00 P.M.,
+be furnished the Research and Development Board for use by
+the RIB Committee on Geophysical and Geographical Sciences.
+Attached hereto is correspondence from Dr. Lincoln
+LePaz referring to the Memhis incident.
+This information should be transmitted to the
+Research and Development Board, Technical Intelligence Branch,
+Hoom 3% 636, The Pentogon, Washington 25, D. C., Atta: Mr
+David Z. Beckler,
+DAVID Z. BECKLER
+Chief
+Technical Intelligence Branch
+Attachments:
+Extracts from letter to Dr bendsberg
+fronDr L neoln hePaz 1/12/49
+Letter to It Col Rees from Dr LaPaz
+Letter to
+Dr LaPaz fron Sichard Kruse
+1/4/49
+Letter to It Col Rees, from Dr LaPaz
+12/30/48
+UNCLASSIFIED

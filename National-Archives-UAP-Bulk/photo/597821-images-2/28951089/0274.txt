@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:04:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5994884, "source_ctime_ns": 1793374289668419314, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951089/0274.jpg", "source_mtime_ns": 1785696551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951089/0274.jpg", "source_sha256": "aad116a24189f1a7355ca4cad7d03e1c91c606c09cae79b5e42271a54e1783cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 790, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+(CLASSIFICATION)
+INCL
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (Agency)
+5th Fts-Intep Sa, MOGATE, N.J.
+12-3-538
+PAGE
+OF
+3
+PAGES
+The weather was ceiling and visibility unlimited and the stars were out. "The
+position of Venus at 1010 Zebra vas local hour angle 226 degrees 12 minutes -
+declination south 22 degrees 58 minutes."
+This information was taken from the
+Air Almanac.
+James 3. Dorme ly
+JAMES B. DONNELIY
+2nd It.,
+U SAF
+Intelligence Officer
+NOTE: THIS DOCU
+31 AND 32. AS AMI
+IT MAY NOT BE REP
+INTELLIGENCE, USAF.
+TIONAL DEFENSE OF THE UNI
+1E ESPIONAGE ACT, 50 U. S. C.-
+ATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PEF
+SON IS PROHIBITED BY LAW.
+BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF

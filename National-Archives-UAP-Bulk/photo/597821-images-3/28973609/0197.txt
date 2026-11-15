@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:05:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6140489, "source_ctime_ns": 1793379842657505662, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973609/0197.jpg", "source_mtime_ns": 1785701074000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973609/0197.jpg", "source_sha256": "7a0d64611f3d3995065853fbf79c3c8b94b2d4a30fa78d7eb9d9c6e29947902c"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 760, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+November
+3. DATE-TIME GROUP
+Local
+CM T.
+3. PHOTOS
+05/11272
+• Yes
+HONo
+7. LENGTH OF.OBSERVATION
+OW:
+10. BRIEF SUMMARY OF SIGHTING
+shaped
+the om
+WES
+ATIC FORM 329 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Denbi
+4 TYPE OF OBSERVATION
+North Dakota
+aGround- Visual
+• Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Rador
+1V1
+ian
+8. NUMBER OF OBJECTS
+one
+object the
+ooject
+moved fro
+the horizo
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical
+O Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+•
+1H SW to
+•
+OW
+• W
+COMMENTS
+Desc
+on and fl.
+indicate that this sighes
+was probably caused of Venus.
+No report in fije.

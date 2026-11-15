@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:18:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8905381, "source_ctime_ns": 1793383277421506802, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986634/0370.jpg", "source_mtime_ns": 1785748542000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986634/0370.jpg", "source_sha256": "3718c287a18c7ecb8bc0e72321558ba174bf1a2d2a406bbcf6049f4e659bf9b5"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 346, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJWFAM 6
+CALIF AIRLINE CAPTAIN
+G. HIGH SCATTERED CLOUDS, 50 MILES PLUS VISIBILITY, WINDS FROM
+NW AT 15 KNOTS
+(1) N/A
+(2) N/A
+(3) NONE
+(4) 50 MILES PLUS
+(5) HIGH SCATTERED CLOUDS
+(6) NONE
+" NONE
+I NONE
+J NONE KNOWN
+K AIRDORME OFFICER - UNABLE TO EVALUATE DUE TO SIGHTING OF OBJECT
+DURING FLIGHT OVER NMEX
+L N/A
+19/1700Z APR RJWFAM
+NNNN

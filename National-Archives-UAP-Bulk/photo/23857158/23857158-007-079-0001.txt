@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:00:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4877602, "source_ctime_ns": 1793359417742875555, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-079-0001.tif", "source_mtime_ns": 1785681408000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-079-0001.tif", "source_sha256": "6f18df4f94d27001c011c39eb9c6325f053b9a88ef8a3f93570d4cbcc8f7883d"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 612, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+AISS-UFOB-364-55
+DATE/TIE OF SIGHTING
+17/03152 0et 55
+16/2015AST Cct 55
+LOCATION OF SIGNTING
+35 Miles West of Cheyenne, Wyoming
+MEANS RECD
+ACTION
+TT Mag
+Investigation authorized
+INVES UNIT
+DATE INVES ASSIGNED
+Hqs, 46028
+19 Cet 55
+DATE IR RECD HO
+DATE IR APPROVED
+RECD HQ 4602D
+18 Cet 55
+LOGGED BY
+S/Sgt Demadder
+ASSIGNING OFFICER
+Maj Thrasher
+DATE IR TO ATIC
+DATE OF FORM 5
+21 Cet 55
+COMMENTS
+Investigated by S/Sgt Deludder.
+Results of invesitgation to be
+recorded bpon receipt of AF Form 1l2 on this case.
+CONCLUSIONS
+AISOP FORM 7 (2 APR 55)

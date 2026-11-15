@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:22:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10669806, "source_ctime_ns": 1793364221573622816, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0288.jpg", "source_mtime_ns": 1785684598000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0288.jpg", "source_sha256": "79dd1134c4e89f6ef9cfe1bc1f85c6a7d8587ed88aef0952ea2418250b8d4898"}
+
+===== PAGE 1 =====
+{"alpha_words": 204, "chars": 1240, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1185 Somerville Ave
+Phila 41, Pa.
+June 27, 1949
+Dr. I. Levitt
+Fells Planetarium
+20th Parkway
+Philadelphia 3, Pa.
+Dear Dr. Levitt:
+Mrs. Esther B. King of Aldin Park Manor told me that
+she has been in touch with the Planetarium and that you
+would like to have a report of what I saw in the heavens
+shortly after midnight Saturday night, June 25th. Mrs. King
+and I wera sitting on the steps in front of my house at
+1128 Somerville Ave (Logan) and I was facing toward the west.
+As we talked, my attention was suddenly caught by a ball of
+fire sweeping across the western sky.
+It moved from the
+north, turned south, in a line slanting earthward, not so
+rapidly as a shooting star, but at a speed that gave me five
+or six seconds to observe it before it dropped behind the
+trees.
+It was a very bright flaming ball, red-gold in color,
+and behind it streamed a wife firey path which gradually
+diminished in breadth until it tapered away.
+The ball of
+fire did not appear to be as high in the sky as were the
+lights of a plane that shortly afterwards passed overhead.
+No sound accompanied the display which took place less than
+10 minutes after midnight.
+Sincerely yours,
+A TRUE COPY:
+/s/ ETHEL M. DUNCAN
+. OSI
+Declassification Authority: NND 923007

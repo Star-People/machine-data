@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:43:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 905384, "source_ctime_ns": 1793355998905889015, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0065.jpg", "source_mtime_ns": 1785564578000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0065.jpg", "source_sha256": "62835385372abfd917626e3a6f424cb081bfe80c2d5f7300a9b088593c174c41"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 888, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEFENSE
+OF
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+50*
+AYNIVERSARY
+09 Mar 94
+MEMORANDUM FOR SAF/AAZ
+ATTENTION: Lt Col Bulter
+FROM: HQ USAF/XOWP
+1490 Air Force Pentagon
+Washington DC 20330-1490
+SUBJECT: GAO Review on Records Management Procedures Dealing with Weather
+Balloons, Unknown Aircraft, and Similar Crash Incidents (GAO Code
+701034) - INFORMATION MEMORANDUM
+Reference: 1 Mar 94 SAF Memorandum, Subj, same as above
+There is no requirement for weather personnel to record weather balloon landings.
+Only meteorological data are retained.
+We did not find any records in the Air Force weather archives of a weather balloon
+crash near Roswell, New Mexico from 20 June to 31 July 1947. If you have any
+questions, my point of contact is Lt Col Jim Near DSN224-5163.
+STEVE O. OUTS, Col, USAF
+Chief, Polley Division
+Directorate of Weather
+DCS, Plans and Operations

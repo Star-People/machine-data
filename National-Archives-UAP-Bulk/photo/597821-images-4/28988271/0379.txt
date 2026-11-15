@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:15:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7372253, "source_ctime_ns": 1793383912284926526, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988271/0379.jpg", "source_mtime_ns": 1785748371000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988271/0379.jpg", "source_sha256": "b39175929b50486506e111fd64f411a5a1a03e90c71b07325438e92de13ae308"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 779, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+20 Aug 60
+3. DATE-TIME GROUP
+Local _
+GM T.
+S.
+PHOTOS
+20/10452
+• Yes
+EL No
+7. LENGTH OF OBSERVATION
+30 sec
+10. BRIEF SUMMARY OF SIGHTING
+Round object, white like a star, size of pea.
+Disappeared behind a cloud.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Galena Airport, Alaska
+TYPE OF OBSERVATION
+a Ground Visual
+• Air Visual
+• Ground-Roder
+• Air-Intercept Rador
+SOURCE
+Military
+8. NUMBER OF OBJECTS | 9. COURSE
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+Was Aiseraft
+Probably Airerat
+ossibly Aircraf
+Was Astronomica
+Probably Astronomical
+•
+Possibly Astronomical
+ix Other.
+Poss satellite
+•
+Insulticiont Data for Evaluation
+Unknown
+NNE
+11. COMMENTS
+Correlated with Nome, Alaska sighting
+of 19 Aug 60 as possible satellite.
+ATIC PORM 329 (REV 26 SEP 52)

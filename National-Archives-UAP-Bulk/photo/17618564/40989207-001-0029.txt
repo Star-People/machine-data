@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:19:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9339054, "source_ctime_ns": 1793354414247800066, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0029.jpg", "source_mtime_ns": 1785564281000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0029.jpg", "source_sha256": "9124859ddd092ccc3b4b2f4011af515feb8ff574fee07a05696484f41f7986d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 589, "chars": 3856, "method": "ocr", "page": 1, "variant": "plain-vision"}
+In their roles, STAFFMETS are critical links in translating user needs into
+requirements for new goephysics technology development programs and requests for
+short-term system support by PL/GP scientists and engineers. STAFFMETS play a
+key role in transitioning the results of PL/GP geophysics technology to
+developers and users of Air Force systems. PL/GP technology managers are made
+aware of STAFFMET uncovered needs for geophysics technology through direct and
+frequent communications, and through an annual three-day conference at PL/GP,
+at which time STAFFMETS brief geophysics technology requirements, and PL/GP
+briefs its current and planned technology programs.
+In addition to the STAFFMETS, there are staff weather officers (SWOs) on
+the headquarters staff of all Air Force unified and specified operational
+commands. These weather officers are key players in another mechanism that PL/GP
+employs to transition technology more effectively. This is the AWS Geophysical
+Requirements (GR) process. GR's are documented requirements for geophysics
+technology (including space weather) based on operational needs as determined
+by the SWOs working with the operational commands. The GRs are prepared by AWS
+in cooperation with PL/GP, biennially prioritized and updated by AWS, and used
+to guide our investment strategy. The status of PL/GP technology programs
+supporting the GRs and the transition of the technology to AWS form the basis
+for the annual AWS/GP Forum. These one and one-half day meetings, between the
+commanders and staff of AWS and PL/GP, have been held since 1971 and represent
+yet another vehicle for ensuring the smooth transition of PL/GP technology to
+the user.
+A more recent I? mechanism that PL/GP and AWS have jointly developed is the
+AWS/GP Technology Transition Working Group. This group, formed in 1986, manages
+the transition of geophysics algorithms and computer codes from GP to AWs for
+operational use at the AFGWC and the Air Force Space Forecast Center (AFSFC).
+This group is made up of management and working level representatives from GP,
+HQ AWS, AFGWC and AFSFC. They meet twice a year at AFGWC
+on the operational
+user's turf. The working group develops transition strategies and schedules which
+have proved to be highly effective in ensuring that the GP-developed algorithms
+and codes
+meet the needs of
+AFGWC, but are
+also quickly and efficiently
+transitioned to AFGWC.
+Another effective I? mechanism that PL/GP employs (when appropriate) is
+moving the technology intended for system design to not just the SPOs, but to
+the contractors of the SPOs as well and to industry in general. This latter
+mechanism has been cited in recent research on I? as most effective.
+A long-standing mechanism for transfer of geophysics technology has been
+the Handbook of Geophysics and the Space Environment. First published by AFCRL
+in 1957, the fourth edition (published in 1985), compiles what is known about
+the geophysics environment into one document specifically tailored to the special
+needs of the Air Force. It has been the standard reference for the environment
+used by designers of aerospace systems since it was first published.
+For its two 6.3 program elements, PL/GP uses Technology Transition Plans
+with product divisions as a I mechanism. In addition, PE 63707F, Weather Systems
+(Advanced Development), has a "built-in" mechanism for I. This
+PE was
+established in 1981 through a concerted effort by Air Force Geophysics Laboratory
+(AFGL -- our designation at the time), the then HQ AFSC/DL, and AWS and its
+representatives at HQ USAF. These agencies recognized that a bridging mechanism
+was needed to convert GP geophysics technology from a 6.2 level of development
+to direct use by AWS or the then Electronic System Division's PE 64707F, Weather
+Systems (Engineering Development). Much of 6.2 geophysics technology,

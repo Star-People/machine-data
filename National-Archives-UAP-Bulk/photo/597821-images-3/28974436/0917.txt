@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:07:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6843554, "source_ctime_ns": 1793380071129906324, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974436/0917.jpg", "source_mtime_ns": 1785700927000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974436/0917.jpg", "source_sha256": "4aff67db3e3ec6c134b032bdac30b40a9c14cb83bad367d146e2ec3f104378dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 819, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1-3-Jen 58
+3. DATE-TIME GROUP
+30/03402 Nor 57
+5. PHOTOS
+UFOB INDEX CARD
+2. LOCATION
+Lexington, KI.
+4. TYPE OF OBSERVATION
+# Ground-Visual
+• Air- Visual
+6. SOURCE
+• Yes
+D- No
+7. LENGTH OF OBSERVATION
+A75a
+. NUMBER OF OBJECT:
+Two to three seconds
+10. BRIEF SUMMARY OF SIGHTING
+2- Cas round white object the size of a dins.
+Object was seen fying with the curature of
+the earth and was in sight for 2 to 3 seconds.
+• Ground-Radar
+• Air-Intercept Radar
+9. COURSE
+ATSS-UFCR-550-5*7
+12.
+CONCLUSIONS
+Was Balloon
+00
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+•
+Other.
+Insufficient Data for Evaluatior
+Unknown
+Are
+11. COMMENTS
+Deggription, chration, flight pach
+Indicate that this was a meteor.
+AISOP Form 5 (15 Oet 54)

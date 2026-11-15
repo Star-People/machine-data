@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:53:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3416430, "source_ctime_ns": 1793384249576690894, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989671/0878.jpg", "source_mtime_ns": 1785747964000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989671/0878.jpg", "source_sha256": "5fd937da9a7d2cf1d6bf8953a8f1c69672d896cbbe404370b9330050e517f035"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 119, "method": "ocr", "page": 1, "variant": "plain-vision"}
+15 54
+ohiact
+deses
+abiert
+- (3)
+(2)
+100 ₽.
+(3)
+Cota
++ad
+4: 1es.
+(5) 0loud cover. 1/2 of 1/10
+(4) phundarstores
+por
+220

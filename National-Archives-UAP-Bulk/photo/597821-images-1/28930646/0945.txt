@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:11:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5698287, "source_ctime_ns": 1793369113804648793, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930646/0945.jpg", "source_mtime_ns": 1785688541000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930646/0945.jpg", "source_sha256": "f3af64f9bbaf5a7a87e9dd3c4a9ed8db27b4111083dc514e3cd9211d449b4684"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 911, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Is per dien re
+k. Funds are chargeable to
+MCIA
+Division Symbol
+If travel is to
+ashington, authority from Washington must be
+shown
+(1) Letter
+Or
+Subject
+Da te
+(2) Teletype
+(3)
+Telephone
+Office of origin
+Number
+Col Robert Teylor, IlI
+Name of person in Washington
+Col E. K. NoCoy
+Name of person at this Hq
+Date
+AFOIR
+• Office
+Office
+Date
+For permanent change of station (scientists only) list
+dependents showing name, relationship and ages
+also, state
+whether shipment of household goods and personal effects
+at government expense is requested:
+(1) Dependents
+Name
+Name
+Relationship
+A ge
+Relationship
+A ge
+Name
+Relationship
+A ge
+Name
+Reletionship
+A ge
+(2) Is shipment of housenold goods requested?
+2. I certify thet I have checked this request for travel orders and Di
+consider travel essential to effectively discharge the functions of this
+section.
+Col, USAF
+Chief, Tech Intelligence Div
+Intelligence Department

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:47:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1466510, "source_ctime_ns": 1793390450202930940, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550033/1140.jp2", "source_mtime_ns": 1785808254000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550033/1140.jp2", "source_sha256": "3ba94245b06565d96f53bc415e6e5654e7c980884e942bed25f9f82cdce8f01e"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 416, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN : 60745 (21 Apr 66)
+Pg 2 of 4
+6. NONE
+7. NONE
+8. NONE
+9. MOVED VERY FAST
+PART Bo
+1. GLANCED UP
+2. CLIMBING
+3. SSW
+4. HEADING SOUTH, THEN SSW
+5. OUT OF SIGHT IN ONE MINUTE
+6. ONE MINUTE
+PART C.
+1. GROUND
+2. NONE
+3. NONE
+PART D.
+1. 21/0500Z
+2. NIGHT
+PART E.
+1% BETWEEN JEFFERSON & ALBANY, OREGON
+FORM
+AFHO JAN 65 0-309C
+UNCLASSIFIED

@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:15:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7292418, "source_ctime_ns": 1793361657054191080, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0132.jpg", "source_mtime_ns": 1785684845000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0132.jpg", "source_sha256": "cdc3e0e0a41e7da2005f9ceeb7dd139c5a9c1b55dfb48717e90f54aca67faf00"}
+
+===== PAGE 1 =====
+{"alpha_words": 205, "chars": 1545, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Altitude in feet
+32,000
+34,000
+36,000
+38,000
+40,000
+45,000
+50,000
+55,000
+Degrees
+290
+2,90
+280
+Speed in Knots
+32
+29
+35
+270
+28 0
+260
+270
+270
+50
+39
+30
+3. Local Flight Schedules between 0930 and 1130 hours 8 May 1949r
+Commercial -
+'rueson, Arizona
+American Airlines westbound flight to San piego & Los Angeles at 0740 hours
+American Airlines westbound flight to Phoenix & Los Angeles at 1420 hours
+American Airlines eastbound flight to El Paso & Dallas at 1110 hours
+Helicopter Service - No helicopters were airborn during this tine.
+Ollpin Airlines - Two light planes were airbor, one between the hours 1023
+hours and 1128 hours and the other from 1055 hours to
+1130 hours.
+Tueson Air Perk - No aireraft vere airborn between hours nentioned above.
+Military - Devis-Honthan AFB
+B-26 departed north for Los Angeles at 0831 hours
+B-25 departed east for Ft Worth, Texas at 0907 hours
+Records of AACS Log book, Davis-ionthan AFB, Tucson, Arasons indicate chat no
+contacts were made with aircrait in the vicinity between 0930 and H130 hours
+8 May 1949•
+No testing devices released by the United States Weather bureau in Tucson
+area at this time.
+5. Object did not contact earth.
+6. object did not come near other aircraft or know objects.
+7. Sketch showing path of flight inclosed as exhibit "AM.
+8. Statement of DIAZ inclosed as exhibit "Bi.
+Statement of WILLIANS inclosed as exhibit "C".
+Statement of SUMEY inclosed as exhibit "p".
+Statement of BLANGIO inclosed as exhibit #E".
+S. No physical evidence available.
+Declassification Authority: NND 923007

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:21:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10292945, "source_ctime_ns": 1793364166741124894, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0206.jpg", "source_mtime_ns": 1785684591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0206.jpg", "source_sha256": "d026e01bf5588d68be1b1a667d279ef6f5ec7a5eea073c0fe277b6195b6cf22f"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1205, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIA
+DETAILS:
+1. This investigation is predicated on a verbal report by Dr. LINCOLN
+LA PAZ, Professor of Meteoritics, University of New Mexico, and official ad-
+visor in matters pertaining to Aerial Phenomena. Dr. LA PAZ received, through
+the mail from Czechoslovakia, printed Communist material urging all scientists
+not to work for arms development and to follow the dictates of the Soviet
+Union. Dr. LA PAZ turned over this material to It Col DOYLE REES, District
+Commander, l7th District Office of Special Investigations, Kirtland Air Force
+Base •
+2. Photostatic copies of subject material, marked Exhibit A, B, and
+C, are attached to this report.
+The originals of subject material are in
+the possession of Dr. LA PAZ.
+Inclosures:
+FOR HEADQUARTERS OSI
+all scientists not to work for arms development.
+3. Four copies Exhibit C - Photo of receipt card for material received.
+FOR FILE
+l. Two copies Exhibit A - Photo of envelope in which material was received.
+Two copies Exhibit B - Photo of pamphlet in four languages urging
+all scientists not to work for arms development.
+3. Two copies Exhibit C - Photo of receipt card for material received.
+- CLOSED -
+Declassification Authority: NND 923007

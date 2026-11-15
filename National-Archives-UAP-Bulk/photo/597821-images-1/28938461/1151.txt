@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:00:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4995897, "source_ctime_ns": 1793371478267132594, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938461/1151.jpg", "source_mtime_ns": 1785688567000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938461/1151.jpg", "source_sha256": "470e2962d51d262ad51b695650b1d44a8d1670187ddcb89ef877d14952e93187"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 858, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+11 October 50 12/05102
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+Not Reported
+TYPE OF OBSERVATION
+Ground -Visual
+7. COURSE
+SW
+8. PHOTOS
+2. I CATION
+Lark, Utah
+10. CONCLUSION
+Astro (METEOR)
+• Yos
+XEL NO
+9. PHYSICAL EVIDENCE
+• Yes
+XX No
+FORM
+FTD SEP 63 0-329 (TDE) provious oditione of
+is forms may bo used.
+Evaluatede as a meteor observation..
+11. BRIEF SUMMARY AND ANALYSIS
+Observer thought object was a meteor, but upon closer observatic
+it appeared to be a rocket or plane of some sort.
+The object
+appeared at first as a long, thin line of fire crossing the
+sky at a terrific rate of speed.
+This line of fire later
+widened out and then seemed to dip and sxplode.
+The front end
+of the object broke away, and the main body seemed to stay in
+the sky and then suddenly faded completely out.

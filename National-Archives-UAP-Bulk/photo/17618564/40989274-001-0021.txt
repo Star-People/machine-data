@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:45:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1195709, "source_ctime_ns": 1793355801721951248, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0021.jpg", "source_mtime_ns": 1785564529000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0021.jpg", "source_sha256": "12aa826c58f5ea4effe00b5f9579cc5e590e6dfda79dbcd007c803527bf0eeae"}
+
+===== PAGE 1 =====
+{"alpha_words": 184, "chars": 1354, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Röswell Report:Rosewell Rpt Images:Jorgenson2.tif
+Kind: TIFF Page # 59
+Roswell Report: Rosewell Rpt Images:KaufmanTstmny1.tif
+Kind: TIFF Page # 58
+Roswell Report:Rosewell Rpt Images:KaufmanTstmny2
+Kind: TIFF Page # 57
+Roswell Report:Rosewell Rpt Images:KaufmanTstmny3
+Kind: TIFF Page # 56
+Roswell Report:Rosewell Rpt Images:Kittenger1.tif
+Kind: TIFF Page # 55
+Roswell Report: Rosewell Rpt Images:Kittenger2
+Kind: TIFF Page # 54
+Roswell Report: Rosewell Rpt Images:Kittenger3
+Kind: TIFF Page # 53
+Roswell Report: Rosewell Rpt Images:Kittenger4.tif
+Kind: TIFF Page # 52
+Roswell Report: Rosewell Rpt Images: Lutz1.tif
+Kind:TIFF Page # 51
+Roswell Report:Rosewel Rpt Images: Lutz2.tif
+Kind: TIFF Page # 50
+Roswell Report: Rosewell Rpt Images:Madson1.tif
+Kind:TIFF Page # 49
+Roswell Report:Rosewell Rpt Images:Madson2.tif
+Kind: TIFF Page # 48
+Roswell Report: Rosewell Rpt Images:Nordstrom1
+Kind: TIFF Page # 47
+Roswell Report: Rosewell Rpt Images:Nordstrom2
+Kind: TIFF Page # 46
+Roswell Report:Rosewell Rpt Images:JRTrnscrpt1/ApndxC
+Kind: TIFF Page # 16
+Roswell Report:Rosewell Rpt Images:JRTrnscrpt2/ApndxC
+Kind: TIFF Page # 15
+Roswell Report:Rosewell Rpt Images:JRTrnscrpt3/ApndxC
+Kind: TIFF Page # 14
+Roswell Report:Rosewell Rpt Images:JRTrnscrpt4/ApndxC
+Kind: TIFF Page # 13
+Roswell Report:Rosewell Rpt Images:JRTrnscrpt5/ApndxC
+Kind: TIFF Page # 12
+- 8 -

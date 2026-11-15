@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:07:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6889699, "source_ctime_ns": 1793378379728066990, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967784/0802.jpg", "source_mtime_ns": 1785696548000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967784/0802.jpg", "source_sha256": "e6e4a6867d0bbfcbceccc1866c0986e4948b8bf8049005b79d5de5e1119f85ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 422, "method": "ocr", "page": 1, "variant": "plain-vision"}
+01/09282
+/ Witness
+3. 9x22₴
+JEDWP H119 WPC248 YDDERS XYCR67
+MBPR2JBACR10
+MM RJEDEN RJEDUP RJEPHO RJUFDN
+DE ROWPJE 1B
+N 0120W02
+ACTION INFOR /NO E
+alic
+1958 OCT 2
+08: 17'
+FM COMDR 27TH AIR DIV DEF NORTON AFE CALIF
+TO RUEDEN/COMDR ADC ENT AFB COLO
+RJEDUP/CONDR AIR TECH INTEL CTR WRIGHT PATTERSON AFE OHIO
+RJWPHO/DIR OF INTEL HO USAF WASHDC
+INFO RJWFDN/COMDR 34TH AIR DIV DEF KIRTLAND AFE NMEX
+BT
+UNCLAS 2701 J-3219 UFOB PD

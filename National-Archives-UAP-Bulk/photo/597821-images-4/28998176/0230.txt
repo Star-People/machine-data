@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:06:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6552972, "source_ctime_ns": 1793387105714750534, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998176/0230.jpg", "source_mtime_ns": 1785747985000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998176/0230.jpg", "source_sha256": "4e934f9cda72ae443881e6a404300f0812aa4dc82015fa1827854bfff684be35"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 255, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Dear ir. Sr
+
+Your letter of July 13th Provided insure: .
+Client information for proner analysis,
+
+12, te i Please complete the attached form and mail
+ee it back to me,
+: Sincere.-;,
+A
+/ i. - is i { _« e
+
+es Colonel, USAP
+Office of Information
+
+AS eR eae

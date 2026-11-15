@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:42:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 765069, "source_ctime_ns": 1793393844698856902, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302581228/0650.jp2", "source_mtime_ns": 1785808205000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302581228/0650.jp2", "source_sha256": "e38b2cf4de233fa03fea245cc446f39d6c466018ddffdb07ddf6758af141f14b"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 731, "method": "ocr", "page": 1, "variant": "plain-vision"}
+REPLY TO
+ATTN OF:
+SUBJECT:
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON, D.C.
+USAF Representative, FAA SW Region
+P.O. Box 1689, Ft Worth, Tex 76101
+UFO Photograph of 19 Nov 68, near Acton, Texas (Your Ltr, 17 Jan 69)
+23 January 1969
+TO: FGN TEC DIV (IDPT (UFO))
+1. The Chief of Compliance and Security, FAA SW Region prefers that your
+Photo Analysis Section complete their analysis of the negatives.
+2. As stated previously, request this Office be furnished a copy of the
+analysis when the negatives are returned.
+FOR THE CHIEF OF STAFF
+RAY P. CARTER, It Co1, USAF
+Air Force Representative
+FAA SW Region
+Copy to: SW-90, FAA SW Rgn (Mr. Adams)
+Underwrite Your Country's Might - Buy U.S. Savings Bonds

@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:03:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5789452, "source_ctime_ns": 1793382040996295421, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982505/0923.jpg", "source_mtime_ns": 1785700667000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982505/0923.jpg", "source_sha256": "5ac59743b16fbf88e19cdb9075dbb25d03d85e3b0673ff9f8ab661f8935cd00a"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 726, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+3. DATE-TIME GROUP
+GM T
+S. PHOTOS
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air- Vi suol
+8. SOURCE
+Civi
+an
+8. NUMBER OF OBJECTS | 9. COURSE
+one
+• Ground-Radar
+D Air-Intercept Radar
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+• Other.
+Insufficient Data for Evaluation
+Unknown
+• Yes
+7. LENGTH OF OBSERVATION
+55
+10. BRIEF SUMMARY OF SIGHTING
+A yellow light, sise of pinhead, observed
+for 55 mins, but did not diseppeer.
+11. COMMENTS
+Ster charts Indicate the first
+magnitude star Capella vas in the
+position given by observer.
+ATIC FORM 329 (RIY 26 SIP 52)

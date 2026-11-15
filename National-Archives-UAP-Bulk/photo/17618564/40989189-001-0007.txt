@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T20:04:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5979960, "source_ctime_ns": 1793354273555707283, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989189-001-0007.jpg", "source_mtime_ns": 1785564257000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989189-001-0007.jpg", "source_sha256": "db7a1f4e98eb5d7f6600737270dea6b94feb63ded0d8fa47604b9cf2a454b56a"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 317, "method": "ocr", "page": 1, "variant": "clean-vision"}
+JORNING REPOP
+OFFICERS NO
+STED MEN
+1₴
+5/4
+MORNING REPORT
+STATICA DE LOCAL
+09 th Somb Gp (V:)
+OFFICERS
+NO CHANGE
+Strantz William R
+CALISTED
+ATEN
+RA16054574, I Set,ę
+870
+Dy to departed (10 day delay enroute)
+Pendiog EDCUR 1; July 47 to 3rd AAF BU
+Bolling Fld Washington D C Par 5 SQ,130
+Hq this sta
+NO 1
+1
+17
+EN
+1
+5
+34

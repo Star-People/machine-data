@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T19:18:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8786017, "source_ctime_ns": 1793387580704723949, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998865/0852.jpg", "source_mtime_ns": 1785748161000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998865/0852.jpg", "source_sha256": "55be618da50fe882517e612deeeca6356192edead86c45d8b735bc2af552fbc3"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 329, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+16 August 1962
+Santa Rosa, Argentina
+On the night of Auguat loth, 35 to 30 peopla in Santa Rova, Argen
+tina, viinessed three or four U8013 which departed from a
+"mother shipi and
+dashed off at great speed tovard the horizon,
+The "nother ship" remained vio
+tale low in the sky for some time thereafter.
