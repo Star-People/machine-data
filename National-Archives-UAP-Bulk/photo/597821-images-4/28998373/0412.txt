@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:00:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8122919, "source_ctime_ns": 1793387208293170604, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998373/0412.jpg", "source_mtime_ns": 1785748431000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998373/0412.jpg", "source_sha256": "8df77ef726458cda2ccdf048715d7cd392eae5c1356db90a0517bb991aa7831b"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 646, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN :
+ACTION:
+INFO
+Ø45
+SMB A
+PPPZCBJA062
+00 RUEAHO
+DE RUAC 38
+ZNR
+0 25 03402
+FM COMCARIBSEAFRON
+TO RBEKHC/C INCLANTFLT
+RUECW/CNO
+R JWFAL B/C INCN ORAD
+RUEAH/C OFS USAF
+RULRSA/72D BOMBWG RAMEY AFB
+NAVY GRNC
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMINA
+H/ab
+57569 (25 Ju1 62)
+CIN-17.
+ARMY-2,
+CMC-8, JCS-35,
+OȘD-15,
+NSA-7, CIA-11,
+00P-2,
+OOP-CP-1, DIA-10, SAFS-3, DIA(CIIC) -3
+(115)
+UN CL AS
+ATTN 72D BOMBWG CHIEF INTEL
+CIRVIS EVALUATION
+A. MY 2501102/25 00302
+1. NO ADDITIONAL INFORMATION AVAILABLE THIS COMMAND
+BT
+NOTE : 250030 18 AF IN 57236 (24 Jul 62)
+* 250110 1s not identified in SMB
+25/03472
+Adv cy del to CIN, DIA and OOP-CP

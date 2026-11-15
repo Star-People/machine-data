@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:50:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4328470, "source_ctime_ns": 1793359466254238221, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-029-0003.tif", "source_mtime_ns": 1785681422000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-029-0003.tif", "source_sha256": "aee413bf04b64ae45cebbcfd0f8bd11accf4af72a59eea5da87056606a79b473"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 539, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+EN0009ENC064 YDD110 XYA205 XDA086
+JBAØ79
+JBE0Ø2
+RR RJEPHQ RJEPWP RJEDEN
+DE RJWPJB 2E
+R. 231815Z
+FM COMDR 669 ACWRON PORHUE CALIF
+RJ PJS/COMOR 2T ADIVEDEF NORTON AFB CALIF
+RJEPWP/COMDR AIR TECH INTELL CENTER WRIGHT PATTERSON AFB OHIO
+INFO RJEPHQ/DIR OF
+INTELL HQ USAF WASH 25 DC
+BT
+UNCLAS 6690PS 089-Y PD REF OUR MSG 5690PS 067-Y DTD 17 JULY 56 CMM
+UFOB PD CORRECTION TO ITEM 11 PD ADD MONTE D WRIGHT CMM 1ST LT CMM
+SR DIR CMM COCO CREW PD
+BT
+23/1900Z JUL RJWPJB
+24/04302 Quel 56
+PLS RGR FOR LAST MESG

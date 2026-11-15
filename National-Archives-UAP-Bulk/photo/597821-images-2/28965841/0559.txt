@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:07:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4465349, "source_ctime_ns": 1793377886007554555, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965841/0559.jpg", "source_mtime_ns": 1785696684000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965841/0559.jpg", "source_sha256": "97ec1652dd52a70e2682ea687eab8d59002bc397626588732c90f9db30c22536"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 834, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+10
+June 1956
+3. DATE-TIME GROUP
+Local
+2155 EST
+GM T.
+11/02557
+5.
+PHOTOS
+• Yes
+XX No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dayton, Ohio
+4. TYPE OF OBSERVATION
+XA Ground• Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+unknown
+one
+10. BRIEF SUMMARY OF SIGHTING
+One object described as a ball of
+fire.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+•
+•
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+XX Insufficient Date for Evaluation
+•
+Unknown
+9. COURSE
+South
+11. COMMENTS
+SOD, checked with military
+flight service WPAFB and object
+believed to be jet a/c. Very
+very little information on
+this report by ll year old boy.
+Insufficient Data.
+ATIC FORM 329 (REV 26 SEP 52)

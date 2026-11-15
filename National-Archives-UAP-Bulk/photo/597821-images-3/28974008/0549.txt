@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:01:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8287221, "source_ctime_ns": 1793379983791284035, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974008/0549.jpg", "source_mtime_ns": 1785700922000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974008/0549.jpg", "source_sha256": "a2d042e881b99659ab30fe68da15ddb63c7a27e3ba42447ff5b7ef114d847469"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 515, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR
+RBWDKW
+< 72
+(A) GOOD
+<70
+(A) VISIBILITY 15 MILES CEILING UNLIMITED
+(8) WEATHER FROM WEATHER STATION AT LONG BEACH. SURFACE
+WINDS WEST AT SEVEN;
+61 348/20; 10M 330/30; 16M 330/35;
+20M 350/35; 3011 342/52; 50M 320/55.
+(C) CLEAR
+(D) 15 MILES
+(E) NONE.
+(F) NONE
+(8) NONE.
+(9) N/A
+(10) UNKNOWN. THERE IS USUALLY SEVERAL AIRCRAFT FLYING IN THE
+LOS ANGELES AREA, ESPECIALLY ON CLEAR NIGHTS.
+(11) AEOVE REPORTS RECEIVED EY THE OFFICER OF THE DAY AT
+LONG BEACH AIR FORCE BASE. 5
+(12) NONE.
+DT
+W6/D00 72 NCV RBWDKW

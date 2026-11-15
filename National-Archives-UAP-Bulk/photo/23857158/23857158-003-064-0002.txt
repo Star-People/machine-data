@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:30:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13383640, "source_ctime_ns": 1793358562681843768, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-064-0002.tif", "source_mtime_ns": 1785681131000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-064-0002.tif", "source_sha256": "903e66bd81b65120909056de68081ecf4c5179b25e44c3fb5a78442ebdb9a984"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 932, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+OPS
+4602D AISS UFOB REPT. 20......
+DATETIME GROUP HUGH
+RETURN FOR CENTRAL FILES
+JBE003
+AMM RJEDEN RJEPHO RJEDWP RJWPJB
+ADE R.JWPJB 2E
+M 10/2130Z
+FM COMDR 669TH ACWRON PORT HUENEME CALIF
+TO RJEDEN/COMDR ENT AFB COLORADO SPRINGS COLO
+INFO RJWPJB/COMDR 27TH ADIV DEF NORTON AFB CALIF
+JEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+RUEPHO/DIRECTOR OF INTELLIGENCE HOIRS USAF WASHINGTON 25 DC
+//UNCLASSIFIED//669 ACWS 030-Y PD UFOB. 1. A.ROUND.B.SILVER DOLLAR C.
+HITE. D. ONE.
+OO NA. F.
+NEGATIVE.G. NEGATIVE.H.NEGATIVE. I.NEGATIVE
+• A NEGATIVE B.NEGATIVE.C
+EAST. D. STRAIGHT LINE. E. FADE. F. 4 SECONDS
+GROUND-VIS
+090648Z JUL 55. B. NIGHT 5. CD-3156. 6. MR
+ARLINGTON, CALIF. STUDENT. 7. CLEAR. 8.
+EGATIVE
+NEGATIVE. 10. NEGATIVE. 11.
+INSUFFICIENT DATA FOR ANY
+CONCLUSION.
+I/LT JOHN E. ANDREWS, CONTROLLER. 12. NEGATIVE.
+BT
+10/2225Z JUL RJWPJB
+/80235
+RETURN FOR CENTRAL FILES

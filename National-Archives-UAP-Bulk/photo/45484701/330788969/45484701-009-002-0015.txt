@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:21:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8027945, "source_ctime_ns": 1793365485579823073, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0015.jpg", "source_mtime_ns": 1785684815000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0015.jpg", "source_sha256": "c1a059b241af4865273df20395ee6ecada300017358c5197944e4272ca211098"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 76, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+12080
+milledgevelle, Dar
+18/22/67
+13
+Declassification Authority: NND 923007

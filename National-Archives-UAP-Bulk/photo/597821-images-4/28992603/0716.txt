@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:08:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4799542, "source_ctime_ns": 1793385301322529095, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992603/0716.jpg", "source_mtime_ns": 1785748014000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992603/0716.jpg", "source_sha256": "c45674739771536a61284025e6db4e7dc292c78b132403de01a6726fdb3a6e0b"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 38, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+'
+
+Be Se OU Gok has : a * Re oe a RO

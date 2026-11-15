@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:24:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8865907, "source_ctime_ns": 1793364600445337938, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0096.jpg", "source_mtime_ns": 1785685197000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0096.jpg", "source_sha256": "b74e1671880e6aac35fc1e743d37296b7e8bf39a2313d88692f9d145a47e6d9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 108, "method": "ocr", "page": 1, "variant": "plain-vision"}
+У ПЕДІНОЙЛО МОТТАОТНІВВАЛО
+PEO YESORTUA YA
+TA
+ever 030 8
+STAG
+BROTTA
+Declassification Authority: NND 923007

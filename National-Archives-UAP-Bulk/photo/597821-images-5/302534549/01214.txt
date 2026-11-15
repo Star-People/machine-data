@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:38:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1039072, "source_ctime_ns": 1793388929542674138, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534549/01214.jp2", "source_mtime_ns": 1785808026000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534549/01214.jp2", "source_sha256": "7e3418458e34b0dce975db1817777e1679e4bee65faee4194670ab4038ffca93"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 433, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SMITHSONIAN INSTITUTION
+(Feb. 1, 1951)
+MEMO ROUTING SLIP
+TO THE FOLLOWING IN ORDER INDICATED
+NAME OR TITLE
+1. U.S. Air Force, Office of Information
+INITIALS-DATE
+2.
+Your information
+Your comments
+Necessary action
+Prepare reply
+Your recommendation
+REMARKS
+Note and return
+Proper signature
+Note and file
+See me
+Your initials
+FROM
+DATE
+National Air Museum, Smithsonian Institution
+7/27/6łą
+PHONE
+U.S. GOVERNMENT PRINTING OFFICE:
+539470

@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:49:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4054742, "source_ctime_ns": 1793386484532204238, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996335/0006.jpg", "source_mtime_ns": 1785748115000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996335/0006.jpg", "source_sha256": "97de258a3bc2da27563ce6b380283206bbdaf3a2a4c0fbdcff78aa9994d5d38a"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1147, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+27 Feb 62
+DATE-TIME GROUP
+Local.
+GMT_
+27/2300Z
+5. PHOTOS
+• Y•. Physical
+• No
+Specimen
+7.
+LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Brazil
+TYPE OF OBSERYATION
+D Ground Visual
+• Air Visual
+.. SOURCE
+• Ground-Roder
+• Air-Intercept Radar
+Civilian
+0. NUMBER OF OBJECTS | 9. COURSE
+Several
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aiseraft
+Possibly Aircreft
+Possibly
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Missiles
+Insufficient Date for Evaluation
+Unknown
+Se
+11. COMMENTS
+Contacted FTD representative at Cape
+Canaveral. Object identified by
+serial / on radio beacon as Atlas
+missile.
+BRIEF SUMMARY OF SIGHTING
+Metal fragments of object recovered in
+Brazi.
+One piece 5"x 1/8" with stenedled
+Letters 27-61047 of a canister type
+radio beacon model R-Z included in pieces.
+Observation at night.
+Pieces recovered next
+day. Kept several days then turned over to
+Army. Metal pieces spot weided.
+One piece
+oppeared to be magnetized and weighed 200 lbs.
+Observation was of flaming object leaving
+trail and exploding. Sound of explosion
+could be heard.
+ATIC PORM 329 (REV 26 SEP 52)

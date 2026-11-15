@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:31:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17667028, "source_ctime_ns": 1793356636413154020, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0255.tif", "source_mtime_ns": 1785564734000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0255.tif", "source_sha256": "5143a833c2025b396c58e1b98d75871054eaf7808f4c51667e743fcb6635f2a2"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 237, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+Incident #109 -- bakersfield, California - 9 march 1948
+It is extremely unlikely that the object cited in
+this incident was of astronomical origin. See report on
+incident #106.
+RESTRICTED
+Declassification Authority: NND 57565

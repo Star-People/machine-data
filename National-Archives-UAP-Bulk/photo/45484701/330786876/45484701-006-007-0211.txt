@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:27:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10051764, "source_ctime_ns": 1793364393628084558, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0211.jpg", "source_mtime_ns": 1785685118000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0211.jpg", "source_sha256": "519f8f7857ffcdc3f4a614a0db7bba6998260f7cc254ad0c506cf3fcf4ce2da3"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 1098, "method": "ocr", "page": 1, "variant": "plain-vision"}
+18. Odor None
+19. Speed Very fast
+20. Evidence of trail or exhaust None
+21. Effect on clouds
+No clouds, very clear
+22. Tactics or maneuvers
+23. Manner of disappearance
+Just like a light being turned off.
+24. What attracted attention to object
+Brightness of the flash.
+25. Additonal remarks of observer
+There is a Transformer (Transformer
+Station Kappa (#26) in front of Building #5 and the flash of light
+could very well have originated there.
+The light appeared to come
+from that direction, although the transformer was not visible from
+our point of observation.
+Observer's signature /s/ Fred Robert Selarge
+Title
+Inspector
+26. Additional remarks of investigator
+The terrain surrounding Pt.
+Meenie is very hilly and since Building #5 is located in a hollow
+the light as described by Insp. Selarge and Elliott, would almost
+have to originate either around the building or at the transformer
+nearby.
+The Area and surrounding terrain was thoroughly checked
+for any signs of intrusion with negative results.
+Investigator's signature /s/ P. Armijo
+Ticle
+Sergeant
+Declassification Authority: NND 923007

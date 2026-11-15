@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:28:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10485913, "source_ctime_ns": 1793364150139975499, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0180.jpg", "source_mtime_ns": 1785684590000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0180.jpg", "source_sha256": "3625a24d430d8dc87efb9e5780249f6feef2d30d536c1b5e1a255bc04b604be0"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1120, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFCSI/Maj Nold/dr-71776
+28 Feb 50
+OFFICE OF SPECIAL INVESTIGATTONS
+THE INSPECTOR GENERAL
+1 MAR 1950
+24-185¿47
+SUBJECT:
+(Unclassified) Commist Katerial Received fron
+Ozechoslovelcia by Dr. LINCOLI LA PAZ
+NO:
+District Commander, Sth OsT District 10,
+Wright Patterson Air Force Base, Dayton, Ohic
+Attoched is report of investigation from D0 927, Kirtland
+AlB, Hew lexico, dated 27 January 1950, concerning above Subject,
+Letter of tranmittal accompanying this report reflects
+that Dr. LINCOLN LA PAR is an advisor in certain capacities vith
+Air Nateriel Command.
+Report is forvarded for your information with request
+that the Air lateriel Comand office concerned be advised of the
+information contained therein.
+FOR THE DIEROFOR:
+1 Incl..
+Pot of Inv, DO 017
+27 Jan 50, re aby
+subJ, v/3 Exhibits
+GILBERS R. LOVI
+Actg, Chief, Counter Intelligence Div
+OSI, IG, USAP
+AFOSI FILES
+1950
+MANAGEMENT
+DIV.
+OSI
+UNCLASSIFIED
+CLASSIFICATION CANCELLED SO
+BY AUTHORITY OF THE DIRECTOR OF S
+-KURT K. KUNZE, Capt, USAF
+Historian
+4 DEC 1975
+DATE
+AFOSI IM. N
+USAF
+OFFICE
+SPECIAL INVPLLATIONS
+MAR 6 1950
+Declassification Authority: NND 923007

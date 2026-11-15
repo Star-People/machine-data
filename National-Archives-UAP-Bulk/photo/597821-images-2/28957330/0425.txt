@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:49:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4123344, "source_ctime_ns": 1793375711198812170, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957330/0425.jpg", "source_mtime_ns": 1785696939000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957330/0425.jpg", "source_sha256": "a13b4b96a7a243a47541bc8430c0e9ae2d526200bc964142b4183a189fb413fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 374, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ulti
+Australia
+UNCLASSIFIED 'Y/1200 Z MaLang
+IR-36-54
+AUSTRALiA
+FLYOB RPT
+Australia
+13 Feb 54
+George A. thrich, It Col, USAF
+Feb 54
+Air Attache, Australia
+T-6
+RAAF
+Further reporta on unusual sightings sumitted to BAA?.
+JOIN L. SULLIVAN
+Colonel, USAF
+Air Attache
+DECLASSIFIED
+›OD DIR 820641
+Chief, Air Pechnical Intelligence Center, ATTI: ATIA-Ze, Tright-Patterson AFE, Ohio

@@ -1,0 +1,109 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:45:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2622453, "source_ctime_ns": 1793356181370558160, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0176.jpg", "source_mtime_ns": 1785564629000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0176.jpg", "source_sha256": "909e0e0c1e5ad2781d245bdab46b7966ce0eafb0081e2785e672e3bc487310d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 540, "chars": 3916, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MI-216, Hose: Braided copper, flexible, high
+pressure; 8 ft lg with identical couplings each
+CONFIDENTIAL MODED HANDS AUTHORET AN
+end which fit Generator ML-185-(*) and stand-
+Sig C stock No.: 7A1842-319.
+ard hydrogen gas cylinder; used to transfer gas
+Status: Substitute/Std.
+from generator to storage cylinder. U/wHy-
+ML-320/AMQ-2, Aerograph Recorder: Provides
+drogen Generator ML-185-(*).
+indication of immediate values and a per-
+Sig C stock No.: 7A986-216.
+manent record of data obtained and trans-
+Status: Standard.
+mitted by Temperature-Humidity Transmitter
+ML-304A/TM, Calcium Hydride Charge: 90 per
+, ML-317(*)/AMQ-2 and Pressure-Air Speed
+cent calcium hydride in metal can withscored
+Transmitter ML-319(*)/AMQ-2; prints on
+holes; threaded for attachment to Hydrogen
+Chart Roll ML-325/AMQ-2. P/o Acrograph
+Genertor ML-303/TM. Generates hydrogen
+Equipment AN/AMQ-2 (Aerograph Equipment
+gas to inflate one 30-gram balloon to produce
+AN/AMQ-2A uses Aerograph Recorder ML-
+free lift of 155 grams. U/w Hydrogen Genera-
+320A/AMQ-2).
+tor ML-303-TM and Hydrogen Generator Set
+Sig C stock No.: 7A8126-320.
+AN/TMQ-3.
+Status: Substitute/Std.
+Sig C stock No.: 7A384-304A.
+ML-321/AMQ-2, Scale: Determines, from record
+Status: Standard.
+of Aerograph Recorder ML-320/AMQ-2, values
+ML-305A/TM, Calcium Hydride Charge: 90 per-
+of temperature, relative humidity, atmospheric
+cent calcium hydride in metal can with scored
+pressure, and air speed that existed simultane-
+holes; threaded for attachment to Hydrogen
+ously at any selected time. P/% Aerograph
+Generator ML-303/TM. Generates hydrogen
+Equipment AN/AMQ-2 (Aerograph Equip-
+gas to inflate one 100-gram balloon to produce
+ment AN/AMQ-2A uses Scale ML-412/AMQ-
+free lift of 650 grams. U/w Hydrogen Genera-
+tor ML-303/TM and Hydrogen Generator Set
+AN/TMQ-3.
+Sig C stock No.: 7A384-305A.
+Status: Standard.
+ML-315/GM, Pressure-Height Slide Rule: Special
+slide rule, 15 in. square with movable, circular
+scale; rule arm has scales for pressure, tem-
+perature, altitude, and vertical temperature
+corrections.
+Sig C stock No.: 741661-315.
+Status: Substitute/Std.
+MI-317 ( AMQ2, Lemperature-Humidity
+Transmitter: Instrument used with associated
+indicator and/or recorder to measure tempera-
+ture and relative humidity of the atmosphere;
+electrically connected to Aerograph Recorder
+ML-320/AMQ-2; contained in Mounting MT-
+321/AMQ-2 and mounted externally on air-
+craft. P/% Aerograph Equipment AN/AMQ-
+Sig C stock No.: 748158-317.
+Status: Substitute/Std.
+MI-319( )/AMQ-2, Pressure-Air Speed Trans-
+mitter: Instrument connected to the pitot-
+static line of an airplane to measure air speed
+of aircraft on which it is mounted and atmos-
+• pheric pressure at level of flight; electrically
+connected to Aerograph Recorder ML-320/
+Sig C stock No.: 715950-321.
+Status: Substitute/Std.
+ML-323/UM, Pressure Calculator (fig. 64): A cir-
+cular slide rule with special scales; used to obtain
+true atmospheric pressure, in millibars, at the
+level of flight from given values of the altitude
+setting in inches of mercury and the altimeter
+reading in feet. P/% Aerograph Equipments
+AN/AMQ-2(*) and AN/AMQ-3 and Psychrom-
+eter Equipment ML-313/AM.
+Sig C stock No.: 745896-323.
+Status: Standard.
+ML-324/UM, Air Speed Calculator (fig. 64): A
+circular slide rule with special scales; converts
+indicated air speed to true air speed, using tem-
+perature and pressure data. P/o Aerograph
+Equipments AN/AMQ 2(*) and AN/AMQ-3
+and Psychrometer Equipment ML-313/AM.
+Sig C stock No.: 7A5896-324.
+Status: Standard.
+MI-325/UM, Chart Roll: Recording chart used
+with Aerograph Recorder ML-320(*)/AMQ-2;
+10¾ in. wd x 100 ft Ig. P/% Aerograph Equip-
+ment AN/AMQ-2(*).
+Sig C stock No.: 7A5200-325.
+Status: Substitute/Std.
+ML-326/UM, Mixing Ratio Calculator: A calcu-
+lating device for computing the mixing ratio;
+scale ranges: mixing ratio, 1 to 40 grams per kilo-
+64
+CONFIDENTIAI
+MODIFIED HANDLING AUTHORIZED

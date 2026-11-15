@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:23:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8847782, "source_ctime_ns": 1793387787435268260, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999160/1119.jpg", "source_mtime_ns": 1785748158000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999160/1119.jpg", "source_sha256": "47a146cf266896d3f505671c9b865e283fa00b8aec3a7bb0f275634c3df2789d"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 812, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIRED MESSAGE
+AF IN: 4718 (18 Sep 62) | N CN/PE] | NG
+ACTION: JCS/J-3(JRG) -3
+INFO: DIA/CIIC-3, FILE-1, CIN-17, 00P-CP-1, 00P-2,
+SMB B 126
+ZCHQA035ZCWJX008
+OO RUEAHQ
+DE RUWGDR 5
+ZNR
+0 181130Z
+FM 340 WHITEMAN
+TO RUEAHO/ JCS WASH
+RUEAHO/AFCIN HQ USAF WASH
+RUCSBRB/ SAC
+RUWGAA/2 BARKSDALE
+RUETAD/S WESTOVER
+RUWBKG/ 15 MARCH
+RUWGALB/NORAD ENT
+PAGE 1 OF 2
+/SAFS-3 (31)
+UNCLAS ZIPPO Ø9-164/HOT NEW NR 1
+1. CALLA 49
+2. 18/0900Z
+3. OVER PEORIA, ILL
+4. CALLA 49 REPORTED SEEING A STRANGE BRIGHT LIGHT
+APPROXIMATELY 24 DEGREES ABOVE THE HORIZAN. LIGHT WAS
+OBSERVED FOR 10 MINUTES, WAS VERY HIGH AND APPEARED TO
+BE SHINING THROUGH HAZE BUT THERE WAS NO HAZE IN VIEW.
+CREW WOULD NOT GIVE AN OPINION AS TO WHAT IT MIGHT
+HAVE BEEN, JUST THAT IT WAS A VERY STRANGE BRIGHT

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:47:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3761841, "source_ctime_ns": 1793373708686425936, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28948276/0550.jpg", "source_mtime_ns": 1785688728000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28948276/0550.jpg", "source_sha256": "75bd3ef9442e6e14f00f6427edae24615818975011d3c982833a818ec0999932"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 945, "method": "ocr", "page": 1, "variant": "plain-vision"}
+4. АТЛА
+ACTION
+3,C. Files.
+18902 10.10
+318Auc52 10 41:
+MPE 15 4
+XYA161
+Gord
+XDB178
+JWPML 187
+PP JEPHQ JEDUP 222
+DE JWPML 151AP 161825Z ZNJ
+FM CO GEIGER FLD WASH
+TO JEPHQ/DIR OF INTELLIGENCE HQS USAF WASH D C
+JEDMP/AIR TECH INTELLIGENCE CTR WRIGHT PAT AFB OHIO
+JEDEN/CG ENT AFB COLO
+JPPHL/CG WADF HAMILTON AFB CALIF
+BEND WRIGHT PAT AFB ATTN: ATIAA-2C PD GOOT S-214 PD
+REF AFL 200-5 PAR SEVEN C PD MSG IN NINE PARTS PD PART ONE PD JUMBLED
+FORMATION OF TEN WHITE LIGHTS MOVING NE TO SW IN TEN SEC PD SECOND
+FLIGHT OF ATRE THAN TEN FOLLOWING SAME COURSE APPEARED AS FIRST FLIGHT
+DISAPPEARED TO SW PD
+PART 2 2155 HRS PST 10 SEC
+PART 3 VISUAL
+PART 4 12 MILES AT 60 DEG GEIGER FIELD CAA CONTROL TOWER CHA SPOKANE WASH
+PART 5 CONTROL TOWER OPERATOR
+PART 6 CLEAR VIS 25 MILES TEMP 65 WINDS WSW 9 MILES CMA 20 THOUS AND 30
+(NOTS CMA 32 THOUSAND 39 KNOTS
+PART 7 8 & 9 NEGATIVE
+PART 10 B-36 LANDED 2159 PST FAIRCHILD AFE CMA WASH PD END
+16/19052 AUGUST 121

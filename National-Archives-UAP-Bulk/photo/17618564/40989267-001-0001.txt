@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:06:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10671823, "source_ctime_ns": 1793355420538605340, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0001.jpg", "source_mtime_ns": 1785564452000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0001.jpg", "source_sha256": "51e8a261bf3e6d1c42b15a300d74efe18b4c8d37f92e51b8923392e1a6987d9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 406, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFCRL-63-919
+DECEMBER 1963
+C. B. Moore
+P. O. Box 1333
+Socorro, NM 87801- 1333
+Air Force Surveys in Geophysics
+No. 154
+Research Note
+Proceedings of the AFCRL Scientific Balloon Symposium
+Held at Hotel Somerset
+Boston, Massachusetts
+25,26 and 27 September 1963
+AEROSPACE INSTRUMENTATION LABORATORY PROJECT 6665
+AIR FORCE CAMBRIDGE RESEARCH LABORATORIES, OFFICE OF AEROSPACE RESEARCH, UNITED STATES AIR FORCE

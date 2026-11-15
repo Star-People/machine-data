@@ -1,0 +1,99 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:07:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4513591, "source_ctime_ns": 1793375180861850510, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955003/1037.jpg", "source_mtime_ns": 1785696885000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955003/1037.jpg", "source_sha256": "2ddd10977104de35fa7a75875bdfe2fd81686e7d25dfcde7d03ab6d1cc0389f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 199, "chars": 1565, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ary
+AERONAUTICAL SYMBOLS
+RADIO FACILITIES
+All frequencies are kilocycles unless otherwise stated
+Methods of indicating specific voice and CW cails are shown below
+Radio Range
+(With voice)
+WOODY RADIO
+291 AB
+5...
+Radio Range.
+(Without voice)
+WILLOW RANGE
+320 KB
+Non- Directional Radio Beacon.
+(With voice)
+- R Sn.
+EVERETT BEACON
+224 MMC
+=
+Non- Directional Radio Beacon
+(Without voice)
+•
+R 3n.
+EVERETT
+224 MMC
+Marine Radio Beacor
+M R 8n
+ISLAND
+309 B0 =:
+-~ DF
+Radio Direction Finder.
+(With voice)
+116.1 mc
+Radio Direction. Finder.
+(Without voice)
+• DF --
+MANUA
+4595 VFPW
+AIRCRAFT
+ANDING
+FACILITY
+INFORMATION
+RAMEY AFB
+18
+LH
+48
+Airport of Entry
+ILS GCA
+240 110.1
+116.1 mc
+Radio Communication Station
+(With voice)
+-- CS.
+GOWEN AIRWAYS
+4785
+Radio Communication Station.
+(Without voice)
+. CS.
+KAZAN
+5200 WHY 2W
+Radio Broadcasting Station
+-RACO
+CHANNEL X
+Radar Beacon (Racon)
+Radio Fan Marker Beacons
+MAN
+International Boundary
+Closed to passage of aircraf
+xcept through air corridor
+RADIO FIXES
+Reporting point.
+CASE -
+INTERSECTION
+- BRANT
+INTERSECTION/
+AIRWAYS & RADIO RANGE (AURAL)
+Minimum Safe Altitud
+Traffic Controlled-
+9000~
+8→-Nautical Miles
+AMBER T
+* 5000 =
++270°
+8000 2
+- Airport Traffic Zone
+Nautical Miles
+N
+Traffic Uncontrolled
+= 4000 x
+AIRSPACE RESTRICTED AREAS
+•Prohibited Area - Flight of aircraft prohibited except by specific authority of using agency
+Danger, Restricted or Warning Area - Invisible hazards to air navigation
+(Specific authority required prior to entry of Danger Area
+Caution Area - Visible hazards to Air Navigation (Avoid if practical)

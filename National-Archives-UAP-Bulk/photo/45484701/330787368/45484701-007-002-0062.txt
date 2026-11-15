@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:05:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10158284, "source_ctime_ns": 1793364579805604817, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0062.jpg", "source_mtime_ns": 1785685195000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0062.jpg", "source_sha256": "80b01c9398a5517fe5b7f65d3a8f2c9b80336e02f10e4315a5bc76e04c26289f"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 115, "method": "ocr", "page": 1, "variant": "clean-vision"}
+ОИЛО ИОТТАОТІВВАЛО
+ОДІ УВ
+STAG
+1968AON 62
+ISELAON
+ISGI AON
+a von es a
+AJDVU
+Declassification Authority: NND 923007

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:39:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1368885, "source_ctime_ns": 1793393974942889872, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582577/0472.jp2", "source_mtime_ns": 1785808269000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582577/0472.jp2", "source_sha256": "f4b2c7c657c33a6f93f90d58bffa4012df27549842c15917043af4d5b3183403"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 601, "method": "ocr", "page": 1, "variant": "plain-vision"}
+18 Apr. 69
+- PRIORITY
+MSG # 14506 DATE/TIVE
+OF RECEIPT- 1081340Z
+PTTUZYUV RUWMABA0147 1081304-UUUU--RUVAAA.
+ZNR UUUUU
+P 181200Z APR 69
+FM SMAMA /SMVO/ MCCLELLAN AFB CA
+TO RUWMFVA/ADO
+RUWMMJA/26TH ADIV /ADC/
+RUVAAAA/FTD WPAFB OHIO/TDETR/
+RUEFHQA/CSAF/TOPT/UFO/
+RUEFHQA/OSAF/SAF-OI/
+UNCLAS SAVO
+IAW AFR 80-17, PARA 11, FOL AVAIL INFO IS SUBMITTED:
+A. (1) UNDETERMINED DUE TO BRIGHTNESS OF LIGHT
+(2) MAGNITUDE OF LIGHT SAME AS EXTREMELY CLOSE PLANET
+(3) WHITE CRYSTAL.
+(4) ONE
+(5) N/A
+(6) NONE
+(7) NONE VISABLE
+(8) NONE
+(9) NONE. MOVING IN NO APPARENT FIXED PATTERN.
+8. (1) LOOKING OUT WINDOW OF OFFICE.

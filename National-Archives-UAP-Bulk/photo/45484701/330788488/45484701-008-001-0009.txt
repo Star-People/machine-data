@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:58:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7020686, "source_ctime_ns": 1793365185248758990, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0009.jpg", "source_mtime_ns": 1785684663000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0009.jpg", "source_sha256": "1ff4c549d44f0e002a1710771b700d6abd940e79cf5be7f636025806f5b6c764"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 860, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETAILS:
+AT ILMENDOFF ATB, ALASKA:
+1,
+Records at Base Operations, Hanger fl, indicate no flight
+activity of Elmendorf AF Base Jet aircraft in the vicinity of Circle
+Hot Springs, Alaska, between 0000 and 0200 hours, 30 May 1950.
+2, Alscraft Flight Report-Operations, Form 1-A, for aircraft
+of the 64th, 65th and 66th Fighter Squadrong, 57th Fighter-Interceptor
+Group (Jet), Hanger #2, indicate no flights in vicinity of Circle Hot
+Springs between 0000 and 0200 hours, 30 May 1950.
+The 1-A forms indi-
+cate that two (2) F-80 aircraft departed Elmendorf AP Base on 30 May
+1950 at 1120 and 1125 hours respectively, and arrived at Ladd AF Base
+one (1) hour after takeoff,
+Neither of these aircraft were flown at
+Ladd AF Base prior to returning to Elmendorf AF Base on 1 June 1950.
+REFERRED UPON COMPLETION TO OFPICE OF ORIGIN
+Declassification Authority: NND 923007

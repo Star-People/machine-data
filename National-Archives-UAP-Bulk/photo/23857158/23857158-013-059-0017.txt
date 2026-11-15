@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:45:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2427186, "source_ctime_ns": 1793360260403866184, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-059-0017.tif", "source_mtime_ns": 1785681672000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-059-0017.tif", "source_sha256": "033b488f27ecb44c09431871dc760e8b1538422fc278d3af78be8c0a59326e17"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 252, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Autority NND 923007
+Page 10
+et ruhn it rean gane aut of sight.
+koch d silli. Thiř zvas a dbaué 1o to
+13 miler . ze zvanteed et tho tuce
+nhat it cauld be, ond had nenu aen
+am enclazig cliffing puu aur local
+jafu hue at mabritje d. Dak.

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:15:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6426252, "source_ctime_ns": 1793376870419873249, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962158/0374.jpg", "source_mtime_ns": 1785696559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962158/0374.jpg", "source_sha256": "808ec34a886dcb450dda2ee5c1aada6d1341840983c264763973cef57fdc58b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 750, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+I. DATE
+2. LOCATION
+Local
+CM T 20/04152 May 1955
+5. PHOTOS
+• Yes
+* No
+7. LENGTH OF OBSERVATION
+1. F92 fornia
+* Ground-Visual
+D Air- Vi sual
+6. SOURCE
+175a
+NUMBER OF OBJECT
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+a
+Wos Aircraft
+Probably Aircraft
+Possibly Aircrott
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+Cne (2)
+Che (1) round object was observed high to the
+vest for a period of approximately five (5)
+mimtes. Object slowly gained altitude and
+faded away.
+9. COURSE
+Caining altitude o
+91O1Y
+COMMENTS
+This object was definitely identified
+as a balloon.
+No investigation
+authorized.
+AISOP Form 5 (15 Oct 54)

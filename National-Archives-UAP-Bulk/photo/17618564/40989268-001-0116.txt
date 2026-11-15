@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:30:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15908514, "source_ctime_ns": 1793355677396050597, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0116.jpg", "source_mtime_ns": 1785564501000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0116.jpg", "source_sha256": "b505189604d217a6049962c232c3d8f95973babad62599167214db7e0d2f74e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 360, "chars": 2544, "method": "ocr", "page": 1, "variant": "plain-vision"}
+218
+Non-dimensional
+Amplitude
+7.0
+6.0
+5.0 -
+4.0
+3.0
+2
+• Brass
+Ceramics
+Hastelloy
+• Nylon
+s S.S.
+• Teflon
+3 4 5 6 789104
+Reynolds Number
+4 5 6 7 8 9105
+Figure 4. Nondimensional Amplitude of Oscillations of Spheres Falling in Water
+constant but moves relative to the sphere. This is a wandering wake. The magnitude
+of the balloon motion induced by a wandering wake is considerably greater than that
+caused by vortex shedding.
+5. SOLUTION
+Based upon the conclusion that a subcritical type wake eliminates the instability
+problem, four possible techniques could be used to produce such a wake:
+1. The first would be to control the separation so that it remains near the
+equator. This could be done by employing surface projections or burble fences
+which produce separation (Scoggins, 1964). The projections would have to extend
+beyond the boundary layer to accomplish this, since surface roughness produces the
+undesired turbulent boundary layer.
+219
+Non-dimensional
+4 Frequency
+.021
+.019
+.017
+015
+.013
+009
+.007
+.005-
+.003-
+.001
+• Brass
+c Ceramics
+• Hastelloy
+N Nylon
+s S.S.
+T Teflon
+I03
+vylon
+Teflon
+Ceramics
+Nd ,0074 + 44 × 10° -T6 Re
+8 10*
+I0°
+Reynolds Number
+Figure 5. Nondimensional Frequency of Oscillations of Spheres Falling in Water
+2. The second technique would be to maintain a laminar boundary layer. This
+could be accomplished by limiting the Reynolds number to subcritical values by re-
+ducing the size of the balloon.
+3. The third technique would be to maintain a large dead area behind the sphere.
+This could be accomplished by using skirt-type devices.
+4. The fourth technique would be a method of direct wake stabilization through
+the use of drag tails.
+In making any modification to the balloon, consideration must be given to the
+effect upon its wind-sensing capabilities. Any added weight is undesirable as is an
+increased diameter due to the adverse effect on the wind response (Reid, 1964). At
+the same time, any objects put into the boundary layer will affect the apparent mass
+of the balloon. (The apparent mass may be thought of as that portion of air surround-
+ing the balloon which must be accelerated as if it were a part of the balloon. It is
+approximately equal to one half the mass of the displaced air for the standard
+"'ROSE'.) Any modification which changes the shape of the balloon so that the drag
+area becomes a variable (a function of orientation) or which provides lifting surfaces
+is undesirable. Rotation of the balloon is undesirable in all cases because it tends
+to encourage a turbulent boundary layer.

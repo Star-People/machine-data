@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:51:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4797132, "source_ctime_ns": 1793373131076759048, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945606/0834.jpg", "source_mtime_ns": 1785688834000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945606/0834.jpg", "source_sha256": "8d7f3e0444252922129f6d31f2e96569484eec295ffed2ef066191605d40533c"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 448, "method": "ocr", "page": 1, "variant": "plain-vision"}
+-
+PAGE TWO OFJWPML 48A
+RPT FELL OUT OF BALLOON CMA CIRCLED OBJ A AND THEN DISAPPEARED PD THERE
+APPEARED TO BE AN EXPLOSION PD SMALL STREAKS OF VAPOR TRAILS PD
+WILLARD
+RANGR STATION RPTD OBJ DISINTEGRATED AND 4 PARACHUTES FELL APRX S SIDE
+OF MT ADAMS PD RANGER STATION HAS AN INSTRUMENT TO MEASURE ALT BUT COULD
+NOT DETERMINE WHETHR ALT WAS 71,600 OR 7,100 FT PD AIRCRAFT ACTIVITY
+NEG PD NO FURTHER INFO AT THIS HQ PD
+26/3218Z JULJIPML
+Balloo"
+G- 1

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:19:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7719271, "source_ctime_ns": 1793364055299957942, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0025.jpg", "source_mtime_ns": 1785684578000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0025.jpg", "source_sha256": "bb040f283e5c68491f887c30d6f3970ba04c57e30ec20e4399fee0931a3a1050"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 393, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SUBJ:
+Unidentified Aerial Phenomena
+SPOT INTELLIGENCE REPORT
+2 May 1950
+v. Witnesses - None
+3. ACTION:
+Investigations.
+Report furnished Headquarters, Office of Special
+Sglet en
+DOYLE REES
+It 961, USAF
+Distr 1ot Commander
+1-185:77-65
+IRITED STATES AIR FORCE A
+HE INSPECTOR GENERAL
+MAY 9 9 12 AN '50
+BIL
+OFFICE OF
+SPECIAL INVESTIGATIONS
+NOLD)
+MAY 1 6 1950
+Declassification Authority: NND 923007

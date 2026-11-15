@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:37:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 989095, "source_ctime_ns": 1793393906714014248, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582063/1431.jp2", "source_mtime_ns": 1785808025000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582063/1431.jp2", "source_sha256": "a49d884e1cbaf094a2cb640a327ddcf2b4d66fa8157b263b6dc5fdbaad36a4c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 397, "method": "ocr", "page": 1, "variant": "plain-vision"}
+073 RECORD
+DATE
+10/19
+69
+11/00:52
+10 Pet
+SOURCE
+Civilia:
+NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+Minutes
+TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+See Case
+PHOTOS
+n Yo
+XX No
+9. PHYSICAL EVIDENCE
+N Yo
+XX Ho
+7024
+FTD SEP 53 0-329 (TDE)
+2. LOCATION
+10. CONCLUSION
+Kettering, Ohio
+NSUFFICIENT DATA FOR EVALUATION
+AF For 117 not returned as of 15 Apr 69.
+BRIEF SUMMARY AND AHALYSIS
+SEE CASE FILE

@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:22:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8217137, "source_ctime_ns": 1793382121586023204, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1097.jpg", "source_mtime_ns": 1785701024000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1097.jpg", "source_sha256": "3c508ce92343426b6b29ac956e485896f3aff82362dfabefed5ff8e8180835d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 747, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page two
+5.
+Aircraft identification UNULAC0/6.|[mlight Data
+a. Type aircraft
+B-52 0
+b. Serial No.
+56-687
+c..
+Hone Station FILS WORTHAFE
+Heading
+0/0°
+Ma g
+- True
+Ind. Altitude
+31000
+Ind. Airspeed
+241
+Lu Kaots
+— MPH
+1 Compass
+7. Was an attempt to detaot the object on airborne radar made? (Cirale one)
+do Radar.
+Radar inoperative
+Yes
+a. If IS, describes
+8. Was an intercept attempted? (Circle one)
+Tas
+9. Were photographs taken?
+(Circle one)
+You
+10. Were any other aircraft seen in the area? (Circle one)
+a. If 1D9, was any attempt rade to contact them? Comments:
+Ias
+1.1.
+Were any nearby ground stations contacted during or ston after the sighting?
+(Cirale cne) Clas
+Comments:
+OLAOSIFIEO
+RADED
+1006TH AISS Classified
+Document Log 457 75 51
+57-15/2

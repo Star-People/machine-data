@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:15:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6428937, "source_ctime_ns": 1793381717312913719, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981384/01346.jpg", "source_mtime_ns": 1785700680000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981384/01346.jpg", "source_sha256": "24d8a0266c4711f436068e9e2430fa7ee049fdfd8655837e56aac573b16e27a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 736, "method": "ocr", "page": 1, "variant": "plain-vision"}
+case / 955
+OSPARTMENT OF THE AIR FOR C
+STAFF MESSAGE DIVISION
+TINCLASSIFIED MESSAGE
+INCOMING
+SMD C 378.
+VZCHQA9032CV JB581
+••''' YY RJEZHO
+DE RJESDLA 40
+PM TURMOIL 43/AFE8 MACDILL AFB FLA
+TO RJEZHQ/CHIEF OF STAFF HQ USAF
+RJWFAL/COMDR ADC ENT AFB
+RBEGUH/COMDR EASTERN SEA FRONTIER
+AF GRNC
+17. Dec5ął
+VUNCLAS/CIRVIS REPORT TURMOIL 43 SPOTTED OBJECT TO THE SOUTH EAST WHICH
+SEEMED TO BE TRAVELING IN AN EASTERLY DIRECTION. THE OBJECT PASSED ON
+TO THE SOUTH OF TURMOIL 43 AI A HIGHER ALTITUDE AND EAST SPEED. THE
+OBJECT APPERAED TO BE A ROCKET AND SEEMED TO ARC BACK TOWARD THE
+CCEAN.
+BT
+18/2315Z DEC RJESDLA
+NOTE
+: Advance copy delivered to CIN
+ACTION: CIN
+INFO ARMY, NAVY, JCS, OSD, SAFS, NSA, CIA, OOP-CP
+AF IN : 13775 (18 Dec 58)
+K/crh

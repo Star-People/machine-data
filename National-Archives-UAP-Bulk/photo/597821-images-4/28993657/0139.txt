@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:02:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8468769, "source_ctime_ns": 1793385564172992248, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993657/0139.jpg", "source_mtime_ns": 1785747840000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993657/0139.jpg", "source_sha256": "8b2691a897efc56c16aa6faa03cccd5b2a5a06cbe44392cbc7f20f2b91ad0916"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 535, "method": "ocr", "page": 1, "variant": "plain-vision"}
+T HOURS REMAINING PARALLEL AT ALL TEM
+RELATIVE POSITION WITH STARS.
+0DJECT MR 1, 20-00N 170-060
+OBJECT NR 2. A/C HEADING 105 DEGREES
+AS
+DEAD APEAD. DISTANCE UNKNOWN.
+5. 03JECT NR 1, 2614402
+OBJECT NR 2: 2615202
+6. OBJECT NR 1. UNKMOWN
+OBJECT NR 2. AROM 12 DEGREES ABOVE THE HORIZON TO APPARENT
+INFINITY,
+7. OBJECT NR 1, FALLING FROM SOUTH TO NORTH.
+OBJEOT NR 26 APPEARED TO BE STATTONARY.
+S, OBJECT MR 1. UNKNOWN
+OBJICT MR 2. SIATIONARY
+9. NO OBSERVED IDENTIFICATION EITHER OBJECT
+THIS IS A POST LANDING REPORT. NO AIRBORNE REPORT SEN

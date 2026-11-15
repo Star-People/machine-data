@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:51:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4472128, "source_ctime_ns": 1793359394913830571, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-069-0001.tif", "source_mtime_ns": 1785681401000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-069-0001.tif", "source_sha256": "658d4d74160aa11a843a7885cf4fc93203d16ff13c2bcb6af3b219925f6b8e87"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 604, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+DAE/TEE OF SIGHING
+AIS3-UРО8-332-55
+18/0500% Sep 55
+LOCATTON OF STORTING
+Bellinghas, Waahington
+MEANS RECE
+ACTION
+No investigation authorized
+DATE INVES ASSIGNED
+N/AS
+DATE IR APPROVED
+#/A
+RECD HQ 4602D
+18 Sep 55
+LOGCAD BL
+A/10 Deludder
+TY Mag
+INVES UNIT
+N/A
+DATE IR RECD HO
+NYA
+DATE OF FORM 5
+23 Sap 53
+COMMENTS
+ASSIGHING OFFICER
+NA
+DATE IR TO ATIC
+Conour with the opinion of the reporting officer that the sighting
+was Probably ouased by the exhaust of jat airoraft.
+CONCLUSTONS
+PROSABLE AIRCRAFT: JET EXHAUST
+AISOP FORM 7 (2 APR 55)

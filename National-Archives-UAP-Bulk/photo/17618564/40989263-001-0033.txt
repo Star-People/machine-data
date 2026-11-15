@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:06:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10178750, "source_ctime_ns": 1793355117123873613, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0033.jpg", "source_mtime_ns": 1785564396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0033.jpg", "source_sha256": "cdee836a8cc563b5e1e5f89988cc07ec02aec95b164c9190508ccccda8c3aa9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 81, "method": "ocr", "page": 1, "variant": "clean-vision"}
+OSA
+CLOUDCRO
+RUIDOSO
+H75-2611H60X
+24 Ap
+mril, 25
+NO. S/amp ler
+ROSW
+DUNKEN
+•HOPE

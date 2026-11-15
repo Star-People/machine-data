@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:31:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16788256, "source_ctime_ns": 1793356607240019540, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0224.tif", "source_mtime_ns": 1785564729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0224.tif", "source_sha256": "7791073cd25675f0a9168195622a265bc791ddc3ab2596c2e14d32a31603ac37"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 322, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #22 - Spokane, Wasnington -- 21 June 1947
+This incident does not have any obvious astronomical
+explanation.
+The information given is too limited to suggest any definite
+interpretation. It would seem, however, that the objects might pos-
+sibly have been a series of balloons.
+Declassification Authority: NND 57565

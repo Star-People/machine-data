@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:20:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7981758, "source_ctime_ns": 1793365194000584473, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0025.jpg", "source_mtime_ns": 1785684664000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0025.jpg", "source_sha256": "1a1d94ee0a4315e3a8ecb0e22492ea071d7a5d917a826c6d4066ae98839e865d"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1061, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECURY NUTEL
+ORMATION
+HEADQUARIS RS
+ALASKAN AIR COMMAND
+ELMENDORF AIR FORCE BASE
+APO 942, U. S. AIR FORCE
+AAOID-2
+SUBJECT: Intelligence Investigation Track 17
+25 Jan 52
+TO:
+Commanding Officer
+5004th Air Intelligence Service Squadron
+Elmendorf Air Force Base
+APO 942, U. S. Air Force
+1.
+Reference is made to 5001st TWX IPWOP 3-0103C, DTG 222310Z
+January 1952, concerning unidentified track 17 which was reported
+by Ladd-Bielson ADCC.
+2. This letter confirms verbal instructions and directions to
+the Commanding Officer of the 5004th to conduct an immediate and con-
+plete investigation by sending an intelligence team to Ladd Air Force
+Base to ascertain the nature scope and factors involved in a study
+of track 17.
+report
+Upon completion of this investigation and study, a detailed
+(four copies) will be forwarded to this headquarters.
+BY COMMAND OF BRIGADIER GENERAL SMITH:
+PAYSON V. TOZIER
+Major
+USAF
+Asst Air Adj. Gen
+A CERTIFIED TRUE COPY:
+pt. USAF
+TIMOTHY J
+molly ITa
+anagan
+CApt.
+ISAF
+UNCLASSIFIED
+AF411176
+Iuc. # 3
+Declassification Authority: NND 923007

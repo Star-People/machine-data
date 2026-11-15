@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:58:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7069026, "source_ctime_ns": 1793354378480680731, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989200-001-0018.jpg", "source_mtime_ns": 1785564275000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989200-001-0018.jpg", "source_sha256": "491f150e42bd8e9318e115a1be78c88b4c2b48b1f43c1939cd714e689145446e"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 857, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pront row, left to right:
+It. J. R. Walsh, It. J. L. Hampton, Lt. C. R. Briggs, Lt. C. S. Schneider,
+Capt. W. D. Huston, Capt. W. W. Kellogg, Capt. P. R. Goudy, Maj. 4. P. Spilhaus, Col. M. Duffy, Maj. R. V.
+Winchell, Capt. W. C. Dutton, Capt. P. W. Decker, Capt. 1. C. frakowski, Lt. W. P. Rhoades, It. B. W. Mies,
+It. B. L. Sulkowski.
+Middle row, left to right: It. S. L. Stine, It. W.
+D. Gossard, Lt. C. Marshall,
+Istvan, It. M. H.
+Tooley, It. H. B. Brooks, Lt. D. E. Rudd, Cpl. V. J. Rudd, Lt. D. M. Swingle, Lt. W. A. Maxim, It. I. Twomey,
+It. J. D. Haynes, It. J. H. Mueller, Lt.
+B. Lott.
+c. C. Boydstun,
+Back row, left to right: Cpl. W. J. Howard,
+It. P. Lepofsky, It. R. L. Caswell, It.
+S/Sgt. J. L. Clement, S/Sgt. R. L. Craig, S/Sgt.
+Kellogg,
+Cleary,
+R. Belcher
+Robinson,
+S/Spt. R.
+It. A. L. Skinner,
+CbI.
+B. D. Berrian,
+Lt. B. W. Robinson,
+Reid.

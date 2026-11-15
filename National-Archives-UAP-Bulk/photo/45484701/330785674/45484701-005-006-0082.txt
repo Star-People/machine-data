@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T13:23:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8791855, "source_ctime_ns": 1793363622830193262, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0082.jpg", "source_mtime_ns": 1785684937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0082.jpg", "source_sha256": "0f12dce6e63dffbc323ce868eeb992e6c2c1ee4e66b5efb260e302206ee3a5e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 729, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETAILS:
+This investigation vas requested by It. Colonel DOYLE REES,
+District Comander, l7th District Office of Special Investigations on
+16 lay 1950 to determine the circumstances concerning an alleged
+serial phencena at Anarillo, Texas, on 18 lay 1950.
+AT KIRTLAID AFB, HEY MEXICO
+2. On 16 lay 1950, a TV was dispatehed to District Office No, 1l,
+Tinker AFB requesting that an investigation be condueted concorning an
+serial phonomena at Aarillo, Texas, on 12 Lay 1950.
+The results of
+this request were set forch in a Regart of Investigation from District
+office No, 11, dated 9 Jimo 1050, File No. 24-12.
+Inamuch as all logical loads have boon developed, this ease
+is considered closed.
+Declassification Authority: NND 923007
