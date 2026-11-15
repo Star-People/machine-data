@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:05:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9843396, "source_ctime_ns": 1793383120017016769, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986357/0122.jpg", "source_mtime_ns": 1785748397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986357/0122.jpg", "source_sha256": "6493ff9a1c3c1cc90db433db8236c340f77c50d1065d2eb800affb9931f56985"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 618, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFGIN -182
+2 JUN 1960
+SAFOI-3d (Maj Tacker)
+1. Suggest that
+be forwarded standard UFO questionnaire
+for complebion, and that he also be requested to provide any addisional
+information which he considers important conceming his possible sighting
+of the disintagration of Sputnik IV.
+2. It is further suggested that
+h be commended for his
+initiative in reporting what could possibly be important scientific
+information to the Air Force.
+3. The witness' address:
+•Okato
+Chicago 34, Illinois
+FOR THE COMMANDER:
+PHILIP G. EVANS
+Colonel, USAF
+Deputy for Sciences and Components
+2 Atch:
+no date, fr
+Cy ltr 24 May 60, fr ARDC

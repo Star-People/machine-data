@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v1", "engine_mode": "embedded-text", "source_file": "Archives-for-the-Unexplained/documents/AFU-Sponsorships-1993-2021.pdf", "source_sha256": "1d5c7cecc0add5565f50dbfd767f073dbf611b7db23561a172ee079818f23f1d", "source_bytes": 825569, "created_utc": "2026-10-13T03:05:12.359104+00:00"}
+{"created_utc": "2026-11-15T08:25:55Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 825569, "source_ctime_ns": 1793566202161574579, "source_file": "Archives-for-the-Unexplained/documents/AFU-Sponsorships-1993-2021.pdf", "source_mtime_ns": 1793566202133767128, "source_rel": "Archives-for-the-Unexplained/documents/AFU-Sponsorships-1993-2021.pdf", "source_sha256": "1d5c7cecc0add5565f50dbfd767f073dbf611b7db23561a172ee079818f23f1d"}
 
 AFU Sponsorships - Accumulated 1993-2021
 Single donations less than 50 SEK have usually been included under "Other contributions (each less than 50 SEK)", at the end of this list
@@ -819,8 +819,6 @@ Excluding extra ordinary contributions:            -243 997 -253 095 -100 000 -1
                                                     -21 000 -45 000 -36 850 -35 000          -14 800 -23 767     -45 000
                                                     -50 000           -25 000                                    -22 553
 "Regular" sponsorships and contributions             31 142 75 496 98 163 177 572            228 024 251 543     313 663
-
-
 
 
                                                                     23 / 23

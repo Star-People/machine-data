@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:46:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4680978, "source_ctime_ns": 1793372592964376127, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943362/01417.jpg", "source_mtime_ns": 1785688918000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943362/01417.jpg", "source_sha256": "dd7e22767dc5c283cb1cbad4a41ebcd3376bc0431dd891729dbf99ef2d46f8f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 609, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1Zth Pilot Training Wing
+Luka AFU, Phoenix, Arizona
+UNCLASSIFIED
+Ho ballons mere seleased in local area at tine of sighting.
+Crowell Crop Dusting Company based at Air Haven had a Cassa "170" or Navion
+take-off toward eust between 0400 and 0430 hours. Climbed to 1500 feet inneditely.
+Steady navigating lights - red, green, and white. About 18 inches of blus flane
+would be observed from exhaust.
+Attached overlay is to be used with Sectional Aeronautical chart, "Phoenix
+(q 3)", United States Air Force Sdition.
+Lil O. Postatto
+STEPHEN D. ROCKSTROH
+Captain
+USAP
+Intelligence Officer
+127th Pilot Training Wing

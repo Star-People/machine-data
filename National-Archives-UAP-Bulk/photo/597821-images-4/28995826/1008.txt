@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:42:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3844870, "source_ctime_ns": 1793386352285311311, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995826/1008.jpg", "source_mtime_ns": 1785748142000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995826/1008.jpg", "source_sha256": "01fa7a4d07964f8cd3cc807ee41d90b4bb7c4bf7ae90d2752493822cd34f5b8d"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 719, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIBID NESSAGE
+INCOMING
+AF IN : 37048 (16 Deo 61)
+MAGN
+Page 2 of 2
+TUDE STAR.
+2. ATTENTION OF OBSERVERS ATTRACTED BY MOVEMENT IN RELATION TO STARS
+FIRST OBSERVED AT 15 DEGREES ELEVATION AT 090T AZIMUTH AND
+H DISAPPEARED OVER HORIZON 055T AZIMUTH. OBJECT IN SIGHT 3 MINUTES.
+OUT
+3. OBSERVED VISUALLY FROM AIRCRAFT WITH/OPTICAL AIDS. AIRCRAFT '
+POSITION AT TIME OF SIGHTING 160606Z 61-15N 06-45W CUS 242T ALT
+6000 TAS 195 XTS. AIRCRAFT IN THE CLEAR ABOVE LOW OVERCAST.
+LIGHT CONDITIONS NIGHT.
+4. PLANE COMMANDER EVALUATES AS PROBABLE SATELLITE.
+BT
+16/ 14 172
+NOTE: 160721 18 AF IN: 36699 (16 Dec 61).
+NOTE: Corrected copy, corrected portion underlined
+CORRECTED COPY

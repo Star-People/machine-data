@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:16:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16230948, "source_ctime_ns": 1793358932580741317, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-073-0002.tif", "source_mtime_ns": 1785681267000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-073-0002.tif", "source_sha256": "612535a65ccb42c1427117c44febe9a1172f75cbb152f64a8ed0c56f13a53fbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 905, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+29 / 1p 3p ₴
+NENO S22A077 YMA075 YYB110NGA040V
+PP RJDEN RJEDWP RJEPAG RJEDKE
+DE RJEONG 1I
+P 290045Z
+FM COMDR 789 TH ACEW SQ OMAHA NEBR
+TO
+RJEDEN/ COMDR
+ADC ENT AFB COLO
+RJEOWP/COMDR
+AT IC
+WP AFB OHIO
+REPAG/DIR OF
+INTELL HQ USAF WASH OC
+RJEDKF/COMDR CADF
+GRANDBIEW AFB MO
+RJEDNG/COMDR 3IST ADIV ST PAUL MINN
+ВТ
+/U N C L A S SI F IE D /OPNS 666 UFOB REPORT AS FOLLOWS
+ROUND
+PINHEAD
+CARED AND GREEN FLASHING
+THREE
+NO
+I NONE
+NONE
+NONE
+I NONE
+SEP 29 RECO
+333
+43020 AISS UFOR REPY
+DATETIME GROUP. 29/0045 ₴ Sep ST
+Lalrand, Iowa
+Drab Astro
+PAGE TWO RJEDNG 1I
+Capella
+alphecca
+є≤
+7
+NONE
+NONE
+LOST IN CLOUDS
+3 HRS
+GROUND VISUAL
+BINOCULARS
+NEGATIVE
+29/9/55 00457
+NIGHT
+LEGRAND IA
+NONE
+NONE
+B. 25MI 45 MI 65 MI 90MI
+/st
+Arcturas -
+IA FARMER
+PAGE THREE RUEDNG 1I
+NONE
+NONE
+NONE
+& NONT
+NONE
+NONE
+NONE
+12
+BT
+NO RADAR CONACT AND OFFICER HAS NO EXCLA
+29/0720Z. SEP PJEDNG
+ION FOR IT

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:46:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4572204, "source_ctime_ns": 1793359464889358355, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-028-0001.tif", "source_mtime_ns": 1785681421000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-028-0001.tif", "source_sha256": "601a9448ec309a67e537c2fe7e78af1b3958352a1ad3fd95528ebee41c1a0106"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 531, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NUMBER
+AISS-U703-193-56
+LOCATION OF SIGHTING
+IOS Angeles, California
+MEANS RECD
+TT Mag
+INVES UNIT
+| DATE/TIME OF SIGHTING
+17/06002 7al 56
+RECD AISOP
+19 Jul 56
+¡LOGGED
+BY
+S/SOt Deitudder
+ACTION TAKEN
+No investigation authorized
+DATE INVES ASSIGNED
+11/A
+¡DATE IR APPROVED
+1/A
+ASSIGNED BY
+N/A
+DATE IR TO ATIC
+1/д
+DATE IR RECD HQ
+1/A
+DATE AISOP FORM 5
+20 July 1956
+COMMENTS
+Concur with reporting officer.
+CONCLUSIONS
+INSUFPICENT DATAFOR ANALYSIS
+AISOP FORM 7 (2 APR 55)

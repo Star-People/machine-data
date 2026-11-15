@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:43:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4006238, "source_ctime_ns": 1793386801788108523, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997410/1005.jpg", "source_mtime_ns": 1785748574000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997410/1005.jpg", "source_sha256": "0b4dc55f8aca31b4a292331fa89ace86ea33ca12457b7608929fbdb5921455b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 49, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2 ee ee
+
+pinnate Sa I ks owen ne
+
+eee ener ered

@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:14:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12008577, "source_ctime_ns": 1793355336316725868, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0040.jpg", "source_mtime_ns": 1785564436000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0040.jpg", "source_sha256": "43679e19f58ddcb62c8ab2613d092542aaa4d1b02c2da76130c552d32bc942f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 440, "chars": 2856, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Boomerang orbit.
+(NASA Photo)
+Scene during inflation of 46.1 million cubic feet balloon in
+Australia for the study of x-ray sources from space by MIT
+(Photo Dr. Walter Lewin.)
+which would require no diurnal ballasting.
+In order to counter the effects of sunset and
+subsequent loss of gas from the zero-pres-
+sure balloon, various air ballast systems
+have been looked at over the years, some re-
+quiring various type motors, blowers, win-
+ches, ducts and high-pressure containers.
+The credit for the Sky Anchor concept
+goes to NCAR and its eminent Program
+Director V.E. Lally, when, in 1963 a Sky An-
+chor
+flight
+launched from
+the NCAR
+grounds at Boulder, Colorado, flew for two
+days at the designed altitudes through two
+sunsets, a considerable achievement for an
+unballasted, zero-pressure balloon.
+This attainment was followed by the Air
+Force Cambridge Research Laboratories us-
+ing the Sky Anchor system in 1968. The
+main balloon was constructed of polyethy-
+lene and the super-pressure ballast balloon
+was made from tri-laminate Mylar.
+The latest Sky Anchor system has been
+a super-pressure balloon carried aloft by a
+zero-pressure main balloon.
+As the main
+balloon reaches its operational altitude, the
+super-pressure balloon fills up and becomes
+pressurized. While the "super-pressure" ve-
+hicle floats upward, it loses more and more
+lift. As sunset comes on, the entire system
+descends to a new equilibrium where the in-
+crease in lift of the super-pressure aerostat
+about equals the effect of the sunset on the
+main balloon. At sunrise, the main balloon
+expands and the system rises again. In do-
+ing so, the super-pressure balloon loses the
+lift it gained at sunset, with the system
+stabilizing at the same altitude as the pre-
+ceding day.
+In a succeeding year, 1977, the Sky An-
+chor II was tested at Palestine, Texas,
+achieving a float altitude of 94,400 feet for
+47 hours and through two nights without
+ballasting.
+The payload package was re-
+covered in excellent condition after being
+successfully flown and terminated.
+Following in this series was Sky Anchor
+VII which was tested in May, 1978, carrying
+instruments for altitude monitoring, a dif-
+ferential pressure gauge, air temperature
+monitoring,
+down radiometer, a video
+camera and two super 8mm surveillance
+cameras. The Sky Anchor flight leveled off
+around 112,000 feet but soon after was ter-
+minated because of liquid ballast failure. To
+correct this problem, no liquid pressuriza-
+tion ballast was to be carried on future
+AIR-LAUNCHED BALLOON SYSTEM (ALBS)
+View of sophisticated 2000 pound pay-
+load of MIT x-ray experiment before
+launch in Australia, April 1972.
+(Photo Dr. Walter Lewin)
+Moment of launch of MIT x-ray experi-
+ment in Australia. The flight carried the
+1-ton payload to an altitude of 45 km for
+a duration of 27 hours.
+(Photo Dr. Walter Lewin)
+(USAF ESD/PAM Photo)

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:40:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3243715, "source_ctime_ns": 1793376450233614820, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960746/0634.jpg", "source_mtime_ns": 1785696753000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960746/0634.jpg", "source_sha256": "a7bdef8bc647ea75631b2c6eaaa840438c0395593be3e856c5feb53bcd0efbfc"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 796, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+27
+28 DEC 1954
+3. DATE-TIME GROUP
+Local
+280255Z (N)
+GM T.
+5. PHOTOS
+I Yes
+É NO
+7. LENGTH OF OBSERVATION
+-UNK
+2. LOCATION
+LONG BEACH, CALIFORNIA
+4. TYPE OF OBSERVATION
+E Ground-Visual
+• Air-Visual
+6. SOURCE
+CIVILIAN
+• Ground-Rador
+D Air-Intercept Radar
+8. NUMBER OF OBJECTS
+ONE
+MINUTES.
+10. BRIEF SUMMARY OF SIGHTING
+ROUND THEN CICAR¿SHAPE, YELLOW, OCCASIONALLZ
+CHANCED SHAPE AND BRIGHTNESS,
+FRom NE
+9. COURSE
+NE TO E
+12. CONCLUSIONS
+49
+₴
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+'robabiy Aircrat
+ossibly Aircraf
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+D
+Other
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+LITTLE OR NO SPEOD, ROUND, RELATIVELY
+LICHT WINDS, NOT MUCH INFO TO CO ON.
+PROBABLY A BALLOON.
+AlSOP Form 5(15 Oet 54)

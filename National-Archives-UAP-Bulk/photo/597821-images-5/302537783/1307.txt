@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:27:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 801793, "source_ctime_ns": 1793389186150799664, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537783/1307.jp2", "source_mtime_ns": 1785808365000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537783/1307.jp2", "source_sha256": "273b7f0fcb9f50780e885afde1d0a1cb992bb571838709dcb46a686e7788e315"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 768, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+24 Februery 1965 24/16002
+3. SOURCE
+Military
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+3 Minut es
+6. TYPE OF OBSERVATION
+Air-Visual
+7.
+COURSE
+2. LOCATION
+Webb APB, Texas
+T0. CONCLUSION
+AIRCRAFT
+All characteristics indicate an a/c observation. No data presented
+to indicate that the sighting could NOT have been caused by an
+a/c.
+Sighting regarded as an a/c observation.
+11. BRIEF SUMMARY AND ANALYSIS
+A KC-135 was Fastbound from Schilling on a refueling mission
+and a B-52 was returning from a simulated bomb mission. The
+B-52 was Westbound and landed at Walker at 02402. B-52 was
+in possition of the observation from the 1-38 aircraft.
+North
+8. PHOTOS
+• Yes
+9. PHYSICAL EVIDENCE
+• Y•s
+RENO
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous
+ly be used

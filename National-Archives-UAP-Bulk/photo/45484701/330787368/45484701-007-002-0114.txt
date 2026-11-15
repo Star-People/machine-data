@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:11:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9204675, "source_ctime_ns": 1793364611459204260, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0114.jpg", "source_mtime_ns": 1785685199000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0114.jpg", "source_sha256": "05fd028dd3a4a49b72e9dafc51fe63dba16752973373f0182bb6b4150815fbea"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 590, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Ltr to CG,
+ANC,
+ght-Patterson AFB, Ohio, 1 Dec
+UNCONVENTIONAS AIRCRAFT-SPECIAL INQUIRY.
+-Subj: Re CY NEWTON
+ẠCABOT gave his address as 1360 South Beverly Glen, telephone
+CRestview 58074. He explained that he had never met NEWTON until
+their golfing engagement and further pointed out that NEWTON was sober
+at the time the above allegations were madeại
+20
+This matter has been assigned to an Agent of this office and
+a report will be submitted to your Headquarters within the near future.
+ce: Hq 0S1
+KEEFE O' KEEPE
+It Colonel, US AF
+District Commander
+Declassification Authority: NND 923007

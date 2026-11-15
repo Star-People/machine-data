@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:50:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5620979, "source_ctime_ns": 1793369247339078686, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1381.jpg", "source_mtime_ns": 1785688781000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1381.jpg", "source_sha256": "99d8a7cee4b3672452f9551bec48a7ef498f705aa6759c65685f6d398c3490af"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 402, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CREE
+0714
+DSA29
+16 3
+SO- 32
+10/15
+UEDLY
+FM UAIX 15/CG TYNDALL AFE TYNDALL FLD FLA 0221002
+TO UFOLY/CE HEADQUARTERS' AMC WRIGHT PATTERSON AFP WRIGHT FIELD' CHIC
+AF CRIC
+ATTN NCIAXP-3
+TYA-46-50 PO REF TUX MCIAXO DASH SEVEN DASH FIVE CHA NO AIRCRAFT
+ARRIVED OR DEPARTED TYNDALL AF BASE TWENTY FOUR JULY ONE NINE
+FOUR EICHT DETWEEN THE HOURS ZERO ZERO ZERO
+ONE AND ZERO FIVE ZERO
+ZERO PD END LACEY
+02220J2

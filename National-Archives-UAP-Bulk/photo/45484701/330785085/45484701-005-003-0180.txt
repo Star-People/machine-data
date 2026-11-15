@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:59:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7833258, "source_ctime_ns": 1793363398226788148, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0180.jpg", "source_mtime_ns": 1785684920000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0180.jpg", "source_sha256": "f058b3862b5a14486e74055c68b1af1127ccbe95c8a38c3139b6d8e06acb0bd8"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1396, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. S. E. Adcock, who made the sighting described above, has
+a local reputation in Knoxville as being highly dependable.
+He was an engineer in Radar Experimentation Work prior to
+and during World War II.
+2. Colonel Hayes advised that he had been informed that Wright
+Patterson will not send the radar sets unless OSI could not provide
+necessary sets fron local sources. Apparently official circles have
+become somewhat excited concerning these reports and Hayes thought it
+well to advise this Hq of the matter.
+I told Colonel Hayes that his office should not on its own
+arrange for obtaining and providing radar sets; that we should merely
+render the facts made available to us to appropriate authority for
+necessary determination and action if deemed desirable. I stated that
+since Colonel Grasser was in touch with Wright Patterson on this matter
+that Hayes should insure that he had furnished all relevant data to Wright
+Patterson and that OSI should not endeavor to make an independent de-
+termination as to whether radar sets should or should not be made avail-
+able; that his office should, of course, render any assistance which was
+requested by Wright Patterson or other competent AF authority.
+4. Hayes stated that he would be guided accordingly.
+JOSEPH F. CARROLL
+brigadier General, USA
+Director, Special
+Investigations
+The Inspector General, USAF
+Declassification Authority: NND 923007

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:29:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 960868, "source_ctime_ns": 1793389778595272173, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543878/1269.jp2", "source_mtime_ns": 1785808043000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543878/1269.jp2", "source_sha256": "131bb5765f1112e2afc74b186fd5f3f00aff648079863ce1f724e6ff5f4596ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 103, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+4 Manết 1900
+September 1065
+2045 hrs
+One
+est of Dover
+Is vent up and dova, back and forth.
+40,000 feet

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:45:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4255021, "source_ctime_ns": 1793377847831542075, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965649/0407.jpg", "source_mtime_ns": 1785696947000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965649/0407.jpg", "source_sha256": "380d30d1a265aa4ea58639d3477fcc835ff3557efa790a5d84c750b1a68b8e8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 466, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ Witness
+11 97.5
+454
+RE 189
+WPF 194 YM2083ENB062
+RR RJEDUP RJEPHQ RJWFON
+DE RJEDEN 10
+R 181630Z
+FM COMDR 4602D AISS ENT AFB COLO
+TO RJWFDN/COMDR 34TH ADIV KIRTLAND AFB NMEN
+RJEDWP/COMDR ATIC WPAFE OHIO
+RJEPHQ/DIR OF INTEL HQ USAF WASH DC
+/UNCLAS/ AISOP 0481 PD UFOB PD THE FOLG IS SUBM IN COMPLIANCE WITH
+PARA 7 AFR 200-2 DTD 12 AUG 54 PD
+1 A INVERTED BOWLING PIN
+E ESTIMATED SIZE OF 50 TO 80 FEET
+C TRANSPARENT
+D ONE (1)
+E NA/
+F SHAPE OF BOWLING PIN
+G NONE
+H NONE

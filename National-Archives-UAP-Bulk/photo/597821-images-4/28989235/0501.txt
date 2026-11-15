@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:43:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3896430, "source_ctime_ns": 1793384162552639652, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989235/0501.jpg", "source_mtime_ns": 1785748491000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989235/0501.jpg", "source_sha256": "b243ae1741a12d79fa0932e7b77d5aec3caf85bfceac675e55c5c7bcb07030f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 666, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RECEIVED
+CZCSQC835ZCWYB684
+PP RJEDSO
+23 SEP60 07 43
+ATIC
+DE RJWFDS 21
+P 222300Z ZEX
+1960 SEP 23 00 45š
+FM 3560TH PLT TNG WG WEBB AFB TEX
+TO RJWFAL/ADC ENT AFB COLO
+RJWFKF/33RD ADIR DIV RICHARDS GEBAUR AFB MO
+RJEDSQ/COMDR AIR TECH INTELL CENTER WRIGHT PATT AFB OHIO
+RJEZHQ/ASST CHEF OF STAFF INTELLIGENCE USAFWASH DC
+RJEZHQ/OFFICE OF INFORMATION SERVICES USAF WASH DC
+BT
+UNCLAS FR WAG 112J. SUBJ: UNIDENTIFIED FLYING OBJECT REPORT
+A. 1. ROUND SHAPE.
+2. FROM POSITION SIGHTED ABOUT SIZE OF QUARTER•
+3. FIREY COLOR.
+4. NOT APPLICABLE.
+5. ONE OBJECT•
+6. 5 TIMES AS LARGE AS A METEOR- HAD LONG TAIL AND
+APPEARED AS SHOOTING STAR.
+7. HAD LONG AND LARGE TAIL.
+8. NO SOUND.

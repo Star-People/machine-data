@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:15:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14844239, "source_ctime_ns": 1793355543851723922, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0128.jpg", "source_mtime_ns": 1785564474000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0128.jpg", "source_sha256": "055efd5a9c5ea4b23607dba611dc940a4465d516773ef59d77c208b8bfa43f41"}
+
+===== PAGE 1 =====
+{"alpha_words": 570, "chars": 3660, "method": "ocr", "page": 1, "variant": "plain-vision"}
+246
+on its side to facilitate cleaning the surface on which the balloon will be put.
+There are many other table constructions which might be recommended.
+Several stations use a plywood sheet on top of which has been put a canvas or
+plastic sheet to protect the balloon from splinters. The practice of laying the
+balloon out on the concrete floor should never be permitted. The change that this
+balloon film undergoes in flight is quite spectacular: when released, the balloon
+is .003-. 005 inch thick, and by the time it gets to 100, 000 feet the film is .0002
+inch thick.
+At this thinness, a slight surface flaw can shorten the flight
+appreciably. The balloon inflation table is a means of minimizing the possibility
+of damage to the film.
+While discussing balloon inflation equipment, the Canadian Department of
+Transport has a very neat, compact, easy-to-use balloon weigh-off nozzle which
+can be used to give accurate weigh-offs. It eliminates the need to counterbalance
+the weight of the hose, as is necessary in the U.S. Army and Weather Bureau
+nozzles. Drawings of this nozzle are available.
+Much remains to be done in the way of neoprene balloon research to obtain
+reliable, consistent performance to 150, 000 feet with a balloon which can be
+purchased at sufficiently low price so it can be used operationally. This work
+is in progress, and we hope in the next few years to be able to answer this need
+for higher altitudes. In our research facility a cold temperature burst chamber is
+used for evaluating small scale balloons made from new compounds. Also, an
+ozone chamber is used to study the ozone resistance of the new films. In addition
+to this film study work on neoprene balloons, we also hope to have answers to the
+fast rising balloon problem, so that, instead of taking 100 minutes to fly to 100, 000
+feet with a spherical balloon, this same altitude can be reached with a new type of
+balloon in 50 minutes without prohibitive costs or handling problems.
+This discussion has been confined to vertical sounding neoprene balloons.
+Another method for studying our atmosphere is the Horizontal Sounding System,
+which has been referred to previously as the Global Horizontal Sounding Technique
+(or GHOST), and which has also been unofficially referred to as the STROBE con-
+cept. In the Horizontal Sounding System, constant level superpressure plastic
+balloons would circle the globe and transmit their meteorological data to either
+ground receiving stations or to orbiting satellites. Feasibility studies on this
+concept are underway at the present time under NASA sponsorship. At Dewey
+and Almy we are researching one phase of this system, the development of a one-
+seam superpressure constant level plastic balloon which is capable of long flight
+durations at predetermined altitudes. Our progress was described at the
+American Meteorological Society in a paper delivered in January 1962. We are
+still working on the project, and are making progress toward having a balloon
+247
+ready for more extensive tests in 1964. Balloons up to 15 feet in diameter and
+capable of carrying a two pound load to 70, 000 feet are being developed. Much
+work remains to be done on equipment for the GHOST System - on the plastic
+balloons themselves, the electronic equipment needed with the balloons, the
+satellites, and the read-out stations.
+2. SUMMARY
+Continual progress, then, is being made toward the improvement of neoprene
+balloons to keep pace with improvements in conventional sounding methods and in
+the development of entirely new balloons, both neoprene and plastic, for use in
+advanced techniques which will extend our knowledge of the atmosphere.

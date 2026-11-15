@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:54:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6979855, "source_ctime_ns": 1793363000297970857, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0044.jpg", "source_mtime_ns": 1785685126000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0044.jpg", "source_sha256": "a8c1adef541732504f37d1b3b22f31e96710a4d8c993f0b2f2de7e80105fc4ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 866, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Inited States Department of Fustice
+Bederal Bureau of Investigation
+66-1974
+500 Widener Building
+Philadelphia, Pennsy vania
+November
+20, 190
+Mr, D, Sherman,
+5919 Woodbine Avenue,
+Philadelphia 31, Pennsylvania
+Dear Sir:
+Your recent letter, received November 19, 1951
+by this office, indicates that in the summer of 1954 or
+1955 you saw a satellite come through the sky and land
+behind the Socony Vacuum oll Company in raulsboro, New
+Jersey. You indicate that you reported this to the
+company at the time, and that the company believed it
+was a meteorite,
+I am taking the liberty of forwarding your
+communication to the Detachment Commander, 3rd District,
+The spirit which prompted you in forwarding
+this information 1s appreciated,
+Very truly yours,
+Henm 1cn,
+Special Agent in Charge
+Co:
+15C
+FFICE
+# 9 NOV 1957
+IBERIAL
+_ RVISOR
+Declassification Authority: NND 923007

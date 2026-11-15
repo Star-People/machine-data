@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:44:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4021894, "source_ctime_ns": 1793374507338681758, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951958/1120.jpg", "source_mtime_ns": 1785696857000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951958/1120.jpg", "source_sha256": "36cf6d34016f9807c4e566ce587d8e82b0d6caf5baba4965ff0bb2572f955077"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 504, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+ATIC DOCUMNT 103473 is a report of unidentified vapor trail observed by 3
+officers at the Narsarssuak Air Base in Greenland at 16077 on 12 Dec 52.
+The report goes on to evaluate the vapor trails as being possibly those from
+a hostile aircraft on a reconnaissance mission. States that this is the
+second time reported unidentified vapor trails have been observed in a three-
+day period over Greenland.
+DOWNGRADED AT 3 YRAR INTERVALS;
+DECLASSIFIED APTER 12 YEARS.
+DOD DIR 3200.10
+UNCLASSIFIED

@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:55:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7013538, "source_ctime_ns": 1793364510351352224, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0157.jpg", "source_mtime_ns": 1785684568000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0157.jpg", "source_sha256": "f4c4f1ca6e728b60a73715ff751417b5cd8c20de7bb545026c086773dfca0200"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 69, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+palatal kers
+OUT
+21 AUG1953
+MANAGEMENT
+DIV.
+OSI
+METaT WO
+/ea onl sol

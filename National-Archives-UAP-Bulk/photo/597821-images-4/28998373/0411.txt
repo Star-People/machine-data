@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T09:00:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8171947, "source_ctime_ns": 1793387207603444082, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998373/0411.jpg", "source_mtime_ns": 1785748431000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998373/0411.jpg", "source_sha256": "5f4a21278c2b5ef33cd149e479c12da2911299d426d3d3616021ba6d9d682b7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 770, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NNNN
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIRED MESSAGE
+AF IN : 57236 (24 Ju1 62) NemO M IN G
+ACTION: CIN-17
+INTO : A0P-CP-1, SA76-5, -2A-10, DIA-CHI0-] (1A4}], 00P-2,
+SMB B 005
+QA978ZCBJB032
+.....
+YY RUEAHQ
+DE RULAC 18
+ZNR
+Y 2011ØZ
+FM COMCARIBSEAFRON
+TO RJWFALB/CINCNORAD
+RUEAHQ/COFS USAF
+RUECW/ CNO
+R3EKHC/CINCLANTFLT
+RULRSA/72D BOMBWG ATTN CHIEF INTEL RAHEY AFB
+0 250030Z
+FM AIRCRAFT IN FLIGHT
+TO COMCARIBSEAFRON
+Вт
+UNCLAS
+CIRVIS. SVK COMCARIBSEAFRON PA24 N4082P OVER WEST TIP CULEBRA
+ISLAND AT 0Ø2ØZ REPORTS SEEING ROCKET OR MISSILESLYING
+AT HIGH SPEED WEST TO EAST ALTITUDE UNKN SIZE UNKN.
+DESCRIBES AS OBJECT WITH LONG LIGHTED TAILS ACFT IN FLT
+ST THOMAS VI DIRECT SAN JUAN PIPER APACHE 145KTS
+ЗТ
+NOTE: ADVANCE COPY TO CIN, OOP-CP, AND DIA-CIIC.

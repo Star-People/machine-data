@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:56:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7130434, "source_ctime_ns": 1793380774521117335, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978351/0071.jpg", "source_mtime_ns": 1785700853000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978351/0071.jpg", "source_sha256": "0aa5d78a0a9bb340c06ae5e24e350d4af40171202734d563937a7478a6c97fa9"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1059, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+29 May 58
+3. DATE-TIME GROUP
+Local
+GM T.
+29/0420Z
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Cockburn Harbor
+S Caicos Island, Caribbean
+4 TYPE OF OBSERVATION
+x& Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+D. No
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+K Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unknown
+10-15 secs
+one
+falling
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+Bright smber fireball w/tail extend
+Slow vertical descent rules
+ing vertically upwards. The entire hori/out meteor. Obj was a flare of
+zon was brightly illuminated. The fire-
+some sort from either a/c in
+ball descended slowly & vertically
+area, naval units in fleet in
+until disappearing behind the island.
+area or fm a local ground
+installation. These sources not
+checked & case is considered as
+insufficient data.
+ATIC FORM 329 (REV 26 SEP 52)

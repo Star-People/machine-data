@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:28:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 878214, "source_ctime_ns": 1793355795130084044, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0049.jpg", "source_mtime_ns": 1785564528000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0049.jpg", "source_sha256": "89ca449f5f894e9aa82677288118300934c8a67c643b43816fd55d981edf8710"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 917, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LT COL EMIL GOLDBECK
+105 FOXWOOD PL
+GOLDSBORO NC 27530
+LT COL JOHN PRODAN
+1100 KINGS RD
+RAPID CITY SD 57702
+LT COL GINO SANTI
+201 ENDFIELD
+DAYTON OH 45459
+ROBERT BLANKENSHIP
+BOX 5
+LA LUZ NM 88337
+LT COL WILBUR WETZEL
+805 LOOP534 UNIT 121
+KERRVILLE TX 78028
+LT COL EARL WEISS
+2064 TIMBERLANE
+BOULDER CO 80304
+NOEL THOMPSON MD
+300 HOMER AVE
+PALO ALTO CA 94301
+COL JOHN SMITH
+BOX 7750
+CLE ELUM WA 98922
+LT COL RON HANSEN
+PO BOX 1181
+CEDAR CREST NM 87008
+LEE RICHARDS
+2348 WOODLAND PL
+FT MEYER FL 33907
+LT COL ROBERT ARMSTRONG
+112 GRANADA LN
+PONTE VERDA BEACH FL 32082
+MARVIN WHITNEY
+VERNON MEDLIN
+MSGT JAMES BRAGG
+LT COL EDWIN ISTVAN
+L NEWTON TURK MD
+484 IVY PARK LN
+ATLANTA GA 30342
+JOHN BARNETT
+7831 CORORONADO RD
+SCOTTSDALE AZ 85257-2250
+SMSGT JOHN MCRAE
+2800 NEWKIRK DR
+RIVERSIDE CA 92507-2837
+THOMAS BURDT
+14340 HEATHERIDGE RD
+ROGERS MN 55374
+COL DAN D FULGHAM
+SW RESEARCH INST
+6220 COLEBRA RD
+SAN ANTONIO TX 78228

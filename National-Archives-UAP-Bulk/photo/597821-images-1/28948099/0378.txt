@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:42:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3837380, "source_ctime_ns": 1793373672214803472, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28948099/0378.jpg", "source_mtime_ns": 1785688873000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28948099/0378.jpg", "source_sha256": "ba6c6c9b2e344f5793964e62a2deac0ea05e71acb526d9902fcc11556aabbcc4"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1162, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 HORKSHEET
+I. GENERAL
+1. DAIS
+LOCATION
+130na 57
+I. WAS OBSCE OBSERVED PROM THE GROUND?
+3. THE
+Local: 2//0
+Zebra: 1404 10
+O No
+5. WAS OBJECT OBSERVED BY GROUND RADAR?
+6, VAS OBJECT OBSERVED FROM THE AIR?
+SED
+TO
+10
+SIGH
+ING AGENCY (Unit Number
+anci
+I ME?
+D Yes
+- Naked Eye
+LI Binoculara
+I Telescope
+Theodolito
+O Yes
+LiBy One Sot
+-By To Sets
+- By Three Sets
+A/C Observed Object
+_ Intorception Attempted
+) No Intercept Attempted
+1 Yes
+A/C Scrambled
+L Visual Contact Mada
+LIA/I Contact Made
+CINo Contact Mado
+Yes
+( Normal
+I Violent
+• Blinking
+1 1-15 Seconds
+-11-5 Minutes
+11 Over 10 Minutes
+failing Address)
+C No
+C9 No
+D Ro
+ASTRONOMICAL DATA
+¡OMICAL ACTIV
+D?
+none
+13. DID OBJECT APPEAR TO ARCH DOWNWARD?
+1 Yes
+U1. DID OBJECT HAVE A TAIL?
+| Yes
+DID OBJECT APPEAR TO DISINTEGRATE?
+16. TIEd OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Data From Alr Almanac)
+C Night
+C Day
+C Sunrise
+Sunset
+III. AIRCRAFT DATA
+T7. WERE AIRCRAFT NOTED IN AREA?
+- Yes
+'One Aircraft
+More Than One Aircraft
+18. WAS ANY SOUND HEARD?
+19
+103
+WERE THERE INDICATIONS OF HIGH FACECROUND NOISEL
+2 Yes
+20. VAS THE OBJECT VIERED ALOVE 750 ELEVATION?
+Yes
+ATIC Tast Form 334 (13 Aug 52)
+L No

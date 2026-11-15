@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:42:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3804871, "source_ctime_ns": 1793374760036214297, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953095/0697.jpg", "source_mtime_ns": 1785697000000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953095/0697.jpg", "source_sha256": "93a04d369788a2508578df4748c6fd2e8e190a5a7b6d2211beedd1ac1ff963a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 399, "method": "ocr", "page": 1, "variant": "plain-vision"}
+8. What other (aircraft) targe
+time as that of the unknown
+JUNCLASSIFIEB
+general area, altitute, and
+12292 of INTRIAL
+12292 PLUS 48 SECONDS
+RANGE - 140 MILES
+ALIMUTE 155 DEGRAES
+CONTROLLER - 1ST IT. KENTISID
+INSTRUCTIONS:
+PLOT TRACK OF TARGET, INDICATE RANGE AND AZIMUTH. GIVE TIME AT START
+AND WID OF TEACK.
+DOWNGRADED AT 8 YEAR INTERYALS:
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+UNCLASSIFIED

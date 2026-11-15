@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:40:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3552382, "source_ctime_ns": 1793386321352695691, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995713/0903.jpg", "source_mtime_ns": 1785747992000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995713/0903.jpg", "source_sha256": "7edbdcc4342948d9d3711383c5ec0bfc86caebe37cdfbea7bb2850d86df6e28e"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 1080, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Englewood, Onio
+4. TYPE OF OBSERVATION
+D-Ground-Visual
+D Air Visual
+6. SOURCE
+29 Nov 61
+3. DATE-TIME GROUP
+Local 31.5
+GMT.
+300415Z
+5. PHOTOS
+• Y•з
+XON.
+Civi
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+30 min
+1
+0. BRIEF SUMMARY OF SIGHTINGRound objE about like
+star, only brighter; yellow-orange as glow fr
+Pire, disappeared to E. Viewed in August and
+September.
+12. CONCLUSIONS
+•
+• Ground-Radar
+• Air-Intercept Radar
+D
+ian
+| 9. COURSE
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aircraft
+Possibly Aircraft
+суетил
+'as Astronomicol KEGULU
+Probably Astronomicol
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unknown
+I1. cOMMENTSProbably moon and bright star
+Regulus (Leo) magnitude 1.3. Moon is on
+or just below horizon and is probably
+distorted by atmospheric refraction.
+Adding to confusion of witness in near
+occultation of star Regulus. Earlier
+sightings by witness vere probably due
+to eigher eclipse of moon on 26 Aug or
+occultation of Aldebaran on 1 Sep 6l.
+ATIC FORM 329 (REV 26 BEP 52)

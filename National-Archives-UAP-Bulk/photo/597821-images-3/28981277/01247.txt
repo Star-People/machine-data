@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:49:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5446250, "source_ctime_ns": 1793381688019109446, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981277/01247.jpg", "source_mtime_ns": 1785700642000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981277/01247.jpg", "source_sha256": "beee7d7fe7ec52b8415a5a5a978fae2f7469e49e4af66037900bad86aa0190d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 572, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AIR TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+18 December 1958
+• Road
+Cleveland 22, Ohio
+Dear Mr.
+We are in receipt of your letter postmarked ll December
+1958, in which you report the sighting of an unidentified
+flying object.
+The information which you have submitted is very limited
+in nature. It would be appreciated if the attached question-
+raire be accomplished in as much detail as possible and re-
+turned to this Center.
+Sincerely,
+1 Inel:
+ATIC Fm #164
+H. K. GILBERT
+Colonel, USAF
+Deputy for Science
+and Component s

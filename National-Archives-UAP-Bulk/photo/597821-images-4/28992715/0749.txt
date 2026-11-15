@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:45:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4184536, "source_ctime_ns": 1793385309965419100, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992715/0749.jpg", "source_mtime_ns": 1785748036000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992715/0749.jpg", "source_sha256": "bd828d7d7077d9b82da8c0185fd3f64238ea8c2138f5034c6c5fc410282d3a6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 616, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJEZBL 3
+B. (1) LIGHTS FADING OUT AND REAPPEARING
+(2) 140 DEGREES FROM DAVISON AAF 5000 TO 6000 FT
+(3) 195 DEGREES FROM DAVISON AAF
+(4) UNDETERMINED
+(5) FADED OUT
+(6) ONE MINUTE
+(1) GROUND VISUAL
+(2) BINOCULARS
+(3) AIRCRAFT, L-20, ARMY 1981, 3500FT, HEADING UNDETERMINED,
+85 KNOTS, DAVISON AAF.
+D. (1) 23/02572
+(2) NIGHT
+E. (1) DAVISON CONTROL TOWER
+F. (1) N/A
+Ị2) SFC RONALD K. PAROL RA13299175 TOWER OPERATOR
+PROBABLY RELIABLE
+G. (1) HIGH THIN BROKEN 1 TO 5 MILES GROUND VIS.
+(2) SURFACI CALM, 6000-330/12, 10,000-290/20, 16,000-290/32,
+20,000-280/63, 30,000-280/114, 50,000-280/13 80,000-250/03
+(3) NONE

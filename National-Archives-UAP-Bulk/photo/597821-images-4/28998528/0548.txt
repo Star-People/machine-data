@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:10:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9048691, "source_ctime_ns": 1793387319571091371, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998528/0548.jpg", "source_mtime_ns": 1785748119000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998528/0548.jpg", "source_sha256": "a2d53f65224fe6b2abdae28336fea9448beb75a6661f40adc7140f983097cf6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 870, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+REPLY TO
+TTH oF: TD-E/Col Wynn
+sUBJECT: Request for UFO Information
+2 October 1962
+TO: HO USAF
+SAFOI-3b (Major Hart)
+Wash 25 DC
+1. Reference the attached letter from
+requesting information on unidentified flying objects.
+This
+letter is forwarded to your office for whatever action you deem
+necessary.
+2 .
+Though this object, of the UFO sighting of 7 August 1962,
+possesses the general characteristics of an artificial satel-
+lite, the initial letter did not contain sufficient information
+for evaluation. It is suggested that questionairres (USAF Form
+#164) be forwarded to Mr.
+e for completion by him and
+any additional witnesses.
+FOR THE COMMANDER
+DWARD H. WYNN
+Colonel, USAF
+Deputy for Science
+and Components
+1 Atch
+Ltr fme
+did 15 Aug 62
