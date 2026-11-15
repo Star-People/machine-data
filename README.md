@@ -1,6 +1,6 @@
 # UFO Files machine data
 
-[![Raw documents](.github/badges/raw-documents.svg)](https://github.com/Star-People/machine-data)
+[![Raw documents](.github/badges/raw-documents.svg)](https://github.com/starpeopleai/machine-data)
 [![Document pages](.github/badges/page-count.svg)](.github/badges/page-count.json)
 
 Generated OCR and media transcripts used by UFO Files projects.
