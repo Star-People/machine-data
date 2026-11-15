@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:24:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4179855, "source_ctime_ns": 1793354406735992844, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0013.jpg", "source_mtime_ns": 1785564279000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0013.jpg", "source_sha256": "ae760c0d27bbc9752623bc2067022524c20c929181a6af8b24e1aff67103d17d"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 878, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT OUTLINE
+GOVERNMENT LABORATORY NAME:
+PHILLIPS LABORATORY (AFMC)
+PROJECT NAME:
+OPTICAL/IR SYSTEMS TECHNOLOGY
+PROJECT LEADER:
+DR. ROGER VAN TASSEL
+DIVISION:
+PUGPO
+BRIEF DESCRIPTION:
+The general objective is to measure and predict the optical and infrared geophysical environment
+and its effects on Air Force and DoD surveillance, reconnaissance, and weapons guidance
+systems. Within this objective there are six major resaarch areas: Target Detection Technology,
+Airborne Infrared Measurements, Auroral/Airgiow/Nuclear Atmospheric Backgrounds, IR
+Atmospheric Processes and Background Codes, Infrared Celestial Backgrounds, and Atmospheric
+Propagation Studies.
+PATENT STATUS:
+LOWTRAN 7 COMPUTER CODE
+HADAMARD SPECTROGRAPH
+POTENTIAL COMMERCIAL USE:
+IR SENSORS
+IR ATMOSPHERIC TRANSMISSION SOFTWARE
+IR TARGET AND BACKGROUND SIGNATURE MEASUREMENTS AND PREDICTION SOFTWARE
+UDARS

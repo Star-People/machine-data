@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:22:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3975064, "source_ctime_ns": 1793384073015771416, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988770/0084.jpg", "source_mtime_ns": 1785747880000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988770/0084.jpg", "source_sha256": "90e6c5690b7b2aa61b6b3a9fd1d41d889a7db50c6d3ae988884459cc1699eb69"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 889, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+4 Sep 60
+3. OATE-TIME GROUP
+Locai
+GM T.
+05/01432
+S. PHOTOS
+O Yes
+g No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Otterbein & Terre Haute, Indiana
+TYPE OF OBSERYATION
+CT Ground- Vi sual
+• Air Visual
+• Ground-Rodar
+• Air-intercept Radar
+&. SOURCE
+Civilian
+9. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aireroit
+Was Astronomical Altair
+Probably Astronomical
+Possibly Astronomicai
+Insufficient Date for Evaluatior
+Unk no wn
+not given
+one
+stationary
+0. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+tationary object,
+ashing red, green and amber
+Tower operator at Terre Haute stated
+in elevation. Had some erratic move-
+that object was definitely a star, and
+Haze layer at 8-9,000 ft.
+that he had observed it many times. Star
+Aitair in the position of the sighting.
+ATIC PORM 329 (RPV

@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:09:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1237939, "source_ctime_ns": 1793388916268940516, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534334/01050.jp2", "source_mtime_ns": 1785808158000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534334/01050.jp2", "source_sha256": "ae98529fc13ea414aa8375207d93a4fa6b00dd7960aeb46df8609c589a39a022"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1090, "method": "ocr", "page": 1, "variant": "plain-vision"}
+dele sheet
+SURFACE OSSERVATIONS FOR 4 JULY 1964
+MACOILL AFB
+19€
+2500 SCTO HIGH SCTD VSBY 15% TEMP 85 DEN PT 73 WIND 270/05KTS
+CB DISTANT NE
+20E
+2500 SOTO HIGH SCTD VSBY 15% TEMP 80 DEW PT 70 WIND 260/04KTS
+TOWERING QU NE THAU SE
+21E 2500 SOTO HIGH SOTD VSBY 15+ TELP 77 DEW PT 71 VIND 270/05KTS
+OONL LIGHTNING DISTANT NE
+2.2E
+2500
+SOTO HIGH SOTD VSBY 15+ TELP 77 DEW PT 72 WIND CALM
+OONL LIGHTNING DISTANT NE
+TAPPA
+19E HIGH SOTO VSBY 15 TEMP 86 DEW PT 73 WIND 270/12KTS OB ALL QUADS
+HICH
+SOTO VSSY 15 TELP 8L DEW PT 74 WIND 270/10KTS
+TOLERING CU SOUTH AND NORTH-WEST
+21E 3000 SOTO HICH SOTD VSBY 15 TEMP 85 DEW PT 73 WIND 270/06 KTS
+OONL LIGHTNING AND OS NE
+22E OLEAR VISBY 15 TELP 82 DEW PT 73 WIND 260/09 KTS
+LIGHTNING AND OB DISTANT ENE
+D1* PETERSSURGN
+196
+3000 SCTD HIGN SCTO VSBY 15 TEMP 00 DEW PT 72 WIND 280/10 KT
+20E
+3000 SOTD HIGH SCTD VSBY 15
+TEMP 86 DEW PT 7L WIND 250/05 KT:
+21E
+225
+2000 SOTD VSBY 13 TELP 0L, DEW PT 78, VIND 331/05 KTS
+WINDS ALOFT TAKEN FRON TAMPA 19E RADIOSONDE RUN
+SFC
+6000
+10000
+16000
+20000
+30000
+50000
+270/12 KTS
+250/0ął
+250/10
+280%10
+200/10
+500/05
+одо/о:

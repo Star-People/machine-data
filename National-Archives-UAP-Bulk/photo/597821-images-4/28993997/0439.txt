@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:39:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8290833, "source_ctime_ns": 1793385719486333760, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993997/0439.jpg", "source_mtime_ns": 1785747887000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993997/0439.jpg", "source_sha256": "8ce6e628613b4e01797a1a704eb1e94058c8063bad0795365355274e5b8464be"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 899, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+& Aug 61
+3. DATE-TIME GROUP
+Local
+2158
+GM T.
+0902582
+5. PHOTOS
+- Yes
+CONo
+7. LENGTH OF. OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+SW of Carlisle,
+Pennsylvania
+TYPE OF OBSERVATION
+•KGround• Visual
+• Air Visual
+• Ground-Rader
+• Air-Intercept Radar
+6. SOURCE
+Civilian
+| 8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Airerall
+Possibly Aireral!
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+• Other
+Insufficient Data for Evaluation
+Unknown
+5-10 min
+NE
+0. BRIEF SUMMARY OF SIGHTING Light
+observed
+overhead 11. COMMENTSSounds like Echo I, however,
+moving to NE disappeared in 5-10 min. Light
+insufficient info to confirm this was
+brighter than star. Movement had variations,
+given in letter. Request for additional
+not a/c.
+info sent to witness, however no answer
+received.
+ATIC FORM 329 (REV 26 SEP 52)

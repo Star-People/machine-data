@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:13:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1645365, "source_ctime_ns": 1793390806860672825, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553563/0348.jp2", "source_mtime_ns": 1785808621000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553563/0348.jp2", "source_sha256": "5b0428f0732e34dd22ebd74f7858f76ea0089e3f9fc5f39904efbfcea312e696"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 575, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Cretari,
+*ACANADA
+10 Case m
+onl
+26.
+FID (TDETR) shi
+Wright-Patterson AFB, Ohio 45433
+23 August 1966
+Dr. J. Allen Hynek
+Dearborn Observatory
+Northwestern University
+Evenston, Illinois
+60201
+Dear Allen,
+Here is an interesting case which I think needs further
+investigation. If you, on
+, could check this
+out, I would appreciate it.
+Please forward your reply
+so that I may base my answer on your evaluation.
+Sincerely,
+SECTOR CULMANILLA, JE, MaJOr, USAF
+Chief, Research and Aerial Phenomena Division
+1 Atch
+Sighting, 31 Jul 66,
+Northern Ontario
+Echo I
+72.W
+YON
+0524z
+healing
+NE

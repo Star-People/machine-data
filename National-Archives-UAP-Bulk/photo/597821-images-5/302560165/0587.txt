@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:07:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 821015, "source_ctime_ns": 1793391611131676554, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560165/0587.jp2", "source_mtime_ns": 1785808297000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560165/0587.jp2", "source_sha256": "3e776e34b2792716079cde56f08a80d331c54f6d7aea2b6a9043b1978945a2a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 630, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO 45433
+REPLY TO
+ATTN OF:
+SUBJECT:
+TDET/UFO
+UFO Observation 24 Jan 67
+15 February 1967
+TO:
+Lake City, Pennsylvania 16423
+Reference your unidentified observation. The information which
+we have received is not sufficient for a scientific evaluation.
+Request you complete the attached FTD Form 164 and return it in
+the envelope provided.
+Thank you for reporting your observation
+to the Air Force.
+TDET/UFO OFFICIAL FILE COFI
+ES C. MANATT, Colonel, USAF
+frector of Technology and Subsystems
+1 Atch
+FTD Form 164 w/envelope

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:27:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5113807, "source_ctime_ns": 1793373067931875366, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0597.jpg", "source_mtime_ns": 1785688725000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0597.jpg", "source_sha256": "85f252172ab067c4bdc89cc1d09784222dcde388792cce3a44bc22a2ab9d4d6f"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 307, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(PRICTED SECURITY E
+ORMATION
+Hq DAFB, Subj: Report of Unidentified Flying Object
+3. AF Form 112 which is prescribed by AF Letter 200-5 for reporting
+incidents of this nature, 1s not available at this station.
+FOR THE COMMANDING OFFICER:
+1 Incl:
+Ltr fr
+Captain, USAF
+Adjutat
+RESTRICTED
+2
+RECORITY 1
+PARATTOR

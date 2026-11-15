@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:50:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18661140, "source_ctime_ns": 1793356749605074785, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0374.tif", "source_mtime_ns": 1785564751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0374.tif", "source_sha256": "1d2bd0206316332549bdda1bb95f2335405f650f33b48c9a4ede7fa52e0a9845"}
+
+===== PAGE 1 =====
+{"alpha_words": 244, "chars": 1768, "method": "ocr", "page": 1, "variant": "plain-vision"}
+-2 =
+Jumping of gap by lightning indoors.
+(When lightning strikes a house, lightning streamers
+may jump gaps such as between pipes within the house,
+thus causing a bright flash of limited extent. After-
+image is generally formed on the retina and movements
+of eye produce apparent movements of the illuminated
+(5)
+A cloud-to-ground lightning stroke with an associate,
+horizontally directed, moving potential wave may
+possibly produce a transient horizontal potential
+gradient sufficiently intense to initiate slectrical
+discharges.
+(Such discharges would involve luminous darts moving
+at high speed and may move over irregular trajectories,
+producing, in some cases at least, more-or-less hori-
+zontally directed, sinuous, ribbon-like or tubular
+paths. If there is a heavy concentration of electrical
+charges near the earth beneath the thunderstorm the
+triprering of a discharge by the transient potential
+gradient may yield horizontel lightning streamers having
+a relatively slow propagation rate and long duration.)
+(6) A lightning discharge that strikes and runs along a
+conductor such as power or telephone lines and flashes-
+over or jumps the gaps at breaks produces a brilliant
+illumination at the gaps that may be mistaken for ball
+A piece of wire with attached light object that is car-
+ried aloft by the gusty winds and turbulence attending
+a thunderstorm or tornado may serve to facilitate con-
+duction of lightning currents and yield streamers at
+its ends during discharges.
+(6) Spurious cases.
+(a) After-image (persistence of vision)
+(Б)
+Will-o'-the Wisp
+(o)
+Meteorites
+(Q)
+Reflections of lightning observed or highly polished
+objects, such as door knobs.
+. (e) Falling molten metal
+(£)
+Lightning channel seen on end.
+Declassification Authority: NND 57565

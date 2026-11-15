@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:18:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1754600, "source_ctime_ns": 1793356079731492488, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0206.jpg", "source_mtime_ns": 1785564601000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0206.jpg", "source_sha256": "1888200a0614191e43c11503a5a49a4985c87cca3b82279632944e72f578ca53"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 616, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PEN ARM IS ON SHELF UNTIL BALLOON RISES ABOVE
+25,000 FT. WHERE IT FALLS ON TO THE COMMUTATOR.
+WHEN THE BALLOON DESCENDS THE PEN ARM RIDES
+CONCUT AT 20,000 UNDER THE SHELF, CLOSING THE
+3" BRASS
+SHELF
+DETAIL
+WIRE
+TO SQUIB CANNON
+CIRCUIT CLOSES ON DESCENT TO
+- 20000' STANDARD ATMOSPHERE
+N100
+16
+-SILVER SOLDER
+2-56 NF
+PEN ARM
+SHELF
+ANEROID
+CELL
+BRACKET HOLDS
+PEN ARM CAPTIVE
+COMMUTATOR
+OPEN ABOVE 45 TH
+CONTACT
+Nº2 SHAKEPRoof
+LOCK WASHERS
+UNDER TOP AND
+BOTTOM NUTS
+LINKAGE DETAIL
+T2" WIRE LEADS-
+20 GAGE
+STRANDED WIRE
+NOTE: M.FD BY KOLLSMAN
+FIG. 12
+NYU BALLOON PROJECT
+FLIGHT TERMINATION SWITCH
+DATE 7-27-4ęŚ
+ED48-70A

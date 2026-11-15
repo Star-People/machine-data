@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:29:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5703965, "source_ctime_ns": 1793388535793362633, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001481/0566.jpg", "source_mtime_ns": 1785808606000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001481/0566.jpg", "source_sha256": "2256c5ccf7f5267517374f53b3eebf923c8b3534fdc9a18a4b2d2fc34bd0808a"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 391, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIEO MESSAGI
+NEN IN : 15345 (26 Jun 63)N CO M IN G
+UNCLAS.
+A. JANAP 146D
+1. CIRVIS REPORT
+2. V143218 BARRIER AIRCRAFT
+3. PIN HEAD SIZE OBJECT WHITE LIGHT
+4. 31-45N 176-25W
+5. 26154ØZ
+6. ELEVATION 20 DEGREES
+7 130 DEGREES TRUE
+8. UNKNOWN
+9. UNKNOWN
+PAGE 2 OF 2
+26/ 16482
+NOTE
+ADVANCE COPIES DELIVERED TO NIN, XOPX & DIA.
+XMITT TO CIA.

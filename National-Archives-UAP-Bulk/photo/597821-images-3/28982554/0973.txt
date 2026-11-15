@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:28:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5546099, "source_ctime_ns": 1793382058557138497, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982554/0973.jpg", "source_mtime_ns": 1785700990000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982554/0973.jpg", "source_sha256": "7ebb22c37e3f0fc69d3218f30d5370d7d2b0aaae5f252ee37a4793aa924bdfdd"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 1033, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HENG
+HEADQUARTERS
+LACKLAND MILITARY TRAINING CENTER (ATC)
+UNITED STATES AIR FORCE
+Lackland Air Force Base, Texas
+REPLY TO
+ATTN OF: O-P-S
+SUBJECT: Additional Information on UPO Report, Dated 25 March 1959
+TO: USAF (ATCIN)
+1. Reference Message, AFCIN-LEO h-616-E, April 59 to 7hlst Aircraft
+Control and Warning Squadron. The following information is subitted:
+a. Elevation when first sighted: 45°
+b. Azimuth when first sighted: 40°
+c. Elevation when last sighted: 45°
+d. Azimuth when last sighted: 140°
+e. Duration of continuous observation: La hours
+There were no balloons or aircraft that might account for
+this sighting.
+Dr. Paul I. Seabase, Director of the Trinity University Moonwatch
+Team, received several reports on the evening of 25 March 1959
+regarding an Unidentified Flying Object in this same area. After an
+extensive investigation, Dr. Seabase firmly belteves that the object
+in question was an unusual type of meteor.
+FOR THE COMANDER:
+DONALD L SEYBERY
+Captain,
+USAF
+Asst Adiutant
+Copies to:
+33 Air Div (ADC)
+741 ACW Sq

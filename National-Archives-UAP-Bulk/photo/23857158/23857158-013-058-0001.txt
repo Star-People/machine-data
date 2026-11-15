@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:24:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4287194, "source_ctime_ns": 1793360252100341404, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-058-0001.tif", "source_mtime_ns": 1785681670000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-058-0001.tif", "source_sha256": "5070d28daa857e0da239d90a26f5f12786593ea8925c59a9e1b25adba1b1eb18"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 447, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+DE RJEDEN 004 P
+PP 132240Z
+FM COMDR 4602D AISS ENT AFB COLORADO
+Rapil City 5. Dak
+TO COMDR 23TH BOMB WING HEAVY ELLSWORTH AFB S DAK
+/UNCLAS/ AISOC 1019 PD REFERENCE YOUR MESSAGE DOI 23299.
+DID 10202ØZ NOV 56 PD 718 TH BOMBARDMENT SQUADRON IS ONOT
+LISTED ON OUR RECORDS AS A TENANT UNIT OF ELLSWORTH AFB PD
+REQUEST YOU FORWARD THIS ORGANIZATION THE AFB ON WHICH 718TH
+IS LOCATED PD END
+BT
+13/2259 Z NOV RJEDEN

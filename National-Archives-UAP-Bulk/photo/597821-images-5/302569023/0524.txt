@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:17:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1730205, "source_ctime_ns": 1793392592728750295, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569023/0524.jp2", "source_mtime_ns": 1785808067000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569023/0524.jp2", "source_sha256": "296059bff43f9af608e7e0e8667eaefa697b26b4b672cfaaa38207acf19a79e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 715, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TDET/UFO OFFICIAL FILE CY
+TDET/UFO (MaJ Quintani11a/70916/mhs/21 Sep) 21 Sep 67
+UPO Physical Specimen, 25 Aug 67
+Asst Chief, 19BW Information Division
+It. Robert R. Cloar
+1. Reference the cinder like material submitted to the Aerial
+Phenomena Branch for analysis.
+The material was analyzed by the
+Air Force Materials Laboratory at Wright-Patterson and found to
+contain the following nominal chemical compositions.
+1.2 %
+Fe
+0.5
+0.5
+0.2
+0.2
+0.04
+0.04
+0.002
+0.002
+0.002
+Carbon
+0.002
+Balance
+2. The material was identified as coke. There is no evidence that
+the specimen originated from extraterrestrial sources.
+FOR THE COMMANDER
+RES C. MANATT, Colonel, USAF
+rector of Technology and Subsystems
+1 Atch
+Specimen (Coke)

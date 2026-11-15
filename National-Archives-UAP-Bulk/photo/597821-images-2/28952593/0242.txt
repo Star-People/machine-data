@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:21:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3699004, "source_ctime_ns": 1793374659028713877, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952593/0242.jpg", "source_mtime_ns": 1785696875000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952593/0242.jpg", "source_sha256": "89821980eaabfd402d547ddb4cfcce98a248374c9f1024460d9f1131a1ca6dd2"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 716, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+9 Jan 1953
+4. TIME
+ý Local 3/19272ST
+15203272
+8. COURSE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+B. SOURCE
+Santa Ana, California
+AF Pilot
+5. NUMBER OF OBJECTS 6. SHAPE
+7. COLOR
+one
+9. ALTITUDE,
+light
+blue
+10. ANGULAR VELOCITY
+11. PHOTOS
+° per second
+Yes
+14. MANEUVERS
+12. TYPE OF
+OBSERVATION
+air visual
+13. LENGTH OF TIME
+OBSERVED
+5 seconds
+15. CONCLUSIONS
+umerous blue lights appeared to close on
+observing aircraft. Another pilot confirmed
+the observation by reporting two KC-97
+aircraft over Santa Ana at the time of
+sighting and stated that this particular
+type aircraft was equipped with a consider
+able number of blue formation lights.
+16. COMMENTS
+Was aircraft - KC-97
+ATIC Form 329 (Rev 27 May 52)
+- No

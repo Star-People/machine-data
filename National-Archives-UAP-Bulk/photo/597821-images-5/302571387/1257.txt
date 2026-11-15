@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:56:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1006996, "source_ctime_ns": 1793392822346269956, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302571387/1257.jp2", "source_mtime_ns": 1785808177000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302571387/1257.jp2", "source_sha256": "da6252fc53ba4356a384918e48c7c045b8bb774aa5f398bb5441973ff077a77b"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 621, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SWIMMI
+FISHING
+SCENIC DRIVE
+ADAR TOWER
+ALEXANDER PIKE DT-142
+NSULA
+ENIC DRIVE
+BAY SHORE RD. OC-135
+GOLF
+COTT
+BATTLEFNIELD DANS
+MONUMENT
+BUCK.
+GOLF
+COTTAGES
+HUNTING
+ONFEDERATE
+PRISON SITE
+AND CEMETERY
+888°
+ICE FISHING
+BOAT HARBOR
+johnson s
+Island
+STONE LOADING DOCK
+BOAT HARBOR
+Marbliread
+BOAT LAUNCHING
+MOTEL
+COTTAGES PI]]
+en
+MOTEL
+COTTAGES
+FISHING
+PICNICKING
+DRIVE
+SCENIC
+MOTEL
+COTTAGES L
+ICE FISHING
+ICE FISHING
+MARBLEHEAD
+LIGHTHOUSE
+FISHING
+ROWBOATS
+BOAT LAUNCHING
+PICNICKING
+STATE ROADSIDE PARK
+BOAT LAUNCHING
+REEF FISHING
+BOAT HARBOR
+COTTAGES
+BATHING
+SAND POINT
+23 24
+25 26 27 28 29
+30 31 32 33 34
+-L
+M
+- P
+R
+- S
+-V

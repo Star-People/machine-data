@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:04:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3251335, "source_ctime_ns": 1793376012806278703, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958814/00397.jpg", "source_mtime_ns": 1785696754000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958814/00397.jpg", "source_sha256": "c8cb2a52e48302616edac63e7dc6765a13e7cc0d1f19a835f4aeda16b34b8d4a"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 1278, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EN/CONDR HEDCON USAF BOLLING AFB WASHDO
+OPNS 846-G. SUBJ: UFOB. (1) DESCRIPTION (A) ROUND (B) HALF-DOLLAR
+C) SILVER (D) ONE (E) N/A (F) NEGATIVE (G) NEGATIVE (H) NEGATIVE
+I) NEGATIVE (2) COURSE (A) LOOKING IN GENERAL AREA WHEN FIRST SIGHTED
+E) APPROX 60 DEGREE ELEVATION 160 DEGREE AZIMUTH (C) APPROX 32 DEGREE
+LEVATION 160 DEGREE AZIMUTH (D) SLIGHT ARCHED (E) FADED OUT (F)
+PPROX 48-45 SEC (3) MANNER OF OBSERVATION (A) GROUND - VISUAL (B)
+EGATIVE (C) NEGATIVE (4) TIME AND DATE (A) 312345Z (B) DAY (5)
+OCATION (A) NORTH ARLINGTON, VA. (6) IDENTIFYING INFO (A) CIVILIAN
+AGE 36,
+N. ARLINGION, VA.,
+OCCUPATION - ENGINEER CIVIL, ESTIMATE - RESERVE OFFICER (CAPT),
+GE TWO JEPBL 35
+CELIABLE. MRS.
+AGE 31; '
+ALINGTON, VA., OCCUPATION HOUSEVIFE, ESTIMATE - FAIRLY RELIABLE.
+AGE 45g
+→ N. ARLINGTON, VA.,
+OCCUPATION MECHANIC, ESTIMATE - RELIABLE. (7) WEATHER (A) SKY CLEAR
+IN AREA OF SIGHTING - THUNDERHEADS TO SOUTH. (B) BOLLING AWS (DET
+0-12) 1930E - SURFACE E12K 1600E - 5022 252 DEGREES 14K, 1003 310
+[GREES 18K, 18220 313 DEGREES 26K, 23029 254 DEGREES 14K (C) 1942E -
+P,400 SCATTERED 25,200 OVERCAST (D) 15M (E) 1930E - 8/10 (F) TURG CU
+IN ALL QUADS (8) NEGATIVE (9) NEGATIVE (13) NEGATIVE (11) NEGATIVE
+(12) AIRDROME OFFICER - POSSIBLE THUNDERSTORM PHENONENON.
+272339Z JUL JEPBL

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:30:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5716165, "source_ctime_ns": 1793369517836850757, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0765.jpg", "source_mtime_ns": 1785688674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0765.jpg", "source_sha256": "e62625098c1ad9f1291244de05bb0ff8fda2a688d57b5ec4e1533f47ce384219"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 341, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNOL
+ASSIFIED
+Incident #173 « Honolulu, T. H. == 18 October 1943
+Thero doos not appour to be any astrononical explanation
+for this incident. Tho noon had not yot risen at the tina tho
+object was sighted, although it vas about to rise in the northeast.
+the object may have beon a balloon reflecting the light
+of the setting sun.
+UNCLASSIFIED

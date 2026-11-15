@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:22:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4074650, "source_ctime_ns": 1793373069461782127, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0603.jpg", "source_mtime_ns": 1785688725000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0603.jpg", "source_sha256": "9ce9cd4e591be9cbe67f24b2d4d10c60a301fe843e359f93750171c70faec120"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1258, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+2370TH AIR BASE SQUADRON
+Long Beach Municipal Airport
+Long Beach, California
+O&T 350.05
+SUBJECT: Report of Unidentified Flying Objects (FLYOBRPT)
+30 JUL 1952
+THRU:
+Commanding General
+Fourth Air Force
+Hamilton Air Force Base
+Hamilton, California
+Commanding General
+Continental Air Command
+Mitchel Air Force Base
+Hempstead, L,I., Now York
+TO:
+Director of Intelligence
+Headquarters, USAF
+Washington 25, D.C.
+1. Reference TWX 0410, this headquarters, dated 24 July 1952. Pro-
+visions of paragraph 7o(2), Air Force Letter 200-5, cannot be complied with
+inasmuch as a follow-up investigation of incident disclosed that source of
+report could not verify his previous statements which appeared to be possible
+fabrications, hallucinations, and hearsay. Corroborating witnesses were also
+reluctant to make any statement describing what had oocurred which invalidates
+the reliability of original report.
+2. This information is submitted in letter form due to the non-avail-
+ability of Air Force Form 112 at this installation. These forms have been
+placed on order and will be utilized in future Reports of Unidentified Flying
+Objects.
+FOR THE COMMANDING OFFICER:
+005649
+Copy furnished:
+Chief, Air Tech Intel Ctr
+Wright-Patterson ArB
+Captain, USAF
+Adjutant

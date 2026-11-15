@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:29:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5572891, "source_ctime_ns": 1793374000997915677, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949709/0450.jpg", "source_mtime_ns": 1785696469000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949709/0450.jpg", "source_sha256": "9640eeb6ee914381ee5b7e016873ff3698d77634a27bd7f158fcd51a7563491f"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 119, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. ie Tea ar at ne 4.
+’ - =
+
+“rk PUNE ea
+
+On LY oe
+
+ut
+
+te
+
+. “hte <
+ohh
+: hog
+
+Wala ien.
+
+ae sas Ses a
+
+pet OK
+
+oy
+
+*

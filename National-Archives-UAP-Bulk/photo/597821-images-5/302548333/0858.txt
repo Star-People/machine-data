@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:08:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 862321, "source_ctime_ns": 1793390253602047746, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548333/0858.jp2", "source_mtime_ns": 1785808292000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548333/0858.jp2", "source_sha256": "2aabdfbed7025498fb73a5b83242ed8ce61d2f8807126d8f54c82e2cf552ed0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 496, "method": "ocr", "page": 1, "variant": "plain-vision"}
+27 такся
+APR 4 1966
+FTD (TDEW)
+Wright-Patterson APB, Ohio 45433
+1 Apr11 1966
+Rome, New York 13440
+Dear Mr
+Feference your recent unidentified observation of 27 March
+1966.
+The information which we have received is not sufficient
+for evaluation.
+Request you complete the attached FID Form 164
+and return it in the envelope provided.
+We wish to thank you for reporting your observation to the Air
+vorce.
+Sincerely,
+Nils pal
+HECTOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book
+COORDINATION:

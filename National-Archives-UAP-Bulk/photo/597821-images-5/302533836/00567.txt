@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:11:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1282612, "source_ctime_ns": 1793388875034259861, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533836/00567.jp2", "source_mtime_ns": 1785808231000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533836/00567.jp2", "source_sha256": "20c3af9e2e773d0700c542e0ee3677edd1a0c36294e3f302218c372aefa56223"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 865, "method": "ocr", "page": 1, "variant": "plain-vision"}
+g. Weather and winds aloft:
+(1) Observer's account: Clear, winds calm.
+(2) Winds:
+(a) Surface: Calm, 65° F
+(b) 6,000 feet MSL 250° 30K increasing to 250° 135K
+at 35, 000 feet MSL.
+(3) Ceiling: Clear.
+(4) Visibility: 15 miles.
+(5) Amount of cloud cover: None.
+(6) Thunderstorms: None.
+(7) Vertical temperature gradient (Degrees Centigrade):
+3M plus 14, 5M plus I, 3M plus 4, 10M pas 3, 15M minus 8,
+20M minus 14, 30M minus 36, 35M minus 46, 40M minus 59,
+45M minus 61, 50M minus 62.
+h. Unusual activity: None.
+i. Identification action:
+(1) Consulted aeronautical publications.
+(2) Obtained meteorological data from AWS.
+(3) Contacted Space Detection and Tracking Center, Colorado
+Springs, Colorado.
+Air traffic:
+(1) Satellite Echo I transiting area from West to East at
+approximately 0130Z, 25 August 1964.
+(2) Low, intermediate and high altitude airways over area.

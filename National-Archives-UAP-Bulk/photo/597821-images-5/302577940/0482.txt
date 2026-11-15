@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:08:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 966817, "source_ctime_ns": 1793393488691746103, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302577940/0482.jp2", "source_mtime_ns": 1785808138000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302577940/0482.jp2", "source_sha256": "470832046d9af15ca54ccae790518ab0adedae2faf1ac421623c8f0b59f66f27"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 687, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTWENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMINA MESSAGE
+AF IN: 54901
+Pg 2 of 4
+I. VERY BRIGHT
+2. DESCRIP ION OF COURSE OF OBJECT:
+PAGE 2 RUWI FIA127 UNCLAS
+A. SIGHTED BY ACCIDENT
+B SW FROM BASE, 20 DEGREES ABOVE HORIZON
+C SV, LESS THAN FIVE DEGREES UP
+D. DESCENDING OR MOVING SOTHWEST
+E. OVER HORIZON
+F. ONE HOUR
+0, MANNER OF OBSERVATION
+A. GROUND VISUAL
+B. BINOCULARS
+4, TIME AND DATE OF SIGHING
+A, 0020Z 27 NOVEMBER 1968
+3. LOCATION OF OBSERVERS: CAVADIAN FORCES RADAR STATION, SIOUX
+LOOKOUT, ONTARIO.
+6, INFORMATION ON OBERVERS: MILITARY. PRIVATE THOMAS A SZABO,
+AND CORPORAL GIBSON, SIOUX LOOKOUT RADAR STATION.
+7, WEATHER
+A. CLEAR
+AFHQ AM 0-309C
+UNCLASSIFIED

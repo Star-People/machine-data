@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:25:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4315084, "source_ctime_ns": 1793377653627004487, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964783/1108.jpg", "source_mtime_ns": 1785696822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964783/1108.jpg", "source_sha256": "7d835bc35fd77cd184182317b06250fe0f0e33ce31afc7aa34f3f5c7014ef298"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 741, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+- 1. DATE
+2. LOCATION
+3 February 1956
+3. DATE-TIME GROUP
+Local
+GM T.
+5. PHOTOS
+04/02152
+• Yes
+7. LENGTH OF OBSERVATION
+Glenwood,
+Iowa
+4. TYPE OF OBSERVATION
+R Ground-Visual
+• Ground-Radar
+• Air- Visual
+6. SOURCE
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+5 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Flashing bright white-large,
+size of
+/ dollar. Drifting south also fast
+flashing redish green light.
+south
+11. COMMENTS
+Probable a/c sighting.
+112. CONCLUSIONS
+Was Balloon
+•Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unk no wn
+ATIC FORM 329 (REV 26 SEP 52)

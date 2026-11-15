@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:15:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1706546, "source_ctime_ns": 1793391510922372928, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559029/01182.jp2", "source_mtime_ns": 1785807998000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559029/01182.jp2", "source_sha256": "3435f2e6d6b31ec4553fc355a729ddf8b2d32db4838b77f6f8bafc2fc16cddc2"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 60, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+FOREION TECHNOLOGY DIVISION, ATSC
+UNCLASSIFIED
+UNCLASSIFIED

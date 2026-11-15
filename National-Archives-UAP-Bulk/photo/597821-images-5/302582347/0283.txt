@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:59:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1669317, "source_ctime_ns": 1793393946005615619, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582347/0283.jp2", "source_mtime_ns": 1785808116000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582347/0283.jp2", "source_sha256": "e1dcb9c14ae5749bff69fbde18984a124f6b17cc8ec8a9a65f5fc74f0a84d6d4"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 649, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE • TIME CROUS 7/2005
+18/0105
+17 March 09
+SOURCE
+Civilian
+NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+10 Minutes
+TYPE OF OBSERVATION
+-Visual
+COURSE
+Seen in West
+PHOTOS
+D Yes
+ICH.
+9. PHYSICAL EVIDENCE
+2. LOCATION
+Dayton, Chio
+10. CONCLUSION
+Possible (BALLCON)
+Description is consistent with past observations of garment bag
+hot air balloons. Also possible Venus which was at azimuth
+285 deg at elevation of aboût 3 degrees.
+BRIEF SUWARY AND ANALYSIS
+Observer sighted a bright light in the west. The light mov
+back and forth like a string being blown in the wind while
+seemingly descending altitude.
+XA•
+FTD SEP 61 0-329 (TDE)

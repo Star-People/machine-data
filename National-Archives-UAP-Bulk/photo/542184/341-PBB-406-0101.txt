@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:20:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3512803, "source_ctime_ns": 1793365634953729991, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-406-0101.jpg", "source_mtime_ns": 1785565405000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-406-0101.jpg", "source_sha256": "dbc64cc846141dba58a30280cc8f932843bcda7a803b8b41250730bdf50342ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 110, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ae
+roa
+*
+os
+i
+
+rae a
+
+- a
+As
+<t
+ae
+4
+,
+. ’
+bs
+De Sn et a egy
+»
+%,
+
+4
+
+4
+
+~ %
+
+%
+
+-
+- A
+‘
+*
+— — —e- 4 “=
+
+;
+
+0

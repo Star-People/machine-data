@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:50:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18228488, "source_ctime_ns": 1793356644963860922, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0264.tif", "source_mtime_ns": 1785564735000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0264.tif", "source_sha256": "1c1dd58c71eced375b98af9d0fd1b3063faa99b28c398eb16b0384caca546085"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 199, "method": "ocr", "page": 1, "variant": "clean-vision"}
+RESTRICTED
+Incident #116 -- Moose Factory, Vanada -- 11 March 1948
+This incident can certainly be secribed to the rall of
+a bright meteor, or ftreball.
+RE
+ICTED
+Declassification Authority: NND 57565

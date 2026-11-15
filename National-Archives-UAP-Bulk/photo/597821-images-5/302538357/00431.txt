@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:13:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1643062, "source_ctime_ns": 1793389243206250563, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538357/00431.jp2", "source_mtime_ns": 1785808181000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538357/00431.jp2", "source_sha256": "ae34fd9c637eadf124c68ab8587b9c154717c6686827a33e73146ba2cec69d13"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 58, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pa 3° MOM = SOUTH SIPC dF ifuus >
+
+Sth aid
+ist ee
+8 hs a

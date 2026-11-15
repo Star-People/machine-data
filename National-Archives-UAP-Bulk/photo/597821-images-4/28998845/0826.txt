@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:41:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8720585, "source_ctime_ns": 1793387556553235935, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998845/0826.jpg", "source_mtime_ns": 1785748188000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998845/0826.jpg", "source_sha256": "4768d408a678699d454ec39e6fabee414cb698ae28d4dbd419164af2238873fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 931, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2y August
+1962
+. DATE-TIME GROUP
+Lacal
+GM T.
+30/03202îŘŚź
+S. PHOTOS
+• Yes
+XXN°
+7. LENGTH OF. OBSERVATION
+4 minutes
+10. BRIEF SUMMARY OF SIGHTING
+Obj w/brightness & size of Venus
+sighted at 210dgr azimuth 5 dgr
+elevation in area of excellent visi-
+bility. Speed seemed irregular.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+23.345
+TYPE OF OBSERVATION
+163.11W (Pacific) "
+Xit Ground-Visual
+• Air- Visual
+• Ground-Rader
+• Air-Intercept Radar
+6. SOURCE
+12. CONCLUSIONS
+Wes Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Military
+8. NUMBER OF OBJECTS
+9. COURSE
+one
+East
+11. COMMENTS
+Was Astronomical
+Probably Astronomical
+• Possibly Astronomical
+Other
+20% Insufficient Data for Evaluation
+•
+Unknown
+Possibly a/c; however, there
+should have been radar pickup
+indicated. No mention of radar
+return or
+attempt to gain con-
+tact, Insufficient data for
+evaluation.
+ATIC FORM 329 (REV 26 SEP 52)

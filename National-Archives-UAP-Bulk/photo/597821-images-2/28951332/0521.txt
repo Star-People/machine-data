@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:24:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4188337, "source_ctime_ns": 1793374352227031268, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951332/0521.jpg", "source_mtime_ns": 1785696773000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951332/0521.jpg", "source_sha256": "b385ece72c4d1866e31834deb29f6ce640df698c3b0884a7fc04770920f1b37f"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 65, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+This case includes three (3) photoragies
+2 nasrative, 1 drawing.

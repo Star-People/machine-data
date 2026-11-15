@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:25:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4429985, "source_ctime_ns": 1793386246487416528, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995368/0596.jpg", "source_mtime_ns": 1785748124000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995368/0596.jpg", "source_sha256": "d131ddec78477c5740c25881c6cda4acbb159cfaa76d44723ff15ecec555dbdd"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1187, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+29 Oct 61
+3. DATE-TIME GROUP
+Local_1920
+GM T.
+29/10202
+5. PHOTOS
+Kadena AB, Naha Okinava
+4. TYPE OF OBSERVATION
+XE Ground-Visual
+D Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6-
+SOURCE
+• Y•s
+DiNo
+7. LENGTH OF OBSERVATION
+Military
+8. NUMBER OF OBJECTS | 9. COURSE
+2. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical METEOR
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+2 sec 2. 3-4 secęś
+E
+SE
+10. BRIEF SUMMARY OF SIGHTING. White Floursescent
+11. cOMMENTS 2 witnesses separated by about
+bot with white tail w/straight flight pth path
+miles reported objt flashing across sky.
+W to E observed for 2 seconds.
+Similar descriptions with exception of
+direction. Difference in flight path
+2. Round white objt splitting into parts.
+No trail or exhaust. Rapid movement w/flat
+trajectory in sight 3-4 sec.
+probably due to optical phenomena or lack of
+orientation on part of l or both observer.
+in relation to N. Objt parobably a bolide
+since all characteristics of bolide
+observation are present.
+ATIC FORM 329 (REV 26 SEP 52)

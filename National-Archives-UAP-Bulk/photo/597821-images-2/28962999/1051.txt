@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:32:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6741909, "source_ctime_ns": 1793377222112171196, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962999/1051.jpg", "source_mtime_ns": 1785696822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962999/1051.jpg", "source_sha256": "87ae3b6e8d5d4aaf4847e33292850dd2b8dde858098b9dc31755fea9f243c31a"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 755, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+30 Jul 55
+3. DATE-TIME GROUP
+Local.
+31/0230Z
+GM T
+5. PHOTOS
+• Yes
+7. LENGTH OF.OBSERVATION
+30 min
+10.
+BRIEF SUMMARY OF SIGHTING
+PROJECT 10073 RECORD CARD
+2. LOCATION
+6.
+Rego Park, New York
+TYPE OF OBSERVATION
+XO Ground-Visual
+• Air Vi suol
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+civ
+8. NUMBER OF OBJECTS
+4
+9. COURSE
+E to
+W to E
+11. COMMENTS
+Observed 4 spherical objs. Objs moved in
+groups d 2, one group moving E to W,
+other W to E.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+000
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+000
+000
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+, Searchlight
+Insufficient Data for Evaluation
+Unknown
+4602D Eval Searchlight activity •
+ATIC PORM 329 (REV 26 SEP 52)

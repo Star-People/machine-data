@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:26:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4690316, "source_ctime_ns": 1793358547414824225, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-048-0001.tif", "source_mtime_ns": 1785681125000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-048-0001.tif", "source_sha256": "f40fe0266acfde0397c15952d034dc647c84868ce23089d542bf7aca752b0a26"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 762, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LCG
+1 REPORT NO.
+AISS-TP0B-156-55Í
+2. DATE RECD HQ 4602D AISS 3 DATE/TIME RECD IN OPS
+21. May 1955
+5 DATE/TIME OF SICHTING
+20/1721 May 1955
+6 LOCATION OF SIGHTING
+Orvilla, California
+18 MEANS RECD 9 INITIAL ACTION
+TT Mag
+11 INVES ASSIGNED BY
+W/A
+112: DATE IR RECD AT HQ
+No Investigation Authorized
+! 12 DATE INVES ASSIGNED
+N/A
+15 DATE IR APPROVED
+$17 AISOP FORM 5 FILED
+31 May 1955
+: 18 COMMENTS
+14 LOGGED BY
+A/IC DeRadder
+17 GEOREF
+10 INVES UNIT
+1/A
+13 ASCIGNING OFFICER
+NA
+16 DATE IR SENT TO ATIC
+N/A
+Due to the brevity of the sighting (Tive seconds) and the possibility of
+the sighted object being a balloon, no follow-up investigation authorized.
+'19 CONCLUSIONS
+Possibly Balloon
+AISOP FORM 7 (2 APR 55)

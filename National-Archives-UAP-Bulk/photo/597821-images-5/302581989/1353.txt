@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:07:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 806846, "source_ctime_ns": 1793393900036422433, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302581989/1353.jp2", "source_mtime_ns": 1785808450000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302581989/1353.jp2", "source_sha256": "ba0456a1f3cc5ba4cd6729b03cbc05d89a84a54c910da9379c911204fe222c46"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 469, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE
+February
+SOURCE
+GROUP
+2040
+04402
+Civilian
+1. NUMBER OF OBJECTS
+On e
+5. LENGTH OF OBSERVATION
+4 Minutes
+6. TYPE OF CSSERVATION
+Ground-Visual
+7. COURSE
+S
+8. PHOTOS
+• Yes
+XIA No
+9. PHYSICAL EVIDENCE
+• Yes
+2. LOCATION
+Shingel Spring, California
+10. CONCLUSION
+Probable SATELLITE
+11. BRIEF SUMMARY AND AHALYSIS
+The observer sighted a flickering white light that traveled
+south and disappeared after 4 minutes.
+FORM
+FTD SEP 130-329 (TDE) PR
+in mad.

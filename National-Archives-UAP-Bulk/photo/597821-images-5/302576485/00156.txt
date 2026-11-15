@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:07:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 816552, "source_ctime_ns": 1793393350914971771, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302576485/00156.jp2", "source_mtime_ns": 1785808043000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302576485/00156.jp2", "source_sha256": "708382a29825da34ca6d90515422b81042214fa3e399e5b713ca91f91081baef"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 691, "method": "ocr", "page": 1, "variant": "plain-vision"}
+May 1968
+TDPT (UFO) Lt Col Quintanilla/70916/mhs/29 Aug 68
+Photograph of UPO
+30 AUG 1969
+Columbia, South Carolina 29206
+1. This replies to your letter of July 4, 1963 in which you inclosed
+a negative of an unidentified flying object (UPO).
+2. Photo analysis indicates that the film submitted exhibits one
+large and one small water spot which were undoubtedly incurred
+during processing of the negative.
+3. Thank you for forwarding the negative to the Air Force for analysis;
+your original negative is inclosed.
+TOPT (UPO) OFFICTAL FILE CY
+RECTOR QUINTANILLA, JI, LA Colonel, USAF
+Chier, Aerial Phenomena Office
+Aerospace Technologies Division
+Production Directorate
+1 Ateh
+Bar orig negative

@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:18:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1792403, "source_ctime_ns": 1793391830933533289, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562005/01054.jp2", "source_mtime_ns": 1785808525000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562005/01054.jp2", "source_sha256": "3f82a7e3440935e245a896087e187f58749a94ae76987c605d2ad177afe85d62"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 423, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. MAS.
+INVESTIGATIONS OffICER
+HolloMAN EXT 1242/ 7243
+CoLoR oF DojEer: SilwaR
+NumbER of objECTs: 30 To Ho
+NO TAIL - NO SOUNd- NO SHAPE-NO FORMATION
+FLYINg NORTH TO SOUTH
+DURATION OF COSERVATION: 15 MINUTES
+TIME of SIgHTINg: 2 MARCH 1035 AM
+RAdAR pICKEd ip ObjECT: 1100 AM 10 MILEs EAST
+OF MESCALERO SUMMIT
+WEATHER: (1).SURFACE INVERSION
+(2). 45C0 FOOT INVERSION
+(3). MINOR 70D0 FOOT
+T-33, F-100, 8-57 AIRDORNE. NO CONTOET

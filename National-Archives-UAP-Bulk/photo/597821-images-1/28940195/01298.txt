@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:22:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3860737, "source_ctime_ns": 1793371878437874200, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940195/01298.jpg", "source_mtime_ns": 1785688575000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940195/01298.jpg", "source_sha256": "f2cf46d9283f8c7331a4a2d83601b389cb144861dc4679224a2fe711c384c866"}
+
+===== PAGE 1 =====
+{"alpha_words": 163, "chars": 1207, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+12. LOCATION
+22 Oct 1951
+DATE-TIME GROUP
+Local
+GMT_22/02302 - 02322
+S.
+PHOTOS
+• Y•з
+XX.N.
+7. LENGTH OF OBSERVATION
+2 minutes
+North Truro, Mass
+TYPE OF OBSERVATION
+• Ground-Vi sual
+• Air Vi suol
+Ll Ground-Radar
+• Air-Intercept Rader
+6. SOURCE
+Radar Operators
+6, NUMBER OF OBJECTS
+9. COURSE
+1
+W then S
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+D
+Possibly Balloon
+Was Aircraft
+a
+Probably Aircreft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other INSUFFICI
+Insufficient Dota for Evaluation
+o
+Unk no wn
+BRIEF SUMMARY OF SIGHTING
+See Case file.
+BUNTUAPTON. . INSUPPICIENT DATA.
+This sighting occurred about 8 hours later thap the other sighting (same report number)
+with all conditions similiar except for time,
+uration of tracking, and direction of the
+track.
+The temperature and altitude information are the same, indicating no temperature
+inversion. It would be unlikely that two meteor trails would be observed the sane day,
+and 4 minutes seems too long for this type of
+target. There isn't sufficient data regarding
+the track direction. range, changes, etc., to enable a meaningful evaluation to be made.
+ATIC FORM 329 (REV 26 SEP 52)

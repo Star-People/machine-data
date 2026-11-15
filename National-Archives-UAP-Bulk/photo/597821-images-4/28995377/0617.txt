@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T12:05:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3550272, "source_ctime_ns": 1793386251533397209, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995377/0617.jpg", "source_mtime_ns": 1785748398000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995377/0617.jpg", "source_sha256": "357088ed2878dd4c55349112e2eacabac2615a6c8232b00b7e9168136a1a152f"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 894, "method": "ocr", "page": 1, "variant": "plain-vision"}
+A spectacular flying saucer hovered near the Smithsonian satel-
+lite-observing station in Curaçao, British West Indies, on the night
+of October 17, 1961. The station crew observed it with binoculars,
+by apogee telescope, and photographed it with the Baker-Nunn
+satellite camera. A brilliantly glowing object, it shone in the eastern
+sky, moving erratically and fluctuating in brightness. After watching
+it for nearly an hour and finding that the nearby airport could not
+observe the object, the observers concluded that it must be less
+distant than it seemed, and set out by car to try to get a closer look.
+About a mile and a half from the station they stopped, and solved
+the mystery. A plantation manager and his servant stood in a field,
+hanging onto one end of a 1200-foot kite string. At the other end,
+high in the sky, soared a kite; hanging from it was a lighted pressure
+lantern [14].

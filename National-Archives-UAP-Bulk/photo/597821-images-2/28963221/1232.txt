@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:30:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6101280, "source_ctime_ns": 1793377306660047576, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963221/1232.jpg", "source_mtime_ns": 1785696785000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963221/1232.jpg", "source_sha256": "bd81dbdc857e648f68eafddfd94006b2a604e526c6552bd24843f53e71cd077d"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 963, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE
+19 Aug 55
+3.
+DATE-TIME GROUP
+Local
+GM T
+20/02002
+PHOTOS
+• Yes
+a No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Fear Ishpeming, Mich
+4. TYPE OF OBSERVATION
+* Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+0iVi 187
+. NUMBER OF OBJECTS
+three to five seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+One ciag shaped obj, green phosphorescent
+with sparks coming out of end, was seen for a
+period of 3-5 seconds thru the windshield of
+observer's car. Observers estimated the obj
+to be 500' above terrain. Obj disappeared
+behind trees.
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+Wos Aircraft
+Probobly Aircraft
+Possibly Aireraft
+Was Astronomical Meteor
+Probably Astronomical
+Ox Possibly Astronomical
+Other.
+•
+Insufficient Data for Evaluation
+Unk no wn
+North er ly
+11. COMMENTS
+Color of obj, sparks from end of it
+and duration of sighting indicate
+possible meteor.
+ATIC FORM 329 (REV 26 SEP 52)

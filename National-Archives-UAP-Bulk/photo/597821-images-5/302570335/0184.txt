@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T11:53:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 707599, "source_ctime_ns": 1793392743685159127, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570335/0184.jp2", "source_mtime_ns": 1785808145000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570335/0184.jp2", "source_sha256": "d1dd46f27686343f20c54f45c210894358951cdffacf5ec7145c663e53bf64c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 243, "chars": 1454, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COMMENTS:
+The geographical location of the first pilot is not given. The direction
+or travel as confusing, since it is given with respect to an unnamed (in the Twx)
+airfield. with the information given it is impossible to determine if both sightings
+were of the same lights. Because the information was so sketchy both pilots have since
+been requested to complete a AF Form 117 but neither has done so as of
+28 August 1968.
+The 32nd Air Div at Gunter Field, the 3rd Air Div at Ft Lee and 792nd radar sight at
+Charleston were contacted at the time of the sighting but none carried any indications
+on their scopes. Scheduling units for refueling operations in the South Caplina,
+Ceorgia area were contacted with negative results. All bases on the SE coast possessing
+aircrart capable of the speeds indicated (assuming the two sightings are of the same
+lights and that they had traveled 128 miles in ll minutes) were contacted. None
+had aircraft in the area of the reported sightings. There were no known rocket
+launches that could account for the sightings. No pilots reported the lights to
+the Volunteer Flight Officer Network. No meteor reports were given to the American
+Meteor society for the time period in question. Because there is a gross amount of
+information lacking about the sighting and the fact that it cannot be established
+that the two different pilots saw the same lights the sighting is being carried as
+INSUFFICIENT DATA FOR EVALUATION,
