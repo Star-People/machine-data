@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:36:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1729715, "source_ctime_ns": 1793388591383670540, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530103/0004.jp2", "source_mtime_ns": 1785808544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530103/0004.jp2", "source_sha256": "b4ecc0395e8a75881af603c892f6f38bffa1b8ce2676f7c8bcf1a7832ec6c4d0"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 625, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFED MESSAGE
+INCOMING
+AF IN : 19606 (15 Aug63)
+PAGE TWO RUWGAJ 18
+(5) N/ A
+(6) NONE; SEEM TO GLOW BRIGHTER WITH MOVEMENT
+(7) NONE
+(8) NONE
+B, DESCRIPTION OF COURSE OF OBJECT
+(1) CHANCE SIGHTING
+(2) 45 DEGREES
+(3) OBJECT WAS OBSERVABLE AT TIME REPORT WAS TAKEN
+(4) MOVED UP AND DOWN LEFT AND RIGHT BUT NO MORE THAN
+ESTIMATED 1 FT IN EACH DIRECTION.
+(5) AT TIME OF REPORT OBJECT WAS STILL OBSERVABLE
+(6) 1 HOUR TO 1 HOUR AND 45 MIN.
+C, MANNER OBSERVATION
+(1) VISUAL
+(2) NONE
+(3) N/A
+D. TIME AND DATE OF SIGHTING
+(1) 14/ 0445Z
+(2) NIGHT
+E. LOCATION OF OBSERVERS
+Pg 2 of 4

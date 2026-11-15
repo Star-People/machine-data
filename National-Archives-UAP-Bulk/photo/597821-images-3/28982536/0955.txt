@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:56:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7029363, "source_ctime_ns": 1793382051803247830, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982536/0955.jpg", "source_mtime_ns": 1785700875000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982536/0955.jpg", "source_sha256": "f80c237e3969215426dd116df615274a0c114bb3345d4764dd7551ae73460589"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 701, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5. 2-3 MINUTES
+C. MANNER OF OBSERVATION
+1. VISUAL FROM GROUND
+2. NONE.
+3. NONE.
+D. TIME AND DATE OF SIGHTING
+1. 22106302 06 30-5=0130
+2. NIGHT
+E. LOCATION OF OBSERVATION -
+1. 83 DEG 50 MIN, 42DEG 30MIN N
+2. 5 MILES NORTH OF ANN ARBOR, MICHIGAN
+F. IDENTIFYING INFO OF ALL OBSERVERS
+1. MR
+& MRS.
+DEZTER, MICHIGAN. AGES 23 & 20.
+MR •
+AGE 35.
+PAGE THREE RJEDBW 7
+2. N/A
+1. CLEAR
+2. SURFACE
+10,000
+16,000
+20,000
+30,000
+50,000
+80,000
+NNW
+330 DEG
+330 DEG
+330 DEG
+330 DEG
+280 DEG
+270 DEG
+3. CLEAR
+4. 15 MILES
+5. MONE
+S NONE
+C. WEATHER AND WIND ALOFT CONDITIONS AT TIME OF SIGHTING
+15 KNOTS
+25
+40
+80
+80
+40
+20
+• UNUSUAL ACTIVITY IN AREA
+1. NONE
+2. NONE
+3. NONE
+1. INTERCEPTION OR IDENTIFICATION OF ACTION TAKEN

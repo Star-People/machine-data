@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:10:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13577014, "source_ctime_ns": 1793358121631128078, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-017-0001.tif", "source_mtime_ns": 1785680999000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-017-0001.tif", "source_sha256": "7c279d5d56b512c8d659910a37ce313c6964a309db1aed67ce88aa93102db604"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 835, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+0108₴
+STP 081PNC)5
+21. Dec 54
+Long Beach, Calif
+XYA205
+MD8182
+JMP0277
+JAPOS 012
+PD JEDEN JMPOM JEDWP JEPHQ 444
+DE JWPOG: 09
+P 211800Z.
+COMDR 751ST ACM SQ MT LAGUNA CALIF
+TO JEDEN/COMDR AIR DEFENSE COMMD ENT AFD COLO
+JWPOM/COMDR 27TH ADIV DEF NORTON AFB CALIF
+JEDUP/COMDR AIR TECH INTELLIGENCE CENTER WRIGHT PATTERSON AFE CHIO
+JEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHDC
+VUNCLASSIFIED/751ST OPS 5-2 121 PD UFOB
+1(A) NA: (B) N/A (C) BLUE (D) ONE (E) N/A (F) ROUND-SOLID (G) N/A
+(H) N/A CI) SPEED ESTIMATED 220 KNOTS CMA BRIGHTER THAN THE SKY PD
+2C CAMNA (B) VERY HIGH CHA NORTHWEST (C), VERY HIGH CHA NORTHEAST
+(DON/A CEO N/A (F) 15 MINUTES
+(A) GROUND-VISUAL. (B) N/A (C) NA
+(A) 210702Z (B) NIGHT
+(A) BD5245
+S. CAN
+CMA CALIF (B) N/A
+7. (A) CLEAR CHA NEGATIVE PRECIPITATION (B) SURFACE330/Ø5
+KNOTS

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:30:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1003365, "source_ctime_ns": 1793389734476001486, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0798.jp2", "source_mtime_ns": 1785808303000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0798.jp2", "source_sha256": "90bc309050a9c81aa95cd01b8da1447bab47779d094fb535d489d4284d20e150"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 1026, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+NNNN
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 49918 (5 Aug 65) G/ap
+ACTION: NIN-7
+INFO: XOP-1, XOPX-8, SAF-OS-3, DIA-1 (21)
+SMB A176
+P&oitof 2
+ZC2CHQB966ZCWJX 934
+PP RUEAHQ
+DE RUWGKG 14 2172014
+ZNR UUUUU
+ECHO TI
+00.31 5 44
+NARCH GF CIT
+Y 19 DEC
+MOVINS
+NE
+ECHO /
+RD
+P 051700Z
+4REA
+FM 328FTRWG RICHARDS 32-74
+AFB MO
+TO RUWGALE/ADC
+RUCDSQ/FOREIGN TECH DIV WRIGHT PATTERSON AFB OHIO
+RUEAHQ/CSAF
+RUEAHQ/OSAF WASH DC
+INFO RUWGNP/SCADS SIOUX CITY MUNI APRT IOWA
+ZEN/29AIRDIV RICHARDS 32-74 AFB MO
+BT
+UNCLAS 328FWODC 20101 AUG 65. FOR ADOIN, FTD WRIGHI-PATTERSON,
+AFNIN, SAFOI. INFO: SCODC-I, 290IN. UFO REPORT.
+PARA 14A: (1) STAR,(2) PEA. (3) WHITE AND BLUISH WHITE, BLINKING.
+RL THREE. (5) ARROW SHAPED FORMATION. (5) NONE. (7) NONE. (8)
+NONE. (9) NONE.
+PARA 14B: (1) WIFE SAW ONE MOVE ACROSS SKY. (2) 50 DEGREES NORTH.
+(3)
+DID NOI DISAPPEAR.
+(4) MOVING IN SMALL CIRCLES. (5) DID NOT
+DISAPPEAR.
+(6)
+35-40 MINUTES.
+PARA 14C:
+GROUND VISUAL. (2) NONE. (3) NONE.
+PARA 14D:
+(1)
+0620Z,
+AUG
+65

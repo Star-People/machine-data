@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:00:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8127177, "source_ctime_ns": 1793362283380755848, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0055.jpg", "source_mtime_ns": 1785685172000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0055.jpg", "source_sha256": "9280b8e284e27956bc3a970721599612fb2b66d5264dcf35dfdb14ffe9925ba7"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 659, "method": "ocr", "page": 1, "variant": "plain-vision"}
+9•
+Copy of letter from Headquarters, Antiaircraft Artillery and
+Guided Micelle Center, Fort Bliss, Texas, Subject: Unconventional Al:-
+crart, To: Commanding General,
+Fourch Army, Fort Sam Houston, Texas,
+ATIN:
+AC of S, 0-2, 25 May 1919.
+10. Copy of letter from Headquarters, Antiaireraft Artillery and
+Guided Missile Center, Fort Bles, Texas, Subject: Unconventional ir-
+craft, to: Commanding General, Fourth Army, Fort Sam Houston, Texas,
+AO of S, 0-2, 2 cune 1949.
+"Guide to Investigation - Unidentified Aerial Objects", 6
+June 1949, Captain JOHN W. STEWART, Post Engineer, Wingate Ordnance
+Depot, Gallup, New Mexico.
+Declassification Authority: NND 923007

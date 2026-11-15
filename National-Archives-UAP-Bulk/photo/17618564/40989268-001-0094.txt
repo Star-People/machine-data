@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:11:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16356995, "source_ctime_ns": 1793355655779285061, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0094.jpg", "source_mtime_ns": 1785564497000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0094.jpg", "source_sha256": "840d61ed4a30842387dfc2634aba952643cb0048797b2de662bd691b0eef85bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 449, "chars": 3039, "method": "ocr", "page": 1, "variant": "plain-vision"}
+174
+CHANNEL CONTROL
+INFO INPUT
+BEARING
+SIGNAL
+INPUT
+COMMAND
+RECEIVER
+(supplies
+tuming info)
+VOR
+RECEIVER
+BEARING
+SERVO &
+ENCODER
+CODE
+GENERATOR
+PROGRAMMEF
+& PWR SPLY
+DATA
+TRANSMITTER
+BEARING
+INFO OUTPUT
+Figure 6. Balloon Locating System, Block Diagram
+The phase of this signal is constant throughout its 360 degrees of azimuth. The
+other signal, called the variable phase is transmitted as a rotating field. This signal
+pattern rotates uniformly at 1800 RPM which causes the phase of the signal to vary
+at a constant rate. Therefore, there is a different phase of this signal at each sepa-
+rate point around the station. Magnetic north is used as the baseline for measuring
+the phase relationship between the reference and variable signals. The two signals
+are aligned so that at magnetic north they are exactly in phase. As you can see from
+Figure 7, a phase difference exists at any other point of azimuth around the station.
+The phase difference is measured electronically by the VOR receiver thus identifying
+its position in azimuth around the station. Each electrical degree of phase shift
+corresponds to a geographical degree around the station. The phase shift or bearing
+information interpreted by the receiver drives a phase-sensitive servo system which
+is coupled to a shaft-position enc
+oder. Figure 8 shows the 9-bit Gray-code disk and
+Figure 9 shows the complete encoder and servo assembly. The encoder is used to
+switch a code generating network of basic logic circuits to produce a unique combi-
+nation of Morse code letters for every position of the shaft to which it is coupled.
+/ MAGNETIC
+NORTH
+SIGNALLE PHASE
+REFERENCE PHASE
+SIGNAL
+90 •
+180
+Figure 7. Signal Phase Angle Relationship
+Resolution of this encoder is + 0.7 degree with a total of 512 three-letter Morse
+code combinations available for 360 degrees of bearing information. The Morse
+code is used to key the data transmitter which relays the bearing and channel infor-
+mation to the ground-monitoring station via HF CW telemetry. Provision is made
+in the output circuit of the bearing-code generator to key out a frequency-identifying
+code originating in the receiver-tuning circuit with each bearing measurement. A
+dictionary containing all 512 code combinations is available so that ground-monitor-
+ing stations can obtain immediate bearing information merely by looking up the
+bearing when the Morse code is received. By using standard USAF operational
+navigation charts and knowing the frequency channels utilized for each measurement,
+unskilled personnel can accurately plot the position of the balloon upon receipt of the
+Morse code data from the balloon.
+AFCRL conducted a test flight of the basic system in September from our
+Chico, California, launching facility utilizing a mock-up of a standard military VOR
+unit adapted for balloon work. Figure 10 shows the instrument rack assembly used
+for a first balloon-borne verification test. Figure 11 shows the block diagram of
+the instrument rack and Figure 12 shows the block diagram of the VOR receiver.

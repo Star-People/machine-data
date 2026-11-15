@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:56:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6868868, "source_ctime_ns": 1793359141192317549, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-016-0003.tif", "source_mtime_ns": 1785681327000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-016-0003.tif", "source_sha256": "03f1dff1128305cc146ae1f952d51ecc5456fff8a7fa80d400ec94b150b533bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 799, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+3ТР 001Р
+ENA058
+XYA103
+XMA042RHB033
+EMERGENCY JEDEN BWPI JEPHQ
+DE JWPRH 1F
+Y 020401Z
+FM COMDR MARCH FLT SV CEN MARCH AFB CALIF
+TO JEDEN/COMDR ADC ENT AFB COLO
+BWP/COMDR COMWESTSEAFRON TRASURE ISLAND CALIF
+JEPHQ/CS USAF WAHS25 DC
+$2 / 04252
+AISCR
+AISDC
+AISAJ
+AISAD
+AICPR
+AISDD
+1:50 2 Соба
+AISCO
+AISPC
+A151R
+ASCA
+AISHAS
+AISUP
+1. CIRVIS
+1/SGT.
+2. AF86894 B25 PILOT RITZDORF
+O CIX
+3. AND 4.
+DETS
+UCFT IALLED COLUMBUS RADIO N.M. AND ADVISED THAT AT 1955M
+FLYS
+AI: 15,000 FI MSL 20 MILES EAST COCHISE, ARIZONA SAW BALL OFi
+FIRE THAT RAN PARRALLEL TO ACFT FOR 5 MINUTES AND TOOK OFF TO
+EAST AND WENT OUT OF SIGHT IN 5 MINUTES. REPORT RECEIVED AT
+EL PASO 2005M FROM COLUMBUS RADIO
+02/0402Z F
+JWP.RH
+Pailo to be Made out (ATic : 14020)
+misplant date far
+PLS ACK
+DEC OKN

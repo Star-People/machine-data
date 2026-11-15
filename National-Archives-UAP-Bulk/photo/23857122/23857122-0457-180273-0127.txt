@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:12:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16890652, "source_ctime_ns": 1793356516595804563, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0127.tif", "source_mtime_ns": 1785564716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0127.tif", "source_sha256": "eb635165541cfc0498caecb19ce28e362664542afd4aa5da9814473a0bdcc289"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 233, "method": "ocr", "page": 1, "variant": "clean-vision"}
+TRICTED
+Incident #230. - Indiana County, Pennsylvania - probably early
+December 1948
+there appears to ce no astronomical explanation for
+this Ineidonte
+The object seen was most likely a balloon.
+Declassification Authority: NND 57565

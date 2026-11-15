@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:45:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4204057, "source_ctime_ns": 1793373065720512907, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0588.jpg", "source_mtime_ns": 1785688725000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0588.jpg", "source_sha256": "ebdb228cf439a01d2e915f4a7130d9db20944546077a2cb7b2d783f43e4aae3e"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 878, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TENTATIVE
+OBSERVERS QUESTIONNAIRE
+SECTION A
+1. When did you see the object:
+33
+1.1 Date:
+Day
+1.2 Time of day:
+Monta 11S:
+Year
+Hira. 3 c
+Min.
+1.3 Time Zone: (Circle One):
+Eastern
+b.
+Central
+d. Pacific
+e. Other
+Mountain
+(Circle One):
+I: Daylight Saving
+Standard
+A.M. or P.M. (Circle One)
+1.4 Circle one of the following to indicate how certain you are
+of your answer to the above question 1.2:
+& •
+Certain
+-Fairly certain
+Not very sure
+d. Just a guess
+2. Where did you see the
+TAPEVC EP
+bity or low
+State
+3. Where were you located when you saw the object:
+(Circle One): a. Inside a building
+b.
+In a car
+Outdoors
+d. In an airplane
+e. At sea
+1. Other
+Fulton
+Country
+3.1 Were you:
+(Circle One):
+A. In the business seotion of a city?
+In the residential section of a city?
+C.
+In open countryside?
+- do
+Flying near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+Other

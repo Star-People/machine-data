@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:43:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3965315, "source_ctime_ns": 1793374048602487556, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949935/0666.jpg", "source_mtime_ns": 1785696685000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949935/0666.jpg", "source_sha256": "d32a0216f86716d4dea76c294fc122f228e2a5bb51547c3b0b7190f38b413846"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 782, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RA257
+WPG04 S
+YMA216
+WYD 262
+n. Atas
+2. aten
+3. C. files
+WMA038
+ACTION
+• 03
+CBC206
+JWFBG C20
+PP. JEPHQ JEDWP JEDEN JEDMA JWFQB 555
+DE JWFBG 23
+P 1520302 ZNJ
+233 U NASTS
+FM COADIV 810 BIGGS AFB TEX
+TO JEPHQ/DIR/INTELL HQS USAF WASH 25 DC
+JEDWP/CG ATIC WRIGHT FATTERSON AFE OHID EDEN/CG ENT AFB COLORADO SPRINGS €
+JEDMH/CGSAC OFFUTT AFB NEBR
+JWFQB/CGAF 8 CARSWELL AFB TEX
+IDA 1774. FLYOBRPT. FOLG RPT RECD FROM MR.
+CONSULTING
+ENGINEER, ELPASO TEXAS AT 1500 MST 15 SEP 52: SIX GROUPS UNIDENT FLYING
+OBJECTS SEEN OVER S.V. EL PASO BETWEEN 2330 MST 14 SEP 52 AND 0128 MST)
+15 SEP 52. OBJECTS RPTD SPHERICAL OR DISC-SHAPED, LUMINOUS, IN GROUPS
+OF TEN OR TWELVE. OBJECTS IN FORMATIONS RANGING FROM ARCS TO INVERTED "Y,
+MOVING SOUTHWESTERLY CRSE. ERRATIC MOTION, NO SOUND OR APPARENT MEANS

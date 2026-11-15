@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:58:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7368811, "source_ctime_ns": 1793383603717456866, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987400/1043.jpg", "source_mtime_ns": 1785747981000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987400/1043.jpg", "source_sha256": "5b91f3fd794afe9e43c37daabe48755f51da12fdb8542002fa6a1f5baede5087"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 464, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AEROSPACE TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+REPLY TO
+ATTN OF:
+AFCIN-4X2
+SUBJECT: Extract from Duty Officers' Report
+27 JUN 1960
+To: AFCIN-4E2 (Major Friend)
+The following extracted from Captain Steffen's Report dated 26 June 1960,
+is quoted for your information.
+1645 hrs - UFO report from Duty Officer, March AFB. re attached
+report.
+inekal
+MICHAEL J/STROFF, JR.
+Major, USAF
+AFCIN-4X2
+1 Atch
+ATIC Form 164

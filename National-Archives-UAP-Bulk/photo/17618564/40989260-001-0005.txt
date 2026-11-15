@@ -1,0 +1,121 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:55:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6382405, "source_ctime_ns": 1793355071364314241, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0005.jpg", "source_mtime_ns": 1785564388000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0005.jpg", "source_sha256": "88176b6cd986cc7a4417b79089d184fe32d9299ebdebcae7e35734abf42170b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1229, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Date
+Float Altitude
+Sep 26, 1975
+Sep 28, 1967
+Sep 4, 1969
+Sep 21, 1965
+Sep 22, 1971
+Sep 1, 1965
+Sep 30, 1964
+Sep 4, 1968
+Sep 10, 1965
+Sep 16, 1972
+Oct
+5, 1985
+Oct 7, 1969
+Oct 9, 1975
+Oct 5, 1983
+Oct 27, 197ęŚ
+Oct 4, 1982
+Oct 8, 1981
+Oct 17, 1978
+Oct 11, 1963
+Oct 8, 1963
+Oct 20, 1981
+Oct 25, 1966ł
+Oct 24, 1969
+Oct 8, 1968
+Oct 21, 1962
+Oct 8, 1980
+Oct 23, 1983
+Oct 10, 1968
+101K
+• 101K
+96K
+83K
+79K
+78K
+78K
+.76K
+76K
+60K
+131.4K
+130K
+• 129K
+128K
+128K
+127,K
+120K
+116K
+113K
+112K
+106K
+106K
+105K
+104K
+104K
+102K
+101K
+101K
+Float Duration
+6½Hrs
+6½Hrs
+6Hrs
+8⅔Hrs
+SHrs
+3½Hrs
+5Hr s
+23½Hrs
+62Hrs
+3½Hrs
+12½Hrs
+7Hrs
+10Hrs
+7¼Hrs
+3½Hrs
+134Hrs
+54½Hrs
+8Hrs
+7½Hrs
+26⅔Hrs
+4¼Hrs
+27Hrs
+14Hrs
+4Hrs
+27Hrs
+5½Hrs
+4Hrs
+7½Hrs
+Payload Impact Area
+9 mi. ESE of DMN
+16 mi. SE of DMN
+13 mi. ENE of TCS
+32 mi. SW of ROW
+50 mi. NNE of HMN
+45 mi. ENE of DMN
+12 mi, S of HAFB
+45 mi. NE of DMN
+35 mi. NNW of HAFB
+12 mi. NE of HMN
+13 mi. SE of SJT
+23 mi. N of MWL
+17 mi, NNE of PVW
+55 mi. NE of LBB
+33 mi. W of HOB
+18 mi, S of BGS
+21 mi. NE of Fam, Mo
+20 mi,. NE of ROW
+15 mi. S of HOB
+30 mi. NNW of Childress, TX
+13.5 mi. SE of ROW
+8 mi, W of O'Brien, TX
+30 mi. NNE of Pioria, ILL
+5 mi, W of La Luz, NM
+Bluefield, WVa
+7 mi, N of HMN
+24.6 mi. SE of ROW
+10 mi. E of ROW

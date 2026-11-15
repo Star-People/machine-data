@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:04:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9444832, "source_ctime_ns": 1793363271068208163, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0168.jpg", "source_mtime_ns": 1785684646000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0168.jpg", "source_sha256": "4ad2476e633e755fae97f540e2dd8c9ea36c878a4abb77044d4e6eea331ae7cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 469, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24-126
+UNDEVELOPED LEADS
+FOR DO14, LOWRY AFB, COLORADO
+AT ENT AFB, COLORADO SPRINGS, COLORADO
+1. Will, upon receipt of samples of balloon described in details of
+this report, conduct such inquiry as to determine if same can be identified
+as that type of balloon used by the Air Defense Command for training purposes.
+2. Will determine from Air Defense Command whether or not further
+investigation concerning this case is desired.
+Declassification Authority: NND 923007

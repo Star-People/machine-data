@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:12:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17627452, "source_ctime_ns": 1793356590357231228, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0206.tif", "source_mtime_ns": 1785564727000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0206.tif", "source_sha256": "ee562d9d34ace6b1320a8fd960ec4d563b1ac97c70843b7b404892197e077697"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 583, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident i33 -- page Y
+the commonest aircraft might suddenly have appeared to be strange
+celestial objects.
+in any event, since it seems possible that at the tine
+of Lieutenant hantell's death, he was actually giving chase to
+Venus (and since, certainly, during the evening sightings, persons
+assumedly well acquainted with objects of the sky were alarmed by
+the appearance of the planet), it might be wise to give information
+about this incident wide circulation among air force personnel, so
+that tragie mistakes will not occur in the future.
+Declassification Authority: NND 57565

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:29:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 913726, "source_ctime_ns": 1793388773753748916, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532129/0871.jp2", "source_mtime_ns": 1785808127000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532129/0871.jp2", "source_sha256": "b07f69e5cdc35659098cd115cabcf5815e758fe5b31103696b670929f54a0c36"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1015, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICIAL FILE COPY
+• FILL COPY
+LUDIEN
+Request for Lunar Module Information
+Menasco Mig Co
+Fort Worth, Texas
+1. Our office is interested in Imar module type spacecraft
+having landing gear experience, Normally these projects are
+supervised by NASA.
+2e It is our understanding that your corporation has some
+capability on the spacecraft landing but no specific system
+1a being developed. We vould eppreciate any information
+which you may have at your disposal. This infcamation may
+be sent to Captain Bector quintanilla, PID (TUEW/UPO, Wright.
+Patterson APB, Chio 45433.
+JOE, THS COMMANDER
+30 May 64
+COLONEL, USAT
+Deputy for Technology
+and Subsystems
+M/Re Capt Quintanilla spoke with V C Serianni, representative
+Of the Menasco Manufacturing Company, on 28 May 64.. Menasco
+has the capability of producing a Innar landing Module, however,
+they bave not built any models for any of, the contractors.
+Menasco has done much research in this area and have a laboratory
+model vith girder-like pods for a landing nechanism.

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:49:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4799703, "source_ctime_ns": 1793375922564745211, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958334/1302.jpg", "source_mtime_ns": 1785696421000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958334/1302.jpg", "source_sha256": "3d089aaae62a3539027380d1479cc23cab498c47fe9e6f1e132a706545979d76"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 269, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Location: Richmond, Ind (West)
+Dt of Obserration: 12:25 BST,
+24 May 1954
+Observer:
+•. Yaj..
+USAF
+Acft Speed: 220 Knots
+Obj Speed: Ist. 440 Knots
+Length of Observation: 45 Sec.
+Sun Alt.: 70 27' .
+Sun Azm. : 171
+Acft Alt: 18,500 It.
+Type of Camera: 6ạ 721
+Mappine camera

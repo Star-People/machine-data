@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:48:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4753749, "source_ctime_ns": 1793388302760410371, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000789/1038.jpg", "source_mtime_ns": 1785748176000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000789/1038.jpg", "source_sha256": "2a5a93d1387601db4829d9f5088066b4c7554982a3f210cb89a25d924c0e1be1"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 611, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OB:
+MEN MADE OBEERVATION.
+C. WEATHER AND WINDS ALOFT CONITIONS AT TIMES OF SIGHTINGA
+(1) NOT GIVEN (2) A. 270/12 B. 122/22 C. 312/25 D. 270/40
+E. 322/52 F. 292/72 G. 310/42 H. 332/22 (3) ABV 22,202 FEFT
+(4) 12FLUS
+(5) OVC (6) NONE
+PAGE THREE RUCDAN 57
+H. UNUSUAL ACTIVITY IN AREA (1) NONE (2) NONE (3) NONE
+1. INTERCEPTION OR INDENTIFICATION ACTION TAKEN: NONE
+J. LOCATION OF KNOW AIR TRAFFIC IN AREA AT TIME OF
+LIGHTING: NOT KNOUN
+N, 2ND LT. J. R. CARLILE, AIR DEFENCE ARTILER DIRECTOR
+(2) NO COMMENTS
+(3) NOT MADE
+L. PHYSICAL DVIDENCE (1) NONE (2) NONE
+1. MISC COMMENTS OF OBSERVERS: NONE
+CRACTTUZ MAY RUCDAH

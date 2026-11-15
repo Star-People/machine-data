@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:05:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9812237, "source_ctime_ns": 1793383633228014281, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987476/1113.jpg", "source_mtime_ns": 1785747998000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987476/1113.jpg", "source_sha256": "ef621ea1021da491457a51be1ecc6ccdea28d0e0d7b46dace55dd663c11a2449"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 502, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NNNK
+REO 57
+CZCSQH252ZCWYC558
+MM RJEDSO
+DE RJWFFU 2S
+1960 JUL 2
+N 0123132
+FM COMBOMUG 11 ALTUS AFB OKLA
+TO RJWFAL/ADC ENT AFB COLO
+RJWFNK/33RD AD D TINKER AFB OKLA
+RJEDSQ/ATIC WRIGHT PATTERSON AFE OHIO
+RJEZHQ/HQ USAF WASH 25 D C
+RJEZHQ/SAF WASH 25 DC
+04 24
+>JEZ
+100
+COPY TO DE HANER
+UNCLAS FRON DCOI 10335. UFO. IN ACCORDANCE VITH PARAGRAPH 15,
+AFR 200-2, DATED 14 SEP 59, THE FOLLOWING REPORT IS SUBMITTED.
+A. 1. ROUTID.
+2. 2/3 SIZE DINE.
+3. ORANGE.
+4. ONE (1).
+5. NONE.
+6. NONE
+7. MOLE
+8. NONE
+36262

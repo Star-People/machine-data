@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:47:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4594419, "source_ctime_ns": 1793388155885043540, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000231/0547.jpg", "source_mtime_ns": 1785748310000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000231/0547.jpg", "source_sha256": "ff21fcc4416e79f6533051067f52cf973ee0e590dd868bdffe838f2aca0ec5c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1189, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+8
+February 1963
+3. DATE-TIME GROUP
+Local
+night
+• GM T.
+5. PHOTOS
+Maysville,
+Kentucky
+TYPE OF OBSERVATION
+MK Ground- Vi sual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+•
+Possibly Aircraft
+Was Astronomical
+•
+Probably Astronomical
+Possibly Astronomical
+Other
+•
+•
+Insufficient Data for Evaluation
+Unk no wn
+about 30 seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+Sighting of object through trees.
+Appeared to be standing still and then
+moving off at great speed. Also obser-
+ved lights (as lights) by
+additional
+witness as object flew over highway to
+the west.
+west
+11. COMMENTS
+Case investigated by Dr. Hynek
+and L/Col Friend. From information
+given by witnesses, the object was
+probably low level
+a/c mission.
+Check with 8 AF
+revealed that SAC
+was flying low level (2,000 ft)
+missions on RBS site near Lexington
+on night of the 8th. This target
+was
+in constant use throughout the
+period of hhe report. Witness noti
+fied of evaluation.
+ATIC FORM 329 (REV 26 SEP 52)

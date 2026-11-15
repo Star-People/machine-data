@@ -1,0 +1,202 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:29:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 995231, "source_ctime_ns": 1793355908368078954, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989287-001-0021.jpg", "source_mtime_ns": 1785564555000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989287-001-0021.jpg", "source_sha256": "3c70d007bad443c2e9952465d1a96dddd346e6f82b075af35f7d21c2c5f3b8a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 1082, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HAFB
+NR
+144
+145
+16
+147
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+DATE
+23 JUN 53
+23 JUN 54
+25 JUN 53
+26 JUN 53
+1 JUL 53
+2 JUL 53
+14 JUL 53
+15 JUL 53
+16 JUL 53
+20 JUL 53
+22 JUL 53
+23 JUL 53
+22 JUL 53
+24 JUL 53
+28 JUL 53
+5 AUG 53
+7 AUG 53
+13 AUG 53
+14 AUG 53
+17 AUG 53
+19 AUG 53
+25 AUG 53
+27 AUG 53
+1 SEP 53
+CONTRACTOR
+MX-1450-R
+MX-1011
+MX-1450-R
+MX-1450-R
+MX-1277
+MX-1450-R
+MX-1011
+MX-1277
+MX -1277
+MX-1450-R
+MX -1594
+MX-1450-R
+MX-1594
+MX -1594
+MX-1450-B
+MX-1450-R
+MX-1450-R
+MX-1450-R
+Horizon
+MX-1450-R
+MX-1011
+MX-1011
+MX-1011
+MX-1011
+MFG
+WINZ
+GM
+WINZ
+WINZ
+WINZ
+WINZ
+WINZ
+WINZ
+WINZ
+WINZ
+GM
+WINZ
+GM
+GM
+WINZ
+WINZ
+WINZ
+WI NZ
+WINZ
+WINZ
+WINZ
+WINZ
+WINZ
+WINZ
+19
+BALLOON
+DIAM FT
+MIIS
+90
+85
+72.8
+72.8
+72.8
+72.8
+90
+72.8
+72.8
+90
+31
+90
+31
+20
+72.8
+72.8
+72.8
+72.8
+72.8
+72.8
+90
+90
+90
+90
+2.0
+1.0
+1.5
+105
+1.5
+2.5
+1o5
+2.5
+1.5
+2.0
+1.5
+1>5
+105
+1.5
+1.5
+1.5
+1•5
+1.5
+1o5
+LBS
+307
+145
+170
+165
+158
+176
+243
+178
+176
+240
+41
+240
+41
+12
+219
+167
+174
+167
+160
+176
+239
+240
+239
+234
+EQUIP
+WT LBS
+203
+178
+41
+43
+35
+183
+177
+• 26
+22
+240
+154
+240
+30
+100
+976
+223
+253
+388
+388
+261
+150
+154
+154
+159

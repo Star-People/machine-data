@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:40:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3454200, "source_ctime_ns": 1793376008292661931, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958784/00374.jpg", "source_mtime_ns": 1785696466000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958784/00374.jpg", "source_sha256": "0ad4bb9d52b7641c2f57ea7eb9adce00fe203ecc9dbef2675d8829148fe691d4"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 703, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FONEO tO I
+tIC DUTY OFCK AT/ 30/0720=
+AUVO MOLO
+tiL AM
+30Jux54 07 152
+ATIRE S
+ŻAТІH
+3 .AT16-V
+4. ATI Pead..
+Falo
+WPF275
+YDC0 670
+TY87 81
+T8256
+ЛОТОМ
+JTE 53
+JEO AC6EMERGENCY JEXFT JEPIO JEDEN JEDUP JKDC 555
+DE JEORP 24 -
+Y 3223227 -
+FM COMDR 641 ST AC&W SODN GOOSE AB LBDR
+TO JEPHQ/DIR OF INTELLEGENCE HO USAF WASHDC
+JEXFR/NEAC COC PEPPERRELL AFS NF
+JEDEN/CG ADCENT AFB COLO
+JKDC/CG AAC ELEMENDORF AFB ALASKA
+BEPAC/CO USNS ARGENTIA NF
+JEXT/CO 64 TH AIR DIV PEPPWRRELL AFB NF
+JCPDC/CANAIRDEF ST HUBERT QUEBEC
+JFIC/COMICEDE FOR KEFLVIK ICELAND
+JEXC/CO 6622 TH ABG PEPPERRELL AFB NF
+JENC/CO 6532 ND ARG ERNEST HARMON ARB NF
+JEXW/CO 6612 TH ARG MCANDREW AFB NF
+JEHC/CO 6611 TH ARG NARSARSSUAK A3 GRNLD
+C1 00

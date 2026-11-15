@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:04:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9087248, "source_ctime_ns": 1793362069569885174, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0074.jpg", "source_mtime_ns": 1785684946000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0074.jpg", "source_sha256": "ffb1e7ca98a8d33a00f533202371d462f2b430b87ef735f88532e164f009f97b"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 716, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COPY
+DIGKERSON, NICE & SOKOL
+ATTORNEYS AT LAN
+Max Sokol
+Deeley K. Nice
+0. Milton Dickerson
+Edwin J. Dickerson
+John W. Loeber
+William F. Blake
+Telephones Plaza (2160
+809¿$19 CALVERT BUILDING
+BALTIMORE, ID.
+May 10th, 1939
+Mr. Williard A. Driggers
+1550 0live Street, NeE.
+Washington, . C.
+Dear Mr. Driggers:
+Information has come to me that the Gray Goose Airways, inc.
+has vanished from their location at Ingleside Avenue and
+Old Frederick Road.
+I an endeavoring to have my investigator locate their
+whereabouts.
+If you have any information for me, please let me have it
+at once.
+The $50.00 payment was the total received by me to date.
+Very truly yours,
+/s/ John W. Loeber
+JWL/s
+Declassification Authority: NND 923007

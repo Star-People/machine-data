@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:08:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11494794, "source_ctime_ns": 1793367132532722513, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0144.jpg", "source_mtime_ns": 1785565659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0144.jpg", "source_sha256": "20f93d838581d1789e027fe5caa03808fbb131f7c668f93edae64635e5e61d5a"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 85, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+330
+30 -
+320
+-10
+310
+300
+22'24¡
+20
+2
+ACCUTRO
+®PE18
+I6
+142 14
+12
+8
+ICT
+6 5.
+240
+2
+210

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T22:43:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4095344, "source_ctime_ns": 1793377661803993526, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964824/1141.jpg", "source_mtime_ns": 1785696677000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964824/1141.jpg", "source_sha256": "6d151aac1df6cbc39e5a4e8bc91cb8d0aa98f48fbab690c82ae84a34c555bfc1"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 525, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3. EYE SIGHT
+A.. GROUND VISUAL
+E. GROUND VISUAL
+4. 0130Z 9 FEB 56
+A. 0 1302 TO 01472 9 FEB 56
+B. NIGHT
+5. KN 3929
+•OLDSOMOBILE SERVICE MANAGER
+7. UNK
+A. CLEAR WITH LIGHT FLEECY CLOUDS
+B. UNK
+C. 8,00D SCI CMA 30,00Z BRK
+D. 1ø PLUS
+E. 8,000 SCT CMA 30,00B, BRK
+F. NONE
+8 NONE
+9. NONE
+* NONE
+11. OPS OFFICER CLN UNABLE TO ACCOUNT FOR 15 MIN OBSERVATION CMA
+UNLESS FLARE PD NO RADAR CONTACT CNA BELIEVED TO BE PHOTO FLASH PD
+12. PHOTO FLASH AVON PARK CMA MCF TOWER REPORTED FLASHES SOME AS LOW
+AS 1,600 FT PD
+10/19192 FEB RJESKB

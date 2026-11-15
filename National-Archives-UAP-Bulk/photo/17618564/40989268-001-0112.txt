@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:11:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16303065, "source_ctime_ns": 1793355673440350105, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0112.jpg", "source_mtime_ns": 1785564500000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0112.jpg", "source_sha256": "b49f4922c5935d282a649d8c9abb0c4792712ec364a5c95f46ee3690d4209034"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1005, "method": "ocr", "page": 1, "variant": "plain-vision"}
+GWEN
+KATHY
+RUTH
+JAPAN GHOST FLIGHTS
+APRIL 1964 %;
+Figure 1.
+During the flight program we should obtain answers to the questions of how
+much cross-equatorial flow we get, and what happens in terms of balloon cluster-
+ing.
+Do the balloons tend to move together, or do they tend to stay reasonably
+randomly distributed? We hope also to be in position so that for the transition
+to the final GHOST system (the balloon-satellite system) we will have an avail-
+able balloon capability ready for the satellite.
+The data on the Japanese flights is being put together by Sam Solot. He has
+worked out a computer program in which he analyzed the entire sun-angle data for
+the day with all the noise inputs, and which provides not only the most probable po-
+sitionbut even gives indications of the north-south and east-west components ofballoon
+velocities. A paper will be published within the next few months which will pro-
+vide complete information on exactly how our balloons flew during the Japanese
+experiment.

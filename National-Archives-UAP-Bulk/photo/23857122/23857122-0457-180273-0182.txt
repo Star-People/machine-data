@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:12:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17855028, "source_ctime_ns": 1793356567996779538, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0182.tif", "source_mtime_ns": 1785564724000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0182.tif", "source_sha256": "c01bc1c1523b3e257280eff7aedffc85999389b0d65996c5cdf5ed0317a974c5"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 682, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Inoident #56 -- Birmingham, Alabame - 6 July 1947
+This incident has no abvious astronomical explanation.
+The photograph purported to be a part of the report of
+the incident is not documented. There is no proof in the evidence
+at hand that it shows the objects desoribed. From the word descrip-
+tion alone, which is quite limited, the objects could be explained
+simply as rockets: "vertical ascent," "travelled in arc." Data is
+too meager for a definite conclusion, however.
+If the photograph is authentic, it would be extremely
+valuable to know the shutter speed at which it was taken, since from
+this the angular velocity could be determined.
+Declassification Authority: NND 57565

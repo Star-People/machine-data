@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:14:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 85278496, "source_ctime_ns": 1793368239503539120, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179313USAF_002.TIF", "source_mtime_ns": 1785566002000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179313USAF_002.TIF", "source_sha256": "9c4dc0f3507fef283c609f8f8f587f1de2673c6b9ef242df5b72eb1b035eebed"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 258, "method": "ocr", "page": 1, "variant": "clean-vision"}
+179313 USAF - SCIENTIFIC STUDY OF UFOs - Attempted
+simulation of Case 53 photo 1, made
+by holding an illuminated object (blurred
+by hand notion). Moon at right. (Plate #50)
+Copied from 8x10 print rec'd 1/13/69
+from SAFOI.
+filed - UNIDENTIFIED FLYING OBJECTS
