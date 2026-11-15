@@ -22,5 +22,5 @@ jobs:
         run: |
           gh api \
             --method POST \
-            repos/ufo-files/relationship-graph-builder/actions/workflows/rebuild-graph.yml/dispatches \
+            repos/Star-People/relationship-graph-builder/actions/workflows/rebuild-graph.yml/dispatches \
             --field ref=main
