@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:01:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10279046, "source_ctime_ns": 1793365302061109968, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0025.jpg", "source_mtime_ns": 1785684607000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0025.jpg", "source_sha256": "16a2f51ce9ef682e7fc50113b6686e9cb0f85450bbc71f3003009ebc654c5874"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 487, "method": "ocr", "page": 1, "variant": "plain-vision"}
+¡CONFIDENTIAL
+B/L fr Ho PACD, Subj:
+Unconventional Aircraft
+Cordon 4. Fenn, civ
+did 10 Jan 51
+let Ind
+MAO TG
+MATS 24-233
+HQ, MILITARY AIR TRANSPORT SERVICE, Andrews AF Base, Washington 25, D. C.
+TO;
+Headquarters USAF, The Inspector General, ATTN: Director of Special
+Investigations, Washington 25, D. O.
+Forwarded for your information.
+FOR THE COMMANDER:
+JULIUS A. KOLE
+Colonel, USAF
+Deputy Inspector General
+185-100
+20
+S
+27/15 113
+File ostil
+6271
+Declassification Authority: NND 923007

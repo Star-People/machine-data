@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:52:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7168462, "source_ctime_ns": 1793359366856700378, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-050-0010.tif", "source_mtime_ns": 1785681391000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-050-0010.tif", "source_sha256": "59da08eafe14f5bc34a02f73e29d4212ffa11e04e8b5cd2fe218f93958ff1731"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 1148, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AP FORM JIZ PART II
+APPROVED 1 JUNE 1948
+Declassification Authority NND 923007
+NCCASSIFIED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+3H-UFOB-4-55
+Part Three
+FAGE
+Flight 3-0r 4602d A1SS
+PAGES
+Inch fly PART THRAD
+TIMSG EM SLEWEACEN NORVA
+1245 ITC1
+TEA034 0245 TTC150ВТ275
+BEKTA320
+BEKA 210
+ARR JOPNE
+DE. BEKA: 12.
+R 031430Z
+FU REEVEACENT NORVA
+TO MCGUIRE AFB
+WAVY GRNO
+PASS TO OIC PLT 38 4602 AIR INTELLIGENCE SERVICE SQUADHON X FONECON
+OF 2 WAY REFERS X RIC LORVA RELEASED 5Ø0 GM RASONDE BALLOON 281403Z
+APRIL X SITE 82 IN LENGTH FLACCID X COLOR NHITE X AN/ANT 4A RASONDE
+ATTACHED X LAST AZIMUTH OBTAINED 277 DEG X LAST ELEVATION ANGLE 6Ø.3
+DEG X LOCATION AT TERMINATION APPROX 5 MI WEST NAS NORFOLK X WX DURING
+FLT 3ØØO FT BREN CLDS VIS 8 HI X ALT OF BALLOON AT TERMINATION
+45774 FT X BALLOON LOST AT 281436Z X WINDS DURING FIT SFC 200 DEG
+14 KS X 5000 FT 098 24 X 10000 FT
+FS 143 12 X 25000 FT 142 ₫9
+40000 FT 138 15 X 45006 PT 190 08
+BT
+CEN SH 4602 2 500 2814032 82 44 277 60.3 5 3000 8 45774 281436Z 000
+: 5000 008 24 12000 03315 16098 062 08 20990 143 12 25090 142 09
+TRUE COPYS
+Chia a Hamm
+CHESTER B HANSON
+Ceptain, USAP

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:40:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4081824, "source_ctime_ns": 1793377664633405144, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964841/1154.jpg", "source_mtime_ns": 1785696649000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964841/1154.jpg", "source_sha256": "a6d38d48a476693940cde25c8865c25831ec0558811e1f272d75c4404da72008"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 588, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ U I C L/25TH AIRDIV TAC B-99
+1. A. ROUND
+B. 3 FEET ACROSS
+C. ORANGE
+D. 1
+E. NONE
+F• SHARP ROUND OUTLINE
+G. LIGHT BLUE STREAK ON ACCELERATION
+H. NONE
+I. NONE
+1. A. JUST HAPPENED TO LOOK INTO SKY
+B. OVERHEAD
+C. DISAPPEARED IN SW.
+D. STRAIGHT LINE
+L• COMMENCED RAPID ACCELERATION AND VANISHED TOWARD HORIZON
+F• 10 SECONDS 622 MILES PER HOUR
+3. A. VISUAL
+B. NONE
+C. NONE
+4. A. 12/07452
+B. NIGHT
+5. DOWNTOWN BREMERTON
+6. N/A
+7. A. CLEAR UP TO OVERCAST
+B. WSW SURFACE
+C. 12228 SCTTTERED 1622 OVERCAST
+D. 15 PLUS
+3. 1222 SCATTERED 1622 OVERCAST
+F. NONE
+8. NONE
+9. NONE
+10. NONE
+11. NONE KNOWN

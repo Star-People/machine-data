@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:25:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 757203, "source_ctime_ns": 1793391318491283597, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557807/1366.jp2", "source_mtime_ns": 1785808674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557807/1366.jp2", "source_sha256": "33a32a0504001031d70bc0a97d70429fcea6a0f0de90c37d46511a6412a73f61"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 497, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SMITHSONIAN INSTITUTION
+WASHINGTON 25, D. C.
+October 28, 1966
+Washington, D. C., 20032
+Dear Mr.
+. Your recent communication addressed to the
+Smitheonian Institution
+has been referred for attention to:
+Wright-Patterson Air Force Base
+Ind. Br.
+Dayton, Ohio 45433
+Any further correspondence with regard to this
+subject should be sent directly to the address above.
+Very truly yours,
+Helena M. Weiss
+Registrar
+Subject:
+Unidentified Flying Objects.
+Date:
+October 27, 1966
+SIFL-6
+6-52
+HMW: 1mi 10-28-66

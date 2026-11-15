@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:55:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7734110, "source_ctime_ns": 1793354606110193453, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0138.jpg", "source_mtime_ns": 1785564312000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0138.jpg", "source_sha256": "55e9cdfa224db5577b603a1b74b4c9675d3c6c724f86dd6552ea287577f38149"}
+
+===== PAGE 1 =====
+{"alpha_words": 321, "chars": 1929, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Witness was later recalled and was advised he was still under oath and
+testified as follows:
+20
+Will you state your full name, rank and duty assignment?
+A. Jesse H. Hendricks, Major, 509th Headquarters Squadron Section.
+Yesterday when you appeared before this investigation, you were unable
+to recall the dates on which you occupied and terminated occupancy of
+the quarters assigned to Colonel Adams. Do you have that information
+this morning?
+A. Yes, Sir.
+20
+Would you please state those dates?
+A.
+Available records determine my occupancy to be as follows:
+The first
+week in October of 1955 to the first week in October of 1956.
+Q. This is the only period of time during which you occupied the same
+quarters with Colonel Adams?
+A. Right.
+Q. Will you state the building number?
+A. That was building number 847.
+. Will you please state the bedroom in these quarters which was occupied
+by you, as nearly as you can describe it?
+A. The only way in which I can describe it is by saying it was the south-
+west room of the building.
+Q. Did you occupy this room on the southwest corner of the building during
+the entire period of your occupancy of this building?
+A. With the exception of an extended TDY period.
+Will you state the beginning and termination of this TDY?
+It began 15 January 1956 and ended 13 May 1956.
+20
+During this period of TDY did Colonel Adams live in the quarters or
+was he on the TDY also, and do you know the approximate dates of the
+A. To the best of my knowledge I believe he remained on the base for a
+period of time after my departure with an advance group.
+Q. Do I interpret that Colonel Adams was on the same TDY with the ex-
+ception that he followed at a later date?
+A. Yes.
+Q. Do you know approximately the time Colonel Adams returned from TDY?
+A.
+In view of the fact that I was on the rear detachment for return, I
+would estimate he returned approximately 10 days prior to my own
+return.
+EXHIBIT_
+- 22'

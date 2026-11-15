@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:47:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6080130, "source_ctime_ns": 1793374489538621659, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951886/1051.jpg", "source_mtime_ns": 1785696445000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951886/1051.jpg", "source_sha256": "17d2fe95aaf982232682264074ae6fc43039db5a1da916d8bacfdd13b8d89087"}
+
+===== PAGE 1 =====
+{"alpha_words": 258, "chars": 1695, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1782
+WORLD AERONAU
+Seale of Se
+'ICAL CHART
+$ 1:1.000.000
+INDEX
+SUPPLY
+ertain airports throughout
+ist of these agents, with the dates of latest
+on may also be obtain-
+irvey, Washington 25,
+liary charts amounting
+on of the AF "Catalog of Aet
+he Catalog will be pro
+Within
+Char
+MILITARY
+HART SUPPLY
+AAF Reg. €
+2, dated 26 Apr., 1944)
+tions distributed by Aeronautical Chart Service are indexed or listed in the
+utical Charts and Related Publicationsiạ Miscellaneous maps and charts noi
+furnished by Acronautical Chart Service through special order, when sufficiently
+scale, projection, and publisher if known.
+supply facility designated by the Theater
+utical charts and maps.
+plenishment of stocks of aero-
+cers AP.
+Aeronautical Chart
+from AF activities within Continental United States are to
+ronautical Chart Supply System geographie diagram in AF
+Air Force. Wing, or Command Headquarters, requisitions are
+or Station Operations Officer.
+Quautities of charts and maps
+day supply at all times but not to exceed a 60-day supply.
+- for-air by:
+revised edition, when not practicable to correct for conformity
+or else destroved.
+Disposition by salvage or destruction is to be made in
+ith movi
+DRAINAG
+SHORE LINE
+MUD & TIDAL FLATS
+CORAL REEFS & LEDGES
+SHOALS & SAND BARS
+CHARTED ROCK
+DANGER LINE
+RIVERS & LAKE
+BURDENEZI
+LARGE CITY
+CITY
+TOWN OR VILLAGE
+PROMINENT LANDMARK
+MINE
+LOOKOUT TOWER
+RACE TRACK
+RIVERS & STREAMS
+RAPIDS & FALLS
+WASH (GLUE AND BROWN)
+CANAL TUNNEL.
+ABANDONED CANAL
+CANAL
+DRY LAKE BED
+SALT LAKE
+GLACIER
+SALT PANS
+RICE FIELD
+SPRING
+WATER HOLE
+RESERVOIR
+CULTURAL FEATURE
+COAST GUARD STATION
+RANGER STATION
+OIL TANKS
+CIL FIELD
+BOUNDARY
+BOUNDARY (STATE)
+PIPE LINE
+TELEGRAPH OR TELEPHONE

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:44:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4688528, "source_ctime_ns": 1793359032772369636, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-016-0001.tif", "source_mtime_ns": 1785681298000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-016-0001.tif", "source_sha256": "357a1dbc9abdf55eb268c31b1e09cef2cd07eae97d8da82db62fd92bc9ff65c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 772, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4502D AISS UFOB LCG
+1 REPORT NO.
+AISS-UFOB-212-55
+2 DATE/TIME OF SIGATING
+12/03092 and 12/0320Z July 55
+3 RECD HQ 4602D
+13 July 1955
+4 LOCATION OF SIGHTING
+Charleston, Maine and Greenville, Maine
+5 MEANS RECD
+TT Mag
+7 INVES UNIT
+X/A
+6 ACTION
+No Investigation authorized
+8 DATE INVES ASSIGNED
+IT/A
+19 ASSIGNING OFFICER
+I/A
+10 DATE IR RECD 1G 111 DATE IR APPROVED
+N/A
+N/A
+13 AISOP FORM 5
+13 July 1955
+12 DATE IR TO ATIC
+N/A
+14 COMMENTS
+In the opinion of this headquarters the observers possibly saw
+aircraft in the clouds. The clouds moring could give the plane
+an appearance of great speed. The fact that there was aircraft
+sotivity at the time would substantiate this theory.
+• 15 CONCLUSIONS
+POSSIBLY AIRORAFT
+AISOP FOR: 7 (2Ark 55)

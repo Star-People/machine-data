@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:44:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4917224, "source_ctime_ns": 1793383007250410486, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986097/1304.jpg", "source_mtime_ns": 1785748575000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986097/1304.jpg", "source_sha256": "3668231c22901a066bd046b463c7e2aec0d66cfb0b33d317cf363adc5185f025"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 554, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AEROSPACE TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+REPLY TO
+ATTA OF:
+SUBJECT:
+AFCIN-LE2
+WO Report and Film
+237 PPK 1900
+To: SAFCI‚3d (Maj Tacker)
+1. Attached is the short strip of Smm film and a copy of the letter
+sent in by Mr
+2.
+The film was given a thorough examination
+nature, nor anything such as described by Mr
+any or
+the frames.
+and nothing of an unusual
+could be seen in
+FOR THE COMMANDER:
+PHILIP G. EVANS
+Colonel
+USAF
+Deputy for Sciences and Components
+1 Atch:
+Cy Itr 3 Aor 60,
+w/attached film

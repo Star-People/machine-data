@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:42:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4308698, "source_ctime_ns": 1793374332636078217, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951262/0445.jpg", "source_mtime_ns": 1785696964000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951262/0445.jpg", "source_sha256": "56204485d094c7edca00159cb271e1395dfed180777e89ee69a221e2736b21cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 210, "chars": 1229, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 7
+34. What were the weather conditions at the time you saw the object?
+34.1 CLOUDS (Circle One)
+Clear sky
+Hazy
+Scattered clouds
+Thick or heavy clouds
+Don't remember
+34.3 WEATHER (Circle One)
+Dry
+. Fog, mist, or light r1in
+c. Moderate or heavy rin
+d. Snow
+e. Don't remember
+35. When did you report to some officil thot you had seen the object?
+OCTOBER
+Day
+1952
+Month
+NOVEmBER 1952
+36. Was onyone else with you at the time you saw the object?
+(Circle One)
+No
+36.1 IF you answered YES, did they see the object too?
+(Circle One)
+No
+36.2 Please li
+nd addresses:
+34.2 WIND (Circle One)
+No wind
+Slight breeze
+Strong wind
+d. Don't remember
+34.4 TEMPERATURE (Circle One)
+Cold
+b. Cool
+Warm
+d. Hot
+e. Don't remember
+AUBURN, I
+37. Was this the first time that you had seen on object or objects like this?
+(Circle One)
+No
+37.1 IF you unswered NO, then when, where, and under whot circumstonces did you see other ones?
+38. In your opinion what do you think the object was and what might have caused it? I KNow IT WAS
+NOT ASTAR FOR IT SEEMED TO LARGE AND ALSO TIERE WERE
+NO OTHER STARS TO BE SEEN AT THAT TIME OF DAY, THE OBJECT
+COULD HAVE BEEN A REFLEXTION OF SOME KIND FROM WATER CAUSED
+BY SUN RAYS. I COULD NOT SAY WHAT THE OBJECT WAS.

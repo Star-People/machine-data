@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:37:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3417256, "source_ctime_ns": 1793365684642379865, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-407.jpg", "source_mtime_ns": 1785565398000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-407.jpg", "source_sha256": "7d64d20755d71146275bbcf91a33643bcf89676c458bbd49931bf3d3bfe85f71"}
+
+===== PAGE 1 =====
+{"alpha_words": 2, "chars": 21, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+RG 341 PBB - 407
+y4.

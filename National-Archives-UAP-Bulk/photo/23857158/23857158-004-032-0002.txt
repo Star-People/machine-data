@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:01:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10284294, "source_ctime_ns": 1793358719196928060, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-032-0002.tif", "source_mtime_ns": 1785681181000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-032-0002.tif", "source_sha256": "32935ba65e9cb4906346eedd2fb234503b0e0f5b5fc45582f21f8ae3402fdb3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 488, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+HEADQUART ERS
+1360TH AIR BASE GROUP
+AIR PHOTOGRAPHIC AND CHARTING SERVICE (MATS)
+UNITED STATES AIR FORCE
+ORLANDO AIR FORCE BASE, FLORIDA
+1 9 FE8 1956
+SUBJECT:
+Unidentified Flying Object Report
+TO:
+Commander
+Air Defense Command
+Ent Air Force Base
+Colorado Springs, Colorado
+Attached report received by this headquarters is forwarded in
+accordance with paragraph 7a (2) (a) AF Regulation 200-2.
+1 Incl
+Marla
+STANLEY 1. MEADOS
+Lo Colonel, USAF
+Adjutant

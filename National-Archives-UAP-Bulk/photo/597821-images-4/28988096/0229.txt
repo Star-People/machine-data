@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:50:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6700481, "source_ctime_ns": 1793383856519580692, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988096/0229.jpg", "source_mtime_ns": 1785747961000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988096/0229.jpg", "source_sha256": "9e91ead71c994a6dbb2e0e9c59996b6d1485a209ca81ba672009b675af585504"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 963, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JOINT MESSAGEFORM
+SECURITY CLASSIFIO
+UNCLASSIFIED
+PACE BELOW RESERVED FOR COMMUNICATION CENTER
+PRECEDENCE
+ROUT INE
+41
+TYPE MSG (Check)
+BOOK
+MULTI
+SINGLE
+ACTION
+INFO
+FROM:
+TO:
+AF
+ORIG. OR REF
+CCR 212
+UNCLAS
+SPECIAL INSTRUCTIONS
+ATIC, W-P AFB
+CHARLESTON AF STN, MAINE
+RJEZBIS
+/ UNCLASS IF IED/ FROM:
+AFCIN 52x8 - 14/3/
+765TH RADAR SQDN
+YOUR UNCLAS
+ASG COR 212, DID 4 AUG 60, THE INFO
+IN REF RPT IS INCOMPLETE. REQ A COMPLETE MPT BE FND IN ACCORDANCE
+WITH AFH 20C-2, DID 14 SEPT 59. ALSO REQ A CHECK BE MADE WITH THE
+UNIVERSITY OF MAINE OBSERVATORY AT ORONO, ME TO DETERMINE IF TASY
+SAW THE OBJ, AND IF THEY CAN DETER
+MINE IF THE OBJ WAS OF AN
+ASTRONOMICAL ORIGIN.
+DATE
+MONTH
+AUG
+TIME
+0345
+11960
++
+SYMBOL
+AFC IV-4E2×
+TYPED NAM
+Maj Robert
+PHONE
+69216
+SECURITY CLASSIFICATION
+UNCLASSIFIED
+senatur
+• Friend
+I NR. 1
+DD FRAY 66 173
+PAGES l
+PHILIP G. IVANS
+colonel, USAF
+Deputy for Science and Components
+REPLACES DD FORM 173, 1 OCT 49.
+WHICH WILL BE USED UNTIL EXHAUSTED

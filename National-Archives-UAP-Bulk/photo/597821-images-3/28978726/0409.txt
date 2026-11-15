@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:52:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7173078, "source_ctime_ns": 1793380884794070786, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978726/0409.jpg", "source_mtime_ns": 1785700954000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978726/0409.jpg", "source_sha256": "c19b323f6c1f6cf3608d9351fb19097661e896720e2c6e7b1f0bf84d1d64c790"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 705, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+30 Jun 58
+3. DATE-TIME GROUP
+Locol _
+2230
+CM T.
+01/02002 Ju1
+S. PHOTOS
+• Yes
+D.:N0
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+cua y
+- TYPE OF OBSERVATIO!
+D: Ground-Visual
+• Air Visuol
+• SOURCE
+• Ground-Radar
+• Air-Intercept Rodor
+CIOVI
+8. NUMBER OF OBJECTS 9. COURSE
+one
+10. BRIEF SUMMARY OF SIGHTING
+Tube shaped obj observed to North,
+vertical
+flight. Disappearing to
+East.
+Very high speed, very fast.
+11. COMMENTS
+Insufficient
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+las Aircraft
+Probably Aircrott
+Possibly Aircroft
+Was Astronomical
+Probobly Astronomico
+Possibly Astronomica
+Other
+Insufficient Date for Eve
+Unk no wr
+vate.
+ATIC FORM 329 (REV 26 SEP 52)

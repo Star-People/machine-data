@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:53:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7269506, "source_ctime_ns": 1793365198585027370, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0034.jpg", "source_mtime_ns": 1785684664000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0034.jpg", "source_sha256": "1cef1fd9be688e5aefcb2e483532a6fafbdc6e7a8e662eafad7ddcf0cbbebc8b"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 359, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+as I have previously seen this line before on air interceptions
+to another P-94A with the same type radar, thinking it might be
+caused by my own set.
+VERL D. RANEY
+Captain, Radar Observer All-Meather
+This is a certified true copy.
+Oleshah
+MIR. PESHE
+Captein, USAF
+SECURITY FORMATION
+CONFIDENTIAL
+In cl. + 8
+Declassification Authority: NND 923007

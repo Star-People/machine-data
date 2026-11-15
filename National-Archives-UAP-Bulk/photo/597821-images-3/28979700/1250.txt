@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:51:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7038382, "source_ctime_ns": 1793381263214979527, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979700/1250.jpg", "source_mtime_ns": 1785700766000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979700/1250.jpg", "source_sha256": "b13493c3fbdf1a5928ed95ee3997935727f9c0b2bb5048188f8311427b10da68"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 803, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICIAL FILE COPY
+SEP 58
+FID (IDEW)
+Wright-Patterson AFB, Ohio 45433
+9 March 1965
+Northwest #614
+Washington, D C
+Dear Miss
+the sighting which you reported to the Air force of an object
+observed in September 1958 18 similar to many observations of
+satellites or aircraft. The duration of one minute 18 more
+consistant with an aircraft.
+The duration of flight and the
+appearance are also in accord with a satellite observation.
+Without an exact time and date we cannot rule out an observation
+of the Sputnik satellite. Hovever, the data presented 18 more
+in accord with an observation of a high flying aircraft. Also,
+the passage of time prevents an attempted identification of a
+specific aircraft flight.
+Sincerely,
+OFFICIAL FILE COPY
+HECTOR QUINTANILIA, JY
+MaJor, USAF
+Chief, Project Blue Book
+1003509

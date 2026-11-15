@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:53:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7190856, "source_ctime_ns": 1793385092005047146, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991802/1405.jpg", "source_mtime_ns": 1785748457000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991802/1405.jpg", "source_sha256": "a670667bb006e60a2c546dafa4495a0a8cc4d7364bb71b647f46019809867a85"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 714, "method": "ocr", "page": 1, "variant": "plain-vision"}
+G: OBSERVERS-1
+OVCST OCC SNOW FRIDAY OVCST CALM
+OVCST OCC SNOW FLURRY
+4
+OVCST CALM
+02/002 0009 12)
+10000 310/25
+16000 300/45
+20000 300/50
+30000 290/65
+50000: 280/50
+(3) 2355Z M 24 BROKEN 2 MILES VIS LIGHT SNOW SHOWERS
+0010Z M 35 BROKEN 7 MILES VIS
+0035Z M 42 BROKEN 7 MILES VIS
+00562 M 47 BROKEN 7 MILES VIS
+PAGE FIVE RJEDNU 82
+(4) SEE (3) ABOVE
+(5) 9/10
+(6) NONE
+(7) SFC TO 3500 PLUS MINUS 0
+3500 TO 5000 PLUS 5
+5000 TO 10000 MINUS 6
+10000 TO TROPOPAUSE STANDARD
+H. THE 1961 AIR ALMANAC INDICATES VENSU AS TH BRIGHTEST
+STAR FOR THIS MONTH. VENUS WAS 275-280 DEGREES TRU AZIMUTH 20-25 DEGREES
+FROM HORIZON REFERENCE. ADDITIONALLY, THERE WAS A WARM, DRY
+SUBSIDENCE INVERSION FROM 3500' TO 12000' AI THE APPROXIMATE

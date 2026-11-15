@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:37:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3552077, "source_ctime_ns": 1793382533975971833, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984411/1214.jpg", "source_mtime_ns": 1785700951000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984411/1214.jpg", "source_sha256": "be299295c759e4fc0d302fcf52fba7fa19468f8478c11a7e89c3fb90cf9694eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 172, "chars": 1242, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+7 Sep 59
+3. DATE-TIME GROUP
+Local
+GM T.
+08/0105-0130Z
+5. PHOTOS
+Lexington, Kentucky
+4. TYPE OF OBSERVATION
+D: Ground-Vi sual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+Q.:No
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+25 mins
+1 to 5
+I0. BRIEF SUMMARY OF SIGHTING
+One to five objs sighted fm time to time
+during a 25 min period. Objs ronna & same
+size & brilliance as stars. One hovered
+at 15,000ft & then nade a 70° aive to 5,000
+It & hovered. All objs would fade & grow ix
+magnitude, travel Bast & West & back,
+make sharp changes in direction & speed up
+to several thousanäs cf mph. No sound or
+trail.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+OK Insufficient Data for Evaluation
+Unknown
+9. COURSE
+Maneuver
+11. COMMENTS
+Ho weather inversion check. Very
+unreliable rpt. Observer able to
+estimte alts, speeds, magnitudes,
+& other factors of objs described
+as star size yet did not state how
+far the objs moved when, & if, they
+moved. Case classed as insufficient
+data rather than unreliable rpt.
+ATIC FORM 329 (REV 26 SXP 52)

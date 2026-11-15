@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:40:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4085671, "source_ctime_ns": 1793374259803755854, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950977/0166.jpg", "source_mtime_ns": 1785696537000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950977/0166.jpg", "source_sha256": "caecfe0e51e60d38a21bce807f42d95757c8a54a7d4aa907371b8c64277a5f7c"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 750, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+PROJECT 10073 RECORD CAR
+COCATION
+26 Oct 52
+3. DATE•TIME GROUP
+Local
+GMT 26/0930 Z
+PHOTOS
+xxx=
+LENGTH
+OF OBIERYATICN
+AKUREYRI
+ICELAND
+TYPE OF OPSERVATION
+XOGmund- Visual
+• 0 Air Visual
+6. SOURCE
+• Ground-Rader
+C Air-in
+3 civilians
+N'UMBER OF OBJECTS 1 9. COURSE
+4-5
+pt Rador
+12. CONCLUSIONS
+10
+C
+Was Balloon
+Probably Belison
+Possibly Balloon
+Mos Aircrats
+Probobly Airerait
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibiy Astronomicai
+Other
+XX Insuftician Data for Evalua
+Unknown
+Four or five spherical-shaped objects were
+seen flying at high speed over the northern
+coast of Iceland.
+Observations were from two
+separate locations.
+11. COMMENTS
+1. Source of information is news-
+paper clipping.
+ATIC PORM 329 (REV 26 SEP 52)

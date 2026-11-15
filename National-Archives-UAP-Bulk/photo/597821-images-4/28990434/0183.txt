@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:53:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7207120, "source_ctime_ns": 1793384485483418437, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990434/0183.jpg", "source_mtime_ns": 1785748416000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990434/0183.jpg", "source_sha256": "7cd61f5e460ee97933c05840f4040d2425dfa243a0e0f89dcb559f86b9f33ca2"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 531, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(E) NONE
+PAGE TWO RJEDDU 19
+(9) NO
+B. (1) NOTICED BRIGHT LIGHT
+(2) FIVE THOUSAND FEET, NORTH WEST
+(3) FIVE THOUSAND FERT, NORTH WEST
+(4) NO MOVEMENT
+(E) FADED OUT RAPIDLY
+(6) TWENTY MINUTES
+C. (1) VISUAL
+(2) NONE
+(3) NONE
+D. 61> 2800 (1) 1 DEC S
+(2) NIGHT
+E. (1) 47 DEGREES 43 MIN NORTH, 92DEGREES, 43 MIN VEST
+(27 LAKE FOURTEEN, 14 MILES NU OF VIRGINIA, MINN
+F. MR
+SURL, MIN..
+G. (1) VERY CLEAR
+(2) NN: 7 KNOTS
+320 DIC 21 KNOTS
+330 DIG 35 KNOTS
+312 DEG 75 KNOTS
+PAGE THREE RJEDDU 19
+310 DIG 25 KNOTS
+312 DEC 83 KNOTS
+SO TO FE MOC

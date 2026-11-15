@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:55:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7821277, "source_ctime_ns": 1793384497616159136, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990456/0205.jpg", "source_mtime_ns": 1785747937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990456/0205.jpg", "source_sha256": "9f68e10a72da99ed7c02200c8c22be8bd3ea27ef4dbce888294bbfc288bea681"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 401, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE
+PILOT ING
+AGE 23, 1ST LT USAF, N 350/IH
+TEYAS - RFLIABLE
+CAPTAIN,
+REF SE
+AFB,
+REE SE
+CAPTA
+36
+M WEATHER GROUP
+RELIABLE
+AND TRANSPORT
+SERVIC.
+TEXAS - RELLAEL
+AGE 36, YAS HIGHNAY PATROL, SEMINOLE,
+TEX:
+AGE 24
+, TEXAS
+RELIABLE
+AGE 3S
+SEMINOLE, TEYAS
+RELIABLE
+G. WEATHER AND WINDS
+1. 102-E FOOT CEILING, VISIBILITY 1/2 MILE. SURFACE
+WINDS NORTHEASTERLY 10 KNCTS, TEMPERATURE 28 DEGREES.
+NONA
+UNKNOWN

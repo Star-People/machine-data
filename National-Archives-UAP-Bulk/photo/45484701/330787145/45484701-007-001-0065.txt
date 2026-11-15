@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:56:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8232325, "source_ctime_ns": 1793364463816322003, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0065.jpg", "source_mtime_ns": 1785684563000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0065.jpg", "source_sha256": "8fb0b1efc5c3c9d127c59358095c69126448da6855b87e3bd3d57505d947d558"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 797, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Miss Sharon R. Hoag
+1276 Clarendon Street
+El Cajon, California
+July 31, 1957
+Dear Sir:
+Today I received my negative of an Unidentified Flying
+Object, which I submitted to Mr. Andrew C. Griffen, for the use
+of the Air Force for their investigation. I understand that
+this 18 confidential, and that you will not be able to give me a
+full report of your findings.. However, would you please write
+no a lottor string no what information 1o positio, I thought,
+perhaps, we might be able to state officially that it was in-
+vestigated and that it was returned to us. Any other statement
+at all, that would be permissible, would be appreciated.
+Sincerely,
+twaron
+1 day
+Miss Sharon Roas
+× 24 - 185_18-50
+(need card)
+8-50
+UNCE SITED
+CI DI
+CS
+SEP 1002 H
+24-185-18-50,
+Declassification Authority: NND 923007

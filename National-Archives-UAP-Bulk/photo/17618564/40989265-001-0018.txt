@@ -1,0 +1,102 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:04:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13437943, "source_ctime_ns": 1793355318370853654, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0018.jpg", "source_mtime_ns": 1785564434000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0018.jpg", "source_sha256": "1ec00cad3226c5d4a4eb2db0d53f1f0314084ff7ddc77976bdf47cd6e46b210d"}
+
+===== PAGE 1 =====
+{"alpha_words": 550, "chars": 3696, "method": "ocr", "page": 1, "variant": "plain-vision"}
+balloons, it sent a coded signal as the
+spacecraft passed over, requesting data
+from that particular balloon. The balloon
+recognizing the signal sent the data to Nim-
+bus, which stored the information for later
+transmission to the ground.
+After the conclusion of the Nimbus-4/
+IRLS flight program, in a joint NCAR,
+NASA and University of Wisconsin ven-
+ture, a team proposed to test out the loca-
+tion and telemetry system to obtain data
+answering the question of how potential
+energy of the atmosphere can be converted
+into kinetic energy of atmospheric motion.
+Called TWERLE (Tropical Wind Energy
+Conversion and Reference Level Experi-
+ment), this program involved the launching
+of 400 instrumented, constant-level balloons
+into the atmosphere of the southern hemis-
+phere during the year 1975. A Nimbus-6
+satellite was the receiving end of the link.
+Each TWERLE balloon carried three sen-
+sors which measured altitude, temperature
+and pressure. A fourth parameter, the wind,
+was deduced from the balloon's position.
+As an adjunct to the GARP plan, the
+global Atmospheric Measurements Pro-
+gram (GAMP) of 1968 was modified to in-
+clude super-pressure balloons dropping
+radiosondes upon command to obtain need-
+ed tropical wind data. Under a NASA grant,
+NCAR conducted a 20-balloon series test,
+with each balloon carrying 64 dropsondes.
+Signals from the dropsondes were relayed to
+a mother balloon, then to the geostationary
+satellite for transmission to the ground sta-
+tion. The tests were completed in January
+1971; the carrier balloon concept proving
+fruitful in obtaining weather data in the
+tropical troposphere.
+For much of NASA's astronomical re-
+search balloons have provided an excellent
+platform to operate high in the atmosphere.
+Most large balloons are designed to fly high-
+er than aircraft, operating above 100,000
+feet and they can stay aloft from a few hours
+to many months. Balloons are also cheaper
+than satellites costing about $2,000 per
+million cubic feet and therefore, usually run-
+ning from $10,000 to $80,000 each. Of
+course, balloons have become more costly as
+they have grown in size, as payloads have in-
+creased and as higher altitudes have been at-
+tempted.
+(c) The Stratoscope Project
+One of the more notable ventures of the
+This huge balloon has just lifted its payload, a 36-inch tele-
+scope from the ground. The helium filled balloon will expand
+to a much larger size when it reaches altitude. Programmed
+for an 80, 000 foot ceiling, it will analyze the infrared range of
+wave lengths from Mars.
+(NASA Photo)
+32
+STRATOSCOPE II
+BALLOON
+SYSTEM CHARACTERISTICS
+LAUNCH BALLOON
+5 MIL MYLAR
+DACRON SCRIM (4x6 STRANDS / INCH)
+TENSILE STRENGTH
+36 LBS. / INCH
+TYPE BALLOON: FULL SUPERPRESSURE CYLINDER
+VOLUME: 305,000 FT 3
+MAIN BALLOON
+GT - 11
+TYPE BALLOON: TAILORED NATURAL SHAPE
+BALLOON
+INSTRUMENTATION
+LENGTH OVERALL
+AT LAUNCH: 660 FT.
+WEIGHT
+PAYLOAD: 7350 LBS.
+GROSS LIFT
+FREE LIFT: 1500 LBS.
+AT 80,000 FT.: 480 FT.
+OVERALL: 14500 LBS.
+BON SYSTEM
+AT 80,000 FT.
+Artist concept of the Stratoscope II Balloon System. The tandem balloons with the 36 inch telescope was launched from Pales-
+tine, Texas to an altitude of some 15 miles. Photographs were made through the telescope of the planet Jupiter and other distant
+celestial objects.
+(NASA Photo)
+During the Stratoscope I flights over 400 photographs of sunspots were taken which did lead to a better understanding of the
+motions observed in the strong magnetic fields of the sunspots. The telescope-camera was equipped with a closed circuit televi-
+sion camera and remote control mechanism that enabled the research team to guide the camera and see on the TV screen the
+(NCAR/NSE Photo)
+area under observation.
+33

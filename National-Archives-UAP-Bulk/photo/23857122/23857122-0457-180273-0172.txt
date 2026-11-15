@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:06:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18154636, "source_ctime_ns": 1793356558487991809, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0172.tif", "source_mtime_ns": 1785564722000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0172.tif", "source_sha256": "ee03315147c1865ef0e00de99b9a1b3f03652a9ceb6225e5a3dfbd16ae39e0a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 636, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #79 -- Richmond, Virginia -- April 1947
+There is no astronomical explanation for this incident,
+which, however, deserves considerable attention, because of the
+experience of the observers and the fact that the observation was
+made through a theodolite and that comparison could be made with
+a pibal balloon. The observers hed, therefore, a good estimate of
+altitude, of relative size, and of speed - much more reliable
+then those given in most reports.
+This investigator would like to recommend that these
+and other pibal observers be quizzed as to other possible, un-
+reported sightings.
+Declassification Authority: NND 57565

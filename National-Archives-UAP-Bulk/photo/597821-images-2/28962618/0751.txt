@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:50:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6756638, "source_ctime_ns": 1793377069656632670, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962618/0751.jpg", "source_mtime_ns": 1785696750000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962618/0751.jpg", "source_sha256": "aa13dd29fabe2bc44159041f757a47e513523940fba336e2e2d0e63abbd9b3db"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 961, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+5 Jul 55
+3. DATE-TIME GROUP
+Local .
+GM T.
+06/0240z
+5. PHOTOS
+• Yos
+2X No
+7. LENGTH OF OBSERVATION
+ten to twelve seconds
+10. BRIEF SUMMARY OF SIGHTING
+One bright light crossed to sky from west
+to east. Estimated to be at 15,000 feet.
+Local thunderstorms and cloud cover at 20,000.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+annasset (Roslyn) a, New York
+TYPE OF OBSERVATION
+XK Ground-Vi sual
+• Air Visual
+• Ground-Rador
+• Air-Intercept Radar
+6. SOURCE
+civilian
+8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+EX Insufficient Data for Evaluation
+Unknown
+9. COURSE
+Weat to east
+11. COMMENTS
+The lack of information, brevity of
+sighting and improbability of further
+investigation yielding significant
+data preclude a follow-up investigation.
+Insufficient Data for Evaluation.
+ATIC PORM 329 (REV 26 BEP 32)

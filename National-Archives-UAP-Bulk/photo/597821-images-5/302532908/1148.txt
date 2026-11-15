@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:26:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 892255, "source_ctime_ns": 1793388810730850992, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532908/1148.jp2", "source_mtime_ns": 1785808029000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532908/1148.jp2", "source_sha256": "53d79be21a8e2fbaf8617a2a1d48b2f964121c2f877da99186fab2194f9bb8bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1030, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+16 May 64
+3. DATE-TIME GROUP
+Local
+GM T 17/0030Z
+5. PHOTOS
+Heber City, Utah
+4. TYPE OF OBSERVATION
+2D Ground-Visual
+• Air- Visual
+6. SOURCE
+• Ground- Radar
+• Air-Intercept Rodor
+• Yes
+G No
+7. LENGTH OF OBSERVATION
+civilian
+8. NUMBER OF OBJECTS
+not reported
+one
+10. BRIEF SUMMARY OF SIGHTING
+Navy grey obj circling mountain at about 1,000
+It. Round somewhat flats shaped like box-car with
+glowing edges as though covered with phsphorus
+paint. Obj circled moutani, rose to 1,500 ft
+went over mountain and away from observer. Sound
+similar to jet starting, accompanied obj. Sound
+decreased with distance.
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolloon
+Wos Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomicol
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unk novn
+9. COURSE
+circled
+11. COMMENTS
+Additional information requested.
+Witness could not be located. Case
+regarded as insufficient data.
+ATIC FORM 329 (REV 26 SEP 52)

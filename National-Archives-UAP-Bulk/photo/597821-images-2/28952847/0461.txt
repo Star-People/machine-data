@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:37:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3527531, "source_ctime_ns": 1793374706590985506, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952847/0461.jpg", "source_mtime_ns": 1785696974000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952847/0461.jpg", "source_sha256": "2b0e32c85fe0b999f43f9924f2d21f71422912c68fcba7c3ee39d575b138e016"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 656, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE - TIME GROUP
+27 Jan 53
+28/0234Z
+3. SOURCE
+Airmen and wife
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+15 Seconds
+TYPE OF OBSERVATION
+Gro un
+-Visual
+7. COURSE
+Southwes
+8. PHOTOS
+• Yes
+XX No
+9. PHYSICAL EVIDENCE
+• Yes
+DE No
+2. LOCATION
+Tucson
+10. CONCLUSION
+Astro (DETEOR)
+11. BRIEF SUMMARY AND ANALYSIS
+Round wh
+te object followed by reddish-white trail traveled
+a high rate of
+speed.
+CO
+The described object has all the characteristics of
+a meteor, except for a relstively long period of
+sighting
+(1 min), however, observer's wife states
+it was in view 15 seconds only.
+FORM
+FTD SEP 63 0-329 (TDE)
+Provlous editions of this form may be used.

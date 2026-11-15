@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:46:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5887914, "source_ctime_ns": 1793378783843120685, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969260/0679.jpg", "source_mtime_ns": 1785700741000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969260/0679.jpg", "source_sha256": "2666510ae40d96121759ab6942acf21da2d6973b549c78a73cbd26cf1548b72c"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 906, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+3. DATE TIME GROUP 37
+Local .
+GM T._
+20/02522
+S. PHOTOS
+4.
+laK and
+California
+YPE OF OBSERVATION
+XP. Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+xa No
+LENGTH OF OASERYATION
+Civilian
+9. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+00
+00
+•
+robably Aircraft
+ossibly Aircraf
+Was Astronomical
+Probaaly Astronomical
+Possibly Astronomical
+Other
+•0
+Unkfirent Date for Evaluatior
+unknown
+one
+10. BRIEF SUMMARY OF SIGHTING
+southwesterly
+COMMENTS
+One firey orange object moving
+in a
+A limited investigation assigned
+Southwesterly direction. Object
+moved/to Det 1 ou 20 Mar 57 revealed
+at
+an approximate speed of 500-600 MPH
+this sighting to have been caused
+by a weather balloon released
+from Oakland airport 22 minutes
+previous to the sighting.
+ATIC FORM 329 (REV 26 SEP 52)

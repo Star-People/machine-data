@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:57:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8322284, "source_ctime_ns": 1793363989476354404, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0110.jpg", "source_mtime_ns": 1785684965000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0110.jpg", "source_sha256": "611702436a97588050d4f689281a08f07f4cc1b9acc3f2e746eda43b1306fb26"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 751, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COPY
+COPY
+REPORT OF UNIDENTIFIED AERIAL OBJECTS
+U.S. ATOMIC ENERGY PROTECTIVE FORCE
+LOS ALAMOS, NEW MEXICO
+DATE
+25
+(Day)
+December
+(Month)
+WILLIAMS
+First
+1•
+Name of Observer
+HINRICHS
+Last
+Station assigned
+374
+Section
+Home Address
+2483-B 45th St.
+Telephone
+Names of other known observers
+Jackson, Wilbur L.
+2. Time and date of sighting 1928 hours.
+24 December
+3. Point of observation
+Junction road #5 and West road.
+4. Direction of object from observer
+5. Distance of object from observer
+hills
+6. Angle of elevation from horizon
+Sixty
+7. Direction of flight of object_
+in falling arc.
+8. Time in sight
+9. Number of objects
+One
+10. Shape of object
+11. Projections and/or indentations_
+None
+0.
+JR
+195 0
+G- 1
+COPY
+S
+Declassification Authority: NND 923007

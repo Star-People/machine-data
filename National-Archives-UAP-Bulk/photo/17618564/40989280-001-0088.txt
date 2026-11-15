@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:31:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1641451, "source_ctime_ns": 1793355850654906332, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0088.jpg", "source_mtime_ns": 1785564541000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0088.jpg", "source_sha256": "d94cb7bb544d0c8bc961fb3c77d52d50dd905957aec67106252b3f364a10c445"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 106, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Plastic Balloon Flown at Holloman in 1949: Inverted Parachute
+to Limit Ascent Rate, Banner for Stability

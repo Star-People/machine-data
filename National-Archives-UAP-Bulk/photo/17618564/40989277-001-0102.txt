@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:26:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 846675, "source_ctime_ns": 1793355833385803087, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0102.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0102.jpg", "source_sha256": "eed8f2064726e77514da8daa0040f506dc5a27352ffdfd685688f6b60d328ade"}
+
+===== PAGE 1 =====
+{"alpha_words": 204, "chars": 1262, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Q17. How did you make the connection between the Air Force research balloon
+programs of the 1950s and the 1947 Roswell Incident?
+A17. The whole "Roswell" case is based on an oral tradition. There isn't now, nor was
+there ever, any physical evidence. When the anecdotal accounts of the witnesses were
+examined not the explanations assigned to the accounts by UFO writers-it was
+clear that these persons had their dates mixed up.
+Q18. What is the Air Force still hiding about the Roswell Incident?
+A18. Nothing. Read the report and look at the evidence. If you're not convinced, we
+encourage you to check the nearly 500 source citations yourself.
+Q19. How do you respond to the assertion: "This is just more of the cover-up"?
+A19. This is expected; we are not trying to convince anyone. Compare our documented
+research to the UFO claims and decide for yourself.
+Q20. If what you say is true, how do you think the Roswell story evolved to its
+present state?
+A20. The story keeps changing; that's how it stays alive; when one aspect is proven
+false, another "revelation" is injected to keep it going. (Example: changes in sworn
+testimony, forged and altered Air Force documents, hoaxed films). We anticipate that
+other sensational claims will be made in the future.

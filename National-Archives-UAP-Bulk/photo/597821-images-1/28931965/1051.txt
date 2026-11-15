@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:45:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5741353, "source_ctime_ns": 1793369619982205131, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/1051.jpg", "source_mtime_ns": 1785688687000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/1051.jpg", "source_sha256": "7fc63b3907376d1f535b332424168bc4a0c17bb22471bbed69d2badbf38ffef0"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 324, "method": "ocr", "page": 1, "variant": "plain-vision"}
+and
+No. 2171 Object reported noving into winds of 20-30% velocity
+going faster than C-l7 doing 100 K.P,E. The speed and direction
+are apparently very nocurate since the -47 was paralleling the ob-
+Ject's course and several readings were nade of the compass and air
+speed indicator, If report is true, definitely no balloon.

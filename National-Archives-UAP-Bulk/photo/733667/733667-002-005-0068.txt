@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:29:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1094081, "source_ctime_ns": 1793394315618319834, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0068.jpg", "source_mtime_ns": 1785567353000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0068.jpg", "source_sha256": "00752a3761ef9f6645e1e1bb02023f522d04106ec9c3e45102457464e837b838"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 259, "method": "ocr", "page": 1, "variant": "clean-vision"}
+2-27-87
+Please send me any
+and ale available free
+information about the
+recent clain of a Japan
+Ain the pilat that he
+saw a spacoships plans
+two belts of light on
+par.17,1986.
+Thanks,
+Richard E. roun
+Richard E. (Dick) Brown
+2817 E. Michigan
+Fresno, Ca. 93703

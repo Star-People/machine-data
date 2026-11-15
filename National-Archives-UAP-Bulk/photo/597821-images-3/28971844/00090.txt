@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:57:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8294227, "source_ctime_ns": 1793379268274343444, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971844/00090.jpg", "source_mtime_ns": 1785700844000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971844/00090.jpg", "source_sha256": "47f2d488ad383e9f6d4732ed0d7668a74df85ae401b1a3eb078c51a97a01d7f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 736, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+29 Sentember 1957
+3. DATE-TIME GROUP
+Local _
+GMT
+dusk
+S. PHOTOS
+• Yes
+7. LENGTH OF.OBSERVATION
+TUTO
+Massachusetts
+• TYPE OF OBSERVATIO!
+XO Ground• Vi sual
+• Air Visual
+• Ground-Roder
+• Air-Intercept Rodor
+6. SOURCE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Pos
+sibly Balloon
+Was Aireraft
+Probably Aircrart
+Possibly Aircraft
+Military
+8. NUMBER OF OBJECTS
+- 2 seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+Yellow flame with flame tail, angling
+down, disappeared
+same as a meteor
+flame went out.
+9. COURSE
+X Has Astronomical
+Meteor
+Probably Astronomical
+Possibly Astronomical
+•
+Other.
+Insufficient Data for Evaluation
+Unknown
+west
+11. COMMENTS
+Dfinitely a meteor.
+ATIC PORM 329 (REV 26 SEP 52)

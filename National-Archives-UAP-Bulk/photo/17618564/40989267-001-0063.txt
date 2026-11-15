@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:05:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17299931, "source_ctime_ns": 1793355481481954073, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0063.jpg", "source_mtime_ns": 1785564463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0063.jpg", "source_sha256": "242c5d873e730d36f4602c0e6f0551223f0c2cdcccd6d0d4ea396d94bd75fc03"}
+
+===== PAGE 1 =====
+{"alpha_words": 461, "chars": 3036, "method": "ocr", "page": 1, "variant": "plain-vision"}
+116
+would be the levels of natural illumination available for cockpit lighting when an air-
+craft is at a cruising altitude greater than 50, 000 feet? This immediately defines the
+measurement program. The spectral region is confined to the visible (broadly 4000
+to 7000 Angstroms). The measurements are to establish the daytime radiational con-
+tributions of the sunlight, skylight, earthlight and airlight to the cockpit environ-
+ment. It is also easily recognized that the high altitude balloon meets well the ex-
+tended period of data sampling which is implied by such a requirement.
+As with many others who have worked in experimental programs, our earlier
+field endeavors were heartless. Our 'learninghow process ran the gamut from
+cranky mechanics, through erratic electronics to bursting balloons. Gradually, a
+measurement program and results developed.
+It seems somewhat remarkable that the earliest contiguration of this program
+is still recognizable but has broadened into a more fundamental consideration of the
+process of transfer of optical radiation. Nevertheless, the basic considerations
+remain - the measurement of sunlight, skylight, groundlight and airlight, but at
+increasing altitudes and over a much wider spectral region.
+The wide dynamic range of intensities to be found in any sequential measurement
+of direct solar radiation and sky dictate either some remarkable electronics and
+optical designs or the separate measurement of these two radiational levels. This
+latter course we have adopted.
+Measurements of the sun and near-sun radiances are accomplished by the
+accurate pointing of the instruments with a biaxial solar pointing control, developed
+and fabricated by the Hi-Altitude Instrument Co. of Golden, Colorado. The pointing
+method is most conventional. Optical sensors (coarse and fine eyes) generate off-
+target error signals. These signals are part of a closed servo loop. Its purpose
+is to minimize the amplitude of the error signal.
+The result has been a system which
+has a pointing accuracy of t 34 min. of arc, for 90% of the measurement period.
+Fig. 1 illustrates the major structure of the pointer and the measurement units.
+Within the yoke is the near sun photometer and mounted above this is the direct sun
+photometer. External to this unit at the center of the light frame is the occulter
+disc. This is of such a size and at such distance from the near-sun entrance optics
+as to prevent the direct photospheric light from being incident on the objective lens.
+The diffracted radiation is eliminated within the optical barrel by proper apertures
+and baffling. Rotating scan apertures to the rear of collector optics perform the
+near sun radiance sampling at selected angles from the center of the solar disc.
+The semi-vertical can on the outboard side of the yoke contains the "eyes" of the
+pointer.
+Figure 1.
+The Principal Structure of the Bi-axial Pointer System with the Direct
+Sun and Near Sun Photometers Mounted Within the Yoke.
+Also shown Mounted at
+the Extreme is the Occulter Disc.

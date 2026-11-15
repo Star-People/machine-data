@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:32:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1730096, "source_ctime_ns": 1793391776822882389, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302561658/00576.jp2", "source_mtime_ns": 1785808302000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302561658/00576.jp2", "source_sha256": "c4670a44226833b8b18e65fb53058bbe48da41ecdd944eaac3ba812406f934b5"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 985, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+22 Feb 67
+23/01452
+3. SOURCE
+Civilian
+1. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+30 minutes
+6. TYPE OF OBSERVATION
+Ground Visual
+7. COURSE
+Stationary in west
+e. PHOTOS
+EX No
+2. PHYSICAL EVIDENCE
+PROJECT 10073 RECORD
+2. LOCATION
+Kirksville, Hissouri
+10. CONCLUSION
+Astro(Venus)
+multiple
+Venus was on Az of 266 deg at El of & deg
+I1. BRIEF SUMMARY AND ANALYSIS
+Observers noted a bright colored light in the western sky.
+The light was predominately red but white and green also
+appeared.
+The lights were extremely bright and clear.
+The object was the size of an automobile.
+The object was
+hovering for minutes at a time.
+The object did not remain
+completely still while hovering but moved up and down
+about 5 degrees.
+The object disappeared from view in the
+distance after about 30 minutes.
+The description is consistent with that of an astronomical
+observation. Venus was in the western sky at the time of
+sighting.
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous
+used.

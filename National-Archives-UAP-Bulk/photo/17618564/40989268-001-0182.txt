@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T15:05:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16306025, "source_ctime_ns": 1793355741165762868, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0182.jpg", "source_mtime_ns": 1785564514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0182.jpg", "source_sha256": "c20f549ab42a931c5a277e6295e36caee8b93369f6f4b16c94614fc8eff97ee7"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1071, "method": "ocr", "page": 1, "variant": "plain-vision"}
+350
+for the time to fall from density P1 to the surface (density Po). If Py is considerably
+smaller than Po'
+351
+At ~ H
+Taking our assumed parameter values,
+A = 20 (1 - 8) cm/ gm.
+Hence At will be in the range 10 minutes < At < 30 minutes with the shorter times
+associated with the larger payloads.
+Because of the exponential decrease of density with altitude, most of the time
+is spent falling through the last few kilometers. During filling, the balloon will
+gradually become buoyant, so the time estimates above are somewhat too small.
+At the end of the filling operation the gas-generation apparatus will be dropped.
+References
+Greenfield, S. M. and Davis, M. H. (1963) The Physics of Balloons and Their
+Feasibility as Exploration Vehicles on Mars, R-421-JPL, The Rand
+Corporation.
+Kaplan, L. D., Münch, G. and Spinrad, H. (1964) An analysis of the spectrum of
+Mars, Astrophys. J., 139:1.
+Smalley, Justin, H., Determining of the Shape of a Free Balloon, Report No. 2421,
+Contract No. AF19(628)-2783 Project No. 6665, Task 666501, General Mills, Inc.,
+St. Paul, Minn.

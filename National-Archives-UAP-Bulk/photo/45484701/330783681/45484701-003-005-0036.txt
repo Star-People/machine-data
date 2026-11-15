@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:49:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6421725, "source_ctime_ns": 1793362755706287242, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0036.jpg", "source_mtime_ns": 1785684551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0036.jpg", "source_sha256": "e09c9c9166611b2d319ce18a4d7b919b757a8ed227b25fb6d11e5f7af8fc2418"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 980, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 25, D. C.
+THE INSPECTOR GENERAL USAF
+2D DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+111 EAST 16TH STREET
+NEW YORK 3. NEW YORK
+SUBJECT:
+2D 24-0-434 24 185-502
+24-185
+Mrs. E. PATRICK
+MiSs HELEN J. BEALER 4-1%
+24-185-502
+Both of R.D. #2, Pottstorm, Penna.
+1 AUG 1960
+TO: Dir OSI (USAF) (AFCSI-6D)
+1. Reference paragraph 5, letter DO #3, file 24-0-198, dated 25 July
+1960.
+2. Due to the apparent lack of objectivity on the part of observers,
+this matter is not being referred to Commander, McGuire AFB, New Jersey,
+but is being placed in the zero files of this District.
+WILLIAM
+It. Calon
+Commander
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIRECTOR O
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+8 DEC 1975
+DATE
+AUG 1960
+AFCSI-6
+34-185
+AUG 8 - 1960
+502
+50zX
+UNITED STATES AIR FORO
+THE INSPECTOR GENERAI
+A0G 3 09 20'60
+OFFICE OF
+SPECIAL INVESTIGATIONS
+VSE ONLY
+UNCLASSIFIED
+Declassification Authority: NND 923007

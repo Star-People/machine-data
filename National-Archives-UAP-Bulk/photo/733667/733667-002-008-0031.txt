@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T14:36:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2006634, "source_ctime_ns": 1793394363374113930, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0031.jpg", "source_mtime_ns": 1785567360000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0031.jpg", "source_sha256": "3c9488905fbf4961c1a500e1dfbee37c26cc1177f74ead257c7da3870efd6a6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 160, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Memo
+From
+G. A. CONGER
+JO (SENTLEMEN
+3/1/85
+PLEASE SOND ME YOUR FREE
+INFORMATION ON UFO'S
+THANK YOU
+Adlenger
+G. A. CONCER
+701 WAYLAND AVE.
+ARLINGTON, TX. 76012
