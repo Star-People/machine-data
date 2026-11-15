@@ -1,0 +1,28 @@
+{
+  "station_id": "field-1fe259",
+  "required_mounts": [
+    "/Volumes/UFO-Work",
+    "/Volumes/UFO-Archive"
+  ],
+  "source_root": "/Volumes/UFO-Archive/transcripts",
+  "completion_root": "/Volumes/UFO-Archive/.state/mac-processor/completed",
+  "transcripts_lock": "/Volumes/UFO-Archive/.state/mac-processor/transcripts.lock",
+  "state_dir": "/Volumes/UFO-Work/services/field-observation-ingest/state",
+  "ssh_command": [
+    "ssh",
+    "field-station"
+  ],
+  "remote_command": [
+    "env",
+    "PYTHONPATH=/Volumes/UFO-Field/machine-data-export/code",
+    "python3",
+    "-m",
+    "field_observations.export",
+    "--root",
+    "/Volumes/UFO-Field",
+    "--station-id",
+    "field-1fe259",
+    "--journal",
+    "/Volumes/UFO-Field/machine-data-export/state-v1.sqlite"
+  ]
+}
