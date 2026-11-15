@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:45:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18362119, "source_ctime_ns": 1793355640945033264, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0079.jpg", "source_mtime_ns": 1785564495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0079.jpg", "source_sha256": "3a03e303a6a0f95e3cdce9cf95de0d9cf1af93eeeaca6e23e2ba56b23ab87a66"}
+
+===== PAGE 1 =====
+{"alpha_words": 281, "chars": 1874, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RETRO ROCKET
+ENERGY
+ABSORPTION
+LIMITS
+O-6K
+ft.-Ibs./Ib.
+IMPACT
+VELOCITY
+0 - 100
+ft./sec.
+Figure 6. Retro Rocket
+2. PHYSICAL PRINCIPLES OF MATERIAL-DEFORMATION SYSTEMS
+It has been shown (and I am sure you will agree upon close examination) that the
+Stress-Strain curve is the single most useful device for examining the properties of
+a prospective energy-absorbing material. If you will now refer to Figure 7 you will
+note that the "Ideal' Stress-Strain characteristic implies a material which deforms
+at constant force, to zero final thickness. This "Ideal'' material would therefore
+subject a payload to a constant deceleration and would possess no rebound energy.
+It also has an infinite deceleration-onset rate which isn't so "Ideal" from that point
+of view. But naturally, the "Actual'' Stress-Strain curve depicted is more nearly
+the type encountered. Now using a typical stress-strain curve for paper honeycomb
+as shown in Figure 8 as an example, I would like to point out significant characteris-
+tics for the designer of a crash pad. The use of any given material depends upon
+the joint selection of two factors: first, the "footpad'' area of the device which will
+determine the peak stress to be encountered (here stress in its classical definition
+is force per unit area, and is represented by sl
+m on the curve); and secondly, the
+strain, or percentage deflection, which determines the total energy capable of being
+absorbed in that deflection (represented by €1 on the curve). Most designers have
+found that the "optimum strain" e on the curve) is that point at which the stress
+145
+IDEAL"
+IDEAL AND ACTUAL
+DYNAMIC STRESS-
+STRAIN CURVES
+ACTUAL
+* ONE KIP =
+STRAIN PER CEN
+Figure 7. Ideal and Actual Dynamic Stress-Strain Curves
+TYPICAL STRESS- STRAIN
+CURVE FOR PAPER HONEYCOMB
+En = / sda
+Sm x 1.0
+- × 100
+Figure 8. Typical Stress-Strain Curve for Paper Honeycomb

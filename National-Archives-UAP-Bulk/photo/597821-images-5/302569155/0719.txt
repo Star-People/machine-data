@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:55:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1445107, "source_ctime_ns": 1793392610540950402, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569155/0719.jp2", "source_mtime_ns": 1785808415000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569155/0719.jp2", "source_sha256": "04e32ca443c34997f72e0bfa9394e263efa13d656b0a974cf17fcb7684f059fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 906, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEC 21 1967
+TDFT (UPO) MaJ Quintan111a/70916/mhs/20 Dec 67
+Specimen, 26 September 1967
+6592nd Support Group (APSC)
+SMPT/Capt Margenthaler
+Reference the physical specimen that your organization forwarded
+on 26 September 1967. Attached 18 a copy of the Memo for the
+Record that was written on the specimen. The sample will be
+returned to your organization at a later date.
+FOR THE COMMANDER
+YTDPT (UFO) OFFICIAL FILE CY
+ICTOR QUINTANILLA, JI, Major, USAI
+Chief, Aerial Phenomena Offic
+Aerospace Technologies Division
+Production Directorate
+1 Atch
+Memo for the Record,
+11 Dec 67
+Maj Quintanilla:
+8 Jan 108
+It Matthews called regarding the attached.
+He
+wanted to know if this could be part of a satellite
+decay•
+fread him the paragraph 1 from the attached
+memo regarding the fact that the sample was not part of
+rocket body or space vehicle. I also sent him a copy
+of the complete file at his request.
+Marilyn

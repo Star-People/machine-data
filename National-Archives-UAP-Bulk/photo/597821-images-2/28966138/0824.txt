@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:23:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4148805, "source_ctime_ns": 1793377953313669750, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966138/0824.jpg", "source_mtime_ns": 1785696752000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966138/0824.jpg", "source_sha256": "b92dd92c8db629a75998f94a57371acc456838636c33e663e7606aab69959968"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 320, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJEPNY 12
+10. NEG
+11. O OBSERVR SAID SIMMILER SIGHTING LAST WEEK ON SUNDAY TO 02/0019
+STATE TROPER MILLER OF THE KINGSTON NY BKS ALSO OBSERVED THIS FROM THE
+GOC POST STATE POLICE ARE GOING TO INVESTAGTE 9 JULY 56 RECEVED ALL
+INFO FROM T/SGT BLANKENDHIP OF ALBANY FILTER CENTER.
+12. NEG
+BT
+09/0700Z JUL RJEPNY

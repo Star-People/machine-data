@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:50:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 806706, "source_ctime_ns": 1793394138974719926, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302584017/0497.jp2", "source_mtime_ns": 1785808137000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302584017/0497.jp2", "source_sha256": "d26d9bab78a797da5f428ad80eee559c1a6cc3d8895bc5c1d6d2c5f1fc1d7980"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 32, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+THURSDAY, OCTOBER 23. 1969
+HOIH

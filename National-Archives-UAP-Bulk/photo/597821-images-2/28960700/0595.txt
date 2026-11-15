@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:04:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4250803, "source_ctime_ns": 1793376440647332561, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960700/0595.jpg", "source_mtime_ns": 1785696727000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960700/0595.jpg", "source_sha256": "e5060672772cedf0445b2839a6ba184212be9c79a98fca49372f0a3df010557e"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 716, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Multi
+20 0E01001
+07 30 -
+2/35
+AFE, TEXAS
+12
+19
+RC19
+MPZ016
+YNA 021
+NYA 016
+WMA 031
+JWFF2 035
+00 JEDEN JEDWP JEPHO JWFNK 444
+DE JUFFZ 01
+0 190202Z
+FM COMDR FOSTER AFB TEX
+TO JEDEN/COMDR ADC ENT AFB COLO SPRINGS COLO
+JUFNK/COMDR 33RD AIR DIVISION OKLA CITY OKLA
+JEDVP/COMDR AIR TECH INT CENTER WRIGHT PATTERSON AFB OHIO
+JEPHO/DIRECTOR OF INTELLIGENCE HQ USAF WASH D C
+KF12-450 PD UFOB PD BRIGHT UFOB OBJECT IN SKY FIRST REPORTED AT 182135Z
+OVER GOLIAD, TEX. SAME UFOB VISIBLE TO AO AND TOWER PERSONNEL AT FOSTER
+AFE, TEX•
+(1) (A) OBLONG AND/OR ROUND
+(BO FROM HEAD OF PIN TO SIZE OF DINNER PLATE. NOT A CHANGING SIZE,
+BUT THE REPORTS OF SIZE VARY
+(C) METALLIC
+(D) ONE, WITH ANOTHER SUSPENDED BENEATH.
+(E) NONE
+(F) NONE

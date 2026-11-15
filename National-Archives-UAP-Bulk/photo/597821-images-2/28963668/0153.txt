@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:22:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4058514, "source_ctime_ns": 1793377425084189180, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963668/0153.jpg", "source_mtime_ns": 1785696502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963668/0153.jpg", "source_sha256": "49fa040cfa65f628dfb194ce40d59f4572b7dda97b408a5f44f95176c74a4c8d"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 813, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+16 Sep 55
+3. DATE-TIME GROUP
+Local
+GMT 17/0340%
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+50 min
+10. BRIEF SUMMARY OF SIGHTING
+Objs, having appearance of tracers, glowing
+white and red, seen thru fleld glasses,
+appeared at intervala,
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Senta Cruz, California
+| 4. TYPE OF OBSERVATION
+XX Ground-Visual
+D) Air Visual
+6. SOURCE
+civilian
+8. NUMBER OF OBJECTS
+six to seven
+• Ground-Radar
+• Air-Intercept Radar
+9. COURSE
+like tracers
+11. COMMENTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+DK. Other.
+AA Firings
+Insufficient Data for Evaluation
+Unknown
+Cause of sighting: Artillery firings
+from Fort Ord, California.
+ATIC FORM 329 (REV 26 SEP 52)

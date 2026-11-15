@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:26:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4966655, "source_ctime_ns": 1793378928995887378, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969987/1313.jpg", "source_mtime_ns": 1785700722000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969987/1313.jpg", "source_sha256": "ac1c3f291f85ef5acf09f15f9011da76c6cfd36263689581c8c5a5fdbade7df6"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 765, "method": "ocr", "page": 1, "variant": "plain-vision"}
+291
+39050→
+DISPOSITION FORM
+SECURITY CLASSIFICATION (If any)
+19
+2905-5-7-08
+FILE NO.
+SUBJECT
+TO
+AFOIN 4EL
+FROM
+Extract from SIO Report, 29-30 May 57
+AFOIN 4X2 a
+DATE 31. May 57COMMENT NO. 1
+Maj Connair/mrg
+59117,B263/P-A37
+Following is an extract from SDO 1/Lt Joseph G Scaglione's report of 29-30 May
+for your information and necessary action:
+#0020 - Call from Flight Service WPAFB, - received call from Worchester, Ohio,
+Report as follows:
+OBS 2 star
+OJES. Red white.
+No apparent moyament;
+OBS with naked ays
+and BINN.
+Time 2230-2250(1ocal) bearing 300
+elevation given or
+other details(No name given)."
+CONNAIR, JR.
+Major, USAF
+Adjutant
+INSUFF
+DAIA
+DO 1REB 30 96 REPLACES MME FORM 98.
+I OCT. 48, WHICH MAY BE USED
+16-54801-3
+* u.s.
+PRINTING OPRICE: 195S 0•35380

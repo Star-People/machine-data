@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:18:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1724128, "source_ctime_ns": 1793389048401923359, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535822/01109.jp2", "source_mtime_ns": 1785808482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535822/01109.jp2", "source_sha256": "11defa5fb6b22cc023c868cdc747063202293b35610dced95709389c76703189"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 646, "method": "ocr", "page": 1, "variant": "plain-vision"}
+22 s0
+WPA113
+CZCSQB 777ZCQYA627
+PP RUCDSQ
+PRIORITY
+DE RUWHKP 18 24/20282
+ZNR
+P 242020Z
+FM POADS ADAIR AFS ORE
+TO RUWGALE/AIR DEFENSE COMMAND ENT AFB COLORADO SPRINGS COLO
+RUWHBH/25TH AIR DIV MCCHORD AFB WASH
+RUCDSQ/AIR TECH INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+RUEAHQ/HQ USAF WASH DC
+RUEAHQ/SECRETARY OF THE AIR FORCE WASH DC
+BT
+UNCLAS POODC -I 23382
+FOR AFCIN - HQ USAF; SAFOI - SECRETARY OF THE AIR FORCE. UFOB
+REPORT. THE FOLLOWING UFOB REPORT IS SUBMITTED. PART I.
+PART A.
+1. CIGAR SHAPED.
+2. DIMENSIONS 3 FEET BY 1 FOOT•
+3. SILVER COLORED.
+4. ONE.
+5. N/A.
+6. NÖ DISCERNIBLE DETAILS.
+PAGE 2 RUWHKP 18 UNCLAS
+7. NO TAIL.
+8. NO SOUND.

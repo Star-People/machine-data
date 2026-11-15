@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:29:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5927848, "source_ctime_ns": 1793355091709185447, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0038.jpg", "source_mtime_ns": 1785564392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0038.jpg", "source_sha256": "c05488de6c16d79a09a63ce722f31b9cbe24fc8f6683ed01c4b4c1bcf1e17660"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1299, "method": "ocr", "page": 1, "variant": "plain-vision"}
+REPLY TO
+ATTN OF:
+SUBJECT:
+DEPARTMENT OF THE AIR FORCE
+AIR FORCE CAMBRIDGE RESEARCH LABORATORIES (AFSC)
+LAURENCE G. HANSCOM FIELD, BEDFORD, MASSACHUSETTS 01730
+15 May 1973
+ICA
+Ballast (8 May telecon with Mr. Gildenberg)
+To: LCD (Attn: Mr. Gildenberg)
+Iron Shot
+We currently buy iron shot in accordance with Mi1-5-851B, Type II,
+Class 2, size S-230. The SAE specification for particle size S-230
+is as follows:
+#18 Screen
+#20 Screen
+#30 Screen
+#35 Screen
+Pan 3% Max.
+Density 280#/ft3
+(.0394 in.)
+(.0331 in.)
+(.0232 in. )
+(.0197 in.)
+All Pass
+10% Max. on Screen
+85% Min. on Screen
+97% Min. on Screen
+Glass Beads
+The last purchase (1967) of glass ballast from Ballatini included
+several particle sizes:
+Classification I
+Size C
+Screen #40-60
+Size D
+Screen #50-70
+Size G
+Screen #80-120
+Density
+80#/£t3
+(.0165-.0098)
+(.0117-.0083)
+(.0070-.0049)
+Lead Shot
+The lead shot purchased for Viking was a 50% mixture of size S-110 and
+S-230. The SAE specification for size S-230 is given in paragraph 1,
+S-110 as follows:
+#30 Screen
+(.0232 in.)
+#35 Screen
+(.0179 in.)
+#50 Screen
+(•0117 in.)
+#80 Screen
+(.007 in.)
+All Pass
+10% Max. on Screen
+70% Min. on Screen
+90% Min. on Screen
+Density 454#/ft3
+THOMAS J. DANAHER, Chief
+Balloon Flight Requirements
+Analysis Branch
+Aerospace Instrumentation Laboratory
+CC: LCE
+25a

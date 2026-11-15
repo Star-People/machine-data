@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:33:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7318901, "source_ctime_ns": 1793383570535858517, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987303/0961.jpg", "source_mtime_ns": 1785747972000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987303/0961.jpg", "source_sha256": "d53dbc97b21eab299305bc2c8f6addf1011ae5aad62356a3ab1ab5fb1cf6ebcd"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 657, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PONE•
+PAGE TWO RJWZKPH.4
+(6) NONE.
+(7) NONE.
+(8) NONESATED 1500 MPH SPEED,
+B. (1) MOVEMENTPOF LIGHTED OBJECT.
+(2) ELEVATION 30 DEGREES, AZIMUTH 270 DEGREES MAGNETIC.
+(3) ELEVATION 30 DEGREES, AZIMUTH 200 DEGREES MAGNETIC.
+(4) LEVEL FLIGHT PATH FROM NNW TO SSE.
+(5) GRADUAL DIMMING UNTIL NO LONGER VISIBLE.
+(6) 5 SECONDS.
+K. (1) NAKED EYE FROM AIRPORT CONTROL TOWER•
+(2) NONE.
+(3) NA
+D. (1) 210635Z.
+(2) NIGHT.
+E. CONTROL TOWER, PORTLAND INTL APRI, OREGON
+F. (1) CIVILIAN. MR
+FORM 805-S PRINTED BY THE STANDARD REGISTER GO., BAYTON
+ANLOCHE PAT. PENO
+AND QUALIFIED OBSERVER•
+PART II::
+A. (1) NO SPECIFIC SHAPE.
+(2) ONE QUARTER INCH DIAMETER.
+LINTON
+SOT
+CONIS

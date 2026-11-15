@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:55:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1452672, "source_ctime_ns": 1793390347063979189, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549173/0612.jp2", "source_mtime_ns": 1785808700000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549173/0612.jp2", "source_sha256": "c43e0aab009f1c0af7b3196652e0b60dff3d78c6f52031f2bfac70ef4d9e5365"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 820, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MAR 2 2 1967
+Dear M
+Reference your recent letter concerning your observation and
+photographs of an alleged unidentified flying object (UTO).
+In order to evaluate your sighting, the Air Force needs addi-
+tional information. Request you complete the attached ITD Forms
+164 on each sighting and forward the following camera data:
+a. Type of camera. KoDAk SaMurt II
+b. Type of film. 127
+c. Focal Length of camera.
+d. IJDE Of LOnE. DAKiN- FARTERY ELUSED
+MO LENS CASHES PLASH 13* THESE
+DAYLIGHTN* ALCE EXISCE
+VALLET NUMBERS
+f. Lens opening ("f" stop). NoLE
+Thank you for reporting your observation to the Air Force.
+we appreciate your cooperation in this matter.
+Sincerely,
+GEORGE P. FREEMAN, JR.
+Lt Colonel, USAF
+Chief, Civil Branch
+Conmunity Relations Division
+Office of Inforration
+1 Attachment
+Garden City, Michigan 48135

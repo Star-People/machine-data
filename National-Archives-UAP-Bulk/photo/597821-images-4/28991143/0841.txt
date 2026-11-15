@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:32:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7106235, "source_ctime_ns": 1793384824003034740, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991143/0841.jpg", "source_mtime_ns": 1785747999000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991143/0841.jpg", "source_sha256": "134f1045c138da25b276b658d94d76f404a00f15163c197bd675beadbbe9c962"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1195, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATA PROCESSING DIVISION
+CLIMATIC CENTER, USAF
+Air Weather Service (MATS)
+Asheville, North Carolina
+REPLY TO
+ATTN OF:
+SUBJECT:
+TO:
+CCDPD/HHOE
+Data for Akron, Ohio
+27 Mar 1961
+Aerospace Technical Intelligence Center
+ATTN:
+AFCIN 4E 2X
+Wright-Patterson AFB, Ohio
+Reference:
+Your telephone requests on 17 March 1961 and 24 March
+1961, and our letter 20 March 1961, subject: Data for Akron, Ohio and
+Vicinity.
+2. We are inclosing photographic copies of hourly surface observations
+for Akron-Canton Airport, Ohio for the period 16 through 26 January 1961
+which is the balance of data requested by your first telephone conver-
+sation.
+call.
+Included also is the period for Akron requested in your second
+3. Copies of additional data requested in your second call are being
+prepared as listed below:
+Cleveland, Pittsburgh, and Toledo.
+Surface hourly observations for 21 through 25 Nov 1960 from
+b.
+Winds aloft observations for 21 through 25 Nov 1960 from
+Toledo, Ohio.
+Pittsburgh.
+Radiosonde adiabatic charts for 21 through 25 Nov 60 from
+4. Copies of these data will be forwarded by 31 Mar 1961.
+FOR THE DIRECTOR
+Pallas L
+PALLAS L. TTE, JR.
+Captain, USAF
+Administrative Officer
+Atch
+Data f/Akron, Ohio

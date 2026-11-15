@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:03:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3983140, "source_ctime_ns": 1793386687786670485, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996993/0644.jpg", "source_mtime_ns": 1785748369000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996993/0644.jpg", "source_sha256": "fa85a9305d2b214e47349269f7e45303237fdb649e344bc22aacd0c6044d49ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 265, "method": "ocr", "page": 1, "variant": "plain-vision"}
+25 May 1962
+as.
+Boise, Iano
+Dear Mrs.
+Thank you for your letter of Hay 11. The infor-
+nation you have supplied me will be of help, I am sure,
+in eventually locating the meteorite.
+Thank you again for ycur kindness.
+Sincerely yours,
+J. Allen Rynek
+Director
+JAH: Jcm

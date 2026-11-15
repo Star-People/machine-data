@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:21:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3882147, "source_ctime_ns": 1793380639467554679, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977391/0600.jpg", "source_mtime_ns": 1785700740000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977391/0600.jpg", "source_sha256": "2e01e326efabfbee6d80d8742ba76264a49d19f27d37570e00b32f2f8093ab07"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 700, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECURITY CLASSIFICATION (Z any)
+DISPOSITION FORM
+FILE MO.
+TO
+SUBJECT
+UFO
+FROM AFCIN-4B1
+AFCIN-4E4
+DATE 24 Mar 58/1 COMMENT NO. 1
+AFCIN-Ela/V. D. Bryant/jc
+72131/Bldg 263/Rm 14-D
+1.
+Data is too limited to make an analysis.
+It appears, however, that
+anamalous propagation is a strong possibility since the observer indicated that
+return was exactly the
+same as a strong cumulous cloud (return) at one point. The
+face that the target ("three times the size of a freighter") was not visible at
+20 miles with excellent visibility conditions seems to preclude the target as.
+material.
+1 Inel
+IR-3-58
+Zami
+Colonel,
+USAF
+AFCIN-4E1
+DD 11350 96
+REPLACES NME FORM 96, 1 CCT 43, WHICH MAY BE USED.
+15--51801-3
+*

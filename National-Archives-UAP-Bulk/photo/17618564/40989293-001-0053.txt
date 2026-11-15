@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:01:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2417399, "source_ctime_ns": 1793355945127426845, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0053.jpg", "source_mtime_ns": 1785564565000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0053.jpg", "source_sha256": "997cb8be2a41106eafa4a040e24f634b2d309a4dcb5a9b4b7a0edd2139810944"}
+
+===== PAGE 1 =====
+{"alpha_words": 439, "chars": 3649, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NOTES
+Grover J.D. Schock, Sensory Reactions Related to Weightlessness and Their Implications to
+Space Flight (AFMDC Technical Report 58-6, February 1958), pp. 2-3
+Interview, Dr. Harald J. A.
+von Beckh, Task Scientist, Subgravity Studies, Aeromedical Field
+Laboratory, by Dr. David Bushnell,
+AFMDC Historian, 17 February 1958.
+A more detailed account of these flights, as well as the sources of information used, will be
+found in The Beginnings of Research
+in Space Biology at the Air Force Missile Develop
+January 1958).
+Air Force Base, New Mexico, 1946-1952 (AFMDC Historical Division,
+4.
+Quoted from James P. Henry,
+et al., "Animal Studies of the Subgravity State during Rocket
+Flight," Journal of Aviation Medicine, Vol. 23, p. 428 (October 1952).
+5.
+ence intermation Report fri0-51, de August 195T prof. 1okorovn arized in Ay Intell
+Pokorovski [sic],
+Vital Antony dAnimals During Rocket Alights into the pp Atmosphere Library Transla
+tion No. 625, Royal Aircraft Establishment, Farnborough, January 1957).
+Lateratory, by Dr. Bus nell, 15 May 1958. Chief, Space Biology Branch, Aeromedical Field
+7.
+New York Times, 12 January and 2 May 1958.
+8.
+Fritz Haber and Heinz Haber, "Possible Methods of Producing the Gravity-Free State for Med
+ical Research," Journal of Aviation Medicine, Vol. 21, pp. 395-400 (1950).
+Brig. Gen. Edward J. Kendricks, et al., Medical Problems of Space Flight (special report, USAF
+School of Aviation Medicine, Randolph Field, August 1955), p. 18.
+10. Harald J. A. von Beckh, Fisiologia del Vuelo (Buenos Aires, 1955), pp. 103-107, and "Experiments
+with Animals and Human Subjects under Sub and
+Zero Gravity
+Conditions. . .,
+Aviation Medicine, Vol. 25, pp. 235-241 (June 1954).
+11. Ibid.
+12. David G. Simons, "Review of Biological Effects of Subgravity and Weightlessness," Jet Propul-
+sion, May 1955, pp. 210-211.
+13.
+Cf. Management Report (ARDC Form 111), Human Factors of Space Flight, 24 January 1956.
+14.
+man Factors of Space ings, 12 Bobber 1954storical Branch, CarDC, Tornuscript in
+man Factors of Space Flight,
+preparation on administrative factors and problems involved in research.
+For an example of his other work, see Lt. Druey P. Parks,
+(HADC ecsical ore 55d to Air Operation of Aero Medical Field Laboratory Com fanad Alie
+Project 7851,
+"Monthly Historical Report," 8 October 1954, and Weekly Test Status Report, 22
+February, 1 and 8 March 1955.
+Man 5, at eye on Shout Stude, Number 1, 1 Deode 1865; neven, a.
+Schock by Dr. Bushnell, 19 May 1958.
+18.
+Schock, Test Report on Subgravity Studies, Number 5, 30 July 1957; Management Report, Task
+78501, 28 October 1957; interview, Capt. Grover J.D. Schock by Dr. Bushnell, 12 May 1958
+19.
+Grover J. D. Schock and David G. Simons, 9 Technique for Instrumenting Subgravity Flights
+(AFMDC Technical Note 58-4, February
+Management Report, Task 78501, 28 October 1957; Schock, Test Report on Subgravity Stud-
+ies, Number 1, 11 October 1955, and Number 2, 24 February 1956.
+21.
+Management Report, Task 78501, 28 October 1957.
+22.
+Human Factors of Space Flight, 19 September 1957, p. 7; Management Report, Task
+78501, 28 October 1957.
+23. Management Report, Task 78501, 28 October 1957; Aeromedical Field Laboratory, "Historical
+Data. . .1 January through 31 March 1958," p. 6.
+24. Management Report, Task 78501, 28 October 1957; Grover J.D. Schock, Apparent Motion of
+a Fixed Luminous Target During Subgravity Trajectories. (AFMDC Technical Note 58-3, Feb-
+ruary 1958).
+25. Von Beckh, briefing of AFMDC staff, 22 April 1958.
+Management Report, Task 78501, 28 October 1957; Aeromedical Field Laboratory, "Historical
+Data.. 1 October through 31 December 1957," p. 11
+43

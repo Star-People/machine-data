@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:26:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5372473, "source_ctime_ns": 1793388393270465658, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29001047/0171.jpg", "source_mtime_ns": 1785748557000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29001047/0171.jpg", "source_sha256": "42e7a9dd9f6f1d1255d49e0985767ed6801ab468128c24dc92f062a58383889e"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 437, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PING PONG BALL.
+(3) WHITE
+PAGE TWO RUWGAJ 18
+(4) (1) ONE
+(5) N/ A
+(6) NONE
+(7) NONE
+(8) NO SOUND
+(9) OBJECT SEEMED TO STOP NE OF SIOUX CITY.
+B. DESCRIPTION OF COURSE OF OBJECT
+(1) SPEED AND INTENSITY OF SOBJECT
+(2) OBSERVER IN A SITTING POSITION
+(3) SMAE
+(4) SW TO NE - NO MANEUVERABLITY
+(5) SEE A (9)
+(6) 15-30 MINURES
+C. MANNER OF OBSERVATION
+(1) VISUAL
+(2) N/A
+(3) N/A
+D. TIME AND DATE OF SIGHTING
+(1) 12 JUNE 2345Z - 0415Z
+(2) NIGHT

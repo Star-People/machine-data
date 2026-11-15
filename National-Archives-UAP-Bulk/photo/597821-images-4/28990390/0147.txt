@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:33:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7826169, "source_ctime_ns": 1793384465287689784, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990390/0147.jpg", "source_mtime_ns": 1785748110000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990390/0147.jpg", "source_sha256": "d040baad1b8249661f5ac6702cabc25ece9055db63ee342329994f6ccd9cc9ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 389, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL MESSAGE
+ASSIFIED
+NAVY DEPARTMENT
+CRAFTED BY
+135 KTS X CEILING UNLIMITED X SURFACE VISIBILITY 15-20 MILES
+CLOUD COVER 42 PERCENT X THUNDERSTORMS OBSERVED TO THE NORTH
+X NO INTERCEPTION OR IDENTIFICATION ACTION TAKEN X NO AIRCRAFT
+SEEN IN AREA AT TIME OF SIGHTING X COMMANDING OFFICER BELIEVES
+OBJECT WAS PROBABLY A METEOR X NO PHYSICAL EVIDENCE
+245
+TIME GROUP
+261212Z DEC 5€
+ASSIFIED

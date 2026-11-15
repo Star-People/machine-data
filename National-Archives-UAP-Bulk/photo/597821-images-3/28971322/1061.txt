@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:22:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4053466, "source_ctime_ns": 1793379158698819343, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971322/1061.jpg", "source_mtime_ns": 1785700735000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971322/1061.jpg", "source_sha256": "98ca815439618571d556d6e7460dfc7b1158695e5bd95940bee748c034cdffa6"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 859, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+August
+3. DATE-TIME GROUP
+1957
+Local
+GM T.
+22/0350Z
+5. PHOTOS
+2. LOCATION
+Numerous sightings in area
+Santa Monica, California
+4. TYPE OF OBSERVATION
+• Ground- Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+x:P No
+7. LENGTH OF.OBSERVATION
+Military & Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+10-13 minutes
+two
+10. BRIEF SUMMARY OF SIGHTING
+Two objects round, size of pea, color
+silver,
+one stacked on top of the other
+top object drifted to left then returned
+over other objects. Disappeared behind
+mts.
+N - NW
+11. COMMENTS
+Venus & Jupiter.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraf
+Possibly Aireraft Venus
+Was Astronomical & Jupit
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:05:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4319317, "source_ctime_ns": 1793372916320884648, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28944751/0035.jpg", "source_mtime_ns": 1785688970000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28944751/0035.jpg", "source_sha256": "3ac74ff4e9695e7b07a306f3badd5d098d91b396e634f37bfbee231d4ec7c5df"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1142, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 3
+8. What direction were you facing when you first saw the object?
+(Cirole One):
+a. North
+Northeast
+Southwest
+Southeast
+Northwest
+8.1 What direction were you facing when the object disappeared?
+(Circle One):
+Northeast
+Southwest
+Southeast
+Northwest
+8.2 Circle one of the following to indicate how certain you are of
+your answer to the above two questions. (8 and 8.1).
+Certain
+c. Not very sure
+b. Fairly certain
+d. Just a guess
+9. Were you wearing eye glasses when you saw the object? (Circle One):
+Les
+10. How was the object sean?
+(Circle One):
+Through window Glass
+Through windshield
+Through binoculars
+Through telescope
+Through theodolite
+Through sun glasses
+Through open space
+Other
+11. What do you remember about the weather conditions at the time you saw
+the object?
+11.1 CLOUDS (Circle One)
+11.3 WEATHER (Circle One)
+C.
+d.
+Clear sky
+Hazy
+Scattered clouds
+Thick or heavy clouds
+Don't remember
+11.2 WIND (Circle One)
+D.
+C•
+d.
+No wind
+Slight breeze
+Strong wind
+Don't remember
+1104
+Dry
+b.
+C.
+Fog, Mist, or light rain
+Moderate or heavy rain
+d.
+Snow
+e. Don't remember
+TEMPERATURE (Circle One)
+& •
+b.
+d•
+Cold
+Cool
+Warm
+Hot
+Don't remember

@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:37:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9692163, "source_ctime_ns": 1793364175356124542, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0220.jpg", "source_mtime_ns": 1785684592000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0220.jpg", "source_sha256": "256df8458e4d96b5400c592ad1ff92f3f9ffc6f919e517df4ad2da77d0e58cae"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 110, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+IN
+FEB 1950
+CI DIV
+OHT
+FEB1950
+MANAGEMENT
+DIV.
+OSL
+oÛT.
+10 FEB1950
+CI DIV
+OSI
+DV
+BA VOINC
+crveamicvu
+ЛИст
+ІОИ

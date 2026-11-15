@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:25:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4817672, "source_ctime_ns": 1793359342216376733, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-038-0028.tif", "source_mtime_ns": 1785681382000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-038-0028.tif", "source_sha256": "fdbf7f69bb65f644f66edf1c2bed3b41cbf1c0a158b49a6608375c0ed8f68210"}
+
+===== PAGE 1 =====
+{"alpha_words": 301, "chars": 2275, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (Agency)
+Flight 2-D, 4602d AISS
+SUPPLEMENTARY INVESTICATIVE EFFORTS:
+2D-UTOB-5-55 PART SIVEN PAGE 23 OF24
+A check with the United States Weather Bureau, Love Field, Dallas Texas
+for balloons released in the area at the time of sighting. Negative results.
+Contacted Civil Aeronautics Administration, Love Field, Dallas Texas for
+aircraft over the area at the time of sighting and received negative results.
+Duncanville Radar Station, Duncanville Texas reported no blips on the scope
+from 04002 to 0430Z 21 Jun 55.
+4. Base Operations, Naval Air Station, Hensley Field, Dallas Texas was
+contacted for aircraft over area of sighting and obtained negative results.
+5. Base Weather Station at the Dallas Naval Air Station, Hensley Field, Dallas
+Texas stated no balloons had been released 20 Jun 55. Weather information on
+21 Jun 55 at 04002 was clear and winds were holding out of the west up to forty-
+thousand. (40,000) feet.
+Wind speeds up to forty-thousand feet averaged twenty-five
+(25) miles per hour. Wind direction and speed for the following altitudes were as
+Altitude
+41,000 feet
+47,000 feet
+Wind Speed.
+15 knots
+40 knots
+Wind Direction
+350 degrees
+350 degrees
+6. A check was made with Mr. Ted Gangl, Director of the Texas Astronomical
+Association, 7903 Mohawk Drive, Dallas Texas and received negative results.
+7. Carswell Air Force Base Weather Service stated that a rawinsonde type
+weather balloon was release at 0930% 21 Jun 55.
+8. Dr. J.N. McDonald, S.M.U. University Professor of astronomy, was contacted
+and Preparing Officer received negative results.
+Carswell Rawinsonde Service revealed the following information:
+ravinsonde type balloon was released at 0330Z 21 June 1955. Wind direction and
+speed for the following altitudes were as follows:
+Altitude
+Wind Speed
+Wind Direction
+20,000 feet
+25,000 feet
+30,000 feet
+25 knots
+25 knots
+30 knots
+350 degrees
+300 degrees
+200 degrees
+Flight Operations, Convair Aircraft Corporation, tested two aircraft 20
+June 1955, but both of the flights terminated at 0800 and 0900 CST.
+Chance Voght aircraft corporation test center tests experimental aircraft
+only during the daylight hours.

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:23:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4193653, "source_ctime_ns": 1793385357599009175, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992917/0936.jpg", "source_mtime_ns": 1785748312000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992917/0936.jpg", "source_sha256": "7cb01a9d85d7d7edf3b0351f144085619594cca4c5858fd321a16fc6784fec0c"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 584, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN: 11890 (2 JUNE 61)
+DERARSMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSITED MESSAGE
+INCOMINO
+Page 2 of 2 Pages
+RCWNC/ CANFLAGPAC
+RBWPC/ COMFIRSTFLT
+REWDKJ/ CCGD ELEVEN
+RBWP J/ COMWDSTAREACOGARD
+NAVY GRNC
+UNCLAS
+MERINT
+1. FOLLOWING INFO RECEIVED FROM MERCHANT VESSEL MORNING STAR/WWK
+8215 VIA COAST GUARD. QUOTE "I JUST SAN A SATTLITE GOING FROM EAST
+TO WEST FLYING VERY LOW AND VERY BRIGHT. MY POSIT IS WILSONS
+COVE SAN CLEMENTE ISLAND." UNQUOTE.
+2. TIME OF SIGHTING APPROX 021105Z
+CFN 1. 8215 2. 021105Z
+02/1311Z
+NOTE: Advance copy delivered to OOP-CP and CIN at 021145L

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:32:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6961949, "source_ctime_ns": 1793383708412874726, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987661/1282.jpg", "source_mtime_ns": 1785747911000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987661/1282.jpg", "source_sha256": "227828bda4a6da8d30e3dbd61af917586eb4484f0f6a0343288f7258371233f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 893, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MILITARY AIR
+1. DATE
+5 Jul 60
+3. DATE-TIME GROUP
+Local
+2116
+GM T
+06/03162
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Texas - Louisiana
+4. TYPE OF OBSERVATION
+• Ground-Visual
+X Air Visual
+L. SOURCE
+Military
+8. NUMBER OF OBJECTS
+• Ground-Radar
+• Air-Intercept Radar
+• Yos
+* No
+7. LENGTH OF OBSERVATION
+6 sec
+one
+10. BRIEF SUMMARY OF SIGHTING
+Object observed from a/c at 9000 ft. Lime green
+color with tail of flame or sparks. Exploded on
+Flameout. Constant slow speed. Sighting 064°
+from a/c. Appeared at 15-20° elev descending
+in arc. Covered 25°
+azimuth.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+•
+Possibly Aireraft
+Was Astronomical Meteor
+•
+Probably Astronomical .
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+SE
+11. COMMENTS
+Sighting had all characteristics of bolide.
+ATIC FORM 329 (REV 26 SEP 52)

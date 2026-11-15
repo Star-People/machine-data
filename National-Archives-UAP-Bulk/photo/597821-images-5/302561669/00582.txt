@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:17:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1719756, "source_ctime_ns": 1793391778313083718, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302561669/00582.jp2", "source_mtime_ns": 1785808294000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302561669/00582.jp2", "source_sha256": "e565323cb41ded089562364fa35d757632b0e1186fc8e042d5c1bd573b111036"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 301, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TIME GROUP
+23/0.-52
+MIRER OF OBJECTS
+LENGTH OF OBSERVATION
+e Beated
+YPE OF OBSERVATION
+COURSE
+e Stated
+PHOTOS
+PHYSICAL EVIDENCE
+No
+FORM
+PTD SEP 63 0-329 (TDE)
+PROJECT 10073 RECORD
+2. LOCATION
+New Dare,
+10. CONCLUSION
+Missouri
+ENT DATA FOR EVALUATION
+11. BRIEF SUMMARY AND ANALYSIS
+SEE CASE FILE
+used.

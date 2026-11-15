@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T00:06:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4530795, "source_ctime_ns": 1793372212649168901, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941887/00004.jpg", "source_mtime_ns": 1785689049000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941887/00004.jpg", "source_sha256": "87d9a5f816106c35beba4082f346de114b346af554b39d58b1b2003137fd9365"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 710, "method": "ocr", "page": 1, "variant": "plain-vision"}
+V PC 143
+9210 /
+VDE161
+TYC 131
+ACTION
+JEPHQ B138
+ATI
+K EMERGENCY JEDEN JEDWP 222
+DE JEPHQ 1SA/
+0 #S15262 ZFF
+FM HQ USAF WASHDC
+ATIAR
+2
+ATIA
+3 Contral File
+TO JEDEN/CGADC ENT AFE COLO SPRINGS COLO
+JEDWP/CHIEF ATIC WRIGHT PATTERSON AFB OHIO
+FROM AFOIN-1A 40575. THE FOLLOWING MESSAGE FR FLT SVC OLMSTED AFE
+PA DATED & MAY 1952 DTG 375CZ 52 IS QUOTED FOR YOUR INFORMATION:
+ẠCIRVIS 080001 CENTRAL INFO FM PAA 203 AT 0534Z QUOTE JUST BEFORE
+OSCAR 3 SIGHTED WHAT APPEARED TO BE ROCKET 1/4 MILE OFF LEFT WING
+ESTIMATED SPEED 6 OR 780 MPH AT 15000 FEET PROCEEDING IN NORTHERLY
+DIRECTION. OBSERVED ORANGE AND GREEN FLAMES UNQUOTE. THIS MSG
+RELAYED FM OCEAN CONTROL THRU MAYWELL FLT SVC."
+CS/15352 MAY JEPHQ
+0815
+UK
+cy-

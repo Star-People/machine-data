@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:30:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6339226, "source_ctime_ns": 1793355105467026558, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0007.jpg", "source_mtime_ns": 1785564394000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0007.jpg", "source_sha256": "8dd92ad7ef04824b8b1937bffb2b35a43fac3429af20a30253da14395043ee67"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 1097, "method": "ocr", "page": 1, "variant": "plain-vision"}
+st 16 tri.
+HOLLOMAN AIR FORCE BASE, NEW MEXICO 88330
+24 April 75
+(Date)
+REPLY TO
+ATTN OFt
+LCD
+SUBJECT:
+Flight Folder for Mission # H75-26/H60X
+TO:
+ICA
+1. The Flight Folder for Mission H75-26/H60X
+has been completed
+and is forwarded for your review and file. All requixed items are in-
+cluded in the folder except:!
+ITEI
+a. Documentary Photographs.
+3. Piadiosonde Data
+REASON NOT INCLUDED
+Distributed separately.
+c. Balloon Failure Amalgis
+(B. Gildember
+Awaiting
+Radar Dita
+2. All times logged in this folder are local time ( MDT
+> at the
+location of the Balloon Control Center operation (
+Det 1 , HAFB
+unless otherwise designated. Specific "Z" time (CMT) blocks are completed
+as requested. Other standard units of weight and measure when unspecified
+are:
+Unit
+Weight/Measure
+Temperature
+Weight
+Altitudes
+Frequencies
+Time
+ibs.
+K ft MSL
+KHZ
+Hours, mínutes, seconds
+3.. Please contact either the Project Officer or LCD for resolution of any
+questions generated from review of this folder.
+BER
+BURNETT, Major, USAF
+Commander, Det 1, AFCRL (AFSC)
+1 Atch a/s
+RESEARCH - The Key to Aerospace Superiority

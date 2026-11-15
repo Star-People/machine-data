@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:19:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2969824, "source_ctime_ns": 1793376068553395561, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959059/00612.jpg", "source_mtime_ns": 1785696734000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959059/00612.jpg", "source_sha256": "f4457a29fe8d72f4ae1ffe1790f0900f7798b2ea0b0b549f7964af68bf5c879e"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 457, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SI.. THSONIAN INSTITUTION
+ASTROPHYSICAL OBSERVATORY
+SECTION OF UPPER ATMOSPHERE STUDIES
+IGY OPTICAL SATELLITE TRACKING PROGRAM
+60 GARDEN STREET
+CAMBRIDGE 38, MASSACHUSETTS
+March 18, 1959
+Major
+SAFIS -3
+The Pentagon
+Washington 25, D.C.
+Dear Major Tacker:
+I am enclosing another letter regarding the
+"UFO" which I recently received and which possibly
+you might be interested in answering.
+Sincerely yours,
+Helen
+J. Allen Hynek
+Associate Director
+JAF: 1c
+Enc.

@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:30:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6331214, "source_ctime_ns": 1793376692561345742, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961769/0035.jpg", "source_mtime_ns": 1785696609000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961769/0035.jpg", "source_sha256": "44f19e653760cdf41dbf16f7c130188549d27e16c3e20ea2b856f290177be43e"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 916, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+20
+01/0630Z April 1955
+3. DATE-TIME GROUP
+Local
+GMT 21/06302 Apr.1 1955
+5. PHOTOS
+• Yes
+T NO
+7. LENGTH OF OBSERVATION
+Eight-Ten Minutes (8-10)
+10. BRIEF SUMMARY OF SIGHTING
+2. LOCATION
+Van Nuys, California
+4. TYPE OF OBSERVATION
+A Ground-Visual
+• Air- Visual
+6. SOURCE
+Civilian (COC)
+8. NUMBER OF OBJECTS
+One (1)
+One (1) red, flashing light seems to come out
+of nowhere after a multi-engine a/c passes
+overhead and moves in a straight line toward
+the il.
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+000
+a
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+North-West
+11. COMMENTS
+Definitely identified as an United
+Airlines Might 3/c with a red, rotating
+beacon attached to the tail structure.
+AISOP Form 5 (15 Oet 54)

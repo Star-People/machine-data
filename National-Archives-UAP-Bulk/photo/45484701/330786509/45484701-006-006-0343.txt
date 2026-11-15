@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:38:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9900944, "source_ctime_ns": 1793364256372934313, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0343.jpg", "source_mtime_ns": 1785684602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0343.jpg", "source_sha256": "0cbb253fa7f75b3a811433082f6450834c9c2e3ccb4daa303d0920dc31a9ec8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 135, "method": "ocr", "page": 1, "variant": "clean-vision"}
+IBORA
+100 43
+ОДНІЗАЛОИИ
+ТАІТОМАО ИОТТАОІТІВВАЛО
+BA VOSHORA OS LHE DE
+YS
+$107 030 A
+STAG
+CERRADU
+Declassification Authority: NND 923007

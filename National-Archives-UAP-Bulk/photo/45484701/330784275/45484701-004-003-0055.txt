@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:32:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6822559, "source_ctime_ns": 1793363004514447763, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0055.jpg", "source_mtime_ns": 1785685127000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0055.jpg", "source_sha256": "d0275af415c379635b26b1c0db58a5af5cafa5a754c538d6077bf3f452ccfc18"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 99, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HONORS
+1957 SEP 20 10 27
+COUNTER INTEL DIV
+/60160
+CRIZZAJOU
+Declassification Authority: NND 923007

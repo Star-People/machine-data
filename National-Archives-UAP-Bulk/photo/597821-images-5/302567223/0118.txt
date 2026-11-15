@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:56:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1472422, "source_ctime_ns": 1793392332706034931, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302567223/0118.jp2", "source_mtime_ns": 1785808628000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302567223/0118.jp2", "source_sha256": "1a9d88d9ac3cf288748110741429d0f3807682af683955b1b70960b3452d8d5f"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 191, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+6 Sept. 1967
+)
+Called SPADATS
+/
+There was a Satalite decay on 23 June at 1200Z+12hrs.
+catalog no. 241, MOWEVER, 1 BOBS Wer ~pPaAR
+THis DECAY WAS RESPONSIBLE FOR THE SHbWTINE.
+wy Re
+2 rt.)
+|

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:35:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8418256, "source_ctime_ns": 1793387365964065303, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998595/0605.jpg", "source_mtime_ns": 1785747904000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998595/0605.jpg", "source_sha256": "c8e48e6d2dbc9404e78971a2103690c9f52c4e850c77be2f1ae8aa1f65adfc27"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 918, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+I. DATE
+12 Aug
+ust 1962
+3. DATE-TIME GROUP
+Local _
+GAT.
+13/0330Z
+5-
+PHOTOS
+19.045
+Connecticut
+YpE OF OBSERVATION
+• Air Vizuel
+6. SOURCE
+O Yes
+0-No
+7. LENGTH OF OBSERYATION
+01V111a0
+NUMBER OF OBJECTS 9. COURSE
+7 minutes
+one
+0. BRIEF SUMMARY OF SIGHTING
+Obj viewed for 7 minutes as it crossed
+Moon. Small oright obj observed through
+50X telescope. Moved in Northerly dire-
+ction im lowerrright portion of Moon to
+upper left section.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Wos Aircraft
+Probably Aircrait
+Possibly Aircraft
+Ex Was AstronomicolOccultatiOl
+robably Astronomic
+ossibly Astronomic
+Other
+Insufficient Data for Evaluatio:
+Unk no wm
+Moor
+11.
+COMMENTS
+Although object reported in front
+of moon, an occultation of one of
+the stars in Sagittarius occurred
+at this time and this event is
+considered as a cause for the
+sightng.
+ATIC FORM 320 (REV 25 SEP 52)

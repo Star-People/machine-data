@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:34:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8123993, "source_ctime_ns": 1793362127713503147, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0076.jpg", "source_mtime_ns": 1785684714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0076.jpg", "source_sha256": "0abef2e36a4b67d4dc268e3377db1ac01ff985239f070205ef3c0242cf5a1d18"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 645, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Homer C. Douglas
+240°N. 32nđ
+Карвав Gity, Kanse в
+BELLAircraft CORPORATION
+POST OFFICE BOX ONE BUFFALO 5. NEW YORK
+CONTIDENTIAL
+May 12, 1947
+Mr. Homer C. Douglas
+816 Locust Street, Room 600
+Kansas City, Mişsouri
+Dear Mr. Douglas:
+Thank you very much for your recent disclosure
+of your "Gyro Discus".
+It would be impossible for us to consider your
+disclosure, although we appreciate your courtesy in
+forwarding it to us.
+It is believed that considerable work would be
+involved in order to make the idea at all practical.
+Very truly yours,
+BELL AIRCRAFT CORPORATION
+H. I. Munsey
+Patent Counsel
+HHM : hac
+TAL
+Declassification Authority: NND 923007

@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:27:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5576960, "source_ctime_ns": 1793377964049600533, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966202/0867.jpg", "source_mtime_ns": 1785696698000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966202/0867.jpg", "source_sha256": "2e657c2af235d4efbebb609e7bf3566eeace52049990bdccfcdda8e33329b9c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 978, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+16 July
+1956
+3. DATE-TIME GROUP
+Local
+GNT/0740Z
+5.
+PHOTOS
+Long Beach, California
+4. TYPE OF OBSERVATION
+Er Ground- Visual
+• Air- Vi suol
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+Was Aircraft
+•
+•
+Probably Aircraft
+Possibly Aircraft
+# WetAstronomicel Mars
+Probably Astronomical
+Possibly Astronomical
+Civilian
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS | 9. COURSE
+26
+minutes &
+moving in
+g. Insufficient Date for Evaluatian
+SIL
+in sight at rpt
+one
+circle
+then
+10. BRIEF SUMMARY OF SIGHTING
+11.
+COMMENTS
+One round object,
+the size of a pea
+Concur with the opinion of the
+held
+avarms length, white w/red flashes
+reporting officer that this
+no wings or tail observed. Seen at an
+sighting was astronomical in
+angle of
+elevation of 45 dgrs and
+nature. In all probability the
+azimuth of
+90 ders.
+object sighted was the planet
+Mars.
+ATIC FORM 329 (REV 26 SEP 32)

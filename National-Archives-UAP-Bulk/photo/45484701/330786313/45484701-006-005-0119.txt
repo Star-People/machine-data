@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:41:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10354684, "source_ctime_ns": 1793363994582502832, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0119.jpg", "source_mtime_ns": 1785684966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0119.jpg", "source_sha256": "3110468103eced1122922a5f2b1fc4e629b15d25da64106f4a7e6d08a2093dd1"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DENTLA
+run
+PAug 50
+24-185/17
+(Unclassified) UNIDENTIPIED AERIAL PHENOMENA
+SPECIAL INQUIRY
+Documents & Dissemination Br, Directorate of
+Intelligence, DCS/O
+Counter Intelligence Div, Office of Special
+Investigations, The Inspector General
+2 9 AUG 1950:
+It Col No2d/b3n/53623
+'AFGSI
+Attached for your information is a Spot Intelligence Report concerning captioned
+Subject, dated 15 August 1950.
+1 Inel
+SiR re aby subj fr 17th
+DO, dta 15 Aug 5oł
+GII BERT R. LEVY
+Actg Chief, Counter Intelligence Div
+Office of Special Investigations
+The Inspector General
+CLASSIFICATION CANCELLED A2.SE
+BY AUTHORITY OF THE DINE OK OF Sr
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+> 4046 975
+AFCSI FILE COPY
+UNCLASSIFIED
+MP
+DI
+OSI
+AFOSI
+1185-11-
+USAR
+78 X
+Orel a
+SPECINE 1
+SEP 12'
+Declassification Authority: NND 923007

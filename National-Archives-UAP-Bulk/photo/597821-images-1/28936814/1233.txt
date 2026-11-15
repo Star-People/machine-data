@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:21:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3842117, "source_ctime_ns": 1793371169020267830, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936814/1233.jpg", "source_mtime_ns": 1785688904000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936814/1233.jpg", "source_sha256": "0a8648cb17531de5faba3df317abd6135a97b4b22c701f0336ecf40e8bf1cc94"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 482, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFI
+HEADQUARTERS THIRD ARMY
+FORT MCPHERSON, GEORGIA
+AJACI-3 360.33
+SUBJECT: Unconventional Aircraft
+4 November 1949
+TO :
+Commanding General
+Air Materiel Command
+Wright-Patterson Air Force Base
+Dayton, Ohio
+Attention: ICI (Control No. A-1917)
+Inclosed horowith is summary of information re strange object
+in sky over Talladega, Alabama,
+FOR THE COLMANDING GENERAL:
+1s. L. Querlon,
+far colonel, as majer, WAC
+Colonel, GSC
+AC of S, G-2
+1 Incl:
+S/I dtd 4 Nov 49
+UNCLASSIFIED
+486

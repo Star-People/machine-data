@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:27:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5587655, "source_ctime_ns": 1793369128059589670, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930719/0994.jpg", "source_mtime_ns": 1785689047000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930719/0994.jpg", "source_sha256": "7603fbfaac10fd58eb007f8181aa5b3729820fc387753bab210d0f093bba1892"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 431, "method": "ocr", "page": 1, "variant": "plain-vision"}
+This target was contacted on the air search radar at 1500 GOT on IS April h8.
+The first contact was made at 6500 yards and was tracked to 16,000 yards
+saving a velocisy of approximately 30 n.p.. The area in wich the
+target was contacted was thoroughly search visually and there here no
+cloude nor weather fronts in said area.
+There vere no target indications
+on the surface redar. The target strength wan 55 fadingat 18,000 yards.

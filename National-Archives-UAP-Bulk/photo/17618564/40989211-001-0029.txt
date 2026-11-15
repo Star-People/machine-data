@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-14T23:23:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4242778, "source_ctime_ns": 1793354483150250351, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0029.jpg", "source_mtime_ns": 1785564293000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0029.jpg", "source_sha256": "7cbea789ff36ca03c2bfa693e5c2da80b04383d04e74eb093993146d64d8a6c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 272, "chars": 1976, "method": "ocr", "page": 1, "variant": "plain-vision"}
+A NATIONAL ARCTIC EMPHASIS
+studies (oceanographic, meteorological,
+communications) within the polar basin.
+In view of the great importance of
+communications for all human endeavors, the
+general unreliability of HF within the Arctic,
+and the overriding imperative of redundancy for
+critical circuits, a number of specific
+suggestions seem in order; viz;
+a. institute annual joint
+exercises to ensure interoperability of all
+participating communications and surveillance
+equipment,
+b. install magnetometers at all
+communications facilities to provide on line
+indications or magnetically stomy (and thus
+ionospherically difficult) periods,
+c. emplace a fibre optics
+wideband cable from the U.S. to Thule via
+Hudson's Bay, with consideration for extensions
+to the U. K. and Alaska,
+d. seek simple correlation
+indices between the degree of magnetic
+storminess and the degradation of HF
+communications on polar cap, transauroral,
+and tangential-auroral paths, and
+215
+e. implement a test link to an
+equatorial synchronous satellite from Thule.
+(Any slow tropospheric fading can be minimized
+by spatial diversity.)
+Although they are inadequate, present HF
+prediction schemes available in the U.S. may be
+improved now by including information on when
+reflection points intersect the auroral oval
+and its associated regimes. The present
+headlong and hasty efforts seeking a "quick
+fix' for polar ionospheric predictions merely
+rechurn barren soil. It is suggested that
+instead, efforts be made to:
+a. incorporate the climatology of
+ionic transport as a function of time (diurnal,
+annual, and solar cycle) into an HF polar cap
+prediction technique. Some of the needed data
+is already available.
+b. provide indications of when
+ray paths intersect the auroral oval, trough,
+auroral D and the polar cap
+c. devise a climatological mode
+of expected scintillation as a function of time
+(diurnal, annual, and solar cycle) for auroral
+regions (i.e., the oval, trough, auroral D and
+polar cap).
