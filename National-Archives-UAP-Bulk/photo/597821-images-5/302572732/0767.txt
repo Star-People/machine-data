@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:47:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1429973, "source_ctime_ns": 1793392991968887238, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572732/0767.jp2", "source_mtime_ns": 1785808034000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572732/0767.jp2", "source_sha256": "1806224e1ce88b3c472cd39cad25a411d3649ef9a5a5ecaeb974fed4ead9e87e"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 348, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR THE RECORD
+9 Aug 68
+Subj:
+UFO Sighting, 18 Nov 67, Covington, Indiana
+sighting was shown to Capt Shelly, SAFOICC on 7 Aug 68.
+Capt Shelly stated that the sighting really didn't fall under his
+domain yet, but read the case so as to be familiar with it in case
+there were any congressional inquiries.
+CARMON L MARANO, 2d It, USAF
+TDPT (UFO)

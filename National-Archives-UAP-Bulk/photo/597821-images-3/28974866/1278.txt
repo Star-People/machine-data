@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:26:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8709243, "source_ctime_ns": 1793380191492350756, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974866/1278.jpg", "source_mtime_ns": 1785700966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974866/1278.jpg", "source_sha256": "22654b9ff7d2cd768fabf02bfc7d0ec44548e544b3e0e5b0531ac096bcc00a2b"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 844, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+16/
+- 6 Jan-57
+3. DATE-TIME GROUP
+16/0030Z Nov 57
+5. PHOTOS
+5 /
+UFOB INDEX CARD
+2. LOCATION
+Columbia, So Car
+TYPE OF OBSERVATION
+9 Ground-Visual
+• Air- Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+M31159
+8. NUMBER OF OBJECTS
+One
+AISS-UFOB-607-57
+12. CONCLUSIONS
+Was Balloon
+•
+Probably
+Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+a Prosibly Astronomical
+Possibly Astronomical
+Other
+Insufficient Uata for Evaluation
+Unk no wn
+• Yes
+= NO
+7. LENGTH OF OBSERVATION
+Twenty minutes
+10. BRIEF SUMMARY OF SIGHTING
+One oval bright yellow object the siza of a
+nickle. Object was seen moving up, down, and
+sideways in the SW. Object was in sight for
+20 minutes.
+9. COURSE
+Erratic
+11. COMMENTS
+Description, duration, Flight path
+indicate that this was probably Venus.
+AISOP Form 5 (15 Oct 54)

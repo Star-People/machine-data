@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:42:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 692389, "source_ctime_ns": 1793392732736091212, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570163/0042.jp2", "source_mtime_ns": 1785808136000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570163/0042.jp2", "source_sha256": "ed9d054502f55e64b735ef59ed512346f52dc3eeb28253ba04d0b64e68971b01"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 49, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "clean-vision"}
+incinnati,
+•Ohio
+0GT 10 56.
+27 dept 6%
+Orch 1.64

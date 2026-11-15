@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:46:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1377190, "source_ctime_ns": 1793390021651202386, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545640/1400.jp2", "source_mtime_ns": 1785808335000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545640/1400.jp2", "source_sha256": "fe9cdf058fa5b731e0d183c6e78728f9eeaa977d8caf07b3a1549315d389ee87"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 718, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 54842 (24 Oct 65)
+P& 3 of 4
+G. (1) HIGH SCATTERED CIRRUS CLOUOS.
+(2) (A) 310 DEGREES/10-15 KNOTS
+(B) 320 DEGREES/ 30 KNOTS
+(C) 320 DEGREES/30 KNOTS
+(D) 320 DEGREES/42 KNOTS
+(E) 330 DEGREES/40 KNOTS
+(F) 340 DEGREES/45 KNOTS
+(G) 270 DEGREES/50 KNOTS
+(3) NONE
+(4) UNLIMITED
+(5) HIGH CIRRUS/SCATTERED/5-10
+(6) N/A
+(7) 68 DEGREES
+H. NONE
+1. NA
+J. UNKNOWN
+K. AU COMMAND POST DUTY OFFICER, MAJOR DEBARGE, RECEIVED REPORT
+VIA TELEPHONE FROM OBSERVER. OFFICER PREPARING MESSAGE IS LT.
+COL AHLSTROM, INTELLIGENCE OFFICER 3826TH COMMANO ANO CONTROL
+GROUP. SINCE BOTH OBJECT AND WINOS MOVEO IN GENERAL DIRECTION
+AFHQ
+JAN 65
+0-309C
+UNCLASSIFIED

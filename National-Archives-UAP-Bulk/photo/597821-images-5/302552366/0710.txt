@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:44:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 969832, "source_ctime_ns": 1793390679925655953, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552366/0710.jp2", "source_mtime_ns": 1785808298000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552366/0710.jp2", "source_sha256": "3fdd900f294b5503873aa32d4205faa2b214d042be0789a28b68fefc2d82a6cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 867, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SAFOICC/JAD/79079/27 Jun 67
+JUN 0 8: 967
+Dear N
+This replies to your recent correspondence in which you
+mentioned your unidentified observation of June 17, 1966 and
+subsequent photographs.
+The delay in reporting your observation prevents a comprehensive
+investigation, since air activity records are normally destroyed
+after thirty days.
+In the future, if you should observe another unidentified
+object, please contact the nearest Air Force installation.
+For Jour information I have attached a copy of "Project Blue
+Book," the Air Porce UPO progran. Your interest in our program is
+appreciated.
+Sincerely,
+GEORGE P. FREEMAN, JR.
+It Colonel, USAF
+Chief, Civil Branch
+Community Relations Division
+Office of Information
+Attachment (BB)
+Holtville, California 92250
+MEMO FOR RECORD: No street address given.
+COORDINATED BY:
+SAPOTEC
+SAFOIC Coord Cy
+Rdrs cy
+Acty cy
+Stbk cy

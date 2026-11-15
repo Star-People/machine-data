@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:31:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16992016, "source_ctime_ns": 1793356574544200648, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0189.tif", "source_mtime_ns": 1785564725000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0189.tif", "source_sha256": "435e62b5cc8478d6c10d8c61eddc910c37d6a01a6ea13088b1501ed345ff3675"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 590, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #51 -- Oswego, Oregon - 3 September 1947
+The limited information given here does not suggest any-
+tning astronomical.
+It is surprising that there was only one witness to this
+incident, since it occurred in a city, at a time when there was a
+plane in the sky.
+If these objects were not ordinary aircraft at a great
+distance, or a cluster of balloons, then the incident must be con-
+sidered together with others reporting groups of unidentified round
+or discoid objects, several of which occurred in this localtty (e.g.,
+incidents #5-9, 12-16).
+Declassification Authority: NND 57565

@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:06:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8088200, "source_ctime_ns": 1793379431353342429, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972289/00489.jpg", "source_mtime_ns": 1785700919000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972289/00489.jpg", "source_sha256": "a35d56bd73fe8e0a274345b0615b09106fc5208d64c55bbea733884075904853"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 673, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+October
+3. DATE-TIME GROUP
+Local.
+GM T_
+PHOTOS
+957
+Issippi
+4. TYPE OF OBSERVATION
+D: Ground- Visual
+• Air Visual
+SOURCE
+D Ground-Radar
+D Air-Intercopt Rudor
+18/00052
+• Yes
+LENGTH OF OBSERVATION
+not
+I0. BRIEF SUMMARY OF SIGHTING
+riangular
+traveling
+NUMBER OF OBJECTS
+one
+eddish ort
+straight
+line
+objec
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Wos Aircraft
+C Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+D
+Other.
+Insufficiont Data for Evaluation
+Unknown
+NNE
+11. COMMENTS
+Probably a/c reflecting rays
+of setting sun.
+ATIC FORM 329 (REV 21
+S2P 52)

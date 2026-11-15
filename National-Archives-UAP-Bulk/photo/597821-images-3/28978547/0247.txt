@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:25:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8641566, "source_ctime_ns": 1793380827537473153, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978547/0247.jpg", "source_mtime_ns": 1785701071000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978547/0247.jpg", "source_sha256": "fbaca0a62a49b6dbce61b8326ede30a46298cb6515286b54aa467e99d479158f"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 825, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+17 Jun 58
+3. DATE-TIME GROUP
+Local.
+GM T
+S. PHOTOS
+17/1845Z
+• Yos
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Portland,
+Oregon
+4. TYPE OF OBSERVATION
+›DX Ground- Vi sual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomica
+Other.
+010c.
+Insufficient
+to for Evalvati
+Unk no wn
+2-3 mins
+one
+10. BRIEF SUMMARY OF SIGHTING
+Rnd obj, size of full moon,
+silver w/haze around it. Obj headed
+NW in a straight line climbing. Speed
+compared to that of a jet.
+NW
+11. COMMENTS
+Sunlight could be reflected fm
+a surface into the smoke & haze
+layer at inversion.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:09:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4981443, "source_ctime_ns": 1793375179125451352, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955003/1030.jpg", "source_mtime_ns": 1785696885000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955003/1030.jpg", "source_sha256": "d2a07ad521b8ecda48cb33f490ff837232a14d31bc24e071c2b0f686467e9a94"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 475, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAUTICAL CHART
+128°J
+TOKYO
+OrZ-
+JP 0
+20
+TORI SHIM A
+active volcano 692
+50
+- 40
+250 STATUTE MILES 270
+129°K
+40
+(Joins 491)
+M 1-610 0 11284
+Tomb PRoc
+F100
+20
+290 300
+AMAMI-Õ-SHIMA
+30
+40
+50
+320
+130° L
+L
+TOKUNO-SHIMA
+TOKYO CONTROL
+OMINO-ERABU-SHIMA
+7000
+KN
+127% Lu
+EL
+3°V
+7000
+50
+PONTAN RANG
+~ 233 MI
+-DF
+QKINAWA OF HOMER
+121.5 me
+(GLOS OKINAWA-SHIMA
+YONTAN
+240
+(ISLAND) REn
+70
+YONTAN
+Takabanare-shima
+20 397 KATCHIN
+265 MF..=.
+- 00
+7000
++266
+DANGER
+AREA
+6000
+L650
+Г100.
+SMA
+EKM

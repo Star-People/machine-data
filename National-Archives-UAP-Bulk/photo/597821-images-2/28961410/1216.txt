@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:51:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3623857, "source_ctime_ns": 1793376617318230112, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961410/1216.jpg", "source_mtime_ns": 1785696981000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961410/1216.jpg", "source_sha256": "987ebe6364d828c53c3718848dae3cc52051ebc8516a796bb690093eb8e2ea13"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 656, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PWORE
+FM MEASTSEAFRON
+TO JEDEN/CONAD
+JEPHQ/DIRECTOR OF INTELLIGENCE HDOTRS USAF WASHDC
+JEDWP/AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATTERSON AFB ATTN AT1AA
+ZEN/COMEADF
+INFO BEPW/DNI
+ZEN/COMTHREE
+JEPNY/CG 26 AIRDIV ROSLYN
+NAVY GRNC
+FLYOBT X EGG SHAPED WHITE OBJECT TEN INCH DIAMETER AT
+231935R X VISUAL SIGHTING AT FREMONT AND THIRD AVENUE
+BRT X CMNEW YORK CITY X OBSERVED OVER HUDSON RIVER VICINITY
+GEORGE WASHINGTON BRIDGE X OBSERVER ERMA WIENERT
+ADDRESS 1191G MARMION
+AVE BRONX CMM TELEPHONE DAYTON
+8-8932 X OBSERVER REPORTED BY TELEPHONE TO COMTHREE DUTY OFFICER X
+ANO FURTHER INFO AVAILABLE THIS COMMAND
+CFN 931935R 11910 8-9832
+04/021
+Z MAR BEGC
+D

@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:06:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8317217, "source_ctime_ns": 1793379485228701558, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972424/00603.jpg", "source_mtime_ns": 1785700813000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972424/00603.jpg", "source_sha256": "4d9902127ddff531e11a71a6b9344461a69ad25db3f670272885f5f956e4d44f"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 824, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+23
+October 1957
+3. DATE-TIME GROUP
+Local.
+GM724/0235Z
+5. PHOTOS
+• Yes
+XE No
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+corpus
+Christi,
+TYPE OF ODSERYATION
+XE Ground-Visual
+• Air Visual
+6. SOURCE
+Texas
+• Ground-Reder
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+3 - 5 seconds
+three
+IO. BRIEF SUMMARY OF SIGHTING
+Round object, ormation. luminous
+size of a car, yellow,
+three in "V"
+trail, traveling in a straight line.
+12. CONCLUSIONS
+Was Balloon
+robably Bal lac
+ossi!!
+• Belicor
+Was Aircraft
+Probably Aireraft
+Possibly Aireroft
+Was Astronomice Meteor
+Probably Astronomica
+Possibly Astronomical
+Other
+Insufficient Date for Evaluation
+Unknown
+9. COURSE
+not given
+11. COMMENTS
+Description conforms to bolide
+observation aiter breaking up
+Case evaluated as meteor sighting.
+329 (REV 26 SEP S2)

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:25:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8464030, "source_ctime_ns": 1793363427708401252, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0034.jpg", "source_mtime_ns": 1785684652000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0034.jpg", "source_sha256": "035ca2827dab116eaf24e20a8da92f80441b8ead0d8256de0210a012907644c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1031, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DO 9 File 24-233
+10,000 feet
+90 degrees
+15 knots
+16,000 feet
+90 degrees
+12 knots
+20,000 feet
+40 degrees
+15 knots
+35,400 feet
+90 degrees
+27 knots
+GLAINEY stated that a white veather balloon was released
+from Burvood, Louisiana, at approximately 1800 hours on
+12 June 58 and advised that this balloon could have been
+visible over New Orleans at approximitely 1820 hours on
+that date. He further stated that the expanded diameter of
+this weather balloon is six to eight feet and that the
+balloon attained a height of 35,400 feet at time cf burst.
+c. Ceiling: unlimited
+d. Visibility: excellent
+e. No cloud cover.
+f. No thunderstorms in the area.
+8. No other unusual activity or conditions, reteorological, astronomi-
+cal, or othervise, which might account for the sighting was proposed or
+determined.
+9. Not applicable.
+4. This report is classified CONFIDENTIAL in the interests or protecting
+information contained herein from unauthorized disclosure. (Paragraph 30c (2) (a),
+AFR 205-1.)
+CLOSED
+Declassification Authority: NND 923007

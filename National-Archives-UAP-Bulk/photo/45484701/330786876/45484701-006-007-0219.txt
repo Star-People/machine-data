@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:29:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10249388, "source_ctime_ns": 1793364398811313451, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0219.jpg", "source_mtime_ns": 1785685118000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0219.jpg", "source_sha256": "11eb5dd0836187f35984c1bbbd393185158a0a1deee997edef8b16ff39e0f696"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 819, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+DETAILS :
+1. This investigation opened at the direction of the District
+Commander, predicated upon information furnished by DONALD P. DICKASON,
+Director, Security Division, Los Alamos Field Office, Atomic Energy
+Commission, Los Alamos, New Mexico, concerning observation of unidenti-
+fied aerial object.
+2.
+On 13 December 1952, Mr. CHARLES A LEHMAN, 4332 B Syaamore,
+Los Alamos, New Mexico, reported that he had sighted a round, bright
+luminous, bluish-white, unidentified aerial object over Los Alamos, New
+Mexico, at approxinately 1915 hours, 12 December 1952. The object was
+shaped like a tennis ball wrapped in a handkerchief. The object was in
+sight approximately three (3) seconds, disappearing suddenly. The
+object left a trail of sparks from the rear.
+CLOSED
+Declassification Authority: NND 923007

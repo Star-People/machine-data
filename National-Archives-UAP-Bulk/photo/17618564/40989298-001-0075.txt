@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:41:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 579672, "source_ctime_ns": 1793356015032372808, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0075.jpg", "source_mtime_ns": 1785564583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0075.jpg", "source_sha256": "debffefdb7ee186a1517d28cdc9db8537ac1f883a2a1d8613b513f6b97807f6e"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 629, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROFESSOR MOORE - 6/8/94
+54
+including that debris, are pictures that he sent to me with that
+letter and a subsequent letter. These are pictures taken by
+crow.
+2:
+When did Alamagordo become Holloman?
+A:
+Probably about September of '47.
+Q:
+It says HAFB on the back of the truck.
+A:
+Those pictures were taken during the Sandstone
+operation in April of '48.
+2:
+I take it the side arm was for protection against
+rattle snakes?
+A: Good question.
+Q:
+Some of the popular writers have alleged that certain
+persons were turned away by armed guards, etc.
+A:
+Not in our area.
+I mean as far as the so-called...
+A:
+oh, out at the ranch.
+(END)

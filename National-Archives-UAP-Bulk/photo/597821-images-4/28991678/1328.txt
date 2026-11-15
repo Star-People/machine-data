@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:23:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7965330, "source_ctime_ns": 1793385055856755828, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991678/1328.jpg", "source_mtime_ns": 1785748147000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991678/1328.jpg", "source_sha256": "148a6665e9d135c74bc234eb8f5892bc8781d333900bc1963cda1b4190524487"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 898, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFO ANALYSIS SHEET
+Location
+Date (Local)_
+Dayton, Ohio
+2 March 61
+Hour (Local) 2030
+Hour (Z Time Group 030130Z March 61
+Satellite:
+(Det 5 ATIC, Ext 3279).
+Astronomical Phenomena (Meteor, Comet, Planet, ete) ---
+Radar Analysis' (AFCIN-LE1)
+N/A
+Natural Phenomena (Ball Lightning, etc)_
+Aircraft, Balloons, Airships, etc
+Other
+Insuff data
+Evaluation of Source Reliability Unknown
+Analysis and Conclusions:
+The description of the object is similar to that
+or a meteor,
+however, the duration is excessive. It is possible that the
+object was an aircraft which was reflecting ground lights. jovever, the
+information reported is not sufficient for the formation of a valid conclusion.
+Time probably includes afterglow of burst. Multiple report of Bol ide in
+area. All reports are about the same time and object moving in a Northerly
+direction, So, this report added to the other reports of this particular

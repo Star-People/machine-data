@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:09:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4968101, "source_ctime_ns": 1793379211695083851, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971536/1279.jpg", "source_mtime_ns": 1785700999000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971536/1279.jpg", "source_sha256": "24201a0f377853d7b8a3e2203f44a020fe0213e6ab9c5193da3767e3ab3681cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 299, "method": "ocr", "page": 1, "variant": "clean-vision"}
+To: Copt -
+1FO Keport at 2037 kra
+at Brookville, ohio 15 miles Sk ADanta
+1. Talled weather Station. Last Ballson launched
+at 1830 his lasted 80 minuter, wind 300° et 5
+kenata.
+2. Call Patterson Operatines - 4 T-33s flzing loral
+from 1922 hia to 2150; one B-25
+landed wild fuel leak
+1112
+ints
+Names:

@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:00:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5808719, "source_ctime_ns": 1793355097357752628, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0011.jpg", "source_mtime_ns": 1785564393000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0011.jpg", "source_sha256": "c8ae86d408aa1dab674289257010478bd2adf2099181c76b808c444128df4699"}
+
+===== PAGE 1 =====
+{"alpha_words": 339, "chars": 2249, "method": "ocr", "page": 1, "variant": "plain-vision"}
+During early summer and early fall, climb out winds are westerly, and
+float winds easterly, so you actually want to reach float on the target
+side downwind from the climbout.
+(5) Since most balloon target missions require relatively clear
+skies, tropospheric wind climatology should be selected for clear to scattered
+cases, only.
+One will generally see, therefore a percentage increase in climb-
+outs towards the south, when compared to climatology which disregards cloud
+coverage.
+(6) Rather than use conventional integrated monthly upper wind
+data for constructing trajectory climatology charts, plot discrete trajectories
+by date for each month. Many months display a marked drift throughout the
+period, and one or two specific weeks can be flagged as most desirable.
+(7) Mountain ranges usually generate trajectory deflections even in
+the stratosphere, whatever that mechanism may be.
+These 'bank shots should
+be calibrated, possibly with small pathfinder balloons, prior to the mission.
+The deflections can be consistent in crossing a given range, and a cali-
+bration series with pathfinders, one year prior might be worthwhile.
+The tropospheric winds see an enhancement of any north-south component
+on the upwind side of the range. The lighter the winds, the greater the de-
+flection. Light summer stratosphere easterlys can break down into closed
+circulation on the upwind side. A cloud undercast appears to modify these
+patterns.
+(8) If the opportunity exists, load up the balloon with ballast,
+so that it will float initially at least 2000 feet (.6KM) below the specified
+altitude. There can be substantial wind shear even in 500 foot slices. If some
+duration at float is required to attain the target, one then evaluated the ini-
+tial, lower float as to desirability. If favorable, and prior data indicated
+more advantageous winds above, then perform the same evaluation in 500 or
+1000 foot steps. The remaining ballast can be dropped before target time.
+Sometimes, this procedure is complicated by the fact the experiments
+desire maximum balloon stability at target time, which means no ballasting
+for some prior time increment. But with summer float winds, particularly,
+the float segment may be long enough to employ this strategy.
+31

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:45:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1055802, "source_ctime_ns": 1793356202826920463, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0076.jpg", "source_mtime_ns": 1785564636000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0076.jpg", "source_sha256": "e9e5e195d4d0c3d634372d4cc1f0f717b494c7131a96868cf5e29321981f38ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 229, "chars": 1467, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Balloons--Page 3
+The Balloon Branch is a part of the Test Facilities Division of the
+Directorate of Laboratories which is commanded by It. Col. Clifton I.
+Butler Jr. and has the mission of launching and tracking balloons as well
+as the recovery of the experimental equipment they carry. The Branch also
+provides optical tracking data, develops improved launching techniques and
+maintains a constant study of balloon capabilities.
+The men in this branch develop their own techniques and equipment because
+theirs is a specialized operation done only at Holloman and one or two other
+places•
+Mr. B. D. Gildenberg, Chief of Technical Guidance Section of the Balloon
+Branch, says that when the average person hears the word "Balloon" he
+visualizes a rubber extensible balloon.
+He explains the difference between the familiar extensible and the non-
+extensible balloon used at Holloman as follows: "The extensible balloon is
+filled with lifting gas until it will exactly balance out the weight of the
+balloon plus any attached rigging and payload. Then an extra portion of gas,
+called the free lift, is added to the balloon. This free lift causes an
+unbalanced effect with the balloon tending to rise skyward.
+As the density of the atmosphere decreases during the ascent, the
+flexible matter of the balloon stretches because of the expansion of the
+lifting gas. When the maximum stretching qualities of the balloon are exceeded,
+the balloon bursts and flight ends.
+(more )

@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:03:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6914811, "source_ctime_ns": 1793380951358070552, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978933/0590.jpg", "source_mtime_ns": 1785700621000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978933/0590.jpg", "source_sha256": "af1e97a4a14cb0f96430a78d223b67cf3052faffee8f40c693a8c205ab75ec91"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 751, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+14 Jul 58
+3. DATE-TIME GROUP
+Locol1:30 to 5:30 A.M.
+GM T-
+- 11/09302
+S. PHOTOS
+Xenia-Bellbrook, Ohio
+4. TYPE OF OBSERVATION
+XX Ground. Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+1 & appeared
+as three (3)
+1 hr
+10. BRIEF SUMMARY OF SIGHTING
+Obj which appeared as a bright star,
+and often appeared as three lights.
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+•
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+D. Was Astronomical
+uS
+Probably Astronomical
+Possibly Astronomical
+•
+Other.
+Insufficient Data for Evaluation
+Unknown
+stationary
+11. COMMENTS
+Astro-check made--Venus.
+ATIC FORM 329 (REV 26 SEP 52)

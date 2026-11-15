@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:31:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17030748, "source_ctime_ns": 1793357913371539137, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1715-582892-0011.tif", "source_mtime_ns": 1785564993000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1715-582892-0011.tif", "source_sha256": "4955480d04874ec2403a4a826381a5cf191a968083d6c5bcb01331e6ceecd56b"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 524, "method": "ocr", "page": 1, "variant": "plain-vision"}
+S-T-A-T-E-M-E-N-T
+Two unidentified objects were sighted about 0542 and 061l Zebra
+time. One northeast and the other west northwest of Bismarck. Both seemed
+to be alike in actions and color. All that was discernable was a strong
+hight which at times faded and changed color from yellowish to greenish.
+Actions were not steady, and at times the objects moved up and down or
+sidewise suddenly but all the time seemed to be drawing farther away.
+Charles Mandigo
+AF582892 /
+CADF-437 5 - 5 3
+Declassification Authority: NND 57565

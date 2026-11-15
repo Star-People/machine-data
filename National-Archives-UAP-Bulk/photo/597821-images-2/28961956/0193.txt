@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:01:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6597623, "source_ctime_ns": 1793376776529701316, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961956/0193.jpg", "source_mtime_ns": 1785696698000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961956/0193.jpg", "source_sha256": "8fb37074d31bd1d1bb1047ade4c7dba0385f6eda2697162e1915204724547fc8"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 864, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+11 May 1955
+3. DATE-TIME GROUP
+Local
+lunday, New tore
+• TYPE OF OBSERVATION
+INGround- Visual
+GM T.
+5. PHOTOS
+12/03152
+• Air- Visual
+6.
+SOURCE
+• Yes
+XI No
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+45 minutes to 1 hour
+one
+10. BRIEF SUMMARY OF SIGHTING
+Multi-wing shape. Bright red, green
+and white. Vertical lights, motion-
+less, then slow rocking motion.
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+• robably Aircrat!
+•
+Possibly Aircraft
+Was AstronomicalJuDL tex
+Probably Astronomical
+Possibly Astronomical
+D, Other.
+Insufficient Data for Evaluation
+Unk no wn
+9. COURSE
+Northwest
+11. COMMENTS
+Jupiter in position reported.
+Object characteristic of
+astronomical sighting.
+Case evaluated as Planet, Jupiter
+ATIC FORM 329 (REV 26 SEP 52)

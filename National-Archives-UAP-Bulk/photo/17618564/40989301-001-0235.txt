@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:47:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1459490, "source_ctime_ns": 1793356082984129982, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0235.jpg", "source_mtime_ns": 1785564601000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0235.jpg", "source_sha256": "40954f8fc0f92219755464fd12a091cfce5fe04b0d05ae0807b51cac35a9493a"}
+
+===== PAGE 1 =====
+{"alpha_words": 341, "chars": 2158, "method": "ocr", "page": 1, "variant": "plain-vision"}
+levels when the instrument is located out of doors.
+For details of the use and care of theodolites,
+see either the War Department publication ™M-ll-
+423 or the U. S. Weather Bureau Circular to".
+(3) Aircraft Radio Compass
+It has been found feasible to determine the posi-
+tion of the balloon by following the signal from a
+balloon-borne transmitter, using an aircraft radio
+compass as receiving unit. In this way it is possible
+to fly along a path toward the balloon, usually at
+a much lower altitude, and, by noting the plane's
+position where the compass reading is reversed, the
+position of the transmitter is found. The main dis-
+advantage of using this system is that aircraft is
+needed, but there is no other method which will so
+readily position the balloon over great distances
+and periods of time. With this system, the limit
+of transmission time is a function of the weight of
+transmitter batteries which can be carried rather
+than distance. It is possible to power a trans-
+mitter to supply 2 watts, for about 15 hours, using
+15 pounds (7 kilograms) of batteries. Longer periods
+of transmission may be achieved by intermittent opera-
+tion of the transmitters or use of heavier batteries.
+(4)
+Radar
+If ground radar is available, accurate positioning
+over a limited range can be made. It is helpful
+but not strictly required to add radar targets
+(corner reflectors) to the flight train for such
+tracking. Using radar, the elevation angle, azimuth
+angle and slant distance out are obtained, giving
+a complete fix on the balloon with one set. The
+maximum distance to which appropriate sets can reach
+is about 65 miles; such sets are the SCR-584, the
+SPM-1 and the NPS-6. With good orientation and leveling
+such sets have an accuracy of 1.00 and about 500 feet
+of slant range. Because of the limited range, radar
+sets are not generally useful. Attempts to use
+radar mounted atop aircraft for aerial observation
+have been abandoned in favor of the radio compass.
+B. Altitude Determination
+In early attempts to utilize standard radiosonde
+pressure modulators they were found to be unsatisfactory.
+The Diamond-Hinman system of counting signal changes
+-53-

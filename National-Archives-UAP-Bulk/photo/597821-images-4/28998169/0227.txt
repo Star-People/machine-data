@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T08:02:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6726290, "source_ctime_ns": 1793387104175526646, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998169/0227.jpg", "source_mtime_ns": 1785748434000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998169/0227.jpg", "source_sha256": "7e55d271b2239062eedf7dc22cb67a09a8df731100a8ed813073e10df6c23830"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 691, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2. CINCPACFLT INST 3820.3 NOPAORINT OF THEAR FORG
+STAFF MESSAGE BRANCH
+SSAGE
+Page 2 of 3
+A ROUND
+3, FIRST MAGNITUDE STAR GINHEAD
+C. WHITE
+D. ONE
+26 A. MOVEMENT IN RELATION TO STARS
+B. 38 DEGREES 3ØT
+Co 05 DEGREES 05 ØT
+B. COURSE EAST NORTHEAST
+E, DISAPPEARED IN LOW CLOUDS NEAR HORIZON.
+F. TWENTY FIVE MINUTES
+3, A. VISUAL
+Bo NONE
+4. A. 13054ØZ
+B, MOONLIGHT NIGHT SKTW SEVEN TENTHS CLOUD COVERAGE
+5. A. BRIDGE OF SHIP POSIT L 18-25N, 055-47W
+B. SIGHTED LOOKOUTS AND OOD. CONFIRMED BY COMMANDING
+OFF COMPLETELY RELIABLE MS
+A, BRIGHT MOONLIT NIGHT
+B. REG
+C. UNL
+D. TEN MILES
+E. SEVEN TENTHS
+F. MAS
+- UNE
+• NEG
+10. NONE HELD ON RADAR
+IL. COMMANDING OFFICER. ALL PERS INVOLVED HAVE PREV SIGHIED

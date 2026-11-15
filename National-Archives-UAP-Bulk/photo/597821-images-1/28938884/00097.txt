@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:50:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3572055, "source_ctime_ns": 1793371566090499429, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938884/00097.jpg", "source_mtime_ns": 1785688571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938884/00097.jpg", "source_sha256": "931fb6d865ff4750d06807e02b594c828669260b9836521498ab0054824d71db"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 869, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+16 Jan 51
+3. DATE-TIME GROUP
+Local .
+GM T
+5. PHOTOS
+Not Reported
+• Yes
+O No
+7. LENGTH OF OBSERVATION
+up to 2 hrs
+10. BRIEF SUMMARY OF SIGHTING
+Shaped - Varied. Colr - Varied - Speed - Highi
+Alt was high. Object clained to be balloon
+released from White Sans was viewed by many
+people. Claimed to have been chased by a/c.
+Many detaila in report.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+12. CONCLUSIONS
+Texas
+XX Was Bafloon
+Vicinity of Witchita Falls, West/H
+Probably Balloon
+4. TYPE OF OBSERVATION
+Possibly Balloon
+ExGround- Vi sual
+D Ground-Radar
+Was Aircreft
+Probably Aircrat
+Possibly Aircrof
+• Air- Visual
+6. SOURCE
+• Air-Intercept Radar
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Many people
+8. NUMBER OF OBJECTS
+9. COURSE
+D
+Other..
+Insufficient Deta for Evaluation
+Unknown
+NE
+11. COMMENTS
+Evaluated as balloon.
+ATIC FORM 329 (REV 26 SEP 52)

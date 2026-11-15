@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:58:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5039282, "source_ctime_ns": 1793378226860837935, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967260/0342.jpg", "source_mtime_ns": 1785696901000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967260/0342.jpg", "source_sha256": "e717bcbc13409d5109454b077ab47afbd1334082dd309bbb0b911df1e3f4eb16"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 758, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+4602D AIR INTELLIGENCE SERVICE SQUADRON (ADC)
+UNITED STATES AIR FORCE
+ENT AIR FORCE BASE, COLORADO
+AISOC
+30 October 1956
+SUBJECT:
+Unidentified Flying Object Report
+TO :
+Commander
+Air Technical Intelligence Center
+ATTN: AFOIN LE4
+Wright-Patterson Air Force Base
+Ohio
+1.
+Inclosed is AISOP Form No. 5 (copy) on sighting No. AISS-
+UPOB-398-56, Fresno, California together with two (2) inclosures.
+2. This letter will be downgraded to UNCLASSIFIED when the
+inclosure is withdrawn or not attached.
+FOR THE COMMANDER:
+1 Inel:
+AISOP Form 5 w/2Inels
+cance.
+CHARLES W. GODSEY
+Captain, USAF
+Assistant Adjutant
+4602D AISS Classified
+Document Los # 56 1 0 93
+20PE: I5 102
+DONGRADED AT 2 YEAR INTERVAL
+DECLARIFIED AFTER 12 YEARS.
+DON DIR 5200.10
+UNCLASSIFIED

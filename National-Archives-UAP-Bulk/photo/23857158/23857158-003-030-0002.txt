@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:22:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7430588, "source_ctime_ns": 1793358517804618658, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-030-0002.tif", "source_mtime_ns": 1785681116000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-030-0002.tif", "source_sha256": "1904b7a58d313c524089258f6818214e2e4fcdfc5e80a95df234d18feb69ff05"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 923, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ALL FOR NOW
+ENO 205
+ENB109
+• OPS 07/18.40Z55ł
+YDD1 40 XYD213 XDE164JBA102
+RR JEDEN JEDWP JEPHQ JWPJB
+DE JWPJB: 3F
+R 070645Z
+FM COMDR
+TO JEDEN/COMDR ADC ENT AFB COLORADO
+JEDWP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+JEPHQ/COMDR DIR OF INTELL HDQ USAF WASH DE
+JWPJB/COMDR 27TH ADD NORTON AFB CALIF
+BT
+/UNCLASSIFIED/750TH OPR 0022 PD ATTN UFOB
+BRIGHT LIGHT
+B SIZE OF A DIME
+WHITE
+D
+ONE
+E N/A
+N/A
+G NA
+H
+NO SOUND
+BLINKING LIKE A STAR
+B WINDS NORTH 10K (SURFACE)
+NO CEILING NO STORMS
+C NONE
+D UNLIMITED
+E NONE
+F NONE
+PAGE TWO JWPJB 3F
+2.
+A WAS SEEN OUT OF HER WINDOW
+B HIGH
+C HIGH
+D STILL
+IN VIEW
+E NOT MOVING
+F OBSERVED 15 MIN BEFORE CALLING IN
+3..
+A GROUND VISUAL
+B NONE
+C N/A
+4.
+A
+070530Z
+B NIGHT
+5. AF 5922
+8• A NONE
+9. NEGATIVE
+10. NEGATIVE
+11. NEGATIVE
+12.
+ERSTILLS, CALIF
+2GE 49
+HOUSEWIFE
+B N/Ạ
+CCC: LINE NR 15 PAGE 529 TWO ITEM 12. SHOULD READ NEGATIVE RPT NEGATIVE
+07/1705Z APR JWPJB

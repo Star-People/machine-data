@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:08:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4867722, "source_ctime_ns": 1793359181259076036, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-034-0001.tif", "source_mtime_ns": 1785681337000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-034-0001.tif", "source_sha256": "30ba455bffc5ad424be61640a009eff6642cbe2dee711d392557518370bf449a"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 738, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LCG
+REPORT NO.
+A138-0F03-196-55
+2 DATE/TIME OF SIGRTING
+08/0240% Jul7 1953
+4 LOCATION OF SIGHTING
+Mannasset (Roslyn), New York
+5 MEANS RECD
+TT. Mag
+7 INVES UNIT
+6 ACTION
+No Investigation Authorized
+8 DATE INVES ASSIGNED
+1/A
+10 DATE IR RECD H
+111 DATE IR APPROVED
+1/A
+3 RECD HQ 4602D
+6 Jung 3965
+19 ASSIGNING OFFICER
+12 DATE IR TO ATIC
+1/4
+13 AISOP FORM 5
+6 June 1955
+14 COMMENTS
+Due to the brevity of the sighting and the lack of information
+which could be attained by further Investigation, a follow-up
+Inveatigation la deemed unnecessary, The lack of da ta in the
+criginal UPOS report preoludes enalysis,
+15 CONCLUSIONS
+Lask of suffioiant data for ofaluation
+AISOP FORM 7 (2Ark 55)

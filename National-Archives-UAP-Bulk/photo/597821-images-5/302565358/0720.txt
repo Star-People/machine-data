@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:42:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 745545, "source_ctime_ns": 1793392189998341045, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565358/0720.jp2", "source_mtime_ns": 1785808112000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565358/0720.jp2", "source_sha256": "2d7a894bc95f3924733c78a4e1f8c445757588be8c3c561fd5106ede8bbe12b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 647, "method": "ocr", "page": 1, "variant": "plain-vision"}
+30. Have you eyer seen this, or o similar objact bafore. If so giva date or dates and location.
+31. Was anyone else with you ot the time you saw the objact? (Circle One)
+31.1 IF you answared YES, did they sea the object too? (Circle One)
+31.2 Please list their names and addresses:
+Yos
+Yes
+No
+No
+32. Please give the following Infermation about yourself:
+NAME
+Last Nams
+Same
+(2)
+Middlo Plame
+ADDRESS
+Stract
+City
+ADULT
+Zone
+Stola
+41144
+TELEPHONE NUMBER
+AGE
+SEX
+Indicate am
+saditional Information obout yourself, including any special expariance, which might be pertinent.
+33. When ond to whom did you repart that you had seen the object?
+Month
+Your

@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:19:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7004470, "source_ctime_ns": 1793384980979912117, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991531/1167.jpg", "source_mtime_ns": 1785748151000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991531/1167.jpg", "source_sha256": "f9517120f81894a3751dc363c9931727dd0999570f6eee16ca07bd6033f525a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1166, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+23 Feb 61
+3. DATE-TIME GROUP
+Local
+10262
+GM T.
+5. PHOTOS
+Misawa AB, Japan
+4. TYPE OF OBSERVATION
+# Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Rodor
+• Air-Intercept Radar
+• Yes
+X No
+7. LENGTH OF.OBSERVATION
+Military
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical VENUS
+Probably Astronomical
+•
+Possibly Astronomical
+Other
+•
+•
+Insufficient Dato for Evaluation
+Unknown
+58 min.
+I0. BRIEF SUMMARY OF SIGHTING Bright light, aprOX ten
+I1. cOMMENTSObjt was probably planet
+times as bright as star Sirius which was
+visible at time. Much larger than a star.
+Te tie Veine and it direction vari d
+Intensity varied considerably. Movement
+dent with that reported for UrO at
+appeared to be N at a slow angular velocity.
+time of sighting. Atmospheric refraction
+Color range was from pinkish white to reddish
+probably contributed to sighting by
+white.
+distorting, coloring and giving apparent
+motion to planet. Fact that objt
+disappeared at time planet set sub stan
+tiates this conclusion.
+ATIC FORM 329 (REV 26 SEP 52)

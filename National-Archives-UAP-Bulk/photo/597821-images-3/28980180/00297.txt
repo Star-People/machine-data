@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:12:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5600801, "source_ctime_ns": 1793381428788807363, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980180/00297.jpg", "source_mtime_ns": 1785700895000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980180/00297.jpg", "source_sha256": "0826547f028290b69599839798d7870230c7080f2caab6dde98da72755876fa4"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 603, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO ROUTING SLIP
+I NAME OR TITLE
+MaJor Tacker
+ORGANIZATION AND LOCATION
+SAFIS-3
+NEYER USE FOR APPROY ALS, DISAPPROVALS,
+CONCURRENCES, OR SIMILAR ACTIONS
+FINITIALS
+I CIRCULATE
+DATE
+COORDINATION
+FILE
+INFORMATION
+NECESSARY
+NOTE AND
+RETURN
+SEE ME
+SIGNATURE
+REMARKS
+The object sighted is apparently the same one
+sighted in the Washington, D. C. area. The object
+has all the characteristics of a meteor breaking
+apart.
+If a meteor is close enough to the earth,
+as this one was, it will make quite a noise.
+FROM MAME OR FIT Major Robert J. Friend
+DAGANIZATION AND LOCATION
+AFCIN-ЦЕД
+8 oct 58
+TELEPHONE
+6-9216

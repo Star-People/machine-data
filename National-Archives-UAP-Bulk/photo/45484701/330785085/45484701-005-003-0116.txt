@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T07:21:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7330339, "source_ctime_ns": 1793363369864210672, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0116.jpg", "source_mtime_ns": 1785684915000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0116.jpg", "source_sha256": "380828ce775e29cce405de3a50507b49dde3eb0964ee2e5e24ba3fc7da104e0c"}
+
+===== PAGE 1 =====
+{"alpha_words": 285, "chars": 2086, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAL
+The following temperatures were recorded at 1700 on 29
+November 1950:
+Surface
+500 ft.
+1000 ft.
+32 Deg.
+30 Deg.
+27 Deg.
+At 1900, 29 November 1950 a graph record of a background
+counter (Geiger counter used to determine radio activity) located in the
+Controlled Area indicated a pronounced rise in Alpha particles and a slight
+rise in Gamma rays at the same time. These readings are unaccounted for at
+the present time. Atomic Energy Commission officials state that no unusual
+release of radioactive particles was made from their installations on 29 or
+30 November 1950.
+On 30 November 1950, Mr. W. B. Gray, Special Agent, CIC,
+and Mr. William M. Price, Special Agent, OSI, were present at the AF Radar
+Station when a single, unidentified object appeared on the radar scopes.
+Following is the controllers notes of the objects progress:
+Time
+1351
+1354
+1400
+1402
+1403
+1405
+Bange (miles)
+21
+17
+15
+14
+13
+12
+Azimuth
+317 deg.
+310
+300
+295
+290
+285
+(Object disappeared from the scope at 1405.)
+At approximately 1630, 30 November 1950, paints, too
+numerous to count, reappeared on the radar scopes.
+These paints followed a
+pattern similar to those of the 29th. These objects remained visible on the
+radar scopes until 2330 or 2400, 30 November 1950. Present at these obser-
+vations, in addition to the regular radar crew, were the following persons:
+It.Col. John R. Hood, Jr. USAF, NEPA, AMO Field Engr. Officer, Oak
+Ridge, Tenn.
+Commander W. E. Hribar, USN, Liaison Officer, Oak Riäge, Tenn.
+Major Walter Carrs, USAF, NEPA, Oak Ridge, Tenn.
+Major R. G. Care, USAF, Area Defense Commander
+Dr. F. J. Davis, Oak Ridge National Laboratories, Oak Ridge, Tenn.
+Mr. Paul Reinhardt, Oak Ridge National Laboratories, Oak midge, Tenn.
+Mr. W. B. Gray, S/A CIC, Knoxville, Tennessee
+Mr. W. M. Price, S/A OSI, Knoxville, Tennessee
+ACTION: A plan is being considered whereby background counters
+would be installed in the fighter aircraft in order to measure radio activity
+in the air during the time of radar sightings of unidentified flying objects
+over Oak Ridge.
+2
+Declassification Authority: NND 923007
