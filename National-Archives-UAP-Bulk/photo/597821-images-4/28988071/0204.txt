@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:45:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6065519, "source_ctime_ns": 1793383847230748261, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988071/0204.jpg", "source_mtime_ns": 1785748379000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988071/0204.jpg", "source_sha256": "74db768c8e37cb73f561b09012545482802f6cd8d2e6a95157d49eca81e451d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 867, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+August 1960
+3. DATE-TIME GROUP
+Local
+GM T.
+3. PHOTOS
+•Y•s Physical
+Specimen
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Essex, Illinois
+TYPE OF OBSERVATION
+XR Ground- Vi sual
+• Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+not reported
+multiple
+10.
+BRIEF SUMMARY OF SIGHTING
+Foil strips sent to Chanute AFB for
+possible
+identification. Desired to
+know how
+these strips got into the
+fields.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+a
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+•
+Possibly Astronomical
+Ax Other_ Chaff
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+on
+ground
+11. COMMENTS
+Physical specimens of foil iden-
+tified as chaff used in Radar
+jamming.
+Maxwell AiB, Alal
+ATTN: Archives
+Retorpace
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:02:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14533909, "source_ctime_ns": 1793365731880858347, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0055.jpg", "source_mtime_ns": 1785565420000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0055.jpg", "source_sha256": "afd59b3c53e1f55a098205496211245868dbc7cdc7a7cc91f600951cd125c0f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 76, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2
+
+panera ene: earpinrn
+
+=
+
+Se
+
+snes eygpon Nemes
+
+emeitineiimmeie cn
+
+igen

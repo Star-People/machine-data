@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:06:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19300789, "source_ctime_ns": 1793355686784851289, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0125.jpg", "source_mtime_ns": 1785564503000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0125.jpg", "source_sha256": "b83a093a4fe91300e7f5ae4ea5015f601950e46f6ca447ccce3d123197a2ba51"}
+
+===== PAGE 1 =====
+{"alpha_words": 521, "chars": 3427, "method": "ocr", "page": 1, "variant": "plain-vision"}
+236
+The hygrometer mounted upstream of valve B is used to establish the setting of
+valve A such that the air after expansion through valve B will have a frost point 5
+to 10 degrees above the temperature of the control bath. The sole purpose of pre-
+drying the inlet air is to remove the major portion of the water ahead of the heat
+exchanger to avoid icing in the coils. This mixing process does not establish the
+operating points. The air is further cooled as it passes through the heat exchanger
+and comes into equilibrium with the constant-temperature bath which establishes
+the frost point. The use of constant-temperature baths (typical of these are mix-
+tures of various substances and CO2 snow which provide fixed temperatures in the
+range from -70 to -78.5°C) is a simple means of precisely controlling temperature
+for long periods of time.
+The heat exchanger is designed to avoid any appreciable pressure drop across
+it. A snow filter consisting of stainless-steel wool is located at the downstream
+end to remove any airborne ice crystals.
+Figure 2 shows a test fixture for the test cell. The components shown are a
+thermoelectric cooler mounted on a heat sink, and a fixture for positioning the
+frost-thickness sensor.
+Figure 2. Thermoelectric Cooler and Alpha Particle Detector Mounted on
+Test Fixture
+237
+A preliminary experiment which was performed with this apparatus can be
+compared with the mass-transfer rate predicted above. Figure 3 shows the tem-
+perature readout of a hygrometer subjected to chamber conditions which correspond
+to stratospheric conditions at 70,000 feet and a ventilation rate of moist air through
+the unit of 400 ft/min. The instrument was initially operated in a full-heating mode
+to eliminate all condensate from the surface. The instrument, a Honeywell Alpha
+Radiation Hygrometer (Ballinger, 1964), was turned on at the time indicated tA on
+Figure 3 (that is, the servo loop was closed), and a full-cooling mode resulted to
+re-establish a 20 ug/ cm? layer of frost.* This thickness was preset by adjusting
+the servo balance point with thin films of thickness known to about +50 percent.
+By the time denoted tp, the 20 ug/ cm? deposit had formed and thereafter the
+temperature began to cycle about the frost point in a usual manner to maintain
+this amount of deposit constant. The ragged variations seen in Figure 3 are
+superimposed on the slower cycling pattern and are due to the random nature of
+pulses received from the radiation detectors.
+The time taken to form the 20-pg/ cm? deposit (tp - tA) = 4 ‡ 1 minute,
+gives an estimate of the mass-transfer rate. Since the surface temperature and
+frost point were constant during this interval, we have
+(at)
+exp
+= 20 + 10 m/cm? - 53 kg/cm?/ min
+= 0.080:05 1g/cm"/ sec.
+The sensor used in this experiment had very nearly flat-plate geometry. The frost
+point of the moist-air sample was maintained near -73°C, and the calculated flat-
+plate value of l for the chamber conditions with a ventilation rate of 400 ft/min is,
+from Eq. (2), 10.8 cm/sec. As the surface temperature tAB Was - 85°C, the flat
+plate estimate for do / dt is, using Eq. (1),
+= 10.8 cm
+(0.001799 46 - 0.000271 )
+= 0.02 kg/ cm / sec.
+*Thiś thickness is that of the control layer, the average amount about which
+the thickness varies during closed-loop operation, and is not to be confused with
+the sensitivity of the sensor which was less than 1 ug/ cm? (30 monolayers).

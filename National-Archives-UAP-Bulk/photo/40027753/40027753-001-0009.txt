@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:04:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18332340, "source_ctime_ns": 1793361543866988924, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0009.tif", "source_mtime_ns": 1785565378000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0009.tif", "source_sha256": "ca6a417ed3d0f9aad7a07c8bc0a85af68a758e1559d5c53935ae8c5b00f50b2c"}
+
+===== PAGE 1 =====
+{"alpha_words": 179, "chars": 1437, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Poll No.
+SS
+90
+-
+91
+92
+INSPECTOR GENERAL, USAF
+OFFICE OF SPECIAL INVESTIGATIONS (OSI)
+File
+Date or Location
+Chronological Files
+Chronological Files
+District Files, 1919-67
+District Files, 1949-67
+District Files, 1949-67
+District Files, 1949-67
+Overseas Commands, 1949-68
+9/9/48 - 8/31/49
+0/14/49 - 10/5/62
+District 1 - Vestover AFB, MA
+District 2 - New York, NY
+District 3 - Harrisburg, PA
+District 3 - Harrishurg, PA
+District 4 - Bolling AFB, DC
+District 5 - Wright-Patterson AF3,
+Dayton, OH
+District 6 - Robins AFB, Robins Field, CA
+District 7 - MacDill AFB, Tampa, FL
+District 8 - Maxwell AFB, AL
+District 9 - Barksdale AFB, LA
+District 10 - Kelly AFB, Kelly Field, TX
+District 11 - Tinker AFB, Oklahona City, OK
+District 12 - Scott AFB,
+District 13 - Offutt AFB, Omaha, NE
+District 14 - Lowry AFB, Denver, CO
+District 15 - Great Falls, AFB, M
+District 16 - Hill AFB, |ill Field, UT
+District 17 - Kirtland AFB, N
+District 1S - USAF Specialized Depot,
+Maywood, Ca
+District 19 - Fairfield-Suisun AFB, CA
+District 20 - McChord AFB, WA
+District 21 - Langley AFE, Langley Field, VA
+District 22 - Griffiss AFB, Rome, NY
+District 23 - Carswell AFB, FI. Worth, IX
+District 24 - Chicago, IL
+District 25 - Selfridge AFB, MI
+District 26 - No Records
+District 27 - Ramey AFB, PR
+Alaskan Air Command
+Caribbean Conmand
+Far East Air Forces
+USAF in Europe
+Military Air Transport Service
+Newfoundland Base Conmand
+REPRODUCED AT THE NAT #ONAL ARCHIVES
+
+===== PAGE 2 =====
+{"alpha_words": 1, "chars": 9, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-psm3"}
+. al
+a
+=

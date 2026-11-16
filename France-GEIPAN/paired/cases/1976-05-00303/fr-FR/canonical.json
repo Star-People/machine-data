@@ -8,7 +8,7 @@
   "document_id": "doc-a5dd2eabd31e092da972a278",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-26T15:34:55Z",
+    "generated_at": "2026-11-16T08:02:42Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-05-00303/case.html",
-    "bytes": 18587,
+    "bytes": 18605,
     "canonical_source_identifier": "GEIPAN:1976-05-00303",
     "case_metadata": {
       "classification": "B",
@@ -244,7 +244,7 @@
     "original_title": "MATHA (17) 24.05.1976",
     "relative_path": "cases/1976-05-00303/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "475d9b7e01e15313706ba347f71f83b85f4ea316594cc378429d2bcfc9d67faa",
+    "sha256": "444b203be3899ea402e9c3ab87627de9a7233cf8739053868c0b1d94e7884dcf",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-05-00303"
     ]

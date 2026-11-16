@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:07:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19657386, "source_ctime_ns": 1793360881301033681, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0192.tif", "source_mtime_ns": 1785565147000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0192.tif", "source_sha256": "bf433f2ae255fad51c61040a191581f23ced9cc874e47a8d5352c9bd80766be3"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 787, "method": "ocr", "page": 1, "variant": "plain-vision"}
+= AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (ApERCY)
+UN CLASSIFIED
+CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+H95,
+: USAF
+REPORT NO.
+1R-8-58
+PAGE
+70
+→ 2:0:
+- 3 :
+PAGES
+Rua Profes. C. de Preitaas 191
+Theresopolis
+Porto Alegre, R.G.S.
+Brazil
+Oct 25, 1957
+USAR
+Washington
+Dear Sirs:
+This 16 in addition to my letters of September 17, 25 and 30.
+Lam sencing you berevith, for your information, an article from the
+Jornal, do Dia Daily Journal of April 13, 1957, entifleda NHas thi
+arrival of occupants of flying sancers in Porto Alegre been proved?"
+I an sure that you have taken the necessary steps upon the entry of
+the "Trojan horsesi in the Mediterranean.
+Surprises and and will be coming.
+Sincerely,
+your friend
+Isigned Jose Floriani Fo.
+DECLASSIFIED
+Authority NND 9237007

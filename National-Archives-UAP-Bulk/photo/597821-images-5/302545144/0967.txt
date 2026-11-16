@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:35:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1711208, "source_ctime_ns": 1793389953960926830, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545144/0967.jp2", "source_mtime_ns": 1785808363000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545144/0967.jp2", "source_sha256": "fb5eedf57c6134bfe8076b13a3861cdf9875e97835ddf7430c4aeebb718fb4ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 614, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Above: At Las Cruces, New Mexico, Gordon Solberg, Jr., used a reversed Moou-
+watch teiescope (his 1/2.8 camera lens held next to the objective) to obtain this
+picture of the comet and the zodiacal light below
+exposure on Ociober 31st was started at 1/59 UT.
+The 10 minute
+Site ou Mount fines he used an 1/88 2es fess of in sches focal leggi.
+site on Mount
+Pinos, he used an f/3.8 Zeiss lens
+Below: October 31st large- and small-scale views by Evered Kreimer, Scottsdale,
+brizona. At left, with a 135-mm. f/4 lens, the four-maute exposure began at
+12:35 UT; at right, 55-mm. f/5.6, six minutes exposure at 12:20 UT

@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-f7217e537cb3ae753ec93dd9",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-5729197fe08c2882d6190742",
           "segment_index": 3,
           "source_segment_id": "seg-5729197fe08c2882d6190742",
           "source_text_sha256": "b65fad2128e32e242a715c294957483fec057fb7583a88d2969bc51f6cf18506",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Aquitaine",
           "translation_text_sha256": "44b785415252d7df0515fb158b96a25260ab9444a415f915f469beb0c4aa26a4"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-f7217e537cb3ae753ec93dd9",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-cd7b7dd8e55a2be2aa1b505a",
           "segment_index": 4,
           "source_segment_id": "seg-cd7b7dd8e55a2be2aa1b505a",
           "source_text_sha256": "9746e43d35c03dc3544abaaec6045cfe6f7c2b4187de541337859f07a2772480",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Dordogne",
           "translation_text_sha256": "c963bc1f241e72902ef4c0c52a38c03b04ef9eaab659728ccaebb0436c79e189"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-f7217e537cb3ae753ec93dd9",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-35a4ac152283e3cad2ebbe23",
           "segment_index": 8,
           "source_segment_id": "seg-35a4ac152283e3cad2ebbe23",
           "source_text_sha256": "bfb75cdf1d1db6d0e947c8275fa22f2bf379eddaf2d6a23d44597f87c2d93d3a",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 378 (1976309228).pdf",
-          "translation_text_sha256": "753f15e5e520eb91570174f8a6afd7485ab14db2e07da0ad5e5529038c6a8d5b"
+          "status": "not-required",
+          "text": "Documents: PV n°378 (1976309228).pdf",
+          "translation_text_sha256": "bfb75cdf1d1db6d0e947c8275fa22f2bf379eddaf2d6a23d44597f87c2d93d3a"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-f7217e537cb3ae753ec93dd9",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-e68a4af2cd695b817516f73d",
           "segment_index": 9,
           "source_segment_id": "seg-e68a4af2cd695b817516f73d",
           "source_text_sha256": "3688ec9696678c2abd2097582f6e2915ce7ec8dced57f9889f0050c6a3aafd0c",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: EYMET (24) 24.04.1976",
           "translation_text_sha256": "cf78b1033396dcdd7efa3d825febb92f7af61dcdd0c907896ad8ae20a7d08f0a"
         },
@@ -172,19 +172,8 @@
           "page_id": "page-f7217e537cb3ae753ec93dd9",
           "qa_findings": [
             {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "16:00"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
               "added_in_translation": [
-                "0",
-                "300",
-                "4"
+                "300"
               ],
               "check": "numbers",
               "missing_from_translation": [],
@@ -199,8 +188,8 @@
           "source_text_sha256": "4137330ea93cfa74a041696abd41141e8aafa7b093270a8f41b0306cb5770809",
           "start_ms": null,
           "status": "needs-review",
-          "text": "Description: Alarmed by newspaper articles in the local press, the gendarmerie is investigating a peculiar phenomenon observed by several individuals. On April 24, 1976, around 4:00 p.m., a couple in the countryside noticed an unusual noise, followed by a strong air movement and the appearance of two green glowing discs at 300 meters from them. These objects suddenly dove towards the ground at a very high speed before disappearing. A violent gust of wind was followed by a snowfall. The same phenomenon occurred twice more. In the vicinity, other people reported television interference at the same time. Local brigade intelligence suggests it is likely an electromagnetic phenomenon caused by a local meteorological event.",
-          "translation_text_sha256": "d6c1628754d351c63da5a452c19c2836a7d794ab53deff0b394aa7c4b6bb5da2"
+          "text": "Description: Alarmed by newspaper articles in the local press, the gendarmerie is investigating a particular phenomenon observed by several people. On April 24, 1976, around 4:00 PM, a couple in the countryside noticed an unusual noise, followed by a strong air movement, and then the appearance at 300 meters from them of two green glowing discs. These objects suddenly dive towards the ground very quickly before disappearing. A violent gust of wind is followed by a snowfall. The same phenomenon will recur two more times. In the vicinity, other people will also notice disturbances on their television sets at the same time. Local brigade intelligence suggests it is likely an electromagnetic phenomenon caused by a local meteorological event.",
+          "translation_text_sha256": "481a5a615bddc3dabccc10f6d15d94e8d822d8be43bda51d0ccc8bfde012a43b"
         }
       ],
       "source_page_id": "page-f7217e537cb3ae753ec93dd9"
@@ -211,13 +200,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-27T22:16:59Z",
+    "generated_at": "2026-11-16T07:57:14Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
     "review_status": "needs-review",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

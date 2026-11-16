@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:22:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 804571, "source_ctime_ns": 1793392191478646581, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565367/0919.jp2", "source_mtime_ns": 1785808136000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565367/0919.jp2", "source_sha256": "d7fe015f5d4a268ac2fdc9e0344afef4751f91e1ca222c859ce302957bc97a03"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 886, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TDFT (UFO) OFFICIAL FILE CY
+TDPT (UFO) Maj Quintan11la/70916/mhs/17 Nov 67
+UFO Observation, 17 April 1967
+00V 2 0 1967
+Missouri State Highway Patrol
+Jefferson City, Missouri 65101
+1. The Aerial Phenomena Office is investigating an unidentified
+Tiving object report_ which occurred on 17 April 1967 at Cedar
+Falla, Missouri.
+2. The witness stated that he saw a disc shaped object from
+approximately 9:05 pm unt11 10:05mm CST. The object slowly moved
+southwest and finally disappeared. It seems likely, that the object
+also passed over Jefferson City.
+3. Request information on whether you received any incident reports
+on the night of 17 April 1967 and 1f you know what may have been
+the cause for this observation. Thank you for your assistance in
+this matter.
+PECTOR QUINTANILLA, JI, Major, USAF
+Chief, Aerial Phenomena Office
+Aerospace Technologies Division
+Production Directorate
+17

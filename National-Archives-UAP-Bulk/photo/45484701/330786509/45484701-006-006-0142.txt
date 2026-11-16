@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:01:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11800287, "source_ctime_ns": 1793364124416169043, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0142.jpg", "source_mtime_ns": 1785684587000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0142.jpg", "source_sha256": "e34a5b9be59dfc584c024d6ba23b8b7e2d2d1bb22eab1533cb9298bf63870cae"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 65, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+nape ore
+
+“a
+
+eer nye mt emesis wets oe
+
+t
+(a eee —_———————— Se

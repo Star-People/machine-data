@@ -3,16 +3,6 @@
   "findings": [
     {
       "added_in_translation": [
-        "1976-04-01"
-      ],
-      "check": "dates",
-      "missing_from_translation": [],
-      "segment_id": "seg-46fa1777a2bf467a35cc6afe",
-      "severity": "error",
-      "status": "mismatch"
-    },
-    {
-      "added_in_translation": [
         "1"
       ],
       "check": "numbers",

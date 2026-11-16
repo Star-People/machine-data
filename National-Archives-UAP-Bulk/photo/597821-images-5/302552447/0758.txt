@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:25:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 968954, "source_ctime_ns": 1793390684083028923, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552447/0758.jp2", "source_mtime_ns": 1785808577000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552447/0758.jp2", "source_sha256": "66da6f4081a3da05db9118a39fbdcdaaad8bfb17e28925974ad4787bef16893a"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 487, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICIAL FILE COPY
+TDE TRE
+Ofce of Record
+FRO (TDEIR) L
+Wright-Patterson AFB, Ohio 45433
+11 August 1966
+Dayton,
+Ohio 45427
+Dear Mise
+Reference your unidentified observation of July 1966.
+The informetion in your letter was not sufficient for
+evaluation.
+Request you complete the attached FID Form
+164 and return it in the envelope provided.
+We wish to thank you for reporting your observation to
+the Air Force.
+Sincerely,
+EPCTOR QUINTANILLA, JI, Major, USAF
+Chief, Froject Blue Book
+SHIC

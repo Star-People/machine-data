@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:56:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8388116, "source_ctime_ns": 1793379251188206500, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971775/00036.jpg", "source_mtime_ns": 1785701088000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971775/00036.jpg", "source_sha256": "ca9ebbba9034c860910660862ce1c5e91f6a162e0cc78d5188fcd4d59442c5ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 309, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24//600₴
+Multi
+25 SEP 57 15 092
+NNN
+JEDWP H075WPC0 71 YDA053 TYA061 TMB078 TTB34LGAO S0
+RR RJEDEN RJEDWP RJEPHQ RJEPJM
+DE RJEPLG 5D
+R 2423557
+FM COMDR 405 FBMRWG LANGLEY AFE VA
+TO RJEDEN/COMDR ADC ENT AFB COLO
+RJEPJM/COMDR 85 CNTL AD DIV ANDREWS AFB MD
+RIENWP/COMDR AIR TECH INTEL CFN WPAFR OHTO
+73464
+3-4хza

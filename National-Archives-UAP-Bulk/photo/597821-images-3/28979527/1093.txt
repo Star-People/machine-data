@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:54:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7981077, "source_ctime_ns": 1793381181605800003, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979527/1093.jpg", "source_mtime_ns": 1785701013000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979527/1093.jpg", "source_sha256": "7aac4d5ce3cdb8c0ff3db8c78162566ee1aa3ca2fc7d9987efac0b337e7db001"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 535, "method": "ocr", "page": 1, "variant": "plain-vision"}
+H. NONE •
+I•
+EXTREMELY FAST SPEED
+PAGE TWO RJEDNB 3
+HI•
+A. LOOKING FOR PREVIOUSLY REPORTED OBJECT
+C. ELEVATION
+5ø DEGREES AZIMUTH SOUTHEAST
+D. STRAIGHT COURSE APPROXIMATELY NORTH TO SOUTH
+E. FADED
+F. TWO MINUTES
+III. AT GROUND VISUAL
+B. NONE
+C. NONE
+IV•
+28/81532 AUG TI 015-3-5 = 1053
+8:53
+10
+avi
+B. NIGHT
+Vo
+A. 4131N-7406ęłŚł
+B. STEWART AFB NY
+<
+VI•
+A. N/A
+B. CAPT JoF. SOLOMON, ENR COC
+S/SGT R.C. MCHALE, ENR COC
+A/2 N,A, STEWART, ENR COC
+0,230
+aNci
+VII.
+A. CLEAR, VISIBILITY UNLIMITED
+B. SURFACE 320/03 N
+6,080
+320785 NW
+....
+...v.

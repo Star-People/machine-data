@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:41:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5132771, "source_ctime_ns": 1793378191538654440, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967121/0223.jpg", "source_mtime_ns": 1785696557000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967121/0223.jpg", "source_sha256": "aafc20af143e5c4f005d31fdd1cff005ae2570f710df81addb9a2e43e1a39019"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 829, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+22
+August 1956
+3. DATE-TIME GROUP
+Locol
+2100 (n)
+GM T
+23/9200Z
+3. PHOTOS
+• Yos
+7. LENOTH OF ODSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dayton,
+Ohio
+4. TYPE OF OBSERVATION
+I: Ground Visual
+• Air Visuel
+• SOURCE
+• Ground-Rader
+• Air-Intercopt Radar
+Civilian
+8. NUMBER OF OBJECTS
+varied
+one
+10.
+BRIEF SUMMARY OF SIGHTING
+many reports called in to OD. Light-
+like object crossing bak and forth
+over Dayton. Object ejected blue
+flame. No noise.
+12. CONCLUSIONS
+Was Balloon
+Probably Balleon
+Possibly Balloon
+Ox Was Aireraft
+Probably Aireraft
+Possibly Aircraf
+Was Astronomical
+Probobly Astronomica
+Possibly Astronomice
+9. COURSE
+Other.
+Insufficiont Date for Evaluation
+•
+Unknown
+varied
+11. COMMENTS
+A/C from Wright Field on photo
+mission over Dayton. Plane equipped
+with strong bluish light.
+ATIC FORM 339 (REV 26 UP 52)

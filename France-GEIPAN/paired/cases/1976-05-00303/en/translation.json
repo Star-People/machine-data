@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-2ed77a559f12471bda32a954",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-735d1985ad84351955dae920",
           "segment_index": 3,
           "source_segment_id": "seg-735d1985ad84351955dae920",
           "source_text_sha256": "a8a5482a09e309709acb5ae3779ff107b5d19f367c36707a899e260ab3d6e32a",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Poitou-Charentes",
           "translation_text_sha256": "1c7d1fe8d9a3f4a15f24eb5d4a19ff5ea3c5c06a01a1dd8d1b584c47f7401034"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-2ed77a559f12471bda32a954",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-6de6be35c31959a49f579bd1",
           "segment_index": 4,
           "source_segment_id": "seg-6de6be35c31959a49f579bd1",
           "source_text_sha256": "1970961306ce13e7fa0f3d3b9a298e8cc7d7f6eb4b86f200d5493894b7d46ac6",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Charente-Maritime",
           "translation_text_sha256": "81aee3a2800f4af5fb93ccf9fc20c6a4312ab74136839bbbe9f8520e7f9defe6"
         },
@@ -114,8 +114,8 @@
           "source_text_sha256": "99900c51c71c36a2a52d8f84b280bd72f1dbe6b6c147d45eacda8922dbe78274",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Phenomenon Type: Identified but unspecified",
-          "translation_text_sha256": "0f68bd0fdb1d7a3497ed7bf1bc9edf9a02576a951db17c43c4da69dd5a5c16cf"
+          "text": "Phenomenon type: Identified phenomenon not specified",
+          "translation_text_sha256": "6623dd06c461c18a3473aa4060657096afedd77488afd0eba7002ae2480dbdcc"
         },
         {
           "end_ms": null,
@@ -123,59 +123,31 @@
           "field": "documents",
           "page_id": "page-2ed77a559f12471bda32a954",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-2a3b762855b08c2e9528a40a",
           "segment_index": 8,
           "source_segment_id": "seg-2a3b762855b08c2e9528a40a",
           "source_text_sha256": "879f0482523997a5dc678ccf68b9aec360ff9568ea801a9e53e3c9a205d27cb0",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 412 (1976309224).pdf",
-          "translation_text_sha256": "3690f72ea650253c93c633b89bf430be75f77a69c616e4847a68d7bf2bfe088e"
+          "status": "not-required",
+          "text": "Documents: PV n°412 (1976309224).pdf",
+          "translation_text_sha256": "879f0482523997a5dc678ccf68b9aec360ff9568ea801a9e53e3c9a205d27cb0"
         },
         {
           "end_ms": null,
           "error": null,
           "field": "testimonies",
           "page_id": "page-2ed77a559f12471bda32a954",
-          "qa_findings": [
-            {
-              "added_in_translation": [
-                "1976-05-24",
-                "1976-05-24"
-              ],
-              "check": "dates",
-              "missing_from_translation": [],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "1976",
-                "1976",
-                "24",
-                "24",
-                "5",
-                "5"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [
-                "24.05.1976",
-                "24.05.1976"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "not-required",
           "segment_id": "seg-fb1e77e8f5a349b217165f5e",
           "segment_index": 9,
           "source_segment_id": "seg-fb1e77e8f5a349b217165f5e",
           "source_text_sha256": "9fa7a1bead1f0c94afee52e79f4cc448fdf53083b20208b9027a2a2146072b49",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Testimonies: BROUSSE (LA) (17) 05/24/1976 T1 BROUSSE (LA) (17) 05/24/1976 T2",
-          "translation_text_sha256": "f5d194cb123aa504b623601c2fdbbbb2cb1cea4d43695eb4bbe07e823f71e97b"
+          "status": "not-required",
+          "text": "Testimonies: BROUSSE (LA) (17) 24.05.1976 T1 BROUSSE (LA) (17) 24.05.1976 T2",
+          "translation_text_sha256": "6f46b554aa4dd9fb7a5228a8a3f9950753035e300eeb9c5ec3b80fb96c02f423"
         },
         {
           "end_ms": null,
@@ -190,8 +162,8 @@
           "source_text_sha256": "92831930f688eb3868332232fd594a4fdfcf7c24459150e6e030afd81418bfc7",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Summary: Possible observation of aircraft movements.",
-          "translation_text_sha256": "1e93cdc75dcef57b3c9ae757b6d174e00c63a10f7f7ec4ce197bad0a4f41ef77"
+          "text": "Summary: Probable observation of aircraft movements.",
+          "translation_text_sha256": "fb52a1cdc6bebfee5ec4941acac6760a473b0fbd128a5b156c2a4c88a9b4bcba"
         },
         {
           "end_ms": null,
@@ -218,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-26T15:34:55Z",
+    "generated_at": "2026-11-16T08:02:42Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

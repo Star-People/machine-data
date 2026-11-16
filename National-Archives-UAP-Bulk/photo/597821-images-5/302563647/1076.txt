@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:29:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1274242, "source_ctime_ns": 1793392052425417113, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563647/1076.jp2", "source_mtime_ns": 1785808236000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563647/1076.jp2", "source_sha256": "9a7b9cb7a123c1a6c715dcfa5261a396cc2f8ea7379deb66eca7e570906bcc4b"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 624, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Proj: 5992D - STAR TREK - Weather Data Sheet
+SSgt Dunham
+Additional Surface Data -
+January 23, 1968.
+Station
+72405
+Time (L)
+Wind (kts)
+2000
+350/16021
+72406
+2000
+320/12
+72405
+72406
+72405
+72406
+2100
+2100
+2200
+2200
+320/13G21
+310/13
+320/16G24
+310/13
+Visibility&wx Sea Ivl Pres(mosTemp & Dewpt
+1013•5
+37/23
+15
+75--
+15
+1013.5
+1014.2
+1014.1
+37/30
+37/25
+37/28
+7S-
+15 SN-
+1014.6łź
+1014.8ęłŚ
+36/23
+36/25
+Sounding No. 17 - New Winchester, Ohio: March 26, 1967
+Altitude (ft)
+Wind
+Direction
+Wind
+Speed (kts)
+URFACE (160OL)
+210
+10
+6,000
+10,000
+16,000
+20
+100
+30,00ą
+50.00șęŚ₴
+80.00ął
+210
+220
+230
+260
+270
+280
+210
+22
+29
+20
+20
+31
+35
+8
+1500L.

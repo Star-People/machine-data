@@ -8,7 +8,7 @@
   "document_id": "doc-11321ab038f3e37a796b82ed",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-29T00:14:40Z",
+    "generated_at": "2026-11-16T08:13:18Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-06-00310/case.html",
-    "bytes": 19132,
+    "bytes": 19150,
     "canonical_source_identifier": "GEIPAN:1976-06-00310",
     "case_metadata": {
       "classification": "A",
@@ -244,7 +244,7 @@
     "original_title": "JONCY (71) 25.06.1976",
     "relative_path": "cases/1976-06-00310/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "7191070a5ae3f2472229816194a1c9b9409fca809889daefb3f0a6d30f8153e6",
+    "sha256": "75f1838d978b793d382338ada8762bf548723604fbac6ba9438432554daa29f6",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-06-00310"
     ]

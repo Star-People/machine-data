@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00313/case.html",
-    "bytes": 18282,
+    "bytes": 18300,
     "canonical_source_identifier": "GEIPAN:1976-07-00313",
     "case_metadata": {
       "classification": "C",
@@ -40,7 +40,7 @@
     "original_title": "AVALLON (89) 07.07.1976",
     "relative_path": "cases/1976-07-00313/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "dd6b46f4d9a30141b6309ebca2b434a16ed2fcb98b4071fbd637f9735eff95ee",
+    "sha256": "4d9b69b611b039300ad4558c792d18a1a18b7704149624aea7dcb354544bb8bd",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00313"
     ]

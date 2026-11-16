@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:45:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6171800, "source_ctime_ns": 1793362983042619624, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0250.jpg", "source_mtime_ns": 1785685054000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0250.jpg", "source_sha256": "7f873d69658d42dd95cde09efdfab0d36e9cb0e12d6f69c6c5a86457c03bd35f"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 573, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONTI
+10. Mr. CULINER stated that he did not discuss what he saw with
+any of his neighbors and did not hear any reports from other persons
+indicating that they may have observed the same or objects similar to
+those seen by him.
+1l. Attention is directed to the fact that Mr. CULINER described
+No. 2267 Creston Avenue as being located between 183rd and 184th Street
+whereas such address is physically located between 182nd Street on the
+South and 183rd Street on the north.
+Cholesomess
+CHARLES SOMMERS
+Colonel, USAF
+District Commander
+Declassification Authority: NND 923007

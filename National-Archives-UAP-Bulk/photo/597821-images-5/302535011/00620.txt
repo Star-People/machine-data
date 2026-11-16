@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:32:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1625728, "source_ctime_ns": 1793388976540120066, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00620.jp2", "source_mtime_ns": 1785808580000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00620.jp2", "source_sha256": "b91b2df33a0ecb57a8a970fa5b3b615c020dae80d22e6734b3cc6e4afb6f1e37"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 577, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCOMING
+MESSAGE
+DEPARTI
+IT OF THE AIR FORCE
+UNCLASSIFIED
+AF IN : 5468 (18 Aug 64) N/JeJ
+INFO : NIN-
+XOP--,
+XOPX-7,
+DIA-15, JCS-35, OSD-15ÍŘÍ
+SAF-OS-3
+NSAT
+Pg 1 of 2
+ARMY-2, NAVY-2, CMC-9,
+-104-
+E
+DISREGARD THIS ONE WILL SEND OVER
+SMB C 108
+Z CZCHQA 864Z CCJB 173
+00 RUEAHQ
+DE RUHPF B804 18/09282
+Z NR
+0 1809282
+FM COMBARFORPAC
+TO RUKACR /COMAL SEAFRON
+RUKDAG/COMALA IRCOM
+RUHLKM/CINCPACAF
+ZEN/CINCNORAD
+INFO RUECW/CNO
+RUEAHQ/COFS USAF
+RUHL HQ/CINCPAC
+RUHLHL /CONCPACFLI
+RUHLHS/CINCUSARPAC
+OS
+OSA
+OSP
+US
+RR
+ILA
+ILI
+ITS
+se
+OT
+DSUG
+RUHLKSA/PACAFBASECOM COMMAND CENTER HICKAM AFB

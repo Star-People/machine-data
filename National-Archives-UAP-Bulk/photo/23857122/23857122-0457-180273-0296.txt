@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:04:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17508624, "source_ctime_ns": 1793356674717150221, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0296.tif", "source_mtime_ns": 1785564740000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0296.tif", "source_sha256": "62f11a98b361a6a111f801ec7aa8e4c50087ddb6fa2071e85424d6a6890c267e"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 374, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident 1170 -- Adapazari, Turkey = c. 5 Lay 1948
+It is extremely unlikely that there is any astrono-
+mical explanation for this incident. The information given is
+very limited, but it points definitely to the probability that
+the object or objects sighted were rockets. The report indicates
+that one rocket-like object was recovered.
+Declassification Authority: NND 57565

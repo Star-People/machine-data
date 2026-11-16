@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:40:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4929574, "source_ctime_ns": 1793359454713282559, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-023-0002.tif", "source_mtime_ns": 1785681418000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-023-0002.tif", "source_sha256": "1cf6967bb3265b39b58ddc3b5d8606b1fa08617f4d75202e44e1f94f154234c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 472, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+DE RJEDEN 009P
+212120Z
+FM COMDR 4602D AISS ENT AFB COLO
+TO COMDR 669TH ACRON PORHUE CALIF
+BT
+/UNCLASSIFIED/ AISOP 0495 PD REF URMSG 6690EEEEEE 6690PS 086Y PD
+UFOB PD INSUFFICIENT DATA IN PRELIMINARY REPT FOR ACCURATE
+ANALYSIS PD IN ACCORDANCE WITH PARA 6A CMM AFR 200-2 IT IS
+REQUESTED THAT UYOREEEEEEE YOUR ACTIVITY TELEPHONICALLY
+ASCERTAIN AND FWD THIS HQ BY TT MSG ALL ITEMS OF PARA 7D CMM
+AFR 200-2 PD END
+212118Z
+AOZY
+MAY RJEDEN

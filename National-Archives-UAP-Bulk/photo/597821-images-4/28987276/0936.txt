@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:52:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7354789, "source_ctime_ns": 1793383560491657167, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987276/0936.jpg", "source_mtime_ns": 1785748087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987276/0936.jpg", "source_sha256": "7b1e65c9476bfc6bcd5d9da74038a0665107fc6216da599b8ac0cfbb6a05faad"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 814, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+17 Jun 60
+3. DATE-TIME GROUP
+Local
+GM T
+18/0328z
+S.
+PHOTOS
+• Yos
+& No
+7. LENGTH OF OBSERVATION
+Not given
+10. BRIEF SUMMARY OF SIGHTING
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Greenville AFB, Mississippi
+4. TYPE OF OBSERVATION
+I Ground-Vi sual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+Military
+8. NUMBER OF OBJECTS
+one
+Very large yellow ball with broken tail which
+had a green fringe, turning to bright yellow-
+white as it approached the horizon where it
+burned out.
+12. CONCLUSIONS
+o
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+•
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical Meteor
+•
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+W
+11. COMMENTS
+Description is typical of a meteor.
+ATIC FORM 329 (REV 26 BEP 52)

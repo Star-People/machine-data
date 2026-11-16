@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-04-00300/case.html",
-    "bytes": 18901,
+    "bytes": 18919,
     "canonical_source_identifier": "GEIPAN:1976-04-00300",
     "case_metadata": {
       "classification": "B",
@@ -40,7 +40,7 @@
     "original_title": "EYMET (24) 24.04.1976",
     "relative_path": "cases/1976-04-00300/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "ec5ca81dbc418cc4c9e8baccfc813a345a38cf32ba9b580498dda75b04b1677d",
+    "sha256": "d97d9ef3501c6e835b2fe1dec2cc92c09bec8cbb4e3bb6f6f306a35af9895127",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-04-00300"
     ]

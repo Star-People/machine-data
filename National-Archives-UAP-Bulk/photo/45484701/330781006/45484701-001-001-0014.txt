@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:50:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7147117, "source_ctime_ns": 1793361612372039834, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0014.jpg", "source_mtime_ns": 1785684838000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0014.jpg", "source_sha256": "4159f33a1878c89ae2bb7462953d50b93dd7a58a83490de63c38db250a8f5ca5"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 957, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Special Agent JACK 5. MARTIN
+Hamilton Detachment
+Hos, 19th OSI Dist (IG), Fairfield-Suisun AFB
+190 0SI 24-28
+COORDINATION
+13 Oct 1949 co
+DEPUTY CO
+From the method in which this investigation has been handled,
+it appears that instructions to contact individuals and sketches to be
+obtained, were not complied with, and you not only did not comply with
+instructions but tried to fix up your report from a cursory review of the
+case which, in itself, was completely inaccurate.
+This case will be given
+the most expeditious priority and returned to this Headquarters, and
+instructions will be fully complied with.
+BY ORDER OF LT COLONEL KING:
+EX OFFICER
+CHIEF AGENT
+FILE CLERK
+1 Incl
+Rpt of Invest on SUBJECT
+Case (8 copies)
+STAT CONTROL
+BRYDEN E. MOON
+Captain,
+US AF
+Chief, Investigations Branch
+AGENT
+ORIGINATOR
+CHIEF CLERK
+DET COMDR
+24 28
+UNITED STATES AIR FORCE
+0210 в, за 9 N N
+OSI 124-10
+(25 Aug 48)
+SMAMA
+-5M (30a)
+Declassification Authority: NND 923007

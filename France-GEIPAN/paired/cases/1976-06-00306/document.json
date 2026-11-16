@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-06-00306/case.html",
-    "bytes": 18421,
+    "bytes": 18439,
     "canonical_source_identifier": "GEIPAN:1976-06-00306",
     "case_metadata": {
       "classification": "C",
@@ -40,7 +40,7 @@
     "original_title": "DIEPPE (76) 18.06.1976",
     "relative_path": "cases/1976-06-00306/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "e73a3468e946dca8d7333efa2216f537878cbabd94c221b981316ab5ba3145ad",
+    "sha256": "ef13cc88a96b4669ba730172a99a452917a4ab1135f284f26a1800571e4313a1",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-06-00306"
     ]

@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:59:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10376706, "source_ctime_ns": 1793359929930560651, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-045-0001.tif", "source_mtime_ns": 1785681571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-045-0001.tif", "source_sha256": "f5e99127cec290a151a64b4f2b1f1d91caa3a7c719993f9c8d5e5e1a17e16b9a"}
+
+===== PAGE 1 =====
+{"alpha_words": 159, "chars": 1402, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+07052
+EN0001 ENC082 YMC017
+AEA032 AEJ001
+RR RJEDEN RJEDWP RJEPHQ
+DE RJEDAE 1J
+R 140300Z
+FM COMDR 676TH ACWRON ANTIGO WISC
+TO
+RJEDEN/COMDR
+ADC ENT AIR FORCE BASE COLORADO SPRINGS COLORADO
+RJEDAE/COMDR 37TH AIR DIV TRUAX FED MADISON WISC
+REDP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+RJEPHO/DIRECTOR OF INTELLIGENCE HEADQUARTERS USAF WASHINGTON 25, D C
+(UNCLASSIFIED) ANOPS 08-098 PD UFOB PD
+(1)
+(A) ROUND WITH A FLAT BOTTOM
+(B) 18 TO 20 FEET
+(C) SILVER-METALIC
+(D) 1
+(E) N/A
+(F) NONE
+(G) NONE
+CH)
+NONE
+(I) NONE
+4602D AISS UROB REPT.. 2165
+DATE-TIME GROUP 13/2315 Z Aug 52
+HERMANVILLEN, MICH
+SEND 64
+(2)
+(A)
+N/A
+(8) 45 DEGREES
+Returned by P.O.
+( C)
+45 DEGREES
+Unable to contset
+(E)
+OBSERVOR STATED IT JUST FADED AWAY
+(D) MOVING SOUTH IN STRAIGHT LINE -HOLDING ALTITUDELdE~
+(F)
+20
+(3)
+(A) GROUND-VISUAL
+(8) NA
+Insuffizient Aste
+(C) N/A
+for ensluation
+(4)
+(A) 13 AUGUST 23157.
+(B) DAY
+(C) N/A
+(5) NOC HIGHWAY 2, 10 MILES NORTH OF HERMANVILLEN MICHIGAN IN CA2050
+(A) CIVILIAN--
+AND WIFE
+RESPECTIV ILY.
+HE IS THE TITH DISTRICT CHAMBER OF COMMERCE
+7 NAGES 52 AND 53
+(7)
+(A) NONE
+(B)
+280/25, 290/35, 280/401 280/45, 270/70, 270/40
+(C) 300
+SCATTERED
+(D) 15 MILES
+(E) UNKNOWN
+(F) NONE
+(8) NONE
+(9) NONE
+(12) NEGATIVE TRAFFIC
+€112
+SENIOR DIRECTOR *IST LIP USAF
+ANY
+CONCLUSSIONS
+012) NONE
+INFORMATION INSUFFICIENT TO DRAW
+14/0420Z RKSFUS U AUG RJEDAE

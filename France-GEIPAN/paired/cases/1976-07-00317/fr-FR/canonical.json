@@ -8,7 +8,7 @@
   "document_id": "doc-0de1d8a9b4cd8ce05831f7d0",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-28T21:19:27Z",
+    "generated_at": "2026-11-16T08:34:28Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00317/case.html",
-    "bytes": 19112,
+    "bytes": 19130,
     "canonical_source_identifier": "GEIPAN:1976-07-00317",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "SAINT-GEOIRE-EN-VALDAINE (38) 11.07.1976",
     "relative_path": "cases/1976-07-00317/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "b0f2de6e04273269af1b02e8971c5300c8309d2fef6b36043fd89206fc01c5a3",
+    "sha256": "a0ef0ed111a6c497e256a1ff919c6d835d999c2678b3fde7fabd219187985e41",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00317"
     ]

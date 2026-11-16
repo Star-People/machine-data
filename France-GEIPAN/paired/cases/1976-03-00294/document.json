@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-03-00294/case.html",
-    "bytes": 18462,
+    "bytes": 18480,
     "canonical_source_identifier": "GEIPAN:1976-03-00294",
     "case_metadata": {
       "classification": "C",
@@ -40,7 +40,7 @@
     "original_title": "ROANNE (42) 29.03.1976",
     "relative_path": "cases/1976-03-00294/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "b2500b6e833e52c635854162f7d2c704777dbe73ad19abdcebfc1d4618be9776",
+    "sha256": "bb9b2bd64b98a58a6f9ac6ca34a1ed2e9a4402ecde538ed7ba0e59e7cf17eaf1",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-03-00294"
     ]

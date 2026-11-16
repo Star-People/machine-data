@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00316/case.html",
-    "bytes": 18697,
+    "bytes": 18715,
     "canonical_source_identifier": "GEIPAN:1976-07-00316",
     "case_metadata": {
       "classification": "C",
@@ -40,12 +40,12 @@
     "original_title": "EPINAL (88) 10.07.1976",
     "relative_path": "cases/1976-07-00316/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "7a85860d8e408501dc61827fe5e10a9028fb8eec46b0e447e840ea9682d80f9f",
+    "sha256": "785eca38b82e49c13d8443651e03bf3a4fb9f649640149005d35c67543570e7c",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00316"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

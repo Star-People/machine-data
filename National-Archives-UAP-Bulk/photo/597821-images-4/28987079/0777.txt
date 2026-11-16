@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:58:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8909017, "source_ctime_ns": 1793383477786264699, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0777.jpg", "source_mtime_ns": 1785747891000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0777.jpg", "source_sha256": "0bbc6c01eab40da1ad764e23fc13c843ed5196519e4cc18f3093a34d643fc329"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 612, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INTRODUCTORY COMMENTS OF ONE M
+it 0315Z hours, 1 June 1960, set out to obtain
+a telescopic picture of the moon. He observed the planet Jupiter to be
+very bright and for approximately 45 minutes he studied Jupiter with the
+aid of a 120X 4 1/2" reflector telescope. At no time did
+observe in the heavens an unidentified flying object; however, he did feel
+that to the casual observer, the planet Jupiter could present an optical
+illusion, especially when viewed without an appreciable optical aid.
+The
+period of observation was discontinued after 0400Z hours, 1 June 1960,
+due to cloud forms obstructing the view.

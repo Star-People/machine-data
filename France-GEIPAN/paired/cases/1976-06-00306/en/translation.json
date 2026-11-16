@@ -43,15 +43,15 @@
           "field": "region",
           "page_id": "page-d0223bc34a04e4172e64ac4d",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-1c0e100abff9045db32fc67a",
           "segment_index": 3,
           "source_segment_id": "seg-1c0e100abff9045db32fc67a",
           "source_text_sha256": "23f09fae6b94105ae047e860d5386e7a1f2488d4420da472bdf70bec2329bb83",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Region: High Normandy",
-          "translation_text_sha256": "cf1807e800a3b36b88691394b51d764d43a928b893ebca0d7ea341a77a29433a"
+          "status": "not-required",
+          "text": "Region: Haute Normandie",
+          "translation_text_sha256": "b0dc78e1cd113ad8dc70c38d59940e2a34991566afdfcbea262486a9795f34c4"
         },
         {
           "end_ms": null,
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-d0223bc34a04e4172e64ac4d",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-10f84b535841a7432b7d8643",
           "segment_index": 4,
           "source_segment_id": "seg-10f84b535841a7432b7d8643",
           "source_text_sha256": "aa5d4d50adbff50c5a46dfde7d4777e8b6024caf9487f0bcfc16ecb4d09e4279",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Seine-Maritime",
           "translation_text_sha256": "efc5408a219e99f365725acb3d6f07bd22d2ad42103b8625b3ad7f2114c8f7b0"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-d0223bc34a04e4172e64ac4d",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-0326feaeb40953fa2180adb0",
           "segment_index": 8,
           "source_segment_id": "seg-0326feaeb40953fa2180adb0",
           "source_text_sha256": "c700a8ac9b36729a058b43179f58a609125daa31faf8c775eb8cc370cb773781",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 1125 (1976309218).pdf",
-          "translation_text_sha256": "98eeb8339653eda03304a5abdbc9027da0d1b1326751cf87524ecdfaa595e4c3"
+          "status": "not-required",
+          "text": "Documents: PV n°1125 (1976309218).pdf",
+          "translation_text_sha256": "c700a8ac9b36729a058b43179f58a609125daa31faf8c775eb8cc370cb773781"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-d0223bc34a04e4172e64ac4d",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-e8149f77fe277e4cad3487f8",
           "segment_index": 9,
           "source_segment_id": "seg-e8149f77fe277e4cad3487f8",
           "source_text_sha256": "38054fd5a7c18e48aaea0761f3545f50dba3855d2e729b2344614e00bd88164c",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: DIEPPE (76) 18.06.1976",
           "translation_text_sha256": "73f22c681a136726372213932c2b84499c9b712b85e66eb6195053bf217eff81"
         },
@@ -178,8 +178,8 @@
           "source_text_sha256": "0db2eca5f56adc6a277d9f4754729a664901ce754b4b680547a163f75db36a78",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Description: On June 18, 1976, around 9:30 PM, two individuals observed a luminous object in the sky that intrigued them. The object was shaped like a cigar and quite long. It flew at a low altitude and maintained a steady speed along a northeast-southwest trajectory. No sound was heard. Only one report of this phenomenon was collected, for which we have limited information.",
-          "translation_text_sha256": "8d3d8ebfbf18ac0d3f84319414d2365baba7a68ebc551cf84e27c9da2e4aab2e"
+          "text": "Description: On June 18, 1976, around 9:30 PM, two individuals observed a luminous craft in the sky that intrigued them. It was in the shape of a cigar and quite long. The craft flew at a low altitude and at a steady speed along a trajectory from northeast to southwest. No noise was heard. Only one testimony about this phenomenon was collected, for which we have limited information.",
+          "translation_text_sha256": "02a3c81743bd9ccdd2c01bf34e9a0222275c3312077c63457f96c40b365d60d7"
         }
       ],
       "source_page_id": "page-d0223bc34a04e4172e64ac4d"
@@ -190,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-25T20:04:31Z",
+    "generated_at": "2026-11-16T08:08:00Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
     "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

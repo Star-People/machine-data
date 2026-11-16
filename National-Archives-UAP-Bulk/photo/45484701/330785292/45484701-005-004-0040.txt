@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:55:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8318529, "source_ctime_ns": 1793363430650949972, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0040.jpg", "source_mtime_ns": 1785684652000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0040.jpg", "source_sha256": "1de0b0a3fb595a41d4c1d6693cb0c0d1f9b03710bab18ac50fac3603fa83d89a"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 79, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+(IS) Tee ma
+1937 SEP 23 17:
+EP 1957
+S&E
+13BRANCH
+COUNTER INTEL DIV 13/63/02 23

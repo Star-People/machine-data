@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:42:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5353171, "source_ctime_ns": 1793377536011247572, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964180/0587.jpg", "source_mtime_ns": 1785696624000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964180/0587.jpg", "source_sha256": "faa0c25c3c2935423417aaca5f809ffbb1e801214ea002f95a5f639675e4afb7"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 875, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+8 NOV
+55
+3. DATE-TIME GROUP
+Local.
+GM T.
+09/03242
+5. PHOTOS
+• Yes
+30 No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Malad City, etc
+Idano - - Idaho Falls, Arco, M
+-
+TYPE OF OBSERVATION
+* Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+SOURCE
+civilian
+8. NUMBER OF OBJECTS
+few seconds
+1
+10. BRIEF SUMMARY OF SIGHTING
+One oblong obj falling into the ground.
+Initial flash attracted observers attention.
+Obj appeared to explode.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+•
+•
+Was Aircraft
+Probably Aircraft
+Possibly Aircraf
+Was Astronomical Meteor
+Probably Astronomica
+Possibly Astronomica
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+falling
+11. COMMENTS
+Observation over general area of
+Souther Idah. Description and
+wide area of observation indicates
+meteor observation.
+ATIC FORM 329 (RXV 26 SEP $2)

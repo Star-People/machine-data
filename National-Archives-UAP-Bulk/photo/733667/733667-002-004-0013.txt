@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:32:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1462879, "source_ctime_ns": 1793394300080156701, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-004-0013.jpg", "source_mtime_ns": 1785567351000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-004-0013.jpg", "source_sha256": "31d24c93b28924e9b708e1730113996f11f779c2b2db15a42e38f590e98c22f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 245, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+Marshall Jacobowitz
+306 B.5th St #24
+N.Y.C.. 10003
+2/26/87.
+F.A.Aї
+Dear Sirs,
+Could you please send me your form summarizing
+the U.F.O. sighting of jaI capt. K. Terauchi on Nov
+IT. Thank you very much.
+Sincerely YourẠỊ
+aulne
+Marshall Jacobowitz

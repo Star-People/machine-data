@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:48:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6779639, "source_ctime_ns": 1793380039207695848, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974321/0819.jpg", "source_mtime_ns": 1785700984000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974321/0819.jpg", "source_sha256": "4a7b34dd77c8974fecfef5abd20b6fb8508427581ef3e7e01be9af503b35e12f"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 954, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+OVember
+3. DATE-TIME GROUP
+Local
+GHT
+S. PHOTOS
+1957
+21002
+• Yes
+O No
+7. LENGTH OF OBSERVATION
+5 minutes
+10. BRIEF SUMMARY OF SIGHTING
+Five round objects, the size of planet
+Venus. One twice as big as the others.
+White. One in lead, four in inverted
+U shape, larger one behind.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Seneca
+4. TYPE OF OBSERYATION
+• Ground- Visual
+• Air
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+DEXProbably Aireraft
+Possibly Aircraft
+000
+000
+Was Astronomical
+Probably Astronomical
+Possibly Astronomicol
+Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+SE
+11. COMMENTS
+Everything points to objects
+being aircraft. Straight level
+travel apparently at very high
+altitude & long duration of
+sighting. Plus the fact that
+observer sighted objects on
+same heading and track as an air
+way.
+ATIC FORM 329 (REV 26 SEP 52)
