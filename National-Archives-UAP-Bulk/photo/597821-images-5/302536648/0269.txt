@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:27:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1007545, "source_ctime_ns": 1793389120292154774, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536648/0269.jp2", "source_mtime_ns": 1785808220000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536648/0269.jp2", "source_sha256": "800992eefe32b37deaf561c94988076d92f28f6f3ad4d3485cc8fea35eb3327f"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 539, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IN COING
+MESSAGE
+DEPARIMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+AFIN: 42485 (19 Nov 64)T/p1c
+ACTION: NIN-7
+INFO
+: XOP-1, XOPX-7, SAFOS-3, DIA-15 (34)
+SMB B282
+SUSPECTED DUPLICATE
+ZCZCHQD 557ZCC JAØ38
+00 RUEAHQ
+ZFD RUHP
+PJB 631
+OO RUEAHQ RUECJD RUHPHH RUHLHL RUWGALB RUWSJ
+DE
+RUHPJ 631 19/1949Z
+ZNR
+• 191919Z
+FM. USCGC MATAGORDA
+TO RUEAHQ/COFS USAF WASHDC
+ZEN/KCGD FOURTEEN
+RUHPHH/06JY/CTF THREE SIX
+RUWGALB/CINC NORAD
+RUHLHL/CINCPACF LI
+INFO RUECJD/COMDT COGARD
+RUWSJ/COMWES TAREA COGARD
+SATELLnE
+UNCLASSIFIED
+19/1900 Page 1 of 2
+UNCLAS

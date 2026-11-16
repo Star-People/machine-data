@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:46:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4547784, "source_ctime_ns": 1793380393188857954, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975728/00578.jpg", "source_mtime_ns": 1785700767000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975728/00578.jpg", "source_sha256": "aa2dfb0cdbb183ef49167763ce270e3341407251e4a4c1e6cc8cdda3b063a274"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 507, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TO RJEDDN/COMDR ADC
+RJESKB/COMDR 35TH ADIV
+RJEDSQ/COMDR AIR TECH INT CNTR
+RJEPHQ/COMDR OF INT
+INFO RJEPNB/COMDR EADF
+BT
+23454
+3 - 4x2ap
+//UNCLASSIFIED//OPS 0679 PD UFOB PD ATTN: EADF CIO PD
+A•
+ROUND
+B. PARGE LIGHT BULB
+C.
+SILVER
+D. ONE
+E. NONE
+F. BRIGHT IN COLOR
+G. NONE
+H. NONE
+I. NONE
+PAGE TWO RJESKB 5D
+2. MOVING SLOWLY
+10
+NOTHEAST
+A. LOOKED UP
+B. UNKNOWN 7 eleVATiON
+AZIMUTA
+C. UNKNOWN.
+D. STRAIGHT PATH
+FADE FROM VIEW
+15 MINUTES
+3.
+A. GROUND VISUAL
+B •
+BINOCULARS
+DIRECTLY OVERHEAD PD
+NOTe: BINOcUlArS

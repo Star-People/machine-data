@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:45:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4491833, "source_ctime_ns": 1793388219019757249, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000472/0756.jpg", "source_mtime_ns": 1785748359000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000472/0756.jpg", "source_sha256": "2ad5c719497c7fc4c899322397e51d8039decd26b091dc4321348c2187d08183"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 774, "method": "ocr", "page": 1, "variant": "plain-vision"}
+23/March 1763
+Apr11 12, 1963
+0-4.2źął
+Decatur, Georgia
+Dear "
+We are referring your report of April 5, 1963, of the sighting of a
+meteor-like object to the Foreign Tachnology Division, Wright-Patterson
+Air Force Base, Ohio, for their information, and any reply they may
+consider appropriate.
+Such phenomena are outside our area of study and activity. Therefore,
+we do not believe it is appropriate for us to try to identify the
+phanomenon you saw.
+We can only speculate that the most probable ex-
+planation is that it was a meteor, but we have no other raports that
+would belp us prove or disprove this possible axplanation.
+Sincerely yours,
+A. K. Showalter
+Chief, Observations and
+Station Facilities Division
+cc :
+Wright-Patterson AFB (with
+• letter)
+PPStarke: ejs 4/12/63

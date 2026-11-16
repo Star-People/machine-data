@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:45:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4483187, "source_ctime_ns": 1793354472378638882, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0002.jpg", "source_mtime_ns": 1785564291000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0002.jpg", "source_sha256": "6227e6e5539d05ca3df56bf3eedd7d45a6fba83fc77c9c008d5caf9c69b345b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 230, "chars": 1854, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Consultantships:
+Publications:
+Field Experience:
+Overall Career:
+Accomplishments:
+January 1991
+1955 - 58 Vice Chairman, Arctic Committee, USNC for IGY
+1954 - 58 Member, Ionospheric Panel; Rocket and Space Panel, USNC for
+IGY
+1955 - 58 Chairman, Advertising Committee, American Geophysical
+Union (AGU)
+1954 - 55 Assigned by AGU to negotiate with Merle Tuve for transfer of
+Jour Geophys Research from Carnegie Inst Washington to AGU
+1956
+Department of Defense, Washington, DC
+1956
+National Academy of Sciences, Washington
+1959 - 60 Lincoln Laboratory, MIT, Lexington, Mass
+1960 - 65 Advanced Research Projects Agency, Washington, DC
+1966 - 69 Syracuse University Research Corp, Syracuse, NY
+1968 - 70 Mitre Corp, Bedford, Mass
+See Attachment for partial listing
+Implemented field experiments in Arctica (from Greenland to Alaska) and
+Antarctica. Worked beyond polar circles a total of over four years, two years
+of which were within 700 km of North Pole, Period: 1946-1980.
+Actively engaged in research or the management of research on atmospheric
+problems (both more applied and more pure) during entire career.
+Stimulated ionospheric-auroral research in North America through direct
+sponsorship, initiation of Conferences, and personal investigations. Directly
+improved operational systems.
+U.S. Weather Bureau
+Responsible for all thermodynamic calculations routinely utilized in
+meteorology and weather forecasting. Completed first thorough
+evaluations of pseudo-adiabatic equations. Designed all thermodynamic
+charts needed to evaluate upper air soundings (used by USWB and Dept.
+Defense for decades--many still used today). Conceived and designed
+unique tephigram on 60 degree axes for meteorological purposes.
+Undertook first upper air wind determinations using wartime radar and
+resonant dipoles suspended below radiosonde balloons (Puerto Rico).
+2

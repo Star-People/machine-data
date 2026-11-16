@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:37:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3589899, "source_ctime_ns": 1793380682029443104, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977746/0893.jpg", "source_mtime_ns": 1785700798000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977746/0893.jpg", "source_sha256": "780182b7ada4e592c77ab43a47ad5e43095452ea40acbdc50dcb65ecf9a65f65"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1018, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+| 2. LOCATION
+11 Apr 5S
+3. DATE-TINE GROUP
+Lacal
+60 mi W of Argentia, Nwfind
+4. TYPE OF OBSERVATION
+3 Ground-Visual
+GMT.
+5. PHOTOS
+11/06152
+• Ground-Radar
+D Air-Intercept Radar
+XCT Air Visual
+&. SOURCE
+• Yes
+CANo
+7. LENGTH OF OBSERVATION
+Militar
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+• Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Ex Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+D
+Unknown
+15-20
+_sec
+one
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+Cockpit illuminated by
+brilliant
+obj
+Sputnik II did not decay until
+believed to be decay of Sputnik 2 by
+14 apr. Obj has dracteristics of
+witnesses on flight over Newfoundland. bolide observation of long
+Obj observed for. 15-20 secs.
+Intensity duration. Case evaluated as a
+of
+welding torch. A/c at 8,000 ft.
+meteor sighting.
+Obj disappated in shower of red sparks.
+No return on Radar.
+ATIC FORM 329 (REV 25 SEP 52)

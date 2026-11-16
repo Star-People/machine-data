@@ -8,7 +8,7 @@
   "document_id": "doc-10dba48c631ec160481bec95",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-27T02:50:04Z",
+    "generated_at": "2026-11-16T05:09:35Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-02-00287/case.html",
-    "bytes": 18698,
+    "bytes": 18716,
     "canonical_source_identifier": "GEIPAN:1976-02-00287",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "CHATEAURENARD (13) 05.02.1976",
     "relative_path": "cases/1976-02-00287/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "41da6459b4026a179e16e501cd3bb6d2605748405ea7f7fb378705e05b11571e",
+    "sha256": "d021bc8ccc2350905670db95e7f051b24af620e496b2df8dd3adcc9dd39b1f29",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-02-00287"
     ]

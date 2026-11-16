@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:03:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8768889, "source_ctime_ns": 1793379702633565707, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973241/01321.jpg", "source_mtime_ns": 1785700753000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973241/01321.jpg", "source_sha256": "f84b8bbe96b8938ab5d0e80f05f11d8306eff165440fc8e2bee653b8739f26ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 804, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+5
+ember 1957
+3. DATE-TIME GROUP
+Locol
+3. PHOTOS
+06/0425łęŚŘ
+• Yes
+A-No
+7. LENGTH OF.OBSERVATION
+1½ hours
+0. BRIEF SUMMARY OF SIGHTING
+white
+and down.
+ATIC FORM 329 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+01020,
+California
+TYPE OF OBSERVATION
+A Ground-Visual
+• Air Vi suol
+6. SOURCE
+• Ground-Rodor
+• Air-Intercept Rador
+Civilian
+8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+Was Bailoon
+Probably Balloon
+Possibly Bolloon
+Was Aircraft
+Probably Aireral
+Possibly Aireror
+Ex Was Astronomiedaldebara
+•
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluatior
+Unknown
+red,
+green and
+to right, up
+9. COURSE
+East
+11. COMMENTS
+Aldebaran
+was in the direction in
+which the
+observer
+was
+looking at
+an elevation of 20 dgrs and is
+believed to be the object under
+observation.

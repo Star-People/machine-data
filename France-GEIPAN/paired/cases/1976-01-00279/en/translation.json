@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-cd724b8d718a9e90bc666a78",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-eb3b2fc709309246511b5184",
           "segment_index": 3,
           "source_segment_id": "seg-eb3b2fc709309246511b5184",
           "source_text_sha256": "1786ec9a8865f151485f492911c4b514a5215317ea071774d40f0640c1c6143b",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Rhône-Alpes",
           "translation_text_sha256": "c9cc0fa3af182bbd563ccd8374e8a5d76e6e0256cbfc2fbffe43209815f49656"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-cd724b8d718a9e90bc666a78",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-0ec55c5e4e27ec64d00ceeab",
           "segment_index": 4,
           "source_segment_id": "seg-0ec55c5e4e27ec64d00ceeab",
           "source_text_sha256": "37299a808897bf89f72aa92c64573b9786d529a8297f28176885de666539784f",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Isère",
           "translation_text_sha256": "e70fdf5997d922fe784012994bb49012d65a95af187493682b2dd6da67a81228"
         },
@@ -123,74 +123,31 @@
           "field": "documents",
           "page_id": "page-cd724b8d718a9e90bc666a78",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-4a08ad6f7f5f4a53b3745d1e",
           "segment_index": 8,
           "source_segment_id": "seg-4a08ad6f7f5f4a53b3745d1e",
           "source_text_sha256": "33f8ca5001368e3fe48218f46423a020a2bc09b6b6d18a79f0ca6870ab8068c1",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 84 (1976309244).pdf",
-          "translation_text_sha256": "6f7d251c976b729fd5667ba55aac66f286854f797c21819816248db8acd6aed6"
+          "status": "not-required",
+          "text": "Documents: PV n°84 (1976309244).pdf",
+          "translation_text_sha256": "33f8ca5001368e3fe48218f46423a020a2bc09b6b6d18a79f0ca6870ab8068c1"
         },
         {
           "end_ms": null,
           "error": null,
           "field": "testimonies",
           "page_id": "page-cd724b8d718a9e90bc666a78",
-          "qa_findings": [
-            {
-              "added_in_translation": [
-                "1976-01-05",
-                "1976-01-06",
-                "1976-01-08",
-                "1976-01-13",
-                "1976-01-15"
-              ],
-              "check": "dates",
-              "missing_from_translation": [],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "1",
-                "1",
-                "1",
-                "1",
-                "1",
-                "13",
-                "15",
-                "1976",
-                "1976",
-                "1976",
-                "1976",
-                "1976",
-                "5",
-                "6",
-                "8"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [
-                "05.01.1976",
-                "06.01.1976",
-                "08.01.1976",
-                "13.01.1976",
-                "15.01.1976"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "not-required",
           "segment_id": "seg-2d00ebec04c1e0977e28f9ce",
           "segment_index": 9,
           "source_segment_id": "seg-2d00ebec04c1e0977e28f9ce",
           "source_text_sha256": "6781995d07da7c30d4a43dc393809a9a666109145af5669d784c84f024d58731",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Testimonies: DOMENE (38) 01/05/1976 T1 DOMENE (38) 01/08/1976 T2 DOMENE (38) 01/06/1976 T3 DOMENE (38) 01/13/1976 T4 BIVIERS (38) 01/15/1976 T5",
-          "translation_text_sha256": "59467af025e0710dfb8b15d553d764c239466bae2fcb4eef33cf5b62097f60f8"
+          "status": "not-required",
+          "text": "Testimonies: DOMENE (38) 05.01.1976 T1 DOMENE (38) 08.01.1976 T2 DOMENE (38) 06.01.1976 T3 DOMENE (38) 13.01.1976 T4 BIVIERS (38) 15.01.1976 T5",
+          "translation_text_sha256": "38968465c90af105e9dd07cb7c2483d701f6384344b24f5fca1836eec6e021f8"
         },
         {
           "end_ms": null,
@@ -213,26 +170,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-cd724b8d718a9e90bc666a78",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "numbers",
-              "missing_from_translation": [
-                "5"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-d31031607d78406af52dfde4",
           "segment_index": 11,
           "source_segment_id": "seg-d31031607d78406af52dfde4",
           "source_text_sha256": "da4cbd8e8b5a0e232d8b058f9b74b06d6b8c6234ad1f92664253338c6c49d73e",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: Following a local press article (not present in the archives GEIPAN), several people testified at the gendarmerie about their observations made during January 1976 (the date of January 5th is indicated for the first observation). Each witness observed a peculiar luminous phenomenon or object at different days, hours, and locations. One witness reported seeing a man emerge from a grounded craft and approach him. Frightened, the witness fled. He claimed to have encountered the same thing the next day. The gendarmerie found no traces or evidence on the scene to confirm or refute the brief statements of the witnesses.",
-          "translation_text_sha256": "62a9549f715461916aed9f45f229daf48a7f298d8bdffe191aaf5341af451ec8"
+          "status": "machine-unreviewed",
+          "text": "Description: Following an article in the local press (not present in the archives GEIPAN), several people testified at the gendarmerie about their observations made in early January 1976 (the date of January 5 is indicated for the first observation). Each witness observed a particular luminous phenomenon or object at different days, hours, and locations. One of the witnesses said he saw a man emerge from a craft sitting on the ground and walk towards him. Scared, the witness ran away. He said he had the same encounter the next day. The gendarmerie will find no trace or evidence at the scene that confirms or refutes the brief statements of the witnesses.",
+          "translation_text_sha256": "7aec3129f7962ceacbc2c5a5784b5d1c8725b90cb9aac2e2cf9ea3cf0cbf17ef"
         }
       ],
       "source_page_id": "page-cd724b8d718a9e90bc666a78"
@@ -243,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-09-05T15:07:37Z",
+    "generated_at": "2026-11-16T05:36:26Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

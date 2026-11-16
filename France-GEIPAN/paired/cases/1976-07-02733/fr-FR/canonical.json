@@ -8,7 +8,7 @@
   "document_id": "doc-f213809847e501efdb287780",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-25T14:43:41Z",
+    "generated_at": "2026-11-16T04:37:57Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-02733/case.html",
-    "bytes": 18372,
+    "bytes": 18390,
     "canonical_source_identifier": "GEIPAN:1976-07-02733",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "MIRAMONT-D'ASTARAC (32) 19.05.1976",
     "relative_path": "cases/1976-07-02733/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "5d28ac27c43fc555a0f8d52af6974782b211642e83e40b3300b2f6da077b42aa",
+    "sha256": "c991b07dae677ebc295740af30e76650a193f6cff63935ba23ce9bfdb5e806c5",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-02733"
     ]

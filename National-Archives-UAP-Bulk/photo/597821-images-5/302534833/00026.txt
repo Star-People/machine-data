@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:30:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1633048, "source_ctime_ns": 1793388947244483062, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534833/00026.jp2", "source_mtime_ns": 1785808074000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534833/00026.jp2", "source_sha256": "308a9de2b44ff59a7fa4e7334c82475c841382250eec6392dc20bd84d5b3ff96"}
+
+===== PAGE 1 =====
+{"alpha_words": 168, "chars": 1068, "method": "ocr", "page": 1, "variant": "plain-vision"}
+READQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+ATTERSON AIR FORCE BASE, OHIO
+ATTN OF: COX
+sumich: Extract from Duty Officers Report
+28 Jul 64
+TO: IDEW
+The following, extracted from Capt Hartke's OD Report dated 27 Jul 64,
+is quoted for your information:
+Ạ¿2150 hours, UPO report from M
+2155 hours, UTO report from Mrs
+0027 hours, Received call from Maj Cottrell at USA?.
+He received
+this message. At 0025, MSgt Burgess at ATC command post passed this UFO
+report.
+Mrs.
+called Lazedo ArB to report an object passing
+Souch to North at a high rate of speed. It was similar to a star but
+larger and very bright.
+The sighting took place at 28 July, 02482.
+Two
+ai: policemen A/3C Patterson and A/1C Creach also observed object, but
+would give no estimate of speed to the Duty Officer.
+0031 hours, Maj Coctrell called and said that NORAD stated the object
+was the ECHO II satellite.
+Is it possible to furnish the 00 with a forecast of satellices which
+may be observed in the Dayton area?"
+McNEILL
+Major, USA?
+Administrative Officer

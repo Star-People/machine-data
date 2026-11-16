@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:58:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7439596, "source_ctime_ns": 1793382165483518942, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1177.jpg", "source_mtime_ns": 1785701028000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1177.jpg", "source_sha256": "37ff920e29ed42bb714f5a386650f52948bc064eb60618d989c4a84cabe0c37e"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 996, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AIRBORNE OBSERVER'S DATA SHEET
+This questionaire has been prepared so that you can give the U.S.
+Air Force as much information as possible concerning the unidentified
+aerial phenomenon that you have observed.
+Please try to answer as many
+questions as you possibly can.
+The information that you give will be
+used for research purposes, and will be regarded as confidential material.
+Your name will not be used in connection with any statements, conclusions,
+or publications without your permission.
+We request this personal infor-
+mation so that, if it is deemed necessary, we may contact you for further
+1. Date observation was made:
+13
+MARC#
+Day
+Month
+59
+Year
+2. Time observation was made:
+20 45
+Tine
+Zone
+or 02:45
+Daylight
+saving
+Standard
+Z (GMT)
+3. Exact location of aircraft when the observation was first made:
+N.M. 4). FROM DULUTH
+Coordinates
+4. Crew members who made the observation. (List each name)
+VA ME
+RANK
+CAPT.
+CREW POSITION
+PILOT F/02
+AISOP # 2
+(19 Sep 56)
+Inel #1
+D7-4 FoB - 2-57

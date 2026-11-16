@@ -8,7 +8,7 @@
   "document_id": "doc-72a48712aa178cce6ca56f5f",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-26T16:08:59Z",
+    "generated_at": "2026-11-16T05:14:53Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-01-00283/case.html",
-    "bytes": 18595,
+    "bytes": 18613,
     "canonical_source_identifier": "GEIPAN:1976-01-00283",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "NEUVILLE-SAINT-VAAST (62) 17.01.1976",
     "relative_path": "cases/1976-01-00283/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "9709553a490bea140cc9931ecb7b630546f7081dc35af27b18c3717dcb443bde",
+    "sha256": "6f9c401750552ecf8d07659906c4ad6dfe2a18dbbceef897cc682727f05f0aca",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-01-00283"
     ]

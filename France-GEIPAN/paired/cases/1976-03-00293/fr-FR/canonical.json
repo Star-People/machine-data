@@ -8,7 +8,7 @@
   "document_id": "doc-68279409fa5b30f78de8a00f",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-27T13:26:04Z",
+    "generated_at": "2026-11-16T05:04:16Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-03-00293/case.html",
-    "bytes": 18813,
+    "bytes": 18831,
     "canonical_source_identifier": "GEIPAN:1976-03-00293",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "SAINT-DENIS (974) 27.03.1976",
     "relative_path": "cases/1976-03-00293/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "d763230d77649cd45f8c3863275f9b4a91f00048142e2e1140573f716a4518ff",
+    "sha256": "c0f5c9f997a7820d1cd6e34d0399f5aff7bc2493875b7227c2c536007a422c47",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-03-00293"
     ]

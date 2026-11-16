@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:27:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1000239, "source_ctime_ns": 1793356040560745703, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0040.jpg", "source_mtime_ns": 1785564590000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0040.jpg", "source_sha256": "7771fefd588ffe5d43020f36dabc651bb42683100db0eea87a40f70a4f31006c"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1072, "method": "ocr", "page": 1, "variant": "plain-vision"}
+maintenance of the purity of the lifting gas, this balloon floated in a
+region of very low pressure, thus reducing the loss of buoyancy by diffu-
+APPROX. 42°
+S/8"
+BATTENS OF 032Ị- 17ST OR 24ST ALUMINUM,
+EDGES COVERED WITH MYSTIK TAPE. 3 BATTENS
+CLOSURE OF APPENDIX. IELD TO FORM LIGHT
+Figure 30: Aluminum battens for balloon appendix
+A third factor contributing to the long flight was the heat gained by
+adiabatic compression of the helium during descent. In the temperature in-
+version of the stratosphere this adiabatic heating would add to the buoyancy
+by superheating the lifting gas.
+From this flight it becomes apparent that the control required to maintain
+buoyancy at high levels is much smaller than that at low levels. On the next
+day, before Flight 75 had ended, a second 70-foot balloon was flown with
+standard automatic ballast controls, and this flight was never recovered. Pre-
+sumably the marked easterly flow then observed above 60,000 feet carried this
+second flight into the Pacific Ocean.
+Radar, RDF and theodolite were used to track the balloon.
+—37-

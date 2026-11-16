@@ -43,15 +43,15 @@
           "field": "region",
           "page_id": "page-8ffaba2b2b86c3c4ebd1f4fb",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-2b0797dff68eccd29322f54c",
           "segment_index": 3,
           "source_segment_id": "seg-2b0797dff68eccd29322f54c",
           "source_text_sha256": "05219c41ea93e7f95f931a90379eea741bd040fb0830cfa0d82ec2c283884deb",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Region: Overseas",
-          "translation_text_sha256": "ede3cdcfe7e139898eaaa8db7ef307dca2f664193e08b4161caa749c890e0723"
+          "status": "not-required",
+          "text": "Region: Outre-Mer",
+          "translation_text_sha256": "0ad43681fbb3fedcd1278672841aa8b8dcba6907eb9fda616c3fa183275b224f"
         },
         {
           "end_ms": null,
@@ -59,15 +59,15 @@
           "field": "department",
           "page_id": "page-8ffaba2b2b86c3c4ebd1f4fb",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-76eb49e21d4929ad5aba855d",
           "segment_index": 4,
           "source_segment_id": "seg-76eb49e21d4929ad5aba855d",
           "source_text_sha256": "9b86568975b9e1261e8888271465490b0eeedd5152d590b1b30162a1e785914e",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Department: Réunion Island",
-          "translation_text_sha256": "d4005137a7817fd401b8776c30093a9e18e68dccef054d3b79c7501eda4ae9b2"
+          "status": "not-required",
+          "text": "Department: La Réunion",
+          "translation_text_sha256": "d3553917e4d12731fa36b70c644f9adf3775e5b320f7e2e0053b997b885e62f9"
         },
         {
           "end_ms": null,
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-8ffaba2b2b86c3c4ebd1f4fb",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-6e96f4e6f68d86bf0ee9434c",
           "segment_index": 8,
           "source_segment_id": "seg-6e96f4e6f68d86bf0ee9434c",
           "source_text_sha256": "5df63983a5fe25fffd85b8bde55381283acd7c03541ae21041fb3723ce485389",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 1003 (1976309238).pdf",
-          "translation_text_sha256": "91af4e4d3df8f6f504b8b48cd0164143af8439cf796d489f1fd7cc4d021353a3"
+          "status": "not-required",
+          "text": "Documents: PV n°1003 (1976309238).pdf",
+          "translation_text_sha256": "5df63983a5fe25fffd85b8bde55381283acd7c03541ae21041fb3723ce485389"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-8ffaba2b2b86c3c4ebd1f4fb",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-1f34be46e419e9ee53d38cf5",
           "segment_index": 9,
           "source_segment_id": "seg-1f34be46e419e9ee53d38cf5",
           "source_text_sha256": "07bb01cd8200c16b112fac661640275c03142dd44a749cf3a69582fc73453e29",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: SAINT-DENIS (974) 27.03.1976",
           "translation_text_sha256": "9fdf98970afecd113b8a7218aa0d0f2864a2a2325edb74820c76555d0a635db6"
         },
@@ -170,35 +170,14 @@
           "error": null,
           "field": "description",
           "page_id": "page-8ffaba2b2b86c3c4ebd1f4fb",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "06:00",
-                "06:00"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "6",
-                "6"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-2cd69d36c310d48fe0fa3497",
           "segment_index": 11,
           "source_segment_id": "seg-2cd69d36c310d48fe0fa3497",
           "source_text_sha256": "71357eb5ca2ff6653d89186c580d1f64fc8f172fddef46fe9b1e2e3f2b7f9e7f",
           "start_ms": null,
-          "status": "needs-review",
+          "status": "machine-unreviewed",
           "text": "Description: On March 27, 1976, between 6:30 and 6:55 a.m., a military personnel experiencing a sudden vehicle malfunction. All light indicators were off. His attention was then drawn to a grayish fog patch with a metallic reflection. It was located near the river, 15 to 20 meters from the vehicle. Peering out the window, he observed the phenomenon as it rose and disappeared at high speed above the buildings in a south-southwest direction. Extremely surprised by what he had just seen, he checked his dashboard and easily restarted the engine to continue his journey. No other witness statements were collected regarding this phenomenon, for which we lack information.",
           "translation_text_sha256": "fb049a864f08d4e276707e56ddfaa545e04d5ddf3f1fbd107663954364eb34fc"
         }
@@ -211,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-27T13:26:04Z",
+    "generated_at": "2026-11-16T05:04:16Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:31:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1682112, "source_ctime_ns": 1793356030908547216, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0089.jpg", "source_mtime_ns": 1785564587000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0089.jpg", "source_sha256": "7bce4c67cd4f901f6aad5c3aaa33489215eae51d1d71a7e424fa054e093ac050"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1258, "method": "ocr", "page": 1, "variant": "plain-vision"}
+17•
+(d)
+Fixed Rate Ballast Equipment: (optional)
+i ea. orifice spinnerette, to give proper ballast flow
+1 gallon ballast, compass
+fluid AN-C-116
+1 ea. ballast reservoir (l gallon capacity)
+1 ea. filter 3' diameter, 325 x 325, phosphor bronze mesh
+6 inches tubing (Tygon) 3/16" bore
+Tracking of these flights was maintained by use of an SCR 658 radio
+receiver with a 400mc transmitter telemetering information from
+the balloon system. Information received through the telemetering
+circuit can be recorded on a standard weather station recorder,
+a recording oscilloscope of the Brush Development type or by any
+other convenient means.
+Altitude of the service flights was determined by use of a modified
+radiosonde modulator, an olland cycle modulator (see p.do, Sectior
+I. General, Technical Report 93.02(1)), or by computation fron
+knowledre of the weight of the balloon system and volume of the
+balloon.
+In order to keep balloon systems from floating in the air lanes,
+a flight termination switch was inclyded in the circuit. This
+switch is a radiosonde modulator modified so that all contacts
+above 25,000 it. are disconnected from the circuit. The pen arm
+rides on a shelf during ascent to about 30,000 ft. and then falls
+Fig. 12
+Flight Termination Switch

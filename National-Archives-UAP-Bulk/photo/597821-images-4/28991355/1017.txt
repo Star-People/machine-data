@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:56:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6937635, "source_ctime_ns": 1793384910656050793, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991355/1017.jpg", "source_mtime_ns": 1785748392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991355/1017.jpg", "source_sha256": "bf9af5853c86bd1c522a5a43c001558c7975c8173a60e7fc0737234a3c9ccd0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 930, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+8 Feb 61
+3.
+DATE-TIME GROUP
+Local 2000
+GMT 1100
+5. PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+20N 134E Philippine Sea
+4. TYPE OF OBSERVATION
+* Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+SOURCE
+Militar
+8. NUMBER OF OBJECTS
+10. BRIEF SUMMARY OF SIGHTING Huge bright Objt like
+shooting star. Seemed to break into 2 pieces
+before burning up in atmosphere.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+•
+•
+Possibly Balloon
+Was Aireraft
+Probobly Aireraft
+Possibly Aircraft
+Was Astronomical METECR
+Probably Astronomica
+•
+Possibly Astronomical
+9. COURSE
+Other
+Insufficient Date for Evaluation
+Unknown
+I. COMMENYSThis report
+contains very litt.
+info but what there is of it indicates
+that objt of this sighting was probably
+a very bright meteor of "fireball" type.
+Witnesses description that objt appeared
+to break into 2 pieces tends to sub-
+stantiate this conclusion.

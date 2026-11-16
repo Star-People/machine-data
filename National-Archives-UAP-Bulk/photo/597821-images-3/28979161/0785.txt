@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:01:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8601508, "source_ctime_ns": 1793381053809410285, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979161/0785.jpg", "source_mtime_ns": 1785700797000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979161/0785.jpg", "source_sha256": "91cd6f23eb285a5af9fa6883f9f19cb1b6914a8d9adaba0587c98933e7f65d09"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 657, "method": "ocr", "page": 1, "variant": "plain-vision"}
+01/10502 # 01/11252114}
+Multi
+ZCZCSQP021T SQF476 YDC115YCZCQYB231ZCSXB129
+O0 RJEDDN RJEDSQ
+ZFD RJWZSX
+ZCZCQYX664ZCDMA209
+00 RJEDDN RJEDSQ.
+DE RJWZDM 101A
+0 011430
+atec
+phoned
+50185
+FM COMDR 25TH AIR DIV
+TO RJEDN/COMDR AIR DEFENSE COMMAND
+RJEDSQ/COMDR AIR TECHNICAL INTELLIGENCE CENTER
+RJEZHQ/DIRECTOR OF INTELLIGENCE, HEADQUARTERS USAF
+RJEZHQ/ASSISTANT CHIEF OF STAFF, INTELLIGENCE HEADQUARTERS USAF
+RJEZHQ/OFFICE OF INFORMATION SERVICES, HEADQUARTERS USAF
+ZEN/COMDR 25CADD
+BT
+/UNCLAS/25TH CADD TAC H 4PD. ATTN D/1 SUBJECT:
+UFOB.
+GRAPEFRUIT LIKE
+NEGATIVE
+3. WHITE
+4. ONL
+5. N/A
+6. NEGATIVE
+70
+ICE CREAM CONE-LIKE ON UNDERSIDE.WAS REPORTED AS XHAUST.
+8. NEG

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:02:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8666209, "source_ctime_ns": 1793383144503338387, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986411/0158.jpg", "source_mtime_ns": 1785748340000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986411/0158.jpg", "source_sha256": "369c8d328003672f65bd75e6e6e48e7a4656b6fea56e20bfd5612f82e039d7c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 1025, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+5 April, 1960
+3. DATE-TIME GROUP
+Local ...
+-2127ął
+GM T.
+/c/$
+5. PHOTOS
+Argentina
+4. TYPE OF OBSERVATION
+D Ground- Visual
+• Air Visual
+6. SOURCE
+D Ground-Radar
+D Air-Intercept Radar
+• Yes
+CANO
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS | 9% COURSE
+12. CONCLUSIONS
+Was Balloon
+Probebly Balloon
+Possibly Solloon
+Was Aircraft
+Probably Airereft
+Possibly Aircraf
+Was Astronomical
+Probably Astronomical
+Possibly Astronomicel
+OXonhorSoutnik Vogay
+Insufficient Deta for Evaluation
+Unknown
+Not Viven
+One
+10-
+BRIEF SUMMARY OF SIGHTING
+Large orange object falling in southern sky
+moving slower than a meteor and of a color
+that was diffenent. Sighted by the President
+of the Bahia Blanca Astronomical Center. The
+witness believed that the sighting was nine
+chances in ten a Satellite Vecay.
+SW
+11. COMMENTS
+Sputnik III decay this date. Possible
+that this is the report, In view of
+The observers qualifications a meteor
+sighting would be ruled out.
+ATIC PORM 329 (REV 26 SEP 52)

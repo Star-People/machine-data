@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:02:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8607577, "source_ctime_ns": 1793381208485757389, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979590/1148.jpg", "source_mtime_ns": 1785700683000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979590/1148.jpg", "source_sha256": "5872db2109e7151d51af8f69014a5fd3f9de229831c1a5ff1e5a1f12dc55e27b"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 953, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+lugust 195g
+ATE-TIME GROUI
+Local_ 1915
+GMT 05/0315Z
+1. PHOTOS
+• Yes
+70 N°
+LENGTH OF.OBSERVATION
+Washington
+PE OF OBSERVATI
+XR Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+Civilian
+NUMBER OF OBJECTS | 9. COURSE
+very
+short
+on e
+BRIEF SUMMARY OF SIGHTING
+little round ball of fire, yellow-
+its in color with a long tail of
+ore was seen in the SE. It was
+ing straight down & disappeared
+fore someone else could see it.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aircraft
+Possibly Aircraft
+ON Was Astronomical did L001
+Probably Astronomica
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+not given
+11. COMMENTS
+The description, color &
+flight path is very character-
+istic of a meteorite seen during
+daylight hours. (Ref. repring
+#102 of Dr. Oliver's rpt on
+meteor trains & fireball orbits).
+•*C POHM 329 (REV 26 SEP 52)

@@ -43,15 +43,15 @@
           "field": "region",
           "page_id": "page-d2ce7ed97119ab02a6afd05c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-a262774bb608c203b8d433ff",
           "segment_index": 3,
           "source_segment_id": "seg-a262774bb608c203b8d433ff",
           "source_text_sha256": "23f09fae6b94105ae047e860d5386e7a1f2488d4420da472bdf70bec2329bb83",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Region: High Normandy",
-          "translation_text_sha256": "cf1807e800a3b36b88691394b51d764d43a928b893ebca0d7ea341a77a29433a"
+          "status": "not-required",
+          "text": "Region: Haute Normandie",
+          "translation_text_sha256": "b0dc78e1cd113ad8dc70c38d59940e2a34991566afdfcbea262486a9795f34c4"
         },
         {
           "end_ms": null,
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-d2ce7ed97119ab02a6afd05c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-3504d53fc5c88c93dfda2667",
           "segment_index": 4,
           "source_segment_id": "seg-3504d53fc5c88c93dfda2667",
           "source_text_sha256": "aa5d4d50adbff50c5a46dfde7d4777e8b6024caf9487f0bcfc16ecb4d09e4279",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Seine-Maritime",
           "translation_text_sha256": "efc5408a219e99f365725acb3d6f07bd22d2ad42103b8625b3ad7f2114c8f7b0"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-d2ce7ed97119ab02a6afd05c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-43f77397dc46526b54c54fac",
           "segment_index": 8,
           "source_segment_id": "seg-43f77397dc46526b54c54fac",
           "source_text_sha256": "6d6251f0ee7f13c17d91933677159a67d54245642431da091f8339e3ab8dd79b",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 135 (1976309233).pdf",
-          "translation_text_sha256": "9bfaa8c0fad2c2a4b08dd5b2a82b8fee01d0da8d53f25a24b1b8602b69e86182"
+          "status": "not-required",
+          "text": "Documents: PV n°135 (1976309233).pdf",
+          "translation_text_sha256": "6d6251f0ee7f13c17d91933677159a67d54245642431da091f8339e3ab8dd79b"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-d2ce7ed97119ab02a6afd05c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-0a2b2fdedade5651dde07278",
           "segment_index": 9,
           "source_segment_id": "seg-0a2b2fdedade5651dde07278",
           "source_text_sha256": "ac0d2139ac51b2a3186f5a6c55e93e2586a5a7a10435ca0e6bc7122db8d525f1",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: CRIEL-SUR-MER (76) 15.04.1976",
           "translation_text_sha256": "79f307c4de28428441c8e7a91df3ce116fd2ee5a9ec9e9e344f66fff0a0aee9f"
         },
@@ -170,36 +170,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-d2ce7ed97119ab02a6afd05c",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "21:00"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "0",
-                "9"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-d37cf754cb087854d4e05b06",
           "segment_index": 11,
           "source_segment_id": "seg-d37cf754cb087854d4e05b06",
           "source_text_sha256": "4a6bb68735061d90f55623c67964b49f762fb6c924174659d7ecfa85a8e49e92",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: On April 15, 1976, between 9:00 and 9:30 PM, a witness observed an orange-colored light phenomenon for approximately two minutes. It remained stationary above the bell tower of a church located two kilometers away. No unusual noises were heard. It suddenly disappeared. No other testimony about this phenomenon was collected, for which we lack information.",
-          "translation_text_sha256": "e40f5ca8e428827912cbf253bce00711a9154539a55f2f9c0f6d79aea407f5e9"
+          "status": "machine-unreviewed",
+          "text": "Description: On April 15, 1976, between 9:00 and 9:30 PM, a witness observed for approximately two minutes an orange-colored light phenomenon. It remained stationary above the bell tower of a church located two kilometers away. No particular noise was heard. It suddenly disappeared. No other testimony about this phenomenon was collected, for which we lack information.",
+          "translation_text_sha256": "9abbf8a2d9dd040dbf64c0e2b869750b04f5d4364ba1ad13db1af1798df9b363"
         }
       ],
       "source_page_id": "page-d2ce7ed97119ab02a6afd05c"
@@ -210,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-26T03:40:11Z",
+    "generated_at": "2026-11-16T04:58:58Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

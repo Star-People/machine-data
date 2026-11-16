@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:43:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3935637, "source_ctime_ns": 1793384084326627116, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988829/0137.jpg", "source_mtime_ns": 1785748109000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988829/0137.jpg", "source_sha256": "fc1fb5c7f079e8797e8764fb8f0703ec06d49bf84d6644ee4b141790306ab3db"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 849, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MULTIPLE SIGHTING
+DATE
+9 Sep 60
+3. DATE-TIME GROUP
+Locai
+GM T.
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Duluth, Minnesota
+TYPE OF OBSERYATION
+EX Ground- Vi sual
+• Air Visual
+6. SOURCE
+Military
+D Ground-Rodar
+• Air-Intercept Radar
+3. NUMBER OF OBJECTS
+one
+2350z
+• Yes
+C No
+7. LENGTH OF OBSERVATION
+5-6 sec
+0. BRIEF SUMMARY OF SIGHTING
+Pear shaped object, size of basketball, leading
+edge bright green,
+midsection bright white,
+tail bright yellow which tapered. Did not
+appear to be traveling as fast as a meteor.
+Disappeared instantaneously.
+9. COURSE
+SW
+12. CONCLUSIONS
+•
+Was Bailoon
+Probably Bailoon
+Possibly Bailoan
+Was Aircrait
+Probably Airerait
+Possibly Airerait
+Was Astronomical
+Probably Astronomical Meteor
+Othal
+Insufficient Dato for Eve
+Unknown
+11. COMMENTS
+Probably a very large and very bright
+meteor.
+ATIC PORM 329 (REV 28 SEP 52)

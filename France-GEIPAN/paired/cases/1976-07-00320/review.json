@@ -5,14 +5,6 @@
   "segments": [
     {
       "reasons": [
-        "translation-failure-or-qa"
-      ],
-      "review_status": "needs-review",
-      "segment_id": "seg-12594f439757fe18e5188e2f",
-      "weight": 10
-    },
-    {
-      "reasons": [
         "classification"
       ],
       "review_status": "machine-unreviewed",
@@ -21,7 +13,7 @@
     },
     {
       "reasons": [],
-      "review_status": "machine-unreviewed",
+      "review_status": "not-required",
       "segment_id": "seg-062cfded3781ae1c09766025",
       "weight": 0
     },
@@ -29,6 +21,12 @@
       "reasons": [],
       "review_status": "not-required",
       "segment_id": "seg-06c119dced68e35ef8bd8e04",
+      "weight": 0
+    },
+    {
+      "reasons": [],
+      "review_status": "machine-unreviewed",
+      "segment_id": "seg-12594f439757fe18e5188e2f",
       "weight": 0
     },
     {
@@ -45,7 +43,7 @@
     },
     {
       "reasons": [],
-      "review_status": "machine-unreviewed",
+      "review_status": "not-required",
       "segment_id": "seg-546528cc347e78d94e2fed2e",
       "weight": 0
     },
@@ -63,13 +61,13 @@
     },
     {
       "reasons": [],
-      "review_status": "machine-unreviewed",
+      "review_status": "not-required",
       "segment_id": "seg-c36a8ac90b83822885fa1266",
       "weight": 0
     },
     {
       "reasons": [],
-      "review_status": "machine-unreviewed",
+      "review_status": "not-required",
       "segment_id": "seg-e157a2074772e3bfc3736ab8",
       "weight": 0
     }

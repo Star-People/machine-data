@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:02:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8734338, "source_ctime_ns": 1793364783050841046, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0091.jpg", "source_mtime_ns": 1785684930000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0091.jpg", "source_sha256": "c4a4901ca18e284015dfc8a6889ad766ac67faec3777397d1f9ba9510f731852"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 633, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+19D OST 84-88
+IETAILS (cont' d)
+Inclosures (cont'à)
+The original signed statement (and 5 copies) of Mrs
+ROY OLIVER NEELY dated, at San Franeisco, California, 29
+September 1949.
+The original signed statement (and 5 copies) of Reverend
+CURTIS DANIELS dated, at Oakland, California, 29 September 1949.
+The original copy of sketches of objects by Mr. ROY
+OLIVER NEELY.
+The original copy of sketches of objects by Reverend
+CURTIS DANIELS
+FOR CG, AMG AND OST HEADQUARTEES
+Two (2) copies of sketch drawn by Reverend CURTIS
+DANIELS •
+Two (2) copies of sketch drawn by Mr. ROY OLIVER NEELY
+Declassification Authority: NND 923007

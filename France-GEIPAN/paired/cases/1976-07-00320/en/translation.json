@@ -43,15 +43,15 @@
           "field": "region",
           "page_id": "page-23723c6249df1e6082e23ccd",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-546528cc347e78d94e2fed2e",
           "segment_index": 3,
           "source_segment_id": "seg-546528cc347e78d94e2fed2e",
           "source_text_sha256": "ac56fd6ef8c90baa79e88a8cf42b2a990580a70eb3e6ede9427947f0445a52fb",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Region: Île-de-France",
-          "translation_text_sha256": "0f71bfd319ab022ef6dcf326e6afecf392f3928b265377be7ac40f2021c1b177"
+          "status": "not-required",
+          "text": "Region: Ile-de-France",
+          "translation_text_sha256": "d286a57b4bf9c4b3d6d8ee4f0b2ed7a330938a2c954f74793c49dad2457cfd59"
         },
         {
           "end_ms": null,
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-23723c6249df1e6082e23ccd",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-e157a2074772e3bfc3736ab8",
           "segment_index": 4,
           "source_segment_id": "seg-e157a2074772e3bfc3736ab8",
           "source_text_sha256": "9176388cad0ef585b3b5a4472e99ddc29ebce5aa50fd0db4e85f971c2e06a741",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Hauts-de-Seine",
           "translation_text_sha256": "c25150e9ae045fabb2ca0d61fbf685b4df67f00ba75795cb6dd4a2dc7001e668"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-23723c6249df1e6082e23ccd",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-062cfded3781ae1c09766025",
           "segment_index": 8,
           "source_segment_id": "seg-062cfded3781ae1c09766025",
           "source_text_sha256": "14888bb6a14cfe2d1efd19661f6b769042e89e5cce03d772b47227c0eba08a37",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 1527 (1976309209).pdf",
-          "translation_text_sha256": "66e381ed5cb2b8d5fd85f0081b86a94e65522c29f3ed3f7ec8d9d20fa0fd0c53"
+          "status": "not-required",
+          "text": "Documents: PV n°1527 (1976309209).pdf",
+          "translation_text_sha256": "14888bb6a14cfe2d1efd19661f6b769042e89e5cce03d772b47227c0eba08a37"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-23723c6249df1e6082e23ccd",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-c36a8ac90b83822885fa1266",
           "segment_index": 9,
           "source_segment_id": "seg-c36a8ac90b83822885fa1266",
           "source_text_sha256": "20e4d0286f2ce8194fc0ef0af8508f98b648c730dcc180d3009dec0c55ecb60e",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: COLOMBES (92) 16.07.1976",
           "translation_text_sha256": "c047e9dce850796dbba2632f29786e14849e4a02fec833d80b3081b56f1fafd5"
         },
@@ -162,42 +162,22 @@
           "source_text_sha256": "d9b181aeae1f352cbc1b913d9674c91f9f10fd25868df7dad3b2cdeffc14eed6",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Summary: Probable observation of a spacecraft passage.",
-          "translation_text_sha256": "704144f2d5d869be2b2f37ad96904589a06173af4fa50c370f837790bf28d93d"
+          "text": "Summary: Probable observation of an aircraft passage.",
+          "translation_text_sha256": "9ebb15e2633e96c013ee76fe527956dbbdcd43687f8a633672ed4bff9f1e018c"
         },
         {
           "end_ms": null,
           "error": null,
           "field": "description",
           "page_id": "page-23723c6249df1e6082e23ccd",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "04:30"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "30",
-                "4"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-12594f439757fe18e5188e2f",
           "segment_index": 11,
           "source_segment_id": "seg-12594f439757fe18e5188e2f",
           "source_text_sha256": "e63dd6a33a3d6db4820c23aaf2d9ac7af5ab86c049177f19ecb4a1649d526ec1",
           "start_ms": null,
-          "status": "needs-review",
+          "status": "machine-unreviewed",
           "text": "Description: On the night of July 16, 1976, at 4:30 a.m., a witness observed from a window of his home a luminous phenomenon without clearly seeing any form or hearing any particular noise. He described his observation as first a glowing point approaching, then becoming a ramp of lights, and finally, from the rear, he noticed two glowing points of green and red. No other testimony was collected regarding this phenomenon, which is likely an observation of an aircraft.",
           "translation_text_sha256": "b502f4cd41faf2b15cf141ce417719b241b2e0cafc730413ac98d0d80bc0f385"
         }
@@ -210,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-26T15:23:44Z",
+    "generated_at": "2026-11-16T04:43:15Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

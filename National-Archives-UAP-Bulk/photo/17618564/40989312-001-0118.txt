@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:30:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1565736, "source_ctime_ns": 1793356285100637513, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0118.jpg", "source_mtime_ns": 1785564660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0118.jpg", "source_sha256": "b559efd0809720e9dbb868e313b638e9e5f625df67e3eb91b22cda9676ebcc0b"}
+
+===== PAGE 1 =====
+{"alpha_words": 498, "chars": 2933, "method": "ocr", "page": 1, "variant": "plain-vision"}
+"Newsprint is in short supply, and you can either clean off the print and use the paper
+again, or it could be burned for fuel. There have been estimates that show we can cut our
+fuel consumption by some fairly large percentages if we burned all the used fibers we
+had.
+"Energy economics is a very difficult thing. It is a new subject, because you have to
+decide between alternatives. One I really love is feeding all the Sunday papers from
+Atlanta into the end of a factory where they are fed to cows who can turn cellulose into
+protein with some additives and amino acids and you have steak come out the other end.
+"The point is: We can manage waste. It is a tremendous challenge to scientists, engi-
+neers, and managers. These are challenges, not problems. They can be solved if we can
+get politicians to understand this kind of planning.
+"We have to ask ourselves the question: How clean can we afford to be? I coined the
+word ecolibrium, which is the balance between ecology and economy. 'Zero risk' is
+another abstraction which has been adopted widely. What we must realize is that there is
+a risk-benefit ratio that all of us in our smallest daily decisions have to assess. We have
+lost sight of this in our present preoccupation of the great government protecting every-
+body from everything.
+"If we really disperse people over the surface of the earth,and we do not have these
+amazingly over-large concentrations of people, we might not have such terrible pollution
+problems. Dispersal is a pretty good thing. Many years ago I suggested we should build
+experimental cities, and in them try new systems of transportation, nonownership of land
+in the cities proper. This is not an entirely new concept. Condominiums are a euphe-
+mism for ownership.
+"What about this depletion of resources? Recycling in itself is a big step. We can't
+recycle energy. It's called the Second Law of Thermodynamics. As we look to the
+depletion of resources on land, we have two ways to get independence of resources. One
+way is to look to the sea, the other way is to find substitutes for the things we are running
+short of. Those substitutes must be renewable. You will find that we will have to use our
+most modern science and technology to advance to a new stone age and agricultural age.
+"In the last analysis, we make everything from rock, vegetation, the energy of the
+sunshine and other energy sources. In the last analysis, there is no difference between the
+natural and the artificial except, generally, in the artificial, there is a greater seasoning
+with energy. We must find less energetically expensive and non-depletive ways of
+substituting for those things that we are running out of.
+"Now we talk about 'bio-mass energy." That means farming energy. We are suddenly re-
+studying the lessons of history; and, with our new knowledge of science and technology,
+we are hoping to find that we can really meet our challenges in this way.

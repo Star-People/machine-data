@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:55:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6721657, "source_ctime_ns": 1793381681829873896, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981247/01222.jpg", "source_mtime_ns": 1785700692000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981247/01222.jpg", "source_sha256": "8ad141842840cb5f373f2c2f76627c9f517e02a26e742fc7060760557093296d"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 453, "method": "ocr", "page": 1, "variant": "plain-vision"}
+-2-
+companying noise came from the area of the object. The "explosions'
+were about ten to fifteen seconds apart.
+At first, we thought some electri-
+cal line was shorting in back of our neighbor's home until the "explosions"
+were seen. A call to Dayton Power and Light on the morning of the 5th
+disclosed no electrical disturbances or service calls in this area and
+WPAFB was not testing night photography on the 4th of Lecember.
+Signed:
+Dayton 29, Ohio

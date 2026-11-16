@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:43:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3833388, "source_ctime_ns": 1793373349951267732, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946480/0328.jpg", "source_mtime_ns": 1785688910000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946480/0328.jpg", "source_sha256": "3638265ef6e35e646c54fd3833379ea033d68ffa0b5c68bf338beb99fddcbd47"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1040, "method": "ocr", "page": 1, "variant": "plain-vision"}
+18 Jul. 52 ; Jersey City.
+TENTATIVE
+OBSERVERS QUESTIOMAIRE - 4645.00
+SECTION A
+1. When did you see the object:
+1.1 Date:
+1.2 Time of Day:
+Hrs.
+1.3 Time Zone: (Circle One):
+A.M. or P.M. (Circle One)
+Eastern
+Central
+Mountain
+d. Pacific
+e. Other
+(Circla One):
+B. Deandant
+Daylight Saving
+I.4 Circle one of the following to indicate how certain you are of
+your answer to the above question 1.2:
+Certain
+Fairly certain
+C.
+Not very sure
+d. Just a guess
+2. Where were you when you saw the object:
+Postal Address
+TERSEY CITY
+City or Town
+N. J
+U.S.A.
+State
+Country
+Additional Remarks: I WAS ON DUTY ON TOP OF THE
+UNITED
+SPATES AIR FORCe
+ROOF AS A GROUND OBSERVER GROUND OBSERVER CORPSI
+3. Where were you located when you saw the object:
+(Circle One): a. Inside a building d. In an airplane
+In a car
+e. At sea
+Outdoors
+f. Other
+3.1 Were you:
+7.3719 -
+(Circle One):
+In the business section of a city?
+• In the residential section of a city?
+In open countryside?
+d. Flying near an airfield?
+e. Plying over a city?
+I. FLying over open country?
+g. Other

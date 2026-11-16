@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:52:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5609050, "source_ctime_ns": 1793354403158910917, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0002.jpg", "source_mtime_ns": 1785564279000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0002.jpg", "source_sha256": "36971e1c68cdeb37bf3a04ddbb110ee55cbb7b9817898f7510350e4bf972ee23"}
+
+===== PAGE 1 =====
+{"alpha_words": 396, "chars": 3254, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PHILLIPS LABORATORY, GEOPHYSICS DIRECTORATE AT A GLANCE, 1993
+MISSION: Phillips Laboratory, Geophysics Directorate,
+is located at
+Hanscom AFB,
+Massachusetts.
+The Directorate
+conducts research in five major areas: space physics,
+Directinte ald phys worn in evic petal sarth tones data analysis.
+and atmospheric sciences.
+The Geophysics
+Directorate understands, specifies, and predicts the environment, and with other Phillips
+Laboratory directorates, provides technology to mitigate the environmental effects on systems. The
+Directorate is the primary environmental science organization in the Air Force and provides
+information on systems and environment interactions to both DOD and civilian agencies.
+REPORTS (in turn) TO: Phillips Laboratory, Kirtland AFB, NM; Space and Missiles Systems
+Center, Los Angeles AFB, CA; Air Force Materiel Command, Wright-Patterson AFB, OH
+BUDGET: 101 Million
+PEOPLE: 258 Total - 213 Civilians, 45 Military
+SPACE PHYSICS: Energetic particle, plasma, electric, and magnetic field space sensors; solar
+activity models and simulations; space radiation measurements and models; space disturbance
+forecasts; space environment impact on Air Force operational systems
+OPTICAL ENVIRONMENT: Atmospheric transmission codes, lidar technology for atmospheric
+remote sensing, infrared background phenomenology, targets and backgrounds airborne
+measurements, infrared target and background codes
+IONOSPHERIC EFFECTS: Ionosphere and neutral atmosphere models; ionospheric scintillation
+models; ionospheric disturbance effects on C3I space systems; satellite- and ground-based
+ionospheric sensors and measurements; high power RF ionospheric effects;
+composition surrounding space vehicles; plasma effects on aerospace vehicle signatures and sensors;
+composition of the space vehicle environment; space debris modeling
+EARTH SCIENCES: Cryogenic inertial sensors; gravity models; seismology for the detection,
+location, and identification of explosions and other global events; seismic hazard assessments
+ATMOSPHERIC SCIENCES: Global weather analysis and prediction, theater weather analysis
+and prediction, measurement techniques and tailored computer weather assessment models
+ENVIRONMENTAL SIMULATION: Simulations of the physical environment and its effects on
+system performance and operations, integration and validation of standard atmospheric and space
+representations for use in system concept exploration to operations
+DATA ANALYSIS: Space science information management systems, scientific visualization
+techniques, scene simulations, telemetry data processing, model development and archiving, space
+vehicle position and pointing determination
+FACILITIES (on-site): High Temperature Mass Spectrometer, Data Analysis Facility, Payload
+Integration and Test, Comprehensive Weather Satellite Receiving and Processing Facility, Haskell
+Observatory (gravity measurements), Satellite Telemetry Processing
+FACILITIES (off-site, mobile): Flying Infrared Signature Technology Aircraft, Tethered and High
+Altitude Balloon Platforms, Weather Test Facility at OTIS ANG Base, Goose Bay Labrador
+lonospheric Observatory, Optical and Lidar Sounder Sites, Sacramento Peak Solar Observatory
+(operated jointly with the National Solar Observatory)

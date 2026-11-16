@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:35:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1750726, "source_ctime_ns": 1793388648902206121, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530697/0519.jp2", "source_mtime_ns": 1785808451000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530697/0519.jp2", "source_sha256": "ad876e1935274c9e0a3f11fa93acbeabd6c15ad6741185490f72b9c13cf121fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 769, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+10 Oct 1953
+DATE-TIME GROUP
+Local
+1927
+GM T
+11/00272
+PHOTOS
+• YO
+• No
+7. LENGTH OF OBSERYATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dayton, Ohio
+4. TYPE OF OBSERVATION
+25 Ground-Visual
+• Air Visual
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+Not Reported
+One
+BRIEF SUMMARY OF SIGHTING
+"Object reported moving through sky. Believed
+to be satellite. Requested identification.
+• Ground-Rodar
+• Air-Intercopt Rador
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+: OSatellite(ECHO I)
+Insufficient Data for Evaluation
+Unknown
+NE
+COMMENTS
+Object confonas with ECHO 1 passage.
+(REAT RECEIVED OVER TELEPANE)
+ATIC FORM 329 (REY 25 9EP 52)

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:51:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5337878, "source_ctime_ns": 1793378918992613501, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969884/1228.jpg", "source_mtime_ns": 1785700607000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969884/1228.jpg", "source_sha256": "7a6a621e48dad5a0287fa8430a1be09e42f58c55ee7e91d849001e03cfdcffe1"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 233, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OF WHICH CANNOT BE DETERMINED BECAUSE OF @HE COVERTNESS OF SUCH
+OPERATIONS. SUBPARA 12; NO PAYSICAL BvIDENCR, PART THREE, REFERENCE
+PARAGRAPH 8 OF ABOVE CITED APR, NEGATIVE
+
+Br
+
+22/1600Z% MAY RJFPAB
+
+Teer he UAC ENR Mar TUN Sea eee

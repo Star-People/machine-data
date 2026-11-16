@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:58:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7537384, "source_ctime_ns": 1793384463609167038, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990381/0144.jpg", "source_mtime_ns": 1785748548000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990381/0144.jpg", "source_sha256": "1948d8df770eafca7355e1c0fa3e21cd44173da786a718c0041c0e9ccf8d0fa1"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 451, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJKDNPB 2
+3. N/A
+D. TIME AND DATE OF SICHTING
+1. 06/12407
+2. NIGHT
+E, LOCATION OF OBSERVATION
+1. 1-2 MILES SOUTHEAST OF FORT YUKON ALASKA
+F. IDENTIFYING INFORMATION ON OBSERVER
+1, CIVILIAN
+20
+AGE 23
+3. FORT YUKON, ALASKA RCA
+4. RELIABILITY - GOOD
+G. WEATHER AND WINDS
+81. CLEAR AND COLD
+2. NO WIND INFORMATION AVAILABLE
+3. NONE
+4. 15 PIUS
+VFO NONE
+6. NONE
+7. TEMPIRATURE - MINUS 25 DEGREES, DEM POINT MINUS 37 DEGREES.
+>8/22427 DEC RJKDNPB

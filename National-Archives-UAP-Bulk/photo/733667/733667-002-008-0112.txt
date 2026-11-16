@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:30:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1580642, "source_ctime_ns": 1793394372604729885, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0112.jpg", "source_mtime_ns": 1785567361000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0112.jpg", "source_sha256": "2180e8dfef3f179e74c2cb627750f4cb03a01d29c885d93c0d04c701630cc703"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 236, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Fel
+27, 1987
+FAA
+701с st.
+Box 14
+Anchorage, Alaska
+995<3
+Dear FAA :
+Please send a summar
+and price
+list for JAL
+UFO säghtirg.
+I understand these materials
+are free,
+Thank you,
+Patricia: M. Arring ton
+3222 Denson Place
+dlt., N.C. 2821śł

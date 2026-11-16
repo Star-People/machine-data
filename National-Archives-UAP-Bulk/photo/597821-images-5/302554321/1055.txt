@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:31:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1708605, "source_ctime_ns": 1793390931014498049, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554321/1055.jp2", "source_mtime_ns": 1785808485000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554321/1055.jp2", "source_sha256": "9d00274b3cb176a9d737c36e93c48720a33279356cf26a8fdc38bc609a506e91"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 632, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Station
+New Haven, Conn. 06520
+7 September, 1966
+Project Blue Book
+United States Air Force
+Washington, D.C.
+Gentlemen:
+0310
+~
+At 11:10 on the night of August 8, 1966, near Shaftsbury, Vt 1«
+I sighted an object of the first magnitude near the zenith.
+was moving somewhat erratically - secmingly with a wobblc, and
+by fits and starts - yet in a generally fixed direction.
+At 11:20,
+after gradually losing brilliance, it faded entirely from view by
+the naked eye about 15 degrees above theN by NE horizon.
+Could you please tell me what this object was, or if not, could
+you tell me if you had other reports of it?
+Thank you very much.

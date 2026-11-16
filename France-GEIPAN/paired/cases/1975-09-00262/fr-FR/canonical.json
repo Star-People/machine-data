@@ -8,7 +8,7 @@
   "document_id": "doc-3ff1bd731a9e979eb0708c97",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-28T14:43:38Z",
+    "generated_at": "2026-11-16T05:31:03Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1975-09-00262/case.html",
-    "bytes": 19050,
+    "bytes": 19068,
     "canonical_source_identifier": "GEIPAN:1975-09-00262",
     "case_metadata": {
       "classification": "B",
@@ -244,7 +244,7 @@
     "original_title": "JEUMONT (59) 26.09.1975",
     "relative_path": "cases/1975-09-00262/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "867c3dae752ac585bcea0f1a8f3f1492d37234d76c4c358d8f0a9c8b50679967",
+    "sha256": "9cbd1938a4594fd5787913a14d83cd9db1a614ef90b3feeb30ba1c47e23ac377",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1975-09-00262"
     ]

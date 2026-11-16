@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:56:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6943050, "source_ctime_ns": 1793387190607429004, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998344/0384.jpg", "source_mtime_ns": 1785748124000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998344/0384.jpg", "source_sha256": "1bfccad3c94d988566453a8beb8fb537c4d873c1617a8498da8de31240da8ae6"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 679, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3.
+20 Jul 62
+DATE-TIME GROUP
+2230
+Local
+GM T
+PHOTOS
+1307
+• Yes
+- D No
+LENGTH OF OBSERVATION
+10. BRIEF SUMMARY OF SIGHTING
+ATIC FORM 329 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Westville, Indiana
+TYPE OF OBSERVATION
+@ Ground- Visual
+• Ground-Radar
+• Air Visual
+• Air-Intercept Radar
+6. SOURCE
+8. NUMBER OF OBJECTS 9. COURSE
+12
+CONCLUSIONS
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+a
+Was Aireraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other_
+a XInsufficient Data for Evaluation
+Unknown
+11. COMMENTS
+13
+100y
+carlier
+hendiag
+of
+11s0
+1lite.
+data
+1s9
+ssibl
+OI
+a sate-
+eted
+insuf:
+satellite other
+-

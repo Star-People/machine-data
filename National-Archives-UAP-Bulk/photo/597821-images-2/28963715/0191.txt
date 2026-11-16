@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:44:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4090768, "source_ctime_ns": 1793377433573270582, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963715/0191.jpg", "source_mtime_ns": 1785696876000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963715/0191.jpg", "source_sha256": "e754a3246d46175aac3161a1f3d9690ca07fdbf41c327d6ff816627176b43b5c"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 975, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+22 Sep 55
+3. DATE-TIME GROUP
+Local
+GM P3/01402ŘŚłš
+5: PHOTOS
+• Yes
+XP No
+7. LENGTH OF OBSERVATION
+10 mins
+PROJECT 10073 RECORD CARD
+/ 2. LOCATION
+Kankakee, Illinois
+4. TYPE OF OBSERVATION
+& Gmund-Visual
+D Al~ Visual
+T. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+civilian
+8. NUMBER OF OBJECTS
+1
+10. BRIEF SUMMARY OF SIGHTING
+one spherical obj, changing colors.
+appeared very high in the NW and then disappeared
+in same spot. Ight faded and then disappeared
+completely.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircrat
+D
+Possibly Aircraf
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Pos Searchlights
+Insufficient Data for Evaluatio
+Unk no wn
+9. COURSE
+stationary
+11. COMMENTS
+Y With almost a total overcast it is
+probable that obj was seen below
+cloud level or at cloud level.
+Obj faded and then disappeared sub-
+stantiates a possible fixed searc-
+light.
+(NO CASE IN FILE)
+ATIC FORM 329 (REV 26 SEP 52)

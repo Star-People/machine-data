@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:08:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19159384, "source_ctime_ns": 1793361138892033671, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0151.tif", "source_mtime_ns": 1785565243000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0151.tif", "source_sha256": "1df80befd78680df52c18cd481b3ac900913df3d5b3a7eeead41fded67afbbc1"}
+
+===== PAGE 1 =====
+{"alpha_words": 204, "chars": 1540, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112
+APPROVED 1 JUNE 1948
+COUNTRY
+Great Britain
+UNCLASSIFIED
+(CLASSIFICATION)
+1154543
+REPORT NO.
+(LEAVE BLANK)
+IR-82-58
+1154543
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+Unidentified Flying Object - Report by British Subject
+AREA REPORTED ON
+FROM (Agency)
+Great Britain
+DATE OF REPORT
+16 Jan 58
+DATE OF INFORMATION
+22 Dec 57
+Air AttachEVALUATION
+London
+PREPARED BY (Officer)
+Col R.W. McDuffee,
+USAF,
+Asst Air Attache P. Williamson
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+BAIR 460.T
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF' Form 112-Part II.)
+This report forwards a report on an unidentified flying object sent in by
+A.A. P. Williamson.
+APPROVED
+FOR THE AIR ATTACHE:
+• McDUFF
+USAF
+Asst Air Attache
+Library Subj. + Drea Codes 1
+5-01
+1/88
+341-624 1322
+18
+403
+2/25.32-7
+22 m
+m
+- INCLS.
+Ltr & incls fr P. Williamson
+DISTRIBUTION BY ORIGINATOR
+1 cy AFCIN-4 w/o incls
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+IR-82-58
+UNCLASSIFIED
+(CLASSIFICATION)
+MINICODED o
+DECLASSIFIED
+Authority NND 9237007

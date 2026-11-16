@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:57:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7344244, "source_ctime_ns": 1793365201933248464, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0041.jpg", "source_mtime_ns": 1785684665000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0041.jpg", "source_sha256": "84b404b4a4f650b1769e7c90ce5c1471bb0fa69490bf467e0f2f5db10519ac9f"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 577, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+ALASKAN AIR COMMAND
+ELMENDORF AIR FORCE BASE
+APO 942, U. S. AIR FORCE
+RESTRICTED
+STATENENT
+31 January 1952
+The night following the phenomenon, we attempted to duplicate the
+results but without success.
+We stopped the antenna at same azimuth
+and changed transmitter frequency over a considerable range. No plots
+were received by F-2.
+/s/ JAMES S. BANGS
+Field Service Representative
+General Electric Co.
+CERTIFIED
+FRUE COPY
+umothe
+Timothy J. Planagan
+Captain, USAF
+SECURITY INFORMATION
+RESTRICTED
+Incle # 14
+21 19
+AFA11176 1ął
+Declassification Authority: NND 923007

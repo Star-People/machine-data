@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:40:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1762428, "source_ctime_ns": 1793359034301503163, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-018-0002.tif", "source_mtime_ns": 1785681298000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-018-0002.tif", "source_sha256": "e0fca4814b0eb8195d1c4017866f7733facb5b3855eec2dca6595c7f9fad654b"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 513, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+FLIGHT 3-H 4602 AISS
+McGuire Air Force Base
+Trenton, New Jersey
+AISH
+2 March 1955
+SUBJECT :
+TO :
+UFOB
+Commander
+4602 Air Intelligence Service Squadron
+Ent Air Force Base
+Colorado Springs, Colorado
+Attached is UFOB report 3H-UFCB-3-55.
+The two vials
+containing the residue of the UFOB and a copy of the report
+have already been forwarded to ATIC in accordance with
+instructions by Colonel White.
+1 Incl
+3H-UFOB-3-55
+chartstan
+CHESTER B. HANSON
+Captain,
+USAF
+Officer in Charge

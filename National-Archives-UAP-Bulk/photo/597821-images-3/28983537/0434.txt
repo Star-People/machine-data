@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:37:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3335545, "source_ctime_ns": 1793382377746536170, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983537/0434.jpg", "source_mtime_ns": 1785700965000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983537/0434.jpg", "source_sha256": "936e563bf5fef4c5c280224a36f8e6d5a2560becdd19530ddd34dbfc97fe6358"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 753, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ZCSQB845ZCAHA704
+ATIC
+PP RJEDSQ
+DE RJEDAHM 9
+1200x69 07 46
+P 1919402
+0001 20 01 19 67
+FM COMDR 753D ACRON SAULT STE MARIE AFS
+TO RJWFALB/COMDR AIR DEFENSE COMMAND ENT AFE
+RJEDSQ/COMDR AIR TECHNICAL INTELLIGENCE CTR WRIGHT PATTERSON AFB
+RJEZHQ/ASSISTANT CHIEF OF STAFF INTELLIGENCE HDQS USAF WASH 25
+RJEZHQ/OFFICE OF INFORMATION SERVICES HDQS USAF WASH 25
+INFO RUEPBL/COMDR 1006 AISS FORT BELVOIR
+RJEDAH/COMDR 32TH ADIV TRUAX FLD
+AF GRNC
+ET
+/UNCLASSIFIED/OPN 699. SUBJECT: ATTN: ODI UNIDENTIFIED
+FLYING OBJECTS (UFOE) REPORT, THE FOLLOWING REPORT IS SUBMITTED
+IN ACCORDANCE WITH AFR 222-2.
+A. DESCRIPTION OF OBJECT
+(1) SPHERE
+(2) 1/8 INCH IN DIAMETER, SIZE OF A PEA
+(3) WHITE
+(4) ONE (1)
+(5) N/A
+(6) LEFT A TAIL 50 TO 100 MILES BEHIND
+PAGE TWO RJEDAHM 9

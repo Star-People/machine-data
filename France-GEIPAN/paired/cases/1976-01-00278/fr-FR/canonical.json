@@ -8,7 +8,7 @@
   "document_id": "doc-46cfb9333e6721e648f9b730",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-27T13:46:07Z",
+    "generated_at": "2026-11-16T05:20:09Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-01-00278/case.html",
-    "bytes": 18817,
+    "bytes": 18835,
     "canonical_source_identifier": "GEIPAN:1976-01-00278",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "SAINS-RICHAUMONT (02) 01.01.1976",
     "relative_path": "cases/1976-01-00278/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "774d389088920eaef81f8befd604ebbb4ed1c01092c5dfd3d586897b610c6304",
+    "sha256": "e5c575847e3b83c6bba2435e7ab53dcc4758a18d9f1b61b5c3d2f8e4b69c6876",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-01-00278"
     ]

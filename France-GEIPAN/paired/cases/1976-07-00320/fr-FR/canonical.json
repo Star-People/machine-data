@@ -8,7 +8,7 @@
   "document_id": "doc-8b7bdca07fb5151718ac3930",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-26T15:23:44Z",
+    "generated_at": "2026-11-16T04:43:15Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00320/case.html",
-    "bytes": 18585,
+    "bytes": 18603,
     "canonical_source_identifier": "GEIPAN:1976-07-00320",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "COLOMBES (92) 16.07.1976",
     "relative_path": "cases/1976-07-00320/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "ec2c5e9f4e9c794383a379b4a87d8bc81b0180bc58d2928aba2b5d97e1d24174",
+    "sha256": "ce448bb8936ccd45d977390ae7dc309d7270c82edd74a719dc83189dfa08940a",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00320"
     ]

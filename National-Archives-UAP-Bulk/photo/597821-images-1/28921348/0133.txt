@@ -1,0 +1,95 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:52:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5733738, "source_ctime_ns": 1793368536589392032, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0133.jpg", "source_mtime_ns": 1785688700000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0133.jpg", "source_sha256": "f0190adfd8380aad1fbce839acc8d35bbf26c9c9d296698521bd08ca9fc9fc98"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 1161, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+May
+3
+7
+8
+8
+10
+11
+11
+11
+ПЕРЕСОЛОР
+1 - 15 MAY 1955 SIGHTINGS
+OBSERVER
+LOCATION
+Miami, Florida
+New York City, New York (CASE MISSING) Civilian
+Keflavic Airport, Iceland
+Military
+Fellows, California
+IN SEPARATE
+Baltimore, Maryland (FOLDER)
+FOLLOWING
+Glenburnie, Maryland
+29 Palms, California
+Klamath Falls, Oregon
+Long Beach, Mississippi
+Ukiah, California
+Terryville, Connecticut
+Thurmon, Colorado
+Civil Airlines
+Yonkers, New York
+Munday, New York
+Tinker AFB, Oklahoma
+Military
+Bear Island, Maine
+Charleston, Maine
+Duluth, Minnesota
+Air (RADAR)
+Old Town, Maine
+: Hollister, California
+Fargo, North Dakota
+Syracuse, New York
+Little Falls, New Jersey
+New York City, New York
+EVALUATION
+3520
+Other (UNRELIABLE RPT)3521
+Insufficient Data
+3522
+UNIDENTIFIED
+3523
+MISSING
+Aircraft
+3524
+(PHYS S) ANOther (VALVE WHEEL) 3594
+Balloon
+3525
+Aircraft
+3526
+Balloon
+3527
+Insufficient Data
+3528
+Astro (JUPITER)
+3529
+Aircraft
+3530
+Aircraft
+3531
+Aircraft
+3532
+Astro (JUPITER)
+3533
+Astro (METEOR)
+3534
+Other (AIRCRAFT FLARES)35%
+Other (AIRCRAFT FIARES) 3%
+Aircraft
+3537
+Other AIRCRAFT FLARES 351
+Aircraft
+3501
+Aircraft
+3540
+Balloon
+3541
+Aircraft
+3542
+• (PHOTO)
+Other (HOAX)
+3543

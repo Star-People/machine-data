@@ -42,25 +42,16 @@
           "error": null,
           "field": "region",
           "page_id": "page-a6659c1014b8f57f23545892",
-          "qa_findings": [
-            {
-              "check": "negation",
-              "severity": "error",
-              "source_count": 1,
-              "source_marker": "pas",
-              "status": "mismatch",
-              "translation_equivalent_count": 0
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "not-required",
           "segment_id": "seg-e157c4410c9660e00a261ab2",
           "segment_index": 3,
           "source_segment_id": "seg-e157c4410c9660e00a261ab2",
           "source_text_sha256": "0a79060cd5fda770653c6ef5a845c4156cf5d2fc3211bb2c6d7933e4863ca28f",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Region: Northern France",
-          "translation_text_sha256": "9a79b0c6fec379314f029243334cb8fd1d77e449469245c98a7e398505f21c33"
+          "status": "not-required",
+          "text": "Region: Nord-Pas-de-Calais",
+          "translation_text_sha256": "9c5a93d65248e0726af90bddf09e8bdb8ed66c738fe40cb16f2ae028b06580f5"
         },
         {
           "end_ms": null,
@@ -68,15 +59,15 @@
           "field": "department",
           "page_id": "page-a6659c1014b8f57f23545892",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-a718a52579ede39ebd5dabb6",
           "segment_index": 4,
           "source_segment_id": "seg-a718a52579ede39ebd5dabb6",
           "source_text_sha256": "ba4243423fde649e305532e617778682e9b990e9b24f13173391447e11cf369c",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Department: North",
-          "translation_text_sha256": "5fbb2c6a5b7af9e7ecd708c54669fe73cff81bf1afffc4c39e8ba856744400e8"
+          "status": "not-required",
+          "text": "Department: Nord",
+          "translation_text_sha256": "1a5cc89695a40d7af147984bf80a5d4d3d8d72753d616a66f6c854b66810c2ae"
         },
         {
           "end_ms": null,
@@ -123,8 +114,8 @@
           "source_text_sha256": "100c7dbe58a37a230b0477abc93df8ffe27efbb96e62ad510c29995b20f52ed0",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Phenomenon type: Unclassifiable as it exceeds the sole competence of the GEIPAN",
-          "translation_text_sha256": "b65db74b34bacbed56ad8a697bddcb9bc562f5d39ec096dc7d86960d39ed40cf"
+          "text": "Phenomenon type: Uninvestigable as it exceeds the sole competence of GEIPAN",
+          "translation_text_sha256": "3beaf4a5953789be1b6f07b6a74c35f5cf7f42b3dec4928b318961fae63db308"
         },
         {
           "end_ms": null,
@@ -148,15 +139,15 @@
           "field": "documents",
           "page_id": "page-a6659c1014b8f57f23545892",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-94ca070a90c4923ab512b017",
           "segment_index": 9,
           "source_segment_id": "seg-94ca070a90c4923ab512b017",
           "source_text_sha256": "80de1be3752a7896da4c914ece15a70471ecfd4292186e7691c07ca0b4cce29c",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 533 (1975309373).pdf",
-          "translation_text_sha256": "78ecf474684e6fc9cee0c3f5a13b06f34235b0cc360c957cb475bd3878307c50"
+          "status": "not-required",
+          "text": "Documents: PV n°533 (1975309373).pdf",
+          "translation_text_sha256": "80de1be3752a7896da4c914ece15a70471ecfd4292186e7691c07ca0b4cce29c"
         },
         {
           "end_ms": null,
@@ -164,13 +155,13 @@
           "field": "testimonies",
           "page_id": "page-a6659c1014b8f57f23545892",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-dc5ab825f9a0204e3d79f4d0",
           "segment_index": 10,
           "source_segment_id": "seg-dc5ab825f9a0204e3d79f4d0",
           "source_text_sha256": "0485b197354568d1f41335fbf89f596f66a1be21ceb57c8479f800cdb802a7ff",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: SAINT-HILAIRE-LEZ-CAMBRAI (59) 31.03.1975 T1 SAINT-HILAIRE-LEZ-CAMBRAI (59) 31.03.1975 T2",
           "translation_text_sha256": "7c142a729576baadedff1b4fe5f634f04a61e3bf205d6b4123d2ca3fa8fd115c"
         },
@@ -195,36 +186,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-a6659c1014b8f57f23545892",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "03:30"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "3",
-                "30"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-b8765305c59f38de2bbaf15f",
           "segment_index": 12,
           "source_segment_id": "seg-b8765305c59f38de2bbaf15f",
           "source_text_sha256": "9e76cc0a88a6a617d97d88b98afc685b1f640ad0ca3535f18d760c1e3ea69db0",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: On March 31, 1975, around 3:30 a.m., a witness (T1) is awakened by his dog's aggressive barking in the bedroom. Looking out the window, the witness observes a luminous object approximately 80 meters from their home in the street. The object is described as a rounded parallelepiped emitting colored lights (red, green, blue, then all white). The craft moves slowly and silently down the street towards Avesnes-les-Aubert (59). The observation lasts about half an hour during which T1's wife (T2) and daughter also come to confirm the object's presence. In May, the Gendarmerie is notified of the observation, but no traces or additional testimonies are found in the neighborhood.\n\nFirstly, the witnesses' descriptions in the police report are fully compatible with a ground phenomenon. Neither T1 nor T2 describe anything detaching from the ground. T1 explicitly states, \"I am certain it was not a motor vehicle,\" confirming for him it was a ground-based object. Only their daughter, who did not give a testimony and whose statements are reported by the gendarmes, claimed to have seen the object at 80 cm from the ground, specifying it had no legs. However, it is not possible to attest that an unrecognized object seen at 80 cm from the ground is not associated with perceiving it against a ground backdrop, unless the object was observed at the top of a crest and stood out against the sky, or unless the lighting cast a shadow on the ground, which is not the case here or established. The absence of seeing legs on an unknown object against a ground backdrop does not make it ungrounded.\n\nTherefore, the investigation of the explanation extends beyond the sole competence of the GEIPAN since the observation, once the unexploitable portion of the daughter of T1 and T2's isolated statements is set aside, is compatible with a totally ground-based phenomenon. In conclusion, the GEIPAN states: unexploitable as it exceeds the sole competence of the GEIPAN. Nevertheless, it is within the GEIPAN's authority to assess the case's consistency. It is poor:\n\n- in terms of information, a key element is missing, the description of the disappearance. No one describes it. The first one provided in the report is unexploitable, it is executed \"according to the family's indications,\" it is not a direct testimony (carried out by the gendarmes or by private investigators of Lumières Dans La Nuit).\n\n- in terms of reliability, one should question the reality of the perceived strangeness, at least concerning T2 who went back to bed while the PAN was perfectly visible 100 meters from the bedroom window. We also note, in the same vein, that the witnesses did not spontaneously approach the gendarmes. The latter were alerted by the private investigators (LDLN) who had therefore already met the witnesses.",
-          "translation_text_sha256": "683eec6ae548c6d274911748356a1c8b16f256adb2cc8b845ca20b36c948d1ba"
+          "status": "machine-unreviewed",
+          "text": "Description: On March 31, 1975, around 3:30 a.m., a witness (T1) is awakened by his dog's aggressive barking in the bedroom. Looking out the window, the witness observes a luminous object approximately 80 meters from their home in the street. The object is described as a rounded parallelepiped emitting colored lights (red, green, blue, then all white). The craft moves slowly and silently down the street towards Avesnes-les-Aubert (59). The observation lasts about a half-hour during which T1's wife (T2) and daughter also come to confirm the object's presence. In May, the Gendarmerie is notified of the observation, but no traces or additional testimonies are gathered from the neighborhood.\n\nFirstly, the witnesses' descriptions in the police report are fully compatible with a ground phenomenon. Neither T1 nor T2 describe anything detaching from the ground. T1 explicitly states, \"I am certain it was not a motor vehicle,\" confirming for him it was a ground object. Only their daughter, who did not give a testimony and whose statements are reported by the gendarmes, claimed to have seen the object at 80 cm from the ground, specifying it had no legs. However, it is not possible to attest that an unrecognized object seen at 80 cm from the ground is not associated with perceiving it against a ground backdrop, unless the object was seen atop a crest and stood out against the sky, or unless the lighting cast a shadow on the ground, which is not the case here or established. The absence of seeing legs on an unknown object against a ground backdrop does not make it ungrounded.\n\nTherefore, the investigation of the explanation extends beyond the sole competence of the GEIPAN since the observation, once the unexploitable portion of the daughter of T1 and T2's isolated statements is set aside, is compatible with a totally ground-based phenomenon.\n\nIn conclusion, the GEIPAN states: unexploitable as it exceeds the sole competence of the GEIPAN. Nevertheless, it is within the GEIPAN's purview to assess the case's consistency. It is mediocre:\n\n- in terms of information, a key element is missing, the description of the disappearance. No one describes it. The first one provided in the report is unexploitable, it is executed \"according to the family's indications,\" it is not a direct testimony (carried out by the gendarmes or by private investigators from Lumières Dans La Nuit).\n\n- in terms of reliability, one should question the reality of the perceived strangeness, at least regarding T2 who went back to bed while the PAN was perfectly visible 100 meters from the bedroom window. We also note, in the same vein, that the witnesses did not spontaneously approach the gendarmes. The latter were alerted by the private investigators (LDLN) who had therefore already met with the witnesses.",
+          "translation_text_sha256": "627db5515b06c9d18bc4434741a8e0f0d338d93342cf555169c1348de5cf280f"
         }
       ],
       "source_page_id": "page-a6659c1014b8f57f23545892"
@@ -235,13 +206,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-09-23T07:25:25Z",
+    "generated_at": "2026-11-16T05:25:25Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

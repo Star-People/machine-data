@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:36:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3226798, "source_ctime_ns": 1793384348551877845, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990096/1256.jpg", "source_mtime_ns": 1785748475000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990096/1256.jpg", "source_sha256": "74eebbbc0e51b8e882f8fce6352b5aa6c90eb4ff3e07e5cfa08da77e30f97c9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 825, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+Or 60
+E GROUP
+Loco
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Cincinnati,
+TYPE OF OBSERYATION
+# Ground-Visual
+Ohio
+• Ground-Reder
+D Alv-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probahly Bolteon
+Pessibly Balloon
+Wes Alvereft
+Probably Aireral
+Possibly Aircral
+Was Astronomical
+Probobiy Astronomical Metec
+Possibly Astronomical
+Other.
+Insufficient Deto for Evolut
+Unkno
+CY-
+O Ne
+7. LENGTH OF OBSERVATION
+4-7 sec
+3. SOURC:
+Civilian
+0. NUMBER OF OBJECTS
+one
+ID. BRIEF SUMMARY OF SICHTING
+Circular object, blue with white center. Object
+had long tail sprox the size of object with
+color fromfellow to red orange. Object first
+noticed almost directly overhesd and diseppeare
+aprox 15° above horizon in W.
+| 9. COURSE
+E-W
+11. COMMENTS
+Description and duration of this object
+are characteristic of a meteor.
+129 (R2Y 26 8HP 52)

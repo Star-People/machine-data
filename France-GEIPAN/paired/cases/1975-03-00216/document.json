@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1975-03-00216/case.html",
-    "bytes": 21723,
+    "bytes": 21741,
     "canonical_source_identifier": "GEIPAN:1975-03-00216",
     "case_metadata": {
       "classification": "C",
@@ -41,12 +41,12 @@
     "original_title": "SAINT-HILAIRE-LEZ-CAMBRAI (59) 31.03.1975",
     "relative_path": "cases/1975-03-00216/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "6e3f32bbb1700ddd1d82f3dab704e08a1234d224f4337a7232001416de608e85",
+    "sha256": "67adf448d6c35cd8752dcbc0a623b013f1ba092f4f65ce6c326657039c60d8f8",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1975-03-00216"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

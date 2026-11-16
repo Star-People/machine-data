@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:07:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14659160, "source_ctime_ns": 1793361217760738048, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0224.tif", "source_mtime_ns": 1785565261000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0224.tif", "source_sha256": "e9abef5841627a34e40a871f0bc37e6444dc3434120d04868b363673eecee391"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 914, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RADIO OPERATOR'S STATEMEN
+I am Sergeant Harris, radio operator on this flight
+from Yokota to Wake Island, 0752 to 0852 Zulu, position
+reported as normal,
+0852 position report was
+made to
+Wake Island.
+Weather obtained, winds.
+V was instructed to report to Wake Island that a green
+flare had been sighted at position 2119N/16130E.
+This report was made to Wake Island.
+At 0920, Wake
+Island returned the call and requested to know if the
+flare was fired from air or from the ground,
+We were
+unable to confirm whether the flare was fired from the
+air or from the ground.
+At 0930 after orbiting the area,
+reported to Wake Island that we were departing
+on course
+for Wake Island.
+Between 0930 and 0955 the PC 348
+receiver was rendered inoperative
+because of a dynamotor
+malfunction and there was no further incident until
+Wake Island, where the mulfunction was reported.
+1180923
+Suel 5
+DECLASSIFIED
+Authority NND 9237007

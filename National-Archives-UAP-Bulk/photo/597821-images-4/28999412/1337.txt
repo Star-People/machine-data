@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:01:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8508095, "source_ctime_ns": 1793387907472956709, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999412/1337.jpg", "source_mtime_ns": 1785748577000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999412/1337.jpg", "source_sha256": "b90d347669506d57f08453863c335f6f3864adcc9e3a035e77c55ba1fdc61614"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 654, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2.05T.62
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 23, D.C.
+REPLY TO
+ATTN OF:
+SUBJECT:
+AFISI-6D 24-185-514
+Civilian
+830CT 1962
+TO: SAFOI
+1. The attached correspondence from Subject was received from the
+FBI and is forwarded to your office for any action deemed proper
+under the provisions of paragraph 6, AFR 200-2.
+2. Files of this Directorate contain no record of Subject.
+3. This Directorate contemplates no further action in this matter.
+7. Sueco
+F. L. WELCH
+Asst Chief, Counterintelligence Division
+Directorate of Special Investigations
+The Inspector General
+1 Atch
+Memo fm FBI dtd 11 Oct 62
+fwd ltr fm Subject
+KOM

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:48:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4886316, "source_ctime_ns": 1793378990703844683, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970412/0256.jpg", "source_mtime_ns": 1785700779000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970412/0256.jpg", "source_sha256": "99c0d821a74e1a5be06da43e6b5847d4f2579b8918890c6d7a6c778fb0bdacf8"}
+
+===== PAGE 1 =====
+{"alpha_words": 29, "chars": 148, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Shiloh Chit 19
+He kare the vale Combined off? that
+Fild now and you can come any trie
+re are anyone to hear that y
+found out.
+rene the Metori!
+This
