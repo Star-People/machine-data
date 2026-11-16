@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:01:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8333407, "source_ctime_ns": 1793379966557674524, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973966/0510.jpg", "source_mtime_ns": 1785701077000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973966/0510.jpg", "source_sha256": "ad43619e1483a2110a27a58a8bf0423841c07a449b69f49fb0073cb71ae429f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 750, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+6 November 1957
+3. DATE-TIME GROUP
+Local
+CMT
+07/02452
+3. PHOTOS
+• Yes
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Mission Hills, California
+.. TYPE OF OBSERVATION
+XA Ground Visual
+• Air Visuel
+• Ground-Reder
+• Air-Intercopt Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+1 hour & 20 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+One round yellow to green to flashing
+blue object the size of a dime. Obj
+was seen for 1 hour 20 minutes.
+12. CONCLUSIONS
+Was Balloon
+00
+Probably Balloor
+Possibly Balloon
+•
+•
+Astronomical Venus
+Probably Astronomie
+ossibl
+Astronomical
+Other-
+Insufficient Date for Evaluatior
+Unknown
+9. COURSE
+unknown
+11. COMMENTS
+Description, duration indicate
+that
+this sighting was caused
+by vénus.
+SE RE 10 O0 OU

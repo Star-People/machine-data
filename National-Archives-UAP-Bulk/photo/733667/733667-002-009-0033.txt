@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:23:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 541137, "source_ctime_ns": 1793394381138940722, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0033.jpg", "source_mtime_ns": 1785567363000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0033.jpg", "source_sha256": "65330e6c4a3996ecfbc9cbd3d15bc5eb4c6fb27e39ba180a439723d4e02a868f"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 122, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SOKLEN
+PM
+5 MAR
+1337
+George
+PHILATELY
+THE FAMILY
+HOBBY
+USA
+) USPS 1985
+FAA
+701C STREET
+Box 1ął
+ANCHORAGE, ALASKA
+99513
+14

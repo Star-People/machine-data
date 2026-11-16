@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:42:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3856423, "source_ctime_ns": 1793385152603142729, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992025/0130.jpg", "source_mtime_ns": 1785748433000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992025/0130.jpg", "source_sha256": "3e28f4982ef7ed755751fa0a7c6b3a5ef03d851bb9ef4b5f82b064f7640f0a9a"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 434, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN : 8029 (3 Apr 51)
+Page s of c pazen
+MAVY CRNO
+UNCLAS
+MER INT
+FOLLOWING RECEIVED FRON SS PRESIDENT GRANT CALL SIGN KOPO O00230Z,
+SIGHTED ELONGATED OBJECT PRESUMED TO BE MISSILE BEARING 259 DEGREES
+FROM 34-34N 132-1SN HEADING IN A NORTHEASTERLY DIRECTION AT HIGH
+RATE OF SPEED. SIGHTED ALSO SURFACE CRAFT BEARING 252 DEGREES FROM
+PREVIOUS POSITION 14 MILES DISTANCE.
+Эт
+025/03052
+NODE : Advance copies delivered to OOP-CP and O1T

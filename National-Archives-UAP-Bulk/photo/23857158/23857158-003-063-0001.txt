@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:50:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5274268, "source_ctime_ns": 1793358560903723674, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-063-0001.tif", "source_mtime_ns": 1785681130000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-063-0001.tif", "source_sha256": "20d757b2a8786b553b368816a60bc0df64d65fdaf4d38dfa3f17c987e7bbc60a"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 676, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LCG
+1 REPORT NO.
+4153-0P0B-202-55
+2 DATE/TIME OF SIGHTING
+09/0545Z July 1955
+4 LOCATION OF SIGHTING
+Mira Lona, Califorala
+5 MEANS RECD
+T7 Mag
+7 INVES UNIT
+21: 1-0
+16 ACTION
+I restigation Authorized
+8 DATE INVES ASSIGNED
+11 July 1955
+10 DATE IR RECD IG 11 DATE IR APPROVED
+13 AISOP FORM 5
+41 July 1955
+14 COMMENTS
+3 RECD HQ 4602D
+1l July 1955
+19 ASSIGNING OFPICER
+It, MeBatee
+12 DATE IR TO ATIC
+Due to the similarity of description and the time of sighting with
+120B's 303 and 204, an investigation was authorized. Flight 1-C
+investigated the sightings with the following conclusions;
+15 CONCLUSIONS
+AISOP FORM 7 (2AFR 55)

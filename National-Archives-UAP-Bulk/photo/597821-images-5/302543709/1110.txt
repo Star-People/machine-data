@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:27:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1024060, "source_ctime_ns": 1793389761653855261, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543709/1110.jp2", "source_mtime_ns": 1785808643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543709/1110.jp2", "source_sha256": "4363f6d5a452f31f960175851e3571475abba9e7b132f2c546b7abd2aabd4b91"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 166, "method": "ocr", "page": 1, "variant": "clean-vision"}
+BRILLIA.
+PURPLE
+(PULSATING)
+200'
+A SEEN AT PROX ISO DISTANCE ANI
+107 45
+BERL/ANT
+AS
+MEN IN AL
+MCCOY HAD MADE 1 SKERH WHICH GAVE HIS IMPRESTON
+OF ORJECT A5 SAN 130VE.

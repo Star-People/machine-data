@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:41:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3702630, "source_ctime_ns": 1793373627427126049, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947885/0186.jpg", "source_mtime_ns": 1785689004000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947885/0186.jpg", "source_sha256": "7441ce09e03349a86490b86cf8f64f83d29819495afad3feac9aecb331ed848e"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 663, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AIR TECHNICAL INTELLIGENCE CENTER
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+148 AUG1952Í
+Wagara Falls Municipal Airport
+Hiagara Falls, New York
+Do ar
+Your recent report of unidentified serial phenomena has been
+recalved by the Air Technical Intelligence Center.
+Inclosed is s
+questionnaire, which, when completed by you and returned in the
+inclosed, self-addressed envelope, will aid in standardizing the
+data and will provide a complete record of the ocourrence,
+Your interest in raporting the matter and your public spirited
+desire to be of servica are greatly appreciated.
+sincerely yours,
+Chest tenned
+2 Inels
+a/s
+ROBERT E. KENNEDY
+Major, USAF
+Air Adjutant Genera

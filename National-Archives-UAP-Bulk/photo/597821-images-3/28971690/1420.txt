@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:46:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4468969, "source_ctime_ns": 1793379240642001895, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971690/1420.jpg", "source_mtime_ns": 1785701080000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971690/1420.jpg", "source_sha256": "ab25f64cbc0ef7b8d8df4738386cd355f36da0bb82cdfc7cb96c0fefbd43ce7f"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 403, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RADAR
+SITE
+claysburg, Pa.
+RAOB
+STATION
+Pittsburgh, Pa.
+DATE20 Sept 57 TIME
+18002
+FORECASTER
+P
+975
+T
+20
+19
+H t
+1152
+365
+850
+14
+13
+4980
+353
+Дл_
+дв.
+CASE NO.
+PAGE.
+COMPUTATION SHEET
+FOR
+ATMOSPHERIC INDEX OF REFRACTION
+3 WG FORM 29-ISEPT 55
+STATION REFRAOTIVE
+INDEX
+290
+300
+310
+320
+330
+STANDARO
+ATMOSPHERIC
+REFRACTION
+340
+350
+"з"
+REARACTIVE
+INDEX-
+FORLANOMALOI
+JUS
+PROPAGA
+360
+ATTACHMENT 2
+HEIGHT
+(THSO FT)

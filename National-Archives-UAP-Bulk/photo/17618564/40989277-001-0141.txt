@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:27:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1053168, "source_ctime_ns": 1793355836801907790, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0141.jpg", "source_mtime_ns": 1785564537000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0141.jpg", "source_sha256": "e6c5ae4f5e317e955ec0f25489c2c89d8ad16120d24ce0ab7d7b785ff1ded4d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1325, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NOV 26 '96 11:07AM SAE DETROIT BR. OFF.810 6490425
+P. 1/2
+For Advancing Mobility
+3001 WEST BIG BEAVER, SUITE 320, TROY, MI 48084-3174 U.S.A.
+(810) 649-0420
+Fax No. (810) 649-0425
+DETROIT BRANCH OFFICE
+E-mail: sae@sae.org
+http://www.sae.org
+November 25, 1996
+Captain Jim McAndrew
+SAF/AAZD, Suite 600
+2221 S. Clark St.
+Arlington, VA 22022
+Telephone: 703-604-4788
+Fax:
+703-604-5533
+Dear Captain McAndrew:
+Before the local Detroit haze completely obscures the memory of the wide open sparkle of New Mexico,
+I want to thank you for your key role in shining appreciation beams on Colonel Stapp. It was good to
+see friends and admirers there who meant a lot to him rather than more of our record-breaking crowds
+of commercial customers.
+Joe Kittinger added much personal zip; the secretary's words were perfect, and youribravest man'
+combined smoothly with the SAE update human rocket article for the main Colonel Stapp oriented
+address. The text of each was so good that excerpts were used without modification.
+Please remember us with any emerging material that could be used in the same way. We will do
+likewise.
+Regards,
+M. Nosio, Jr.
+SAE Staff Engineer
+/ah
+Post-It™ brand fax transmittal memo 7671
+#of pages • 2
+Tapt, J. MeAudrews
+From A, HeLLer
+SAE
+Co.
+Dept.
+Phone #
+Fx*703-6045533
+Fax *
+SOCIETY OF AUTOMOTIVE ENGINEERS, INC.

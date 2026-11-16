@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:58:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7258333, "source_ctime_ns": 1793383598480343889, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987374/1030.jpg", "source_mtime_ns": 1785748360000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987374/1030.jpg", "source_sha256": "80529bb9e40929195b0bfd3a633ae75b378efc4092aa6982b3f54ad4126a40c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 348, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IV. RECOMMENDATIONS
+None, data merely submitted.
+PREPARED BY:
+Nate Holones
+WADE H. JONES
+WWRCPA-2
+PUBLICATION REVIEW
+This report has been reviewed and is approved.
+DISTRIBUTION:
+WWRC P
+(1 cy)
+WWROPA
+sdoman H. Brokeshaveldu
+SOLOMON F. BROKESHOULDER, Capt, USAF
+Chief, Organic Analysis Section
+Physics Laboratory
+Materials Central
+MCER WWRC P60-26
+2

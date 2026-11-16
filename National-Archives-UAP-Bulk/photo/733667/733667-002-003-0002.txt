@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:28:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1491515, "source_ctime_ns": 1793394285408080530, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0002.jpg", "source_mtime_ns": 1785567349000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0002.jpg", "source_sha256": "c424b5607c8d597939c74c4e33002aee6592f390c29a16963c9818965b00c41a"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 649, "method": "ocr", "page": 1, "variant": "plain-vision"}
+172 Funston Avenue
+San Francisco, CA 94118
+February 25, 1987
+FAA
+701 C Street
+BOx 14
+Anchorage, Alaska 99513
+Gentlemen:
+I have just read in the San Francisco Chronicle of
+February 25, 1987, that your agency is providing various
+types of information re the UFO sighting by the JAL pilot,
+Captain Kenjyu Terauchi.
+Please send me a copy of the FAA form summarizing
+the sighting.
+I understand, because this is under $5,
+that it is free. I would also appreciate any other free items.
+Would you also send a price list for the 20 individual
+items you are offering re this event.
+Thank you for your courtesy.
+Very truly yours,
+Paral Keast
+Carol Keast
+CK: S

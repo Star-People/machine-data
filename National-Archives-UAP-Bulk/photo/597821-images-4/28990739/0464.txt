@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:59:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8096659, "source_ctime_ns": 1793384641571876110, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990739/0464.jpg", "source_mtime_ns": 1785748540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990739/0464.jpg", "source_sha256": "faa104fa1867dde7441e2fa6e7375d77e83b846fb41b9fe2ff4b03e0fc86ab58"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 282, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Thất saucen is
+shaped like a
+double space Cover.
+grey gleary Metal.
+Fere sey
+the
+War.
+in the Slates of New EnglanD
+The Altitude is so Law, that
+Enemy plaves els, Cauld
+ly - our and stile never.
+lie
+sallect !! The stay on tirmine
+any la choose, seems Closi
+anal
+au libe smoke screen

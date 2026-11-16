@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:10:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15736620, "source_ctime_ns": 1793356406092154648, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0006.tif", "source_mtime_ns": 1785564699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0006.tif", "source_sha256": "10dcaf051ee5e4254023bf6aef05924aa132a4db3318040019b475e6c4ec87a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 569, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECRET,
+ABSTRACT
+A Technical Intelligence Report covering the method of investiga-
+tion of unidentified flying objects and results obtained to date is
+presented.
+The report discusses in full the history of the project, the
+problems encountered, and the procedures followed in the investigation
+and evaluation of reports of unidentified flying objects. Since the
+project is continuous in nature, this report comprehensively treats
+reports of sightings only up to January 1949. Work is continuing on
+later reports.
+S-5Ü(42-}
+¿SECRET
+Declassification Authority: NND 57565

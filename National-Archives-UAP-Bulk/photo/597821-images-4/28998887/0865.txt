@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:03:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8593285, "source_ctime_ns": 1793387592964521707, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998887/0865.jpg", "source_mtime_ns": 1785748148000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998887/0865.jpg", "source_sha256": "dc2fa2c476173dc7aa5053cd8c5f0412cdabbaf6d198e227080ab378594faac2"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 942, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+September
+1962
+3.
+DATE-TIME GROUP
+Locol
+GHT.
+5. PHOTOS
+•Yes Physical
+D No
+Specimen
+7. LENGTH OF OSSERVATION
+to.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+›nonomash.
+Washington
+TYPE OF OBSERVATION
+1) Ground- Visual
+0 Air Visual
+| 6. SOURCE
+• Ground-Radar
+D Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+oue
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+& Other Rock & clay
+Insufficient Dote for Evaluation
+Urused by high ten
+BRIEF SUMMARY OF SIGHTING
+003
+light grey
+in color & light
+weight. Forwarded in connection
+with decay of sputnik IV.
+found on
+ground
+11.
+COMMENTS
+Analysis by ASD shows that
+obj
+not fm outer
+space. Created by
+fusion caused by contact with
+high tension wire which broke
+and fell to ground.
+See
+pecimen 1-3745-440
+(ORTECT IN iNESICAL SPECImENTICE)
+ATIC FORM 329 (PRV 26 SEP 52)

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:07:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9854836, "source_ctime_ns": 1793387803777202463, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999203/1148.jpg", "source_mtime_ns": 1785748280000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999203/1148.jpg", "source_sha256": "48c5d25821d8f5caaa05a8a04a63504a8abab4c0ad8ac09b2a1890698060f16f"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 332, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20 SEPT, 962
+29 November 1962
+Dear Mr. Laval:
+The sightings to which you refer in your
+letter of October llth have never been
+officially reported to the Air Force
+according to our files. Therefore we are
+not able to effect an evaluation.
+Sincerely,
+WILLIAM J.
+LOOKADOO
+Lt. Colonel, USAF
+Publie Information Div
+Office of Information

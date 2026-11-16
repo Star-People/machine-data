@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:37:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4391189, "source_ctime_ns": 1793372333789533672, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942365/00438.jpg", "source_mtime_ns": 1785688786000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942365/00438.jpg", "source_sha256": "62e7f8f79dded8f21dcebcd9f34f62439e1f2edbecffba33b0aa9520743d3b65"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 848, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+29 May 1952
+DATE•TIME GROUP
+Local
+- 11900
+GHT
+0100
+S. PHOTOS
+CST
+C Yes
+* No
+• LENGTH OF OBSERVATION
+8 Minutes
+I0. BRIEF SUMMARY OF SIGHTING
+This object would be ncar the sun. He
+mentions stratus clouds. Could be some
+type of reflection in the clouds
+PROJECT 10073 RECORD CARD
+CATION
+San Antonic, Texas
+TYPE OF OBSERVATION
+2 Ground. Visual
+Ü Air Visuol
+6. SOURCE
+& Ground• Radar
+U Air-Intercept Radar
+AF Pilot
+8. NUMBER OF OBJFCTS
+COLIRSE
+CONCLUSIONS
+Was Balloon
+Probably Bailoen
+Possibly Bailoon
+Was Aircraft
+Probobly Aircraft
+Possibly Aircraft
+Xe tiss Astronomestf
+Probabiy Astronomical
+D Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+K Unknow
+COMMENTS
+Good report--very similiar to one
+reported fron Alaska.
+The initial
+sighting was 300° to 325°
+Color: Bright
+Shape :
+Tubular
+Altitude
+25° to 30°
+ATIC FORM 329 (REV 26 SEP 52)

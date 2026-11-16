@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:35:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3992447, "source_ctime_ns": 1793376234341904310, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959831/01273.jpg", "source_mtime_ns": 1785696836000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959831/01273.jpg", "source_sha256": "7ea6fbe284fec9cf5c22830283cfb675e43ed500d14ad81816da4e98c8993297"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 363, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PACK THREE JUFLN 23
+7C NO CEILING
+7D 12 MILES
+7E LESS THAN 12 PER CENT
+7F HONE
+& NONE
+S NONE
+IE RON
+4. 1.0...
+42 DANTICIS 02F2 IT COL SARDAL S. RILLIANSONS JR. COMMENTS:
+MO ANALYSIS IS POSSILE DUE TO LACK OF OTHER SUPPORTING EVIDENCE
+OR ADDI REPTS. RADAR FACILITIES, VEA STATIONS AND COLTROL ONERS IN
+THE AREA WERE CHECKED WITH LEGATIVE RESULTS
+11/1636Z OCT JRFL

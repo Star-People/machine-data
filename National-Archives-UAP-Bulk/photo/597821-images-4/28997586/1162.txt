@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:43:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3932506, "source_ctime_ns": 1793386850797065358, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997586/1162.jpg", "source_mtime_ns": 1785748467000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997586/1162.jpg", "source_sha256": "3fa6569f2af7f1ec0fc518259e5ea3b8e868b49e95aa4e9cf277e9269a20fa15"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 588, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF•MESSAGE BRANCH
+UNCLASSI95O MESSAGE
+INCOMING
+AF IN : 54900 (4 Jun 62)
+NORTH AT 7 KNOTSN ALTCMETER 29.57
+BM 4 THOUSAND 250/15
+6 THOUSAND 2 30/15
+10 THOUSAND 220/20
+18 THOUSAND 170/25
+55 THOUSAND 180/10
+C. 5,880 BROKEN
+D. FIFTEEN MILES
+E. BROKEN TO SCATTERED
+Page 3 of 3 Pages
+G. FIFTY-ONE DEGREES
+8. NONE
+% NONE
+10. UNKNOWN
+11. OBJECT COULD HAVE BEEN WX BALLOON, HOWEVER IT WAS TRAV-
+ELLING CONTRARY TO WINDS, INITIALLY REPORTED TO EDMON-
+TON GOBC THENCE TO BILO BOY. NO RADAR RETURNS FROM
+OBJECT. NO OTHER REPORTS RECEIVED
+12. NONE
+ET
+04/Ø439Z JUN RJWZGS

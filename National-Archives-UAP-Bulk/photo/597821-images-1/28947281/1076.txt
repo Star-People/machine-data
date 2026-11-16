@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:33:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1791242, "source_ctime_ns": 1793373509269522884, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947281/1076.jpg", "source_mtime_ns": 1785688811000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947281/1076.jpg", "source_sha256": "6ee33f6da63376d5769cbfca922ef3c03869572ca353f921155618397151dfea"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 277, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+|
+4 -
+| PAGE TWO JWPNL 166A
+
+| (6) NIGH FOG LAYER CMA MISS. COLVIN SAID CMA NO STARS ON MOON SHOWING.
+(7), NAVAL STATION TOLD MISS COLVIN THEY WERE CONDUCTING TRAINING IN
+AREA AND REFUSED TO TAKE INFORMATION. |
+(8) Cie
+(9) NONE
+
+| : D
+(48). UNKNOWN 7° iad /
+2/4943Z AUG JUPML

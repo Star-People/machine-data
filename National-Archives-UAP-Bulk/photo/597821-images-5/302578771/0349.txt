@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:24:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 948058, "source_ctime_ns": 1793393557902219832, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578771/0349.jp2", "source_mtime_ns": 1785808114000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578771/0349.jp2", "source_sha256": "a3993232d543ec43982f1eb67720923a248ba6376c226e5c4b9185e7195812e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 283, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR THE RECORD
+Akron¿Canton
+5 July 1963
+Subj: UFO Report 2120 hrs JUL 2 1903
+On 3 July at 1255 hrs I placed a Watts Line call to the Akron-Canton
+weather station. (216 499-2500) Nothing was in the log according to
+However there were many visuals from Rochester and Harrisburgh.

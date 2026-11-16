@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:00:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8253818, "source_ctime_ns": 1793384608887469152, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990678/0406.jpg", "source_mtime_ns": 1785748223000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990678/0406.jpg", "source_sha256": "4cec07c2c2e9196ea185394873b68df7bfe8a44fe42c62758b3e38250b3ebe16"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 291, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• EP
+ATIC
+Date
+O DEC
+10 32
+OCZCSCA55 ZCAHA5 2
+FP RJEDSO
+DE RUELAH
+F 26 73 2 ZE:
+EM CH
+ICAGO ALS
+JAX FLI
+TO RUNEAL/ADO ENT AFE COLO
+NFO RJEDSO/AIR
+TECHNICAL INTELLIGENCE CENTER
+JEZHO/ASSIST COS INTELLIGE
+NCE NO USAT RASH DC
+ZHO/OFFICE OF INFORMATION SERVICES NO USA!
+4E2(4FJ)
+MPAID
+CHIO
+CASH

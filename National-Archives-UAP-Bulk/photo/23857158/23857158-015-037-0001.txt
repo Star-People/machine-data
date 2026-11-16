@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:36:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4272244, "source_ctime_ns": 1793360395433937452, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-015-037-0001.tif", "source_mtime_ns": 1785681711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-015-037-0001.tif", "source_sha256": "90c96954b6a90e247cf6fab42287e9a259ef22423fc9840d370649ab00121220"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 557, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NUMBER
+ATSS-UFOB-53-56
+LOCATION OF SICHTING
+Racine, Wisconsin
+MEANS RECD
+Ti Mag
+INVES UNIT
+Hq
+DATE IR RECD HQ
+N/A
+DATE FORM 5
+5 Mar 56
+DATE/TIME OF SICHTING
+RECD AISOP
+05/02002 Mar 56
+ACTION TAKEN
+164 sent
+DATE INVES ASSIGNED
+5 Mar 56
+¡ DATE IR APPROVED
+N/A
+5 Mar 56
+LOGGED BY
+S/Sgt Defadder
+ASSIGNING OFFICER
+N/A
+¡DATE IR TO ATIC
+NA
+COMMENTS
+ATIC Forn 16h sent 5 Mar 56. Results of analysis of returned forn
+as indicated below;
+CONCLUSIONS
+OTHER: Probably Searchight
+AISOP FORM 7 (2 APR 55)

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:27:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1173708, "source_ctime_ns": 1793355919549673411, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0006.jpg", "source_mtime_ns": 1785564558000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0006.jpg", "source_sha256": "14ecc542dc4f3c654473465329873b50c8aca687743c6ae5697c7d01b284e31b"}
+
+===== PAGE 1 =====
+{"alpha_words": 203, "chars": 1410, "method": "ocr", "page": 1, "variant": "plain-vision"}
+111
+documented that portion of this effort which has explored the
+punishing effects of windblast and the tremendous forces of
+abrupt deceleration encountered during emergency escape from
+high-mach aircraft. He has also mentioned the application of
+this experimentation to the effects of the magnitude and
+relatively long duration of g-loading experienced during sus-
+tained acceleration of multistage space vehicles.
+This monograph is the fourth of a projected series of six
+related to the contributions of Holloman's Aeromedical Field
+Laboratory. Others already published are The Beginnings of Space
+Biology at the Air Force Missile Development Center, Holloman Air
+Force Base, New Mexico, 1946 - 1952; Major Achievements in Space
+Biology at the Air Force Missile Development Center, Holloman
+Air Force Base New Mexico, 1953 - 1957; and the History of
+Research in Subgravity and Zero-g at the Air Force Missile
+Development Center, Holloman Air Force Base, New Mexico, 1948 -
+1958•
+With pleasure, Dr. Bushnell wishes to acknowledge the
+cooperation in making this study which he received from members
+of the Aero Medical Laboratory and the Historical Division at
+Wright Air Development Center, and officials of the Directorate
+of Life Sciences at Headquarters, Air Research and Development
+Command. The staff of the Aeromedical Field Laboratory at the
+Air Force Missile Development Center, as always, willingly

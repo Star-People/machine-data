@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:44:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4129185, "source_ctime_ns": 1793374338999824318, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951280/0469.jpg", "source_mtime_ns": 1785696626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951280/0469.jpg", "source_sha256": "36bb8aa88ccad6a46244bf4c34701372fb6caaa65c53664ab48eb387277bb4bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 547, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Alabama lolteetic Institute
+Auburn, Alabama
+14 November 195?
+SCHOOL OF
+AIR SCIENCE AND TACTICS
+SUBJECT: Flying object sighted at Auburn, Alabana on 8 November
+While at the Auburn-Mississippi State football game here on 8
+November, I observed an object flying at 5500 feet (approximately). This
+object appeared to be moving very slowly and I identified it as a large
+veather bailoon, perhaps 12 or 15 feet in diameter. At the sane time (about
+1630 CST) a group of AFROTC students saw the sane thing and many reported it
+as a weather balloon.
+_ GLF

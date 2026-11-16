@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:29:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1735733, "source_ctime_ns": 1793392951361771952, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572426/0389.jp2", "source_mtime_ns": 1785808198000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572426/0389.jp2", "source_sha256": "a15fad73c42e8d3ecc6c648d847e9c7e3774fdd3525c0de4ef1bfce28c2bcb72"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 732, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+8 November 67
+3. SOURCE
+08/23574
+MilitarY
+4. NUMBER OF OBJECTS
+1 bach Time
+5. LENGTH OF OBSERVATION
+7 Minutes
+6. TYPE OF OBSERVATION
+Ground-Visual
+COURSE
+E tC INE
+8. PHOTOS
+• Yes
+9. PHYSICAL EVIDENCE
+• Yes
+FORM
+FTD SEP 63 0-329 (TDE)
+2. LOCATION
+Blytheville AB, Arkansas
+10. CONCLUSION
+Very Probable Satellite (ECHO II)
+At 1950(L) ECHO II was at 35 deg lat and 72 long going from S to!
+At 1944(1) ECHO II was at 50 deg lat and 90 deg long, again 601
+from S to N.
+11. BRIEF SUMMARY AND ANALYSIS
+Observer sighted what appeared to be a very bright star movin
+accross the sky.
+Observer states that he believes that he
+observed a satellite. The observer sighted it at 1757(1) and
+again at 1944.

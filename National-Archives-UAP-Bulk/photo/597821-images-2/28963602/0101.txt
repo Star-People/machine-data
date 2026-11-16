@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:43:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4030437, "source_ctime_ns": 1793377413181523749, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963602/0101.jpg", "source_mtime_ns": 1785696709000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963602/0101.jpg", "source_sha256": "f21f12cf450c030ae9b2cd927daaa90367372ddda434a7d9a5c2e1280befc6fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 714, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/UNCLASSÍFIED/OPS 39-043 PD /UFOB/ IAW AFR 203-2 DTD 12 AUG 54 CMA
+THE FOLLOWING REPORT IS SUEM PD
+1 A ROUND
+H NONE
+E BASKETEALL
+I NONE
+C FLASHING RED LIGHT 2 A GRND OBSERVER WATCHING FOR AIRCRAFT
+D ONE (1)
+B ELEVATION 12 DEGREES-AZIMUTH 272 DEGREES
+E NA
+C ELEVATION 10 DEGREES-AZIMUTH UNK
+F NONE
+D STRIGHT LEVEL COURCE
+G NONE
+2 E GRADUAL FADE IN WEATHER
+F APPROXIMATELY THREE (3) MIN
+3 A GROUND-VISUAL
+B NONE USED
+C NA
+4 A 2903402 SEPT 55
+B NIGHT
+5 GJEN 2954
+S A MR
+CMA 36 CMA RT 3 LOWELL MICH CMA CONTRACTOR
+B NA
+7 A WINDS CALM CMA LIGHT RAIN CMA THIN CVERCAST
+B NONE AVAILABLE
+8
+NONE
+9 NONE
+10 NONE KNOWN TO BE IN AREA
+11 1/TL DAVID M HERSEY CMA AC&W DUTY DIRECTOR CMA NO COMMENT
+12 NCNE
+FT
+CS/9621Z SEP RJEDFJ

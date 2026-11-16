@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:31:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1749190, "source_ctime_ns": 1793388654208369087, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530749/0566.jp2", "source_mtime_ns": 1785808648000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530749/0566.jp2", "source_sha256": "d3f83b46ede3fcbdf21223543ba9d51fb1101a421da7961df9d6415062bb3ca4"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 741, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• 16 Def
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIED MESSAGE
+INCOMING
+AF IN : 45500 (17 Oct 63) D/ho
+ACTION: NIN-9
+INFO : XOP-1, XOPX-4,
+SA-OS-3,
+ARMI-2, NAVY-2, CMC-8, JCS-35,
+OSD-15, NSA-7,
+DIA-25e
+(108)
+SN3 A115
+00 RUEAHA
+DE RUKXAV 1 17/0839Z
+ZNR
+0 1798402
+PM AF 14201/AXA
+TO RUDAG/AAC ELMENDORF AFB ALASKA
+RUKAC/ ALASKAN SEA FORNT IER KOIAK ALASKA
+RUNGALB/C INCNORAD
+RUCSER B/CINCSAC
+RUEAH/COFS USAF
+INFO RUXPFR/USARAL FT RICHARDSON ALASKA
+RUND AG/C INCAL
+AF RNC
+BT
+UNCLAS CIRVIS WHITE FLASH SIGHTED FM SHOCK 61 C123 AT HIGH ALT ABOVE
+3990 FT 15 MILES NORTH VEST OF EDF. SEEMED LIKE
+A METOR OR SOME TYPE EXPLOSION
+SIGHTED
+192 5 LOCAL 0825Z
+NOTE : ADVANCE COPIES DELIVERED TO DIA, NUN, XOPA.
+MESSAGE RETRANSMITTED TO CIA.

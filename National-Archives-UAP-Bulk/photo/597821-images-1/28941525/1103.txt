@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:35:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3930199, "source_ctime_ns": 1793372142141684950, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941525/1103.jpg", "source_mtime_ns": 1785688811000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941525/1103.jpg", "source_sha256": "632396c07cdcf522d85687e4fe70f6bf1a9697d3d2ae24416ac251aa072e0341"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 689, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+22 Apr 52
+3. DATE-TIME GROUP
+Locol 1215 PST
+GMT.
+/ 2012
+5. PHOTOS
+• Yes
+XO No
+2. LENGTH OF OBSERVATION
+2 minutes
+10. BRIEF SUMMARY OF SIGHTING
+Shiny metallic w/gray-brown underside.
+Disc shape.
+PROJECT 10073 RECORD CARD
+| 2. LOCATION
+Condon, Oregon
+TYPE OF OBSERVATION
+22 Ground- Visual
+O Air- Visual
+6. SOURCE
+• Ground-Radur
+D Air-Intercept Radar
+civilian female
+8. NUMBER OF OBJECTS
+3
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balicon
+Possibly Balloon
+Was Aircraft
+Probebly Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomicol
+Other
+Insufficient Data for Evalua
+Unknown
+11. COMMENTS
+Moving fast in formation.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:28:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1710333, "source_ctime_ns": 1793393777884296259, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580478/1381.jp2", "source_mtime_ns": 1785808208000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580478/1381.jp2", "source_sha256": "a460304f4f978314d15f2c5970f060d349d9ec9d3ba792fe0d34735eab298865"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 514, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR THE RECORD
+21 October 1968
+SubJ:
+UFO Observation, 21 October 1968, Richmond, Indiana
+Mrs
+, Richmond, Indiana 47374,
+called on 21 October 1968 to inform the Aerial Phenomena Branch of an
+unidentdfied flying object sighting.
+DATE: 21 October 1968
+TIME: 0500 hours
+DURATION: 2- 3 mins
+DIRECTION: W to E
+DESCRIPTION: Sighted two constant white lights (that appeared
+to be one foot apart) and a blinking orange light between. There wes
+no sound. The lights were low on the horizon and moved at airplane
+speed.
