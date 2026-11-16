@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-02-00289/case.html",
-    "bytes": 18449,
+    "bytes": 18467,
     "canonical_source_identifier": "GEIPAN:1976-02-00289",
     "case_metadata": {
       "classification": "C",
@@ -40,7 +40,7 @@
     "original_title": "BILLOM (63) 17.02.1976",
     "relative_path": "cases/1976-02-00289/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "93ed0d4ac8931dca80aca94a4f6b5e3040e2ff99002d1c4e93bbb5dd0e592895",
+    "sha256": "c11908490cfd535121084e7f745d52177e331234c46cc9e4b47952501da94a49",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-02-00289"
     ]

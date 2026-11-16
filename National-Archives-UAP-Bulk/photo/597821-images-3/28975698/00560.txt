@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:43:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4743125, "source_ctime_ns": 1793380388408988202, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975698/00560.jpg", "source_mtime_ns": 1785700860000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975698/00560.jpg", "source_sha256": "8612691eb72c2c55086b0f695498af0652cf3e7215092ad5ccb2f86616c25b54"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 303, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(ns
+
+No Case (Information Only) ‘ December 1957
+
+Pacific Ocean
+Page 10
+
+officer MMB! of the British ship's.8 I hddeay, off Sen Pedro, |
+
+177
+
+ER HER
+
+In December, sa
+
+4
+
+Oalifornia in the Pacific Ocean, photographed a strange flying
+craft wacP ee ene aor antenna, and a Peres teas, ‘
+
+Ra cae toad Peng

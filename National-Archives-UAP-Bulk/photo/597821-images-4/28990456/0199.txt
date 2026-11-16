@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:59:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7628392, "source_ctime_ns": 1793384494370954889, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990456/0199.jpg", "source_mtime_ns": 1785747937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990456/0199.jpg", "source_sha256": "0dfbcf5f2b139b7503c5ebc0997b20a19d6e3900aca8eeb161896969e8fe4fe7"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 528, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
+Мід Галя
+Аб /
+AF IN : 20873 (16 Dec 60) G/doc
+ACTION: CIN-14
+INFO: COP-2, SAFS-3, 00P-CP-1
+(21)
+SMD B 074
+CZCHQE236ZCSUB826
+MM RJEZHQ
+ZF H - 1
+CZCSUB243ZCWJA660
+MM RJEZSQ RJEZHQ
+ZDK
+DSA575
+MM RJWFAL RJEZSQ RJEZHQ
+DE RJWFDS 16
+M 152220Z ZEX
+FM WEBB AFB TEX
+TO RJWFAL/ADC ENT AFB COLO
+RJEZSQ/AIR TECH INTELLIGENCE CENTER WRIGHT PATT AFB OHIO
+RJEZHQ/HQ USAF WASHINGION 25 DC
+RJEZHQ/SECRETARY OF THE AIR FORCE WASH 25 DC
+ВТ
+Salmonsen!
+* Get it regei!

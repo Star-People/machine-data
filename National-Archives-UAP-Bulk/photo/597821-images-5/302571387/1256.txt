@@ -1,0 +1,89 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:28:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1024513, "source_ctime_ns": 1793392822267338804, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302571387/1256.jp2", "source_mtime_ns": 1785808177000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302571387/1256.jp2", "source_sha256": "d39468eae352005463b4c76ad9137d8b8cfb4dc3130d26d5206291b82d4df73a"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 747, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CREATION AREA
+STATE PARK
+Take
+BATHI
+BATHING
+SWIMMING
+BATHING
+BOAT HARBOR
+BOAT LAUNCHING
+BOAT HARBOR
+, DOCK
+ROWBOATS
+GRAVEL BAR
+HING
+BOAT MARBOR
+BOAT HARBOR
+BOAT LAUNCHING
+ROWBOATS
+MPING
+163
+SCENIC DRIVE
+COTTAGES
+COTTAGES
+DT-257
+BLYD.
+eri
+NORTH SHORE
+DANBURY
+TWP.
+SCHOOLS
+PUBLIC
+SCENIC DRIVE
+OC-22
+ERIE BEACH
+STATE
+PEACHES
+NBURY FRUIT BELT
+ENGLEBECK RD
+STATE RT.
+163
+GOLF COURSE
+DT-218
+RD.
+AUTO FERRY
+A D
+ROW
+FRUIT GROWING
+ENGLEBECK RD. DT-138
+KINSUL
+DRE RD. OC-135 SCENIC DRIVE
+BADO
+AUTO FERRY RD. DT-218
+SCENIC DRIVE
+BAY SHORE RD
+APPLES
+BATHING
+CAMP
+SWIMMING
+COTTAGES
+Sandusky Bay
+SHORE RD
+BATTLEFIELD
+MONUMENT
+DOCK
+30,0
+BOAT L
+LAUNCHING
+CONFEDERATE
+PRISON SITE
+AND
+CEMET
+MARELEHEAD
+PENINSULA
+OHIO TURNPIKE
+12
+13
+14
+15
+16
+18
+19 20 21
+22
+23
+24
+25

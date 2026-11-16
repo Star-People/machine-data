@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:50:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5746459, "source_ctime_ns": 1793377281704262936, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963145/1176.jpg", "source_mtime_ns": 1785696772000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963145/1176.jpg", "source_sha256": "dff8f445d89bb38cbfa019910cfe3d6d6ed86b1a7b1a3d5bceb67015a1205cfe"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 677, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJEDHR
+(B) THREE OTHER PERSONS BELEIVED TO BE MAYOR AND CHIEF OF POLICE
+OF BELOIT AND ONE OTHER PERSON CMA NONE POSITIVELY IDENTIFIED PD
+(7) WEATHER CLEAR
+(A) CLEAR
+7B) 6000 FT 360 DEG AT 12 KTS CMA 10000 FT 300 DEG AT 30 KTS
+CMA 16000 FT 330 DEG AT 30 KTS CMA 20002 FT AT 330 DEG AT
+30; KTS INA 30000 FT 320Q DEG AT 20 KTS CMA 45000 FT 290 DEG
+AT 42 KTS CMA 50202 AND 80200 FT NOT AVAIL
+(C) UNLIMITED
+7D) UNLIMITED
+(E) NONE
+(F) NONE
+(8) NO
+(9)Q NONE
+( 10) NONE
+<11)
+CMA 21LT CMA SENIOR DIRECTOR CMA POSSIDLE
+CAUSE CANNOT BE DETERMINED
+( 12) NONE
+REMARKS CMA OBJECT WAS LEAVING VAPOR TRAIL PASSING OVER PLACE OF
+SIGHTING EVERY TWO MINUTES PD
+BT
+12/12 16Z AUG RJEDHR

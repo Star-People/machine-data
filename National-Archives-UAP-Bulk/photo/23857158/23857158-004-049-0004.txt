@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:09:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20386472, "source_ctime_ns": 1793358822693945906, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-049-0004.tif", "source_mtime_ns": 1785681220000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-049-0004.tif", "source_sha256": "361d050623d64984ce4106adc942406786c70cec126bae2d513930b0d673b451"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 813, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE THREE JESY 001B
+6. IDENTIFYING INFORMATION OF ALL OBSERVERS
+A. CIVILIAN
+MR
+ROME GA PHONE
+LOCKEED EMPLOYEE
+B. MILITARY
+7 WEATHER AND WINDS ALOFT AT TIME AND PLACE OF SIGHTING
+A. CLEAR 15
+B. SURFACE
+6000 FEET
+10000 FEET
+16000
+FEET
+20000 FEET
+30080 1335
+50000 FEET
+80008 FEET
+3Ø
+360
+DEGREES
+36ø
+DEGREES
+DEGREES
+35Ø
+DEGREES
+350
+DEGREES
+35ø
+DEGREES
+340
+DEGREES
+DEGREES
+15
+3Ø KNOTS
+25
+4ø
+7ø
+5ø
+KNOTS
+KNOTS
+KNOTS
+KNOTS
+KNOTS
+KNOTS
+KNOTS
+C. CELING NONE
+D. VISIBILITY 15 MILES
+E. CLOUD COVER NONE
+F. THUNDERSTORMS NONE
+PAGE FOUR JESYQ 001B
+86 NONE
+9. NONE
+10. UNK
+11.
+OPERATIONS OFFICERMAXWELL FLIGHT, SERVICE CENTER MAXWELL AFB ALABAMA
+CPAT K.A. SNYDERS FLI SERVICE CLNV OFF OBJECT VERY POSSABLY WAS INAD
+VERTENT ROCKET FIRING
+12. NONE
+SINGED GOLINSKY END
+Вт
+01/0500Z MAY JESYQ

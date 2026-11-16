@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:57:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7210996, "source_ctime_ns": 1793364808766443105, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0020.jpg", "source_mtime_ns": 1785685202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0020.jpg", "source_sha256": "dc6e312b47e15e16ea5327ac2bcd21aa8868b1aa12186e43efa0889ba66fd03d"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1132, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFED
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+20D OSI 9-34
+THE INSPECTOR GENERAL USAF
+20th DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+McCHORD AIR FORCE BASE, WASHINGTON
+4 April 1957
+SUBJECT:
+AERIAL PHENOMENON RESEARCH GROUP OF THE AIR FORCE
+5108 Findlay St.
+Seattle, Washington
+TO :
+Director, Special Investigations
+Headquarters, USAF
+Washington 25, D.C.
+1. Reference is made to our letter of 3 April 1957, subject
+and file as above.
+2. Referenced letter inclosed a photo copy of a newspaper
+clipping from the 2 April 1957 edition of the Tacoma News Tribune.
+In that newspaper item it referred to a previous story concerning
+this same incident. At the time of the submission of the previous
+letter copies of this clipping were not available. They have since
+been procured and inclosed are two copies of the initial story which
+appeared in the 25 March 1957 edition of the Tacoma News Tribune,
+Tacoma, Washington.
+1 Incl
+Newspaper clipping
+đtd 25 Mar 57 (dup)
+Traeropo Carmar
+SPENCER W. RAYNOR
+Colonel, USAF
+District Commander
+UNCLASSIFIED
+(AFR 190-16)
+Declassification Authority: NND 923007

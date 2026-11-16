@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:29:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1419477, "source_ctime_ns": 1793388724384424838, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531494/1255.jp2", "source_mtime_ns": 1785808461000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531494/1255.jp2", "source_sha256": "381de7383b26721798192b8ece79c2bc068b46070460419cd13b26528420ed68"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 841, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+30 January 1964
+DATE-TIME GROUP
+Locol
+GM T31/07257
+5.
+PHOTOS
+DY•s
+X No
+7. LENGTH OF OBSERYATION
+not reported
+10. BRIEF SUMMARY OF SIGHTING
+arge star like object, very high fading
+at 330 deg az at 25 deg elevation. Speed
+5 deg of are per minute. Thought to be
+ECTO II.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+12. CONCLUSIONS
+29.000
+TYPE OF OBSERVATION
+• Ground-Visual
+00
+• Ground-Radar
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircrat
+Possibiy Aircraft
+PAir Visual
+SOURCE
+• Air-Intercept Radar
+8. NUMBER OF OBJECTS | 9. COURSE
+one
+not reported
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Othar-
+Insulticient
+¡one Bara for Evaluatior
+Unknown
+11. COMMENTS
+ECHO schedules not available. Case
+evaluated as a Satellite based on
+description and flight characteristic.
+ATIC FORM 329 (REV 25 SEP 32)

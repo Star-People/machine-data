@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:57:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7064312, "source_ctime_ns": 1793376747237604579, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961872/0138.jpg", "source_mtime_ns": 1785696853000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961872/0138.jpg", "source_sha256": "05988c66b1f9a1b62271c496b6e898b5fb4b33176fec1fbaa7181fd109b6d635"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 1029, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10
+7.2
+11
+11
+CC6506E
+14
+1.5
+5
+1 - 15 MAY 1955 SIGHTINGS
+LOCATION
+OBSERVER '
+Miami, Florida
+New York City, New York (CASE MISSING) Civilian
+Keflavic Airport, Iceland
+Military
+Fellows, California
+IN SEPARATE
+Baltimore, Maryland (FOLDER) FuseNC
+MISSIN
+(PAYS S)
+Glenbarnie, Maryland
+29 Palms, California
+Klamath Falls, Oregon
+Long Peach, Mississippi
+Ukiah, California
+Terryville, Connectiout
+Thurmon, Colorado
+Civil Airlines
+Yonkers, New York
+Munday, New York
+Tinker AFB, Oklahoma
+Military
+Bear Island, Maine
+Charleston, Maine
+Duluth, Minnesota
+Air (RADAR)
+Old Town, Maine
+- Hollister, California
+Fargo, North Dakota
+Syracuse, New York
+Little Falls, New Jersey
+New York City, New York
+(PHOTO)
+EVALUATION
+Other (UNRELIABLE RPT)
+Insufficient Tata
+UNIDENTIFIED
+Aireraft
+Other (VALVE WHEEL)
+Balloon
+Aireraft
+Balloon
+InsufFicient Loca
+Astro (JUPITER)
+Aircraft
+Aircrart
+Aircraft
+Astro (JUPITER)
+Astro
+(METEOR)
+Other (AIRCRAFT FLARES)
+Other (AIRCRAFT FLARES)
+Aircraft
+Other (AIRCRAFT FLARES)
+Aircraft
+Aircraft
+Balloon
+Aircraft
+Other (HOAX)

@@ -8,7 +8,7 @@
   "document_id": "doc-fbc4dd37e6ed4acc7252583d",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-09-12T20:39:51Z",
+    "generated_at": "2026-11-16T06:36:16Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-11-02763/case.html",
-    "bytes": 19692,
+    "bytes": 19710,
     "canonical_source_identifier": "GEIPAN:1976-11-02763",
     "case_metadata": {
       "classification": "D",
@@ -244,7 +244,7 @@
     "original_title": "SAINT-GEOIRS (38) 25.11.1976",
     "relative_path": "cases/1976-11-02763/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "3cef8dbcf169bf9dd80409f3f0004d89a5137eb3219da8bc0a23d155013281a2",
+    "sha256": "4f5a4f9eb94365ccab4e6c0d721332d13ebfae9db4713c2927c38f9b7c06729e",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-11-02763"
     ]

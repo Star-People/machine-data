@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:44:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4843686, "source_ctime_ns": 1793388130528768500, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000133/0464.jpg", "source_mtime_ns": 1785747922000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000133/0464.jpg", "source_sha256": "f00f17b8143a5c9d06cf8f6dae00ff40c0a26cf0c751251403898c86f6615126"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 679, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTEN DACES AR FORCE 2// / 64/52
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+AF IN : 39851 (21 Jan 63) N C 0HWW1cN G
+Page 1 of 3
+January
+ACTION: CIN-17
+INFO : OOP-1, OOP-CP-2,
+SAFS-3, DIA-15, DIA-CIIC-3 (42)
+SMB B 001
+CHQB66AZCWJC027
+PP RUEAHQ
+DE RUWGHWZ 6
+ZVR
+P 212030Z
+FM 813 ACW SQ ROCKPORT AFS TEXAS
+TO RUWGAL/ADC ENT AFB COLORADO
+RUWGHW/32 AIR DIV OKLA CITY AFS OKLA
+RUCDSQ/AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+RUEAHQ/HQ USAF WASH 25 DC
+RUEAHQ/SECRETARY OF THE AF
+BT
+UNCLAS 8130DC 21-A-64. USAF FOR AFCIN AND SAFIS. SUBJECT UFO
+A. (1) ROUND
+(2) ABOUT SIZE OF PIN HEAD
+(3) SILVERY WHITE
+(4) ONE
+(5) N/ A
+(S) BRIGHT IN COLOR
+(7) NONE
+(8) NONE
+(9) NONE

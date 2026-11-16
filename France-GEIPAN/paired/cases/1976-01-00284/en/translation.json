@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-8ecc3d25f6cd0128509afd46",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-76aeb8dc72bd3f3ff4aef49b",
           "segment_index": 3,
           "source_segment_id": "seg-76aeb8dc72bd3f3ff4aef49b",
           "source_text_sha256": "79dbc5c726174a7eacc3772b95a789e7c826af4c8da6e958c5c0321b70ca7243",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Midi-Pyrénées",
           "translation_text_sha256": "163f1a93625f8b3d0442a9358ea5fd93f009981b84ebbf64cb05982851a789f1"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-8ecc3d25f6cd0128509afd46",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-81268cf9f0238223107e57c8",
           "segment_index": 4,
           "source_segment_id": "seg-81268cf9f0238223107e57c8",
           "source_text_sha256": "0b989425daf75913e90bb2a169a6237d79577a460561d4cda2262bfcdb9f98c6",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Aveyron",
           "translation_text_sha256": "651a6b0662373b413e051b862a34ce0a6f78368c5bc28535f74ddc6480f37ab5"
         },
@@ -123,54 +123,31 @@
           "field": "documents",
           "page_id": "page-8ecc3d25f6cd0128509afd46",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-8b41fe48644bd899405b3ca2",
           "segment_index": 8,
           "source_segment_id": "seg-8b41fe48644bd899405b3ca2",
           "source_text_sha256": "02b398a530afc8f1314146fea1359d92ea4798f08df4f23bbbf8ef4733c1e5d3",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 203 (1976309245).pdf",
-          "translation_text_sha256": "304f49f5f5705515cef374bf8b2189fec9188da41d61a7cec0e223d49f8961ef"
+          "status": "not-required",
+          "text": "Documents: PV n°203 (1976309245).pdf",
+          "translation_text_sha256": "02b398a530afc8f1314146fea1359d92ea4798f08df4f23bbbf8ef4733c1e5d3"
         },
         {
           "end_ms": null,
           "error": null,
           "field": "testimonies",
           "page_id": "page-8ecc3d25f6cd0128509afd46",
-          "qa_findings": [
-            {
-              "added_in_translation": [
-                "1976-01-19"
-              ],
-              "check": "dates",
-              "missing_from_translation": [],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "1",
-                "19",
-                "1976"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [
-                "19.01.1976"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "not-required",
           "segment_id": "seg-bf4d59deb925b1f320962d90",
           "segment_index": 9,
           "source_segment_id": "seg-bf4d59deb925b1f320962d90",
           "source_text_sha256": "475880007001b30b3bf7155c43efd815eb957d371ef8d276b79483c22cc626d6",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Testimonies: LASSOUTS (12) 01/19/1976",
-          "translation_text_sha256": "40c9a846a7fdcd85b07d2d8bf33593e5ab62c0075b6b44fe1eb6cc6f8cefd0f7"
+          "status": "not-required",
+          "text": "Testimonies: LASSOUTS (12) 19.01.1976",
+          "translation_text_sha256": "320f003541324afaf49e8b205c54ab8412a143343e41b3f5c29a79f85fb6c0c1"
         },
         {
           "end_ms": null,
@@ -193,28 +170,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-8ecc3d25f6cd0128509afd46",
-          "qa_findings": [
-            {
-              "added_in_translation": [
-                "2.5"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [
-                "2"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-6e8aa6405843fff2c2ba5aef",
           "segment_index": 11,
           "source_segment_id": "seg-6e8aa6405843fff2c2ba5aef",
           "source_text_sha256": "f27e66867b462ce4db3d992666117d1d0aa3ad9f56107861af6be929a3d483d5",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: On January 19, 1976, around 9:30 PM, a witness exiting their home observed for 3 minutes an orange-phosphorescent disk-shaped craft approximately 2.50 meters in diameter. It appeared to be resting on a paved path along a ridge line. The witness saw the object move at a low altitude down the valley before disappearing behind farm buildings. No unusual noises were heard during the object's movement. No distinctive tracks were noted by the witness and his son at the presumed location of the object. Two other individuals testified to seeing a peculiar light that evening on the road, but their accounts remain very brief. The case is classified C due to lack of information.",
-          "translation_text_sha256": "879ca83947bebe6994411af72d616a207abcc4bef3c240bb32be6616a8622cfb"
+          "status": "machine-unreviewed",
+          "text": "Description: On January 19, 1976, around 9:30 PM, a witness leaving their home observed for 3 minutes an orange-phosphorescent disk-shaped craft with a 2.50m diameter. It seems to be positioned on a paved road along a ridge line. The witness saw the object move at low altitude in the valley before disappearing behind farm buildings. No particular noise was heard during the object's movement. No particular tracks will be noted by the witness and his son at the presumed location of the object's presence. Two other individuals will testify to having seen a particular light that evening on the road, but all testimonies remain very succinct. The case is classified C due to lack of information.",
+          "translation_text_sha256": "3adc8e3f284c394d1608efc67dd7d571b60aae4decd56ca878b96270a1b9fd09"
         }
       ],
       "source_page_id": "page-8ecc3d25f6cd0128509afd46"
@@ -225,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-27T15:31:18Z",
+    "generated_at": "2026-11-16T06:02:59Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

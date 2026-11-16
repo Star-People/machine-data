@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:40:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4083928, "source_ctime_ns": 1793394301506603723, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-004-0020.jpg", "source_mtime_ns": 1785567351000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-004-0020.jpg", "source_sha256": "7705fa8adb1a57efcbe867272aebfaafdf821d859922d6de297fbe0d1bd241e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 527, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FEBRUARY 281, 1987
+TIMOTHY SYRNICK
+4345 MAiN St. Apt *5
+PHILADELphiA, PA. 19127
+FAA PUBLiC AFFAIRS OFFICE
+701 C ST.
+BOX 14
+ANCHORAGE, AlASKA 99513
+DEAR SiR,
+I Am inteRested
+_ in the UFO incident that
+OCCURRed OVeR AlASKAn AiRSPACE in NOVEmBER 186.
+And I would like very much to Recieve a copy
+of the FAA Report due out this March.
+YoUR AGEncy is AlsO offeRinG SeveRAl ARticleS
+concerninco the incident for sale. Please send me a
+listinG of the vARious Articles available and their cost.
+Thank you.
+YouRs tRuly,
+tristhy Spprick

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:51:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5879862, "source_ctime_ns": 1793388447337705666, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29001214/0320.jpg", "source_mtime_ns": 1785748521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29001214/0320.jpg", "source_sha256": "94137b3720ada5cf79743ea701934703ee6346f1a7bb6a68ef9f421701ab7159"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 729, "method": "ocr", "page": 1, "variant": "plain-vision"}
+17/0830₴
+AF IN :
+INFO :
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIEO MESSAGI
+2201
+(17 Jun 63) | N/ĐĐ M | N G
+NIN-9,
+XOPX-4 ,
+OSD-15, ĐIA-25, DIA-CIIC-2, CIA-11, NŠA-7
+Арікт
+Page 1 of 2
+0.
+SOB; 3866KHA574
+00 RUEAHQ
+DE RUHLKH 5
+ZNRO
+0 1710362
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+TO RUHLKM/PACAF HICKAM AFB HAWAII
+RUHPHH/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RUEAH/CSAF USAF WASH DC
+RUECW/CNO WASH DC
+RUECW/SECNAV WASH DC
+RUWGALS/CINCNORAD ENT AFB COLO
+RUHPA/CINCPAC CAMP H M SMITH HAWAII
+RUHAFS/CINCUSARPAC FT SHAFTER HAWAII
+RUHPB/CINCPACFLT PEARL HARBOR HAWAII
+RUAUAZ/COMUS JAPAN FUCHU AS JAPAN
+RUAMC/ COMUSKOREA SEOUL KOREA
+RUAGFL/COMUSTDO TAIPEI TAIWAN
+AF GRNC
+UNCLAS
+A. HADOC-D 1074
+1. MERINT
+2. USS LANSING

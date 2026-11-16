@@ -8,7 +8,7 @@
   "document_id": "doc-013c95b875b4f012b0442e11",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-27T09:45:35Z",
+    "generated_at": "2026-11-16T05:52:29Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-01-00282/case.html",
-    "bytes": 18782,
+    "bytes": 18800,
     "canonical_source_identifier": "GEIPAN:1976-01-00282",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "VALBONNAIS (38) 13.01.1976",
     "relative_path": "cases/1976-01-00282/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "05624966aea87d26c9ad4d90a7c27d1e5e56ce2e0070ac4474585cb7149773bc",
+    "sha256": "3941bf0799aad26f595d3517577829fa5e4703f3f9ea37269783484486b27684",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-01-00282"
     ]

@@ -19,8 +19,8 @@
     },
     {
       "aliases": [
-        "GEIPAN",
-        "geipan"
+        "geipan",
+        "GEIPAN"
       ],
       "category": "government_agency",
       "counting_policy": "one occurrence per canonical source segment; translation is supplemental",
@@ -89,8 +89,8 @@
         "fr-FR"
       ],
       "mentions": [
-        "GEIPAN",
-        "geipan"
+        "geipan",
+        "GEIPAN"
       ],
       "source_segment_id": "seg-8e43dc443d30057b64e03cf3"
     },

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:03:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8633505, "source_ctime_ns": 1793362426076405731, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0085.jpg", "source_mtime_ns": 1785684697000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0085.jpg", "source_sha256": "b8d80b9ede229d53512ad26d0d1ba6639ebfb01f98549655f6f575fe3d2bc189"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1200, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Federal Bureau of Inuestigation
+Uniten States Bepartment of Justice
+P. 0. Box 806
+Butte, Montana
+August 8, 1949
+Mrs. Madeline Gwynne Merchant
+918 Northeast 18th Street
+Oklahoma City 5, Oklahoma
+Dear Mrs. Merchant:
+Your letter to the Agent in Charge, PBI Offices, Boise, Idaho, has
+been received by this office. I greatly appreciate your interest in this
+matter and your diligence in forvarding the information contained.
+The investigetions indicated by your communication are within the
+Juriadiotion of the Office of Special Investigations, United States Air Force.
+Consequently, your communication is being formarded to the Office of Special
+Investigationa, Hill Field, Utah.
+Very truly yours,
+co - District Commander
+15th District
+Office of Special Investigations
+Great Falls Air Force Base
+Great Falls, Montana
+(ene)
+co Mistrict Commander
+16th District
+Office of Special Investigations
+Hill Field Air Force Base
+Hill Field, Ogden, Utah
+(ene)
+ce - Sait Lake City (ene)
+°c - Oklahoma Gity (ene)
+N. G. BANISTER
+Special Agent in Charge
+ce - District Commander
+20th District
+Office of Special Investigations
+MoChord Air Force Base
+MoChord Pield, Washington (one)
+Declassification Authority: NND 923007

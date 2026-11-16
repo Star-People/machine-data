@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:49:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5541041, "source_ctime_ns": 1793377726499678229, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965130/1408.jpg", "source_mtime_ns": 1785696856000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965130/1408.jpg", "source_sha256": "3144d7711cc227656f69066ad4d438abbf9c98382085accbbf44f0c7ddbc3a57"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 377, "method": "ocr", "page": 1, "variant": "plain-vision"}
+F. TWENTY /20/ SECONDS
+A. GROUND VISUAL
+B. NONE
+C. NONE
+A: 10/09002
+B. NIGHT
+5. KL 4342
+MIAMI CMA FLA STUDENT
+A. CLEAR
+Б. 080/7 СМА 280/8 СМА 140/8 СМА 260/10 СМА 260/25 СМА 277/45 СМА
+UNAVAIL CMA UNAVAIL
+C. CLEAR
+D. FIFTEEN /15/ MILES
+E. NONE
+F. NONE
+8 NONE
+9. NO FIGHTERS IN LOCATION CMA NOT ON RADAR
+10. NONE
+11. BELIEVED TO BE SHOOTING STAR
+12. NONS
+ET
+12/1402Z MAR RJESKB

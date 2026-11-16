@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:06:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12741202, "source_ctime_ns": 1793360234178043876, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-048-0003.tif", "source_mtime_ns": 1785681665000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-048-0003.tif", "source_sha256": "cfc6082498de59c78b96d0bc43c05920b855aaea873ceec8766a333b5e46581e"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 730, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+0-&3 EEEE PAGE THREE RJEDBW 4F
+TENTH AVENUE, JUNIATA PA.
+(6)
+IDENTIFYING INFORMATION
+A. MRS.
+AT AGE 40,
+BY JUNIATA PA. HOUSEWIFE
+(7)
+WEATHER AND WINDS ALOFT CONDITIONS AT TIME
+A. CLEAR NIGHT, STARS VCSIBLE, VISIBILITY GOOD
+B. 30TH ADIV WRAFS
+5 :
+30ØDEGREES
+10
+3ØØDEGREEF
+15
+300 DEGREES
+N
+10
+29ØDEGREES
+N
+3 ;
+28Ø DEGREES N
+N 45,
+28ØDEGREES
+. 30 KNOTS
+30
+KNOTS
+30
+KNOTS
+5Ø
+KNOTS
+5ø
+KNOTS
+50 KNOTS
+C. 25,000
+ND. 1Ø MIPES
+E. TWO TO SIX TENTHS
+F. FRONTAL PASSAGE SCATTERED THUNDERSTORMS TO THENEASTNOF FRONT
+8(8)N NANEER ;500Z OVER WESTERN PA.
+(9)
+NONE
+(10) NONE
+VAGE FOUR RJEDBW 4F
+(11) SENIOR DIRECTOR UNABLE TO DETERMINE POSSIBLE CAUSE OF FIGHTCNG
+(12)
+NONE
+BT
+28/1917Z AUG RJEDBQ
+I
+I
+VQSL 208

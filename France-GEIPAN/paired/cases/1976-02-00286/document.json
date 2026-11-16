@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-02-00286/case.html",
-    "bytes": 19105,
+    "bytes": 19123,
     "canonical_source_identifier": "GEIPAN:1976-02-00286",
     "case_metadata": {
       "classification": "C",
@@ -40,7 +40,7 @@
     "original_title": "LAUZET-UBAYE (04) 03.02.1976",
     "relative_path": "cases/1976-02-00286/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "1b0fe379ba20fa5c856b0ced99ec920166b13f70f9c842cf621ce8ea816297f6",
+    "sha256": "eaed208b73a359bafe4846ec74d6f1edea323dd36c69f87c7b1dfb41fe25e6a6",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-02-00286"
     ]

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:51:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5791134, "source_ctime_ns": 1793378628335715464, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968634/0129.jpg", "source_mtime_ns": 1785696743000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968634/0129.jpg", "source_sha256": "a9e1bbb3b38a35cf3b2246ac5f50d4dd29fa992cdc9134b273ecd8c8c7743c9e"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 484, "method": "ocr", "page": 1, "variant": "plain-vision"}
+АПІС
+13/1055 ₴
+DI RJESKO 20
+P 131950Z
+• Mutti
+MOTIONI
+INFOR
+FI COMDR CEOTH ACURON MACDILL AFB FLA
+TO RUEPRO/DIR OF INT HO USAF WASH D C
+1920 667 14
+RJEDIN/COMDR ADC ENT AFD COLORADO SPRINGS COLO
+03:14
+RJEDUP/COMDR AIR TECH INT CHTR URIGHT PATTERSON AFE OHIO
+RJESKE/COMDR 35TH ADIV (DEF) DOEDINS AFE CA
+INFO, RJEPHE/COMDR EADFR STEWART AFD N Y
+ST
+/UNCLASSIFIED/ OPS CO 2 PD ATTH: RADE CIC STENART AFE N Y PD UFOD PD
+A. A. CIRCULAR
+E. SILVER DOLLAR
+C. WAITE
+I. V FORMATION
+2. NO!
+C
+C
+C

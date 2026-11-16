@@ -43,15 +43,15 @@
           "field": "region",
           "page_id": "page-d8e149b854ef650b0d7ed93b",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-f9bdfced2205eab476b7ffb9",
           "segment_index": 3,
           "source_segment_id": "seg-f9bdfced2205eab476b7ffb9",
           "source_text_sha256": "059d12cde048b669eed10ebe9246935a60ce3b994b570c9f85a3754a09ccc658",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Region: Provence-Alpes-Côte d'Azur",
-          "translation_text_sha256": "e7afbc080811fff103dcb9e287dd1fb0a0d689053bdf08eda8087b1d27065051"
+          "status": "not-required",
+          "text": "Region: Provence Alpes Cote d'azur",
+          "translation_text_sha256": "5b14e3b48b2fdd5900bcdae8dd5e713b6bef4d1cdf3d01cda781d5947af25b87"
         },
         {
           "end_ms": null,
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-d8e149b854ef650b0d7ed93b",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-af3596483c3cd71c6b395827",
           "segment_index": 4,
           "source_segment_id": "seg-af3596483c3cd71c6b395827",
           "source_text_sha256": "5f3096cf23bffe593c8afeead3d385551adbc8004b42a3b3277cae5903901074",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Var",
           "translation_text_sha256": "1d3ec2af506cbf320d2570d521ea5248fd2d431e94ba28a8c429ab749687afb4"
         },
@@ -123,59 +123,31 @@
           "field": "documents",
           "page_id": "page-d8e149b854ef650b0d7ed93b",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-862eb895f15a923f8ecc00ac",
           "segment_index": 8,
           "source_segment_id": "seg-862eb895f15a923f8ecc00ac",
           "source_text_sha256": "5a5447a6adae5f8909c97530e1fb73dffd4e73e4a31b463498c600cc1d48e3ee",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 43 (1976309246).pdf",
-          "translation_text_sha256": "12f2c0cb83b98c69cf34bfccde1da9224e40397b3bd1210de017e8bd11f989c5"
+          "status": "not-required",
+          "text": "Documents: PV n°43 (1976309246).pdf",
+          "translation_text_sha256": "5a5447a6adae5f8909c97530e1fb73dffd4e73e4a31b463498c600cc1d48e3ee"
         },
         {
           "end_ms": null,
           "error": null,
           "field": "testimonies",
           "page_id": "page-d8e149b854ef650b0d7ed93b",
-          "qa_findings": [
-            {
-              "added_in_translation": [
-                "1976-01-10",
-                "1976-01-10"
-              ],
-              "check": "dates",
-              "missing_from_translation": [],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "1",
-                "1",
-                "10",
-                "10",
-                "1976",
-                "1976"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [
-                "10.01.1976",
-                "10.01.1976"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "not-required",
           "segment_id": "seg-4ff1db9487ca352e43421f2e",
           "segment_index": 9,
           "source_segment_id": "seg-4ff1db9487ca352e43421f2e",
           "source_text_sha256": "23043b52226e646b3a3c760559643ff3e9560e44a5eaa72bb5d49f87acd22cd1",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Testimonies: GARDE-FREINET (LA) (83) 01/10/1976 T1 GARDE-FREINET (LA) (83) 01/10/1976 T2",
-          "translation_text_sha256": "754cd711acec1d38700456cf0553a3f2f31a17b3db5d55d714212ffea0eab887"
+          "status": "not-required",
+          "text": "Testimonies: GARDE-FREINET (LA) (83) 10.01.1976 T1 GARDE-FREINET (LA) (83) 10.01.1976 T2",
+          "translation_text_sha256": "6dff0fbf19719f15c500c28a3cb19b7a9366f9bb075d2d2da2e864ef17ab754d"
         },
         {
           "end_ms": null,
@@ -198,37 +170,14 @@
           "error": null,
           "field": "description",
           "page_id": "page-d8e149b854ef650b0d7ed93b",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "07:50",
-                "08:50"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "50",
-                "50",
-                "7",
-                "8"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-08b669d8d3fc3555bdee223d",
           "segment_index": 11,
           "source_segment_id": "seg-08b669d8d3fc3555bdee223d",
           "source_text_sha256": "9cc1573ab0d2492d939b3ee671477a27127cbdb6f43ec745d4a7279f27ca9544",
           "start_ms": null,
-          "status": "needs-review",
+          "status": "machine-unreviewed",
           "text": "Description: On January 10, 1976, between 7:50 and 8:50 a.m., two individuals observed a very bright spherical object above the horizon. The witnesses noted that the object remained stationary. It gradually became invisible as the sun rose. The Gendarmerie, contacted promptly, found no object in the sky that morning or the next morning. No other testimonies were collected. Based on the collected descriptions, the witnesses likely observed a weather balloon.",
           "translation_text_sha256": "3657c14978b4e9a7d068e50ebf55ee4879751c0cd6a4896a736b9b7b6b81bd16"
         }
@@ -241,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-27T07:40:23Z",
+    "generated_at": "2026-11-16T05:47:11Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

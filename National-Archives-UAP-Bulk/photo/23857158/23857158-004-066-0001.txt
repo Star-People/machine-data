@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:05:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10212182, "source_ctime_ns": 1793358887779966609, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-066-0001.tif", "source_mtime_ns": 1785681252000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-066-0001.tif", "source_sha256": "dcd865257302a90bf7b53a8f0f1ef12d4164535bca28ad87f5077157b67bef58"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 538, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+AIS8-UF0E-340-55
+LOCATION OF STEITING
+Shelby, Iowa
+MEANS ROCD
+TT Msg
+INVES UNIT
+Det 2
+DATE IR RECD HQ
+DATE/TIE OF SIGHTING
+01/2204Z Sep 55
+I RECD HQ 4602D
+2 Oct 55
+LOGGED BY
+A/10 Deludder
+ACTION
+Invesitgation authorized
+DATE INVES ASSICNED
+30ct 55
+DATE IR APPROVED
+ASSIGNING OFFICER
+Lt Mointee
+I DATE IR TO ATIC
+DATE OF FORM 5
+3 Dot 55
+COMMENTS
+Investigation assigned to Det 2, 3 Oot 55. Results of investigation
+as indicated below:
+CONCLUSIONS
+AISOP FORM 7 (2 APR 55)

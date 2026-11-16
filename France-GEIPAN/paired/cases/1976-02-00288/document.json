@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-02-00288/case.html",
-    "bytes": 21955,
+    "bytes": 21973,
     "canonical_source_identifier": "GEIPAN:1976-02-00288",
     "case_metadata": {
       "classification": "A",
@@ -40,12 +40,12 @@
     "original_title": "(DPT) VENDEE (85) 09.02.1976",
     "relative_path": "cases/1976-02-00288/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "ca344eb3f94e26dcef562da936522dff3d7b4e92688f4f63277ab3bda2065ca4",
+    "sha256": "ffab4cb2cd275a3e743c008798b945f4882b4ff5900ef04e197b074af1a60d99",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-02-00288"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

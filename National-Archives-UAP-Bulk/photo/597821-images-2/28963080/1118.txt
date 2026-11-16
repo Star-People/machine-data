@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:53:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6333081, "source_ctime_ns": 1793377255068521367, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963080/1118.jpg", "source_mtime_ns": 1785696659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963080/1118.jpg", "source_sha256": "e1687517db7b3a565d8f1ddcef6ee72cc14dbfd316348ac3d5fac1aadd6003fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 926, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+Aug 55
+3. DATE-TIME GROUP
+Local
+GM T
+08/01052
+3.
+PHOTOS
+• Yes
+XA No
+7. LENGTH OF OBSERYATION
+ten mins
+10. BRIEF SUMMARY OF SIGHTING
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Akron, Ohio
+4. TYPE OF OBSERVATION
+›• Ground. Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+civilian (GOC)
+8. NUMBER OF OBJECTS
+one
+One pink obj, shaped like a streak, seen head-
+ing south, observed for ten minutes. Disappeared
+in upward direction, assumed alt at 15,000 ft.
+12. CONCLUSIONS
+Was Balloon
+Probably Bailoon
+Possibly Balloon
+Wos Aircraft
+Probably Aircraft
+Possibly Aircratt
+Was Astronomical
+Probably Astronomical •
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+southerly
+11. COMMENTS
+Sighting took place at dusk, accountin
+for color. Winds in a southerly direc-
+tion at estimated alt of obj. Abve
+seems to substantiate possibility
+of balloon sighting.
+ATIC FORM 329 (REV 26 SEP 52)

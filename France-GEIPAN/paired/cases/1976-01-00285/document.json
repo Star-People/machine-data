@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-01-00285/case.html",
-    "bytes": 18751,
+    "bytes": 18769,
     "canonical_source_identifier": "GEIPAN:1976-01-00285",
     "case_metadata": {
       "classification": "B",
@@ -40,12 +40,12 @@
     "original_title": "CHANTONAY (85) 24.01.1976",
     "relative_path": "cases/1976-01-00285/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "99a5b4140d5e350ff019be0c2487bebaa41c1c2f54a3f29ac92ce9308472b156",
+    "sha256": "eff1fcc742d98fa9a6cbedb0e57af5664ff9e08fc2fa174e530d08a392e866b5",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-01-00285"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

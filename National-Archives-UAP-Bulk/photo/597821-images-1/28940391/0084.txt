@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:38:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3726219, "source_ctime_ns": 1793371922125088134, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940391/0084.jpg", "source_mtime_ns": 1785688880000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940391/0084.jpg", "source_sha256": "a97e3c2ff79993fbdf585a404c5a6dac23938f5039f18620b6fe9af77c6f2b94"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 400, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EXTRACT FROM STATUS REPORT #3
+DAT2: 7 Dec 51
+THE (Local): 0815
+LOCATION: Oak Ridge, Tenn.
+LENCTH OF TIME OBSERVED: 2 Min
+SOUND: None
+SPBOD: High.
+ALTITUDE: Varied
+HEADING: None
+SOURCE: Civilian Guard
+ACTION OR COMMENTS: No conclusions
+DESCRIPTION OF INCIDENT: Object appeared to be square, rose and descended three
+tines at high rate of speed.
+Neither radar nor fighter
+aircraft could melte contact.

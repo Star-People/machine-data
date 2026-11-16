@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:51:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5796486, "source_ctime_ns": 1793381826213137606, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981742/0223.jpg", "source_mtime_ns": 1785700648000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981742/0223.jpg", "source_sha256": "3112774c00c3a42ae4b7a8788f0be3047474135ffb76e1f96caf669664f0deca"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 777, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+14 Jan 59
+3. DATE-TIME GROUP
+Local
+GMT 14/08002
+5. PHOTOS
+• Yes
+D.No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Frederikshaab, Greenland
+4. TYPE OF OBSERVATION
+CKGround Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Rador
+• SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+4 mins
+one
+10. BRIEF SUMMARY OF SIGHTING
+Torpedo shaped obj approx one yard long,
+flying slowly from E to W, just north of
+settlement.
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possioly Balloon
+Ox Was Aireraft
+Probably Aircraft
+•
+Possibly Aircraft
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Date for Evaluation
+Unknown
+E to W
+11. COMMENTS
+Obj no doubt an aircraft,
+probably a small private aircreft.
+ATIC FORM 330 (REV 20 SEP. 52)

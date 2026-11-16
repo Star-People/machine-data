@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:29:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1429204, "source_ctime_ns": 1793355970237987915, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0045.jpg", "source_mtime_ns": 1785564572000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0045.jpg", "source_sha256": "a14dc222276ed54bc25719317f86220c88219faf985140f904379e34931352ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 276, "chars": 1777, "method": "ocr", "page": 1, "variant": "plain-vision"}
+32
+construction, for the new program. One went in front, as an equipment-
+carrying vehicle; the other sled, in the rear, was for propulsion only,
+marking what seems to have been the first full-scale application of the
+"pusher sled" concept. The front sled weighed 3500 pounds, as compared
+with around 14,000 for the Snark sleds; the pusher, with six rockets,
+weighed 4500 pounds. The date set for sled delivery was approximately
+1 March 1952, and the first acceptance test on the Holloman track--with
+a dummy load- was held before the end of the month. 20 Acceptance test
+number two was held on 9 April 1952, attained an estimated velocity on
+entering the water brake of 720 feet per second, and resulted in serious
+damage to the sleds. In fact the front sled went off the end of the
+track, continuing for about 1300 feet more; and both sleds had to go back
+to the Northrop plant in Hawthorne, California, for repairs.
+Instrumentation for the Sleighride series included ribbon-frame and
+other types of cameras, plus telemetry. Several new camera stations,
+closer to the track than the old stations, were installed expressly for
+these tests. The important role of photographic instrumentation led to
+painting the visual target fire orange, for better image definition and
+coverage 22
+On 21 June 1952, finally, the two sleds returned from Hawthorne. An
+evaluation test held on 3 July showed the repairs to be satisfactory.
+Velocity of about 700 feet per second was attained on this run, which
+used four 18,000-pound-thrust jato units, and deceleration was 43.4 E.
+Then, on 18 July, the first "hot run" was conducted.
+The objective of
+this and succeeding experiments in Phase I of the test series was "to
+subject the warhead and various associated components to high acceleration

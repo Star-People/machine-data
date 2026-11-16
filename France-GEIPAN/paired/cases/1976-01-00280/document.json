@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-01-00280/case.html",
-    "bytes": 18530,
+    "bytes": 18548,
     "canonical_source_identifier": "GEIPAN:1976-01-00280",
     "case_metadata": {
       "classification": "B",
@@ -40,12 +40,12 @@
     "original_title": "SAINT-PIERRE (974) 09.01.1976",
     "relative_path": "cases/1976-01-00280/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "ac44f2f562a8f6d8e48b03bb2da7b967a52ebe92dc5411054ec657aa39b4d1eb",
+    "sha256": "d1a59b84c9389c594943488824517ae3e38ecc7869056017ea7fec943484f02c",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-01-00280"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:25:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 837703, "source_ctime_ns": 1793393350469168731, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302576387/00150.jp2", "source_mtime_ns": 1785808134000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302576387/00150.jp2", "source_sha256": "a5701b2cfc8b2b1c28bafbe458f5cb23b1b261e660ee341c19fc624e2af789b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 786, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+ay
+2-18
+DATE
+MAY 1968 SIGHTINGS
+OBSERVER
+LOCATION
+Columbia, South Carolina
+a ( PHOT)
+Kettering, Ohio
+Dayton, Onio
+Garrett, Indiana
+Vandalia, Ohio
+Dayton, Ohio
+Dayton, Onio
+Bowler, Wisconsin
+Dayton, Ohio
+Clewiston, Florida
+Covingten, Kentucky
+Duluth, Minnesota
+Near Phillipines
+litary
+Wyoming, Ohio
+Vie Hio
+S REPORTED SIGHE NGS (NOT CASES)
+LOCATION
+SOURCE
+Brigham City, Utah
+Dayton, Chio
+Dayton, Onio
+Hegins, Pennsýlvania'
+Verona, California
+Daytona Beach, Florida
+Mosinee, Wisconsin
+Ltr
+Ltr
+Newsc ipping
+# 164
+tem o
+EVALUATION
+Other (WATER SPOTS)
+Insufficient Data
+Astro (METEOR)
+Other (CONFLICTING DATA)
+Insufficient Data
+Insufficient Data
+Insufficient Data
+Insufficient Data
+Insufficient Data
+Other (UNRELIABLE REFORT)
+Insufricient Data
+Balloon
+Astro (METEOR)
+Balloon
+EVALUATION

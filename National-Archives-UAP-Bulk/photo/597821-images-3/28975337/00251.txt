@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:52:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6242533, "source_ctime_ns": 1793380315147170078, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975337/00251.jpg", "source_mtime_ns": 1785700871000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975337/00251.jpg", "source_sha256": "e7e4fea10a8c2060a17cc47a5c046e5bef7da318eb3815ad3b8d9f737004e30f"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 617, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Nulli 26/17208
+23 No/5zŚš
+3-4 Xha
+SQH#27V SQE038 YMB@21FLA047
+MM RJEDEN RJEDSO RJEPHQ
+ani
+DE RJEDFL 2P
+M 2910457
+FM COMDR 782ND ACURON ROCKILLE AFS IND
+TO RJEDEN/COMDR ADC INT AFB COLORADO SPRINGS COLORADO
+INFO RJEDFL/COMDR 58TH ADIV WPAFB OHIO
+RJEDSQ/COMDR AIR TECHNICAL INTELLIGENCE CENTER WPAFB OHIO
+RJEPHO/DIRECTOR INTELLIGENCE HEADQUARTERS USAF WASHINGTON 25 DC
+/UNCLASSIFIED/ INTEL 25G PD SUBJECT CLN UNIDENTIFIED FLYING OBJECT
+REPORT PD IN ACCORDANCE WITH AIR FORCE REGULATION 200-2 DATED 12
+AUGUST 1954 THE FOLLOWING IS SUBMITTED PD
+ITEM I
+A. ROUND
+GOLF BALL
+C•
+SHINY
+D. ONE (1)
+MOTIONLESS
+F. ROUND AND SHINY

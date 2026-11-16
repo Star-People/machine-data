@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:25:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 787460, "source_ctime_ns": 1793392207713486356, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565605/0393.jp2", "source_mtime_ns": 1785808025000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565605/0393.jp2", "source_sha256": "6cbd5f4a83177726597b69b5486d8a46a4e28d2abda2d98cddaad1870c9e2559"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 448, "method": "ocr", "page": 1, "variant": "plain-vision"}
+The Air Force concludes that given the tine of the day
+with the angle of the Sun and the unfamiliar maneuvering of the
+white and red helicopter the witnesses could not identify it as
+such,
+As to the number of objects sighted the white and red
+objects vas the only consistent description given. The Air Force
+attributes the other objects to the high nunber of small aircraft
+activity in the vicinity of North Perry Airport.
+-30-
+HOM 67-4-3
+Attick D

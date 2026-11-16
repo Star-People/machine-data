@@ -1,37 +1,10 @@
 {
   "document_id": "doc-9fa4d7723e3237a44a6c7776",
-  "findings": [
-    {
-      "added_in_translation": [
-        "1976",
-        "1976",
-        "1976",
-        "1976",
-        "2",
-        "2",
-        "2",
-        "2",
-        "8",
-        "9",
-        "9",
-        "9"
-      ],
-      "check": "numbers",
-      "missing_from_translation": [
-        "08.02.1976",
-        "09.02.1976",
-        "09.02.1976",
-        "09.02.1976"
-      ],
-      "segment_id": "seg-beb030d6981459680bd773ad",
-      "severity": "warning",
-      "status": "mismatch"
-    }
-  ],
+  "findings": [],
   "page_count_match": true,
   "schema": "ufo-files-french-translation-qa/v1",
   "segment_count_match": true,
   "source_language": "fr-FR",
-  "status": "needs-review",
+  "status": "pass",
   "target_language": "en"
 }

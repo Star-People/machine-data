@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:59:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7550720, "source_ctime_ns": 1793380060082904002, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974385/0875.jpg", "source_mtime_ns": 1785700720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974385/0875.jpg", "source_sha256": "7677641540c4f581b30997a0da42c1e911e96e5ab4e74361176a212eb9239764"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 722, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+November 1957
+DATE-
+: GROUP
+Local.
+CHT. 10/0122 Z
+PHOTOS
+D Yes
+X No
+LENGTH OF OBSERVATION
+l minute
+GRIEF SUMMARY OF SIGHTING
+Dull yellowish-gray,
+round object.
+Size of basketbail.
+Travelling at high
+rate of speed.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Clinton, Pa.
+TYPE OF OBSERYATION
+D Ground-Visuai
+D Air Visua!
+6. SOURCE
+D Ground-Radar
+O Ai
+Civilian
+8. NURSER OF OBJECTS
++ Rada
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balioon
+Was Aircraft
+Probably Airereft
+Possibly Aireraft
+Was Astronon
+Probably Astronomicet
+Possibly Astronomical
+Other
+Insuffic
+Unknown
+Data
+9. COURSE
+Weat
+COMMENTS
+flight path, color, duration, etc.
+subBest Jet A/%.
+Check shows a jet
+A/C in area.
+ATIC FORM J20 (REV 25 SEP 52)

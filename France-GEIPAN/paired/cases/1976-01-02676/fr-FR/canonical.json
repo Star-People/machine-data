@@ -8,7 +8,7 @@
   "document_id": "doc-32eb1ede8c09336023f2c2a1",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-26T10:45:44Z",
+    "generated_at": "2026-11-16T06:13:43Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-01-02676/case.html",
-    "bytes": 18549,
+    "bytes": 18567,
     "canonical_source_identifier": "GEIPAN:1976-01-02676",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "CHAMBOURG-SUR-INDRE (37) 31.01.1976",
     "relative_path": "cases/1976-01-02676/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "39ff0035200163d9eca0874abb57d65a7d4a03d377c1b939e3e78be11cc3a1d1",
+    "sha256": "e163fc222c529d2936932556fcc9330bb3dc12eaf9c317cb49e84b4b282d18c1",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-01-02676"
     ]

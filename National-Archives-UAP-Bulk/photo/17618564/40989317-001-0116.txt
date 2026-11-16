@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:28:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1088924, "source_ctime_ns": 1793356324030850970, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0116.jpg", "source_mtime_ns": 1785564674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0116.jpg", "source_sha256": "03378a75949992c16ad161b64e9d796cf62e04d55dcbb540ad32c0aa756c5c00"}
+
+===== PAGE 1 =====
+{"alpha_words": 246, "chars": 1700, "method": "ocr", "page": 1, "variant": "plain-vision"}
+iltra violet searchlight bean at night. Dr. Recener of the University of
+New rexico at Albuquerque is ponitoring surface ozone by chenical methods
+and obteinic vertical sectione by day by use of walloon borne spectro-
+craple, The Universiby of Alaske is dinliontin
+the moduinted searchlight
+equipmene for sinilar ozone measurements at high latitude.
+Complane tory Contracts:
+Universicy of Few Vexico
+100 24-090-20-673
+#Research in Atnospheric Cmonel
+D. Tniversity of Alaska
+TO. 128-00060-145
+"Resesrch into the At osphere of the Arotio
+2g Project title: Mir Conductivity desearch
+Project Sodentists: Ir, Pe pekoff,
+'r. S. Coroniti
+Surery of I¿¿Laboratory work:
+This project has been initiated at the request of Ceneral Nepenberger's
+group; covever, is will te cerried over after this special project is ended
+to atteapt to study the problem of electric charge separatio in the atmosphere.
+There is a distinco possibility of usin; this equipment as a measure of
+mixing at heights of 2 or d miles above cround by nessuring the amount of
+pround radicactive contamination thrown into the uppor air by turbulence or
+advection currents.
+Veeple enta y Con practs:
+Wait / Gish
+No. 128-090-20-416
+"Research in Atmospheric Electrical
+ConduchivityạẠại
+Project bible: Abrospheric Effects on Cosmic Rays
+Project Seientist: ir. P. " Treteff
+Projecs Sunrary:
+There is sone roason to suspect thes cosmic ray particles reachin;
+the enrth are considerable influencod or the state of the upper air. A
+U-28 cosmic ray airernft has bech equipped jointly by the Geophysical Re-
+senorch Division and Crookhoven Netidnal Laboratories to make Clichts up
+to 80 OuC feet to intesticats nesca preduction, slow neutrone and fast

@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:46:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4948581, "source_ctime_ns": 1793377709717802071, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965056/1342.jpg", "source_mtime_ns": 1785696870000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965056/1342.jpg", "source_sha256": "fa42fd11424f3504900439af455460421774a70160caa9701a2db1de3d1811b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 430, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LACY L. COOK, BOX 417 GISSONVILLE,
+N.C. CITY POLICEMAN.
+EUGENE
+G. EULASS, 113 WESTOVER
+ST.
+GRAHAM N.C., CITY POLICEMAN
+7. A• CLEAR
+B. SURFACE
+150 DEG
+4 KNOTS
+6 ANGELS
+280
+DEG
+11
+KNOTS
+10 ANGLES
+280
+DEG
+30 KNOTS
+16 A
+290
+DEG
+42 KNOTS
+20A
+280
+DEG
+63 KNOTS
+30 A
+280
+DEG
+87 KNOTS
+50 A AND 80 A N/A•
+C. CLEAR
+8. NEG
+D. 15 E. CLEAR F. NEG
+9. NEG
+10. NEG
+11. CAPT. JAMES F. LEE
+DETACHMENT COMDR
+NO COMMENT
+12. NEG
+BT
+06/0430Z MAR RJEPJM

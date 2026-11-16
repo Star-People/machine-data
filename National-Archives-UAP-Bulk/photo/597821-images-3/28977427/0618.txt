@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:37:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3493312, "source_ctime_ns": 1793380643159678754, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977427/0618.jpg", "source_mtime_ns": 1785701079000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977427/0618.jpg", "source_sha256": "6446b916324756427a2af70c5a19e8502a4f942b5fa7bc7cee611c0099589800"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 867, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+11 Mar 58
+3. DATE-TIME GROUP
+Local
+GMT.
+not given
+5. PHOTOS
+Springfield, Ohio
+4.
+TYPE OF OBSERYATION
+- Ground-Visual
+C Air Visual
+6. SOURCE
+• Yes
+GI. No
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+not given
+not given
+10. GRIEF SUMMARY OF SIGHTING
+Two different observers sighted obj
+over Springfield. No further info
+available. Sparse info presented indi
+cates rpters observed conventional
+a/c & steady rotating lights under
+overcast conditions.
+D Ground-Radar
+• Air-Intercept Radar
+9. COURSE
+11.
+12. CONCLUSIONS
+000
+Was Balloon
+Probably Bailoon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomicai
+Other
+Insufficient Data for Evaluation
+Unknown
+not given
+COMMENTS
+A/C according to limited data
+presented.
+ATIC FORM 329 (REY 26 SEP 52)

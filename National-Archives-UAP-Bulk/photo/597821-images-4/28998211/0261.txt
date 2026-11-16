@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T05:57:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7069113, "source_ctime_ns": 1793387121945549582, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998211/0261.jpg", "source_mtime_ns": 1785747858000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998211/0261.jpg", "source_sha256": "c121d87a08bbacadf650fd36f07d0246ee84f7482892bf34b4238ea5ffd34f81"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 727, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+14 Jul 62
+3. DATE-TIME GROUP
+Local
+2030DLS
+GM T.
+15/01302
+5.
+PHOTOS
+• Yes
+XO No
+7. LENGTH OF OBSERVATION
+M183
+0. BRIEF SUMMARY OF SIGHTING
+707 g
+300_50
+ATIC FORM 329 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Evanston, Illinois
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Ground-Radar
+• Air Visual
+6•
+SOURCE
+• Air-Intercept Radar
+ivilian
+8. NUMBER OF OBJECTS
+9. COURSE
+one
+ke
+707
+stimate
+N
+hts
+a 1
+COMMENTS
+A11
+mar
+cotra
+dicta
+12. CONCLUSIONS
+000
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unk no wn
+000
+000
+isties of a
+C :
+eed etc.
+Nothing
+analysis
+as a/c.
