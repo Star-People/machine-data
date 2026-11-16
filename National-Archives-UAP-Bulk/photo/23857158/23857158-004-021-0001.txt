@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:31:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13027006, "source_ctime_ns": 1793358680956469363, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-021-0001.tif", "source_mtime_ns": 1785681170000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-021-0001.tif", "source_sha256": "587437309019fa343a093944329522f6ab509b99a834bbd415d143d3999eb743"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 566, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LCG
+L REPORT NO.
+Д33S-ПРОВ-02-55
+2 DATE/TIME OF SIGATING
+29/23002 May 1955
+4 LOCATION OF SIGHTING
+Colorado Springs, Colorado
+5 MEANS RECD
+Phone Call
+7 INVES UNIT
+з/д
+16 ACTION
+No Investigation Authorized,
+8 DATE INVES ASSIGNED
+N/A
+10 DATE IR RECD HG 11 DATE IR APPROVED
+• NA
+13 AISOP FORM 5
+7 Joe 1955
+14 COMMENTS
+Definitely identifhed as Moby Dick.
+3 RECD HQ 4602D
+29 May 1955
+by headquarters.
+limited follow-up
+9 ASSIGNING OFFICER
+1/A
+12 DATE IR TO ATIC
+N/A
+15 CONCLUSIONS
+Was Hoby Dick
+AISOP FOR: 7 (2AFR 55)

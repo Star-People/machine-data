@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:18:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7664775, "source_ctime_ns": 1793364779157553559, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0084.jpg", "source_mtime_ns": 1785684929000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0084.jpg", "source_sha256": "fb127c5b459c0463094b4b3ff6458fb2b66cfa9a2892fb2854f24b1d8458497f"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 552, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ONFIDENTIAL
+File No. 24-30
+UNDEVELOPED LEAD
+DISTRICE OFFICE NO. 20,
+MeCHORD AFE
+AT SEATTLE, WASHTIGTON
+Contact Chief Controller, Seattle Air Route Traffic Control
+Center, Seattle Tacoma Airport, Seattle, Vashington, and obtain flight
+schedules of commercial, military, and local aircraft in the vicinity
+of Hart Mountain, near Lakeview, Orogon, at approximately 1430 hours
+(PST), 27 May 1949. mis infomation is pertinent to the investigation
+of this case as required in AFCSI Letter No. 85, dated 12 August 1959.
+Declassification Authority: NND 923007

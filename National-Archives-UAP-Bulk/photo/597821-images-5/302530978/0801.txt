@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:58:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1755018, "source_ctime_ns": 1793388680454544123, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530978/0801.jp2", "source_mtime_ns": 1785808211000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530978/0801.jp2", "source_sha256": "363b371130bf9fff7f9119f735c417b7f7f0190e86bd8a81e89d19d4729be80f"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 904, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Port Huron Times Herald
+907 SIXTH STREET • PORT HURON, MICHIGAN • YUkon 5-7171
+F. Cranger Weit
+President and Editor
+Dec. 27, 1963
+907 Sixth St.
+Port Huron, Mich
+Dr. J. A. Hynek
+Dearborn
+Observatory
+Evanston, Ill.
+Dear Sir:
+inclosed are the clippings that have appeared in. The Times Herald in
+regards to the strange lights which have been sighted by reputable persons
+in St. Clair County.
+These sightings have occurred periodically since Nov. 12.
+To dete there has been no explaineble reason given for these mysterious
+ocjects.
+Our interest is just as great as yours, and if possible I would like to be
+informed of your studies and findings regarding
+these sightings and other
+data that you have investigated concerning this matter.
+The Times Herald will be glad to assist you whereever possille and for
+further help or assistance do not hesitate to call upon me.
+Sincerely
+JFB/rh
+John F. Brown
+Reporter

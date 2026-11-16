@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:54:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1439236, "source_ctime_ns": 1793392980674905176, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572653/0649.jp2", "source_mtime_ns": 1785808217000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572653/0649.jp2", "source_sha256": "3d58e5d777a7fa73badd003ed259022bc1b491dafe4f2e36a71feed7a83eff8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 714, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE
+TIME GROUP
+2. LOCATION
+15 November 67 14/01304
+Aiken, S. C.
+(3 Witnesses)
+3. SOURCE
+10. CONCLUSION
+Civilian
+4. NUMBER OF OBJECTS
+Three
+5. LENGTH OF OBSERVATION
+Probable (AIRCRAFT)
+There were three jet fighter out of Shaw AFB flying night missions
+in the vicinity.
+Direction of the flight path was from N to 3,
+E to W and the return leg.
+11. BRIEF SUMMARY AND ANALYSIS
+29 Minutes
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+Varied
+8. PHOTOS
+Observer sight 3 flashing, red, oval shaped object. The flizit
+path of the objects seemingly moved in no planned direction..
+D) Yes
+XIXNo
+9. PHYSICAL EVIDENCE
+• Yes
+XXNO
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous editions of thie form may be used.

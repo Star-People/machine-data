@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:55:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1457751, "source_ctime_ns": 1793389256262141842, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538546/00541.jp2", "source_mtime_ns": 1785808027000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538546/00541.jp2", "source_sha256": "0110ae85df9c32c463140e6c65b88b0003109407b164104c67852211bdfe1c3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 513, "method": "ocr", "page": 1, "variant": "plain-vision"}
+15 Are. k:
+DURANI, IGLI:
+PID (IDEW)
+Wright-Patterson AFB, ohio 45433
+3 June 1965
+Dear
+Reference our request for meteor reports on the night of 15 Apr 65.
+We appreciate your forvarding the attached report for our informa-
+tion, and are returning it as requested. If you do obtain addition-
+al reports for that night ve would like to receive them and would
+returs them to you after duplication.
+Sincerely,
+ESCTOR QUINTANTLIA, IT
+MaJor, USAF
+Chief, Aerial Phenomena
+1 Atch
+Rpt fm Mrs
+Sighting 15 Apr 65, Durand, I11

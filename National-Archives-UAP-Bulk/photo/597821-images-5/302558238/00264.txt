@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:56:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1706988, "source_ctime_ns": 1793391375777359790, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558238/00264.jp2", "source_mtime_ns": 1785808482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558238/00264.jp2", "source_sha256": "b483dd5baa0157f1e65eff3485db98515a871752746a235ecf39d96189da0f3d"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 666, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 100/3 RECORD
+1. DATE •
+• TIME GROUP
+2. LOCATION
+8 Nov 66
+3. SOURCE
+09/0130Z
+74.26 N-118.20W (Atlantic)
+(Multiple)
+10. CONCLUSION
+Military
+1. NUMBER OF OBJECTS
+AIRCRAFT
+TwO
+LENGTH OF OBSERVATION
+1 hour
+6.
+TYPE OF OBSERVATION
+Air-Visual
+7. COURSE
+11. BRIEF SUMMARY AND ANALYSIS
+The shape of the object was not descemible because of the
+darkness.
+The visible lights were the size of Aircraft
+position lights.
+White and Blue flashing. The lead
+object has one white position light and a blue flashing
+The second object had one white position light.
+225 Degrees
+9. PHOTOS
+True
+DI Yes
+x7 No
+PHYSICAL EVIDENCE
+17 Yas
+XX No
+FORM
+FTD SEP 63 0-329 (TDE) Prevlous
+used.

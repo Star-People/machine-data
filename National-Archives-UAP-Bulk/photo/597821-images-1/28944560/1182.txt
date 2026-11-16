@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:02:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3985391, "source_ctime_ns": 1793372870010156108, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28944560/1182.jpg", "source_mtime_ns": 1785688579000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28944560/1182.jpg", "source_sha256": "e2c14b8e829c579651111e5fe2a79ae6365e1f29c1df093a3c113a1c92c5c302"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1086, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 4
+SECTION C
+12. Estimata how long you saw the object?
+Hours
+Minutes
+Seconds
+12.1 Circle one of the following to indicate how certain you are of
+your answer to Question 12:
+Certain
+Fairly sure
+13. Did the object look: (Circle One)
+14. Did the object at any time:
+Solid
+å: Not very sure
+Just a guess
+or
+Transparent?
+(Circle One for each question)
+14.1 Change direction?
+14.2 Change speed?
+Yea
+No
+Don't know
+Yes
+No
+Don't know
+14.3 Change size?
+Yes
+Don't know
+1404
+Change color?
+Yes
+Don't know
+24.5
+Break up into parts or
+explcde?
+Yes
+Don't know
+14.6 Give off smoke?
+14.7 Change brightness?
+Yes
+Don't know
+Yes
+No.
+Don't know
+14.8 Flicker, throb, or
+pulsate?
+14.9 Remain motionless?
+Yes
+Don't know
+Les
+Don't know
+15. Did the object give off a light?
+(Circle One) :
+No
+Don't know
+15.1 IF you answered YES, what was the color of the light?
+l6. Tell in a few words the following things about the object?
+16,1 Sound
+16.2 Color
+IF there was MORE THAN ONE object, then how many were there?
+Draw a picture of how they were arranged, and put an arrow to
+show the direction they were traveling.

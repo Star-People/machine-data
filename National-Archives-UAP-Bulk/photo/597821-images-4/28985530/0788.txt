@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:06:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4853867, "source_ctime_ns": 1793382811019208875, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985530/0788.jpg", "source_mtime_ns": 1785748309000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985530/0788.jpg", "source_sha256": "010727a3c0d25b5549fe15927b4c08e161ab9b3e38c512f02ed271e85e60524b"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 685, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGI
+INCOMING
+Dec 59
+UNCLASSIFIED
+OPERATIONAL IMMEDIATE
+AF IN : 13140 (11 Dec 59)
+A/N/ken
+ACTION: CIN
+INFO
+: OOP, OOP-CP, ARMY, NAVY, JCS, OSD, NSA, CIA, CMC,
+SAF'S
+FROM
+HAWAIIAN AIRDEFDIV
+TO
+CINCPACAF
+COMUSJAPAN
+C INC AL
+CINCNORAD
+COFS USAF
+CINCUSARPAC
+COMUSKOREA
+COMUSTDC
+CINCPAC
+CINCPACFLT
+HAWSEAFRON
+NR
+M 10080
+111427Z DEC 59
+//UNC LA S//
+CIRVIS Evaluation - CIRVIS Rept. Co-Pilot observed bright
+white ellumination behind clouds below 8,000 It. Lasted 1 to 2 seconds
+no object visible -observer believes caused by Meteor.
+Evaluation -
+Meter entry. Maj Paul Roberts D.I.
+Зт
+NOTE
+: Advance copy delivered to OOP-CP

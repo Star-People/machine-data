@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:15:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6585068, "source_ctime_ns": 1793358152594614027, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-034-0002.tif", "source_mtime_ns": 1785681007000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-034-0002.tif", "source_sha256": "069afaff660cbc3c15efc790dd624bb2f9e57dde3e04370ee2d1200163e94689"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 979, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE THREE OF JESY 42B
+79721
+MILITARY
+JAMES B YOUNG MAJ AO-735725 420TH AIR REFUELING SQDN AEX-AFB
+WEATHER AND INNDS ALOFT AT TIME AND PLACE OF SIGHTING&
+A. NO WEATHER
+SURFACE CALM
+DEGREES/ CALM
+KNOTS ø
+6000 FEET 330/10 DEGREES/ 330
+19,00ØÍ
+KNOTS 1ø
+FEET 300/15 DEGREES/ 300
+KNOTS
+• 15
+16,200 FEET
+DEGREES/ 33Ø
+KNOTS, 20
+20,000 FEET
+DEGREES/ 3Ø0
+KNOTS 15:
+30,000 FEET
+DEGREES/ 320
+KNOTS 15
+50,000 FEET
+DEGREES/ 360
+KNOTS 20
+50,000
+FEET
+DEGREES/ 360
+KNOTS 20
+80,000
+FEET
+DEGREES/ 320
+KNOTS 35
+C• CEILING- UNLIMITED
+D•
+VISIBILITY- 8 MILE
+HAZE
+E. CLOUD COVER NONE S
+F• THUNDERSTORMS- NONE
+NONE
+NO E
+10.
+1.10
+NONE
+OPERATIONS OFFICE MAXWELL FLIGHT SERVICE CENTER MAXWELL AFB
+ALABAM
+KENNETH A SNYDERS CAPT USAF CLEARENCE OFFICR ON DUTY
+MAJ JAMES B YOUNG AO 735 725 STATES HE HAS BEEN OBSERVING
+OBJECTS FOR PAST HOUR HE STATES THEY ARE DEFINATLY STARS CALLED TO F/S
+SIGNED GOLINSKY END
+17/0528Z NOV JESYQ
+-end -
+2 0312105105/0
+1961 ON LI
+e72151812

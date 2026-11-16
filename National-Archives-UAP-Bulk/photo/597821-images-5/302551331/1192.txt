@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:51:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1053066, "source_ctime_ns": 1793390585058278401, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302551331/1192.jp2", "source_mtime_ns": 1785808142000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302551331/1192.jp2", "source_sha256": "be8876bf7998c5db39180c94c1a0c19090167611910e4cfac16f8b78fdfe6407"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 408, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 7
+34. Date you completed this questionnaire:
+Day
+Month
+Yoor
+35. Information which you feel pertinent and which is not adequately covered in the specific points of the
+questionnaire or a narrative explanation of your sighting.
+1. WEATHER: CMH 20ODE
+700015 0405
+2100 F
+70015 0704
+2200F
+800 15 0000
+2300F 80C15 0000
+30/1900 EST
+2. WINDS: Sm
+3415
+10 m
+3030
+15 M
+2835
+20 m
+29 45
+30 m
+2760
+40 m
+2845
+som
+2630

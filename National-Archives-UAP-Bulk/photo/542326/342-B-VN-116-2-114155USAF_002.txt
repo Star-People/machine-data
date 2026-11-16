@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:45:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 147466, "source_ctime_ns": 1793368400401071279, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-VN-116-2-114155USAF_002.jpg", "source_mtime_ns": 1785566096000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-VN-116-2-114155USAF_002.jpg", "source_sha256": "60e24f075680b6e0442c135fcf4e2257930496b4b861ba186601f487c89f7e99"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 369, "method": "ocr", "page": 1, "variant": "plain-vision"}
+342-B-VN- 116-2-114155 USAF
+ND-GEOGRAPRIC LOCATIONS-COUNTRY-VIETNAM, NORTH
+PEOTOGRAPHY, RECONNAISSAICE SON MAY
+POW CAMP
+114155 USAP - An annotated serial reconnaissance
+photo, taken over North Vietnam showing Son Tay POW
+camp and surrounding area.
+Photos were taken after
+unsuccessful rescue operation.
+1970 -
+U.S. AIR FORCE PROTO
+CONTROL, NO: 75-748 NEG: 014, 4x5 bwn

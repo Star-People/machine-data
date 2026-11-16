@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:56:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1684572, "source_ctime_ns": 1793389915304308756, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544911/0727.jp2", "source_mtime_ns": 1785808217000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544911/0727.jp2", "source_sha256": "bf15672773a6d5f980a89bacd8ce2023ac37f48f456539688b90e52a5ea68e5b"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 608, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS 840TH COMBAT SUPPORT GROUP (TAC)
+LOCKBOURNE AIR FORCE BASE, OHIO 43217
+REPLY TO
+ATTN OF:
+840020 (DO)
+suBJect: Unidentified Flying Object
+12 Oetober 1965
+TO:
+TTD (TOEN/UPO)
+Wright-Patterson AFD Ohio 45433
+1. Raference your letter, IDDI/UrO, subject, VED Sightings, 26 Sep 65,
+dated 7 Oct 65.
+2. Turther investigetion with the Detroit Air Defense Sector reveals
+they made positive rader identification of the reported object as a
+SAG KO-135. No UFO was observed on their scopes,
+FOR THE COMMANDER
+MIES C. SNITI, It Colonel,
+USAF
+Chief, Operations and Training Division

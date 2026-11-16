@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:06:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4850499, "source_ctime_ns": 1793382857656524778, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985689/0923.jpg", "source_mtime_ns": 1785748450000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985689/0923.jpg", "source_sha256": "d6047b530ae93d0b29c67c0ffee70fd7a492b4d3ac2afdd8320d5b20469b37ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1364, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+18 January, 1960
+3.
+DATE-TIME GROUP
+Local
+GM 7/22557
+5. PHOTOS
+2. LOCATION
+Gulf of Mexico
+4. TYPE OF OBSERVATION
+• Ground-Visual
+D Air- Visual
+6. SOURCE
+• Ground-Radar
+D/Air-Intercept Radar
+DY•s
+D-No
+7. LENGTH OF OBSERVATION
+18 Seconds
+Military
+8. NUMBER OF OBJECTS
+One
+10. BRIEF SUMMARY OF SIGHTING
+d-52 Radar picked up object with estimated
+speed of 10-14,000 mph on collision comrse
+at 33,000 ft with heading of 050 deg. Air
+speed at time was Who kts. Object bearing
+20 deg on inbound track and 2h0 deg after
+passing a/c. Initial pickup on one radar
+at 60 nr. After passing a/c followed by
+second radar with 2 sec sweep and followed
+for 6 seconds with pickup at 1,500 yds,
+5,000 yds and 9,000 yds. No neteorological
+inversion. No other a/c in area and not
+picked up by ground Radar.
+ATIC FORM 329 (REV 26 SEP 52)
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+D
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+D
+Possibly Astronomical
+Anomalou
+Other.
+Insufficiant Data for Evaluation
+Unknown
+9. COURSE
+& to w
+11. COMMENTS
+Consultation with Vr. Brygnt of 103-l
+and his belief was that the object was
+interference from within the A/C me
+to the collision course and the fact
+that the object was not picked up by
+ground Radar. Considered to be caused
+by anomalous propogation.

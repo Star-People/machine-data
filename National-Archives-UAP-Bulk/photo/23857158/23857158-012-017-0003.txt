@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:13:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5979930, "source_ctime_ns": 1793360033964965495, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-017-0003.tif", "source_mtime_ns": 1785681607000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-017-0003.tif", "source_sha256": "600f4a5144e09012b4188dc408834a7dbdfeb5e714b0929081d61931138a24b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 533, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Autority NND 923007
+VERNØN L. LOVEJOY S/SGT DETACHMENT 10,
+4670 GOS
+1 • WEAINER
+A. CLEAR
+B .
+SURF ACE
+6000
+270
+RPT PAGE THREE
+PAGE HREE RJEPNB 4M
+B. VERNON L. LOVEJOY S/SGT DETACHMENT 10 4670 GOS
+7. WEATHER:
+A. CLEAR
+B. SURFACE
+6000
+12000
+270
+300
+300
+DEG
+DEG
+DEG
+11 KT
+3Ø KT
+25 KT
+GOJAWWA
+абФ
+GIL
+20200
+$3&
+280
+BEPPPP
+50000
+80088
+C. UNLIMITED
+D. EXCELLENT
+E. NONE
+F . NONE
+3. NONE
+9. NONE
+10. NONE
+11 -
+NONE
+12 .
+NONE
+17/1440Z DEC RJEPNB
+50 KT
+DEG
+DEG
+DEG
+DEG
+60 KT
+18 KT
+85 KT
+KT
+DE. AISS ROGER FOR YOUR NUMBER Ø10

@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:57:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1710631, "source_ctime_ns": 1793371952609583787, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940553/0229.jpg", "source_mtime_ns": 1785688894000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940553/0229.jpg", "source_sha256": "ec786832e680c7e9609a450516028639c98aadd49fadb0c4a6caa6b6779df341"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 671, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE
+6 Feb 52
+3. DATE-TIME GROUP
+Local
+GM T
+PHOTOS
+D Yes
+· No
+7. LENGTH OF OSSERVATION
+PROJECT 10073 RECORD CARD
+L..
+LOCATION
+Dobbins AB, Ceorgia
+4. TYPE OF OBSERVATION
+& Ground- Visucl
+Ll Ground-Rader
+O Air- Visual
+6. SOURCE
+OST agent
+• Air-Intercept Radar
+S. NUMBER OF OBJECTS
+9. COURSE
+1
+12. CONCLUSIONS
+POK
+Was Balloon
+Probebly Balloon
+Possibly Belicon
+Wos Aircrofe
+Probably Aircreft
+Possibly Aircraft
+Was Astronomica!
+Probably Astronomical
+Possibly Astronomical
+D
+D
+Other
+Insufficient Data for Evaluation
+Unknown
+10. BRIEF SUMMARY OF SIGHTING
+Speroid shape.
+training balloon.
+11. COMMENTS
+Evidently an ADC
+Object recovered.
+7-3112-43
+ATIC FORM 329 (REV 26 SEP 52)

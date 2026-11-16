@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:04:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4578096, "source_ctime_ns": 1793359918759438049, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-035-0001.tif", "source_mtime_ns": 1785681567000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-035-0001.tif", "source_sha256": "b2c8c1d3cf0d49eeef3dbf4538c306854bffe695892b9e0ba74779959c38ec63"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 524, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB, LOG
+REPORT NUMBER
+ATSS-UF08-729-56
+LOCATION OF SIGHTING
+Lake Leelanau, Michigan
+MEANS RECD
+IT Mag
+INVES UNIT
+NA
+DATE IR RECD HQ
+H/A
+DATE AISOP FORM 5
+15 May 56
+COMMENTS
+Concur with reporting officer
+| DATE/TIME OF SIGHTING
+112/03302 May 56
+RECD AISOP
+15 May 56
+LOGGED BY
+8/Sgt DeRudder
+JACTION TAKEN
+No investigation authorized
+DATE INVES ASSIGNED
+N/A
+DATE IR APPROVED
+NA
+ASSIGNED BY
+11/2
+DATE IR TO ATIC
+N/A
+CONCLUSIONS
+WAS ASTRONCHICAL: Venus
+AISOP FORM 7 (2 AFR 55)

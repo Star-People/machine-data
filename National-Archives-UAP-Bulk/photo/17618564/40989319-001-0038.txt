@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:52:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1263976, "source_ctime_ns": 1793356363383988408, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0038.jpg", "source_mtime_ns": 1785564686000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0038.jpg", "source_sha256": "3fc7c0380968b46c6ce5e107bcaaf276a503b966a31cbe29773ef828a180f8cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 257, "chars": 1676, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20
+Balloon Construction and General Characteristics
+The balloons used in this work were built and developed by
+General Mills, Inc. The essential features of these balloons are:
+Material:
+Extruded polyethylene .001 inch thick.
+Volume:
+Approximately 43,000 cubic feet.
+4200 ftš
+Shape:
+"Tear Drop" - spherical section about 20
+feet in diameter.
+Construction:
+Twenty gores are heat sealed together and
+a special acetate tape is applied over the
+seams. The balloon converges to a l2 inch
+load ring at the bottom, The acetate tapes
+aid in distributing the load from the ring
+to the upper parts of the balloon fabric.
+Also attached to the ring are the load har-
+ness and an appendix.
+Pay Load Capacity:
+Seventy pounds to about 37,000 feet or 4
+pounds to 67,000 feet when helium 1s used
+as the lifting gas. Typical loads were
+about 20 pounds which reached altitudes of
+about 55,000 feet.
+The balloons are partially inflated at the ground. As they rise
+the gas expands. Then a balloon reaches its floating altitude, the excess
+gas passes out through the open appendix until the lift is just suffi-
+cient to balance the load. Figure 9 shows a balloon just after a normal
+release, and Figure 10 shows how a balloon appears at floating altitude.
+3. Altitude Control
+- Although equilibriun conditions are almost unstable, experience
+has shown that for a period of two to four hours balloons with no alti-
+tude control at all will maintain satisfactory flight characteristics.
+This period can be extended until sunset by carrying a liquid ballast
+which is released at a constant rate, the rate being set to somewhat
+over compensate for the expected rate of loss of gas from the balloon.
+15

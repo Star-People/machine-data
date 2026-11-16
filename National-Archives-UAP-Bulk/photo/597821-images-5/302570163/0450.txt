@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:45:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 687236, "source_ctime_ns": 1793392740603406423, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570163/0450.jp2", "source_mtime_ns": 1785808136000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570163/0450.jp2", "source_sha256": "4b422064f7f5aa6cf63b1901a548c3f244561852c78fc6288cb4531bf210c799"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1025, "method": "ocr", "page": 1, "variant": "plain-vision"}
+M. Sall !
+TYNOLIVN
+AS AND SPACE
+USA
+SPANIS TRAIT
+- 3 $ <1
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION / / 2
+WALLOPS STATION
+WALLOPS ISLAND, VIRGINIA 23337
+November 1, 1967
+IN REPLY REFER TO
+A-16.2
+39/JBM
+Colonel James C. Manatt
+Director of Technology and Subsystems
+Department of the Air Force
+Wright-Patterson Air Force Base, Ohio 45433
+Attention: TDET/UFO
+Dear Colonel Manatt:
+This is in reply to your recent letter concerning the barium
+vapor cloud experiments launched here at 7:20 p.m. EDT
+October 3, 1967, and 7:18 p.m. EDT October 4, 1967.
+Enclosed herewith are a copy of our news release describing
+the experiments and a copy of a newspaper clipping from The
+Virginian-Pilot, Norfolk, Virginia.
+If more detailed information is required, it is suggested
+that you contact the Air Force Cambridge Research Laboratories,
+Bedford, Mass. (Dr. N. W. Rosenberg of AFCRL was the Project
+Scientist).
+Your interest is appreciated.
+Sincerely yours,
+Euce B. 1 illurer
+Joyce B. Milline
+Public Information Specialist
+Enclosures 2

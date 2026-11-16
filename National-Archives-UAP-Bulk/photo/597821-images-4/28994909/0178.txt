@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:03:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4279100, "source_ctime_ns": 1793386120227746524, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994909/0178.jpg", "source_mtime_ns": 1785747823000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994909/0178.jpg", "source_sha256": "81001f67cf03f847eceeade00b600633a5066465a5fdce3ac8194ffc1657d974"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 879, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+16 Sept 1961
+Duluth, Chicago, Ft Wayne
+30 October 1961
+Dear Mr
+Your recent letter to the Department of Defense has been
+referred to the Air Force.
+The unidentified flying object report you queried about
+1s not known to the Air Force.
+As far as we can determine,
+no sightings in that area and at that time have been reported.
+I bave enclosed several questionnaires which we would
+appreciate your completing if you witnessed the object in
+question.
+The other copies of the questionnaires are for other
+witnesses, 11 any. If you should have any newspaper clippings
+pertaining to this event, it would be appreciated 1f you could
+forward one or two to us.
+Your interest in this matter is appreciated.
+Sincerely,
+WILLIAM I. COLEMAN, JR.
+Major, USAF
+UFO Project Information Officer
+Public Information Division
+Office of Information
+Street
+Duluth 7, Minnesota

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:11:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5537926, "source_ctime_ns": 1793382047127504671, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982518/0940.jpg", "source_mtime_ns": 1785701068000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982518/0940.jpg", "source_sha256": "917b9a4f8204c60498a3965708ea9e74e706b283143e03c75db51b28e761a39e"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 796, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Morristown, N. J., U.S. A.
+RADIO AND TELEVISION PROGRAMMING
+MUNSICK MUSIC LIBRARY
+U. F. O. NEWSLETTER
+PUBLIC RELATIONS
+12 June 1959
+Commanding Officer
+Air Technical Intelligence Center
+United States Air Force
+Wright-Patterson Air Force Base
+Dayton, Ohio
+Dear Sir,
+On 25 May I sent to your office a photo-
+graph and report involving strange objects apparently
+between Denvilie, New Jersey ard the moon on the
+night of 18 March 1959.
+As yet I have received neither an acknowledgement
+nor reply in this case. While I certainly appreciate
+such evaluation would take time, I would appreciate
+it if you could infor me if the material was received
+at your office.
+Should you require further information please
+let me know.
+If you did not receive the inforation
+I shall send a new copy.
+Sincerely yours,

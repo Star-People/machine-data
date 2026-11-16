@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:57:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1715072, "source_ctime_ns": 1793391351234554452, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558081/00169.jp2", "source_mtime_ns": 1785808242000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558081/00169.jp2", "source_sha256": "13fd474a2a935d058fa059f8226a7ecd050340cbdc0c2812b48640277f9706e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 612, "method": "ocr", "page": 1, "variant": "plain-vision"}
+J. Location, approximate altitude, and general direction of flight of any air traffic
+or balloon releases in the area which might possibly account for the sighting:
+None
+K. Position, title and comments of the preparing officer:
+Due to the long time of cbservation on several different occssions
+it was determined that both these objects undoubtedly stars.
+lter consulting with a senior navigator it errears that okject
+7l :as most rrobably the planet Saturn and object #2 the star
+Miarlacidus.
+Jeln W. Cannon
+Cart.
+USAF
+Illot 4650th CSS
+I. Existence of physical evidence, such as materials and photographs:
+None

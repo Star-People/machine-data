@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:02:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4042398, "source_ctime_ns": 1793377639171191463, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964717/1045.jpg", "source_mtime_ns": 1785697002000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964717/1045.jpg", "source_sha256": "e535cb99f4bdb1bca3771075dddd28a874f02c14a8f2273b00333b76ae07edae"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 784, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+DR 24 Jan 56
+3. DATE-TIME GROUP
+Local
+GM T.
+5. PHOTOS
+not reported
+• Yes
+TANO
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Afghanistan
+| 4. TYPE OF OBSERVATION
+IDGround- Vi sual
+• Air Visual
+6. SOURCE
+• Ground-Rodar
+• Air-Intercept Radar
+attache
+•. NUMBER OF OBJECTS
+n/a
+n/a
+10. BRIEF SUMMARY OF SIGHTING
+Flying saucer reports from various parts of
+Afghanistan. One reportedly landed and was
+being transported to Kabul. No followup
+received.
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluati
+Unk no wre
+9. COURSE
+90 0
+n/a
+11. COMMENTS
+INSUPFICTENT DATA FOR EVALUATION.
+ATIC FORM 329 (REV 26 SEP 52)

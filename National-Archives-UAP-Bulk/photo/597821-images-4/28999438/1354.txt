@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:23:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8625976, "source_ctime_ns": 1793387917003213754, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999438/1354.jpg", "source_mtime_ns": 1785748419000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999438/1354.jpg", "source_sha256": "704581ec4c179bac49618046b8182844745aae98a0bbd12c3a7e5b632548c2b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 903, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+5 October 1962
+3. DATE-TIME GROUP
+Local.
+GM T_
+05/05087
+5. 'PHOTOS
+165,19W (Pacific)
+TYPE OF OBSERVATION
+XXGround- Vi sual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+7. LENGTH OF OBSERVATION
+Military
+8. NUMBER OF OBJECTS | 9. COURSE
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloo
+Possibly Balloo
+Was Aireraft.,
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomica
+•
+Possibly Astronomica
+Xother Satellite
+Insufficient Date for Evaluation
+Unknown
+not rptd
+one
+10. BRIEF SUMMARY OF SIGHTING
+Obj having starlike characteristics
+moving at great speed on heading of
+045 dgr. Alt considered high. Padsed
+rapidly overhead.
+NE
+11. COMMENTS
+Satellite characteristics
+present. ECHO data not avail-
+able; however
+case listed as
+ossible Satellite in view of
+the general description of the
+sighting.
+ATIC FORM 329 (REV 26 SEP 52)

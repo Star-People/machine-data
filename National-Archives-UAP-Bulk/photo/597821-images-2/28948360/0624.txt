@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:01:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3717701, "source_ctime_ns": 1793373724664539411, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948360/0624.jpg", "source_mtime_ns": 1785696659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948360/0624.jpg", "source_sha256": "a83f43cc43268140116d32133fbc00bdcad8e16b33dcbaead181295c1088ff80"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 946, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(533.0)
+TENTATIVE
+OBSERVERS QUESTIONNAIRE
+SECTION A
+1. When did you see the object:
+1.2 Date: lay Guant 195r
+1.2 Time of Day: Hrs.
+35
+Min•
+A.M. or P.M.
+(Circle One)
+I.3 Time Zone: (Circle One):
+a. Eastern
+b. Central
+d.
+e.
+c. Mountain
+(Circle One): a. Daylight Saving
+b.
+Standard
+Pacific
+Other
+1.4 Circle one of the following to indicate how certain you are of
+your answer to the above question 1.2:
+2.
+Certain
+b.
+Fairly certain
+c. Not very sure
+d.
+Just a guess
+2. Where were you when you saw the object:
+Santy Prom
+lina country
+State
+Additional Remarks:
+I was sering sayslift
+as a Grenad Pleavel
+3. Where were you located when you saw the object:
+(Circle One): a. Inside a building
+In a car
+c. Outdoors
+d. In an airplane
+At sea
+I. Other
+3.1 Were you:
+(Circle One): (
+2→In the business section of a city?
+In the residential section of a city?
+Co
+d.
+In open countryside?
+Flying near an airfield?
+Flying over a city?
+Flying over open country?
+Other

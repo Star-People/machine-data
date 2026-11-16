@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:45:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 509826, "source_ctime_ns": 1793365592319208937, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_088.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_088.jpg", "source_sha256": "c3117a5a7d7b31098df06916b4ccf7ddc595f933e6bbb164800d286fa6aa8486"}
+
+===== PAGE 1 =====
+{"alpha_words": 204, "chars": 1242, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24:32:22
+24:32:24
+24:32:27
+24:32:38
+24:32:40
+24:46:00
+24:46:02
+24:46:03
+24:46:07
+24:46:14
+24:46:31
+24:46:48
+24:46:55
+24:47:07
+24:47:11
+CC
+cc
+cC
+CC
+P
+cC
+cC
+cC
+cC
+C
+CC
+C
+CONFIDENTIAL
+Did you copy my transmission?
+Negative. Say again, please.
+We understand your D-5 reticle is GREEN all the
+time. We are working on the problem. We do not
+have an answer.
+Thank you.
+Roger •
+87
+CARNARVON
+Gemini VIL, Carnarvon.
+Go ahead, Carnarvon. Gemini VII.
+Roger. We have your I/M solid on the ground.
+You look good.
+We would like to get some information on your
+D-5 reticle as you can give it to us - detailed
+description.
+The reticle - when you push the Calibrate
+button it should turn RED and then if you advance
+the gain wheel it turns from RED to GREEN and
+flashes. This one stays GREEN at all times, so
+we're running the experiment with the gain wheel
+pulled down.
+Roger. Copy.
+I have the flight plan update for you if you're
+ready to copy.
+If you're not, we'll give it to
+you over Hawaii.
+Roger •
+I'd like to hold off on that; we're all -
+we don't have any lights on. We're trying to stay
+dark-adapted for these stars and we want to get
+set up right away for S-8/D-13 over Texas.
+Roger. We'll hold off until you get over Hawaii.
+Thank you.
+CONFIDENTIAL

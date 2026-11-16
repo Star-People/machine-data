@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:28:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9297523, "source_ctime_ns": 1793362226517858247, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0275.jpg", "source_mtime_ns": 1785684728000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0275.jpg", "source_sha256": "d4300a70b56104e1d5685932eed8ea524ca82c190bd5589c4b5416aa88dcfbe9"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 605, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COPY
+DET A 39080 RADAR BOMS SCORING SQUADRON
+Lowry Air Force Base, Denver, Colorado
+25 August 1949
+SUBJECT: Radar Activity
+TO:
+Wing Intelligence Officer
+Lowry Air Force Base
+Denver, Colorado
+1. Reference telephone conversation between Capt Murths and the
+undersigned on 25 August 1949, the following report of radar activity
+at Denver Bomb Plot on Saturday, 20 August 1949, is submitted:
+Radar equipment of the Denver Bomb Plot was not in operation
+on 20 August 1949.
+b. No Ravin balloons were released on 20 August 1949.
+/+/ JOHN A. SCHLUPP
+Capta
+• USAF
+Commanding
+Declassification Authority: NND 923007

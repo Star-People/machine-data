@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:47:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 792342, "source_ctime_ns": 1793391323893333008, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557894/1466.jp2", "source_mtime_ns": 1785808429000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557894/1466.jp2", "source_sha256": "656edb9856a2d1929f946b1a6dbac5b491d556e5b90136ee153118f45a1b76e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 594, "method": "ocr", "page": 1, "variant": "plain-vision"}
+G. Weather and Winds - Aloft Conditions at Time and Place of Sightings:
+1. Observer (s) account of weather conditions:
+Clear moon lit night
+2. Report from nearest AWS or U.S. Weather Bureau Office:
+SURFACE
+1506
+6000
+2420
+10000
+2430
+16000
+2630
+20000
+2680
+30000
+26115
+50000
+2670
+3. Ceiling:
+100ф / -฿
+4. Visibility:
+15
+No ceiling.
+5. Amount of cloud cover:
+Less than 4/10 coverage
+6. Thunderstorms in area and quadrant in which located:
+None
+7. Vertical temperature gradient:
+1.5° per thousand
+H. Any Other Unusual Activity or Condition:
+None
+I. Interception or Identification Action Taken:
+None
