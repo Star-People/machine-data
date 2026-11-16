@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:50:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8551886, "source_ctime_ns": 1793362089981092690, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0114.jpg", "source_mtime_ns": 1785684949000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0114.jpg", "source_sha256": "6f53234808cf801806eecc22b7be80b0f441141b61fec6b43d4aa8d871c41d20"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 474, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Forwarding Letter
+Security Division, AFCSI
+Directorate of Intelligence, PCS/O
+6 MAY 1949
+Maj Jones/bjc/4700
+AFOIN-Admin
+Forwarded as a matter of primary interest and action as considered appropriate.
+Inel
+ltr fr S. F.
+Xama tin
+dtd 30 Apr 49
+OVAL W. JONES
+Major, USAF
+Assistant Executive
+Directorate of Intelligence
+Commusist Matte
+24 = 1|1
+UNITED STATES AIR FORC
+THE INSPECTOR GENERA
+MAY 9 12 22 PM '49
+OFFICE OF
+PECIAL INVESTIGATIONS
+Declassification Authority: NND 923007

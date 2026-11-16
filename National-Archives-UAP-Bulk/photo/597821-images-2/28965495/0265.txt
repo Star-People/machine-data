@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:39:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4788813, "source_ctime_ns": 1793377806708254206, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965495/0265.jpg", "source_mtime_ns": 1785696725000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965495/0265.jpg", "source_sha256": "4c4a3804ac9489c29f6ec3d9989883eb3e196392681858586207c45480fd7f2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 972, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+12. CONCLUSIONS
+Was Balloon
+1-2-3 May 56
+DATE•TIME GROUP
+Local
+GMT 426, 0445,0455 Z
+5. PHOTOS
+Puebio, Colorado
+TYPE OF OBSERVATION
+KGround- Vi sual
+• Air- Visual
+6. SOURCE
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+• Air-Intercept Radar
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+• Yes
+Probably Astronomical
+Civilians
+Possibly Astronomical
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+| 9. COURSE
+-Poss
+straight
+XXXInsufficient Data
+a for Evaluation
+or
+1 and 2
+4 sec to l minute
+10. BRIEF SUMMARY OF SIGHTING
+Ore -two round objects, size of
+baseball to grapefruit. Color white
+fluorescent objests moving very fast.
+IR 112 to follow.
+circling/rolling/unknown
+11. COMMENTS
+IR 112 not received. Initial
+report indicated that objects
+possibly the same and that a
+searchlight generated the report
+Cannot concude on the limited
+data and case carried as
+insufficient data.
+ATIC FORM 329 (REV 26 SEP 52)

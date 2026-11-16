@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:34:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6994596, "source_ctime_ns": 1793380920073993897, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978847/0513.jpg", "source_mtime_ns": 1785700984000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978847/0513.jpg", "source_sha256": "f5bf327dad0d3b03a6da6d3901e60b560bb9c2ae8d389284f3f8d56ac1373357"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 853, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+10 Jul 58
+3. DATE-TIME GROUP
+Local
+CMT11/0128-01:10Z
+S. PHOTOS
+• Yos
+XR No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Tennessee, Ky & Indiana
+4. TYPE OF OBSERVATION
+ANGround Visual
+• Air Visual
+• Ground-Rader
+• Air-Intercept Radar
+T. SOURCE
+Military & Civilian
+8. NUMBER OF OBJECTS 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+D:
+•
+Was Astronomical
+•teor
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+4 secs
+one
+10. BRIEF SUMMARY OF SIGHTING
+Rnd, flaming obj, color ranging im
+reddish-white to orange w/19ng smoke
+of flaming tail, moving generally East
+to West.
+E to W
+11. COMMENTS
+Characteristics & description are
+those of a bolide.
+ATIC FORM 329 (REV 26 SEP 52)
+11/ 01202 Dul
+1 1 JUL
+14E4
+44хга
+ПА 44

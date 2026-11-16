@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:20:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4091609, "source_ctime_ns": 1793385473551814199, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993426/1386.jpg", "source_mtime_ns": 1785748145000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993426/1386.jpg", "source_sha256": "22bfcb8055803d75f92b0333351aa2e6a52a49226d790fb8985feda92a722954"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 611, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TELEPHONED
+TO
+1951 JUL 13 03 19
+NO
+TIME
+Date
+RAB42
+VCZCSWA948ZCQYA622
+PP RJEDSQ
+DE RJWZGS 2A
+ZLP
+P 1382097
+FN SPOKANE AIRDEFSEC LARSON AFB WASH
+TO RJWFAL/HO ADC ENT AFB COLORADO
+RJWZBH/HO 25 AIRDIV MCCHORD AFB WASH
+RJEDSO/HC ATIC WRIGHT PATTERSON AFB OHIO
+RJEZHO/HQ USAF AFCIN WASH 25 D C
+RJWFALB/CINCNORAD NINT ENT AFB COLORADO
+UNCLAS FROM SPOIN 1389
+FOR INTELLIGENCE. SUBJECT UFO REPORT.
+1. A. UNK
+B. UNK
+C. BRILLIANT
+D. ONE
+"E. THRU H. UNK.
+I. RAPIDLY MOVING OBJECT.
+2. A. NOTED DURING PLOTTING OF PI-BALL
+PACE TWO RJWZGS 2A
+B. AZIMUTH AND ELEVATION ANGLE
+244.6
+244.8
+245.łŚ
+245.3
+245.5
+43.9
+43.7
+45 .5
+43.4

@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:50:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8376185, "source_ctime_ns": 1793387019537068228, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998032/0101.jpg", "source_mtime_ns": 1785748200000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998032/0101.jpg", "source_sha256": "cd85e522566e9496e1f61531f9e7707ce269844b5ab9746cbec0ae993aa77e97"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 622, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2 LOCATION
+1. DATE
+3. DATE-TIME GROUP
+Local
+GM T.
+07/11152
+5. PHOTOS
+• No
+7. LENGTH OF OBSERVATION
+not rec'd
+10. BRIEF SUMMARY OF SIGHTING
+Statiou, Antaretica
+OBSERVATION
+MR Ground-Vi sual
+• Air Visual
+• Ground-Rader
+• Air-Intercept Radar
+6. SOURCE
+ivilian
+litar
+8. NUMBER OF OBJECTS | 9. COURSE
+one
+WS
+ENE
+11. COMMENTS
+ATIC FORM 329 (REV 26 SEP 52)
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+•
+Probably Aireraft
+Possibly Aireraft
+Ox Was Astronomical Meteor
+Probably Astronomica
+Possibly Astronomical
+• Other.
+Insufficient Data for Evaluation
+Unk no wn
+Stati
+irst

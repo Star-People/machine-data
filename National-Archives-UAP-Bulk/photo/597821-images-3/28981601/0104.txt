@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:33:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6970785, "source_ctime_ns": 1793381782686002609, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981601/0104.jpg", "source_mtime_ns": 1785700793000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981601/0104.jpg", "source_sha256": "6550bbfce509fe24e45eb97565b1434bb5b7cefcfe83b7ab689ea15973ce6a52"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 982, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1 Jan 59
+3. DATE-TIME GROUP
+Local 2:30 P.Me
+GMT. 01/1230Z
+5. PHOTOS
+• Yes
+O‹No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Kilburn,
+S. Australia
+TYPE OF OBSERVATION
+:D. Ground- Visual
+Telescope
+• Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Bailoor
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircrah
+Was Astronomicoleteor
+•
+•
+Probably Astronomical
+Possibly Astronomical
+Othe
+Insufficient Date for Evaluati
+Unknown
+3-5 secs
+two
+0. BRIEF SUMMARY OF SIGHTING
+Two dull white (not very bright) objs
+with eerie misty appearance. Objs travel-
+ing in a straight line with no change in
+relation to each other. Objs were oval.
+shaped about 2/3 size of full moon.
+SE
+11. COMMENTS
+Duration of sighting and distance
+travelled indicates that this was
+the observation of a 'bolide" type
+meteor that had already exploded
+into two objects.
+TIC FORM 329 (REY 26 SEP 52)

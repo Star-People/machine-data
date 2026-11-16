@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:26:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5084174, "source_ctime_ns": 1793362562341164564, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783159/45484701-003-002-0079.jpg", "source_mtime_ns": 1785684833000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783159/45484701-003-002-0079.jpg", "source_sha256": "4b845696434d081201f04e9919805d0a34d4af78ff2637f22ac5382d4546339f"}
+
+===== PAGE 1 =====
+{"alpha_words": 258, "chars": 1782, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SPHERES, INC.
+P. O. BOX 3976, VICTORY STATION
+NORTH HOLLYWOOD, CALIFORNIA
+13 March 1952
+U.S. Atomic Energy Commission
+Post Office Box 9007
+Station
+ạS"
+Los Angeles, 5, California
+Gentlemen:
+The organization indicated by this letterhead has been
+formed to design a new and novel type of aircraft util-
+1zing electromagnetic principles of operation. The
+theory involved is concerned with the controlled release
+of usable energy by atomic transformations using non-
+fissionable material.
+This project is being treated as highly confidential by
+all members of our group and only a small group of our
+members knew the complete principle involved. This fact
+lessens the possibility of a security leak. In addition,
+we have contacted the Special Investigations Group of the
+U.S.Air Force (Colonel Doyle Rees) and requested proper
+surveillance by that facility. In addition, Dr. Lincoln
+LaPaz of the New Mexico University Institute of Meteoritics
+is also cognizant of our project.
+In order that the technical men in our group might inves-
+tigate and have access to other sources of classified
+material on this subject, and considering the tremendous
+importance to the national security should our development
+proceed as we expect, we respectfully request the Commission
+to give immediate consideration to the TOP SECRET clearance
+of several of
+our group. This might properly proceed thru
+Colonel Doyle's facility, however we especially wish the
+Commission to be aware of our project and to recognize such
+clearance if obtained thru the Air Force channel.
+Your immediate consideration of this request will be
+greatly appreciated.
+Very truly yours,
+SPHERES, INC.
+William M. Thompeon,
+Secretary
+ce: Colonel Doyle Rees
+Headquarters USAF
+Washington, 25, DC
+Declassification Authority: NND 923007

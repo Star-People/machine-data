@@ -1,0 +1,111 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:51:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9235002, "source_ctime_ns": 1793363279357018189, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0184.jpg", "source_mtime_ns": 1785684647000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0184.jpg", "source_sha256": "344a75863882af44a0496b4f05ca514cef7c5f0f7a42b9a223918cc2825c9afb"}
+
+===== PAGE 1 =====
+{"alpha_words": 226, "chars": 1421, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE:
+AIRWAYS AND AIR COMMUNICATIONS SERVICE
+CONTROL TOWER
+MASTER LOG
+STATION: Robins AF Base, Georgia
+ENTER ALL INPORMATION OUTLINED IN PAR 3a
+GROUP MEMORANDUM 55-13
+DATE: 10/4/50
+TIME
+0001
+0100
+0200
+0300
+0400
+0500
+0600
+0625
+0625
+0640
+0700
+0800
+0900
+1000
+1100
+1200
+31
+31
+1300
+1325
+INITIATS
+SS
+SS
+SS
+SS
+SS
+SS
+SS
+SS
+MD
+MD
+CL
+CL
+MD
+MD
+CL
+MD
+CL
+PN
+ES
+ES
+1 400
+1500
+1600
+ES
+ES
+ES
+1639
+ES
+1639
+RD
+53d AACS Gp Form #48
+1700
+1800
+RD
+RD
+REMARKS
+NOTE---NEW RDO DAY & LOG ALL EQUIP CHCKD OK
+ALBERT & SAMS ON DY
+GARBLED. • • • •
+FREQS & EQUIP CHCKD OK 359 IS OK...
+FREQS & EQUIP CHCKD OK
+FREQS & EQUIP CHCKD OK
+FREQS & EQUIP CHCKD OK
+FREQS & EQUIR CHCKD OK
+OF DY
+Ams
+ON DUTY CAMPBELL & MCLEDIC
+TIME CHCK RECD. MASTER 1 SEC.
+/FAST.
+FREQS & EQUIP CHCKDOK
+FREQS & EQUIP CHCDK OK
+FREQS & EQUIP CHCKD OK
+FREQS & EQUIP CHCKD OK
+FREQS & EQUIP CHCKD OK
+FREQS & EQUIP CHCK OK
+OFF DUTY C
+CAMP BELL
+MCLEOD
+ON DUTY, STOUT PARMAN AND SOFGE
+PREO & EQUIP CHOKED &
+ALERT ADV THERE WAS SOME THING FLOATING
+| MABBE A PIECE OF PAPER) ABOUT 500 FT.
+OFF THE END OF RNWY 22 TWR CHECKED WITH
+GLACES AND HAD AN A/C CHCK BOTH ON THE
+GRD AND IN THE AIR FOR IT IT WAS NEVER
+SIGHTED.
+FREQ & EQUIP CHCKED OK
+I FREQ & EQUIP CHCKED OK
+FREQ & EQUIP CHCKED OK
+I OFF DUTYS
+Beggalar
+MACKIE
+FREQX AND EQUIP CHKD: ALL OKAY
+WITH THE EXCEPTION OF THE FORM 18 TYPEWRITER
+FREQSX AND EQUIP CHKD: ALL OKAY D--
+FREQS AND EQUIP CHKD OKAY
+Declassification Authority: NND 923007

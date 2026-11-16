@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:46:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7023845, "source_ctime_ns": 1793384534295209885, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0272.jpg", "source_mtime_ns": 1785748426000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0272.jpg", "source_sha256": "01d036dd91caf8b7402b2054a4dc5b555591eae5f2d5de8b449c515eded4e699"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1022, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+12 Dee 60
+3. DATE-TIME GROUP
+Local
+GMT.
+PHOTOS
+23÷52
+PROJECT 10073 RECORD CARD
+LOCATION
+Waynesville,
+Chio
+4. TYPE OF OBSERVATION
+Li Ground-Visual
+• Air Visual
+6. SOURCE
+D Ground-Radar
+• Air-Intercept Rodor
+Civilian
+8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+D
+Was Balloon
+Prabobly Balloon
+Possibly Balioon
+Was Aircraft
+robehi
+Possibly Aircra
+Was Astronomical
+Probably Astronomica
+Possibly Astronomice
+Othar
+Insulficient Data for Evalu
+Unknown
+DY•s
+C No
+7. LENGTH OF OBSERVATION
+1-2 min
+10. BRIEF SUMA
+MARY OF SIGHTING
+Object appeared to move fron E to S to W to
+nearly overhead. After giving off a bright
+glow, the light disappeared. Witness thought
+light looked like an a/c landing light but
+felt the distance to any air facility too
+great for this to be true.
+9. COURSE
+varied
+111. COMMENTS
+The description and course of this
+object tend to indicate that whe
+object was probahy an a/c. The fact
+that many a/c with test configuartions
+fly from WPAPB tends to support this
+possibility.
+ATIC FORM 329 (REV 26 SEP 52)

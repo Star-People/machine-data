@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:45:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6622667, "source_ctime_ns": 1793383819999654434, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987982/0127.jpg", "source_mtime_ns": 1785748550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987982/0127.jpg", "source_sha256": "4bfe2bf7bfb806ccb538727119412acaa0d009cda98295a9175aa1c8119dcc6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 408, "method": "ocr", "page": 1, "variant": "plain-vision"}
+6. 2.600-0/
+12,228-342/25K
+15,328-348/35K
+20, 288-342/42Kł
+32,328-328/50KŚ
+52,382-280/25Kźś
+82,322-UNK
+3. M 4200 BROKEN, HIGH BROKEN
+4. 12 MI
+5. 6/17
+7. PLUS 19 OC
+H• METEROROLOGICAL SHOWER ACTIVITY PREDOMINATE THIS TIME OF YEAR
+FROM THE DELTA AQUARIAN GROUP•
+I. NA.
+J. NONE.
+K• PREPARING OFFICER: ILT RALPH A. HANSON, ASST BASE OPERATIONS OFF,
+CHANUTE AFB, ILL. S/SGT COVEY, D. A. TOWER OPERATOR ON DUTY AT

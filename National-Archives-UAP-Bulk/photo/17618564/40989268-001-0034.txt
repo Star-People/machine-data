@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:55:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14910539, "source_ctime_ns": 1793355596053566927, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0034.jpg", "source_mtime_ns": 1785564486000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0034.jpg", "source_sha256": "af22b3624430321ada3c09bdfd373851036f7f7e287d8e3fefaf0c9f9f1ae54c"}
+
+===== PAGE 1 =====
+{"alpha_words": 183, "chars": 1271, "method": "ocr", "page": 1, "variant": "plain-vision"}
+55
+V. Behavior of Polyethylene in Simulated
+Balloon Environment*
+W. B. Parsons
+Litton Systems, Inc.
+St. Paul, Minnesota
+Abstract
+In our research to evaluate potential balloon materials,* we have conducted
+a survey of available plastic films to find those most promising for balloon
+manufacture.
+These will be compared with polyethylene and Mylar--the most
+predominant materials in balloons at present.
+There is no assurance, of
+course, that either will be replaced as the materials of choice; consequently,
+some of our studies are designed to permit a broader understanding of the
+characteristics of polyethylene and Mylar.
+This paper is limited to our initial studies of polyethylene--with particu-
+lar emphasis on influence of temperature, high-frequency stressing, com-
+parison of lubricants, and cold brittleness.
+Ne shall describe some of the
+equipment that we have developed for these and future studies.
+While some
+results are available for presentation here, we are not as yet in a position
+to draw conclusions as to where these data may lead in relation to balloon
+performance or to the design of better balloons.
+*Contract AF 19(628)-2944 - "Evaluation of Potential Balloon Materials'
+for Electronic Systems Division, Air Force Cambridge Research Laboratories.

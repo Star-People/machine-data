@@ -1,0 +1,103 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:21:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4417232, "source_ctime_ns": 1793379229288137459, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971660/1362.jpg", "source_mtime_ns": 1785700677000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971660/1362.jpg", "source_sha256": "b82fc631af887bd11ef23559728978450263b418b2f23926723ae5468026aee5"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1469, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+18
+23
+24
+24
+24
+24
+24
+24-25
+DATE
+Sep
+28
+18 - 30 SEPTEMBER 1957 SIGHTINGS
+OBSERVER
+LOCATION
+Gresham, Oregon
+Hollis, Long Island,
+New York
+Point Pleasant, New Jersey
+Kadena AFB, Okinawa
+Montauk, N.Y./Benson, Pennsylvania
+Military
+Military
+(RADAR)
+San Antonio, Texas (CASE MISSING)
+Civilian
+New Carlisle, Ohio
+Panama Canal Zone
+Montezuma, Indiana
+Harve, Montana
+Military
+Virginia Beach, Virginia
+Dayton, Ohio (CASE MISSING)
+Civilian
+Fall River, Massachusetts
+Sanderson, Texas
+Egg Harbor, Wisconsin
+Perrin AFB, Texas
+Military
+New York, New York
+Kansas City, Missouri
+Brannif Airlines
+Washington, D. C.
+West Jefferson, Ohio
+Kokomo, Indiana
+Piqua,
+Ohio
+Colorado Springs, Colorado
+N. Turo, Massachusetts
+San Antonio, Texas
+Military
+Palm Springs, California
+Los Angeles, California
+Claremont, California (CASE MISSING) Civilian
+Cashmere,
+Washington
+Navy Chase, Texas
+Military
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+LOCATION
+SOURCE
+Universe
+Old Greenwich, Connecticut
+Science News Ltr
+Newsclipping
+EVALUATION
+Insufficient Data
+Balloon
+Other (Hallucination)
+UNIDENTIFIED
+1. Equip Malfunction
+2. ECM (Chaff Drop)
+Astro (STARS/PLANETS)
+Other (AUTO LIGHTS)
+Astro (METEOR)
+Aircraft
+Astro (STAR)
+Balloon
+Balloon
+Insufficient Data
+Balloon
+Astro (ARCTURUS)
+Aircraft
+Astro (METEOR)
+Insufficient Data
+Aircraft (BLIMP)
+Aircraft
+1. Aircraft
+2. Astro (STARS)
+Aircraft
+Aircraft
+Astro (METEOR)
+Aircraft
+Insufficient Data
+Insufficient Data
+Aircraft
+Other (KIES)
+Astro (VENUS)
+EVALUATION

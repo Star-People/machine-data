@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:04:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 705673, "source_ctime_ns": 1793392262478212623, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302566358/1079.jp2", "source_mtime_ns": 1785808668000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302566358/1079.jp2", "source_sha256": "1e3685e24ccfc346b7cf4599be46f6b15e1a7453fdf9c4bc5511eb9a3043beaf"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 837, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Miriam,
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AFIN: 29647 (1, Jun67) M/org
+Pgl of3
+ACTION: RDG-L INTO: XOP-1, XOPX-2, SAF$S-3,DIA-1 (12)
+ADV CY DIA ( VIA JOS)
+SMB B036TTU JAW RUWT FNA0161 1550615-UUUU -RUEDHOA.
+ZNR VUUUU
+P 040520Z JUN 67
+FM LOWRY AFB COLO
+TO RUNTFJA/ATC
+RUWMFV A /ADC
+RUMFVA/ AEROSPO IV ENT AF COLO
+RUEDFIF/FTO WPAFS OH10
+RUEDHQA/C SAF
+RUEDHQA/SECRETARY OF THE AIR FORCE
+ZEN/UNIV OF COLO BOULDER COLO
+UNCLAS XPCP SD0 00182 JUN 67
+FOR ATC (ATOP), FTD (TETR), CSAF (AFRDC), OSAF (SAF-DI), UNIV
+OF COLOR CONDON), UFO REPORT RECIEVED AT LOWRY AFB COLO ON
+2 JUN 67. FOLLOMING FORMAT 1S PRESCRIBED BY PARA 11, AFR 88-17%
+A. DESCRIPTION
+ROUND
+(2) SILVER DOLLAR TO SMALL ORANGE HELD AT ARMS LENGTH
+(3) BLUE-ISH WHITE, CASTING REFLECTION ON MOUNTAINS
+FORN
+AFHQ JAN 03 0-309C
+UNCLASSIFIED

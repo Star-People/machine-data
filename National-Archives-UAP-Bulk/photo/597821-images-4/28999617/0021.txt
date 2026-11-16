@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:41:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5352762, "source_ctime_ns": 1793387998662904561, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999617/0021.jpg", "source_mtime_ns": 1785748445000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999617/0021.jpg", "source_sha256": "3f15eb6c5ea791c2c720c77e008d0b0fb7ee8a4128ea898dc5cf19239e9b2d83"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 452, "method": "ocr", "page": 1, "variant": "plain-vision"}
+E. NONE
+9. NONE
+5. 1. COLOR OF OBJECTS
+2. 1 DEGREE ABOVE HORIZION
+3. 1 DEGREE ABOVE HORIZ.
+4. NONE
+5. FADED OUT IN THE DAWN LIGHT
+6. FROM 113ØZ TO 1141Z
+C. 3. FROM TWA-A/C AND LOG AIR-A/C, AND 2 SAC B-47,S
+FORK 11 AND 12.
+D. 251130Z OR 25/2530 CST DAWN
+E. 2. OVER NEOSHO MISSOURI
+OTHER REMARKS AT 25/1210Z
+WATCH SUPPERVISOR AT ST LIOUS REPORTS FT WOTH ARTC ADVISES
+THAT A TEST WAS CONDUCTED IN THIS AREA AND EGLIN FIELD WAS
+ALSO AWARE OF THIS TEST.
+BT

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:08:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1127266, "source_ctime_ns": 1793356033132370801, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0118.jpg", "source_mtime_ns": 1785564588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0118.jpg", "source_sha256": "6a0182eed2e2750bf7f3985d049cc8e7e95e7f3896f9f2e9f3b3b79e0a91dd91"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1438, "method": "ocr", "page": 1, "variant": "plain-vision"}
+simple orifices of various sizes replaced the manual ballast
+valve.
+- INLET TUBE
+VALVE
+BOOY
+NEEDLE -
+AIR VENT T
+• DIAL
+(Graduated
+every two degrees)
+BALLAST DISCHARGE
+TUBE
+TO DISCHARGE TUBE OF
+AUTOMATIC BALLAST VALVE
+Figure 9. Manual ballast valvo.
+(2) Displacement Switch
+The displacement principle in ballast control has been used in
+two different types of valves. The first of these, called the
+"automatic ballast valve," used a needle valve, controlling
+ballast flow by an aneroid capsule to which the needle was at-
+tached (Figure 10). The aneroid capsule was open to the at-
+mosphere on ascent; as the balloon began to descend to a region
+of higher pressure, a minimum pressure switch was used to seal
+off the capsule and further descent caused ballast flow. (For
+details see Technical Report No. 1, Constant Level Balloo
+Project, Research Division, College of Engineering, New York
+University, New York, N.Y., 1948.)
+There are three undesirable features of this system. Greatest
+is the effect of temperature changes on the air sealed in the
+capsule. Seal-off pressure acts as a datum plane. Any in-
+crease from this pressure causes compression of the aneroid,
+and ballast flows proportionally to the difference from seal-
+oil pressure. However, with changes of temperature of the
+entrapped air, the activation pressure of the valve changes,
+the floating level is thus also a function of temperature of
+the gas in the aneroid.
+-18-

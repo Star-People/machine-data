@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:09:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1338834, "source_ctime_ns": 1793356227784004508, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989310-001-0031.jpg", "source_mtime_ns": 1785564644000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989310-001-0031.jpg", "source_sha256": "7c86f1997295d2ab60ef1fea9a762fba696d813b2aa54f579395fae2cb7c1fdd"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 865, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AUG-01-1994
+07:52
+FROM
+FASTC/CC
+TO
+882232059
+P. 01
+FACSIMILE ELECTRO MAIL TRANSMITTAL
+(This information collection is not sublect to OMB review under PL-95. The Paperwork Reduction Act)
+SECTION I - TO BE COMPLETED BY ORIGINATOR
+ASSIFICATION UNCLAS
+FOR OFFICIAL USE ONLY
+TRANSMISSION
+IMMEDIATE
+PAGE ONE OF
+TO (Organization and Functional Address Symbol)
+ROUTINE
+FAX NO
+DSN
+SAC /AAZ
+COMMERCIAL
+7 PAGES
+223-2059
+ATTENTION
+LT Jin KILANDREN
+VOICE NO.
+DSN
+COMMERCIAL
+- 2013
+SUBJECT
+ALING DISC LETTI
+FROM (Organizason and Functional Address Symbol)
+NAC/HO
+FAX NO.
+DSN
+787-0797
+VOICE NO
+DSN
+-6487
+COMMEFCIAL
+COMMERCIAL
+REMARKS
+Tha st Basic carpe it Here.
+RELEASER'S SIGNATURE
+DATE
+TIME
+0840
+sca
+TION II - TO BE COMPLETED BY ELECTRO MAIL OPERATOR
+E TRANSMITTED
+TIME TRANSMITTED
+TRANSMITTER'S SIGNATURE
+DATE ADDRESSEE CONTACTED
+TIME ADDRESSEE CONTACTED
+CONTACTOR'S SIGNATURE

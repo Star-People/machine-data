@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:55:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15002210, "source_ctime_ns": 1793361560061647706, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0027.tif", "source_mtime_ns": 1785565380000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0027.tif", "source_sha256": "ff550e4f8abb86ef0b3a677d49b0a2b954a1075112b015a6f122bea0f08e8159"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 713, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TABLE I
+1956 Sept. 8-28
+1956 Dec: 5-25
+1958 Apr. 16 - May 6
+PLANET
+Venus
+Mars
+Venus
+Mars
+Venus
+Mars
+Venus
+Venus
+Mars
+NUMBER UFO'S
+1
+1
+2
+REPRODUCED FROM HOLDINGS OF THE NATIONAL ARCHIVES
+1959 Nov. 18 - Dec. 8
+1961 Mar. 26 - Apr. 15
+1961 June 28 - July 18
+1963 Jan. 29 - Feb. 18
+1963 May 1-21
+1956 Sept. 28 to 1963 Dec. 31
+outside fais
+1
+1
+2
+1
+242 in 2570 days
+Thus the evidence seems to indicate that Martians and Venutians have not been arriving in large
+numbers if at all. When one goes back to examine the direction from which the UFO's arrived, we
+find not a single case of the UFO coming in from the proper direction to indicate that it had originated
+on Mars or Venus.
+Charles H. Smiley, Brown University
+12
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 1, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}

@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:37:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7548780, "source_ctime_ns": 1793354628385111096, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0015.jpg", "source_mtime_ns": 1785564316000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0015.jpg", "source_sha256": "3bcc6a28b9bf5c97fb22bc79298c95e40a359cfa7794c582b9d800dd4cf753b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 380, "chars": 2244, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Asst TO:
+The prosecution is ready to proceed with the trial in the case of
+the United States versus Lieutenant Colonel George F. Adams,
+6th Tac Hospital,
+6th Bombardment Wing, United States Air Force, who is present in court.
+IO: Will the assistant trial counsel state for the record the person who was
+in command at the date of the orders?
+Asst TO:
+For the record, let the record reflect that the Commander, Fifteenth
+Air Force, is Major General Archie Old.
+Asst TO: The legal qualifications of all members of the prosecution are
+correctly stated in the appointing orders.
+Asst TC: No member of the prosecution named in the appointing orders has
+acted as investigating officer, law officer, court member, or as a member of
+the defense in this case or as
+counsel for the accused at a pretrial investi-
+gation or other proceedings involving the same general matter. Let the record
+reflect that also Lieutenant Richard C. Bauerle, originally named in the appoint-
+ing orders, 134, has not aided in any way in the preparation of this case for
+trial.
+Asst TO: By whom will the accused be defended?
+DC: The accused is to be defended by the regularly appointed defense counsel
+and assistant defense counsel.
+Asst TC:
+Will counsel representing the accused state whether the legal quali-
+fications of the appointed members of the defense are other than as stated in
+the appointing orders?
+DC: The legal qualifications of all members of the defense are correctly
+stated in the appointing orders.
+Asst TC:
+Has any member of the defense acted as accuser, member ofthe prose-
+cution, investigating officer, law officer, or member of
+the court in this
+case?
+DC: No counsel for the defense has so acted.
+IO: It appears that counsel for both sides have the requisite qualifications.
+IO: Proceed to convene the court.
+Asst TO: The court will be sworn.
+TC: I'd like to state the fact that enlisted men...
+IO: There's no requirement for it in this case that I know of.
+The members of the court, the law officer, and the personnel of the
+prosecution and defense were sworn.
+IO: Gentlemen, the court is now convened.
+Asst TC:
+The general nature of the charges in this case is violation of
+Article 134 of the Thiform Code of Military Justice, 1951, alleging four
+3

@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:17:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3401173, "source_ctime_ns": 1793371201045271991, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937074/1383.jpg", "source_mtime_ns": 1785688482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937074/1383.jpg", "source_sha256": "8c505352922aa38d85cb1659408f033bdebbc7c2c8383bfa6e32050c4aa16742"}
+
+===== PAGE 1 =====
+{"alpha_words": 231, "chars": 1431, "method": "ocr", "page": 1, "variant": "plain-vision"}
+drainage and culture.
+A topographic survey of Alaska has been in progress since
+1898, and nearly 44 percent of its area has now been mapped.
+About 13 percent of the Territory has been covered by maps
+on a scale of (1 inch = nearly 8 miles). For most of the
+remainder of the area surveyed the maps published are on a
+scale of 5 (1 inch = nearly 4 miles). For some areas of par-
+ticular economic importance, covering about 4,300 square miles,
+the maps published are on a scale of 2(1 inch = nearly 1 mile)
+or larger. In addition to the area covered by topographie maps,
+about 11,300 square miles of southeastern Alaska has been
+covered by planimetric maps on scales of a and as
+The Hawaiian Islands have been surveyed, and the resulting
+maps are published on a scale of a
+The sketch represents a river valley that lies between two
+hills. In the foreground is the sea, with a bay that is partly
+enclosed by a hooked sand bar. On each side of the valley is
+a terrace into which small streams have cut narrow gullies.
+The hill on the right has a rounded summit and gently slop-
+STANDARD SYMBOLS
+CULTURE
+(printed in black)
+C:
+r Publi
+Power-
+transmission
+lne
+Dam with lock
+Canal lock
+State l
+potion fines
+Civil Twuship
+or distriet line
+Land grat
+• g
+anks and
+Oil and
+gas wells
+Mine or
+quarry
+Shaft
+RELIEF
+‹printed in brown›
+WA
+(printer
+rapids
+Intermitteut
+streams and
+ditches
+Canals or
+ditches
+Intern
+WOODS
+(when shown, printed in green)

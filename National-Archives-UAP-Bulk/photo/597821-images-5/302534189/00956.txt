@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:09:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1231606, "source_ctime_ns": 1793388908655611308, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534189/00956.jp2", "source_mtime_ns": 1785808360000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534189/00956.jp2", "source_sha256": "ab05da80314831c86e6cc238009ebbe13e03cdd6766e8e1672c7bc7e08cdb15e"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 163, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LARGO SENIOR HIGH SCHOOL
+410 MISSOURI AVENUE
+LARGO, FLORIDA 33540
+PM
+- 1964
+FLA
+Caftain R. A Hermy
+ME Dill Air Force Base
+Public Information Office
+Tampa, Florila

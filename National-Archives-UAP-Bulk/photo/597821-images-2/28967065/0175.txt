@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:40:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5167381, "source_ctime_ns": 1793378177300417162, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967065/0175.jpg", "source_mtime_ns": 1785696677000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967065/0175.jpg", "source_sha256": "fbd0259dce1d7efa002db75ca3ccb81f7f84c392c5333fbeeb732e05207b955b"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1252, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+20 August 1956
+3. DATE-TIME GROUP
+Local
+GM T
+21/06152
+S. PHOTOS
+North Bend, Oregon
+4. TYPE OF OSSERVATION
+XIX Groundo Visual
+• Air Visua
+6. SOURCE
+XX Ground-Rader
+• Air-Intercopt Rador
+• Yos
+7. LENGTH OF OBSERVATION
+Military
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+CXProbably Balloon
+Possibly Balloon
+a
+Was Aireraft
+Probably Airerate
+Possibly Aircraft
+Was Astronomical
+Probably Astronomied
+•
+Possibly Astronomical
+Other
+Insufficient Date for Evaluation
+Unknown
+two hours
+one
+10. BRIEP SUMMARY OF SIGHTING
+Due to the fact that object was tracked
+by ground radar, no description of the
+object was given. Object was initially
+sighted at 320 dgr azimith at 54,000 ft
+altitude and appeared to orbit. Object
+descended to 50,000 ft altitude while
+moving to 32 dgr azimuth. Object faded
+fm the scope after being tracked for
+two hours.
+easterly
+11. COMMENTS
+Duration, orbiting, and descend-
+ing path
+indicate that the sight
+ing was probably caused by a
+aballoon. In addition, a check
+with the ADC Forecast Center
+revealed that a balloon was in
+the area at the time of sighting
+15641 93 80 500 correlat a-
+the course of the object,
+evalua
+tion is balloon (probable).
+ATIC FORM 329 (REV 26 SEP 52)

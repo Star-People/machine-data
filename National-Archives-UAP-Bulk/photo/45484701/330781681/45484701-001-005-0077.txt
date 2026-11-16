@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:44:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6432909, "source_ctime_ns": 1793361894555403727, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0077.jpg", "source_mtime_ns": 1785684790000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0077.jpg", "source_sha256": "4085edc4714a2a06719ecab1c4c55e83564e60cdfddda1c5299ae41499c29fd8"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 608, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ZONE
+FLIGHT PLAN
+...
+TILANOOK OREGON
+DATH
+1-23-48
+NAME AND ADDRESSE. C. Ficholson
+TELEPHONE NUMBER
+52771
+PILOT LICENSE NUMBER
+COLOR OF AIRPLANE
+Silver
+NO NUMBER
+TYPS OF AIRPLANE
+Tuscone
+POINT OF DEPARTURE FAllaneok
+ROUTE OF FLIGHE
+- 120°
+DESTINATION
+MacHinville
+CRUISING AIR SPRED
+__. 100
+RADIO FREQUSNCIES
+FINE OF DEPARTURE
+- 10:5łł
+ESTIMATED TIME ENROUTER hER.
+Fink)
+REMARKS
+COSE YOU VEERS AND 18 END ARRAN OR YOUR PROOFION AND
+SATEPY...
+....
+COASTWAY SCHOOL OF ANRONAUTICS
+...
+A CERTIFIED TRUE COPY:
+Garl D Jameson
+HARI, D. JANESON
+2d 18, USAF
+Summary Court
+INGA 01
+Declassification Authority: NND 923007

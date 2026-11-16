@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:45:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6558268, "source_ctime_ns": 1793359451714340183, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-019-0002.tif", "source_mtime_ns": 1785681418000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-019-0002.tif", "source_sha256": "9fb79d71cc423f2356b9a4ddafedac91c2945e83d2dc03048cb35f47db7d74ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 976, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+87 OpS
+BL
+EN0006ENB043 YDB070 XYC049XDA065JBA070JBE002
+RR RJEDEN RJEDWP RJEPHQ
+DE RJWPJB 2E
+R 301730Z
+FM COMDR 669 ACWRON PORHUE CALIF
+TO RJEDEN/ COMDR ENT AFB COLO SPRINGS COLO
+INFO RJEDWP/ COMDR AIR TECH INTELL CTR WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR OF INTELLIGENCE HQTRS USAF WASH 25 D C
+3022282
+109
+4602D AISS UFOB REPT
+281
+127 Apro6
+DATE-TIME GROUP
+Huntington Park, Calz.
+UNCLAS 6690PS 133-Y PD UFOR. 1.A.ROUND. B. VERY SMALL. C.BLUE WHITE.
+DONE E NONE F. NONE HG. NONE HONONE I. UNK 2.A. VERY FAST AND
+VERY SLOW. B. FIVE THOUSAND FEET. C. WEST. D.MOVED OUT TO THE OCEAN
+AT A VERY HIGH SPEED. E. FIVE MILES.F.THIRTY MINUTES. 3. VISUAL.
+4. A.27APR 56. B.2110PST C.0510Z.D.DARK. 5.
+11755
+3345.
+CẠCD0546. D.OVER HUNTINGTON PARK. 6. MR
+COSTA MESA, AGE 35. 7. A UNK. B.CLEAR, TEN MILES VIS., CLOUD
+BANK AT FIVE THOUSAND FEET. WIND ALOFT 265 DEGREES AT TEN KNOTS. 8.
+NONE. 9 NONE. 10. NONE. 11 NONE. 12.NONE.
+BT
+30/1732Z APR RJWPJB

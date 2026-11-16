@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:39:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4557097, "source_ctime_ns": 1793380297404516850, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975261/00184.jpg", "source_mtime_ns": 1785700624000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975261/00184.jpg", "source_sha256": "5da3a236fca15d5c6e14b9244312818b11e295fbefc53087aa22f0b9545a2668"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 285, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20 Moy57 00 51
+1}YEY
+REO 71
+0 SQG086 YMB085
+BWAO56
+RR RJEDDN RJEDS& RJEPNB RJEPHQ
+DE RJEDBW 88
+R 2721252
+FM COMDR 30T HE ADIV
+TO RJEDDN/COMDR ADC ENT AFB COLO
+RJEDSQ/COMDR ATIC WRITHT PATTERSON AFB OHIO
+RJEPNB/COMDR EADF STEWART AFB NY
+RJEPHO/DIRECTOR INTELLIGENCE USAF WASHINGTON D C

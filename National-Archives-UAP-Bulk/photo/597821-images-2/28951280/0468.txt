@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:25:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4912816, "source_ctime_ns": 1793374338776379941, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951280/0468.jpg", "source_mtime_ns": 1785696626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951280/0468.jpg", "source_sha256": "06628fcb7fadb29e64e698945546e8bb55e4f4a9122cabfb17282439b18c197c"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 116, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+*
+FIRST SIGHTED
+OBJECT
+* →2
+COLF
+LINE of SigHT
+OBJECT APPEARED
+TO BE AT A VERY HIgH
+ALTITUDE
+STAND
+EAST
+STAND
+- 62r

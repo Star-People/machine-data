@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:41:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5300949, "source_ctime_ns": 1793368891431177496, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929838/0182.jpg", "source_mtime_ns": 1785689051000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929838/0182.jpg", "source_sha256": "04c7035845a889c47a62edd447b7c5e34b9f83c6a0b797a00df6b4d70a772f9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 774, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Director, FBI
+September 18, 1947
+LENNIS COMPANY is about two and one-half miles southeast from Oxford Circle.
+The account of the fire does not seem to fit into the general pattern of the
+above mentioned flying object, for it is noted that the flying object was
+allegedly traveling from a position northeast of Oxford Circle to a south-
+westerly direction in Philadelphia. GIBBL pointed out that, to the best
+of his knowledge, there-ere no oil refineries and chemical companies located
+around Oxford Circle or north of such, but that all of the companies of this
+type are several miles south of Oxford Circle.
+All logical investigation having been conducted, no further action
+will be taken on the instent matter unless advised to the contrary by tha
+Bureau.
+FFB/etg
+98-1762

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:29:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5610732, "source_ctime_ns": 1793369237948925607, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1349.jpg", "source_mtime_ns": 1785688779000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1349.jpg", "source_sha256": "78f464062110e8d11abef7cd2bdf6ee0f62d03aa1aea75b96305cbd8101ce0fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 555, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTLENT OF COMMERCE
+CIVIL AZRONAUTICS ADMINISTRATION
+Second Region
+Atlanta 3, Georgia
+August 17, 1948
+Commanding General
+Air Materiel Command
+Wright Patterson AF Ease
+Wright Field, Ohio
+Attention: MCIAKO-3
+Sir:
+Reference is made to your letter dated August 5, 1945,
+Subject: Project "SIGN", andressed to the Regional
+Administrator, Civil Aeroneutics administration, Chicago,
+Illinois.
+Enclosed please find copies of letters aadressed to the
+various aurlines, which are self-explanatory.
+Very truly yours,
+Chief, Air Cerrier Operations
+Enclosures: 7
+48

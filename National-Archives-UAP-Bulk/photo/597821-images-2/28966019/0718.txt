@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:21:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4390036, "source_ctime_ns": 1793377926634721683, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966019/0718.jpg", "source_mtime_ns": 1785696714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966019/0718.jpg", "source_sha256": "ccaa0d2e1396a70ba797ff08526961c1c438c16a269319b917d4aeaee336bc8b"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 338, "method": "ocr", "page": 1, "variant": "plain-vision"}
+US KOWTUR 041H
+0 282354Z
+FM COMDR 25TH AIR DIV MCCHORD AFB WN
+TO RJEDEN/COMADC ENT AFB COLO
+RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR OF INTELLINGENCE HQS USAF WASH DC
+RJWPSB/COMWADF HAMILTON AFB CALIF
+BT
+/U N C L/UFOB/25TH TAC F404.
+1. A ROUND
+B UNK
+C SILVER
+D 1
+E NO
+F VERY BRIGHT
+G NA
+H NA
+I VERY FAST AND STRICHT UP

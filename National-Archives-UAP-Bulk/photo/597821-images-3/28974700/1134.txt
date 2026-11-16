@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:32:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6327923, "source_ctime_ns": 1793380138335477320, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974700/1134.jpg", "source_mtime_ns": 1785701088000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974700/1134.jpg", "source_sha256": "c2f60daf25af005d70e949ae4f7a419dc4fd942d6040298e9683b449b9688033"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 1129, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+13 November 1957
+3. DATE-TIME GROUP
+Local
+GMT 13 09552
+5. PHOTOS
+Maryland
+TYPE OF OBSERVATION
+2KGround- Visual
+D Air Visual
+D Ground-Radar
+D Air-Intercept Radar
+6. SOURCE
+• Yes
+CANo
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+N/A
+one
+10. BRIEF SUMMARY OF SIGHTING
+Popping sound was heard, upon gazing
+upward a parachute type
+object was
+seen floating to the earth. The
+object drifted downward for approx
+5 to 10 minutes and appeared to be
+disintegrating, though no pieces were
+breaking away from the body of the
+object. Upon falling b the ground, the
+object
+cigarete spera to ate gis of fick
+it up resulted in breakage.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircreft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+OXInsufficient Data for Evaluation
+Unknown
+11. COMMENTS
+No evaluation is possible without
+specimen. Possibly cloud seeding
+operations. No check was made at
+time of report. Also possible mig-
+ratory spiders. Cloud seeding most
+likely.
+ATIC FORM 329 (REV 26 SEP 52)

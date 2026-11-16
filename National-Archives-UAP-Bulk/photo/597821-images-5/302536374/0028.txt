@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:07:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1001027, "source_ctime_ns": 1793389104446856241, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536374/0028.jp2", "source_mtime_ns": 1785808642000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536374/0028.jp2", "source_sha256": "9c0105ddf2a381dd2eddc53de502f1d54899a2b2fc8ba4d8d79dfbb3bbe3b69e"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 581, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE - TIME GROUP
+November 1964
+3. SOURCE
+2. LOCATION
+Civilian
+10. CONCLUSION
+CHAFF
+4. NUMBER OF OBJECTS
+Multiple
+5. LENGTH OF OBSERVATION
+N/A
+TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+On Ground
+8. PHOTOS
+• Yes
+XX No
+9. PHYSICAL EVIDENCE
+HXY..
+• No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous editions of this
+Carnichaels, Pennsylvania
+Objects identified as chaff. "X" Band
+11. BRIEF SUMMARY AND ANALYSIS
+Silver-like slivers found on ground.
+identification.
+Director
+Acrospoce Studios Inst
+ATTN: Acchives Branch
+Maxwell AFB, Alabama
+Submitted for
+RETURN TO:
+K243.6012-1
+1-15 Nov 1164

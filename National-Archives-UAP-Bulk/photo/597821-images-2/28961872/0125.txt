@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:35:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7240104, "source_ctime_ns": 1793376738813507654, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961872/0125.jpg", "source_mtime_ns": 1785696852000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961872/0125.jpg", "source_sha256": "33a22bf5ddf31a3b3707763d447ca8a3253590b77875374a6b9e70aa88e886ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 512, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CE TO JESKE
+E CHA ROME GEORCIA EMPLOVER
+T LOCKHEED AIRCRAFT CORP MARIETTA GA AND HIS SON
+CID 8 C EG (720 CLEAR (E) 35/21 AT 907A0 1/0 AT 9 #
+/15 AT 1 : 1/42 AT 16 : 35/54 07 2 : 35/2 17 3 6
+A /5 AT 50: UNK AT 80. (0) NEC (0) 15 MILES (C) REC (F) NEG
+(0) HEE (0) HEC (10 UNK (11) DIRECTOR 0F INTELLIGENCE 35TH AD(0)
+DOLDINS AFE CA MIGHT POSSIBLY HAVE BESI IMADVERTENT DISCHARGE OF
+HANENT OR PYROTECNIC PD MAXWELL FIT SVC HANNELL AFE ALA IS ALSO
+FILING REPORT ON THIS SIGHTING (12) NEG END
+1/:45:Z MAY JESKE
+.....

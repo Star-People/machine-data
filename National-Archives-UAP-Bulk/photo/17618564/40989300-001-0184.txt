@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:09:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1361953, "source_ctime_ns": 1793356059501403710, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0184.jpg", "source_mtime_ns": 1785564595000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0184.jpg", "source_sha256": "49156d83ff945ef148f545dc58539c8621a7b6af45506b66ea7c088a42a10dc3"}
+
+===== PAGE 1 =====
+{"alpha_words": 220, "chars": 1413, "method": "ocr", "page": 1, "variant": "plain-vision"}
+April 17, 1947
+Mr. C. J. Stock, Secretary
+New York Subcommittee on Air Space
+385 Madison Avenue
+New York 17, N. I.
+Reference: New York Meeting No. 12 Subject No. 26, New York Case #156
+Dear Sir:
+Receipt of the minutes of the above meeting are acknowledged with thanks.
+However, on reading them, a discrepancy was noted. We believe the weather
+conditions agreed upon for Phase 2 operations were not a cloudless sky, but
+no céiling under 20,000 ft.
+We realize that there might be occasions when the clouds present would
+not constitute a ceiling. Yet, due to chaotic or unstable sky conditions,
+our balloons might be considered an unseen hazard to aircraft.
+It is therefore requested that we be permitted to fly these rapidly
+rising, high altitude balloons after obtaining clearance on days
+when there are no more than scattered clouds in thin layers up to
+20,000 ft. and visibility greater than three miles.
+This is an important point, as the phenomena which we hope to measure
+is not a frequent one and our chances to investigate the remote phenomena
+are markedly reduced if we have to wait for cloudless skies and the phenomena
+to coincide.
+This would have been brought to your attention earlier. However, we are
+unable, until yesterday, to confirm our impressions with the representatives
+of the Army Air Forces who were present at the meeting.
+Yours very truly,
+C. S. Schneider
+Research Assistant
+CSS : gm
+(41)

@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:17:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3538787, "source_ctime_ns": 1793386471140604699, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996270/1402.jpg", "source_mtime_ns": 1785748555000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996270/1402.jpg", "source_sha256": "9851a1b9064d424d07081c34ef81025b0b418d9e321a1afb0a4dc7fdd3fede8d"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1162, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MATS A/C
+1. DATE
+17 Feb 62
+3. DATE-TIME GROUP
+Local
+17/1418z
+GM T.
+5.
+PHOTOS
+• Yes
+KNO
+7. LENGTH OF OBSERVATION
+not given
+10. BRIEF SUMMARY OF SIGHTING
+CIRVIS report. Described as possible rocket
+reentry. Greenish color with white sputtering
+tail. Visible from 45° elevation through 20°
+elevation. Direction not reported. Duration
+not given.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+18.30N 164.25E (Pacific)
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Ground-Radar
+1 Air Visual
+• Air-Intercept Radar
+6. SOURCE
+Military
+8. NUMBER OF OBJECTS
+one
+| 9. COURSE
+not given
+12. CONCLUSIONS
+Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unknown
+Although duration was not given, it was
+reported as a possible reentry, and thus
+would be short. It failed to include
+breaking up and the reddish color
+associated with reentries; therefore, it
+is more probable that the sighting was a
+fireball. Color and flight indicate this.
+There is enough information to classify
+this as a meteor sighting.
+ATIC FORM 329 (REV 26 SEP 52)

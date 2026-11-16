@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T12:47:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7240974, "source_ctime_ns": 1793363352793721792, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0079.jpg", "source_mtime_ns": 1785684911000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0079.jpg", "source_sha256": "4da6aede61d06df818bfda7f9fef417e2c3a0236bc57fa99760b530dafa8ec4d"}
+
+===== PAGE 1 =====
+{"alpha_words": 182, "chars": 1288, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAL
+ORMATIO
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+THE INSPECTOR GENERAL USAF
+8TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+MAXWELL AIR FORCE BASE, ALABAMA
+24 November 1952
+24-153
+SUBJECT :
+WEALTHY FILES (Negro)
+AF Civilian Employee
+Brookley AFB, Alabama
+TO :
+Director of Special Investigations
+Headquarters United States Air Force
+Washington 25, D. C.
+1.
+During a current review of the files of this district,
+case file No. 24-153, subject as above, was reviewed. It was not
+possible to determine whether or not copies of report of investiga-
+tion by Special Agent ANDREW A. ANDERER, this district, file and
+subject as above, dated 5 January 1951, had been forwarded to the
+Directorate of Special Investigations.
+Attached are two copies of report of investigation,
+described above, so that the files of the Directorate of Special
+Investigations might be complete with respect to investigations con-
+ducted by this district. No distribution, other than the two attached
+copies, is being made.
+Konso Norke
+1 Incl
+Cy Rept of Investigation
+JAMES I. DOYLE
+(dup
+It Colonel, USAF
+District Commander
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DAREA
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+4 DEC 1975
+DATE
+UNCLASSIFIED
+Declassification Authority: NND 923007
