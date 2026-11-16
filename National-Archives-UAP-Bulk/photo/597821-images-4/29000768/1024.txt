@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:00:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4634469, "source_ctime_ns": 1793388298639205480, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000768/1024.jpg", "source_mtime_ns": 1785747948000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000768/1024.jpg", "source_sha256": "a9c6883ac5d77d937d2e3d04632d28ead68fbf770bcfa64ea4ff9610e2441bea"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 476, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLA
+CHOIN 2 52 29.
+FOR SAFOI, AFNIN, AND
+INTELL
+OFFICER. UNIDENTIFIED FLYING OBJECT REPORT
+A. DESCRIPTION OF OBJECT
+(1) CIRCULAR
+(2) VERY SMALL
+(3) SILVER
+(4) ONE
+(5) NOT APPWICABLE
+(6) NOT APPLICABLE
+(7) NONE
+PAGE TWO RUCDAH 131
+(3) NONE
+(DO NONE
+DESCRIPTION OF COURSE OF OBJECT
+(1) NOT GIVEN
+(2) 75-82 DEGREES
+(3) SAME AS NO.2
+(4) NOT GIVEN
+(5) FADDED
+(6) 45 MINUTES
+C. MANNER OF OBSERVATION
+(1) VISUAL
+(2) 7X25X BINOCULARS
+(3) NOT APPLICABLE
+D. TINE AND DATE OF SIGHTING

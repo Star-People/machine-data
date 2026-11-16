@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:53:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1746328, "source_ctime_ns": 1793389606888877013, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542192/1024.jp2", "source_mtime_ns": 1785808358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542192/1024.jp2", "source_sha256": "b0c153ecca4e2d596ad59e7ba807bf626aa126ceef160b2116fc677d0e58d124"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 790, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE - TIME GROUP
+9 Auguat 65 10/05332
+SOURCE
+Civilian
+1. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+3 - 4 Minutes
+6. TYPE OF OBSERVATION
+Ground -Vis val
+7. COURSE
+NE
+8. PHOTOS
+D) Yes
+A NO
+9. PHYSICAL EVIDENCE
+• Yes
+206 NO
+FORM
+FTD SEP 63 0-329 (TDE)
+Previou
+2. LOCATION
+Calumet Park, Illinoia
+10. CONCLUSION
+Satellite (ECHO II)
+ECHO II over Chicago at 1136PM CST in flight to NE at 54 deg
+elevation.
+Sighting characteristic of
+Satellite sighting.
+Disappearance as Satellite enters Earth's shadow,
+11. BRIEF SUMMARY AND ANALYSIS
+Bright white object at estinated altitude of 100-150 miles.
+Brighter than other objects of size observed previously.
+Disappeared instantly.
+ECHO II is the brightest of the orbiting earth satellites with
+a brightness of ~2.
+may be used.

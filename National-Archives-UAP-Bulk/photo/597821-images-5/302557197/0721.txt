@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:46:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 778777, "source_ctime_ns": 1793391277671525400, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557197/0721.jp2", "source_mtime_ns": 1785808657000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557197/0721.jp2", "source_sha256": "578b5ae2568105327e3632df7ef44eeb9eea18295cf3004165a0071d445d3559"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 329, "method": "ocr", "page": 1, "variant": "plain-vision"}
+different colors were caused by the prismatic effect of the earth's
+atmosphere. The above phenomenon was described by Dr. Heinrich
+Fichhorn, chairman of the University of South Florida's astronomy
+department, as irregular atmospheric dispersion.
+FOR THE COMMANDER
+cier
+B. S. KELLER, Colonel, USAF
+Deputy Commander for Operations

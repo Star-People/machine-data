@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:58:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4224755, "source_ctime_ns": 1793385466556010562, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993392/1359.jpg", "source_mtime_ns": 1785747991000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993392/1359.jpg", "source_sha256": "c61b9bbe5ac25fe18bb3795ee52f7688315b5fa3cf1cd33ef6180960d26273d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 334, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING.
+AF IN : 50587 (12 Jul 61)
+PAGE THREE RJWFAM 313
+50M-290/40 (ESTIMATED).
+(3) 12,200.
+(4) 30 MILES.
+(5) 7/10.
+(S) SOUTHWEST QUADRANT.
+H. UNKNOWN.
+I. NONE.
+J. NONE NOTICED.
+K. AIR OPERATIONS OFFICER! NO ANALYSIS.
+L. NONE.
+Вт
+11/23237 JUL RJWFAM
+pg 3 of 3

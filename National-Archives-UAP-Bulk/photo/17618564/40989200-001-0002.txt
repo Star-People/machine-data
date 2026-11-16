@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:47:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 822150, "source_ctime_ns": 1793354374818144276, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989200-001-0002.jpg", "source_mtime_ns": 1785564274000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989200-001-0002.jpg", "source_sha256": "07d70f1e3f96f988713816b3c56b7cccb59403c441a3e970fa781122ec3902cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 129, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+wWII 1944ł
+5 Athel Spilhaus with Col. Ellsworth
+in Chengtu, China, Ells worth A.F.B.
+was later named in honct of
+Gan. Ellsworth.

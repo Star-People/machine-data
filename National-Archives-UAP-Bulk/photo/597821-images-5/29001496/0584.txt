@@ -1,0 +1,110 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:07:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6257865, "source_ctime_ns": 1793388542804354222, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001496/0584.jpg", "source_mtime_ns": 1785808195000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001496/0584.jpg", "source_sha256": "a262424147ca6bbbb5fbf7bde68b0fbc22f0440235913b60b5c79766fafdcb98"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 772, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WEATHER OBSERVATIONS
+for use at designated FAA stations)
+ARK
+DATE 10-27-63
+REMARKS AND SUPPLEMENTAL CODED DATA
+(13)
+U.S. DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+ALTIM.
+ETER
+SET•
+TING
+(ca)
+198
+718
+000
+001
+003
+004
+004 FEWAC
+004
+FEW CL
+003
+1002
+1999
+1997
+915
+992.
+992
+992
+992
+1992
+994
+995
+1994
+997
+FEW AC / 49212
+TCU
+S-SW
+FEW TCU DSNT SUN/ 610. 92
+STATIO
+RESSUR
+(le)
+(17)
+29.590
+21.590
+29,590
+24.540
+29.6/0
+29.625
+29,640
+24,650
+29.650
+29.550
+29.640
+29130
+29,605
+29.585
+29,565
+99,535
+29.535
+29,535
+29.535
+29.535
+29.555
+29.565
+29.555
+29.555
+(13)
+WET
+BULL
+(19)
+COVER
+(21)
+TOTAL
+OPAQUE
+SKY
+COVER
+(38)
+2
+30
+10
+00
+ERS
+INITIAL
+(15)
+H.S.
+HS.
+H.S
+HS
+1/5
+w. o
+c.O.
+W.O
+W.a
+ш.о.
+ш.о.
+SL
+IGH
+2157
+GH
+GH
+SUMMARY OF DAY
+(MIDNIGHT TO MIDNIGHT)
+REMARKS, NOTES AND MISCELLANEOUS PHENOMENA
+(70)

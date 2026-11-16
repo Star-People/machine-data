@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:55:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3904550, "source_ctime_ns": 1793375880592595409, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958153/1149.jpg", "source_mtime_ns": 1785696514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958153/1149.jpg", "source_sha256": "6caba924222997d759fc58d9780c5aa97c9d15b31bef6f2431e5cae46c830005"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 911, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JWFFZ 14
+(2) (A) LIGHT SWEEPING DOWN FROM 1233 HIGH POSITION IN RELATION TO
+A/C
+(E) 1230 HIGH POSITION TO A/C PD APPROX 45 DEGREES ELEVATION
+ABOVE OF A/C
+(C) LEVEL WITH A/C AT 1200 POSITION
+(D) OBJECT MADE A HALF SPIRAL TO LEFT AND LEVELED OFF AT SAME
+ALTITUDE OF A/C DIRECTLY IN FRONT OF A/C APPROX 5 TO 16
+MILES
+(E) DISAPPEARED IMMEDIATELY AFTER LEVEL OFF PD
+(F) 10 SECONDS
+(3) KA) AIR VISUAL
+(B) NONE
+(C) T-33, NO 51-8545, EPNPPP FT CMA NH 0S6 DEGREES CMA IAS 242
+KTS CMA TAS 440 KTS CMA FOSTER AFE CMA TEX
+(4) KA) OP POWWZ MAY 54
+0122
+(E) DUSK
+(5) K107 DEGREES 18 MINUTES WEST LONGITUDE
+EW DEGREES R MINUTES NORTH LATITUDE
+(6) KA) N/A
+& R-CMA 1/LT CMAŘÍ
+→CMA 3581ST PLT
+TNG SQ CMA FOSTER AFE CMA TEX CMA INSTR PLT PD
+J. A/C CHA
+MA 358OTH STU SQ CMA
+CMA
+TEX CMA AVIATION CADET CMA FAIR
+(7) KA CLEAR AT FLT ALT WITH LIGHT HAZE CHA LOWER SCATTERED CLOUDS
+AT 10,990 FT PD WIND 270 DEGREES AT 42 KTS PD

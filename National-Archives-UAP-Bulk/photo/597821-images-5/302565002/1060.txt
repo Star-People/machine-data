@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:46:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 795708, "source_ctime_ns": 1793392164833428174, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565002/1060.jp2", "source_mtime_ns": 1785808358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565002/1060.jp2", "source_sha256": "f1e5e11186c8f30ee555f326a3390fe05bd802024a9dabca107bb11ffdd8ad60"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 530, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Major Hector Quintanilla, Jr.
+Page 2
+30 November 1967
+But be that all as it may, this does not concern me directly. My job as
+called for in the contract is to continue to see whether I can find anything
+of scientific value in UFO reports. This task I am pursuing. I try diligently
+to avoid "looking under the bed" techniques. I will leave such matters to
+people trained to do such things and try to concentrate solely on the scientific
+aspects of the work, whatever those may be.
+Sincerely yours,
+Allen
+J. Allen Hynek
+JAH: 1p
+ce:

@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:00:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4557260, "source_ctime_ns": 1793386223223574947, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995273/0511.jpg", "source_mtime_ns": 1785747907000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995273/0511.jpg", "source_sha256": "a504a3066222dae63f537132d5ddcfdb09410e45141ea3ec56c02891d1238ab3"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 725, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL MESSAGE
+PRECEDENCE
+(ACTION)
+UNCLASSIFIED
+RELEASED BY
+DRAFTED B
+NAVY DEPARTMENT
+EXT. NO.
+(INFO)
+HOUSE AND JUST SAW FLASH
+- 7. NONE
+8. NONE
+9. JUST A FLASH
+B. JUST.A FLASH SAW THRU PORT BY CAPT
+PILOT
+C.1. VISUA SIGHTINGS, NO MECHINICAL MEANS USED
+D. 1. 1430 GCT 23. OCT
+- 2. MOON OUT, DARK, CLEAR, VISIBILITY GOOD
+E. POSIT 58.14N 143.55W HEADING OF FLASH 010. OUT OF SIGHT OF
+LAND.
+F. 1. CAPI
+62 •
+PILOT ON SHIP
+ABLE SEAMAN
+RELIABILITY GOOD
+KADW. RELIABILITY EXTREMELY GOOD, CIVILIAN.
+G. 1. SINGLE WHITE FLASH
+2. NOT ABAILABLE
+3. NO CLOUDS
+4. VIS. APPROX 15 MI
+5. NO CLOUDS
+6. NONE
+~7. TEMP 43 F
+H. BLANK
+- I. BLANK
+CONTROL NO.
+CIRCUIT NO.
+PAGE
+OF
+PAGES TIME OF RECEIPT
+DATE TIME GROUP
+62497
+240440Z OCT. 61
+UNCLASSIFIED

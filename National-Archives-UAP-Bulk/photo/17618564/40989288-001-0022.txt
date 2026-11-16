@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:49:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1043678, "source_ctime_ns": 1793355911222823114, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989288-001-0022.jpg", "source_mtime_ns": 1785564556000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989288-001-0022.jpg", "source_sha256": "127fc01a33388589af2028104acaa983385c3deec6c6a0ec13206042d8668180"}
+
+===== PAGE 1 =====
+{"alpha_words": 187, "chars": 1276, "method": "ocr", "page": 1, "variant": "plain-vision"}
+19
+subgravity. The standard aircraft g-meter was not very satis-
+factory, either, for instrumenting subgravity flights. How-
+ever, Captain Schock devoted a major part of his attention to
+. the instrumentation problem. More precise methoda have
+since been devised, using a combination of differently-placed
+accelerometers. Information on the exact g-forces baing ex-
+perienced is constantly relayed to the aircraft pilst by two
+sensitive microammeters installed in his field of vision, and
+the same information is carefully synchronized with a film
+record of the test subject's reactions. 19
+Unfortunately, the subgravity program was also afflicted
+with more than its share of aircraft trouble, Apart from normal
+maintenance problems, the F-94C aircraft used in the program
+developeủ such special troubies during subgravity flights as loss
+of oil pressure, loss of hydraulic fluid, and "sticking" of the
+trim tab motor. These difficulties, as well as the presence of
+extra equipment mounted inside the aircraft, caused a good bit
+of worry to flying safety and maintenance officers, and required
+suspension of tests on several occasions. But in the end all
+the difficulties were shown to be of little importance or else
+were correcied. Both Lockheed, the aircraft manufacturer,

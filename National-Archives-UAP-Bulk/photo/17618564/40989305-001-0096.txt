@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:45:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 504435, "source_ctime_ns": 1793356155810655288, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989305-001-0096.jpg", "source_mtime_ns": 1785564622000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989305-001-0096.jpg", "source_sha256": "e18d99e27c8bccde45eb2a365b47955168d0729da0a32fd771002f4022754321"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 557, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page two
+Mr. Todd
+February 16, 1994
+5. did not witness any attempt to conceal any of the
+debris nor did the military attempt to restrict my movements in the
+area. I was not cautioned not to report on what I saw, nor was there
+any effort by the military to censor, edit or restrict anything I wrote.
+6. I have attempted to answer all of your questions. I
+do not wish to interviewed by telephone, nor do I see any reason for
+such an interview. After close to fifty years, I would like to bring this
+to a close.
+Yours very truly,
+Jason Kellahin
+Jason Kellahin

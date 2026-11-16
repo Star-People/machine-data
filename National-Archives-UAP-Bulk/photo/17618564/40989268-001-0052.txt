@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:25:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16772424, "source_ctime_ns": 1793355613900750270, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0052.jpg", "source_mtime_ns": 1785564489000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0052.jpg", "source_sha256": "101398cee9a53026f52a93ff18ef11efe6d6dcd1ae3af0759be59d5f5f43c5b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 494, "chars": 3063, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20
+gradient
+Figure 3. Gust Velocity U as a Function of Gust-Gradient Distance H
+91
+40,000 feet. It may be seen that a nominal gust gradient distance to use for some
+preliminary investigations is 100 feet. Also, a reasonably strong gust speed tobe used
+with this gust length is 50 fps. Values as high as 83 fps are indicated on the graph.
+In an AFCRL glider investigation of the mountain wave, a true gust speed of 70 fps
+was encountered at 40,000 feet.
+A question as to the applicability of these gusts to vertically-rising balloons can
+be raised since these were observed by horizontally-moving aircraft. However,
+other studies indicate that gustiness in the free atmosphere is essentially isotropic,
+that is, has no favorite direction. In fact, if one can visualize gusts associated with
+the shear in the jet stream as rotating cylinders, the force to both horizontal and
+vertical penetrating vehicles would be the same.
+In order to provide more of a "handle' of what might be encountered specifically
+at tropopause altitude, I have included Figure 4, in which the magnitude of accelerom-
+eter-deduced gusts is related to the general wind shear through 2,000-foot-thick
+layers above and below the jet stream. These data were obtained at tropopause
+altitudes with highly-precise radar-navigation wind equipment and VGH turbulence
+recorders during AFCRL's B-47 jet stream research in the late 1950's. You will
+note that there are some correlations between gust and shear intensity although it
+is far from as high as expected. This is one of the reasons why it is difficult to
+forecast clear-air turbulence, a very important problem in today's jet-aircraft
+travel. Even in this very limited sample, a true gust of 35 fps was observed. One
+can see that much higher values could be expected with the stronger wind shear of
+the 1-percent magnitude presented in the upper curve of Figure 2. The size of these
+gusts was not available but it is quite likely that they, too, would be somewhere
+around a hundred fps.
+Let us take as an example an ascending balloon, which is moving with the general
+wind flow so that there is no relative wind over it, suddenly penetrating a layer of
+turbulent vortices which have a radius of 100 feet and an amplitude of 50 fps. Almost
+any geometric arrangement of the force of these gusts on the balloon is possible,
+especially since there is likely to be a couple of thousand feet of such vortices. A
+quick calculation would reveal that at 40,000 feet, the peak dynamic pressure of such
+a gust will be about 3/4 pound/square foot. Let us use an extremely naive simplifica-
+tion, that the average pressure is half a pound/square foot and that it is applied
+uniformly to the upper half of the balloon, an area of 4,000 square feet; whereas
+there is no gust force on the lower half of the balloon. An unbalanced force of 2,000
+pounds is obtained. It is centered somewhat between the top of the balloon and the
+equator. It tries to tear the upper portion of the film from the rest of the balloon
+and the train which are not subjected to it.

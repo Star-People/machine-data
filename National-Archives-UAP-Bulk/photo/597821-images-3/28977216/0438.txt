@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:54:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3662230, "source_ctime_ns": 1793380612380681497, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0438.jpg", "source_mtime_ns": 1785701059000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0438.jpg", "source_sha256": "a77068972814679749bdf5eff6adcac2cd66927a72d99513c534f497944d202d"}
+
+===== PAGE 1 =====
+{"alpha_words": 334, "chars": 2252, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- 2 -
+The subsequent sections of this collection have been
+prepared individually by members of the Smithsonian Astro-
+physical Observatory who are actively working in this
+particular field and therefore best able to present a
+factual and informative account of the respective aspects
+of the program.
+In this initial chapter, we wish to
+summarize as well as outline from an overall point of
+view the orbital data and results which we have been able
+to obtain with regard to Satellites 1950 Alpha, 1950
+Beta One, and 1958 Gamma.
+The mainstay of the long-range optical tracking pro-
+Gram is the worldwide network of precision photographic
+stations, employing at each observing station a 3-axis,
+20-inch aperture, f/l camera designed especially for the
+photographic tracking of artificial earth satellites.
+The optics for these cameras were designed by Dr. James
+H, Baker, and constructed by the Perkin-Eimer Corporation.
+They employ a unique 3-corrector lens system having L
+aspherical surfaces, in combination with a 31-inch con-
+ventional spherical mirror, providing a useable field of
+30°. The motor -driven mechanical drive provides se-
+quential tracking of a satellite and of star background
+on the same 250 x 55 mm. film frame, in cyclical succession
+so that many individual photographs can be obtained during
+a given satellite passage. The unique mechanical system
+was designed by Mr. Joseph Nunn and fabricated by Boller and
+Chivens, Inc., all of South Pasadena, California.
+The urgency imposed upon the optical tracking program
+by the launching of the Russian satellites made it de-
+sirable to expedite the construction of the stations and
+to obtain the use of auxillary cameras to go into operation
+before the arrival of the Baker-Nunn cameras. Through the
+excellent cooperation of the Ballistic Research Laboratory
+we have obtained the use of two S M T (Small Missiles
+Telecamera) instruments. In addition, several photo-
+theodolites have been furnished through the courtesy of
+the U. S. Air Force, thus making possible the completion
+at any earlier date than otherwise possible an effective
+tracking network. As discussed by Karl G. Henize in his
+ceport, the fuil complement of Baker-Nunn cameras is ex-
+pected
+to be in operation by mid June.

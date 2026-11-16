@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:12:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7898864, "source_ctime_ns": 1793358551874355856, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-053-0002.tif", "source_mtime_ns": 1785681127000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-053-0002.tif", "source_sha256": "6ce992ca3690dca9d38fd53962195465ec8f85fe0e1288c5540f2773b0bdae78"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 1275, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+RGER BASE OPERATIONS
+3, 9
+INO 224
+ENB067 YDC075 XYB043 XDE044JBA029JBG 003
+PP RJWPJB RJEDEN RJEDWP,RJEPHQ
+DE RJWPJB 3G
+P 100100Z
+FM COMDR 751ST ACWROM MI LAGUNA CALIF
+TO RJWPJB/COMR 27TH ADIV DEF NORTON CALIF
+RJEDEN/COMDR AIR DEF COMMAND ENT AFB COLO
+RJEDWP/COMDR AIR TECH INTELLIGENCE CENTER WRIGHT-PATTERSON AFB OHIO
+RJEPHO/DIRECTOR OF INTELLIGENCE HO USAF WASHINGTON 25, D.C.
+ЗТ
+/UNCLASSIFIED/751ST OPS 5-2 Ø48 PD
+UFOB
+1. (A) ROUND (B) QUARTER (C) WHITE (D) ONE (E) N/A (F) NONE (G) NONE
+(H) NONE (I) APPERARED TO HAVE A PARACHUTE ON BOTTOM
+2. (A) ACCIDENTAL OBSERVATION (B) 45 DEGREES TO THE SOUTHWEST
+(C) 45 DEGREES TO THE SOUTHWEST (D) STRAIGHT LINE TO THE SOUTHWEST
+(E) WENT INDOORS TO PHONE IN REPORT (FO 12 MINUTES
+3. (A) GROUND-VISUAL (B) NON (C) N/A
+4. (A) 2335Z 9 JUN 1955 (B) DAY
+T5. (A) DD.
+2119
+AGE 61 WARNER SPRINGS, CALIF.
+(B) N/A
+7. (A) CLEAR NO WINDS NO CLOUDS (B) SURFACE WINDS NORTHWEST 9 KNOTS
+(C) 1500 SCATTERED
+6,882.
+30, 900° C
+(D) 8 MILES VISIBILITY
+13,000ł
+50,000' 360 5KTS
+(E) STRATUS CLOUDS TO THE SW
+16,200•
+(F) NONE
+10-20KTS 80,000 UNKNOWN
+20,909'
+170-15KTS
+3. NONE
+9. NONE
+10. JETS HEARD VERY HIGH IN AREA-OBSERVER UNABLE TO SEE THEM
+IT NONEY DIRECTOR IST LT. THOMAS D. LUCAS NOAEE
+VT
+19/0306Z JUN RJWPJB

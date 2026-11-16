@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:49:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1056910, "source_ctime_ns": 1793394390954541025, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0084.jpg", "source_mtime_ns": 1785567364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0084.jpg", "source_sha256": "10d7401cc91a3664240744a40bfc2013a9a3048f9ac797cceb936180d6987c2e"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 352, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Olney, sel.
+March 7, 87
+Federal Aviation Administratión
+anchorage, alaska
+Gentlemen;
+Please find Inclared
+607 and seff-addrised, stamped
+envelope; Please send two copys
+of the I.a. A, form summariging
+The November 17;'86 sighting of
+a V1.7.0, in alaskan air space.
+Thank you Very Much,
+perpistully,
+Castle Ferren
+327E. North ave.
+Olney, Illinsis
+62450

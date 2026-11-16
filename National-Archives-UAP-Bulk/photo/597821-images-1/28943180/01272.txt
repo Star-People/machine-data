@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:07:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6123586, "source_ctime_ns": 1793372552568599625, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943180/01272.jpg", "source_mtime_ns": 1785688972000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943180/01272.jpg", "source_sha256": "35db0c03f9b03308b46419d3ca9a5e9385bfd050417fce94a0b814f1b231d989"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 200, "method": "ocr", "page": 1, "variant": "plain-vision"}
+248
+.RBA
+AMBROSE
+286 • Ete
+30m & 50m-60n
+Long Beach
+040°
+T
+AMBROSE
+093
+3
+COV
+1142
+elev 205
+BABYLON
+• LONG BEACH
+LIGAND
+Position of the
+Path of the
+- 30'-
+Observers
+1132°
+·
+SULLY
+L
+N
+T
+UNCLASSIFIED
+SC

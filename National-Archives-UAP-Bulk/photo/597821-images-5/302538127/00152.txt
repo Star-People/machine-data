@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:52:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1738959, "source_ctime_ns": 1793389212362886247, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538127/00152.jp2", "source_mtime_ns": 1785808424000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538127/00152.jp2", "source_sha256": "8144fa2032c94ae41c28c8dbfa464788917635a88259b96a0df80bc4ed9f3898"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 356, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Mrs Bunt/SAPOICC/728h2/16 Apr 65
+Cpuk 17 1965
+Reference is aude to your UPO report of 30 Narch 1965.
+The description of the object which you proviced was
+insufficient for analyals. It is requested that the attached
+PeD Form 16h be completed as fully as possible and returned
+to tals offiee in order that an evaluation can be sade of
+the report.
+Sincerely,

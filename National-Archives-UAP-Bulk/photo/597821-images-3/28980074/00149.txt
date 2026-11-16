@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:59:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4529166, "source_ctime_ns": 1793381381643370557, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980074/00149.jpg", "source_mtime_ns": 1785700890000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980074/00149.jpg", "source_sha256": "508415cb66cfd92c5bb8fbf8f2fb9359a4654ad672e25366df7d15c50ed20fc8"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 373, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR ROEMBJ 148A
+8. NONL
+9. NONE
+10. NONE
+ALABAMA
+11. OPERATION OFFICE, MAXWELL FLIGHT SERVICE CENTER, MAXWELL AFB
+THE DISCRIPTION OF OBJECT APPEARS TO HAVE BEEN A METEOR
+THE REPORTING INDIVIDUAL ALSO EXPRESSED THAT THE OBJECT HAD
+THE APPEARENCE OF A METEOR
+EXCEPT THAT IT WAS
+EXCEPTIONALLY BRIGHT AND REMAINED IN VIIW FOR SO LONG
+12. NONL
+BT
+29/11242 SEP ROEMBJ
+NNNN

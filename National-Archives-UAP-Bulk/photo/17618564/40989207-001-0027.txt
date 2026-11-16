@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:18:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9245646, "source_ctime_ns": 1793354412968493540, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0027.jpg", "source_mtime_ns": 1785564281000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0027.jpg", "source_sha256": "e57fd487fab80ddd395feb5e21e6aa8703029050c3d9eac3c48d87e455c17efc"}
+
+===== PAGE 1 =====
+{"alpha_words": 512, "chars": 3579, "method": "ocr", "page": 1, "variant": "plain-vision"}
+to increase our military capabilities, we often overlook the significant military
+rous technology has made and continues to make.
+3. HOW PL/GP MANAGES THE T? PROCESS
+Transition of technology from the developer to user has been traditionally
+difficult in both the commercial and government sectors. For I? to work well, an
+organization needs to use non-traditional mechanisms that have proven to be
+successful.
+First of all, an organization's mindset has to change from regarding I? as
+a simple one-time linear hand-over process between developer and user, to
+regarding I? as a continuous, hand-holding, iterative, technology flow process
+from initial technology program planning to operational implementation of the
+technology. T? is really a contact sport! PL/GP has and is effectively playing
+this sport, as will be illustrated with examples shortly.
+3.1 GEOPHYSICS IS "EASY" TO TRANSITION
+Before discussing the various sucessful I' mechanisms that PL/GP uses, it
+must be pointed out that geophysics technology is inherently a relatively "easy"
+technology to transition. There are several reasons for this. One is that
+geophysics technology is generally not "hardware" technology. New hardware
+technology is often difficult to transition because it generally introduces
+uncertainty/risk into programs, and program managers dislike risk.
+The second reason is that goephysics produces unique data and models that
+define the environment in which military systems operate. This information is
+usually needed by the military system design community, and is generally not
+available anywhere in the commercial sector or in other Air Force laboratories.
+A third reason that makes geophysics technology "easy" to transition is
+that, for the most part, geophysics technology is a response to requirements-
+pull rather than technology-push, that is, geophysics technology is produced
+mostly in response to the design or operational needs of current, planned, or
+conceptual systems. As past research in the area of technology transition has
+shown, requirements-pull technology
+is much more apt to transition than
+technology-push technology (at least within a 20-year period following the
+development of the technology). In addition, the elapsed time from the start of
+a technology development program to technology use will be much shorter for a
+requirements-pull technology.
+A fourth reason is that geophysics program elements have historically been
+low funded vis-a-vis requirements for geophysics technology. This has forced
+PL/GP geophysics technology managers to actively seek and obtain supplemental
+funds from technology users in order to be able to develop the needed technology.
+The user, having a stake in the technology development, helps ensure that the
+technology will be transitioned and used.
+A fifth and final reason for "easy" technology transition is that a
+significant portion of geophysics technology goes directly from either 6.1, 6.2,
+or 6.3 programs to operational customers without having to be transitioned to
+a product division. PL/GP has (under it's various successive designations) been
+the research and development arm of the Air Weather Service since shortly after
+WWII for atmospheric/space weather sensors and specification/forecast techniques.
+We have a very close relationship with AWS through frequent management and
+working level visits and contacts during each year. For instance, rather than
+PL/GP developing on their computers software technology that will eventually be
+transitioned to AWS computers at the Air Force Global Weather Central (AFGWC),

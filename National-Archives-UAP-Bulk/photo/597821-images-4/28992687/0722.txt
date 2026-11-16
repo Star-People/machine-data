@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:56:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3978351, "source_ctime_ns": 1793385303011208888, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992687/0722.jpg", "source_mtime_ns": 1785748116000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992687/0722.jpg", "source_sha256": "2b1a81870d421f0ce5c20cba8ea52f0dd48b29ce1e54a73f9b0aaec4a1d6113a"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 909, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+21
+3. DATE-TIME GROUP
+ву 1968
+GMT.
+08-92
+• Yes
+DI No
+LENGTH OF OBSERVATION
+ilver objt like
+lite obsorved in straight flight path
+disappeared to S after 7 min observation.
+Temperature inversion in area.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+12. CONCLUSIONS
+43.30N
+134.00W Pacific Gregon
+4. TYPE OF OBSERVATION
+• Ground-Visual
+Q Air- Visual
+• Ground-Radar
+• Air-Intercept Radar
+SOURCE
+Was Balioon
+Probably Balioon
+D
+Possibly Balloon
+a
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomica
+Passibly Astronomica
+MilitarY
+8. NUMBER OF OBJECTS 1 9, COURSE
+Other.
+Insufficient Data for Evaluation
+Unknown
+Southerly
+11. COMMENTSSpeed and appearance
+indicate
+Satellite track, however, this not com:
+Southerly heading alone doen not rule off
+setellite and all other indications
+point to satellite observation. Case
+listed as observation of Echo I.
+ATIC FORM 329 (REV 26 SEP 52)

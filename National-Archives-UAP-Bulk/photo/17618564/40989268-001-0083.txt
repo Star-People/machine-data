@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:24:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16720019, "source_ctime_ns": 1793355645141707337, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0083.jpg", "source_mtime_ns": 1785564495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0083.jpg", "source_sha256": "7964c33f18c5b95ee2f3644ddc1111f8d6dd53f26a666723d38450c60a5e58d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 905, "method": "ocr", "page": 1, "variant": "plain-vision"}
+152
+CRASH PAD DEFLECTION
+SCIENTIF I FLIGHT NO.1
+153
+The initial volume was again 16 feet?, and acceleration to the telescope was calcu-
+lated here to be slightly less than three g's.
+One feature I would like to point out is the deformation of the metal floor of the
+crash pad. This is by design, since we wanted as much of the weight of the pad as
+possible to contribute to energy absorption. In this case the floor absorbed about
+half as much energy as the foam.
+In closing I would like to say that the Stratoscope II Program would still be
+receptive to other materials which might offer advantages over Armalite, and we
+are looking with interest at the future development of friction devices.
+VOLUME
+REDUCTION
+7 cu. 11.
+Figure 15. Crash Pad Deflection Scientific Flight No. 1
+CRASH PAD DEFLECTION
+SCIENTIFIC FLIGHT NO.2
+VOLUME
+REDUCTION
+4 cu. ft.
+Figure 16. Crash Pad Deflection Scientific Flight No. 2

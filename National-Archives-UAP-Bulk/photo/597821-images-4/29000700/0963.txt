@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:02:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5149515, "source_ctime_ns": 1793388281020020876, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000700/0963.jpg", "source_mtime_ns": 1785748436000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000700/0963.jpg", "source_sha256": "3cd24e4354ecc11e574af19d1e0ee785e3ab5863b37a9f99725e40bbe0ab92f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 909, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EDWARD J. LINEHAN
+Box 24-L. ROUTE 2
+LORTON, VIRGINIA
+May 21, 1963
+Dr. J. A. Hynek
+Dearborn Observatory
+Northwestern University
+Evanston, Illinois
+Dear Dr. Hynek:
+The enclosed slides were taken on May llth between
+2 and 2:30 PM, EDST, with a Leica M3, Summaron F 3.5 cm
+wide angle lens, at f16 and f22 apertures.
+You will notice that slides 3,4,5 and 7 show disc
+shaped sun reflections. These appear only where the
+sun was framed deliberately in the viewfinder. Possibly
+the same effect was produced by my own lenses, which
+are corrected fo: my extreme near-sightness. My sun
+glasses are stronger than the others. And, of course,
+there may be no relationship.
+Since we discussed sources of reflection, I do want to
+remind you again that we have a small pond at the foot
+of our property which was clear because of the dry
+weather we were experiencing.
+I hope the slides will be helpful to you.
+Sincerely yours,

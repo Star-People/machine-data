@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:08:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6476132, "source_ctime_ns": 1793377322994871811, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963274/1276.jpg", "source_mtime_ns": 1785696783000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963274/1276.jpg", "source_sha256": "b077832ff5dd8a9f9b6e85cb7125c69a51066aa802d18b44b3bef8f24becbb6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 649, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+25 Aug 55
+3. DATE-TIME GROUP
+Local
+GM T
+26/01562
+5. PHOTOS
+• Yes
+Xu No
+7. LENGTH OF OBSERVATION
+see rpt
+10.
+BRIEF SUMMARY OF SIGHTING
+ATIC FORM 329 (REV 26 SEP 32)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Forland, Missouri
+TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6. SOURCE
+Q Ground-Radar
+• Air-Intercept Radar
+military
+8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Poss
+Laver
+Insufficient Dota for Evaluatior
+Unknown
+9. COURSE
+See rpt
+11. COMMENTS
+Classified sighting, see rpt.

@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:19:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9928405, "source_ctime_ns": 1793363952093604122, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0053.jpg", "source_mtime_ns": 1785684960000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0053.jpg", "source_sha256": "78f03abf31edd42cebb44e64c0e09773a21472e3d0f9ecec959b079b62832e01"}
+
+===== PAGE 1 =====
+{"alpha_words": 236, "chars": 1536, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+RGG/ACM/blh
+File No: 24-0
+SUBJECT:
+Unknown Subject, Balloon
+sighted 15 miles east of
+December 31, 1950
+THE INSPECTOR GENERAL USAF
+17TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+KIRTLAND AIR FORCE BASE, NEW MEXICO
+January 1951
+ith cylinder attached
+Los Alamos, New Mexico,
+NR
+NR
+Mr. PercyạẠ¿ly II
+Special Agent in Charge
+Federal Bureau of Investigation
+906z W. Park Ave.
+Albuquerque, New Mexico
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF
+BY
+Historian
+4 DEC 1975
+DATE
+Dear Mr. Wyly:
+Reference is made to your letter dated 8 January 1951, file
+and subject as above.
+It has been determined that neither the United States Air
+Force Units operated at Kirtland AFB nor the University of New
+Mexico had any information relative to the balloon to which
+reference was made in above cited letter.
+Therefore, in the
+event that such a balloon was released in this area, the individuals
+releasing same are not believed to be members of the United States
+Air Force, but may have been individuals at Sandia Base Military
+Installation or by others not falling within the jurisdiction of
+this Organization.
+Inasmuch as Special Agent TED WALTERS of this Organization
+was in Los Alamos during the past week, he took the occasion to
+so notify Mr. SKIPPER.
+Your interest in this matter and the forwarding of the data
+is very much appreciated by this Organization.
+UNCLASSIFIED
+Sincerely,
+RICHARD G. COX
+Major, USAF
+District Commander
+fuel 5 (2)
+Declassification Authority: NND 923007

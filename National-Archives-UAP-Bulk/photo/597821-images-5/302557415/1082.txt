@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:46:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 777667, "source_ctime_ns": 1793391294696139091, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557415/1082.jp2", "source_mtime_ns": 1785808377000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557415/1082.jp2", "source_sha256": "af8c1cb312b986cf31c9702f43a1bd2b5208b7486d3934d790033169ed373af5"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 1033, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO 45433-
+UNITEN
+REPLY TO
+ATTN OF:
+SUBJECT:
+TDET/UFO
+UFO Observation, 30 October 1966
+DEC 1 6 1966
+TO:
+104th Tactical Fighter Group
+Our office is in receipt of a reported UFO observation over the
+Southampton, Long Island, New York area. A check of our Flip
+Low Altitude High Speed Training Route Chart indicates that your
+group is engaged in training flights over the area in question.
+Request information on participation by the 104th Tactical Fighter
+Group on Barnes 3 low altitude, high speed route on the afternoon
+of 30 October 1966.
+FOR THE COMMANDER
+LOUIS DeGOES, Colonel, USAF
+Director of Technology and Subsystems
+1st Ind
+20 Dec 66
+104 Tac Ftr Gp
+TO: TDET Wright¿Patterson AFB, Ohio 45433
+On the above cited date this organization did not perform any
+flying in our prescribed local area; specifically the Barnes #3
+Low Altitude Route.
+FOR THE COMMANDER
+catalen
+BRUNO J GRABOVSKY, ItCol Mass
+Deputy for Operations

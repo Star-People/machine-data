@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:51:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1689314, "source_ctime_ns": 1793391121603633115, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555683/0861.jp2", "source_mtime_ns": 1785808421000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555683/0861.jp2", "source_sha256": "08c375fff86b49386bedfaf6d48aecc7f63fe023651605e7a687407b27597de1"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 928, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+8 Sept. 66 1450Z
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+45 seconds
+TYPE OF OBSERVATION
+Ground Visual
+7. COURSE
+NE
+8. PHOTOS
+• Yes
+i No
+9. PHYSICAL EVIDENCE
+1 Yos
+· No
+FORM
+FTD SEP 63 0-329 (TDE) Prevlous editione
+2. LOCATION
+Fort Wayne, Indiana
+10. CONCLUSION
+Aircraft (possible) &
+and for 164
+11. BRIEF SUMMARY AND ANALYSIS
+Observer noted circular object slightly larger than a
+grapefruit at arms length. The object was silvery white
+and was very bright and of constant intensity. When first
+observed the object was traveling from the NE to SW in a
+desending attitude. Object turned due west, maintained
+this heading momentarily then altered course to the NE.
+Faded from view in the NE.
+Description is consistent with that of an aircraft.
+Without any estimate of altitude, speed, rate of
+descend,
+etc. a comprehensive evaluation is not
+warrented.
+• used.

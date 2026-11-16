@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:09:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6572371, "source_ctime_ns": 1793380136882738600, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974674/1118.jpg", "source_mtime_ns": 1785701054000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974674/1118.jpg", "source_sha256": "eb8a9767dc219a477344ba45d9cbcfc2dcf5a5d30cddcd0ead49c14dd8073f94"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 378, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ Witness
+100 10013 21
+T VPG174 YDC111 XYA278 XDA114J A1340
+PP RJEDDN RJEDWP RJEPHQ
+DE RJWPJE 7G -
+P 1316457
+PM COMDR 751 ACURON MT LAGUNA CALIF
+TO RJEDDN/COMDR ADC
+RJEDWP/COMDR AIR TECH INTELL CENTER
+RJEPHO/DIR INTELL HO USAF
+RJUPJE/COMDR 27TH ADIV
+UNCLAS 751ST 1220-J
+ROUND PD
+PEA PD.
+ERIGHT WHITE/PD
+D. ONE PD
+=• N/A PD
+F. NONE PD
+G. NONE PD
+H. NONE PD
+I. NONE PD
+Ц₴}
+4-4X20

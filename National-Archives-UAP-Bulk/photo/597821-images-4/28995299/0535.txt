@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:58:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4246599, "source_ctime_ns": 1793386229765973910, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995299/0535.jpg", "source_mtime_ns": 1785748564000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995299/0535.jpg", "source_sha256": "b73530f0bbe5f21466dff91d31e0d2b9637e987e94dc541d5d9ab63375f560a0"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 462, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORC
+STAFF MESSAGE BRANCH
+UNCLASSIRED MESSED
+INCOMING
+AF IN : 39461 (25 Oct 61)
+Pg 3 of 3
+PAGE THREE RJEZBL 3
+(5) UNK
+(6) UNK
+(7) UNK
+H. UNK
+1. NONE
+J. UNK
+K. LT.. COL.
+CONTACTED COL. LEO M. BRAUN, AIR FORCE
+INTELLIGENCE CENTER, WASHINGTON, D.C. HOME PHONE WE-8-9191 OR
+CODE 189 EXT 446. PD ABOVE INFORMATION FURNISHED HQ CMD STAFF
+DUTY OFFICER BY COL. BRAUN PD
+L. UNK
+BT
+NOTE:
+25/0348Z OCT RJEZBL
+ADV CY DELIVERED TO CIN AND 0OP-CP 250040

@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:16:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8548910, "source_ctime_ns": 1793387535939602990, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998818/0803.jpg", "source_mtime_ns": 1785747976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998818/0803.jpg", "source_sha256": "35b32ce1a7c5b56f6458ba528d61df4f36def8d94b9dd6682bf1a4e5d2164161"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2 LOCATION
+2U55
+3. DATE-TIME GROUP
+Local _
+GMT_
+3. PHOTOS
+1962
+TYPE OF OBSERVATION
+- C-Ground-Visual
+D Air-Visual
+6. SOURCE
+• Yes
+I No
+7. LENGTH OF OBSERVATION
+CIVILIA:
+3. NUMBER OF OBJECTS
+one
+JO. BRIEF SUMM
+MARY OF SIGHTING
+centor & w/vertical fins around
+black obj round w/a dome in the
+the
+outaide edge. No lights,
+no sound.
+Estimated alt 300
+to 500ft.
+Disapponr
+ed while climbing rapidly at a great
+rate of speed.
+New
+IPKICO
+• Ground-Radar
+• Air-Intercept Radar
+9. COURSE
+12. CONCLUSIONS
+• Was Balloon
+Probably Balloon
+Possibly Balloon
+a
+Was Aircraft
+Probabiy Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+a Insufficient Data for Evalu
+Unknown
+11.
+COMMENTS
+Insufficient data.
+ATIC FORM 329 (REY 26 SEP 52)

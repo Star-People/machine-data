@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:44:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 427873, "source_ctime_ns": 1793394401273396356, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-010-0011.jpg", "source_mtime_ns": 1785567365000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-010-0011.jpg", "source_sha256": "4f3e04410c93f82019d2b559298959df3a8acbff2f49c72e283f8c2c8277c439"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 61, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+AR
+sar
+Johe Gallagher
+1015 Baywood st
+Ca.
+Las topeles, 9o079

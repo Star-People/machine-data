@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:48:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 832424, "source_ctime_ns": 1793390256240425178, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548383/0895.jp2", "source_mtime_ns": 1785808543000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548383/0895.jp2", "source_sha256": "81dd2c35cd090d2a8a68880ca78119ec7b5cc8b44729cfec228554044fb149a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 507, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS 2856TH AIR BASE GROUP (AFLC)
+GRIFFISS AIR FORCE BASE, NEW YORK 13442
+REPLY TO
+ATTN OF:
+ROBOF
+SUBJECT: UFO Reports
+29 March 1966
+Foreign Technology Div
+(TDEW/UFO
+AFSC, Wright Patterson AFB, Ohio 45433
+Forwarded are two (2) UFO reports received at this base. No further
+information was uncovered in the preliminary investigation.
+FOR THE COMMANDER
+WILLIAM H.
+CARRING TON
+Major, USAF
+Chief, Base Operations & Training Div.
+2 Atch
+1 •
+UFO Rpt 3/27/66
+2. UFO Rpt 3/28/66

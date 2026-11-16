@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:06:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5828275, "source_ctime_ns": 1793381826988519065, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981745/0225.jpg", "source_mtime_ns": 1785700875000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981745/0225.jpg", "source_sha256": "c911d0e41c6e3182621b8ebb5c0300094966e1b2b4e31bab3a8593a47768001e"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 990, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+I. DATE
+2. LOCATION
+16 Jan 59
+3. DATE-TIME GROUP
+Local NOOn
+GM T.
+5. PHOTOS
+itschau, Czechoslovakia
+4. TYPE OF OBSERVATION
+LI:Ground- Visual
+• Air Vi suol
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+›IX No
+7. LENGTH OF OBSERVATION
+Civil Police
+8. NUMBER OF OBJECTS
+9. COURSE
+2 mins
+one
+10. BRIEF SUMMARY OF SIGHTING
+Luminous round flying obj crossed Czech
+border ihbo Austråa, soared steeply upward
+at immense speed while emitting a hissing
+noise. Obj circled and returned across
+czech border. Speed estinated at 3X speed
+of Austrian A/C. Observed for 2 mins. At
+time assumed guided missile by observers.
+12. CONCLUSIONS
+Was Balloon
+Probably Balicon
+Possibly Balloon
+Was Aircraft
+Probably Aircraf
+Possibly Aircraf
+:D:
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Poss Cuided
+Mi as
+Insufficient Date for Evaluation
+Unknown
+11. COMMENTS
+No reason to deviate with witness
+analysis. Assumed guided missile.
+ATIC FORM 339 (REV 26 SEP $2)

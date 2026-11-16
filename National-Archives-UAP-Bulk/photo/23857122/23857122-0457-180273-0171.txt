@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:27:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18056784, "source_ctime_ns": 1793356557547965212, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0171.tif", "source_mtime_ns": 1785564722000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0171.tif", "source_sha256": "4ba11950f902431e50cf2375e21f010e37bf649863aa3cca08b44b2232e164ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 318, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #76 - Salmon Dam, Ideno -- 13 August 1947
+There does not appear to be anything astronomical about
+this incident•
+Although sighted on the same day as the sky-blue canyon
+saucer (incident 775), the objects described here seem to have
+little or no similarity to the former.
+Declassification Authority: NND 57565

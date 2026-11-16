@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:56:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4029659, "source_ctime_ns": 1793375886494655550, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958183/1174.jpg", "source_mtime_ns": 1785697007000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958183/1174.jpg", "source_sha256": "546853d4fdda39cd658276e2e4948cf3eedc541e64a4126696b12d5ceb460a90"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 433, "method": "ocr", "page": 1, "variant": "plain-vision"}
+51.3i0
+HEADQUARTERS SECOND ARMY
+FORT GEORGE G. MEADE, MARYLAND
+UNCLASSIFIED
+AIABE-O
+SUBJECT: Letter of
+24 May 1954
+TO:
+Commanding General
+Stewart Air Force Base
+Newburgh, New York
+Forwarded for your information is the attached letter reporting an uni-
+dentified aerial object.
+FOR THE ASSISTANT CHIEF OF STAFF, C2:
+1 In cl:
+Itr,
+subject
+as above, dtd
+11 Hay 1954.
+CEORGE I. WALKER
+Colonel
+GS
+Executive Officer
+UNCLASSIFIED
+154-856KA

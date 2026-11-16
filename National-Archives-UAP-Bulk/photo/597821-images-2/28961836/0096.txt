@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:12:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7883708, "source_ctime_ns": 1793376721250216352, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961836/0096.jpg", "source_mtime_ns": 1785696672000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961836/0096.jpg", "source_sha256": "8c36126f284bbed4571acb1ebac96a8b582f5e69343c03adece9466cf50f73bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 949, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFCB INDEX CARD
+1. DATE
+28 April 1955
+3. DATE-TIME GROUP
+Local
+GM T 28/1820Z April 1955
+5. PHOTOS
+• Yes
+M No
+7. LENGTH OF OBSERVATION
+One hour and fifty-six Min.
+10. BRIEF SUMMARY OF SIGHTING
+Che (L) object, round, white, sharpley defined
+edges, estimated at 30,000 faet, to be approx
+30 feet in diameter. Theodolite eyepiace used
+by o'bserver.
+2. LOCATION
+Dahlgren, Virginia
+4. TYPE OF OBSERVATION
+I Ground-Vi sual
+• Air- Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Military (USN)
+8. NUMBER OF OBJECTS 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+* Was Astronomical LuPiTER
+Probably Astronomica
+•
+Possibly Astronomical
+Other
+Insufficient Data for Evaluatio
+Unknown
+One (1)
+Semi-Stationary
+11. COMMENTS
+Observer commented that the object
+looked like a balloon.
+Investigation
+Rasonda balloon relaade
+by the Norfolk Naval Base.
+JUPITER!? )
+AISOP Form 5 (15 Oet 54)
