@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:02:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3504428, "source_ctime_ns": 1793373520792947187, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947348/1134.jpg", "source_mtime_ns": 1785688996000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947348/1134.jpg", "source_sha256": "96790a6ae0fb821b7074a48382789d6ab4a179b534bea560161e7073eec5dbe5"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 678, "method": "ocr", "page": 1, "variant": "plain-vision"}
+00
+AIR TECHNICAL INTELLIGENCE CENTER
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+3 AUG 1352
+P... ї
+A/30 John V. K. S1100x
+Hao & Hao Sa.
+127 PIt.
+Tag.
+Wing
+Luke ArB, Arizona
+DoRr Sir:
+Your recent report of unidentified serial phenomena has been
+rooeived by
+the Air Toohnical Intolligence Center.
+Inolosed la a
+questionnaire, which, when comploted by you and returned in the
+inclosed, solf-addressed envolope, will aid in standardising the
+data and
+will provide a complete record of the occurrence.
+Your interest in roporting the matter and your publie spirited
+dosiro to be of servics aro grostly approciated.
+Binooroly yours,
+2 Inele
+ROBERT L. KENNEDY
+USAT
+Air dafutant Cores
+7-3719-5

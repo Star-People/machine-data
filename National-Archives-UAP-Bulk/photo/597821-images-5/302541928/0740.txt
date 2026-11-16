@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:56:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1704957, "source_ctime_ns": 1793389570612585875, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541928/0740.jp2", "source_mtime_ns": 1785808088000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541928/0740.jp2", "source_sha256": "37c6c590787ac8625b3d3ae26079df0e9f5730b469fa8da0db67fdf323571f24"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 491, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+5 August 55 05/13112
+3. SOURCE
+Military
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+Not Reported
+6. TYPE OF OBSERVATION
+Aiz-7igual
+7. COURSE
+Rising
+8. PHOTOS
+• Yes
+9. PHYSICAL EVIDENCE
+• Yes
+TENO
+FORM
+FTD SEP 63 0-329 (TDE)
+2. LOCATION
+28,33N 145W (Pacific)
+10. CONCLUSION
+FO CKET
+Rocket launched from USS Buchanan at approzimate time of observatic
+11. BRIEF SUMMARY AND ANALYSIS
+Object appearing to be a sufface launched rocket observed
+disappearing into clouds.

@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:29:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8621260, "source_ctime_ns": 1793383052966476892, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986240/0006.jpg", "source_mtime_ns": 1785748331000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986240/0006.jpg", "source_sha256": "52e73fdc28784ee5877e0eff5e2edcea93311d4cc04a535b86accd80fef29d48"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 803, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MELITARY AIR
+1. PATE
+22 Nr 60
+3. DATE-TINE GROUP
+Local
+GMT 23/ 06352
+5. PHOTOS
+DY›s
+CE No
+7. LENGTH OF OBSERVATION
+Not given
+10. BRIEF SUMMARY OF SIGHTING
+Bright green light descending in are at the
+rate of a burning flare.
+Appeared to hit
+ocean.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Vicinity Havaiian Islands
+4. TYPE OF OBSERVATION
+• Ground-Visual
+X Air Vi suol
+• Ground-Rodar
+D Air-Intercept Radar
+6. SOURCE
+Military
+3. NUMBER OF OBJECTS |
+9. COURSE
+one
+Descending
+11.
+CONNENTS
+12. CONCLUSIONS
+Wes Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Meteo
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unknown
+Description given is sinilar to a type
+of neteor called a fireball.
+ATIC PORM 32
+RSY 25 SEP 52)

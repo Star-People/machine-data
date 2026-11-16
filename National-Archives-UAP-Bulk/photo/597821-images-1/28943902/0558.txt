@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:11:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4899972, "source_ctime_ns": 1793372726964393775, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943902/0558.jpg", "source_mtime_ns": 1785688517000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943902/0558.jpg", "source_sha256": "53deb72df920cfccc4698a5a14ce250fed620831f513cf3b9f9cf9390fd1ec8d"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 613, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OBJECT WAS ALSO SIGHTED FRON SAN FERNANDO VALLEY TOWER BY JAMES G
+PD 9330Z ZEBRA WEATHER AT VAN NUYS WAS CLEAR VISIBILITY FIFTY MILES
+TEMPERATURE 71 DEGREES DEW POINT 43 WINDS. SOUTHEAST SEVEN MPH ALTIMETER
+2989 WINDS ALOFT AT TEN THOUSAND FEET EIGHTEEN MPH FROM 225 DEGREES
+CHA TWENTY THOUSAND FEET SEVENTEEN MPH FROM 250; DEGREES CMA THIRTY
+THOUSAND FEET 24 MPH FROM 239 DEGREES CMA FORTY THOUSAND FEET 49 MPH
+FROM 240 DEGREES CMA FIFTY THOUSAND FEET TWENTY MPH FROM 220 DEGREES
+CMA SIXTY THOUSAND FEET THIRTEEN MPH FROM FIFTY DEGREES PD END
+GRIFFING CO MARCH FLT SV CEN MARCH AFB CALIF
+11/1613Z JUL JMPRH
+Cy-1

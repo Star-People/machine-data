@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:06:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4000047, "source_ctime_ns": 1793386756243410333, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997272/0869.jpg", "source_mtime_ns": 1785747995000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997272/0869.jpg", "source_sha256": "8ac160c43ffe445232c8ae44538fcdd70f9bef16880dbb5be3b61c4d6b652971"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 737, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+3. DATE-TIME GROUP
+GM T.
+5. PHOTOS
+2002
+• Yes
+• No
+• LENGTH OF OBSERVATION
+nO E
+FOLO
+10. BRIEF SUMMARY OF SIGHTING
+105.20E
+4. TYPE OF OBSERVATION
+20. Ground-Visual
+• Air- Visual
+6. SOURCE
+SS Was
+ton
+B. NUMBER OF OBJECTS | 9. COURSE
+EWO
+4-engine a/c with red markings
+flew low over ship. Spept wing, yot
+mid wing, speed 250 knots. Red
+on tail & red star.
+• Ground-Radar
+• Air-Intercept Radar
+Bear
+12. CONCLUSIONS
+Was Balloon
+Probably Balioon
+Possibly Balloon
+Was Aireraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+Rpt of Ic. Evaluated as no threa
+ATIC FORM 329 (REY 26 SEP 52)

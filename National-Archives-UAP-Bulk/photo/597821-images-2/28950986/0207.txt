@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:08:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4224222, "source_ctime_ns": 1793374271515207301, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950986/0207.jpg", "source_mtime_ns": 1785696904000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950986/0207.jpg", "source_sha256": "6c770ab0a6a57a240fb3e347b6356c52c1b4407dc910067c16a51441614009fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 262, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 Me re ; ke,
+
+tw ay.
+
+‘Inelg ert
+
+a
+
+#1, Stetement, Lt, Baldwin, 27 Oct 59, (1-2n)
+T52=20651=A3
+9, Statement, Lt, Goldman, 27 Oct 52, (1-1n)
+T52—=20651=B 3
+#3, Statement, Lt's Getchell & Kovacs, 27 Oct 52,
+(2=20) 752—20651-C;
+th, Mep, n/a, (1-10) 152-20651-D;

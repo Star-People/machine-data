@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:22:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7195274, "source_ctime_ns": 1793362631045462217, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0064.jpg", "source_mtime_ns": 1785685002000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0064.jpg", "source_sha256": "243958fc8540e1713e7eba5fdf782f0345625562b9a610fe3b14e639eda3fcd9"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 536, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE ARMY
+OFFICE OF THE ASSISTANT CHIEF OF STAFF, 6-2, INTELLIGENCE
+WASHINGTON 25, D.C.
+ACSI-SPD-S
+29 February 1956
+MEMORANDUM FOR: DIRECTOR OF SPECIAL INVESTIGATIONS
+Department of the Air Force
+SUBJECT:
+Unidentified Flying ObJect
+The attached Summary of Information pertaining to an unidentified
+flying object is furnished for your information and any action
+deemed appropriate.
+1 Inci
+SOI dated 24 Feb 56
+Ir G2, First Army
+I Sniden
+M. A. QUINTO
+Colonel, GS
+Chief, Security Division
+Declassification Authority: NND 923007

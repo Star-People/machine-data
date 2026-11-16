@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:16:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6085971, "source_ctime_ns": 1793378582304972216, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968475/1390.jpg", "source_mtime_ns": 1785696673000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968475/1390.jpg", "source_sha256": "dca42053c30bb8022dd77b01cb04e392a27c45639921a388f8e829dadd1c6845"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 875, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+27 November 1956
+3. DATE-TIME GROUP
+Local _
+2030
+28/0130Z
+GM T
+5. PHOTOS
+• Yes
+XINo
+7. LENGTH OF OBSERVATION
+Dayton,
+_ Ohio
+4. TYPE OF OBSERVATION
+XIX Ground- Vi sual
+• Air Visual
+SOURCE
+Civilian
+NUMBER OF OBJECTS
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloor
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+• , Other.
+Insufficient Data for Evaluation
+Unknown
+one
+10. BRIEF SUMMARY OF SIGHTING
+One object, round, size larger than
+moon. Color orange, had intermittent
+red flames. Object
+exploded and
+seemed to fall to ground. Speed fast.
+Looked like piece of paper burning &
+going through air.
+9. COURSE
+the
+WNW
+11. COMMENTS
+Insufficient data. Duration, not
+reported. Possible meteor.
+ATIC FORM 329 (REV 26 SEP 52)

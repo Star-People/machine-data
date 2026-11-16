@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:13:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5227530, "source_ctime_ns": 1793382976381281642, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986009/1225.jpg", "source_mtime_ns": 1785748073000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986009/1225.jpg", "source_sha256": "95c05b91885f256572cdc59310b71cc4ee9cd6a1247ed403d6af1020bcc5ca43"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 571, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN.: 27109 (27 Feb 60)
+R/L/cas
+ACTION: CIN
+ARMY, JCS, OSD, NSA, CIA, OOP, OOP-CE,
+NNNN SMD B 076
+CZCHQD27 1ZCBJA 086
+00 RJEZHQ
+DE RBEJO 34
+0 270300Z
+FM COMCARIBSEAFRON P. R.
+TO RBEK C/CINCLANTFLT
+RJWFALB/CINCNORAD
+RJEZHO/COFS USAF WAS DC
+RBEPW/ CNO
+SAFS
+0 2623152
+FM USS TRINGA
+TO COMCARIBSEAFRON
+SAFO3
+TRINGA PONCE ARBOR SIGHTED BRILLIANT FLASH TRAILING SMOKE
+261850Q BRG 330 DEG EST ALT 30000 FT EST COURSE 270 DEG X
+POSSIBLE AIRCRAFT ACCIDENT SMOKE REMAINED NO C UTES SIGHTED
+ВГ
+CFN 2618520 332 30000 270
+27/ 03002
+NOTE : ADVANCE COPIES DELIVERED TO CIN AND OOP-CP

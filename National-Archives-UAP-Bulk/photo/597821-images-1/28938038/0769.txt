@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:03:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3675973, "source_ctime_ns": 1793371388528846240, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938038/0769.jpg", "source_mtime_ns": 1785688924000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938038/0769.jpg", "source_sha256": "46b1e2bbd14ac595a42595b863bb397e07d6653844a75300f70db0a03263d9f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 14, "chars": 89, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDEN HAL
+SO SADID AT 3 YEAR INTERVA
+ID AFTER 12 YEARS.
+DOD DIR 5200.10
+UNC! ASSIFIED

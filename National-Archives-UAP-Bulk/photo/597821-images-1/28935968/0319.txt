@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:01:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3303876, "source_ctime_ns": 1793370947939116472, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935968/0319.jpg", "source_mtime_ns": 1785688524000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935968/0319.jpg", "source_sha256": "5464bcd62ac9495b4d3a2b68e758d3fb216a5b40a85f16443f9621b79f06528c"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 604, "method": "ocr", "page": 1, "variant": "plain-vision"}
+!
+PROJECT 10073 RECORD
+1. DATE • TIME GOUP
+21 Jul 49
+3. SOURCE
+21/20132
+Military
+4. NUMDER OF OBJECTS
+- TWO
+5. LENGTH OF OSSERVATION
+3 Seconds
+6. TYPE OF OBSERVATION
+Air Visual
+7. COURSE
+337 deg approx
+¡ 3. PHOTOS
+• Yes
+9. PHYSICAL EVIDENCE
+• Yos
+FORi
+FTD SEP 63 0-329 (TDE)
+2. LOCATION
+Mount Pleasant, Utah
+10. CONCLUSION
+INSUFFICIENT DATA FOR EVALUATION
+11. BRIEF SUMMARY AND ANALYSIS
+The objects were sighted under the nose of the aircraft on a
+head on approach curving slightly to their own ieft.
+The
+elapsed time of the visual sighting was 3 seconds. None of
+the other crew members saw the objects.

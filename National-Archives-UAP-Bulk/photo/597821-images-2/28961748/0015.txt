@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:16:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5939054, "source_ctime_ns": 1793376683815747450, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961748/0015.jpg", "source_mtime_ns": 1785696792000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961748/0015.jpg", "source_sha256": "7138a0d393f4c6b05cafc661b4271ebde81af1fc490326143e2fba353e56fa39"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 1043, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+12. CONCLUSIONS
+Was Balloon
+18 April 1955
+3. DATE•TIME GROUP
+Local
+GM T
+19/01002
+5. PHOTOS
+Decatur, Georgia
+4. TYPE OF OBSERVATION
+XX Ground- Visual
+D Air- Visual
+6. SOURCE
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+D Air-Intercept Radar
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+• Yes
+Probably Astronomical
+BINO
+Civilian (ll yr old)
+Possibly Astronomical
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+| 9. COURSE
+D, Other
+Insufficient Data for Evaluation
+Unknown
+approx 5 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Observer looking west through a
+pair of toy binoculars and he
+observed a white light in the sky.
+Light traveling slowly to the
+west. Disappeared after approx five
+minutes.
+westerly
+11. COMMENTS
+Age of source finitely
+a factor although Flight
+2-C reports he probably did
+see an obj. Follow up inves-
+tigation came to no definite
+conclusions but in their
+opinion the sighting was
+probably a balloon of the
+radio-sonde type.
+ATIC FORM 329 (REV 26 SEP 52)

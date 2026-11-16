@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:25:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8167521, "source_ctime_ns": 1793387432374525908, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998674/0680.jpg", "source_mtime_ns": 1785748566000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998674/0680.jpg", "source_sha256": "46ccee15927d89b22a9ffe931f3bcceb3b09ca6e75e706a1b5ea8f1f64756648"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 598, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICIAL FILE COPY
+1 October 1963
+Request for UFO Information (Letters From NASA)
+OFFICIAL FILE COPY
+HO USAF
+SAPOI-Sb (Hajor Hart)
+Waah 33, DC
+1. Reference the attached letters forvarded to this offica from
+Che NASA requesting information on unidentified flying objects.
+These letters are forvarded to your office for whatever action
+you deem nacessary.
+The tin foil referred to in these letters is chali, proba-
+biy dropped by USA? Aircraft during a practice alasion.
+FOR THE COMMANDER
+Colonel, USA?
+Deputy for Science
+and Components
+2 Atchs
+Ler In Mr,
+dtd 13 Sep 62
+Lee in urs. in
+did 10 Sep 62.

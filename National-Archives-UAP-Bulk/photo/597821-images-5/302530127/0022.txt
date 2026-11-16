@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:58:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1733941, "source_ctime_ns": 1793388593363914372, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530127/0022.jp2", "source_mtime_ns": 1785808269000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530127/0022.jp2", "source_sha256": "6826e8328d1293e87aa4f8521d5d93574fc05bb86ca16a5482268173bb01297c"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 356, "method": "ocr", "page": 1, "variant": "plain-vision"}
+002 HQA395
+RE RUCDSO
+DE RUALKM 5333 01/1310Z
+UNCLASSIFIED
+IN BASE CRYPTOCENTER HICKAM AFB
+TO 1127 USAF FLD ACTY GP FT BELVOIR VACTS} 1! 332
+INFO DEA WASHDC
+PID WRIGHT PATTER ON AFB OHIO
+AFCS ANDREWS AFB MD
+CRI6089/01
+RR 0106577
+M USAIRA CANBERRA
+TIP7 USAF FLD ACTY GP FT BELVOIR VA
+INFO DIA VASHDO
+TO WRIGHT PATTERSON AFE ONIO
+ICE ANDRENS AFB MD
+Moonl
+= C

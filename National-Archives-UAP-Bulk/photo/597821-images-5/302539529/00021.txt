@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:52:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1103913, "source_ctime_ns": 1793389354778166363, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539529/00021.jp2", "source_mtime_ns": 1785808366000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539529/00021.jp2", "source_sha256": "d20d998df6dc4aab6610b03e1c6ce570dbc087845b9061ec09415f8c4dd68ee4"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 340, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Dear Sers:
+ReVeRe, MASS.
+I wrote to you and described
+an Unidentified
++ lying Olject to you
+which I had seen. you sent me this
+form which 2 have filled out to
+the vest or my
+ability. I hope t
+vill le of help to you. of you
+find anything interesteng after
+you study it, please contact me
+jours Truly
+mountain ave
+mass.
+92151
+august 27, 1965

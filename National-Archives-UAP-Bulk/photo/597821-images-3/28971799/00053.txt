@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:27:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8487290, "source_ctime_ns": 1793379256183155633, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971799/00053.jpg", "source_mtime_ns": 1785700662000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971799/00053.jpg", "source_sha256": "c0cac39627bcaf6c5f8ef2d0eb5a0c7f180e5180d77b92f455eb97b4730b82c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 768, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+24
+or 25 September 1957
+3. DATE-TIME GROUP
+. Locol.
+CMT 24-25/1000Z
+5. PHOTOS
+New York
+4
+Xfk Ground- Visual
+• Air Visual
+SOURCE
+• Ground-Roder
+• Air-Intercopt Roder
+• Yos
+XOX No
+7. LENGTH OF.OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+not rptd
+one
+10. BRIEF SUMMARY OF SIGHTING
+Light as large as fist moved
+from
+West to NE. Bright yellow ball of
+light. Looked like shooting star.
+Thought possibly satellite.
+NE
+11. COMMENTS
+Evaluated as
+ATIC PORM 329 (REV 26 SEP 52)
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+•
+Probably Aireraft
+Possibly Aireraft
+• X Was Astronomical
+Meteor
+robably Astronomic
+Possibly
+Astronomic
+Other.
+Insufficient Date for Evaluatior
+Unknown
+a meteor sighting.

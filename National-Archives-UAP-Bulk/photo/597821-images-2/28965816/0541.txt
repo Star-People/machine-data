@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:11:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4882764, "source_ctime_ns": 1793377881562949650, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965816/0541.jpg", "source_mtime_ns": 1785696828000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965816/0541.jpg", "source_sha256": "38431d3912df85a40292016570f2c06578c792cbb5bf4ea826a0cd47c0a16ac8"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 322, "method": "ocr", "page": 1, "variant": "plain-vision"}
+03/0255=
+2A118
+Mutti
+IN
+V
+35
+44956 0731
+4 4x7259117
+31
+C089 YDA279 TYD099 TMB287NBA297
+PP RJEPNY RJEPHO RJEDEN RJEDUP
+E RJEPNE S
+P 015 2
+W COMDR EADF STEWART AFB N Y
+CO RUEDE /CONDE ADC ENT AB COLORADO
+JER/CONDR 2STH ADOIN ROSLYLYN HY
+DED P/CONDR ATIC WRICHT PATTERSON AFB OHIO
+JERRO/DIRECTOR OF INTELL NO USAT WASH D C
+T

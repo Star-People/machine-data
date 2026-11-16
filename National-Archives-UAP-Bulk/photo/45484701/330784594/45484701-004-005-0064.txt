@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:21:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7071859, "source_ctime_ns": 1793363131634987654, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0064.jpg", "source_mtime_ns": 1785684739000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0064.jpg", "source_sha256": "c4d3e6b405f2ab2df69db74035d93bcf1179cba9f74e528e9100c4344154a0cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 765, "method": "ocr", "page": 1, "variant": "plain-vision"}
+d. Time and Date of Sighting:
+(1) About 0300 hours - 2d time 0800 - 30 June 61
+(2) Light conditions - just before dawn
+e. Location of Observer:
+110 Merryweather, Grosse Pointe, Michigan
+Identifying Information on Observer:
+Name: Mrs. GERALDINE T. KRIEGHOFF, housewife, age 38
+Residence:
+110 Merryweather, Grosse Pointe, Mich.
+Phone:
+TU 14577
+g. Observer's account of weather conditions - clear, no clouds at all.
+h. Weather Conditions:
+Selfridge AFB veather report for 0300, 30 June 61:
+Ceiling: 12000 ft - broken clouds
+Visibility: 6 miles - smoke
+Wind direction and velocity: WSW at 3 knots;
+no thunderstorms in area.
+GENE P. MORITZ
+Colonel, USAF
+Commander
+Copies to:
+Condr Selfridge AFB
+Hq USAF (AFISI-6D)
+FLEE MIEF DIA
+23
+Declassification Authority: NND 923007

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:21:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7073062, "source_ctime_ns": 1793383350806372173, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986797/0512.jpg", "source_mtime_ns": 1785748382000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986797/0512.jpg", "source_sha256": "7814fe0b90c215a4d1a17d0ebde043bfb88588ed4a82123b0c0b7c3b3bd61150"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 624, "method": "ocr", "page": 1, "variant": "plain-vision"}
+01-3d/tacker/am/77466
+17 May 1960
+Dear Mr.
+This ia to acknowledge your letter of 2 May
+regarding the sighting of an unidentified flying
+object by you and
+Your letter contained insufficient information
+for a valid conclusion. Therefore request you and
+complete the attached Air Force
+Questionnaire in regard to the sighting and forward
+the completed paper to the Aerospace Technical
+Intelligence Center, Wright-Patterson Air Force Base,
+Ohio.
+Sincerely,
+Inel
+LAWRENCE J. TACKER
+MaJor, USAn
+Public Information Division
+Office of Information
+Bayonne, New Jersey
+0272
+DALICE MED REVAICER
+00 1 1 00
+oi-3d comeback
+01-i
+reader
+on

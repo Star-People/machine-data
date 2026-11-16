@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:16:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6046271, "source_ctime_ns": 1793380315467458262, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975337/00252.jpg", "source_mtime_ns": 1785700871000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975337/00252.jpg", "source_sha256": "35593bd616bf8154bbd224a5e01e89cc5ada447d22a50d1a1f63f1a3f1ca7599"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 383, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJEDFL 2P
+G. NONE
+H. NONE
+I. NONE
+ITEM II
+A. BECAUSE OF AN AIRCRAFT IN AN ORBIT
+B. UNKNOWN -
+C. UNKNOWN
+D. UNKNOWN -
+E. VANISHED
+F.
+25 SECONDS
+ITEM III
+A. GROUND VISUAL
+B. NONE
+C. NONE
+ITEM IV
+A. 26/1720Z
+B. DAY
+ITEM V
+A. DK 5554
+ITEM VI
+Very limited informatier.
+PAGE THREE RJEDFL 2P
+A. M
+MR
+ATTORNEY,
+ITEM VII
+A. CLEAR WITH LITTLE HAZE
+NOBLESVILLE, IND.
+NOBLESVILLE, IND.

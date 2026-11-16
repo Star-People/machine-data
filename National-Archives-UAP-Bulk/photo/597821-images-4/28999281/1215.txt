@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:26:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8261032, "source_ctime_ns": 1793387840989263947, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999281/1215.jpg", "source_mtime_ns": 1785748185000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999281/1215.jpg", "source_sha256": "19f0e7e48906165f1d46702d1182e2b500b0bb5afc2ba487f0229e7bd7da3176"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 908, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+22
+September
+1962
+3. DATE-TIME GROUP
+Local
+23/06372
+GM T.
+5.
+PHOTOS
+17.
+acifie
+TYPE OF OBSERVATION
+D Ground-Visual
+3-Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+XA No
+7. LENGTH OF OBSERYATION
+Litary
+3. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircratt
+Probably Aircraft
+Possibly Aircraf!
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+aX Insufficient Data for Evaluati
+Unk no wn
+20
+seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+north
+11. COMMENTS
+Possible satellige in sight for 20.
+Possible satellite; however
+seconds. Brightness of 2nd magnitude sta
+F.ECHO I while in area (at 23/0633
+Altitude unknown. Extremely high speed.
+was at 40N 16,82E and was head-
+ing SE. Duration short for
+Satellite observation. Case listed
+as insufficient data.
+ATIC FORM 329 (RRV 26 SEP 52)

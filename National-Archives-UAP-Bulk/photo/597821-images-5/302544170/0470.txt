@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:57:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1733055, "source_ctime_ns": 1793389807833326518, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544170/0470.jp2", "source_mtime_ns": 1785808301000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544170/0470.jp2", "source_sha256": "9c4ee300b2e85ffb16f3b94a2a9142698c6ce927587339a1fc5455d7954a8b02"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 939, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NO CASE (INFORMATION ONLY)
+Satellite/ A/C observations.
+9 Sept 65
+Dayton, Ohio
+No CASE (INFORMATION ONLY)
+g Sept 65
+Parton, Ohio
+DEW®
+Maj Quintanilla
+During the night of 9 Sep I received six
+telephone reports from the Dayton area of
+a bright light traveling south to north
+about 2000 to 2030 hrs. The first three
+calls indicated that they had seen and
+reported similar observations during the
+previous week, and one individual claimed
+to have witnessed occ'rances for five or
+six nights.
+Since there seemed nothing
+abnormal and since you already have
+similar reports I filed no formal report.
+Capt. Dunlap Duty Officer
+TAME
+1923
+2071
+ELEV
+13.75-
+60 DEg
+P-IL
+DIRECTION
+SA TO SE
+E-2
+A MOVINS NE
+Note: Objects do not fall within the definition of
+Unidentified Flying Objects as per AFR 200-2.
+Satellites and moving lights near Air Fields
+withing capabilities of known A/C operating in
+that area are ink not to be
+max reported.
+SUT D. Moody.'

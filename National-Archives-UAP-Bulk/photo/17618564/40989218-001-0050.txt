@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:22:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7268368, "source_ctime_ns": 1793354646720159581, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0050.jpg", "source_mtime_ns": 1785564318000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0050.jpg", "source_sha256": "bee16660d6405592602918c883d90e0e18c041ea1d7d2173b2a72cfe8eabc8d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 314, "chars": 1912, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IO: Right; when do you intend to return, Doctor, tonight?
+Witness: Whenever I'm finished.
+IC: No objection.
+IO: I realize the position of the court in not being able to ascertain...to
+ask any questions at this stage of the game because they haven't heard Lieu-
+tenant Goodnough as a witness before the court to even...whether she has any
+credibility or just what weight is to be attached to her
+testimony; I separ-
+ate from that the competency of Lieutenant Goodnough which I've already ex-
+plained is the determination of the law officer. I suggest that we recess
+for lunch at this time.
+Pres: Would it be possible to ask one question?
+1O: Yes, sir.
+Pres: Doctor, this ability that you had to discern something different about
+this young lady, is that peculiar to your medical training or would it be an
+ability that we here might also enjoy...by her behavior?
+Witness: I suspect that you would have felt something but I undoubtedly
+carried it further because I had a more awareness of the implications.
+Pres: No further questions.
+IO: I suggest we recess until after lunch and...will Lieutenant Goodnough
+then be available?
+TO :
+She will be available whenever the president decides that we should re-
+turn from lunch.
+IO: When would you like to recess?
+Pres: Is she going to be available after lunch?
+TO: Yes, sir, she will.
+Pres: One o'clock; court will recess.
+The court recessed at 1145 hours, 13 August 1957.
+The court reconvened at 1312 hours, 13 August 1957.
+Pres: Court's in session.
+Asst TO: Let the record reflect all parties present when the court recessed
+are once again present.
+LO:
+The president of the court has indicated that a member of the court would
+like to ask a question of the witness and he was excused prior to this witness
+propounding his question; will you please call Doctor Rosewall back in?
+(Major Charles R. Rosewall (MC), a witness for the defense, was recalled
+as a witness.
+38

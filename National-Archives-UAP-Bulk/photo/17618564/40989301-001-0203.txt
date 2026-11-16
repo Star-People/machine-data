@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T18:51:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1102814, "source_ctime_ns": 1793356079351532426, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0203.jpg", "source_mtime_ns": 1785564601000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0203.jpg", "source_sha256": "50acd94def0bec161c6a63da88146aa2bbab0a64449fe9b70e256b70f4c21f24"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 451, "method": "ocr", "page": 1, "variant": "plain-vision"}
+6 V
+RATE
+SWITCH
+SIGMA
+RELAY
+HIGH ALTITUDE CONTACT
+COMMUTATOR-
+ANEROID BELLOWS
+DISPLAGEMENT
+SWITCH
+SOLENOID
+VALVE
+EV
+NOTES:
+BATT. PACK IN TRANSMITTER BOX
+SIGMA SENSITIVE TYPE 5F RELAY - COIL
+RESISTANCE - 16000 OHMS
+DISPLACEMENT SWITCH- E048-107
+RATE SWITCH-ED 48-115
+SOLENOID VALVE - ED48-110
+USE 4FH-6 V LITHIUM CHLORIDE BATTERIES (BURGESS)
+FOR DETAILS OF DISPLACEMENT SW. SEE ED48-126
+FI6. 9
+N/ 0102 PO
+BALLAST CONTROL
+CIRCUIT
+LHM
+1-12-48
+ED48-114 B

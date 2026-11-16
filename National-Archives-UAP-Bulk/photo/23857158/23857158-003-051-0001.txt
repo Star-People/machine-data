@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:12:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5174634, "source_ctime_ns": 1793358549834298161, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-051-0001.tif", "source_mtime_ns": 1785681126000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-051-0001.tif", "source_sha256": "4b91bd4551c3263f33aa41d9b3ec95e43767e1a8286f6969806284a96baf2815"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 734, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LCG
+REPORT NO.
+ATSS-UFOB-169-55
+2 DATE/TIME OF SIGRTING
+05/180LPDST Jme 1955
+4 LOCATION OF SIGHTING
+Santa Margareta, California
+5 MEANS RECD
+TT Mag
+7 INVES UNIT
+16 ACTION
+No Investigation Authorised
+8 DATE INVES ASSIGNED
+N/A
+10 DATE IR RECD H&
+/ 11
+DATE IR APPROVED
+11/д
+3 RECD HQ 4602D
+7 June 1955
+19 ASSIGNING OFFICER
+1/A
+12 DATE IR TO ATIC
+13 AISOP FORM 5
+7 June 1955
+14 COMMENTS
+Due to the sighting in the same locale as AISS UTOR-180-55 and at the
+approximate time, it is possible to correlate the mo and in the
+opinion of this headquarters the sighting is contributed to a possible
+ballooon.
+This area has many balloon launching sites.
+15 CONCLUSIONS
+AISOP FORM 7 (ZArR 55)

@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:29:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8648017, "source_ctime_ns": 1793381206458243952, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979584/1144.jpg", "source_mtime_ns": 1785700615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979584/1144.jpg", "source_sha256": "be00e007b67c98a02e249645a9327489cc7f8f513ab2e8f6f33c8817e5bbd42f"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1022, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+21 August 1968
+3. DATE-TIME GROUP
+Local _
+2130
+CM T.
+22/0:1302
+S. PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+26-30 mi N of Rock Strings
+TYPE OF OBSERVATION
+Wyoming
+@ Ground- Visual
+• Ground-Radar
+• Air Visual
+• Air-Intercept Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical .
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluatior
+Unknown
+3-5 secs
+one
+10. BRIEF SUMMARY OF SIGHTING
+Rnd ,
+green obJ, w/neon glow, size of
+pencil head. Disappeared downdard
+behind hill.,
+down
+11. COMMENTS
+The description
+is character-
+istic of a meteor.
+ATIC FORM 329 (REV 26 SEP 52)
+Witness
+RF972
+OC2CSQF119ZCDNB146
+RR RJEDSO
+DE RJEDDN 15
+R 222400Z
+PH COMDR ADC
+TO RJEDSQ/ COMDR ATIC.
+INFO RJEZHQ/ COFS HQ USAF
+not 1o c20.
+BT
+how
+/UNCLAS/ FR ADODI-B 155
+FOR AFCIN
+ANT OFFICE OF INFORMATION
+NOTE:
+SERVICE AT
+HQ USAF. THE FOLLOW-

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:04:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3849613, "source_ctime_ns": 1793373347976782091, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946480/0319.jpg", "source_mtime_ns": 1785688910000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946480/0319.jpg", "source_sha256": "d493795da86d5244c220ea96226022efeca7160ac27669d9ee91281be34115e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 179, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ . ’ ( / { i
+
+‘
+
+__ Fig. #4 0652 hrs.
+
+10
+
+rN
+
+&
+240°
+ALL RANGE MARKS ARE 5 MILES FOR A RADIUS OF 30 MILES FROM GCA UNIT
+NO CLOUDS, © NO WEATHER, VERY DEFINITE BLIPS
+
+ety es RE
