@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:29:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1283985, "source_ctime_ns": 1793356029691629162, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0073.jpg", "source_mtime_ns": 1785564587000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0073.jpg", "source_sha256": "824a37f47c5224a089e37e41fea7e4b25fd3e62a0d435b0d2c9a946a86ce28a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 255, "chars": 1769, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1•
+ABSTRACT
+Systems of constant altitude balloons have been designed, developed,
+tested and used in various types of atmospheric research. After
+investigation and testing of several methods, a system comprising
+oi a plastic fixed-volume balloon, electrically operated control
+instrumentation, and liquid ballast was developed.
+This system has been used on several series of flights for carry-
+ing instruments at constant altitudes, studying winds over long
+periods at the 200 mb level, and investigation of neutron maxima.
+Balloon launchings were carried out at various sites in the United
+States by members of the project in coordination with representatives
+of the sponsoring agency. Meteorological analysis of conditions
+over selected stations in the Western Hemisphere as requested by
+the sponsor was carried out by members of the Department of
+Meteorology of New York University.
+A. Introduction and Statement of Problem
+Contract W-28-099-ac-24l between Watson Laboratories AMC was
+entered into on 1 November 1946 to be carried out from 30
+September 1946 to 1 October 1948.
+Services to be furnished were as follows:
+Research, investigation and engineering services in
+connection with obtaining and furnishing experimental
+data on pressure and temperature in the upper atomosphere,
+to involve the following:
+a. The securing of constant level balloons under the
+following conditions:
+(1) Initially a six to eight hour minimum time
+for the balloon in air; eventually a forty-
+eight hour time for balloon in air.
+(2)
+The altitude to be attained by the balloon
+will be 10 to 20 km, adjustable at 2 km
+intervals.
+Maintain elevation within 500 meters and the
+frequency of oscillation to be such that it
+will not interfere with operation of balloon
+borne radio equipment.

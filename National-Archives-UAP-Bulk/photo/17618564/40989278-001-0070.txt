@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:28:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1199461, "source_ctime_ns": 1793355840748528479, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0070.jpg", "source_mtime_ns": 1785564538000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0070.jpg", "source_sha256": "1b8f9771a374c99546d324da4e0d48a9a1cb1823cf7cc6a4c3f95a7bc66cca66"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 490, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FEB-16-1996 11:22
+HQ AFTV CENTER
+703 693 6909
+P. 01/05
+HQ USAF TV CENTER
+11th Communications Squadron/SCUT
+1220 Air Force Pentagon
+Washington DC 20330-1220
+Rm SC1045/(703) 695-7317
+Facsimile Transmission
+TO:
+CARL
+M'Andrew
+ROM
+Pate
+MATZALOS
+PRECEDENCE:
+ORGANIZATION:
+PHONE NUMBER:
+FAX NUMBER:
+ORGANIZATION:
+PHONE NUMBER:
+FAX NUMBER:
+(703) 693-6909
+DSN 223-6909
+TOTAL NUMBER OF PAGES
+INCLUDING THIS TRANSMITTAL:
+COMMENTS:
+Please PAss tîęś
+Capt me Andrew
+DATE/TIME OF TRANSMISSION:
+SIGNATURE:

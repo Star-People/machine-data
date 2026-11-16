@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:58:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7473271, "source_ctime_ns": 1793377065449053812, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962604/0742.jpg", "source_mtime_ns": 1785696691000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962604/0742.jpg", "source_sha256": "b26489c66c8639edd883ca113e005b74ff0a6bc1f30575f59b05607a16860000"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 485, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATETIME GROUP. 02/0222 JU $5
+FAEDI
+SUBDECT: Transmittal of Documenta
+10 AUG 1355
+AUG 1/ REGU
+TO:
+Commander
+Air Defense Command
+ATTN: DCS/Intelligence
+Ent Air Force Base
+Colorado Springs, Colorado
+Forwarded herewith in accordance with ATOR 200-2 is unidentified
+flying object report from Headquarters 32d Alz Division (Defense).
+FOR THE COMMANDER:
+JW FOUNTAIN JR
+Major USAF
+Asst Adjutant
+3 Enels:
+1. Air Intal Info Rept
+2. UPOB Rept Format
+3. SOURCE'S Memory Sketch of
+Object's Flight

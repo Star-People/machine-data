@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:32:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1716116, "source_ctime_ns": 1793394063177488322, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302583346/0692.jp2", "source_mtime_ns": 1785808168000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302583346/0692.jp2", "source_sha256": "6dd215115ae1089bfb85d20f5b0131591a9852521308941af0628cb95606a657"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 817, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT
+O RECORD
+1. DAT
+TIME GROUP
+29/2130ł
+EDI
+30/01302
+2. LOCATION
+SOURCF
+10. CONCLUSION
+Probable Astro (MARS)
+NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+60 minutes
+TYPE OF OBSERVATION
+Ground-Visual
+COURSE
+in SE
+3. РHOТOЗ
+n Yea
+M No
+9. PHYSICAL EVIDENCE
+1) Yes
+11. BRIEF SUMHARY AND ANALYSIS
+The observer apparently sighted a light in the S& that was
+changing between white and red.
+She observed it for 45 to 60
+minutes before the clouds obscured it.
+COMMENTS:
+The observer was requested to complete an AP
+Form 117. This has not been returned as of 30 Jul 69.
+Wiel
+the information available, it appears the observer was looking
+at Mars which was at an elevation of 14 degrees and arimuth of
+138 degrees at the end of the sighting. At this time of year,
+Mars has a stellar magnitude of -1.9.
+FTD SEP 43 0-329 (TDE)

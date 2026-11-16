@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:28:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1206551, "source_ctime_ns": 1793394078922354623, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302583434/0964.jp2", "source_mtime_ns": 1785808545000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302583434/0964.jp2", "source_sha256": "4ff628531ad710696f4b25929b09da7c7888b557804ee6a7d992a00c238e2d14"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 438, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFR 80-17(C1)
+HAVE YOU EVER SE
+LOCATION.
+AR PHEN
+MINO
+X YES
+ANYONE WITH YOU AT
+L NO.
+YOU SAW THE
+T TOO?
+GIVE THE FOLLOWING
+MIDDLE
+NAME
+ION ABOUT YOURSELF
+ADDRES
+_UDING OCCUPA
+57
+AND ANY EXPERIENCE WI
+IXIMALE
+CH MAY BE PER
+FEMALE
+NE:
+WHEN AND TO WHOM DID YOU REPORT THAT YOU HAD SIGHTED THIS PHENOMENON?
+NAME
+26. DATE YOU COMPLETED THIS QUESTION
+DAY
+MONTI
+DAY
+MONTH
+YEAR
+21
+PAGE 8 QF 9 PA:
+Attachment 1
+(Becomes Attachment 1 to AFR 80-17)

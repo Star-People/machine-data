@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:02:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8546958, "source_ctime_ns": 1793354770580431886, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0133.jpg", "source_mtime_ns": 1785564337000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0133.jpg", "source_sha256": "12e023ef0a1c841e920cbb43f004110e4889728b80c8d3f46e1c1e332fd02a80"}
+
+===== PAGE 1 =====
+{"alpha_words": 465, "chars": 2698, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DC: I never objected to that procedure, sir; the trial counsel himself stated
+that the only evidence he had of it was the girl who was not yet competent as
+a witness.
+IC: No, we stated later that we had other evidence.
+DC: I never objected to the procedure of calling in evidence to back up this
+statement •
+TC: Well, let's go slow so she can get it.
+IO: I believe that the material the prosecution is bringing in at the present
+time is germane because it goes to the credibility of the witness, and I feel
+that if there had been an objection, even to this material which was brought in,
+I would have had to overrule the defense counsel because it is going to the
+DC: Going to the credibility of the psychiatric examination is what I'm talk-
+ing about.
+ID: Well, it goes to the credibility of the witness, too.
+•yes; I never objected to her testimony in that regard
+because I realized that it was material evidence, but I still feel that if
+those are the circumstances surrounding the. • immediately surrounding the
+psychiatric evaluation in this case that her testimony has, in the minds of
+the court, destroyed much of the value of that psychiatric examination.
+I'm
+so requesting.
+ine; I think I have the motion down that there be a new psychiatric
+examination of greater duration and greater evaluation and I can rule on it
+and I'm going to withhold the ruling on it until tomorrow morning and we'll
+meet at approximately five minutes or ten minutes before the court meets.
+DC:
+If it please the law officer, I hate to make these motions this way,
+I think this would be the best way to do it; it would save more time. Failing -
+in the motion - to grant our request for a continuance for a further psychiatric
+examination, the defense will then request a continuance be granted; how long I
+don't know; shouldn't be too long; for the purpose of obtaining a witness who
+apparently now is going to be of some value to the defense, that wasn't realized
+before this girl testified on this matter of the way she was taken to the hos-
+pital, who is now on leave in California.
+IO: Who is this?
+DC: Major Smith.
+IC: Well, what will she testify to; maybe we can stipulate to it?
+Well, I think - bear in mind that we didn't talk with Major Smith
+along this line - but I think that her testimony would be to the effect that
+she made every opportunity to provide Lieutenant Goodnough with all of the
+necessary clothing and other accouterments and that Lieutenant Goodnough told
+her a series of falsehoods about where this clothing was located and finally,
+losing patience and having delayed some considerable length of time waiting
+on an aircraft, that she then determined that the only thing to do was to go

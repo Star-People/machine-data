@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:39:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3177003, "source_ctime_ns": 1793376521509112568, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961065/0907.jpg", "source_mtime_ns": 1785696569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961065/0907.jpg", "source_sha256": "50472d47d304414c4a101bc992029e00b81b85b80b7c81871e486c637831e1a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JEDIS 28F
+/5/ AIRCRAFT IN VICINI! OF HARRISBURG PA AIRPORT POSITION UNKNOWN
+/ 6/ IDENTIFYING INFORMATION OF ALL OBSERVERS
+PILOT - FLIGHT 989 ~ FLYING TIGERS - NO OTHER PERSONAL
+IDENTIFICATION AVAILABLE
+/7/ WEATHER AND WINDS ALOFT CONDITIONS AT TIME OF SIGHTING
+/B/ 12 152 REPORT OLMSTED AFB OVERATIONS TOWER
+DIRECTION KNOTS
+SURFACE
+320
+12
+320
+29
+VP PP
+279
+25
+1 60 00
+2 60
+20999
+2.60
+5,0909
+243
+145
+44090
+240
+1 20
+/0/ 3300
+- FT
+/D/ 15 MVLES PLUS
+/E/ SCATTERED
+/F/ NONE
+/8/ NO OTHER UNUSUAL ACTIVITY
+/9/ NO EVIDENCE OF ANY PHYSICAL EVIDENCE

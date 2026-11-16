@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:49:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5101245, "source_ctime_ns": 1793370530353983446, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934794/0654.jpg", "source_mtime_ns": 1785688519000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934794/0654.jpg", "source_sha256": "e740f335020dfbba934a0dc3e955fa2dff8590363bc0fbdbed746781df51798c"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 500, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MCIAIS
+MCIAXS/ GWT/amo
+Roanoke,
+va •
+Dear Mr
+Receipt of your letter, dated 14 Lay 1949. which has been
+forwarded to this Headquarters is respeotfully soknowledged.
+Your reported sighting has been made a matter of record and
+is being inoorporated into our present study of unidentified
+serial phenomena.
+Your action in writing this Headquarters regarding this
+matter is appreciated.
+Sincerely yours,
+LEUSTREET, JR.
+It Colonel, USAF
+Acting Chief, Analysis Division
+Intelligence Department
+7:2 JUN 1949

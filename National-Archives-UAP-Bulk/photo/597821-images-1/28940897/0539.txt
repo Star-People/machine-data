@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:40:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3571463, "source_ctime_ns": 1793372018332908516, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940897/0539.jpg", "source_mtime_ns": 1785688817000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940897/0539.jpg", "source_sha256": "b6cf7d1485a1061105da4455bea1e1248c4989167f24644851423980d37c5649"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 478, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+20 March 52.
+TIME
+Local /7300SI
+0030
+8. COURSE
+stationary
+12. TYPE OF
+OBSERVATION
+viseal
+15. CONCLUSIONS
+PROJECT 10073 RECORD CARD
+"OCATION
+Spai
+of Cris AFB, Miserico
+37
+TURCE
+HiF. Pilot
+5. NUMBER OF OBJECTS 6. SHAPE
+7. COLOR
+selve or gold
+9. ALTITUDE
+5,000'
+13. LENGTH OF TIME
+OBSERVED
+1 horse
+10. ANGULAR VELOCITY 11. PHOTOS
+• per second
+_ Yes
+14.
+MANEUVERS
+трож
+16. COMMENTS
+scal. 10
+see for are have an
+apsed when sun soc
+ATIC Form 329 (Rev 27 May 52)
+Probably Pill se

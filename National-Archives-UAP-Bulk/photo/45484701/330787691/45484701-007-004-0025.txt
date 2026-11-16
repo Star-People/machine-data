@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:05:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9307638, "source_ctime_ns": 1793364741133812954, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0025.jpg", "source_mtime_ns": 1785684924000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0025.jpg", "source_sha256": "e7efc8a45dbd1fae4a67f67a475d94baec059a54ed14d6f89e964fdc95c3eccc"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 103, "method": "ocr", "page": 1, "variant": "plain-vision"}
+! a DEC
+109 10/
+MAR1950
+IAO
+ISO
+20
+MANAGE
+80 20 203
+ER
+AI
+22.12
+Declassification Authority: NND 923007

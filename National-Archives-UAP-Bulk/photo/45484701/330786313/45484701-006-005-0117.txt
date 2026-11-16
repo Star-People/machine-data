@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:03:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8641084, "source_ctime_ns": 1793363993408053717, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0117.jpg", "source_mtime_ns": 1785684966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0117.jpg", "source_sha256": "4892e13a373c3d40fdf58110f83facb845fa31b4dff7e2a89f99b09e592bdbc5"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 851, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(3) Luminosity - Very bright
+(4) Apparent Construction - Unknown
+(5) Tactics or Maneuvers - Stationary and then moving slow-
+ly. One (1) descended slightly and moved horizontally.
+(6) Evidence of Exhaust - None
+(7) Supports - None
+(8) Propulsion - None
+(9) Control and Stability - No comment.
+(10) Air Ducts - None
+(11) Speed - Moving slowly.
+f. Sound - None
+8 •
+Manner of Disappearance - Similar to switching off an incan-
+descent light.
+h. Notes Relative to Observers:
+(1) Name - A. H. RABORN, Sergeant, USAF
+(2)
+Address - Air Police Squadron, Holloman Air Force Base,
+New Mexico
+(3) Occupation - Sergeant, USAF
+(4) Reliability - Unknown
+(1)
+Name - HOWARD D. IOCKE, Corporal, USAF
+(2)
+Address - Air Police Squadron, Holloman Air Force Base,
+New Mexico
+(3) Occupation - Corporal, USAF
+(4) Reliability - Unknown
+Declassification Authority: NND 923007

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:52:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5452461, "source_ctime_ns": 1793371757865129242, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939672/00829.jpg", "source_mtime_ns": 1785688649000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939672/00829.jpg", "source_sha256": "f14007f2b5fef73576e6342b2b106169f50a7de0e2c90b4f39882b4cfd4126bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 115, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+Stave Cout a (Hat 1)
+q. What time did you
+Ar At about 0845.
+UNCLASSIFIED
+JAMES 2. HARVEY
+Captain
+USAF
+UNCE
+SSIFIED

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:50:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5186074, "source_ctime_ns": 1793375028626222893, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954394/0456.jpg", "source_mtime_ns": 1785696678000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954394/0456.jpg", "source_sha256": "ad125bf37f3d5e6b61f758b05adcd469bfadbf3bee0c9b46435fe57b178cc058"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 733, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Witness
+USA MATS
+IR-313-53
+UNCLASSIFIED
+(Unclassified) Unidentified Flying Object Near Klamath Falls, Oregon 28 Apri] 1953
+Plight Service, MATS, 3800 Newark
+State of Oregon, USA
+Street, I. ., Washington 25, D. C.
+30 April 1953
+28 Apr11 1953
+Gerald I. Tyler, Major, USAF
+Klamath Falls, Oregon
+Teletype FLYOBRPT 291000% April submitted by MeChord Flight Service Center
+An observer at Mamath Falls, Oregon sighted a round white object at 1900PST
+28 April 1953. Object appeared to be in a high speed dive and disappeared behind
+a mountain top.
+GERALD E. TYLER
+Major, USAI
+Intelligence Officer.
+Chief, Air Technical Intelligence Center, ATTN: ATIAA-2o
+UNCLASSIFIEDOW GRADED AT & YEAR INTERVALS
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10

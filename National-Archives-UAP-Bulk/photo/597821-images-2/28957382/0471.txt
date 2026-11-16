@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:43:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4093905, "source_ctime_ns": 1793375721562282356, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957382/0471.jpg", "source_mtime_ns": 1785696619000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957382/0471.jpg", "source_sha256": "56486a9aa9a066bc5397d6103bfc9672af23935551a7fbc71eeb5136a144f7d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 244, "chars": 1511, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 7
+34. What were the weather conditions at the time you saw the object?
+34,1 CLOUDS (Circle One)
+C.
+Clear sky
+Hazy
+c.
+Scattered clouds
+d. Thick or heavy clouds
+e. Don't remember
+34.2 WIND (Circle One)
+a.
+No wind
+Slight breeze
+c. Strong wind
+d. Don't remember
+34.3 WEATHER (Circle One)
+Dry
+Fog, mist, or light rain
+c. Moderate or heavy rain
+d. Snow
+e. Don't remember
+34.4 TEMPERATURE (Circle One)
+Cold
+b. Cool
+c. Warm
+d. Hot
+e. Don't remember
+35. When did you report to some official that you had seen the object?
+27
+JaN
+1951.
+Day
+Month
+Year
+36. Was anyone else with you at the time you saw the object?
+(Circle One) Yes
+HOWEVER, IT WAS ESTABLISHED THAT
+36.1 IF you answered YES, did they see the object too? ANOTHER STATION OPERATOR OB-
+(Circle One) Yes
+No
+SERVED IT FROM OBOE ASKANiA
+12 MILES SOUTH FAST OF MY
+36.2 Please list their nmes and addresses:
+→ OESERV
+POSITION. HIS APPROXIMATE/ AZIMUTH
+ES ELEVATION WAS 300° SWEPT EAST
+FROM NORTH. (NNI) ANU ABOUT 40° EL.
+37. Was this the first time that you had seen an object or objects like this?
+(Circle One) Yes
+37.1 IF you answered NO, then when, where, and under what circumstances did you see other ones?
+NOV OF 1951 I OBSERVED TWO OBJECTS, ABOUT THREE HOURS
+APART ON THE SAME FUENING, THEY WERE
+AS GREEN AS
+A FLAME TEST
+ONE STALL AND APPARE
+ESME FROM
+BRIGHT LINE SPECTRAL EMMISSION.
+- THEY MAY HAVE BEEN
+METEORS DE AN EXTREMLY UNUSUAL TYPE, THOUGH I POUBT i
+38. In your opinion what do you think the object was and what might have caused it?
+NO COHMENT.

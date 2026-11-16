@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:54:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6232424, "source_ctime_ns": 1793361832629757956, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0055.jpg", "source_mtime_ns": 1785685073000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0055.jpg", "source_sha256": "92726fafcb7bbb52ecb52e75ed5a4e247ecf3638c3fcf7a87e6385785a698bfe"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 188, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ON
+UNDEVELOPED LEADS
+DISTRICT OFFICE NO. 17, KIRTLAND AFB
+Will report all future sightings of anomolous luminous
+phenomena within the District area.
+Declassification Authority: NND 923007

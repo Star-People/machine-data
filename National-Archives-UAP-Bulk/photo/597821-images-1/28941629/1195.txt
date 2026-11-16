@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:35:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3848972, "source_ctime_ns": 1793372162830737691, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941629/1195.jpg", "source_mtime_ns": 1785688807000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941629/1195.jpg", "source_sha256": "ba3d2dda5ebae94515abe70c30c3800c92b4c83711ac8600457c0483bc89995b"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 442, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EXTRACT FROM STATUS REFORT #_
+DATE: 27 Apr 52
+TIME (Local): 19X
+LOCATION: Maskish, Him.
+LENGTH OF TILE OBSERVED: 1 lin.
+SOUND: None
+SPEED: High
+ALTT TUDE: Unknom
+HEADING: 360°
+SOURCE: Civilian - Ground Observer
+ACTION OR COMENTS: Description similer to teteor.
+DESCRIPTION OF INCIDENT: Object was cigar-shaped With no
+reflechion of the sun.
+It gave off
+UNCLASSIFIED
+DOWNGRADED AT 3 YEAR INTERVATE
+DECLASSIFIED AFTER 18 XEARS:
+DOD DIR 6200.10

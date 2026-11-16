@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:12:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17453918, "source_ctime_ns": 1793355557882539673, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0143.jpg", "source_mtime_ns": 1785564477000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0143.jpg", "source_sha256": "fe646c04a80320dd88254fdd1420537643145a9cf9b654c93f2d67b724e4288c"}
+
+===== PAGE 1 =====
+{"alpha_words": 547, "chars": 3541, "method": "ocr", "page": 1, "variant": "plain-vision"}
+276
+During the nighttime observing period, the gyro-stabilized portion of the
+stabilization system worked well as evidenced by the ease with which the observer
+acquired stars on the observing program. Unfortunately, the star tracker whichused a
+photomultiplier as a detector did not work due to high-voltage discharge. It was
+later determined that the potting at the base of the photomultiplier had been damaged
+during transport to the launch site. A similar difficulty appeared in the scintil-
+lation photometer. As a consequence of the above only seeing data was obtained.
+Figure 9 shows a set of photographs obtained on Rigel.
+Approximately 72, 500 ft.
+A qualitative comparison of the photographs obtained on the flight with those
+from the ground indicate that seeing is markedly reduced. At this stage in the
+analysis of the seeing observations obtained in this manner, it is difficult to
+extract any numerical data from the photographs. It is possible that the residual
+seeing effects are a result of the rather larger effective structure of the balloon
+gondola system. Turbulence could arise through the wind resistance presented
+by the balloon or through convection around the total structure.
+The method developed for acquiring stars which were on the program proved
+very satisfactory. Graphs of elevation angle and azimuth against the meridian
+angle of the star were made. An auxiliary graph of meridian angle against time
+was also made for the contemplated dates of a flight. As the meridian angle
+versus time plots is linear, many stars could be incorporated on one graph
+without confusion. The altitude and azimuth plots, of course, are good for very
+long periods of time. From the graphs, the altitude and azimuth were determined
+for the star to be observed. The telescope was set according to the elevation and
+train dials (see Fig. 4). As it turned out on the flight, only a rough estimate of
+the azimuth direction in which the telescope was pointed was needed. It was only
+necessary to set the telescope at the proper elevation angle and train the telescope
+in the direction toward the star until it appeared in the optical link. Several stars
+and the planet Jupiter were acquired in this manner. The stars were Capella,
+Aldebaran, Rigel, Betelgeuse, and Sirius.
+While the 10° field of optical link was fine for acquiring stars, it proved
+inadequate for guiding the telescope to obtain data with the photometer. In
+277
+preparation for the second flight attempts in March and April 1963, the optics of
+the optical link were improved. In addition, a short focal length eyepiece could
+be expeditiously substituted for the wide angle one in order to reduce the field
+to 3°. A swing test established that the improved optics and narrower field would
+give the observer the capability of guiding the telescope to obtain data should the
+star tracker, again, malfunction.
+During the daylight period of the flight, a band-like structure was noted above
+an apparent broad haze layer above the horizon. This structure appeared in the
+general direction of the sun. Figure 10 shows a photograph of this phenomenon.
+Figure 10. Photograph of the Horizon at an Altitude of 82, 000 ft. During Flight
+of Dec. 13, 1962, 2:52 P.M., MST, Azimuth Was Approximately 210°.
+Band Structure, A. Haze Layer, B.
+Approximate Horizon, C. Spots at Top
+of Porthole Are Due to Reflections of the Sun.
+The photographs were measured to obtain appropriate elevation angles of the bands
+above the estimated horizon. Rawindsonde data taken from Holloman AFB during

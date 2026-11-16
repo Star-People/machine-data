@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:13:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18210443, "source_ctime_ns": 1793355510460317201, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0093.jpg", "source_mtime_ns": 1785564468000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0093.jpg", "source_sha256": "b8d41e6b760d02958308bc6ec5e119788adb434a3d1f15f5a4c25fb9f766aafa"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 513, "method": "ocr", "page": 1, "variant": "plain-vision"}
+176
+PERFORMANCE:
+SIZE:
+FILL REQ.
+LAUNCH
+3.5 LBS TO
+S.L. BUBBLE
+S.L. TRAIN
+150 K ALT
+HE GAS @S.L.
+ONE MAN PREP.
+150000 FT
+10 FT DIA.
+9-1/2 FT GND. TO TOP
+200 FT w - P.L.
+79 FT DIA.
+534 FT3 STP
+30 MIN.
+LEVER RELEASE
+"G" CONTROL
+Figure 3. MER-H-3 Balloon Characteristics
+Figure 4.
+and Associated Parachute
+Complete MER-H-3 System, Including Radiosonde Payload
+SEA SPACE SYSTEMS
+Figure 5.
+Launcher Set Up for Operation with the Balloon Protective
+Covering Folded Out
+Figure 6. Bubble Fully Inflated, Ready for Launch

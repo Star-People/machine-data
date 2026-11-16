@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:38:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2741243, "source_ctime_ns": 1793365563992856062, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0010.tif", "source_mtime_ns": 1785565389000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0010.tif", "source_sha256": "566bf9a54adffdc8503bcb0021bb6b6bb72011f877b09ccc953777f47fc988f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 887, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Joseph Albino
+221 Hillbrook Road
+Syracuse, New York 13219
+NORAD CONTRIBUTES TO
+DEFENSE PLUS ECONOMY
+By Joseph Albino
+Picture yourself holding a huge umbrella over the vastness of
+the United States and Canada; an umbrella that protects this great
+nation from attack by bomb-carrying planes and air-breathing missiles.
+This is the picture of NORAD: The North American Air Defense Command
+with headquarter facilities carved out of a huge mountain in Cheyenne
+santa so Coloral Spring, Cds.
+Here in the northeast, including the New England states (except
+for the northern half of Maine), part of Pennsylvania, and New York
+State, our skies overhead are protected by the 21ST NORAD REGION.
+dis Force
+Commanded by/Major General George V. Williams, 21ST's headquarters
+X tiling and stifle an are an an and Canadian
+offices are located in the massive SAGE building at Hancock Airport,
+-- MORE --

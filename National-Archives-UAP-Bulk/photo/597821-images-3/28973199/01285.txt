@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:04:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8762527, "source_ctime_ns": 1793379685108447664, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973199/01285.jpg", "source_mtime_ns": 1785700783000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973199/01285.jpg", "source_sha256": "a5ce8864b449672927e9eb1ad18d3f3988146f08b59741ebaefa56c23569311e"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 826, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+5
+November 1957
+3. DATE-TIME GROUP
+Local
+06/02-5Z
+GMT.
+5. PHOTOS
+• Yes
+XO No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Eatontown.
+New Jersey
+4. TYPE OF OBSERVATION
+•:Ground- Visual
+• Ground-Rador
+• ARVagulars D AirIntercept Rodor
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+| 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Airerar
+Possibly Airerati
+Was Astronomicol
+Probably Astronomical
+•
+Possibly Astronomical
+Other__
+D% Insufficient Dote for Evaluatio
+Unknown
+5 minutes
+not given
+10. BRIEF SUMMARY OF SIGHTING
+Object with appearance of inverted tea
+cup, size of pea, white
+- yellow
+orange. Came from NE.
+hovering
+11. COMMENTS
+Insufficient data. Possible balloo
+but wind information indicates
+object would move toward NE.
+ATIC PORM 329 (REV 26 SEP 52)

@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:55:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6773812, "source_ctime_ns": 1793383064482177890, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986265/0029.jpg", "source_mtime_ns": 1785748059000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986265/0029.jpg", "source_sha256": "b2d5238696f9b281e1c9f1e5b3a8fee78e0bff84f0ebddeecde5204caac1317b"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1158, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+L. DATE
+24 Max 60
+3. DATE-TIME GROUP
+Locol
+08002
+5.
+GHT.
+PHOTOS
+2. LOCATION
+St. Louis, Missouri
+4. TYPE OF OBSERVATION
+EX Ground- Visual
+• Air Visual
+8. SOURCE
+Civilian
+• Ground-Rodar
+• Air-Intercept Radar
+D Yes
+ULNO
+7. LENGTH OF OBSERVATION
+6 sec
+8. NUMBER OF OBJECTS
+9. COURSE
+three
+NE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aiseraft
+Probably Aircroft
+Possibly Aircraft
+Was Astronomical
+D
+D
+Probably Astronomicol
+Possibly Astronomical
+Other.
+CK Insufficient Data for Evaluation
+Unknown
+To. BRIEF SUMMARY OF SICHTING Bright light appeared
+over whole area of Lambert Field, No,
+Tasting about 2 sec before three objects,
+round, size of tire on heavy earth-moving
+vehicle, white, round and flat as saucers,
+were sighted. Cloud bace at 10,000 with .9
+cover. Flight was level with constant speed
+Disappearance instantoneous. Observed in SV
+flew overhead and disappeared in NE.
+11. COMMENTS Due to lack of other witnesses
+this report is classified as insufficient
+data.
+Lights not observed by tower
+personnel at airport. Possibility
+light reflections from unknown sou
+cloud base.
+ATIC FORM 329 (REV 26 SEP 52)

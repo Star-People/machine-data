@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:56:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6945718, "source_ctime_ns": 1793363519985591727, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0080.jpg", "source_mtime_ns": 1785684623000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0080.jpg", "source_sha256": "8cbd4d43ab6f02ae65996dd8edd67221ed1e32eaffb7328ebc161df99bbba11c"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 531, "method": "ocr", "page": 1, "variant": "plain-vision"}
+With the present report, the writer's participation in the OSI's
+investigation of the puzzling fireball question must, to his regret, terminate.
+During the time I was on leave of absence from the University of New Mexico,
+I was glad to donate my time and services to this investigation. Now that I
+am again serving as Head of the Department of Mathematics with a full time
+teaching load, it is impossible for me to continue cooperating with the OSI.
+LINCOLN LaPAZ
+Head of Dept of Mathematics
+Declassification Authority: NND 923007

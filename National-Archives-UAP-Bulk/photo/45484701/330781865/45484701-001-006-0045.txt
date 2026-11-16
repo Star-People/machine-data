@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:53:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5970572, "source_ctime_ns": 1793361946713955428, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0045.jpg", "source_mtime_ns": 1785685163000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0045.jpg", "source_sha256": "152d74c30b1278c4fb3e51667d481edc04fc690a8120e3963e836e6f127e3f67"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 1297, "method": "ocr", "page": 1, "variant": "plain-vision"}
+S/I, Office of the AC of S, G02, Headquarters Fourth Army, Fort Sam Houston, Texas,
+16 March 1949, subj: "Unusual Lights"
+3. From observation point #3 (see attached overlay).
+a. Location: 914.5 - 856.1; Time: About 2045 hours.
+b. Weather: Overcast (see attached weather report).
+c. Witness:
+Pvt Harold D. Moore, US 57410066
+42nd AIB, Company A
+Camp Hood, Texas
+d. Object Sighted:
+(1)
+.2
+Number: 1
+Shape: Roundish head with trail
+Size: About 10° in length
+Color: Light colored head, orange trail
+Speed: not known
+Direction: from S 81Wto S 60° W
+Maneuverability: No deviation from course
+Altitude: From 21° above horizon to 6° 31' above
+(9)
+Sound: None
+(10)
+Exhaust trail: Orange trail about 10° long
+(11) Remarks: Appeared to be going over Q area
+Observations on 7 March 1949:
+1.
+From observation point #1 (see attached overlay)
+a. Location: 914.3 - 855.7: Time: 0115 hours.
+b. Weather: Clear (see attached weather report).
+c. Witness: Pfc Robert Gardner Black, US 57112155
+42nd AIB, Company A
+Camp Hood, Texas
+d. Object sighted:
+(1)
+(2)
+(8)
+(9)
+(10)
+Number: 1
+Shape: Like flash bulb
+Size: Flash bulb
+Color: Brilliant blue-white
+Speed: None
+Direction: N 40° E
+Maneuver ability: None-fixed flash
+Altitude: 66° 15' above horizon
+Sound: None
+Exhaust trail: None
+Declassification Authority: NND 923007

@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:30:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1649148, "source_ctime_ns": 1793372124347972674, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941435/1028.jpg", "source_mtime_ns": 1785688895000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941435/1028.jpg", "source_sha256": "b20eddf122b76ce2059baf568cdace8c012884986077dcf86342e57862395f0a"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 757, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+5.
+-18 Apr 52
+DATE•TIME GROUP
+Local
+0130
+GM T
+0630
+PHOTOS
+U Yes
+CE No
+7. LENGTH OF OBSERVATION
+4-8 seconds
+PROJECT 10073 RECORD CARD
+LOCATION
+Bethesda, Maryland
+TYPE OF OBSERVATION
+# Ground- Visual
+D Air- Visual
+SOURCE
+D Ground-Radar
+D Air-Intercept Roder
+4 civilians
+6. NUMBER OF OBJECTS
+7-9
+9. COURSE
+10. BRIEF SUMMARY OF SIGHTING
+Oxange-yellow color.
+Straight and level maneuvers.
+Lights in V Formation.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Belloon
+Was Aircroft
+Probably Aircroft
+Possibly Aircraft
+Wos Astronomical
+Probobly Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+Sighted V shaped formation of lights!
+Data on formation in report.
+No a/c in area.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:34:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3408421, "source_ctime_ns": 1793354494552376032, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989213-001-0005.jpg", "source_mtime_ns": 1785564295000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989213-001-0005.jpg", "source_sha256": "6c53d9b579d422a2765a78d0cea589bf0c4314657ecd13579b8e580d26b3c01c"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 249, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Ohn Brin
+202-543 -
+8821
+Geophysics Research Directorates, croa
+1949-50.
+Front Rao: Marcus O'Day, Peter Wychoff,
+Nathaniel Gerson.
+Back Row: Fifth fron Left (Jim Peoples)
+Picture publiched in De Vorkin, Science wild
+a Vengeance, Spinger-Verlag, 1992

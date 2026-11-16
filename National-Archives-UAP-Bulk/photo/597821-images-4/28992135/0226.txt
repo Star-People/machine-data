@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:41:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3853889, "source_ctime_ns": 1793385176923156957, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992135/0226.jpg", "source_mtime_ns": 1785748462000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992135/0226.jpg", "source_sha256": "583e148818b85a7c355883ef5691975fc6d8374c2af7fb25597eef4b24b9637b"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 275, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+July 19, 1961
+
+Bedford Heights, Ohio
+
+Aero Space Technical
+Intelligence Center
+Wright Patterson Field
+Dayton, Ohio
+
+Ces
+
+Dear Sir:
+
+I would like to request the necessary forms and procedure
+
+in reporting aerial phenomena, or unidentified objects.
+
+Very Truly Yours
+
+aa
+
+ape.

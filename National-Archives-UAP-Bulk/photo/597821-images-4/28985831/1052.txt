@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:47:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4670147, "source_ctime_ns": 1793382906359526315, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985831/1052.jpg", "source_mtime_ns": 1785748026000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985831/1052.jpg", "source_sha256": "042b3673ff45bd42bc637c52ef8664547c43d4e0885638e86c08ba7e23070d6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 815, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+/ February, 1960
+DATE-TIME GROUP
+Locol -
+CM 38/03202
+5. PHOTOS
+D Yes
+D No
+7. LENGTH OF OBSERYATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Melenry, North Dakota
+4. TYPE OF OBSERVATION
+I Ground-Visual
+D Air- Visual
+6.
+SOURCE
+• Ground-Rodar
+D Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+one minute
+One
+10. BRIEF SUMMARY OF SIGHTING
+Blue-like object with blue flame trailing.
+Looked like a roman candle travelling
+straight across the sky.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Bai Probobly Aircraft
+Possibly Aircraft
+D
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+Not Given
+11. COMMENTS
+It is concluded that the object of
+this sighting was probably a jet
+type A/C.
+ATIC FORM 329 (REV 26 SEP 52)
