@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-02-00208/case.html", "source_sha256": "8c99907181777ac2d78a4a1c516e50797fcffe5e33eb4b1646215b6a07d7c41e", "source_bytes": 19541, "created_utc": "2026-10-21T18:12:17.247727+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-02-00208/case.html", "source_sha256": "72705898a16fd6898a221e1d6b8f9f492022949fdf4ccb207e8ffa8812087165", "source_bytes": 19559, "source_mtime": 1794797029, "source_mtime_ns": 1794797029856515174, "source_ctime_ns": 1794797029856671800, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.668515+00:00"}
 
 NATIONAL (FR) 17.02.1975 | GEIPAN
     
@@ -38,7 +38,7 @@ NATIONAL (FR) 17.02.1975 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

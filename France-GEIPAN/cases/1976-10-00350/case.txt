@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00350/case.html", "source_sha256": "aeb7b31669fee3aec4b2809e4ce8c7e5f1ffc8b6a0ba6e1175e55b2bd9b20163", "source_bytes": 19084, "created_utc": "2026-10-21T18:12:33.810027+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00350/case.html", "source_sha256": "bf60d5f3f87358ea9937744c077f466defb064d12869e8cdafd9d67cc4ccc897", "source_bytes": 19102, "source_mtime": 1794797628, "source_mtime_ns": 1794797628376181852, "source_ctime_ns": 1794797628376226227, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:04:58.669106+00:00"}
 
 MONTIGNY-LES-METZ (57) 07.10.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ MONTIGNY-LES-METZ (57) 07.10.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

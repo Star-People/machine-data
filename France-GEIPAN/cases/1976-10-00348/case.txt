@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00348/case.html", "source_sha256": "4a11035adf1fd640817c8a34bef49087f1faa88bacecc1055d375c5a6d75f2cc", "source_bytes": 18898, "created_utc": "2026-10-21T18:12:33.662209+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00348/case.html", "source_sha256": "a2a92b9d23f872308e54c4c7a11e86dbe26403db7f2d3baec2afc6c303224d4c", "source_bytes": 18916, "source_mtime": 1794797617, "source_mtime_ns": 1794797617827900563, "source_ctime_ns": 1794797617827952647, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:04:56.406085+00:00"}
 
 CHATEAU-GONTIER (53) 05.10.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ CHATEAU-GONTIER (53) 05.10.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

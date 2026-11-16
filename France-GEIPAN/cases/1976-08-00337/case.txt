@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-08-00337/case.html", "source_sha256": "a7f9c9eb31777f2cde344d6d3414672260fc4dc6b958b736f8a85f452e4d4341", "source_bytes": 18673, "created_utc": "2026-10-21T18:12:32.661479+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-08-00337/case.html", "source_sha256": "b08bd32bbe02bf32842ac84ce3f3158521b64ce9506892f7e294483e5a9e54d2", "source_bytes": 18691, "source_mtime": 1794797564, "source_mtime_ns": 1794797564504734720, "source_ctime_ns": 1794797564505021054, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:04:43.873318+00:00"}
 
 PLANES (66) 28.08.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ PLANES (66) 28.08.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

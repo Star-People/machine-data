@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-03-00291/case.html", "source_sha256": "6faad181d55e106b57716286c5c0efb207b34279e77e5cfb5732cbb2a115fd91", "source_bytes": 19625, "created_utc": "2026-10-21T18:12:25.377941+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-03-00291/case.html", "source_sha256": "3a5073690666bd3f24b2bb96c6370399af5d36dd652ff058dcd140bba5356c4e", "source_bytes": 19643, "source_mtime": 1794797232, "source_mtime_ns": 1794797232389725627, "source_ctime_ns": 1794797232389813127, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.279930+00:00"}
 
 CAPESTERRE-DE-MARIE-GALANTE (971) 24.03.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ CAPESTERRE-DE-MARIE-GALANTE (971) 24.03.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

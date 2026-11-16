@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-03-00216/case.html", "source_sha256": "6e3f32bbb1700ddd1d82f3dab704e08a1234d224f4337a7232001416de608e85", "source_bytes": 21723, "created_utc": "2026-10-21T18:12:17.768907+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-03-00216/case.html", "source_sha256": "67adf448d6c35cd8752dcbc0a623b013f1ba092f4f65ce6c326657039c60d8f8", "source_bytes": 21741, "source_mtime": 1794797062, "source_mtime_ns": 1794797062016915854, "source_ctime_ns": 1794797062016981896, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.757689+00:00"}
 
 SAINT-HILAIRE-LEZ-CAMBRAI (59) 31.03.1975 | GEIPAN
     
@@ -38,7 +38,7 @@ SAINT-HILAIRE-LEZ-CAMBRAI (59) 31.03.1975 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

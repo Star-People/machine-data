@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:38:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4253493, "source_ctime_ns": 1793380718618854701, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977986/1108.jpg", "source_mtime_ns": 1785700793000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977986/1108.jpg", "source_sha256": "50953bf5c3f85ad344fcc8826b702481933e5c38e7e732feb498b286c3e499d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 764, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+22 Apr 58
+3. DATEẠTIME GROUP
+Locol
+GM T.
+23/0510Z
+5. PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+12.
+CONCLUSIONS
+Was Balloon
+Wesi Port, Washington.
+4. TYPE OF OBSERVATION
+XE Ground- Visual
+D Air- Visual
+6. SOURCE
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+• Air-Intercept Radar
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Wes Astronomica! Meteor
+Civilian (Light House Keeper
+UX Probably Astronomical
+p
+Possibly Astronomical
+8. NUMBER OF OBJECTS | 9. COURSE
+Other.
+Insufficient Data for Evaluation
+Unknown
+-5
+Secs
+one
+10. BRIEF SUMMARY OF SIGHTING
+Large, rnd, orange & white obj. Had
+long tail.
+Broke up & fell.
+descending
+11. COMMENTS
+Description is characteristic
+of a meteor.
+ATIC FORM 329 (REV 25 SEP 52)

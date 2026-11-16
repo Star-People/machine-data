@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-02-00286/case.html", "source_sha256": "1b0fe379ba20fa5c856b0ced99ec920166b13f70f9c842cf621ce8ea816297f6", "source_bytes": 19105, "created_utc": "2026-10-21T18:12:24.898814+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-02-00286/case.html", "source_sha256": "eaed208b73a359bafe4846ec74d6f1edea323dd36c69f87c7b1dfb41fe25e6a6", "source_bytes": 19123, "source_mtime": 1794797189, "source_mtime_ns": 1794797189665339817, "source_ctime_ns": 1794797189665394692, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.152675+00:00"}
 
 LAUZET-UBAYE (04) 03.02.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ LAUZET-UBAYE (04) 03.02.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

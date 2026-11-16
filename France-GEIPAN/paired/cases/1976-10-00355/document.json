@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-10-00355/case.html",
-    "bytes": 19149,
+    "bytes": 19167,
     "canonical_source_identifier": "GEIPAN:1976-10-00355",
     "case_metadata": {
       "classification": "C",
@@ -40,12 +40,12 @@
     "original_title": "BOUZONVILLE (57) 24.10.1976",
     "relative_path": "cases/1976-10-00355/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "09dceb2315b3267aa59568c19b2a7b8688bac2c19c1dd95e1bf002f669aaf0ea",
+    "sha256": "71db889c787dbe2d6e0cfd4273c3ddd65791f5ab9b20c3c5303d6ad1585ecee3",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-10-00355"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

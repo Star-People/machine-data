@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1967-09-09106/case.html",
-    "bytes": 19128,
+    "bytes": 19146,
     "canonical_source_identifier": "GEIPAN:1967-09-09106",
     "case_metadata": {
       "classification": "C",
@@ -40,7 +40,7 @@
     "original_title": "SEILLONS-SOURCE-D'ARGENS (83) --.09.1967",
     "relative_path": "cases/1967-09-09106/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "290815ee6ff817b51e4ee5e7b152b6ec176e5ef6d71852685fbd6ee1eeb9656a",
+    "sha256": "f416b77ae9618e66bc76aad2c99d5ae811e374d543734a98ba87a32987235ff4",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1967-09-09106"
     ]

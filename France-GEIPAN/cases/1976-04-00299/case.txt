@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-04-00299/case.html", "source_sha256": "fc3afa381259f2dd932425977d90ef3cec21912aa3c2f2d910daaa6610698192", "source_bytes": 18486, "created_utc": "2026-10-21T18:12:27.296091+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-04-00299/case.html", "source_sha256": "ff29ffdaf9a75f4d71367815020a2bf34ffffe5ac105bf9f0369c3d4b61a4f7b", "source_bytes": 18504, "source_mtime": 1794797307, "source_mtime_ns": 1794797307089125858, "source_ctime_ns": 1794797307089218483, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.480727+00:00"}
 
 CRIEL-SUR-MER (76) 15.04.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ CRIEL-SUR-MER (76) 15.04.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

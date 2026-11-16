@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-02-00287/case.html", "source_sha256": "41da6459b4026a179e16e501cd3bb6d2605748405ea7f7fb378705e05b11571e", "source_bytes": 18698, "created_utc": "2026-10-21T18:12:25.015850+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-02-00287/case.html", "source_sha256": "d021bc8ccc2350905670db95e7f051b24af620e496b2df8dd3adcc9dd39b1f29", "source_bytes": 18716, "source_mtime": 1794797200, "source_mtime_ns": 1794797200264471143, "source_ctime_ns": 1794797200264545809, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.190805+00:00"}
 
 CHATEAURENARD (13) 05.02.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ CHATEAURENARD (13) 05.02.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

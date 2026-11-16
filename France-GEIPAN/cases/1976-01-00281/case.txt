@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00281/case.html", "source_sha256": "fc5ca989e6ef6127c2af372c84d1372670d9bebfccc491be71763f74045b7de5", "source_bytes": 18759, "created_utc": "2026-10-21T18:12:23.981347+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00281/case.html", "source_sha256": "ab604a74bb616e304a28b942a254b5aea4b6216f2f09ae6fba8f2481aa98687d", "source_bytes": 18777, "source_mtime": 1794797119, "source_mtime_ns": 1794797119431437313, "source_ctime_ns": 1794797119431496646, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.991901+00:00"}
 
 GRIMAUD (83) 10.01.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ GRIMAUD (83) 10.01.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

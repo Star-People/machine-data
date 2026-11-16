@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-05-00303/case.html", "source_sha256": "475d9b7e01e15313706ba347f71f83b85f4ea316594cc378429d2bcfc9d67faa", "source_bytes": 18587, "created_utc": "2026-10-21T18:12:27.641458+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-05-00303/case.html", "source_sha256": "444b203be3899ea402e9c3ab87627de9a7233cf8739053868c0b1d94e7884dcf", "source_bytes": 18605, "source_mtime": 1794797328, "source_mtime_ns": 1794797328322552289, "source_ctime_ns": 1794797328322861915, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.527915+00:00"}
 
 MATHA (17) 24.05.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ MATHA (17) 24.05.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

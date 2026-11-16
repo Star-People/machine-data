@@ -43,15 +43,15 @@
           "field": "region",
           "page_id": "page-5f35c16416e977cfe7fdc244",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-f3ad233f06abfa2b005353e5",
           "segment_index": 3,
           "source_segment_id": "seg-f3ad233f06abfa2b005353e5",
           "source_text_sha256": "059d12cde048b669eed10ebe9246935a60ce3b994b570c9f85a3754a09ccc658",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Region: Provence-Alpes-Côte d'Azur",
-          "translation_text_sha256": "e7afbc080811fff103dcb9e287dd1fb0a0d689053bdf08eda8087b1d27065051"
+          "status": "not-required",
+          "text": "Region: Provence Alpes Cote d'azur",
+          "translation_text_sha256": "5b14e3b48b2fdd5900bcdae8dd5e713b6bef4d1cdf3d01cda781d5947af25b87"
         },
         {
           "end_ms": null,
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-5f35c16416e977cfe7fdc244",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-4be46941fe576b9359637b2c",
           "segment_index": 4,
           "source_segment_id": "seg-4be46941fe576b9359637b2c",
           "source_text_sha256": "5f3096cf23bffe593c8afeead3d385551adbc8004b42a3b3277cae5903901074",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Var",
           "translation_text_sha256": "1d3ec2af506cbf320d2570d521ea5248fd2d431e94ba28a8c429ab749687afb4"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-5f35c16416e977cfe7fdc244",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-3b7fd0c56bdc6e5257003f79",
           "segment_index": 8,
           "source_segment_id": "seg-3b7fd0c56bdc6e5257003f79",
           "source_text_sha256": "60dde96209d9edcd19aef273cd0467bde94efd52d6ae6af25eb813395180774b",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents:  Questionnaire terre-R.pdf",
-          "translation_text_sha256": "6fbdf65df38a2ab3a08e0b65aa4b1f4924d9e7e3aff60d753406bfbdb9368a54"
+          "status": "not-required",
+          "text": "Documents: Questionnaire terre-R.pdf",
+          "translation_text_sha256": "60dde96209d9edcd19aef273cd0467bde94efd52d6ae6af25eb813395180774b"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-5f35c16416e977cfe7fdc244",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-cda0dae674bcb6101d7ba5ae",
           "segment_index": 9,
           "source_segment_id": "seg-cda0dae674bcb6101d7ba5ae",
           "source_text_sha256": "781e8c406aa1d13da3d9bb4d174fe545730645b710c56ab6e52a2fc6bb7375c3",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: CARCES (83) --.--.1973",
           "translation_text_sha256": "954854faa46f196eb382aa8e2465c9c346a15e49edaca304a01c322980402e5b"
         },
@@ -162,8 +162,8 @@
           "source_text_sha256": "8c5fa3e4d33078ad90a00900f9e0f42d2e298e0b86a7c72fd7595939bf3a525a",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Summary: Observation of a white stationary object above a field and quickly ascending into the sky: Lack of information",
-          "translation_text_sha256": "d49af3a663370e1b27e1c8ec87ab37c293b58bb9e17d0f525186202b02cd755f"
+          "text": "Summary: Observation of a stationary white object above a field and quickly ascending into the sky: Lack of information",
+          "translation_text_sha256": "dbb1f8b7d3c03829b1996091209b736d2c6c1c55344d7fd1c4ff38bfaa33398e"
         },
         {
           "end_ms": null,
@@ -178,8 +178,8 @@
           "source_text_sha256": "9464f81015107d812300e1df2afd923dfcb4df5c98e5cdf776806c0b94e4c895",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Description: A witness reports in 2008 an observation made between 1973 and 1976 without a specific date and month. The date provided here is arbitrary. The witness, walking alone along a rural road, spots a stationary white craft in a dip of land, a few meters from the ground. No engine noise is heard. As the witness approaches the craft, they see flashes and then intense lighting around the craft which takes off with a noise and quickly gains altitude. The area where the craft was parked is burned and blackened but without fire. This old, very strange case was only submitted to GEIPAN in 2008, following a television show. In March 2012, a Geipan expert spoke at length with the witness. Since the precise date of the observation is unknown, and the witness refuses to provide the names of those around them who were aware of the observation at the time, a serious investigation is impossible. There are also reservations about the accuracy of memory regarding events over 35 years old. Given these uncertainties, GEIPAN classifies this case as \"C\": investigation impossible. However, GEIPAN notes that the observation location is only 10 km from the Canjuers camp, the largest shooting range in Western Europe, which already hosted many military vehicles of all kinds at that time.",
-          "translation_text_sha256": "752f6ce669d0d5507d00e451da65c43260816d838c462098b7e6ece843cdd26b"
+          "text": "Description: A witness reports in 2008 an observation made between 1973 and 1976 without specific date and month. The date provided here is arbitrary. The witness, walking alone along a rural road, spots a stationary white craft in a dip of land, a few meters from the ground. No engine noise is heard. Approaching the craft, the witness sees flashes, then intense lighting around the craft which takes off with a noise and quickly gains altitude. The area where the craft was parked is burned, black but without fire. This old, very strange case was only submitted to GEIPAN in 2008, following a television show. In March 2012, a Geipan expert spoke at length with the witness. Since the precise date of the observation is unknown, and the witness refuses to provide the names of those around them who were aware of the observation at the time, a serious investigation is impossible. One can also question the accuracy of memory regarding events over 35 years old. Given these uncertainties, GEIPAN classifies this case as \"C\": investigation impossible. However, GEIPAN notes that the observation location is only 10 km from the Canjuers camp, the largest shooting range in Western Europe, which already hosted many military vehicles of all kinds at that time.",
+          "translation_text_sha256": "9f09bad00e2cfd78cb837275ab49f7acfcde8765abaeba1512efa12feeabcc6b"
         }
       ],
       "source_page_id": "page-5f35c16416e977cfe7fdc244"
@@ -190,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-09-07T02:37:25Z",
+    "generated_at": "2026-11-16T03:32:27Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
     "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

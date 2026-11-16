@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-06-00306/case.html", "source_sha256": "e73a3468e946dca8d7333efa2216f537878cbabd94c221b981316ab5ba3145ad", "source_bytes": 18421, "created_utc": "2026-10-21T18:12:28.298784+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-06-00306/case.html", "source_sha256": "ef13cc88a96b4669ba730172a99a452917a4ab1135f284f26a1800571e4313a1", "source_bytes": 18439, "source_mtime": 1794797349, "source_mtime_ns": 1794797349695564666, "source_ctime_ns": 1794797349695687458, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.583251+00:00"}
 
 DIEPPE (76) 18.06.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ DIEPPE (76) 18.06.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

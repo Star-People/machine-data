@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:51:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7135128, "source_ctime_ns": 1793384019058968986, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988560/0661.jpg", "source_mtime_ns": 1785747957000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988560/0661.jpg", "source_sha256": "d0b10233bd8fb4ecace49be16c8b339f81ab597719e2c7ba9c922322b5f74e3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 427, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1960 OCT 1
+10:42
+WWF
+move
+RECEIVED
+190cт60 11 51
+АРІС:
+20ZCS0 P278C5QE0112CANADS2
+RJEDSO
+RJEDAH
+716202
+30 NORAD RGN TRUAX FLD
+WRIGHT PATTERSON AIR RESEARCH AND DEVELOPMENT CENTER DAYTON OHIO
+LAS/37-OIN 1034. FOR INTELLIGENCE DIG RECEIVED 27 AUGUST 1962
+DESCRIPTION OF OBJECTS):
+SHAPE: OVAL
+SIZE: UNK
+COLOR: BROWNISH
+NUMBER: ONE
+FORMATION: NA
+. DISCERNABLE FEATURES: 3 LIGHTS IN A LINE
+• TAIL, TRAIL OF EXHAUST: UNK
+SOUND: NONE

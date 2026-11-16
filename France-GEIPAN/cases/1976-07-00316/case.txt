@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00316/case.html", "source_sha256": "7a85860d8e408501dc61827fe5e10a9028fb8eec46b0e447e840ea9682d80f9f", "source_bytes": 18697, "created_utc": "2026-10-21T18:12:30.317808+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00316/case.html", "source_sha256": "785eca38b82e49c13d8443651e03bf3a4fb9f649640149005d35c67543570e7c", "source_bytes": 18715, "source_mtime": 1794797423, "source_mtime_ns": 1794797423408106703, "source_ctime_ns": 1794797423408407995, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.844989+00:00"}
 
 EPINAL (88) 10.07.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ EPINAL (88) 10.07.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

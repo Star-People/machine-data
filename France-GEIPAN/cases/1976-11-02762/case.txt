@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-11-02762/case.html", "source_sha256": "e85c2d47d356425c46b6e524ce18ce1ea9c90ae7287d93cce8f39ba3716bdc64", "source_bytes": 18487, "created_utc": "2026-10-21T18:12:36.340079+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-11-02762/case.html", "source_sha256": "884aa921290478e5055f2680f406b023e6334d2b022949d9b1acdd3738ae413a", "source_bytes": 18505, "source_mtime": 1794797761, "source_mtime_ns": 1794797761782478838, "source_ctime_ns": 1794797761782774880, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:05:25.230385+00:00"}
 
 COMMERCY (55) 20.11.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ COMMERCY (55) 20.11.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

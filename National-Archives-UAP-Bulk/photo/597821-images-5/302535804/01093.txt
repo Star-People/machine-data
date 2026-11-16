@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:35:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1690824, "source_ctime_ns": 1793389046548665675, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535804/01093.jp2", "source_mtime_ns": 1785808359000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535804/01093.jp2", "source_sha256": "c252906d8af4117f223896cd5516587761350f7534c72aeb3d6fb5b5ab28647a"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 755, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICIAL FILE COPY
+OFFICIAL FILE COPY
+TDEW
+UFO Sightings, 22 Sep 6k
+3635th Plight Training Wing
+Stead AFB, Nevada
+Reference your message, OF 00317, 24 Sep 64, regarding reports
+of unidentified flying objects on 22 sep 64.
+2.
+The object observed in these sightings has been deternined to
+be the atlas D missile launched from Vandenburg AFB with a l1ft
+off time of 0608.48 local. Evaluation was possible because of
+the accuracy and description of the details in your report.
+3. Notification of this evaluation to the observers is suggested.
+Observers may be interested in knowing that this object was also
+seen in West Sacramento and Carmichael, California.
+FOR THE COMMANDER
+5 Oct 64
+ERIC F de JONCYHFERE
+Colonel, USAF
+Deputy for TechnolorY
+and Subeysteme

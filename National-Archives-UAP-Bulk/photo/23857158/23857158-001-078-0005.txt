@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:59:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10505154, "source_ctime_ns": 1793358252393836490, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-078-0005.tif", "source_mtime_ns": 1785681036000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-078-0005.tif", "source_sha256": "02ae92dbe71d1ea47148ae854987357b9024ff9904484784a003f4786ba6fabd"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 588, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+FORI
+3112- PART IL
+F1ight 2-D, 46028 AISS
+UNCLASSIFIED
+(CLASSIFICATION
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+2D-DEOB-1 PART ONE
+PAGE
+5 0 5
+PAGES
+SOURCEYC Memory Skatch of
+obfcet
+THIS DOCUMENT CONTAINS INFO
+J1 AND 32 AS AMENDED. ITS TRANSMISSIO!
+INTO LIGENCE USAF.
+IG THE NATIONAL, DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.
+REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+CLASSIFICATION)

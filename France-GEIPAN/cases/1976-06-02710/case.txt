@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-06-02710/case.html", "source_sha256": "5be6e5ee0848d4f07259368d471c713a6862a083657c16a23c349c4beb56fb65", "source_bytes": 18484, "created_utc": "2026-10-21T18:12:28.682363+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-06-02710/case.html", "source_sha256": "f761d0c3c3bb74fd1e47aa2236c2b6774d3d19c4453566c58ccedc4008fcf353", "source_bytes": 18502, "source_mtime": 1794797381, "source_mtime_ns": 1794797381121133581, "source_ctime_ns": 1794797381121188665, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.759769+00:00"}
 
 PONT-DU-CASSE (47) 06.06.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ PONT-DU-CASSE (47) 06.06.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

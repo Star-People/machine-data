@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00323/case.html", "source_sha256": "dcb89b816b2c3bdc74e9a4eb73fca96d2e204963c1c46fe7441e77bb6fe356b2", "source_bytes": 19138, "created_utc": "2026-10-21T18:12:31.289524+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00323/case.html", "source_sha256": "c847f0e859cbffae33221473482677ad16cbd11d45d08f12bded28ef7e220bdb", "source_bytes": 19156, "source_mtime": 1794797490, "source_mtime_ns": 1794797490287930406, "source_ctime_ns": 1794797490288087656, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:04:27.938516+00:00"}
 
 CONDOM (32) 23.07.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ CONDOM (32) 23.07.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

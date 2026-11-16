@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-04-00298/case.html", "source_sha256": "3833b469a1c9a73d2ceab4b7f66ff6739d063462655aaf42d6ded6c4cb73e401", "source_bytes": 19800, "created_utc": "2026-10-21T18:12:27.222159+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-04-00298/case.html", "source_sha256": "d6c9b946bf6faf4ad0225c6f7dbae3ef285130ec41c3ebe5ed4ba28dffa1ffbc", "source_bytes": 19818, "source_mtime": 1794797296, "source_mtime_ns": 1794797296156084882, "source_ctime_ns": 1794797296156245924, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.455661+00:00"}
 
 LAROQUE-TIMBAUT (47) 07.04.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ LAROQUE-TIMBAUT (47) 07.04.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

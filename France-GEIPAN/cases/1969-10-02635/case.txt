@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1969-10-02635/case.html", "source_sha256": "d9f4103c3a08df5d9cd95ee46718a534598c18bf96edee57ce93c80f0cad8989", "source_bytes": 20820, "created_utc": "2026-10-21T18:12:13.013478+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1969-10-02635/case.html", "source_sha256": "90111d551e26d8c7a2abd6199757cb42d44c77751a06a95a644b394751ed532f", "source_bytes": 20838, "source_mtime": 1794796878, "source_mtime_ns": 1794796878151549885, "source_ctime_ns": 1794796878151654468, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.254781+00:00"}
 
 NANTES (44) 08.10.1969 | GEIPAN
     
@@ -38,7 +38,7 @@ NANTES (44) 08.10.1969 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

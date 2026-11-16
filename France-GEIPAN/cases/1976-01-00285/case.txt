@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00285/case.html", "source_sha256": "99a5b4140d5e350ff019be0c2487bebaa41c1c2f54a3f29ac92ce9308472b156", "source_bytes": 18751, "created_utc": "2026-10-21T18:12:24.585951+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00285/case.html", "source_sha256": "eff1fcc742d98fa9a6cbedb0e57af5664ff9e08fc2fa174e530d08a392e866b5", "source_bytes": 18769, "source_mtime": 1794797169, "source_mtime_ns": 1794797169274464869, "source_ctime_ns": 1794797169274601036, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.098474+00:00"}
 
 CHANTONAY (85) 24.01.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ CHANTONAY (85) 24.01.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

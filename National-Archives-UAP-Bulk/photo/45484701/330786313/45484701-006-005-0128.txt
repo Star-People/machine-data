@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:53:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8184800, "source_ctime_ns": 1793363999124587189, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0128.jpg", "source_mtime_ns": 1785684967000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0128.jpg", "source_sha256": "1a46df57942f3e2878efce92bef21f7f9d069ad8a313e223bcdf4ba5d5b61267"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 890, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ONFIDEN NA
+g• Direction of Flight: Northeast to southwest
+h. Tactics or Maneuvers: None
+i. Evidence of Exhaust: Left a trail of light brighter
+than object
+j• Effect on Clouds: None
+k. Support or Propulsion: Unknown
+1. Projections or indentations: None
+m. Speed: Unknown
+n. Sound: None
+•. Manner of disappearance: Steady descent towards horizon
+at an angle of about 5 degrees. Just disappeared
+p. Notes relative to observers:
+(1)
+Name: Mr. FRANCIS R. QUINLAN
+(2)
+Address: 3282-A Walnut St. Los Alamos, N. M.
+(3)
+Occupation: Inspector, C-3 Section, Los Alamos
+(4)
+Reliability of observing: Unknown
+(1)
+(2)
+3. ACTION:
+Name: Mr. PHILLIP C. MACKEY
+Address: 74 2nd Street, Los Alamos, N. M.
+Occupation: Inspector, C-3, Section, Los Alamos
+Reliability of observing: Unknown
+Reports furnished Headquarters, OSI.
+Than fen
+ICHARD
+Major, USAF
+District Commander
+Declassification Authority: NND 923007

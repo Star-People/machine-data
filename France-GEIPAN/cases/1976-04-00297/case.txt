@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-04-00297/case.html", "source_sha256": "3c335f64ebf8fc995e4c309c5a65e85edfbec2c45f277b26f94995df5e9b4006", "source_bytes": 19152, "created_utc": "2026-10-21T18:12:26.904418+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-04-00297/case.html", "source_sha256": "b3df343a9250ec927e63df04da3db301f0ee98abf4afdc02cb05d50907a506d6", "source_bytes": 19170, "source_mtime": 1794797285, "source_mtime_ns": 1794797285527280002, "source_ctime_ns": 1794797285527401628, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.424977+00:00"}
 
 PONT-SAINTE-MAXENCE (60) 05.04.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ PONT-SAINTE-MAXENCE (60) 05.04.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

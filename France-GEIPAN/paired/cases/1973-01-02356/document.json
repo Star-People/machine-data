@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1973-01-02356/case.html",
-    "bytes": 19513,
+    "bytes": 19531,
     "canonical_source_identifier": "GEIPAN:1973-01-02356",
     "case_metadata": {
       "classification": "C",
@@ -40,7 +40,7 @@
     "original_title": "CARCES (83) --.--.1973",
     "relative_path": "cases/1973-01-02356/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "dfd991f73abaa0d2c23daa4e827858c56763cf33105c63b061734782c38dd75c",
+    "sha256": "8ee0ce8f5ed2018ee8629463cfde1f5845fff4e8c3ce6cc571768713fb04f34c",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1973-01-02356"
     ]

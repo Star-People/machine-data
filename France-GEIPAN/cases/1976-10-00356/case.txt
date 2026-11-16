@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00356/case.html", "source_sha256": "4c5acce50f2ad715a27a551d0f1ff20d50ef134451f52ad3b4ff4cbf032c9bfe", "source_bytes": 18896, "created_utc": "2026-10-21T18:12:35.220348+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00356/case.html", "source_sha256": "62c2cf08782da4d27f8196be7930bb2d0d27b22c5e811b0a95c5c2357c47643e", "source_bytes": 18914, "source_mtime": 1794797697, "source_mtime_ns": 1794797697228401024, "source_ctime_ns": 1794797697228705484, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:05:12.292090+00:00"}
 
 CHATEL-GUYON (63) 29.10.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ CHATEL-GUYON (63) 29.10.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

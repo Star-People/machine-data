@@ -8,7 +8,7 @@
   "document_id": "doc-6223a39cef9435ed33af86f7",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-26T03:10:06Z",
+    "generated_at": "2026-11-16T03:38:07Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1974-05-02510/case.html",
-    "bytes": 18484,
+    "bytes": 18502,
     "canonical_source_identifier": "GEIPAN:1974-05-02510",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "CONCARNEAU (29) --.--.1974",
     "relative_path": "cases/1974-05-02510/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "b3100d05412314728bac38394093a7153ce53d913df51ce5e301397fc5329953",
+    "sha256": "f0ffab60fa31659551ba63754c57ee0e8253ad4deb3367166673da672eae7ecb",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1974-05-02510"
     ]

@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1967-09-09106/case.html", "source_sha256": "290815ee6ff817b51e4ee5e7b152b6ec176e5ef6d71852685fbd6ee1eeb9656a", "source_bytes": 19128, "created_utc": "2026-10-21T18:12:12.834864+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1967-09-09106/case.html", "source_sha256": "f416b77ae9618e66bc76aad2c99d5ae811e374d543734a98ba87a32987235ff4", "source_bytes": 19146, "source_mtime": 1794796867, "source_mtime_ns": 1794796867138722987, "source_ctime_ns": 1794796867138767570, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.109711+00:00"}
 
 SEILLONS-SOURCE-D'ARGENS (83) --.09.1967 | GEIPAN
     
@@ -38,7 +38,7 @@ SEILLONS-SOURCE-D'ARGENS (83) --.09.1967 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

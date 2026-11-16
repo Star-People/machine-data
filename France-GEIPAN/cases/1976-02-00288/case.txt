@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-02-00288/case.html", "source_sha256": "ca344eb3f94e26dcef562da936522dff3d7b4e92688f4f63277ab3bda2065ca4", "source_bytes": 21955, "created_utc": "2026-10-21T18:12:25.135143+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-02-00288/case.html", "source_sha256": "ffab4cb2cd275a3e743c008798b945f4882b4ff5900ef04e197b074af1a60d99", "source_bytes": 21973, "source_mtime": 1794797211, "source_mtime_ns": 1794797211181137233, "source_ctime_ns": 1794797211181222067, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.218373+00:00"}
 
 (DPT) VENDEE (85) 09.02.1976 | GEIPAN
     
@@ -38,7 +38,7 @@
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00313/case.html", "source_sha256": "dd6b46f4d9a30141b6309ebca2b434a16ed2fcb98b4071fbd637f9735eff95ee", "source_bytes": 18282, "created_utc": "2026-10-21T18:12:28.986385+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00313/case.html", "source_sha256": "4d9b69b611b039300ad4558c792d18a1a18b7704149624aea7dcb354544bb8bd", "source_bytes": 18300, "source_mtime": 1794797402, "source_mtime_ns": 1794797402376310082, "source_ctime_ns": 1794797402376493375, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.799907+00:00"}
 
 AVALLON (89) 07.07.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ AVALLON (89) 07.07.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

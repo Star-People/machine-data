@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-75bf5ed185961807f3de907c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-120c813d5a0fb07e8bea5107",
           "segment_index": 3,
           "source_segment_id": "seg-120c813d5a0fb07e8bea5107",
           "source_text_sha256": "c708fef64589ad6d74a18b3e6880242802b1f650c24085111aa22d2a266a41b3",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Lorraine",
           "translation_text_sha256": "f72e8a1624c663045d06f4de0cd4dc6b72d95c386da81c6230f2819c5fa2e548"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-75bf5ed185961807f3de907c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-f41b947d7311a2f29cc17c76",
           "segment_index": 4,
           "source_segment_id": "seg-f41b947d7311a2f29cc17c76",
           "source_text_sha256": "99a152b171f248a055fa157b1e5b8f89a54d324c67856fd0e0648188126a64e8",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Moselle",
           "translation_text_sha256": "9a8598090c33b3124380fe5cc9c0b1fac1747e77b686c73bc8678bc74d2a6a7d"
         },
@@ -123,69 +123,31 @@
           "field": "documents",
           "page_id": "page-75bf5ed185961807f3de907c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-bf9e3dbe1b66eba481803c5a",
           "segment_index": 8,
           "source_segment_id": "seg-bf9e3dbe1b66eba481803c5a",
           "source_text_sha256": "cf8a2ea8cad874591af9b00befb8e3d4b2864bf84a084a2247b9fd58d0ab0778",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 3052 (1976309154).pdf",
-          "translation_text_sha256": "6f8d217e8c67a07be07751fe5a0197eeeef16b983806ff004d15f1fc74ed97ed"
+          "status": "not-required",
+          "text": "Documents: PV n°3052 (1976309154).pdf",
+          "translation_text_sha256": "cf8a2ea8cad874591af9b00befb8e3d4b2864bf84a084a2247b9fd58d0ab0778"
         },
         {
           "end_ms": null,
           "error": null,
           "field": "testimonies",
           "page_id": "page-75bf5ed185961807f3de907c",
-          "qa_findings": [
-            {
-              "added_in_translation": [
-                "1976-10-07",
-                "1976-10-07",
-                "1976-10-07",
-                "1976-10-07"
-              ],
-              "check": "dates",
-              "missing_from_translation": [],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "10",
-                "10",
-                "10",
-                "10",
-                "1976",
-                "1976",
-                "1976",
-                "1976",
-                "7",
-                "7",
-                "7",
-                "7"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [
-                "07.10.1976",
-                "07.10.1976",
-                "07.10.1976",
-                "07.10.1976"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "not-required",
           "segment_id": "seg-0e64f07d46690597ad94d72c",
           "segment_index": 9,
           "source_segment_id": "seg-0e64f07d46690597ad94d72c",
           "source_text_sha256": "8e831b5830a274340253eaf64dabfa0634155220c300827a1f1f07461995007c",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Testimonies: FLEURY (57) 10/7/1976 T1 FLEURY (57) 10/7/1976 T2 FLEURY (57) 10/7/1976 T3 FLEURY (57) 10/7/1976 T4",
-          "translation_text_sha256": "3e1cdbe7e40676a31e1828c16b9c4063f7c82280e1b22e1234d5f7553afa5057"
+          "status": "not-required",
+          "text": "Testimonies: FLEURY (57) 07.10.1976 T1 FLEURY (57) 07.10.1976 T2 FLEURY (57) 07.10.1976 T3 FLEURY (57) 07.10.1976 T4",
+          "translation_text_sha256": "3fb6e9024842a3ff8e7ed8be89bc161cb5989e99a92f5434e3de59c780fc3604"
         },
         {
           "end_ms": null,
@@ -200,35 +162,24 @@
           "source_text_sha256": "d9b181aeae1f352cbc1b913d9674c91f9f10fd25868df7dad3b2cdeffc14eed6",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Summary: Probable observation of a spacecraft passage.",
-          "translation_text_sha256": "704144f2d5d869be2b2f37ad96904589a06173af4fa50c370f837790bf28d93d"
+          "text": "Summary: Probable observation of an aircraft passage.",
+          "translation_text_sha256": "9ebb15e2633e96c013ee76fe527956dbbdcd43687f8a633672ed4bff9f1e018c"
         },
         {
           "end_ms": null,
           "error": null,
           "field": "description",
           "page_id": "page-75bf5ed185961807f3de907c",
-          "qa_findings": [
-            {
-              "added_in_translation": [
-                "0",
-                "19"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-cb159cce478e702372bba9a5",
           "segment_index": 11,
           "source_segment_id": "seg-cb159cce478e702372bba9a5",
           "source_text_sha256": "050ff8964d80adb194cbfe6aef958a74bf29375ef8b9a7d37620c2b85426cb8e",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: On October 7, 1976, several teenagers observed for a few seconds around 7 PM (19:00) the rapid passage of an object over the houses in the neighborhood. The object was described as having the shape of a red cigar and moving silently on a trajectory from southeast to northwest. No adults witnessed this phenomenon, which was reported in the local press on the insistence of one of the parents. These children likely observed the passage of an aircraft, as air traffic is significant in this area near Metz Airport.",
-          "translation_text_sha256": "42c673e015836ee885ca69a29673ae53ac4a449c2996495a53744177b44e5778"
+          "status": "machine-unreviewed",
+          "text": "Description: On October 7, 1976, several teenagers observed the quick passage of an object above the neighborhood's houses around 7 PM. The object is described as having the shape of a cigar that is red in color and moves silently along a trajectory from southeast to northwest. No adults will be witnesses to this phenomenon, which will be reported in the local press on the insistence of one of the parents. These children likely made an observation of the passage of an aircraft, as air traffic is heavy in this area near the Metz airport.",
+          "translation_text_sha256": "d90ee493b05a2c8a28ed9af24fffa566e6fa59ed584e676b84ce7e7f73c562e5"
         }
       ],
       "source_page_id": "page-75bf5ed185961807f3de907c"
@@ -239,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-28T18:24:07Z",
+    "generated_at": "2026-11-16T04:27:13Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

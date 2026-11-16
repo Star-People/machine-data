@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1974-11-02018/case.html", "source_sha256": "11d0cbec57a5ccafda4dbd6db04bf6040df517b337745fab663036f3c4797031", "source_bytes": 20951, "created_utc": "2026-10-21T18:12:16.730931+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1974-11-02018/case.html", "source_sha256": "e45b8b43c57862ded91e575aa0244af2574f63fc7838c69e9aced7c021428fbd", "source_bytes": 20969, "source_mtime": 1794796997, "source_mtime_ns": 1794796997529075252, "source_ctime_ns": 1794796997529167294, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.571022+00:00"}
 
 SOUGE-LE-GANELON (72) 02.11.1974 | GEIPAN
     
@@ -38,7 +38,7 @@ SOUGE-LE-GANELON (72) 02.11.1974 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

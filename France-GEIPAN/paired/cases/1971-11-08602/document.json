@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1971-11-08602/case.html",
-    "bytes": 20760,
+    "bytes": 20778,
     "canonical_source_identifier": "GEIPAN:1971-11-08602",
     "case_metadata": {
       "classification": "C",
@@ -42,12 +42,12 @@
     "original_title": "NEUVES-MAISONS (54) 02.11.1971",
     "relative_path": "cases/1971-11-08602/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "cd178c4b434807d116b35515d64a58bfd3fb145df909a1b1f69f9174ed96f810",
+    "sha256": "aebd4c9c3b2f57d7dd78bf03af0d412be7380b2fdf72d2b66cf45ddb242b7092",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1971-11-08602"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

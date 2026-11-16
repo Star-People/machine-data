@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-02-00209/case.html", "source_sha256": "bfae3b5ac3df73c8de534be69e398a341185aed67e36e5126f4912876665ee21", "source_bytes": 20150, "created_utc": "2026-10-21T18:12:17.439547+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-02-00209/case.html", "source_sha256": "423f9ad8fd7469bb053eca655e3c583abc716088c09893da0c51b858c8656beb", "source_bytes": 20168, "source_mtime": 1794797040, "source_mtime_ns": 1794797040463578692, "source_ctime_ns": 1794797040463875110, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.699572+00:00"}
 
 CASTELNAU-DE-MONTMIRAL (81) 18.02.1975 | GEIPAN
     
@@ -38,7 +38,7 @@ CASTELNAU-DE-MONTMIRAL (81) 18.02.1975 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

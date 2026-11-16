@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-76627cd87eafe1ea57325855",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-812a51761dc020c43590a124",
           "segment_index": 3,
           "source_segment_id": "seg-812a51761dc020c43590a124",
           "source_text_sha256": "c708fef64589ad6d74a18b3e6880242802b1f650c24085111aa22d2a266a41b3",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Lorraine",
           "translation_text_sha256": "f72e8a1624c663045d06f4de0cd4dc6b72d95c386da81c6230f2819c5fa2e548"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-76627cd87eafe1ea57325855",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-b21204e13af90552426911c0",
           "segment_index": 4,
           "source_segment_id": "seg-b21204e13af90552426911c0",
           "source_text_sha256": "aec46549553e79c047928606a95fe33371bf27255ab7c2d2e1cb459b20768095",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Meurthe-et-Moselle",
           "translation_text_sha256": "7eff64c2e10d1303e4032ca2ad8c2c9b8937be844f5ff2a29a701ee79623ec64"
         },
@@ -155,15 +155,15 @@
           "field": "documents",
           "page_id": "page-76627cd87eafe1ea57325855",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-9cb2ee193499c5c2c80189ac",
           "segment_index": 10,
           "source_segment_id": "seg-9cb2ee193499c5c2c80189ac",
           "source_text_sha256": "fe3b4afc66c5fb905255b9fec305d9e3a438327becdec319f4a3cb7910604a42",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents:  Compte rendu enquete.pdf Questionnaire terre-R.pdf",
-          "translation_text_sha256": "30d06241c39a82e39a48738013d0ce7d4f52b677edb2d59eb97cabe7fc0cfc72"
+          "status": "not-required",
+          "text": "Documents: Compte rendu enquete.pdf Questionnaire terre-R.pdf",
+          "translation_text_sha256": "fe3b4afc66c5fb905255b9fec305d9e3a438327becdec319f4a3cb7910604a42"
         },
         {
           "end_ms": null,
@@ -171,13 +171,13 @@
           "field": "testimonies",
           "page_id": "page-76627cd87eafe1ea57325855",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-ae4b243d8f80571928b51a1b",
           "segment_index": 11,
           "source_segment_id": "seg-ae4b243d8f80571928b51a1b",
           "source_text_sha256": "26a3ee05178cac6b2d5bd97a147161595feabda6240581479f4efeae4c264eb1",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: NEUVES-MAISONS (54) 02.11.1971",
           "translation_text_sha256": "093ad9ebda23929387c8b5ceead719a4a1b6bda2e8f062e1abbe308d0b9fab46"
         },
@@ -202,36 +202,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-76627cd87eafe1ea57325855",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "19:10"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "10",
-                "7"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-b27aad4ec3faacc6f1fc0820",
           "segment_index": 13,
           "source_segment_id": "seg-b27aad4ec3faacc6f1fc0820",
           "source_text_sha256": "5bcc12254137fe2aafee720f31589a3c34b3ddf719f352d595d2dcfc49f8a0d2",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: On November 2, 1971, around 7:10 and 7:40 PM, the witness (then aged 6 and a half) was returning home from a sports practice. Alerted by a classmate, the witness observed a circular object resembling a \"saucer\" with two rows of windows in the sky. The object appeared to rotate on itself while moving at a low altitude without making a sound. The object was directly above the street the witness had to take to get home. However, at a crossroads, the child lost sight of the PAN as it continued its straight path. Upon arriving home, unfortunately, the child never saw the object in the sky again. Only one testimony was collected (see the investigation report). The hypothesis of a lost balloon largely corresponds (straight trajectory, silence, low altitude, duration of observation...), but cannot be validated as searches did not find a balloon with the characteristics described by the witness (windows, color, size...). The noted color change at the end of the observation is also a weakening element for this hypothesis. Given the witness's young age, the detailed testimony is surprising. Only one of the two known witnesses testified to the GEIPAN and was heard. Consistency is compromised by the significant delay after the observation (45 years) which can affect memory, and also by recording only one of the two witnesses. Consistency is too low to validate the strange and unexplained nature of the observation. For example, it is not possible to verify certain important information, and it is not possible to rule out with strong evidence the possibility of a lost child's balloon. Consequently, the GEIPAN classifies the case as C: late testimony unusable due to lack of reliable information.",
-          "translation_text_sha256": "4b2196de938080d144e4a4820d3f406f8aae41466c5541389039c8974b8970de"
+          "status": "machine-unreviewed",
+          "text": "Description: On November 2, 1971, around 7:10 and 7:40 PM, the witness (then aged 6 and a half) was returning home from a sports practice. He was alerted by a classmate about an object in the sky. Intrigued, the witness observed a circular object resembling a \"saucer\" with two rows of windows. The object seemed to rotate on itself while moving at a low altitude without making a sound. The object was directly above the street the witness had to take to get home. However, at a crossroads, the child lost sight of the PAN as it continued its straight path. Upon arriving home, unfortunately, the child never saw the object in the sky again. Only one testimony was collected (see the investigation report). The hypothesis of a lost balloon largely corresponds (straight trajectory, silence, low altitude, duration of observation...) but cannot be validated as the searches did not find a balloon with the characteristics described by the witness (windows, color, size...). The noted color change at the end of the observation is also a weakening element for this hypothesis. The detailed testimony is surprising given the young age of the witness. Only one of the two known witnesses testified to the GEIPAN and was heard. Consistency is marred by the significant delay after the observation (45 years) which can alter memory, and also by the recording of only one of the two witnesses. Consistency is too low to validate the strange and unexplained nature of the observation. For example, it is not possible to verify certain important information, and it is not possible to rule out with strong evidence the possibility of a lost child's balloon. Consequently, the GEIPAN classifies the case as C: late testimony unusable due to lack of reliable information.",
+          "translation_text_sha256": "9ef2906c31c88175cb24f795528e819699bbe0c11762fb85158dd1bf78e2b71b"
         }
       ],
       "source_page_id": "page-76627cd87eafe1ea57325855"
@@ -242,13 +222,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-09-23T07:02:10Z",
+    "generated_at": "2026-11-16T03:26:49Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

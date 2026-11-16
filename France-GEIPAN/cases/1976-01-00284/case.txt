@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00284/case.html", "source_sha256": "64b99dde26cff65b2d9e082b47af2b32065dc5d39791654780084a85b1720647", "source_bytes": 18834, "created_utc": "2026-10-21T18:12:24.440260+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00284/case.html", "source_sha256": "f98387b0d33f995a93bdcae4ddcbe0ae4913ece4fc581beecd680e72e2e614cc", "source_bytes": 18852, "source_mtime": 1794797161, "source_mtime_ns": 1794797161272018257, "source_ctime_ns": 1794797161272122799, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.062925+00:00"}
 
 ESPALION (12) 19.01.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ ESPALION (12) 19.01.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

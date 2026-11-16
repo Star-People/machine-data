@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-01-00204/case.html", "source_sha256": "6b644dcc3c3420747b8bfdd9ea2bcb7a018cbc8e1eeba125d10629dac5404d83", "source_bytes": 18871, "created_utc": "2026-10-21T18:12:16.910878+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-01-00204/case.html", "source_sha256": "3c0ad2b2cc6fb6359c35b580d85726968839b212cce1a82a7e82ac9db4aade74", "source_bytes": 18889, "source_mtime": 1794797008, "source_mtime_ns": 1794797008392994466, "source_ctime_ns": 1794797008393112008, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.600621+00:00"}
 
 MONTPELLIER (34) 19.01.1975 | GEIPAN
     
@@ -38,7 +38,7 @@ MONTPELLIER (34) 19.01.1975 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

@@ -8,7 +8,7 @@
   "document_id": "doc-3531085a84ae8625b9a3963c",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-27T03:10:02Z",
+    "generated_at": "2026-11-16T03:10:31Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1973-01-01765/case.html",
-    "bytes": 18704,
+    "bytes": 18722,
     "canonical_source_identifier": "GEIPAN:1973-01-01765",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "NOUMEA (988) --.--.1973",
     "relative_path": "cases/1973-01-01765/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "bcdaeab341f66325fc0ee14b51004dcc890d392947ab2aa35fa5203ca446f464",
+    "sha256": "f87e59d96dff3136474740c860fb1220cd867d2240c7d5c7447d6f0cc69f5276",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1973-01-01765"
     ]

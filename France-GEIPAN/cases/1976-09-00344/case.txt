@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-09-00344/case.html", "source_sha256": "f9de1ad1198c5817d1b9b178f9568a14e21c3de56b267f7f5e00c79403afa294", "source_bytes": 19264, "created_utc": "2026-10-21T18:12:33.538908+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-09-00344/case.html", "source_sha256": "f0833146ffd76b723136064255c3abdef2555e500fb4bb27460d0b4dc90b42fe", "source_bytes": 19282, "source_mtime": 1794797607, "source_mtime_ns": 1794797607161649564, "source_ctime_ns": 1794797607161940399, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:04:54.130769+00:00"}
 
 HAUTE-GARONNE (31) 17.09.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ HAUTE-GARONNE (31) 17.09.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00283/case.html", "source_sha256": "9709553a490bea140cc9931ecb7b630546f7081dc35af27b18c3717dcb443bde", "source_bytes": 18595, "created_utc": "2026-10-21T18:12:24.315356+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00283/case.html", "source_sha256": "6f9c401750552ecf8d07659906c4ad6dfe2a18dbbceef897cc682727f05f0aca", "source_bytes": 18613, "source_mtime": 1794797147, "source_mtime_ns": 1794797147080117243, "source_ctime_ns": 1794797147080226785, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.041794+00:00"}
 
 NEUVILLE-SAINT-VAAST (62) 17.01.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ NEUVILLE-SAINT-VAAST (62) 17.01.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

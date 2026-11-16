@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-7e1fc893ed55c1b83fb45ce6",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-568f2711fed9356e3cfa443d",
           "segment_index": 3,
           "source_segment_id": "seg-568f2711fed9356e3cfa443d",
           "source_text_sha256": "79dbc5c726174a7eacc3772b95a789e7c826af4c8da6e958c5c0321b70ca7243",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Midi-Pyrénées",
           "translation_text_sha256": "163f1a93625f8b3d0442a9358ea5fd93f009981b84ebbf64cb05982851a789f1"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-7e1fc893ed55c1b83fb45ce6",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-74d25c90ef9e930e45662e35",
           "segment_index": 4,
           "source_segment_id": "seg-74d25c90ef9e930e45662e35",
           "source_text_sha256": "d163b9bf326a5724f8a4b8d49f9ca063fff1413a8bc7cae9ca81a82eb2b0108d",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Hautes-Pyrénées",
           "translation_text_sha256": "f2f034527f2c564e5de441eb03f7c808c72486ed69fbb86e002ac9611bfded93"
         },
@@ -114,8 +114,8 @@
           "source_text_sha256": "99900c51c71c36a2a52d8f84b280bd72f1dbe6b6c147d45eacda8922dbe78274",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Phenomenon Type: Identified but unspecified",
-          "translation_text_sha256": "0f68bd0fdb1d7a3497ed7bf1bc9edf9a02576a951db17c43c4da69dd5a5c16cf"
+          "text": "Phenomenon type: Identified phenomenon not specified",
+          "translation_text_sha256": "6623dd06c461c18a3473aa4060657096afedd77488afd0eba7002ae2480dbdcc"
         },
         {
           "end_ms": null,
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-7e1fc893ed55c1b83fb45ce6",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-de8ab3bff25f9d3a437f1d87",
           "segment_index": 8,
           "source_segment_id": "seg-de8ab3bff25f9d3a437f1d87",
           "source_text_sha256": "b59f86bba9b20cb53125c4769c472609d83e0e684e87f07cc79472ae96d50b1a",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 2696 (1976309159).pdf",
-          "translation_text_sha256": "8cf2e4454b306aea938f313521a4b69bd4039c90c069eda6552a81c1a71d8fa7"
+          "status": "not-required",
+          "text": "Documents: PV n°2696 (1976309159).pdf",
+          "translation_text_sha256": "b59f86bba9b20cb53125c4769c472609d83e0e684e87f07cc79472ae96d50b1a"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-7e1fc893ed55c1b83fb45ce6",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-590848aa34dc830f2da78d88",
           "segment_index": 9,
           "source_segment_id": "seg-590848aa34dc830f2da78d88",
           "source_text_sha256": "9678e24409bc0a42811b1fa1de86955b8f86f287fc9dbd4448888ec6fe892744",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: TARBES (65) 05.09.1976",
           "translation_text_sha256": "86d0b6c58568437102b8b15b610afc2c35b941e4f9d482b1084966ad8489c6ab"
         },
@@ -170,45 +170,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-7e1fc893ed55c1b83fb45ce6",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "dates",
-              "missing_from_translation": [
-                "1976-09-05"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "07:22"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "22",
-                "7"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-44a22c3d5321d4b2eaec5ceb",
           "segment_index": 11,
           "source_segment_id": "seg-44a22c3d5321d4b2eaec5ceb",
           "source_text_sha256": "8f820775a3a2c3a7298d09999ebcd461235c2e7a409ec12f559a9c95829a4b08",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: On September 5, 1976, at approximately 7:22 a.m., an individual observed from the 15th floor of their building a luminous phenomenon in the sky that intrigued them. For about ten minutes, the witness observed in the southeast direction the presence above the Sarrouilles (65) hills of a red glowing line before it disappeared towards the east. No other testimony regarding this phenomenon was collected. The gendarmerie investigation revealed that the observation made on September 5 was likely directly related to the passage of a weather balloon that remained airborne after releasing its payload in a field in Soues. The winds were calm on September 4 and 5, 1976, and the two communes are roughly located in the same direction, southeast of Tarbes.",
-          "translation_text_sha256": "be50caae3ad022b92801c85e535eadfd228f4fc5bec9c748781ff6b076013502"
+          "status": "machine-unreviewed",
+          "text": "Description: On September 5, 1976, at approximately 7:22 a.m., an individual observed from the 15th floor of their building a luminous phenomenon in the sky that intrigued them. For about ten minutes, the witness observed in the southeast direction the presence, above the Sarrouilles (65) hills, of a red glowing line before it disappeared towards the east. No other testimony regarding this phenomenon was collected. The gendarmerie investigation revealed that the observation made on September 5 was likely directly related to the passage of a weather balloon that remained aloft after releasing its payload in a field near Soues. The winds were calm on September 4 and 5, 1976, and the two communes are roughly located in the same direction, southeast of Tarbes.",
+          "translation_text_sha256": "030279fd541c9c38ac2bef8f169448a1f83cf28a49f21226b4e216d8b42fb49c"
         }
       ],
       "source_page_id": "page-7e1fc893ed55c1b83fb45ce6"
@@ -219,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-27T15:46:21Z",
+    "generated_at": "2026-11-16T04:32:38Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

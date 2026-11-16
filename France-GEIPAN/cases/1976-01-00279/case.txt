@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00279/case.html", "source_sha256": "2ceea4003d47964090c31ec29f9218ddc9b790a2f47b5173a985d17a49ffbe40", "source_bytes": 19408, "created_utc": "2026-10-21T18:12:23.585573+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00279/case.html", "source_sha256": "8d19c6d68f7550015ac32c756113f491c24312054596f98d799f60be7bf6aaf1", "source_bytes": 19426, "source_mtime": 1794797094, "source_mtime_ns": 1794797094651256715, "source_ctime_ns": 1794797094651303215, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.930475+00:00"}
 
 DOMENE (38) --.01.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ DOMENE (38) --.01.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

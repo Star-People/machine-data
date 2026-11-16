@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-03-00293/case.html", "source_sha256": "d763230d77649cd45f8c3863275f9b4a91f00048142e2e1140573f716a4518ff", "source_bytes": 18813, "created_utc": "2026-10-21T18:12:25.714169+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-03-00293/case.html", "source_sha256": "c0f5c9f997a7820d1cd6e34d0399f5aff7bc2493875b7227c2c536007a422c47", "source_bytes": 18831, "source_mtime": 1794797253, "source_mtime_ns": 1794797253585979897, "source_ctime_ns": 1794797253586051065, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.342679+00:00"}
 
 SAINT-DENIS (974) 27.03.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ SAINT-DENIS (974) 27.03.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

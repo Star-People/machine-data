@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00318/case.html", "source_sha256": "c4a2aa8f1417bc270a63e351a756babd868b312773f2ddce886d87eb6a9894ea", "source_bytes": 19020, "created_utc": "2026-10-21T18:12:30.626852+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00318/case.html", "source_sha256": "ad6b38c2d04a20d612cbf4f0f6b78623065b2f28293b4ee221f18620f21bfd12", "source_bytes": 19038, "source_mtime": 1794797444, "source_mtime_ns": 1794797444701177949, "source_ctime_ns": 1794797444701499325, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.889988+00:00"}
 
 VOID-VACON (55) 13.07.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ VOID-VACON (55) 13.07.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

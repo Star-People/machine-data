@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00319/case.html", "source_sha256": "b2b4e69adb86558237b40b5103c4665eb432d58fd5b3db3b9fe4f8077f56859b", "source_bytes": 19039, "created_utc": "2026-10-21T18:12:30.835387+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00319/case.html", "source_sha256": "60001d088723b7f1c90489ca215fe39961f1fe57282047ddc23a7e009b19e58b", "source_bytes": 19057, "source_mtime": 1794797455, "source_mtime_ns": 1794797455324502019, "source_ctime_ns": 1794797455324552436, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:04:20.352955+00:00"}
 
 REVIN (08) 15.07.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ REVIN (08) 15.07.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

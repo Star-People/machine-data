@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-0e739a6759bcd8c3b56010d5",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-c9b994ab50121b5b726fb654",
           "segment_index": 3,
           "source_segment_id": "seg-c9b994ab50121b5b726fb654",
           "source_text_sha256": "1786ec9a8865f151485f492911c4b514a5215317ea071774d40f0640c1c6143b",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Rhône-Alpes",
           "translation_text_sha256": "c9cc0fa3af182bbd563ccd8374e8a5d76e6e0256cbfc2fbffe43209815f49656"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-0e739a6759bcd8c3b56010d5",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-7a86352a7b9b968f393a2720",
           "segment_index": 4,
           "source_segment_id": "seg-7a86352a7b9b968f393a2720",
           "source_text_sha256": "ba4b01f784a8026ed9ad8a16719fd9c2a46aebe64cd28700ad66f722367a2bb0",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Ain",
           "translation_text_sha256": "20c9d996f601710ca77cef4b6c4df38fddeb5f53a2fd7fb5ef2123098a0313ba"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-0e739a6759bcd8c3b56010d5",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-f6dbb250ab8460c19977088d",
           "segment_index": 8,
           "source_segment_id": "seg-f6dbb250ab8460c19977088d",
           "source_text_sha256": "026333c3ac600dc968234ab08333dab05e5769b46bc8088bd9419a79d3f063c2",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents:  Compte rendu enquete.pdf Temoignage direct-R.pdf",
-          "translation_text_sha256": "d9be3e885baa6de5134608fa5594732de5765c536d25974bbeef49163bac8b35"
+          "status": "not-required",
+          "text": "Documents: Compte rendu enquete.pdf Temoignage direct-R.pdf",
+          "translation_text_sha256": "026333c3ac600dc968234ab08333dab05e5769b46bc8088bd9419a79d3f063c2"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-0e739a6759bcd8c3b56010d5",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-b36e8ffafd611b0b573f063c",
           "segment_index": 9,
           "source_segment_id": "seg-b36e8ffafd611b0b573f063c",
           "source_text_sha256": "7cf69cd6374687fe1a16328cbc7e2a8e0312a856710b03e61a3bea56fac18102",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: HAUTEVILLE-LOMPNES (01) 13.12.1972",
           "translation_text_sha256": "f91c6cd8956eb7af4225b350fc7b146c8325e52c901d2ad2c1c9239e07c34e25"
         },
@@ -170,26 +170,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-0e739a6759bcd8c3b56010d5",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "dates",
-              "missing_from_translation": [
-                "1985-08-24"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-6989de43cfbd0425fbf8da1d",
           "segment_index": 11,
           "source_segment_id": "seg-6989de43cfbd0425fbf8da1d",
           "source_text_sha256": "0204c8218613499fb5b8402ac44abe00005955847ec6b82420fe67c107011a01",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: A witness reports in June 2009, two old observations. On December 13, 1972 at approximately 11:45 PM, two people in a car are surprised to see a round, glowing object appear in the sky above Hauteville. The phenomenon, of white-yellow-blue color, moves according to a straight trajectory at very high speed in a north-south direction. It disappears behind the horizon. No particular noise is heard by the witnesses during the short observation. No other testimony is collected. This case is moderately strange by its speed and the \"phosphorescent\" type brightness, but the consistency of the testimony and the lack of overlaps do not allow a conclusion. This case is classified C due to the lack of independent testimony and overlaps. The second observation on the night of August 23-24, 1985 of a luminous flash in a boat likely corresponds to a meteor, leading to a classification B for this single observation.",
-          "translation_text_sha256": "66df31c15810f75ae086212d80ff879477d8cdba15b8e5cb7b71e85479f2f875"
+          "status": "machine-unreviewed",
+          "text": "Description: A witness reports in June 2009 two old observations. On December 13, 1972 at approximately 23:45, two people in a car were surprised to see a round and bright object appear in the sky above Hauteville. The phenomenon, of white-yellow-blue color, moves according to a straight trajectory at very high speed in a South-North direction. It disappears behind the horizon. No particular noise was heard by the witnesses during the short observation. No other testimony was collected. This case is moderately strange by its speed and the \"phosphorescent\" type brightness, but the consistency of the testimony and the absence of overlaps do not allow a conclusion. This case is classified C due to the lack of independent testimonies and overlaps. The second observation on the night of August 23 to 24, 1985 of a luminous flash in a boat likely corresponds to a meteor, leading to a classification B for this single observation.",
+          "translation_text_sha256": "d4aa4ecac213defdb91ac4cd0a55a556bac9c30b1defa76959dc21042e79de7b"
         }
       ],
       "source_page_id": "page-0e739a6759bcd8c3b56010d5"
@@ -200,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-09-04T05:55:39Z",
+    "generated_at": "2026-11-16T02:53:55Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

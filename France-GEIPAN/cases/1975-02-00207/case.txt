@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-02-00207/case.html", "source_sha256": "5807651584e8b66cba8d6386eaae01a08a50cfdc6e8450e2bf266ca73f9bcf6a", "source_bytes": 18917, "created_utc": "2026-10-21T18:12:17.087884+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-02-00207/case.html", "source_sha256": "68185ccdc14139e683fbce405da43f2a8c041e6a8b2e9aa96dc9eefdfd2b9bb9", "source_bytes": 18935, "source_mtime": 1794797019, "source_mtime_ns": 1794797019085630633, "source_ctime_ns": 1794797019085784258, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.632497+00:00"}
 
 SAINT-JEAN-D'ANGELY (17) 15.02.1975 | GEIPAN
     
@@ -38,7 +38,7 @@ SAINT-JEAN-D'ANGELY (17) 15.02.1975 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

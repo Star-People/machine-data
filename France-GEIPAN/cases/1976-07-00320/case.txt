@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00320/case.html", "source_sha256": "ec2c5e9f4e9c794383a379b4a87d8bc81b0180bc58d2928aba2b5d97e1d24174", "source_bytes": 18585, "created_utc": "2026-10-21T18:12:30.996014+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00320/case.html", "source_sha256": "ce448bb8936ccd45d977390ae7dc309d7270c82edd74a719dc83189dfa08940a", "source_bytes": 18603, "source_mtime": 1794797465, "source_mtime_ns": 1794797465868442294, "source_ctime_ns": 1794797465868500419, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:04:22.763061+00:00"}
 
 COLOMBES (92) 16.07.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ COLOMBES (92) 16.07.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-02733/case.html", "source_sha256": "5d28ac27c43fc555a0f8d52af6974782b211642e83e40b3300b2f6da077b42aa", "source_bytes": 18372, "created_utc": "2026-10-21T18:12:32.034038+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-02733/case.html", "source_sha256": "c991b07dae677ebc295740af30e76650a193f6cff63935ba23ce9bfdb5e806c5", "source_bytes": 18390, "source_mtime": 1794797521, "source_mtime_ns": 1794797521964064121, "source_ctime_ns": 1794797521964134580, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:04:34.779782+00:00"}
 
 MIRAMONT-D'ASTARAC (32) 19.05.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ MIRAMONT-D'ASTARAC (32) 19.05.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

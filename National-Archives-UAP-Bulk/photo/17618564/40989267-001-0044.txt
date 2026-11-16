@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T03:09:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17144813, "source_ctime_ns": 1793355462639354184, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0044.jpg", "source_mtime_ns": 1785564459000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0044.jpg", "source_sha256": "003becd54968f61a7e66b0b720566e90fca1abc32ad1f8e14f4b2a36f7b0a759"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 224, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+79
+78
+
+Ynpnin Mp C tite
+
+Figure 8. Photograph Showing Installation of Azimuth Control System Plumbing.
+
+Only one arm of control system jet couple is shown.
+Figure 7. Detail View of Reaction Jet Valve and Nozzle Assembly
+
+}

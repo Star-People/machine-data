@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:40:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4607281, "source_ctime_ns": 1793381347227071071, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979910/00005.jpg", "source_mtime_ns": 1785700829000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979910/00005.jpg", "source_sha256": "b8e0222fca2a5ddfa5106788170211d8dfa717ada70cc2f5c96b77aba68b38d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 670, "method": "ocr", "page": 1, "variant": "plain-vision"}
+QB797ZCBJA22Y
+00 RJEZ HQ
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGI
+INCOMING
+ZOV RBEPC 149E
+T CHIEF OF STAFF USAF
+BEP C119bEG A057
+00 RUEDDN RBEPC
+DE RBEGDG 18
+0 171000Z
+FM COMEASTAREA NEW YORK NY
+TO RJEDDN/COMDT AIR DEFENSE COMMAND ENT AFB COLO SPRING S
+ZEN/ COMA SDE FORLANT
+RBEPC/CHIEF OF STAFF USAF
+INFO ZEN/ COMDT CG
+ZEN/ CINCLANT FLT
+ZEN/ CCGDT KREE
+0 1709362
+FM OS ECHO
+TO COMEASTAREA
+GRINC
+BT
+MERINT AMPLIFY 170854Z X BRIGHT WHITE LIGHT X 20 DEGRELS ABOVL HURIZUN
+X NO RADAR CONTACT X 4 WITNESSES
+BT
+CFN 170854Z 20 4
+17/1016Z SEP RBEGDG
+NOTE : 170854Z 1s not identified in SMD.
+ACTION : CIN
+INFO : O0P
+AF IN : 6699 (17 Sep 58)
+R/nem

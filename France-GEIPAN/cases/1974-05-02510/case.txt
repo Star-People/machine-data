@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1974-05-02510/case.html", "source_sha256": "b3100d05412314728bac38394093a7153ce53d913df51ce5e301397fc5329953", "source_bytes": 18484, "created_utc": "2026-10-21T18:12:16.434526+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1974-05-02510/case.html", "source_sha256": "f0ffab60fa31659551ba63754c57ee0e8253ad4deb3367166673da672eae7ecb", "source_bytes": 18502, "source_mtime": 1794796973, "source_mtime_ns": 1794796973685439439, "source_ctime_ns": 1794796973685541731, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.500003+00:00"}
 
 CONCARNEAU (29) --.--.1974 | GEIPAN
     
@@ -38,7 +38,7 @@ CONCARNEAU (29) --.--.1974 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

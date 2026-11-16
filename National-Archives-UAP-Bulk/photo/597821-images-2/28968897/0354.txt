@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:49:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6543289, "source_ctime_ns": 1793378696231711959, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968897/0354.jpg", "source_mtime_ns": 1785696413000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968897/0354.jpg", "source_sha256": "ede6837112e29f4a875ee6f7976cdc0b82e8d05f6ed3fb26ebe1df4d68fe2d6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 29, "chars": 214, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+—_——-s
+
+ya . “31> 7s “f ao “ be wy, “
+Cont ampla L4a o¥ This Dis Fg Were y
+:
+
+further action is
+wise requested
+
+ccs Dir OST PwIGH? J. Scover F
+
+Gondr, Keesier Lb Colonel, Usar
+AFB, Mississippi District Comnanaear

@@ -31,7 +31,7 @@
     },
     {
       "reasons": [],
-      "review_status": "machine-unreviewed",
+      "review_status": "not-required",
       "segment_id": "seg-79f07c92262bac5ac68d996a",
       "weight": 0
     },
@@ -43,7 +43,7 @@
     },
     {
       "reasons": [],
-      "review_status": "machine-unreviewed",
+      "review_status": "not-required",
       "segment_id": "seg-86db9757020de0fc1a529ee9",
       "weight": 0
     },
@@ -55,13 +55,13 @@
     },
     {
       "reasons": [],
-      "review_status": "machine-unreviewed",
+      "review_status": "not-required",
       "segment_id": "seg-c888b8eea151f23da45f7cbb",
       "weight": 0
     },
     {
       "reasons": [],
-      "review_status": "machine-unreviewed",
+      "review_status": "not-required",
       "segment_id": "seg-cb7e4dff79fe2f31c67b9e8d",
       "weight": 0
     },

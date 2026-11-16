@@ -8,7 +8,7 @@
   "document_id": "doc-c01e8289dcc5e23fd850ced1",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-09-04T05:55:39Z",
+    "generated_at": "2026-11-16T02:53:55Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1972-12-02331/case.html",
-    "bytes": 19313,
+    "bytes": 19331,
     "canonical_source_identifier": "GEIPAN:1972-12-02331",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "HAUTEVILLE-LOMPNES (01) 13.12.1972",
     "relative_path": "cases/1972-12-02331/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "50d83e8ff004abd42ae5046c41816164527c8b99fa8b770207ebfaac883998e7",
+    "sha256": "5fd11e02f9c044171a418d98db57fdfe528e34efd98d31066401d67d7eb8273a",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1972-12-02331"
     ]

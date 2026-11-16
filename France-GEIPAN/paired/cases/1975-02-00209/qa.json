@@ -1,10 +1,23 @@
 {
   "document_id": "doc-22cc4ad504c9767d0e30c96a",
-  "findings": [],
+  "findings": [
+    {
+      "added_in_translation": [
+        "00:00"
+      ],
+      "check": "times",
+      "missing_from_translation": [
+        "00:20"
+      ],
+      "segment_id": "seg-0aea9b3f790d1e11099a1983",
+      "severity": "error",
+      "status": "mismatch"
+    }
+  ],
   "page_count_match": true,
   "schema": "ufo-files-french-translation-qa/v1",
   "segment_count_match": true,
   "source_language": "fr-FR",
-  "status": "pass",
+  "status": "needs-review",
   "target_language": "en"
 }

@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-04-00300/case.html", "source_sha256": "ec5ca81dbc418cc4c9e8baccfc813a345a38cf32ba9b580498dda75b04b1677d", "source_bytes": 18901, "created_utc": "2026-10-21T18:12:27.475261+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-04-00300/case.html", "source_sha256": "d97d9ef3501c6e835b2fe1dec2cc92c09bec8cbb4e3bb6f6f306a35af9895127", "source_bytes": 18919, "source_mtime": 1794797318, "source_mtime_ns": 1794797318021438374, "source_ctime_ns": 1794797318021605291, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.507476+00:00"}
 
 EYMET (24) 24.04.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ EYMET (24) 24.04.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:10:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1685386, "source_ctime_ns": 1793391116705675356, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555651/0791.jp2", "source_mtime_ns": 1785808210000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555651/0791.jp2", "source_sha256": "b6f7f8bf113a38a4f3af321aa00dac34c72b5a3ae53ff2698f6560b9269c3a98"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 782, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+ATE • TIME GROUP
+2. LOCATION
+5 September 56 06/0330-0630Z
+Finland AFS, Minn. (Multiple
+3.
+SOURCE
+10. CONCLUSION
+Civilians - Military
+4. NUMBER OF OBJECTS
+INSUFFICIENT DATA FOR EVALUATION
+RADAR:
+(ANOMALOUS PROPAGATION)
+jeet
+One
+5. LENGTH OF OBSERVATION
+3 Hours
+TYPE OF OBSERVATION
+Ground-Radar & Visual
+7. COURSE
+11. BRIEF SUMMARY AND ANALYSIS
+Observers noted sparkling light, changing from red to grea
+to red for about 3 hours.
+Object settled beneath the horizon
+and vanished. Object was basically stationary in the west.
+Object was allegly picked up on radar; however, a radar
+analysis suggested that anomalous propogation was apparently
+the cause of the radar paint.
+west
+8. PHOTOS
+• Yes
+XOX No
+2. PHYSICAL EVIDENCE
+n Yes
+XX No
+FORM
+FTD SEP 63 0-329 (TDE)
+15

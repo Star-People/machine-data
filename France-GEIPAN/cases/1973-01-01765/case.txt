@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1973-01-01765/case.html", "source_sha256": "bcdaeab341f66325fc0ee14b51004dcc890d392947ab2aa35fa5203ca446f464", "source_bytes": 18704, "created_utc": "2026-10-21T18:12:14.821605+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1973-01-01765/case.html", "source_sha256": "f87e59d96dff3136474740c860fb1220cd867d2240c7d5c7447d6f0cc69f5276", "source_bytes": 18722, "source_mtime": 1794796935, "source_mtime_ns": 1794796935664090615, "source_ctime_ns": 1794796935664166615, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.431343+00:00"}
 
 NOUMEA (988) --.--.1973 | GEIPAN
     
@@ -38,7 +38,7 @@ NOUMEA (988) --.--.1973 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

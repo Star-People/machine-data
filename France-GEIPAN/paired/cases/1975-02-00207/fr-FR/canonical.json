@@ -8,7 +8,7 @@
   "document_id": "doc-dd667b694a42a04c7d5bb826",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-28T00:22:02Z",
+    "generated_at": "2026-11-16T03:54:46Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1975-02-00207/case.html",
-    "bytes": 18917,
+    "bytes": 18935,
     "canonical_source_identifier": "GEIPAN:1975-02-00207",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "SAINT-JEAN-D'ANGELY (17) 15.02.1975",
     "relative_path": "cases/1975-02-00207/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "5807651584e8b66cba8d6386eaae01a08a50cfdc6e8450e2bf266ca73f9bcf6a",
+    "sha256": "68185ccdc14139e683fbce405da43f2a8c041e6a8b2e9aa96dc9eefdfd2b9bb9",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1975-02-00207"
     ]

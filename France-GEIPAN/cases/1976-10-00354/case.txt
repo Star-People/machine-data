@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00354/case.html", "source_sha256": "9cc51ccb8e391bf280bbdc4268232d01f2f5cebfd21cc677def752e50c2939b3", "source_bytes": 18917, "created_utc": "2026-10-21T18:12:34.460677+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00354/case.html", "source_sha256": "09187945e46ff3ed8ed31d3369b52787dad69c8dc5446ac9862590522a44b0b3", "source_bytes": 18935, "source_mtime": 1794797675, "source_mtime_ns": 1794797675912625122, "source_ctime_ns": 1794797675912797664, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:05:07.467144+00:00"}
 
 GONDRECOURT-LE-CHÂTEAU (55) 21.10.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ GONDRECOURT-LE-CHÂTEAU (55) 21.10.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

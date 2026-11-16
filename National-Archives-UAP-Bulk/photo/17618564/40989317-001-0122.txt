@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:06:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1134894, "source_ctime_ns": 1793356324634452635, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0122.jpg", "source_mtime_ns": 1785564674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0122.jpg", "source_sha256": "cf45e8f1b7d8382c9919b1f9762e6beb1d0a91995fdc867444fcec88899db157"}
+
+===== PAGE 1 =====
+{"alpha_words": 211, "chars": 1555, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECRET
+theoretical treatent of the propagati n and stability of migratory
+disturbances in the tropics, the following approaches are to te explored wires
+since they are alraady well developed:
+(a) Empirical forecasting techniques tried with success
+in the tropical Atlantic and other areas.
+(b) The "easterly wave" theory of Riehl and Bonnot.
+(c) The internal "shock wave" theory of Freeman.
+As a necessory adjunct of the propran outlined above, the weather patters
+normally associated with the travelling disturbances must be reconstructed,
+i order thay any results of propagatio. studies may be utilized in the
+field. Finally, gone effort will be directed toward establishin.
+relation between the novement of migratory disturbances and the structure
+of the intertropical front.
+Complementary Contracts:
+a. Contract No. W28-092-ac-085
+Organization: Univesity of California
+Title: "Sy optic Meteorolo y of the Tropical Pacitic
+Ocean
+Project title: Anisotropic furbulence and micrometeorology
+Project scientists: Dr. I. Lestau, Mr. I. Lake
+Summary of In-Laboratory work:
+The program of mécrometeorological research is desigend to pro-
+vide tochniques for predicting the spatial distribution of the following
+parameters throu hout the atmospheric layer most arfected by contact with
+the ground:
+(a) wind
+(%) Temperature
+(c) Humidity
+(d) Foreign matier (e•i•, aerosols)
+A theoretical analysis of turbulence in the surface layor has
+revealed that the assumption of isotropicity, as adopted in previous
+SECRET
+16
+This document is part of an unclassified series

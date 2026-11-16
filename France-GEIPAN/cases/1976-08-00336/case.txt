@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-08-00336/case.html", "source_sha256": "2b6fc1352cb8a29e6b5126bb61464d4008c9c74c487d56bfc3f35288216bc530", "source_bytes": 18551, "created_utc": "2026-10-21T18:12:32.554319+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-08-00336/case.html", "source_sha256": "76e6f1c710dfc2356495ec2b218ddd82046e5aa1606226784963a5192012ae80", "source_bytes": 18569, "source_mtime": 1794797553, "source_mtime_ns": 1794797553872416246, "source_ctime_ns": 1794797553872732622, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:04:41.383817+00:00"}
 
 FORBACH (57) 27.08.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ FORBACH (57) 27.08.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

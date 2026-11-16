@@ -1,0 +1,113 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:47:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6196018, "source_ctime_ns": 1793355076098930407, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0016.jpg", "source_mtime_ns": 1785564389000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0016.jpg", "source_sha256": "a65dcc31a628fe1654e4d18c0f69c8f86a066d4c85b4cd1aab41d77789063760"}
+
+===== PAGE 1 =====
+{"alpha_words": 211, "chars": 1963, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TABLE Of CONTEXTS
+A.
+Det 1, AFGL(AFSC) Mission's
+B. Holloman AFB, NM Climatic Brief.
+PART A
+a.
+b.
+A •
+Operational Climatory for Research Ballooning
+in South Central New Mexico.
+1. Introduction
+2. General Climatolgy
+(a) Figure 1: Map of WSMR Range
+(b) Figure 2: Adverage number of Cloudy days
+(c) List of Cancellations with causes
+2.1 Monthly Climatology
+(a) % of monthly cancellations for weather
+(b) Figure 3: Graph of favorable launch days
+(c) Monthly cancellations and parameters
+10.
+2.1.1 Individual parameters by mounth
+10.
+(a) Figure 4:% frequency of monthly sfc. winds(0-4Kts) 11.
+(b) Figure 5: Jet stream and tropopause parameters
+13•
+Figure 6: WSMR cloud coverage
+14
+(a)
+Figure ?: Monthly climo. for HAFB.
+15.
+2.1.2 Overall monthly profiles
+12.
+(a) Monthly climo. and rules
+12,16.
+3. Flight Categories
+17.
+3.1 The basic research flight
+17.
+(a) Adverage float time at 100Kft by month
+18.
+(b) Distance from HAFB by month
+18.
+(c) Ratings of monthly parameters?
+19.
+3.2
+Climbeout parameters
+20.
+(a)
+Adverage
+ascent of 900fpm to 100Kft
+20.
+(b)
+Figure 8: 50% probability trajectory
+(lay, June, August)
+Figure 9: (October, September, November)
+Figure 10: (March, July)
+Figure 11: Map of all months (833 fp)
+Complete spectrum by month
+3.3 Flight test of new balloon designs
+(a) % of aurface winds (0-4Kts)
+3.4 WSMR target flights
+(a) Ratings by months with parameters
+3.5 Hovering flights
+(a) Adverage minium wind by months
+3.6 MISC. Information
+(a) Balloon success records
+(b) Ballast information
+(1) Ballast Profiles
+20 a.
+20b.
+20c.
+20d.
+21.
+21.
+22.
+22.
+23.
+23.
+24.
+25.
+25.
+25a.
+25b &C.
+PART B
+B. Target Balloon Meteorology
+1. Introduction
+(a)
+Trajectories
+(b) Figure 1: Launch picture
+(c) Accuracy table for 0-15+ miles from targets
+(d)
+Table showing target time error
+(e)
+Target accuracies-Figure 2:
+2. Basic Mission Procedures
+3. Climatogy and Straregy.
+(a) WSMR probability-Figure 3:
+4. Forecasting procedures
+26.
+26₴.
+26a.
+27.
+28.
+28.
+29.
+28.
+30.
+33.
+32.

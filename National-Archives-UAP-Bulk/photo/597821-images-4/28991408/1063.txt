@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:53:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8118034, "source_ctime_ns": 1793384932089150215, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991408/1063.jpg", "source_mtime_ns": 1785747994000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991408/1063.jpg", "source_sha256": "4c43e12622c3b09d93acea4074de5e515402bd395fd1a6415049e587872ff4d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 636, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TACOB ING
+AF IN : 17211 (14 Feb 61)
+F/J1b
+ACTION : CIN-14
+INFO
+ARMY-30, NAVY-90, CMC-6
+дДР-2, CР-CP-1,
+SATS
+JCS-35,
+-215-
+OSD-15, NSA-7, CIA-11
+SMD BØ65
+ZCZCHQC206ZCQJD569
+PP RJEZHQ
+DE RJWZSBA 1
+ZN R
+P 140020Z
+FM 552AEWCONWG MCCLELLAN AFB CALIF
+TO RJWFALB/CINCNORAD ENT AFB COLO
+RBWPPG/COMWESTSEAFRON SAN FRANCISCO CALIF
+RJWZSB/28NORAD REGION HAMILTON AFB CALIF
+RJEZHQ/COFS USAF WASHINGTON DC
+RFEMVB/CANAIRDEF ST HUBERT MONTREAL CANADA
+RCWNC/CONFLAGPAC EWAUIMATT BRITISH COLUMBIA
+AF GRNC
+/UNCLAS/ 520IN 0260=1
+CIRVIS REPORT SUBMITTED BY ETHAN 37 AT APPROXIMATELY 130800Z
+CANCELLED. UFO REPORT WILL BE SUBMITTED.
+ВТ
+14/0050Z FEB RJWZSBA

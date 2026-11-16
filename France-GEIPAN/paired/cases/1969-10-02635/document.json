@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1969-10-02635/case.html",
-    "bytes": 20820,
+    "bytes": 20838,
     "canonical_source_identifier": "GEIPAN:1969-10-02635",
     "case_metadata": {
       "classification": "C",
@@ -42,7 +42,7 @@
     "original_title": "NANTES (44) 08.10.1969",
     "relative_path": "cases/1969-10-02635/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "d9f4103c3a08df5d9cd95ee46718a534598c18bf96edee57ce93c80f0cad8989",
+    "sha256": "90111d551e26d8c7a2abd6199757cb42d44c77751a06a95a644b394751ed532f",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1969-10-02635"
     ]

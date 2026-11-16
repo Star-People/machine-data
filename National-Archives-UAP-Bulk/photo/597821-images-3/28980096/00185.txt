@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:40:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4371168, "source_ctime_ns": 1793381392090822592, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980096/00185.jpg", "source_mtime_ns": 1785700831000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980096/00185.jpg", "source_sha256": "8e46a7a60392f2d51baa678b9847e29a0549e3216f332d95d3abedc50df29746"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 468, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Sheffield Lake, Ohio
+November 27, 1958
+Dear Major Tacker:
+Would you kindly specify what moving lights caused
+me to see an object 22 feet in diameter and 6 feet high
+hovering in my front yard?
+Your reference to the prevailing weatner has also
+confused me somewhat.
+I stated in the report form that
+it had stopped raining some time before the siguting.
+I
+would appreciate it very much ii you woulu explain these
+matters to me in a little more detail.
+Sincerely
+Mrs
+VLIC

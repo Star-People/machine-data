@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00317/case.html", "source_sha256": "b0f2de6e04273269af1b02e8971c5300c8309d2fef6b36043fd89206fc01c5a3", "source_bytes": 19112, "created_utc": "2026-10-21T18:12:30.441217+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-07-00317/case.html", "source_sha256": "a0ef0ed111a6c497e256a1ff919c6d835d999c2678b3fde7fabd219187985e41", "source_bytes": 19130, "source_mtime": 1794797434, "source_mtime_ns": 1794797434094152015, "source_ctime_ns": 1794797434094399390, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.866285+00:00"}
 
 SAINT-GEOIRE-EN-VALDAINE (38) 11.07.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ SAINT-GEOIRE-EN-VALDAINE (38) 11.07.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1975-02-00208/case.html",
-    "bytes": 19541,
+    "bytes": 19559,
     "canonical_source_identifier": "GEIPAN:1975-02-00208",
     "case_metadata": {
       "classification": "A",
@@ -40,12 +40,12 @@
     "original_title": "NATIONAL (FR) 17.02.1975",
     "relative_path": "cases/1975-02-00208/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "8c99907181777ac2d78a4a1c516e50797fcffe5e33eb4b1646215b6a07d7c41e",
+    "sha256": "72705898a16fd6898a221e1d6b8f9f492022949fdf4ccb207e8ffa8812087165",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1975-02-00208"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

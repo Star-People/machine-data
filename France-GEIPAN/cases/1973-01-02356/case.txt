@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1973-01-02356/case.html", "source_sha256": "dfd991f73abaa0d2c23daa4e827858c56763cf33105c63b061734782c38dd75c", "source_bytes": 19513, "created_utc": "2026-10-21T18:12:16.313924+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1973-01-02356/case.html", "source_sha256": "8ee0ce8f5ed2018ee8629463cfde1f5845fff4e8c3ce6cc571768713fb04f34c", "source_bytes": 19531, "source_mtime": 1794796950, "source_mtime_ns": 1794796950392052634, "source_ctime_ns": 1794796950392147009, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.466231+00:00"}
 
 CARCES (83) --.--.1973 | GEIPAN
     
@@ -38,7 +38,7 @@ CARCES (83) --.--.1973 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00353/case.html", "source_sha256": "80de112a0efc7223e8ed6da6e75f1143c777e303f2cc90087f6b4a97cf828e49", "source_bytes": 19439, "created_utc": "2026-10-21T18:12:34.177598+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00353/case.html", "source_sha256": "f45f254cc7d4d853a8fb867773791abd2851e5a2e2233bdbebd4e86b7ec8327e", "source_bytes": 19457, "source_mtime": 1794797660, "source_mtime_ns": 1794797660303036661, "source_ctime_ns": 1794797660303167286, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:05:05.160927+00:00"}
 
 LOCMINE (56) 19.10.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ LOCMINE (56) 19.10.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

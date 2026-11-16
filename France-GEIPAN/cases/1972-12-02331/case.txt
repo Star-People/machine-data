@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1972-12-02331/case.html", "source_sha256": "50d83e8ff004abd42ae5046c41816164527c8b99fa8b770207ebfaac883998e7", "source_bytes": 19313, "created_utc": "2026-10-21T18:12:14.689987+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1972-12-02331/case.html", "source_sha256": "5fd11e02f9c044171a418d98db57fdfe528e34efd98d31066401d67d7eb8273a", "source_bytes": 19331, "source_mtime": 1794796920, "source_mtime_ns": 1794796920391120021, "source_ctime_ns": 1794796920391258146, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.401451+00:00"}
 
 HAUTEVILLE-LOMPNES (01) 13.12.1972 | GEIPAN
     
@@ -38,7 +38,7 @@ HAUTEVILLE-LOMPNES (01) 13.12.1972 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

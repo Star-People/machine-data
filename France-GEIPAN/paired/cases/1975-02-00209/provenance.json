@@ -3,16 +3,16 @@
   "document_id": "doc-22cc4ad504c9767d0e30c96a",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-09-23T07:19:56Z",
+    "generated_at": "2026-11-16T04:05:35Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
     }
   },
-  "generated_at": "2026-09-23T07:19:56Z",
+  "generated_at": "2026-11-16T04:05:35Z",
   "page_count": 1,
   "pipeline_version": "ufo-files-french-pipeline/1.0.2",
-  "qa_status": "pass",
+  "qa_status": "needs-review",
   "remaining_manual_review_count": 11,
   "runtime": {
     "machine": "arm64",
@@ -21,18 +21,18 @@
   },
   "schema": "ufo-files-french-provenance/v1",
   "segment_count": 11,
-  "source_bytes": 20150,
-  "source_sha256": "bfae3b5ac3df73c8de534be69e398a341185aed67e36e5126f4912876665ee21",
+  "source_bytes": 20168,
+  "source_sha256": "423f9ad8fd7469bb053eca655e3c583abc716088c09893da0c51b858c8656beb",
   "status": "complete",
   "translation": {
-    "generated_at": "2026-09-23T07:19:56Z",
+    "generated_at": "2026-11-16T04:05:35Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "machine-unreviewed",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "needs-review",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   },
-  "translation_text_sha256": "3c35d8c6990d0f59a8cba280fa6f25e6956acbfa17d59d2f3800e32f1e15d78a"
+  "translation_text_sha256": "1f36204393e5778d44b39476d1161ec8bde9712d4c0b13d26c84e126475f177e"
 }

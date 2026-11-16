@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-11-02763/case.html", "source_sha256": "3cef8dbcf169bf9dd80409f3f0004d89a5137eb3219da8bc0a23d155013281a2", "source_bytes": 19692, "created_utc": "2026-10-21T18:12:37.792444+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-11-02763/case.html", "source_sha256": "4f5a4f9eb94365ccab4e6c0d721332d13ebfae9db4713c2927c38f9b7c06729e", "source_bytes": 19710, "source_mtime": 1794797772, "source_mtime_ns": 1794797772336529478, "source_ctime_ns": 1794797772336578895, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:05:27.639794+00:00"}
 
 SAINT-GEOIRS (38) 25.11.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ SAINT-GEOIRS (38) 25.11.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

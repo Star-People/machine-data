@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-12-00366/case.html", "source_sha256": "23152d99e48c043cfec49273cdb506bee2935cc3f398d30ce4cf3bf6a14a45da", "source_bytes": 18580, "created_utc": "2026-10-21T18:12:38.498532+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-12-00366/case.html", "source_sha256": "46392950b25f88d8503aa2fe14eb23a750696f17f97f21436d84a29a9416c932", "source_bytes": 18598, "source_mtime": 1794797793, "source_mtime_ns": 1794797793686289823, "source_ctime_ns": 1794797793686581657, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:05:31.418459+00:00"}
 
 SAINTE-MAXIME (83) 07.12.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ SAINTE-MAXIME (83) 07.12.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

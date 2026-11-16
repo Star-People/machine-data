@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1974-10-01768/case.html", "source_sha256": "954430b94f5b30360b48686f5a9f97f30bf56fca066692b378c3e3497ea95bc7", "source_bytes": 18664, "created_utc": "2026-10-21T18:12:16.618233+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1974-10-01768/case.html", "source_sha256": "b9438517be32661bd4529da2f7aa1272c0ecd0e7b2ab99c5c77268b6cceb2552", "source_bytes": 18682, "source_mtime": 1794796986, "source_mtime_ns": 1794796986703653161, "source_ctime_ns": 1794796986703739953, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.530490+00:00"}
 
 SAINT-GILLES (30) 13.10.1974 | GEIPAN
     
@@ -38,7 +38,7 @@ SAINT-GILLES (30) 13.10.1974 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-11-00359/case.html", "source_sha256": "47418e482d8724aa38293be50ea24d90ac79a0bf6126f0992a0b55ed2236de2b", "source_bytes": 18631, "created_utc": "2026-10-21T18:12:35.523563+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-11-00359/case.html", "source_sha256": "f823fe25b1b187b814e817a4203576a69e13fd8aa314ef99bf089e611e2184fd", "source_bytes": 18649, "source_mtime": 1794797718, "source_mtime_ns": 1794797718527661791, "source_ctime_ns": 1794797718527994334, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:05:16.670401+00:00"}
 
 RIVES (38) 05.11.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ RIVES (38) 05.11.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

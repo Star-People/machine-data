@@ -43,15 +43,15 @@
           "field": "region",
           "page_id": "page-a977d73476fe8810029f4124",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-aa1050426931baf34e878ee1",
           "segment_index": 3,
           "source_segment_id": "seg-aa1050426931baf34e878ee1",
           "source_text_sha256": "059d12cde048b669eed10ebe9246935a60ce3b994b570c9f85a3754a09ccc658",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Region: Provence-Alpes-Côte d'Azur",
-          "translation_text_sha256": "e7afbc080811fff103dcb9e287dd1fb0a0d689053bdf08eda8087b1d27065051"
+          "status": "not-required",
+          "text": "Region: Provence Alpes Cote d'azur",
+          "translation_text_sha256": "5b14e3b48b2fdd5900bcdae8dd5e713b6bef4d1cdf3d01cda781d5947af25b87"
         },
         {
           "end_ms": null,
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-a977d73476fe8810029f4124",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-ec793c2ff7ef32b14de7a06e",
           "segment_index": 4,
           "source_segment_id": "seg-ec793c2ff7ef32b14de7a06e",
           "source_text_sha256": "5f3096cf23bffe593c8afeead3d385551adbc8004b42a3b3277cae5903901074",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Var",
           "translation_text_sha256": "1d3ec2af506cbf320d2570d521ea5248fd2d431e94ba28a8c429ab749687afb4"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-a977d73476fe8810029f4124",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-8d3187fac34c02d2d99d83c1",
           "segment_index": 8,
           "source_segment_id": "seg-8d3187fac34c02d2d99d83c1",
           "source_text_sha256": "60dde96209d9edcd19aef273cd0467bde94efd52d6ae6af25eb813395180774b",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents:  Questionnaire terre-R.pdf",
-          "translation_text_sha256": "6fbdf65df38a2ab3a08e0b65aa4b1f4924d9e7e3aff60d753406bfbdb9368a54"
+          "status": "not-required",
+          "text": "Documents: Questionnaire terre-R.pdf",
+          "translation_text_sha256": "60dde96209d9edcd19aef273cd0467bde94efd52d6ae6af25eb813395180774b"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-a977d73476fe8810029f4124",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-ca5ea2146a87abe026c7829d",
           "segment_index": 9,
           "source_segment_id": "seg-ca5ea2146a87abe026c7829d",
           "source_text_sha256": "bd33deddab4640e5c89cde95c6f2733c50d6f677bc838c04c5cfb25f866f3f66",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: SEILLONS-SOURCE-D'ARGENS (83) --.09.1967",
           "translation_text_sha256": "dc92974bb046b4e2247115610dede3f9ff081e28911bf5d86a62aa5db27f696f"
         },
@@ -178,8 +178,8 @@
           "source_text_sha256": "5e0798d61ea34e86e070dddcc3ae2e4534876bee0f14b27b821c54abd8ab649e",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Description: A witness reports in 2015 an observation made in September 1967 (the exact date is unknown) at 9 PM. While waiting outside for a friend, he notices a bright yellow-orange point just above the trees moving from left to right over a short distance. Before each direction change (there will be 4), the point stabilizes for 2 to 3 seconds. No particular noise is heard. The observation lasts approximately 30 seconds, then the point disappears quickly in the distance. No trail is observed. No other testimony is collected. This rather strange observation of a glowing ball moving very quickly in a zigzag pattern resembles some witness reports of ball lightning. This old, unique testimony, with an unknown precise date, does not allow (despite good illustrations) to confirm or deny this hypothesis. The GEIPAN classifies this case as \"C\" due to lack of information.",
-          "translation_text_sha256": "c9d96b8e5a6cec1df6b0dfdf713cb4990b025e070f2f8cd66ce64e7050cce53c"
+          "text": "Description: A witness reports in 2015 an observation made in September 1967 (the exact date is unknown) at 21:00. While waiting outside for a friend, he notices a yellow-orange glowing point just above the trees moving from left to right over a short distance. Before each direction change (there will be 4), the point stabilizes for 2 to 3 seconds. No particular noise is heard. The observation lasts approximately 30 seconds, then the point disappears quickly in the distance. No trail is observed. No other testimony is collected. This rather strange observation of a glowing ball moving very quickly in a zigzag pattern resembles some witness reports of ball lightning. This old, unique testimony, with an unknown precise date, does not allow (despite good illustrations) to confirm or not this hypothesis. The GEIPAN classifies this case as \"C\" due to lack of information.",
+          "translation_text_sha256": "f2f8f269eefd5b939106cfd319a8de764fb76984330c1247b8327b170120b7c0"
         }
       ],
       "source_page_id": "page-a977d73476fe8810029f4124"
@@ -190,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-28T23:49:41Z",
+    "generated_at": "2026-11-16T02:43:07Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
     "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

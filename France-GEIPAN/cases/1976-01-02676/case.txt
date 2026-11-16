@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-02676/case.html", "source_sha256": "39ff0035200163d9eca0874abb57d65a7d4a03d377c1b939e3e78be11cc3a1d1", "source_bytes": 18549, "created_utc": "2026-10-21T18:12:24.721811+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-02676/case.html", "source_sha256": "e163fc222c529d2936932556fcc9330bb3dc12eaf9c317cb49e84b4b282d18c1", "source_bytes": 18567, "source_mtime": 1794797179, "source_mtime_ns": 1794797179282643265, "source_ctime_ns": 1794797179282995891, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.125250+00:00"}
 
 CHAMBOURG-SUR-INDRE (37) 31.01.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ CHAMBOURG-SUR-INDRE (37) 31.01.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

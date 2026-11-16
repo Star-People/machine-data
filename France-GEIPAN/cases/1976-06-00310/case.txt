@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-06-00310/case.html", "source_sha256": "7191070a5ae3f2472229816194a1c9b9409fca809889daefb3f0a6d30f8153e6", "source_bytes": 19132, "created_utc": "2026-10-21T18:12:28.536372+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-06-00310/case.html", "source_sha256": "75f1838d978b793d382338ada8762bf548723604fbac6ba9438432554daa29f6", "source_bytes": 19150, "source_mtime": 1794797370, "source_mtime_ns": 1794797370490526613, "source_ctime_ns": 1794797370490730280, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.732435+00:00"}
 
 JONCY (71) 25.06.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ JONCY (71) 25.06.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

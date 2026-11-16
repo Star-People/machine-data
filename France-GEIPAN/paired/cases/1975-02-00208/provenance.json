@@ -3,36 +3,36 @@
   "document_id": "doc-7fa6261a47fe25706e79cf5d",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-09-07T14:28:53Z",
+    "generated_at": "2026-11-16T04:00:03Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
     }
   },
-  "generated_at": "2026-09-07T14:28:53Z",
+  "generated_at": "2026-11-16T04:00:03Z",
   "page_count": 1,
   "pipeline_version": "ufo-files-french-pipeline/1.0.2",
-  "qa_status": "needs-review",
+  "qa_status": "pass",
   "remaining_manual_review_count": 11,
   "runtime": {
     "machine": "arm64",
-    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
-    "python": "3.14.6"
+    "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+    "python": "3.13.15"
   },
   "schema": "ufo-files-french-provenance/v1",
   "segment_count": 11,
-  "source_bytes": 19541,
-  "source_sha256": "8c99907181777ac2d78a4a1c516e50797fcffe5e33eb4b1646215b6a07d7c41e",
+  "source_bytes": 19559,
+  "source_sha256": "72705898a16fd6898a221e1d6b8f9f492022949fdf4ccb207e8ffa8812087165",
   "status": "complete",
   "translation": {
-    "generated_at": "2026-09-07T14:28:53Z",
+    "generated_at": "2026-11-16T04:00:03Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   },
-  "translation_text_sha256": "345ea1c9f90855a57010c6426d9bf0a2d1edde8890515839b7bdde87c367eff8"
+  "translation_text_sha256": "c07853dfe7af8634154fb01be7e389360dac1315c050adef736b33875a0980ef"
 }

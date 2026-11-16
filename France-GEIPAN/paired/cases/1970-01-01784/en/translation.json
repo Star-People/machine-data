@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-7bee247d5f3c1ffc3e9c534b",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-846dfa78f0e64dc5c1dccd87",
           "segment_index": 3,
           "source_segment_id": "seg-846dfa78f0e64dc5c1dccd87",
           "source_text_sha256": "b65fad2128e32e242a715c294957483fec057fb7583a88d2969bc51f6cf18506",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Aquitaine",
           "translation_text_sha256": "44b785415252d7df0515fb158b96a25260ab9444a415f915f469beb0c4aa26a4"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-7bee247d5f3c1ffc3e9c534b",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-b454176d75a7b46a316fe4e6",
           "segment_index": 4,
           "source_segment_id": "seg-b454176d75a7b46a316fe4e6",
           "source_text_sha256": "dfeb41095ed01aa76cc02f4c5dffc530679a87d8e2517b84a4d7c084b9a396e3",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Landes",
           "translation_text_sha256": "142e750bb73793880c74fffa83f93a011380b4fd322ed085f3732cc20bc9fa54"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-7bee247d5f3c1ffc3e9c534b",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-e35451b292ec1a5c7a9c4f14",
           "segment_index": 8,
           "source_segment_id": "seg-e35451b292ec1a5c7a9c4f14",
           "source_text_sha256": "60dde96209d9edcd19aef273cd0467bde94efd52d6ae6af25eb813395180774b",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents:  Questionnaire terre-R.pdf",
-          "translation_text_sha256": "6fbdf65df38a2ab3a08e0b65aa4b1f4924d9e7e3aff60d753406bfbdb9368a54"
+          "status": "not-required",
+          "text": "Documents: Questionnaire terre-R.pdf",
+          "translation_text_sha256": "60dde96209d9edcd19aef273cd0467bde94efd52d6ae6af25eb813395180774b"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-7bee247d5f3c1ffc3e9c534b",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-82b538a061e01dae7452ce2b",
           "segment_index": 9,
           "source_segment_id": "seg-82b538a061e01dae7452ce2b",
           "source_text_sha256": "352c89238c968db42c9ff6c8093c0396fc202e78ac0a8e2cc4eef47700fc4481",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: (DPT) LANDES (40) --.07.1970",
           "translation_text_sha256": "27e2c81cd353dd385a06985617bac788ad83c5c9f559797a38cedf6f3deddc1a"
         },
@@ -172,42 +172,13 @@
           "page_id": "page-7bee247d5f3c1ffc3e9c534b",
           "qa_findings": [
             {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "21:00"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
               "added_in_translation": [
-                "30 m"
-              ],
-              "check": "measurements",
-              "missing_from_translation": [],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "0",
-                "21",
-                "30",
                 "400"
               ],
               "check": "numbers",
               "missing_from_translation": [],
               "severity": "warning",
               "status": "mismatch"
-            },
-            {
-              "check": "negation",
-              "severity": "error",
-              "source_count": 2,
-              "source_marker": "sans",
-              "status": "mismatch",
-              "translation_equivalent_count": 1
             }
           ],
           "review_status": "needs-review",
@@ -217,8 +188,8 @@
           "source_text_sha256": "dadf5e448a1c6d8dec72b1c1b65a668b0a43ee9f455944b16fb9897ed8731428",
           "start_ms": null,
           "status": "needs-review",
-          "text": "Description: A witness reports seeing, in July of the years 1970 to 1973 (his memories regarding the observation date are imprecise, so we date it to 01/07/1970) around 21:00, an aircraft shaped like a saucer, white or aluminum in color, arriving at an altitude of 300 to 400 meters. It was between 6 to 8 meters in diameter; it moved very slowly in a zigzag line from right to left. A beam of light came from two powerful projectors placed at the front. Calling family members, they were able to watch the aircraft disappear at extremely high speed, without noise, and in an ascending movement of 45°. A second aircraft then appeared: shaped like a white or aluminum cigar, about 30 meters long, and arriving silently, it was at the same altitude as the first. About thirty portholes allowed a soft, dim light to be seen inside. It moved very slowly in a straight line and disappeared, hidden by the top of the trees. Both aircraft came from the N-NW and were heading towards the S-SE. The witness mentions a press article about lights appearing at Bordeaux airport on the evening in question. This very old testimony provides surprising details, however, we lack information and it is too old to conduct an investigation.",
-          "translation_text_sha256": "1567fba87dcfba15edaea35574cf47b3cd03a13f2898dfd139e270c6dac82b65"
+          "text": "Description: A witness reports that in the month of July during the years 1970 to 1973 (their memory regarding the observation date is imprecise, so we date it as 01/07/1970) around 21:00, they were able to see an aircraft in the shape of a saucer, 300 or 400 meters in altitude, colored white or aluminum. It measured between 6 to 8 m in diameter; it advanced very slowly in a zigzag line from right to left. A beam of light was coming from two powerful projectors placed at the front. Calling family members, they were able to see the aircraft disappear at very high speed, without noise, and in an ascending movement of 45°. A second aircraft then appeared: in the shape of a white or aluminum cigar of about thirty meters in length and coming without noise, it was at the same altitude as the first one. About thirty windows allowed a view of a soft, dim light inside. It was moving very slowly in a straight line and disappeared, hidden by the top of the trees. The two aircraft were coming from the N-NO and heading towards the S-SE. The witness reports a press article about lights appearing at Bordeaux Airport on the evening in question. This very old testimony provides surprising details, however, we lack information and it is too old to investigate.",
+          "translation_text_sha256": "89b13af1e093eee1ffcfd2f8589a4993beb919dfca86f733b755be44126f5fa7"
         }
       ],
       "source_page_id": "page-7bee247d5f3c1ffc3e9c534b"
@@ -229,13 +200,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-09-05T00:15:57Z",
+    "generated_at": "2026-11-16T03:21:14Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
     "review_status": "needs-review",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

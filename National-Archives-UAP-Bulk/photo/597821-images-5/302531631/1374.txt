@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:08:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1386773, "source_ctime_ns": 1793388735110321503, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531631/1374.jp2", "source_mtime_ns": 1785808390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531631/1374.jp2", "source_sha256": "c5e9d1ea939521fa996f218d3ede69a1f07c94d2d1035aab838546034cd9c400"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1207, "method": "ocr", "page": 1, "variant": "plain-vision"}
+22 22/03/52
+AF IN : 31281 (23 Feb 64)
+ACTION : NIN-7
+DEPARTWENT OF THE AIR FORCE
+STAFF MESSA
+E BRANCH
+UNCLASSIRED MIZACE
+INCOMING
+23 Fai
+R/lal
+INFO : XOP-1, XOPX-6, SAFOS-3, ARMY-2, NAVY-2, CMC-0
+JCS-35, OSD-15, NSA-7, DIA-25, DIA-CIIC-2 (114)
+SMB CØ59
+535ZCSBA835
+O0 RUEAHQ
+1960 88 57T
+DECAY 2/ FEr
+DE RUEASB 44 23/1445Z
+ZNR
+0 23143ØZ
+FM ACP MATS DOVER AFB DEL
+TO RUWGALB/CINCNORAD ENT AFB COLO
+RUEAHQ/CHIEF OF STAFF USAF WASHINGTON DC
+RUEGUH/CMDR EASTERN SEA FRONTIER NY
+ROOSC/RCAF AIR DEFENSE COMMAND CANAIRDEF ST KUBERT CANADA
+RCEOC/CANADIAN FLAG OFFICER ATLANTIC COAST CANFLAGANT HALIFAX NS
+BT
+UNCLAS ACP/ICO 23-B-32 CIR V IS RE P OR T.
+C-133A 62007 AT 23/0315Z CRUISING F.L. 200 IN THE CLEAR SIGHTED
+LARGE BRIGHT GREEN OBJECT ARCHING FROM 0800 TO 1100 QUARTER OF
+THIS WESTBOUND ACFT. ACFT POSITION AT TIME OF SIGHTING 56 45N
+41 10W, OBJECT FIRST OBSERVED AS GREEN CHANGED TO VIOLET THEN
+ORANGE AND EXPLODED JUST BEFORE ENTERING THE UNDERCAST ESTIMATED
+AT 10020 TO 12000 FEET TOPS, THE INTENSITY OF THE LIGHT
+LIT UP THE COCKPIT AND ATTRACTED THE ATTENTION OF CREW MEMBERS
+FACING AWAY FROM THE LIGHT
+BT
+NOTE :
+Advance copies delivered to DIA,
+XOPX and NIN.
+Readdressed to CIA per 1392 # 576 (23 Feb 64)

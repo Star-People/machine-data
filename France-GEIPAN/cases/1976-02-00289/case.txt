@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-02-00289/case.html", "source_sha256": "93ed0d4ac8931dca80aca94a4f6b5e3040e2ff99002d1c4e93bbb5dd0e592895", "source_bytes": 18449, "created_utc": "2026-10-21T18:12:25.244409+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-02-00289/case.html", "source_sha256": "c11908490cfd535121084e7f745d52177e331234c46cc9e4b47952501da94a49", "source_bytes": 18467, "source_mtime": 1794797221, "source_mtime_ns": 1794797221752220345, "source_ctime_ns": 1794797221752291178, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:52.240498+00:00"}
 
 BILLOM (63) 17.02.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ BILLOM (63) 17.02.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

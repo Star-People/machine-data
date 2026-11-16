@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T03:58:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 698258, "source_ctime_ns": 1793392775654599705, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570784/0543.jp2", "source_mtime_ns": 1785808355000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570784/0543.jp2", "source_sha256": "441dd63780a55764e1549b41e1765e06e47a4499052eab98fdd2ca52c6d0700f"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 613, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AE IN : 61329
+Pg 3 ofl
+6. IDENTIFYING INFORMATION ON OBSERVERS: 2/LT ERIC OLSON, 74A0MS;
+SSGT KICKERBOCKER, DULUTH AFB AIR POLICE; AND MR.
+DULUTH, MINNESOTA, TELEPHONE
+PAGE 3 RUCIHMA0341 UNCLAS
+SEEN BY MRS.
+ND FIVE OTHER AIR POLICE,
+7, WEATHER AND WINDS ALOFT AT TIME AND PLACE OF SIGHTING:
+A. CLEAR
+B. AWS ACOUNT & WINDS:
+(1) NOVE
+(2) 300/44
+(3) 300/33
+(4) 290/60
+(5) 280/92
+(6) 282/115
+(7) 270/100
+C. NONE
+D. FIFTEEN MILES PLUS
+E. NONE
+F • NONE
+G. A SIX DEGREE CENTIGRADE INVERSION AT T200 FEET
+FORM
+AFHQ JAN 93 0-309C
+UNCLASSIFIED

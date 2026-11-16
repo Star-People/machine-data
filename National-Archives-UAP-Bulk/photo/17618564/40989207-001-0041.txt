@@ -1,0 +1,103 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T02:53:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8240481, "source_ctime_ns": 1793354421527472218, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0041.jpg", "source_mtime_ns": 1785564282000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0041.jpg", "source_sha256": "e27b351365e4ffe1905496dd466aa8999600e6f023e736bbb90e9d9c979c1a2c"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 983, "method": "ocr", "page": 1, "variant": "plain-vision"}
+32
+72.
+DATE
+1992
+73.
+75.
+76.
+1992
+1992
+1992
+1992
+BRANCH USER
+GPOS
+GPOS
+GPOB
+GPOB
+SMC,
+PL/LI,
+PL/OL-AG
+OUSD,
+PL/VT,
+AEDC,
+WL
+SDIO
+SDIO
+GPOB
+SDIO
+APPENDIX A (cont.)
+TECHNOLOGY DESCRIPTION
+HITRAN molecular,
+spectroscopic database
+containing 709,000
+transitions of molecular
+species relevant for
+atmospheric and propagation
+studies as well as cross
+sections for dense spectral
+features.
+Strategi
+Radiance
+version 2.0.
+software
+realtime
+LEAP
+III
+on
+a
+con
+Software
+(single screen
+but
+of
+effe
+a
+the
+roc
+of
+last
+test
+the
+on
+a
+con
+to launch.
+PAYOFF TO USER
+Provides improved ability
+for high resolution spectral
+simulations and radiance
+propagation simulations.
+Contributes to infrared
+surveillance and
+tracking
+systems.
+ion
+it .
+Countdown.
+TOTALS
+Hardware
+Techniques/ Software/Algorithm
+33
+100.0
+10.5
+38.2
+Information Specification
+39
+51.3
+TECHNOLOGY TYPE
+NUMBER
+PERCENTAGE
+TECHNOLOGY TYPE
+BY
+ANALYSIS OF FY92 GP TECHNOLOGY TRANSITION EVENTS
+APPENDIX B
+PE
+62101F
+63215C
+62715H
+62715H
+62715H

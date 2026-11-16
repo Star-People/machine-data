@@ -5,9 +5,9 @@
 NANTES (44) 08.10.1969
 --- seg-dcaa8980305db09fda15c109 [machine-unreviewed] ---
 Observation date: 10/08/1969
---- seg-bbccd252645787fb57513dbf [machine-unreviewed] ---
-Region: Loire Valley
---- seg-e9b5bc4778f6cea59c346e1a [machine-unreviewed] ---
+--- seg-bbccd252645787fb57513dbf [not-required] ---
+Region: Pays de la Loire
+--- seg-e9b5bc4778f6cea59c346e1a [not-required] ---
 Department: Loire-Atlantique
 --- seg-99351a9fce12a22271a1aab1 [machine-unreviewed] ---
 Classification: C
@@ -19,9 +19,9 @@ Phenomenon type: Lack of reliable information
 Strangeness: 0.60
 --- seg-56ca38544d93b81363bc464a [machine-unreviewed] ---
 Consistency: 0.60
---- seg-5f19efc00c1b6f35ac24caee [machine-unreviewed] ---
-Documents:  Carte celeste.pdf Compte-rendu.pdf Articles de presse.pdf Fiche telephonique-R.pdf Questionnaire terre-R.pdf
---- seg-72706012ba43f983e1223c24 [machine-unreviewed] ---
+--- seg-5f19efc00c1b6f35ac24caee [not-required] ---
+Documents: Carte celeste.pdf Compte-rendu.pdf Articles de presse.pdf Fiche telephonique-R.pdf Questionnaire terre-R.pdf
+--- seg-72706012ba43f983e1223c24 [not-required] ---
 Testimonies: NANTES (44) 08.10.1969
 --- seg-43f323215fb5f95e340f89b0 [machine-unreviewed] ---
 Summary: Observation of a bright point during sunrise with a telescope.

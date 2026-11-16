@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-09-00262/case.html", "source_sha256": "867c3dae752ac585bcea0f1a8f3f1492d37234d76c4c358d8f0a9c8b50679967", "source_bytes": 19050, "created_utc": "2026-10-21T18:12:22.564278+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1975-09-00262/case.html", "source_sha256": "9cbd1938a4594fd5787913a14d83cd9db1a614ef90b3feeb30ba1c47e23ac377", "source_bytes": 19068, "source_mtime": 1794797072, "source_mtime_ns": 1794797072712913365, "source_ctime_ns": 1794797072712978615, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.784147+00:00"}
 
 JEUMONT (59) 26.09.1975 | GEIPAN
     
@@ -38,7 +38,7 @@ JEUMONT (59) 26.09.1975 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

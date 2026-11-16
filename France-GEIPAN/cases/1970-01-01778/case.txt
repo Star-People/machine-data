@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1970-01-01778/case.html", "source_sha256": "d3d4768b04650603e1077d842298b335136f2188ac754f7012f2fa2c44921f4e", "source_bytes": 19078, "created_utc": "2026-10-21T18:12:13.160599+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1970-01-01778/case.html", "source_sha256": "cfc8fefd3a9a1a113f8b129446b8169f81237325464aa05c5d9b7c606e3d25a7", "source_bytes": 19096, "source_mtime": 1794796888, "source_mtime_ns": 1794796888849779361, "source_ctime_ns": 1794796888849893361, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.298736+00:00"}
 
 FORT-DE-FRANCE (972) --.--.1970 | GEIPAN
     
@@ -38,7 +38,7 @@ FORT-DE-FRANCE (972) --.--.1970 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

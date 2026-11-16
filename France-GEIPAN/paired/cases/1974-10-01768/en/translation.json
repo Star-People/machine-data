@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-9c2fb56089240b891e4a75dc",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-bb40f248d2270ffa7817cecc",
           "segment_index": 3,
           "source_segment_id": "seg-bb40f248d2270ffa7817cecc",
           "source_text_sha256": "fd8d520119032de87d836a202d279d596cd8f6a57d9227f4f6787e1663550f69",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Languedoc Roussillon",
           "translation_text_sha256": "df9fed2900d562189342e670fac023a5260c895a0cf6f02fe114232135df592b"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-9c2fb56089240b891e4a75dc",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-760942a98daf18d95cd392e1",
           "segment_index": 4,
           "source_segment_id": "seg-760942a98daf18d95cd392e1",
           "source_text_sha256": "f0240e197a26b9edb04dd99683a7cc429195858c333e16c93b0c299e9aa374f7",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Gard",
           "translation_text_sha256": "820aa7aa6105782f6da8f6ce3abb31c1f4fb99b9f109db59418140fb28bb111e"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-9c2fb56089240b891e4a75dc",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-77589aa2a0e98b176d9eb2f9",
           "segment_index": 8,
           "source_segment_id": "seg-77589aa2a0e98b176d9eb2f9",
           "source_text_sha256": "c2969634ea87fee72cc4c19fc33c49ae36cddc37489405429c5cd38a1e03c12e",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents:  Temoignage direct-R.pdf",
-          "translation_text_sha256": "d29131a86e503d2bcca2ae09241aed3bdac915ef303ff224c70f788520c5eb24"
+          "status": "not-required",
+          "text": "Documents: Temoignage direct-R.pdf",
+          "translation_text_sha256": "c2969634ea87fee72cc4c19fc33c49ae36cddc37489405429c5cd38a1e03c12e"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-9c2fb56089240b891e4a75dc",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-159cc26a9e4f438ee7b5e186",
           "segment_index": 9,
           "source_segment_id": "seg-159cc26a9e4f438ee7b5e186",
           "source_text_sha256": "756f1d25931a18feac278e6a64ea060a9fd84b803dac4373049c20d86bcfd4b3",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: SAINT-GILLES (30) 13.10.1974",
           "translation_text_sha256": "671cd473d1b8dbd534fe0b6f0c802d208d038739721ad086109fbcdaadab2f9a"
         },
@@ -170,37 +170,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-9c2fb56089240b891e4a75dc",
-          "qa_findings": [
-            {
-              "added_in_translation": [
-                "17:55"
-              ],
-              "check": "times",
-              "missing_from_translation": [
-                "17:00"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [],
-              "check": "numbers",
-              "missing_from_translation": [
-                "55"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-34050c9faae6239dc1fd1a90",
           "segment_index": 11,
           "source_segment_id": "seg-34050c9faae6239dc1fd1a90",
           "source_text_sha256": "9a1e9a244d9bc5a67b5a98005c4affd2034af010729f9484933cb1b57353d918",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: On October 10, 1974, at 5:55 PM, a middle school supervisor was alerted by students about a peculiar phenomenon in the sky. Upon stepping outside the establishment, the witness spotted a silver ball, as well as two smaller balls that appeared to be connected to the first by a string. The witness decided to alert her husband and lost sight of the entire scene. The following day, she was reported that the two smaller balls had ascended back into the larger one before departing at high speed. No further information was gathered on this phenomenon, for which we lack data.",
-          "translation_text_sha256": "b61e3d3d160c2c54ff488c054fbe80f10ff8b573214dc6ef0288965e4f3ad3d9"
+          "status": "machine-unreviewed",
+          "text": "Description: On October 10, 1974, at 5:55 PM, a middle school supervisor was alerted by students about a peculiar phenomenon in the sky. Upon stepping outside the establishment, the witness spotted a silver ball, as well as two smaller balls that seemed connected to the first by a thread. The witness decided to alert her husband and lost sight of the entire scene. The following day, she was reported that the two smaller balls had ascended back into the larger one before departing at high speed. No further information was gathered on this phenomenon, for which we lack data.",
+          "translation_text_sha256": "5f1154d6d6c2ee6d8b1d66c5a53e26c94d48a010f90ea61320c6dc9d141f8c96"
         }
       ],
       "source_page_id": "page-9c2fb56089240b891e4a75dc"
@@ -211,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-26T22:29:32Z",
+    "generated_at": "2026-11-16T03:43:42Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

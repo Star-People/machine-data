@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-12-00365/case.html", "source_sha256": "ffdced2e6b732859bfda5454a66978906b35e95d5a7985936ee6be32871d3190", "source_bytes": 19338, "created_utc": "2026-10-21T18:12:38.395083+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-12-00365/case.html", "source_sha256": "d0c55c1c66e45fd018b77bd386a6cf61781774a639dcee67017f760f52bee539", "source_bytes": 19356, "source_mtime": 1794797783, "source_mtime_ns": 1794797783069804733, "source_ctime_ns": 1794797783070098567, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:05:29.590073+00:00"}
 
 ALLY (43) 01.12.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ ALLY (43) 01.12.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

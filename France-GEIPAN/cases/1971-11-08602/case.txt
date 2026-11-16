@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1971-11-08602/case.html", "source_sha256": "cd178c4b434807d116b35515d64a58bfd3fb145df909a1b1f69f9174ed96f810", "source_bytes": 20760, "created_utc": "2026-10-21T18:12:13.425239+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1971-11-08602/case.html", "source_sha256": "aebd4c9c3b2f57d7dd78bf03af0d412be7380b2fdf72d2b66cf45ddb242b7092", "source_bytes": 20778, "source_mtime": 1794796909, "source_mtime_ns": 1794796909941094130, "source_ctime_ns": 1794796909941209880, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.364791+00:00"}
 
 NEUVES-MAISONS (54) 02.11.1971 | GEIPAN
     
@@ -38,7 +38,7 @@ NEUVES-MAISONS (54) 02.11.1971 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1974-11-02018/case.html",
-    "bytes": 20951,
+    "bytes": 20969,
     "canonical_source_identifier": "GEIPAN:1974-11-02018",
     "case_metadata": {
       "classification": "C",
@@ -42,7 +42,7 @@
     "original_title": "SOUGE-LE-GANELON (72) 02.11.1974",
     "relative_path": "cases/1974-11-02018/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "11d0cbec57a5ccafda4dbd6db04bf6040df517b337745fab663036f3c4797031",
+    "sha256": "e45b8b43c57862ded91e575aa0244af2574f63fc7838c69e9aced7c021428fbd",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1974-11-02018"
     ]

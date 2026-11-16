@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00278/case.html", "source_sha256": "774d389088920eaef81f8befd604ebbb4ed1c01092c5dfd3d586897b610c6304", "source_bytes": 18817, "created_utc": "2026-10-21T18:12:22.715587+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00278/case.html", "source_sha256": "e5c575847e3b83c6bba2435e7ab53dcc4758a18d9f1b61b5c3d2f8e4b69c6876", "source_bytes": 18835, "source_mtime": 1794797083, "source_mtime_ns": 1794797083653158406, "source_ctime_ns": 1794797083653203364, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.853014+00:00"}
 
 SAINS-RICHAUMONT (02) 01.01.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ SAINS-RICHAUMONT (02) 01.01.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

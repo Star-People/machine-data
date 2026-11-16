@@ -8,7 +8,7 @@
   "document_id": "doc-cae0dc06bd379e0807fbaa26",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-27T15:46:21Z",
+    "generated_at": "2026-11-16T04:32:38Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-09-00338/case.html",
-    "bytes": 18836,
+    "bytes": 18854,
     "canonical_source_identifier": "GEIPAN:1976-09-00338",
     "case_metadata": {
       "classification": "B",
@@ -244,7 +244,7 @@
     "original_title": "TARBES (65) 05.09.1976",
     "relative_path": "cases/1976-09-00338/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "8ce5a4195ba3b3fc1075ce6def8d39038ec367b2b8d50a7bf9e8e62e0423779b",
+    "sha256": "9edbcf6dbe4a4c54e326a8f6469f8478b7d8a2e19b5505c3b608506c3c0b6519",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-09-00338"
     ]

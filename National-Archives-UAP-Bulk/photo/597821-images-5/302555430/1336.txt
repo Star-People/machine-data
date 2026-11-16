@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:10:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1685891, "source_ctime_ns": 1793391087266189635, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555430/1336.jp2", "source_mtime_ns": 1785808150000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555430/1336.jp2", "source_sha256": "b58ff2d004f7d06c0a33a32423a0213d49fba7e9f0bc1d12cab308b0a8a394b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 902, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AGENCY
+FEDERAL AVIATION AGENCY
+Airport Traffic Control Tower
+Philadelphia International Airport
+Philadelphia, Pennsylvania 19153
+February 6, 1967
+N REPLY
+REFER TO
+James C. Manatt, Colonel, USAF
+Director of Technology and Subsystems
+Headquarters Foreign Technology Division (AFSC)
+Wright¿Patterson
+Air Force Base, Ohio 45433
+Dear Colonel Manatt:
+After a thorough check of the records we have available
+for September 24, 1966, we can find no reference to an
+unidentified flying object in this area. Since we only
+keep our daily records and tapes for a period of 15 days,
+it is impossible to check on individual airplanes in the
+area at that time.
+We are forwarding a copy of your letter to Mr. I. Probst,
+Chief, General Aviation District Office, North Philadelphia
+Airport, who may be able to furnish you a list of persons
+issued banner towing authorizations.
+Sincerely,
+Leo G. Marshall
+Chief Controller

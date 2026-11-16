@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00280/case.html", "source_sha256": "ac44f2f562a8f6d8e48b03bb2da7b967a52ebe92dc5411054ec657aa39b4d1eb", "source_bytes": 18530, "created_utc": "2026-10-21T18:12:23.808201+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-01-00280/case.html", "source_sha256": "d1a59b84c9389c594943488824517ae3e38ecc7869056017ea7fec943484f02c", "source_bytes": 18548, "source_mtime": 1794797105, "source_mtime_ns": 1794797105338208488, "source_ctime_ns": 1794797105338445906, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.962863+00:00"}
 
 SAINT-PIERRE (974) 09.01.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ SAINT-PIERRE (974) 09.01.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

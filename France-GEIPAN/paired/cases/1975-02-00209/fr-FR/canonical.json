@@ -8,7 +8,7 @@
   "document_id": "doc-22cc4ad504c9767d0e30c96a",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-09-23T07:19:56Z",
+    "generated_at": "2026-11-16T04:05:35Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1975-02-00209/case.html",
-    "bytes": 20150,
+    "bytes": 20168,
     "canonical_source_identifier": "GEIPAN:1975-02-00209",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "CASTELNAU-DE-MONTMIRAL (81) 18.02.1975",
     "relative_path": "cases/1975-02-00209/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "bfae3b5ac3df73c8de534be69e398a341185aed67e36e5126f4912876665ee21",
+    "sha256": "423f9ad8fd7469bb053eca655e3c583abc716088c09893da0c51b858c8656beb",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1975-02-00209"
     ]

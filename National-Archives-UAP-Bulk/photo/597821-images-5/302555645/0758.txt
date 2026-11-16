@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T04:36:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1726428, "source_ctime_ns": 1793391115987510194, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555645/0758.jp2", "source_mtime_ns": 1785808528000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555645/0758.jp2", "source_sha256": "42fef47e85497c4a3a002d148858cbfdeee4ffd4f673bf05b3530aea4aee4f8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 414, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE • TIME GROUP
+4 Sept 66
+5/02162
+3. SOURCE
+Civilian
+1. NUMBER OF OBJECTS
+Five
+5. LENGTH OF OBSERVATION
+Varied
+6. TYPE OF OBSERVATION
+Grond Visual
+COURSE
+N-S
+8. PHOTO§
+2. LOCATION
+China Grove, North Carolina
+10. CONCLUSION
+(other) INSUFFICIENT DATA FOR EVALUATION
+(multiple)
+11. BRIEF SUMMARY AND ANALYSIS
+SEE CASE
+XX No
+2. PHYSICAL EVIDENCE
+I7 Yes
+xX No
+FORM
+FTD SEP 63 0-329 (TDE) Previou

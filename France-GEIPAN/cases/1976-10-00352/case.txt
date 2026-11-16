@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00352/case.html", "source_sha256": "b14ef8cdf7bf38e4e007ec4622add5cb39351d4eb9ae16adde2123383171d715", "source_bytes": 18457, "created_utc": "2026-10-21T18:12:34.074720+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1976-10-00352/case.html", "source_sha256": "9d7c5f7ddbe84ad3eb1cb549e3be26ff7861d290785ef2e9d9dc32ad18056083", "source_bytes": 18475, "source_mtime": 1794797649, "source_mtime_ns": 1794797649463941693, "source_ctime_ns": 1794797649464296069, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T03:05:03.258546+00:00"}
 
 VENON (38) 15.10.1976 | GEIPAN
     
@@ -38,7 +38,7 @@ VENON (38) 15.10.1976 | GEIPAN
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           

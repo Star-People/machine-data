@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-b07d466eef6f379a61c51f75",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-0f7fed417ce04ae97e6d8f38",
           "segment_index": 3,
           "source_segment_id": "seg-0f7fed417ce04ae97e6d8f38",
           "source_text_sha256": "1786ec9a8865f151485f492911c4b514a5215317ea071774d40f0640c1c6143b",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Rhône-Alpes",
           "translation_text_sha256": "c9cc0fa3af182bbd563ccd8374e8a5d76e6e0256cbfc2fbffe43209815f49656"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-b07d466eef6f379a61c51f75",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-c21e7248966e4e6dfd303b8e",
           "segment_index": 4,
           "source_segment_id": "seg-c21e7248966e4e6dfd303b8e",
           "source_text_sha256": "9ddbfb90269ffdf77234be9a52cab9d1120b74faaeb6410950722c1fcc92f4c0",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Ardèche",
           "translation_text_sha256": "97ccc13a9d4d53b0e60b90df1bb39ceffc9534cba1fe95f7237e8de202c6b133"
         },
@@ -82,8 +82,8 @@
           "source_text_sha256": "af3c393e0cd98390c556fb921630c5c6f7383d31ac86d78af17576637a6e230b",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Classification: A (Unclassified)",
-          "translation_text_sha256": "450a8e10fb4b2312baf262f45436f2fa2cfc060460470e5168c7ac58772230cb"
+          "text": "Classification: A",
+          "translation_text_sha256": "af3c393e0cd98390c556fb921630c5c6f7383d31ac86d78af17576637a6e230b"
         },
         {
           "end_ms": null,
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-b07d466eef6f379a61c51f75",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-0475121941a87072f876748c",
           "segment_index": 8,
           "source_segment_id": "seg-0475121941a87072f876748c",
           "source_text_sha256": "1aeb4f66e6448406097ae67d4c1d437945c8581277fa8180d21ea83bbf6151a2",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents:  Cartes celestes-R.pdf PV n° 159 (1975309378).pdf",
-          "translation_text_sha256": "b170c17b792889244a15177dafb6959936ffe945dbed64f9e8cccee954e44a14"
+          "status": "not-required",
+          "text": "Documents: Cartes celestes-R.pdf PV n°159 (1975309378).pdf",
+          "translation_text_sha256": "1aeb4f66e6448406097ae67d4c1d437945c8581277fa8180d21ea83bbf6151a2"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-b07d466eef6f379a61c51f75",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-1dd73d20e143f0f5711b15c4",
           "segment_index": 9,
           "source_segment_id": "seg-1dd73d20e143f0f5711b15c4",
           "source_text_sha256": "631e1d20b86aef3bb26a4f6b441076b9af8652e245ee566ee8c4b4ca0046fd86",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: VERNOUX-EN-VIVARAIS (07) 25.02.1975 T1 VERNOUX-EN-VIVARAIS (07) 25.02.1975 T2",
           "translation_text_sha256": "fa37ce3eeb3f8bf2462c11da30f447dd85606674298815d8af3d1665311b8679"
         },
@@ -190,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-28T08:37:59Z",
+    "generated_at": "2026-11-16T02:59:18Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
     "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

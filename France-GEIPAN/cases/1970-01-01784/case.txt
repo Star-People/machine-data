@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v2", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1970-01-01784/case.html", "source_sha256": "ef5cfb0640d4c7c90af5be1559cb10773522ec877cec15ad7dc578147fe0d6bf", "source_bytes": 19381, "created_utc": "2026-10-21T18:12:13.301457+00:00"}
+{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "html-visible-text", "source_file": "France-GEIPAN/cases/1970-01-01784/case.html", "source_sha256": "96699893d3c7f5ab7b58af165d4bc390e77ba46d54b66347c3efd7ba4acedfb8", "source_bytes": 19399, "source_mtime": 1794796899, "source_mtime_ns": 1794796899247888753, "source_ctime_ns": 1794796899247991628, "source_hash_basis": "archived-file", "created_utc": "2026-11-16T02:50:51.335183+00:00"}
 
 (DPT) LANDES (40) --.07.1970 | GEIPAN
     
@@ -38,7 +38,7 @@
           
 
             
-Pour témoigner, le questionnaire technique est obligatoire! Questionnaire Technique
+Pour témoigner, le questionnaire technique est recommandé ! Questionnaire Technique
           
         
           
