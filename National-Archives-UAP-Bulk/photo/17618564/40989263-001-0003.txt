@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:31:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6128308, "source_ctime_ns": 1793355103530660314, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0003.jpg", "source_mtime_ns": 1785564394000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0003.jpg", "source_sha256": "1d0ac988e99fa6c60034ac11e61f0e043b734ec96192499fe789d74e29ebb86a"}
+
+===== PAGE 1 =====
+{"alpha_words": 304, "chars": 1846, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR RECORD
+Recovery Report - H71-38
+28 Sept 71
+1. On 25 September 1971 at 1220 Mr Blankenship and MSgt Trobaugh
+departed Holloman AFB, NM with a 5 ton wrecker and a 1 ton pickup
+to recover flight number H71-38.
+The NASA people (Dave Grolemund & Jack Bufton) caught up with us
+at the Apache Summit about 50 miles north east of Holloman AFB.
+3. The observers aboard the mission aircraft sighted the ground party
+17 miles north of Tinnie, NM. Off of highway 70. From this point on
+the aircraft observers led the ground crew over ranch roads and trails
+to the impact site which was about 45 miles north west of Roswell, NM.
+4. The balloon fell across a power line two miles west of the payload
+impact site.
+5. We talked to a rancher ( Mr Sparks) who was at the impact site
+requesting he call the power company at Capitan by way of his rancher's
+radio-telephone system.
+The R.E.A. Power Company sent two line men out to make sure the
+power was off the line and to remove the balloon.
+7. Arrived at the payload impact site at 1650.
+8. All of the equipment was within a quarter of a mile. The reel down
+package had separated up on impact when the small Tenney release fired.
+The impact switches for the large gondola did not work.
+The gondola
+again flipped bottom side up and was dragged 51 yards. Both ballast
+hoppers had blown and were empty. Both Tenney releases were still
+attached to the top of the parachute, The primary had fired and the back
+up was still armed. The parachute was in excellent condition.
+9. Departed the recovery site at 1830 with everything loaded. Arrived
+at Capitan at 2030.
+10. At 2130, a Mr Wayne Langford, Box 431, Capitan, NM contacted us at
+the Motel stating the balloon had been removed from the power line.
+1l. We informed him that we would go back out to the site first thing
+in the morning and burn the balloon.

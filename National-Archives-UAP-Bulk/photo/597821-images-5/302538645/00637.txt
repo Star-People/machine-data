@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:14:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1741926, "source_ctime_ns": 1793389265640172789, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538645/00637.jp2", "source_mtime_ns": 1785808544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538645/00637.jp2", "source_sha256": "56afc872dd4945d18d2487bd8d5f07e24157316d0c67f0bfeffe92f9380f9542"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 323, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Hra Hunt/SAPOICC/72842/10 Jun 65
+Dear Miss I
+the object you obeerved in the aky on the aight of
+39 Apr11 1965 has been evalunted an ECHO 1 which vas
+viaible over ranklagton at 7343 PM 287 on that date.
+time of the observation.
+Teak you for regorting your oceerration to the Air
+force.
+Sincerely,
+SPAULD EIG
+abington 20, IC

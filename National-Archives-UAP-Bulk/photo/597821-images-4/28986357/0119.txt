@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:41:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8964680, "source_ctime_ns": 1793383117738490026, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986357/0119.jpg", "source_mtime_ns": 1785748397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986357/0119.jpg", "source_sha256": "42c1e77053058ad2301f0a599f8ae153aca9f1561e3504c66187efed3501454b"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 705, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+AIR FORCE BALLISTIC MISSILE DIVISION (ARDO)
+UNITED STATES AIR FORCE
+Air Force Unit Post Office, Los Angeles 45, California
+Reply to
+Attn of
+WDY.T
+MAY 2 4 1960
+Chicago 34, Illinois
+Dea
+thank you for your letter concerning your possible observation of
+he disintegration of Sputnik IV. I have forwarded the letter to
+the Aerospace Technical Intelligence Center at Wright-Patterson Air
+Force Base, Dayton,
+Ohio, which is the organization that compiles
+information on Soviet satellites.
+Information from independent observations such as yours can add to
+the Air Force's knowledge of activities in space.
+Your initiative
+is appreciated.
+Sincerely
+DATIEL W. WICKLAND
+Colonel, USAF
+DCS/ Intelligence

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:14:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1742049, "source_ctime_ns": 1793389564045299804, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541881/0700.jp2", "source_mtime_ns": 1785808307000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541881/0700.jp2", "source_sha256": "bd7c6132c3851abc8da665d7ac2fd72b667898bde48a7c1ae749e0396754b2ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 477, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICIAL FILE COPY
+PID (TEW)
+Wright-Patterson AFB, Ohio 45433
+& September 1965
+Brin Court
+Pleasant Hill, California
+Dear Misg
+Reference your recent unidentified sighting of 5 August 1965.
+the information which ve have received is not sufficient for
+evaluation.
+Request you 1111 out the attached FID Form 164
+and return it in the envelope provided.
+The Air Force appreciates your interest in this subject.
+Sincerely,
+HECTOR CUINTANILLA, JS, Major, USAF
+Chief, Project Blue Book

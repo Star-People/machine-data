@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:09:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1248116, "source_ctime_ns": 1793394006544458746, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582806/0813.jp2", "source_mtime_ns": 1785808482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582806/0813.jp2", "source_sha256": "c79a40ea91911bc6b5db38c34581be12c315e9805c6bc12e16eaf79d2501ba9f"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 577, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TDFT (UFO)
+UNO Observation, 5 Jun 1969
+23 JUN 1969
+63139
+The stimulus of your UFO sighting of 5 Jun 1969 has been identified
+by the Smithsonian Astrophysical Observatory as a meteor. The meteor
+traveled on a heading of 290 degrees and was seen by thousandsiạiof
+persons in the illinois, Missouri and iowa areas. Because of the
+absence of sightings and sound near its computed impact point, it is
+believed that it burned up completely in the atmosphere.
+TOR QUINTANILIA, Jr, Lt Colonel, USAF
+Chief, Aerial Phenomena Office
+Aerospace Technologies Division
+Froduction Directorate

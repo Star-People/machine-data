@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:42:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9186186, "source_ctime_ns": 1793362159521171202, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0142.jpg", "source_mtime_ns": 1785684719000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0142.jpg", "source_sha256": "63b3abf31520c78fa515bc840184b29f0057684a6cdf9a648f35640598c10e30"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 993, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MDT 000.92
+Subj: Inidentified Flying Objects
+22 Sop 49
+(3) Clock position of object from observer's aireraft:
+Four o'clock, approxinately thirty miles to the right
+and to the rear
+(4) Latitude and longitude: 48°40N 74°55N
+0e Sea
+Not applicable
+4. Number of objects: One
+8. Formation type: Not applicable
+Distance of object from observer: Thirty miles
+a. Laterally or horizontally: Horizontally
+b. Angle of elevation from horizon: Level plane
+Ce
+Altitude: 20,000 feet letting down slowly until it dis-
+appeared into the overcast at 7,000 feet
+Time in sight: Not stated
+7. Appearance of object:
+a. Color: Silvery or aluminum
+b. Shape: Cylindrical
+e. Apparent construction: No opinion
+direSize: Undetermined due to distance and speed
+Direction of flight: 250 degrees
+Tactics or maneuvers: Slow descent into overcast
+10.
+Evidence of exhaust: Yes (flame)
+a. Color of smoke: Orange and white flame
+b. Length and widths More than twice the length of
+the object
+Declassification Authority: NND 923007

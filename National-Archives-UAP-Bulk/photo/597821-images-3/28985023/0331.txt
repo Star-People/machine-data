@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:30:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5994979, "source_ctime_ns": 1793382672337352205, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28985023/0331.jpg", "source_mtime_ns": 1785700927000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28985023/0331.jpg", "source_sha256": "f09a85940a38b3d29ffaee18d335400b3ccea943ef86e994afa1eaab9b641002"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 770, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AD FORCE
+STAFF MESSAGE DIVISION
+UNOLASSIFIED MESSAGE
+INCOMING
+AP IN: 17750 (16 Oct 59)
+PAGE FOUR RJEDSB 52
+(4) 7 MILES
+(5) 12,008 SCATTERED
+(6) NONE
+(7) INVERSION AT 700 FT - 1,000 FT OF 4 DEGREES
+CENTIGRADE AND SECOND INVERSION AT 5,200 FT 3 DEGREES
+CENTIGRADE. SURFACE TEMPERATURE 50 DEGREES FAHRENHEIT.
+H. NONE
+I. NONE
+J. NONE
+K. WING PLANS AND INTELLIGENCE OFFICER, STANLEY J. ASH,
+MAJOR, USAF. BECAUSE OF THE EXACT BEARINGS AVAILABLE FROM THE
+TOWER AND THE EXACT TIME AND FURATION OF THE SITING, AND
+BECAUSE OF THE LEVEL TRAJECTORY AT CONSIDERABLE DISTANCE,
+IT IS CONSIDERED THAT THE SITING COULD BE POSSIBLY A MISSILE
+OF SOME NATURE.
+L. NONE
+SIMILAR OBJECT REPORTED AT THE SAME TIME BY RADAR STATION
+AI PAUTEXENT.
+16/2232Z OCT RJEDSB
+Page 4 of 4

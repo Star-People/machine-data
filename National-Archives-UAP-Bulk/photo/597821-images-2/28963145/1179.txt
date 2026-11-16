@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:28:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5569262, "source_ctime_ns": 1793377283036047162, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963145/1179.jpg", "source_mtime_ns": 1785696772000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963145/1179.jpg", "source_sha256": "b014ee9158820f4183e2871b721cdfa74a3bb18510051133a777e5840f05240e"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 428, "method": "ocr", "page": 1, "variant": "plain-vision"}
+GE TWO AJEDIR HC1
+(G) A SHORT TAIL
+(HO TONE
+(ID HONE
+(2)
+63.
+(A) GROUND-VISUAL
+(B) NAKED EYE
+(C) NA
+(AD SIGHTED WHILE LOOKING FOR AIRCRAFT BY GOC OBSERVER
+(E) 45 DEGREES
+(C) NOT REPORTED
+(D) DROM NORTH TO SOUTH AND BACK FRON SOUTH TO NORTH
+(ED STILL APEARING AT 2450Z 13 AUG
+(ED TWO AND ONE-HALF HRS
+(A) 13 AUG 02222
+(B) DARK-NIGHT
+GIOREF GRID AN 5730 CHA NEAR BELOIT WISC
+(5)
+(S)
+(A) CIVILIAN MRS
+37 OCCUPATION NOT KNOWN
+MISC-

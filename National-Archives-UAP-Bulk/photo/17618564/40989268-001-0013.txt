@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:51:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18924789, "source_ctime_ns": 1793355574508444561, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0013.jpg", "source_mtime_ns": 1785564482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0013.jpg", "source_sha256": "43259ed4689764659b0c460b78b97c96d245881153152b8b60706a4990620117"}
+
+===== PAGE 1 =====
+{"alpha_words": 549, "chars": 3612, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Figure 5. TABS Airborne Telemetry/Command Packages, Closed and with Cover Re-
+moved. The cylindrical-vane anemometer plugs into the large fitting at the top, next to
+the cut-down squib connector. The aneroid barometer assembly is mounted on the fifth
+shelf from the top inside the package. The lower six trays carry the silver-zinc and
+nickel-cadmium batteries. The antenna leads extend through the bottom of the package.
+13
+In view of these results, it was decided to set up a full-scale production line
+capable of manufacturing the tether in lengths up to 150,000 feet. A 20-foot by
+200-foot area in an existing building was partitioned off and partially enclosed with
+dust-excluding screening and positive-pressure air conditioning, and the pilot pro-
+duction line was reconstructed on a larger and more permanent scale. This facility
+is illustrated in Figure 6. In the background may be seen the racks which carry up
+to 150 bobbins, each wound with approximately 160,000 feet of "single-end' (208
+filament) glass roving. The "ends are drawn off the bobbins under controlled ten-
+sion, gathered loosely together in a resin pre-wetting chamber, and pass through a
+resin-impregnation bath. Emerging from the bath through an initial sizing die, the
+cylindrical bundle is partially cured in a tubular oven, drawn through a final sizing
+die, and thence through a series of finish curing ovens to emerge in finished form
+in the right foreground. The cured tether is then allowed to cool as it travels some
+100 feet further through open air, to be wound onto a variable speed take-up drum.
+Continuous production rates of up to 40 feet per minute have been achieved. It has
+also been found possible to introduce individual ends into the line during production,
+in the event of breakage or exhaustion of a bobbin; in principle, at least, this would
+permit production of unlimited continuous lengths of tether. The new production
+line has been completed, and pilot specimens have been manufactured; prepara-
+tions are currently being made to produce a full-length tether during the next few
+weeks.
+While the new facility was being constructed, Owens-Corning Fiberglas, Inc.,
+who had been supplying our glass roving, offered to manufacture for us approxi-
+mately 50,000 feet of 1500-pound break strength material of basically similar
+construction. This proposal was accepted, as providing a possibility for conducting
+intermediate-altitude tests; Owens-Corning were able, however, to produce a total
+length of 81,000 feet of material of 0.093 inch diameter testing to 1650 pounds, and
+the entire quantity was purchased. It has been wound onto the winch drum and is
+presently ready for use in a full-scale stratospheric flight, as soon as suitable
+conditions of weather and range clearance are encountered.
+A number of problems remain to be explored with regard to the glass-resin
+tether. One of the most important concerns the making of attachments to the ends
+of the tether, which of course, cannot be knotted. For tensile tests, hollow metal
+ferrules are potted with epoxy resin to the ends of the test specimens, but the
+curing process is slow, unless heat is used, while careless handling will allow the
+sample to break if kinked near the mouth of the holder; a new approach providing
+a rapid, secure connection is needed here. For attachment to the winch drum or
+the balloon load line, a few turns about a reasonably large-diameter cylindrical
+surface provide adequate friction to hold the tether end securely, without excessive
+local stresses (for the attachment to the balloon load line, a large, lightweight but

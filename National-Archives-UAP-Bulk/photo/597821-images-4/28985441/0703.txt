@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:24:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4636665, "source_ctime_ns": 1793382778828516506, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985441/0703.jpg", "source_mtime_ns": 1785748489000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985441/0703.jpg", "source_sha256": "1d92cc17b4d3ca4c1db2bc7a962384a5b67fa5ccffbbd48bca1304c2178eb972"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 808, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+24 Nov 59źł
+3. DATE-TIME GROUP
+Local
+GM T
+PHOTOS
+25/00452
+PROJECT 10073 RECORD CARD
+LOCATION
+11.55N 73.15W Atlantic Ocean
+TYPE OF OBSERVATION
+#: Ground- Visual
+• Ground-Radar
+• Air Visual
+D Air-Intercept Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircreft
+Possibly Aircraft
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+• Yes
+Xit. No
+7. LENGTH OF OBSERVATION
+3 secs
+one exploding
+10. BRIEF SUMMARY OF SIGHTING
+. Bright firey obJ heading East at 45°
+elev observed to explode like a roman
+candle.
+11. COMMENTS
+Description characteristic of a bolide
+observation, and case is listed as a
+meteor sighting.
+ATIC FORM 329 (REV 26 SEP 52)

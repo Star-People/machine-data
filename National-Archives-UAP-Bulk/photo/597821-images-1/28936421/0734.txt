@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:17:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3361270, "source_ctime_ns": 1793371053776711962, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936421/0734.jpg", "source_mtime_ns": 1785688625000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936421/0734.jpg", "source_sha256": "28d7bc57008aa50d45d5cb4b6e64022e04261b228df9001bdf5a5eb50714449b"}
+
+===== PAGE 1 =====
+{"alpha_words": 255, "chars": 1919, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2 !_
+MAXWELL FLIGHT SERVICE CENTER
+MAXWELL AIR FORCE BASE, ALABAMA
+BSC : mw
+MXF 300
+16 August 1949
+SUEJECT:
+UNCLASSIFIED
+Unidentified Flying Objects
+TO:
+Commanding General
+Air Materiel Command
+Wright-Patterson AFE, Ohio
+ATTN: MCIAXO-3
+1.
+An unidentified flying object was sighted over Greenville, S. C.,
+at 19305, 15 August 1949.
+2.
+The 1930E weather for Greenville AF Base was 4000 scattered, 15
+miles visibility. Greenville, S. C. Municipal Airport weather at 1930E
+was 25000 broken, 9000 scattered, 30 miles visibility, with distant thun-
+derstorms in all quadrants.
+3. Two witnesses reported the unidentified flying objects. One of
+the witnesses was not identified and the other was Mr.
+Avenue, Greenville, S. C., who is employed at the '
+refl
+" Municipal
+Airport.
+4. No photographs or sketches are available.
+5. The unidentified object was described by the witnesses as round,
+fairly large, grey, moving in a northeasterly direction at an undetermined
+speed. No sound was heard nor was any exhaust trail visible, its altitude
+was estimated to be 5000 feet or less. The maneuverability is not known,
+but it appeared to be moving at a constant speed and altitude.
+6. All reports were received via Plan 62 interphone by Maxwell Flight
+Service Center from Atlanta Air Route Traffic Control Center. The Atlanta
+ARTC received them from the Greenville Municipal Airport Control Tower.
+7. The operations section of the 316th Troop Carrier Wing investigated
+this incident further and determined that the unidentified object was a
+Geological Weather Service balloon believed to have been released in Tennessee.
+DOWNGRADED AT 3 YEAR INTERVALS.
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+Copies furnished:
+Chief of Staff USAF
+Washington 25, D. C.
+ATTN: Director of Intelligence
+Major,
+Commanding
+Commander MATS
+ATTN: Chief, Intelligence Div
+CO, FLIGHT SERVICE, Washington 25, D. C.
+ATTN: A-2
+UNCLASSIFIED
+AUG 2.0
+7- 3712-25

@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:17:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2418613, "source_ctime_ns": 1793364467338459272, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0073.jpg", "source_mtime_ns": 1785684563000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0073.jpg", "source_sha256": "df0b5e1d60f8cbef7e923a6b52b504950e9351f5fc0da696fdbdd9445b0a3c38"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 64, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+24185-18~50×3 Ё
+Bastonea
+Declassification Authority: NND 923007

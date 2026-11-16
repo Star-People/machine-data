@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:24:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4775689, "source_ctime_ns": 1793386707384948430, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997093/0703.jpg", "source_mtime_ns": 1785748249000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997093/0703.jpg", "source_sha256": "0f0603f2082d757c77a9a9fba504d4d735dcb58e88afd3fe97904d4c0b2339d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 630, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE -
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+AF IN : 12819 (2 May 62) #/bmsC 0 M | N G
+INFO : CIN-14, 0OP-2, OOP-CP-1, SAFS-3, DIA-7 (28)
+SMB B 171
+LKA068KHC928
+.....
+00 RJEZHQ RJWX BR RJWFALB
+DE RUHLKH 8
+ZNR
+0 021045Z
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+TO RUHLKM/PACAF HICKAM AFB HAWAII
+RUMPO/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RJEZHO/COFS USAF WASHINTON D C
+RBEPW/CNO WASHINGTON D C
+RBEPW/SECNAV WASHINGT ON D C
+RJWFAL3/CINCNORAD ENT AFB COCO
+RUHPA/CINCPAC CAMP H M SMITH HAWAII
+RUHAFS/CINCUSARPAC FT SHAFTER HAWAII
+RUHPB/CINCPACFLT PEARL HARBOR HWAII
+RUAUAZ/COMUSJAPAN FUCHU AS JAPAN
+pg 1 of 2

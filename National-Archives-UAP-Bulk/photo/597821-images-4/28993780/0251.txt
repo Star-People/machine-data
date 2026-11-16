@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:38:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8129779, "source_ctime_ns": 1793385621771241038, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993780/0251.jpg", "source_mtime_ns": 1785748217000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993780/0251.jpg", "source_sha256": "f9731e9e533b6a0e38e63b7c1a55e4465f1a31c8e1c38ff7777ce980b4c3a33c"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 413, "method": "ocr", "page": 1, "variant": "plain-vision"}
+9 October 1961
+Dear
+I on returning the plotographs which you sent to us recently.
+The only conclusion reached was that the object photographed was
+mmll in size and photographed at close renge.
+Focus waa not fine
+end details are consequently missing.
+Thank you for your interest.
+Sincerely,
+WILLIAN T. COLMAN, JR.
+Major, USA?
+UTO Projeet Officer
+Publie Information Division
+Office of Information
+ntara,
+Cull fomia

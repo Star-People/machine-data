@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:47:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13914846, "source_ctime_ns": 1793358750239549635, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-040-0001.tif", "source_mtime_ns": 1785681190000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-040-0001.tif", "source_sha256": "465ac8cadb1c32b21c8b586f6862f2dc8b61987e71116fdcee05650de394503b"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 839, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LCG
+2 DATE/TIME OF SIGATING
+15-0200% July 1965
+I REPORT NO.
+AISS -000B-321-65
+3 RECD HQ 4602D
+15 July 1955
+4 LOCATION OF SIGHTING
+Orlando, Florida;
+Palm Beach, Florida; and at Mima, Florida
+5 MEANS RECD
+TT Mag
+7 INVES UNIT
+6 ACTION
+No investigation authorized
+18 DATE INVES ASSIGNED
+19 ASSIGNING OFFICER
+/A
+12 DATE IR TO ATIC
+1/3
+10 DATE IR RECD HQ
+111 DATE IR APPROVED
+I/A
+13 AISOP FORM 5
+15 July 1955
+14 COMMENTS
+The description of the object and the fact that the object was seen
+over such a scattered area indioated that the object could have
+been astronomical. In the opinion of the officer perparing the
+report the sighting was probably a meteorite. This headquarters
+concurs in the opinion of that officer.
+15 CONCIUSIONS
+Probably Astronomical: Meteorite
+AISOP FORM 7 (2AFK 55)

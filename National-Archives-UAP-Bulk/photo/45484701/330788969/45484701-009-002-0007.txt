@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:50:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16349354, "source_ctime_ns": 1793365478358477153, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0007.jpg", "source_mtime_ns": 1785684814000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0007.jpg", "source_sha256": "7b3634393cbd043cf4e1bc10a98f1e5b175b9a7b22fe165d74d34bacf9e35176"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 125, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Chron. 24-185-8032
+November 11, 1954
+Alas, Ga., Missi.,
+Syfacauga, Alabama.
+3 Photos•
+Declassification Authority: NND 923007

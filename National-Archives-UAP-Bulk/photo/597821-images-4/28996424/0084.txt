@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:20:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4017925, "source_ctime_ns": 1793386511290472534, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996424/0084.jpg", "source_mtime_ns": 1785747976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996424/0084.jpg", "source_sha256": "9365c5a0114ac9ed8f3452c6d3e2f7ecdd0b141566c0d17f2c11638765dc4576"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 839, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+ar 62
+3. DATE-TIME GROUP
+Local.
+GM T
+7/23352
+5. PHOTOS
+- Yas
+• No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Orang
+TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balioon
+Probably Balloon
+Possibly Balloon
+•
+Was Aireraft
+Probably Aireratt
+Possibiy Aircrai
+Was Astronomical
+Probably Astronomical
+Possibiy Astronomical
+El Other
+Insufficient Data for Evalu
+Unknown
+o. BRiEF sUMmARY oF sIGHTING 10 yr old heard noise IckhecoMMENTSDaration of observation and
+p. Objt appeared as light. Moved in straight
+flight characteristics indicate
+ath In NE to SV. Faded fm sight in 3 min.
+possible a/c sighting.
+ooked arcund some more and saw 3 other lights.
+Bright night with full moon.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:44:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9952456, "source_ctime_ns": 1793387632279542013, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998921/0908.jpg", "source_mtime_ns": 1785748316000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998921/0908.jpg", "source_sha256": "a471423b76fe1c6b6a4aa8bf626fdc74bd15ae5c938f3b376d86dba30b88711a"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 582, "method": "ocr", "page": 1, "variant": "plain-vision"}
+.. -
+(2) NOT APPLICABLE
+WEATKER AND WINDS:
+(1) CLEAR
+(2) SURFACE - CALM
+6202; - 320/25
+12,000, - 312/30
+16,020, - 302/30
+20,020, - 278/45
+30,222, - 272/75
+50,020, - 280/35
+83,222, - UNKNOWN
+(3) 2,222, SCATTERED
+(4) 12 MILE
+(5) 3/12
+PAGE FOUR RUDGS 9
+(6) NONE
+(7) UNSTABLE
+H. SPUTNIK IV APPARENTLY ENTERED THE ATMOSPHERE AT APPROZIMATELY
+THIS TIME.
+I. NONE KNOWN
+J. NONE KNOWN
+K. PREPARING OFFICER, NCOIC INTELLIGENCE, BELIIVES THIS WAD
+POSSIBLY A PART OF SPUTNIK IV SATELLITE WHICH WAS BELTEVED TO ENTER
+THE ATMOSPHERE AT THE APPROXIMATE TIME OF OBSERVATION.
+ST
+07/14452 SEP RUCDGS

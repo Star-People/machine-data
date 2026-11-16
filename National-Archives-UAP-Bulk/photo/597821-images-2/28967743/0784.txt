@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:29:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5813236, "source_ctime_ns": 1793378373901931134, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967743/0784.jpg", "source_mtime_ns": 1785696881000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967743/0784.jpg", "source_sha256": "21ac87cb3fa6e536864c410e6538d437f973faa711aad71a003e95768710bf86"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 309, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+22 September 1956
+Lincolnshire, England
+1956,Sept 22-Lincolnshire; England-Afternoon A glittering Sphere hoveréd
+000ft. for about lhr, during 40mph wind, The 801t.
+Object was sighted visually & on Radar. Jets failed to lo?
+cate it. Been by thousands, Looked like glass,white inside

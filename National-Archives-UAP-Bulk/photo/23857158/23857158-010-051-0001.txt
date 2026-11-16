@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:50:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18024300, "source_ctime_ns": 1793359783040021515, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-051-0001.tif", "source_mtime_ns": 1785681519000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-051-0001.tif", "source_sha256": "682611bd7d80620d5c50e290d09c25f0cb8c51fae712e94c7acbf4c2560d2898"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 536, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+102219₴
+ops.
+EN0009
+NB051 YMBØ36KFA075
+RR RJEDEN RJEDWP RJEPAG
+ĐE RJEDKF 6GM
+# 101645Z
+FM COMDR 789TH ACW SQ OAFS OMAHA NEBR
+TO RJEDKF/COMDR 20TH ADIV GAFB GRANDVIEW MO
+RJEDEN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR ATIC WP AFB OHIO
+RJEPAG/DIR OF I TELL GQ USAF WQSH DC
+RJEDKF/COMDR CADF GRANDVIEW MO
+MP AFE OHIOWASH DC
+/ UN CLASSIFIED/ OPNS 635 THE FOL IS A UFOB
+A. BROWN WHITE L
+GHT FLOTING SLOWLY TO EARTH TURNING GREEN BEFORE HITTING
+B. N/A (NOT GIVEN)
+C.
+WHITE
+D. ONE
+E. N/A
+E. N/A
+flariz
+G. NONE

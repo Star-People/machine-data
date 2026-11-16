@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:37:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8028958, "source_ctime_ns": 1793354793447576689, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0173.jpg", "source_mtime_ns": 1785564340000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0173.jpg", "source_sha256": "a988d0d5abc8a6a9019c36088b2ac74db8b07d1f6de02232127cebe8fae5cb2a"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1074, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COURT-MARTIAL REPORTS
+NO. 13
+UNITED
+STATES V. TAYLOR
+(CM 366209)
+Headnote 6
+Appellate defense counsel, however, urges that one accused of a sex crime
+cannot be convicted on the uncorroborated testimony of an accomplice.
+This is
+not the law.
+The rule laid down in the Manual and expressly approved by the
+United States Court of Military Appeals is that corroboration is necessary
+only where the testimony of the accomplice isiạelf-contradictory, uncertain
+or improbable" (MCM 1951, subpar. 153a, p. 289; United States v. Washington
+(No. 815) 2 USCMA 177, 7 CMR 53).
+Examining the testimony of Corporal Staples
+and Private Laster with this rule in mind, we find nothing "self contradictory,
+uncertain or improbable" in their testimony.
+On the other hand the accused's
+answers to questions put to him by the court concerning his letter to Corporal
+Edwards border on the ridiculous and certainly weaken the credibility of his
+denials of these offenses.
+For these reasons we determine that the findings of the court as to the
+offenses of sodomy are correct in both law and fact.

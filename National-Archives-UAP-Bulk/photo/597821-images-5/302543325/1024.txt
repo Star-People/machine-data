@@ -1,0 +1,136 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:07:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1005000, "source_ctime_ns": 1793389753136373561, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/1024.jp2", "source_mtime_ns": 1785808304000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/1024.jp2", "source_sha256": "2de23607a355846cb612219aff7782fd2c907286564b24a24c867415bcbade38"}
+
+===== PAGE 1 =====
+{"alpha_words": 207, "chars": 1794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+* DATE
+31 Jul-2 Aug
+TIME
+31 Jul
+31 Jul
+1 Aug
+1 AUg
+1 Aug
+2 Aug
+2 Aug
+2 Aug
+• 2 Aug
+2 Atig
+2 Aug
+31/0705Z
+31/0735Z
+02/0330Z
+02/0420Z
+0500Z
+02/0200Z
+02/0200z
+02/02302
+• 02/0235Z
+02/03202
+02/06452
+2 AUg
+2 Aug
+2AU8
+2 Aug
+2 Aug
+2 Aug
+2 AUg
+2 AUg
+2 Aug
+2 Aug
+2 Aug
+02/06452
+02/07332
+02/0740Z
+02/07402
+02/0810Z
+02/08127
+02/08002
+02/0845Z
+02/0855Z
+02/0900Z
+02/0915Z
+Reports From 31 Jul to 7 Aug 65
+LOCATION
+Francis E Warren AFB, Wyoming
+(31 Jul)
+1 Aug)
+2 Aug)
+(Francis E Warren FOLDER)
+Wynnewood, Oklahoma
+(Tinker AFB FOLDER)
+Wynnewood, Oklahoma
+(Tinker AFB FOLDER)
+Big Springs, Texas
+(A P Releases)
+50 Miles E of Webb AFB, Texas
+(A P Releases)
+cheyenne, Wyoming E of
+Nebraska
+Border, SE Colorado
+(Francis E Warren FOLDER)
+E of Norman, Oklahome
+(Tinker AFB FOLDER)
+oklahoma City, Oklahoma
+(Tinker AFB FOLDER)
+Tinker APB, Oklahoma Area
+(Tinker AFB FOLDER)
+Omaha, Nebraska
+(Kansas, Nebr, Iowa, Missouri FOLDER)
+Shawnee, Oklahoma
+(Tinker AFB FOLDER)
+Fillsworth AFB, S. D.,
+tapid City, S. D.
+North & South Dakota FOLDER)
+OBSERVER
+143 Observers
+70
+27
+46
+EVALUATION
+148 Objects
+75
+29
+44
+Astro (CAPELLA)
+Vretan
+Military in Minute-
+man Flight Area
+(Airman & NCO's)
+TSgt Lang
+Astro (ANTARES)
+AIR GRAFT
+Sgt Johnson, SSet Johnston,
+SSgt Herms, AlC Bohlen, Al8 Rood,
+A2C Strope, A2C White,
+A3C Reginato, A3C Paul,
+A/B Scrabrouch, White, Wilde,
+Ellsworth, South Dakota
+(A P Releases)
+Durant, Oklahoma
+(Carswell AFB FOLDER)
+Wichita,
+Kansas
+(A P Releases)
+McAlester, Oklahona
+(Carswell
+AFB FOLDER)
+Sulpher Springs, Texas
+(Carswell AFB FOLDER)
+Evansville, Indiana
+(Duty Officer Notes)
+Carswell APS,
+Texas
+(Carswell AFB FOLDER)
+Oklahoma Area
+(A P Releases)
+Tulsa, Oklahoma
+(A P Releases)
+Richardson, Texas
+(Carswell AFB FOLDER)
+State Highway
+Patrol
+Ft Worth Airways
+Radio Operator
+PIlot DC-7
+A2C Dennis
+State Patrolman

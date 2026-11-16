@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:35:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7142454, "source_ctime_ns": 1793385000812205289, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991580/1210.jpg", "source_mtime_ns": 1785748127000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991580/1210.jpg", "source_sha256": "30574334b9f54607f83d61d31de396f6dc9ff63e31cca6f1748cd051b7afc7c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 958, "method": "ocr", "page": 1, "variant": "plain-vision"}
+C.
+d.
+(1) Ground observance
+(2) Optical aid. 32 magnefication, 0.75 degree field of
+vision telescope.
+(3) Airborne object at 10 degrees above horizon, heading
+4900 mils, 40 to 50 miles (approximate distance).
+(1) 28 February 1961 01152-0215Z (2015-2115 EST)
+(2) Moonlight night
+(1) Group of six (6) Enlisted men at Georef Position GJNJ
+4125; on Maryland Stats Route # 7, 5.5 miles East of the
+town of Herndon, Virginia.
+(1) No civilians involved
+(2) (a) A/3C Braynard Hwerner Jr. AF 13681923, James Connolly
+АРЗ
+Waco Texas, Leave address Great Falls, Virginia.
+(b) Sp/5 Donald H. Lund RA 26366344
+(c) Pfc Gordon K. Shearer RA 13654279
+(d) Sp/4 Richard K. Mosely RA 13634786
+(e) Pfc Donald B. Buck RA 14700440
+(f) Pfc Cecil F. Smith Jr. RA 14705201
+(g) Pfc Charles H. Hanson RA 14476670
+(h) Pfc Billy G. Smith RA 13654291
+(1) Al1 Army personnel listed in sub-pargraphs (a)-(h)
+assigned to #3" Btry, 1st Ms1 Bn, 71st Arty Herndon,
+Virginia.
+Winds Aloft Report
