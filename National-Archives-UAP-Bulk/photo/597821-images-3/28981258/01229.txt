@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:53:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5527981, "source_ctime_ns": 1793381685015123110, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981258/01229.jpg", "source_mtime_ns": 1785700897000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981258/01229.jpg", "source_sha256": "053482c6a9616f8f43f2d027532a374c9a9ab3adbfa085faf7ab9465a8a7f319"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 757, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1958
+3. DATE-TIME GROUP
+Local.
+GM T
+5. PHOTOS
+-TYPE OF OBSERVATION
+@ Ground- Visual
+• Air Visual
+6. SOURCE
+CIV
+8. NUMBER OF OBJECTS
+one
+EJ Ground-Radar
+• Air-Intercept Radar
+OSZ0
+• Yes
+A No
+7. LENGTH OF.OBSERVATION
+to
+8 mins
+10. BRIEF SUMMARY OF SIGHTING
+Oval obj 6 to 8 ft in diameter &
+about 4 It in height. Obj stopped
+in mid-air & hovered,
+then
+disappeared at a terrific rate of
+speed.
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+OX: Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+T11. COMMENTS
+Description
+is characterfstic
+of a balloon.
+ATIC FORM 329 (REV 26 SEP 52)

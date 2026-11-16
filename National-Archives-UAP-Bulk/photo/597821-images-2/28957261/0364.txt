@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:44:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3793057, "source_ctime_ns": 1793375692449755471, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957261/0364.jpg", "source_mtime_ns": 1785696686000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957261/0364.jpg", "source_sha256": "7b05730c9e96a24e671f01946f1dab8d6a387a52d790acfc9da4b18c79087bd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 726, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2 Jan 54
+3. DATE-TIME GROUP
+Locol
+GM 723/00552
+3.
+PHOTOS
+• Yes
+Q No
+7. LENGTH OF OBSERVATION
+- 10 seconds
+BRIEF SUMMARY OF SIGHTING
+Green object, orange red tail.
+1. Followed straight line.
+2..
+Few seconds, rapid.
+3. No air traffic.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Omaha, Nebraska
+4. TYPE OF OBSERVATION
+XXTround- Vi sual
+• Air Visual
+T. SOURCE
+• Ground-Radar
+• Air-intercept Radar
+ciVilian
+NUMBERO
+ne
+JECTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+a
+Was Aireraft
+Probably Aircraft
+Possibly Aireraft
+Mx Was AstronomicalMeteor
+Probably Astronomical
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+NW
+11. COMMENTS
+Meteor sighting.
+ATIC FORM 329 (REY 26 SEP S2)

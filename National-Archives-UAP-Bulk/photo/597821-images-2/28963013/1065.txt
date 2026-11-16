@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:06:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8814095, "source_ctime_ns": 1793377229358977173, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963013/1065.jpg", "source_mtime_ns": 1785696975000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963013/1065.jpg", "source_sha256": "27d4b03dbc2400ca7fdca3dc3b00ba15962cdba1d1aa4e4340939d772c6d3463"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 249, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ODEL
+RECEIVED FROM GOC A CFOD CHA APT
+AS AMALIZED CHA G2IS
+AS CONTACTED AND REPORTED THAT A WEATHER BALLON WAS RELEASED AT 33157
+D GOC WAS NOTIFIED THAT THE WEATHER BALLOON PROBABLY ACCOUNTS FOR THE
+NK OBJECT PD 12 CLN NEG PD END
+2/00287 AUG RJWPGR

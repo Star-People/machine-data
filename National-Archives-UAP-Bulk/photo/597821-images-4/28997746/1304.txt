@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:45:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4022469, "source_ctime_ns": 1793386900131123463, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997746/1304.jpg", "source_mtime_ns": 1785748452000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997746/1304.jpg", "source_sha256": "34e557a28d239bf1bd8f3622b1d4c85fe279ff5d2fe77fb0f9992c38762dc892"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 634, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPAREMENT OF THE AIR FORCE
+STAN MESSAGE BRANEH
+UNICLASSIFED MESSAGE
+INCOMING
+Tri
+AF IN : 15338 (20 Jun 62) X/1db
+pg 1 of 2
+ДАТО : 009-08-1, УТА -8, 5A83-3 (137} 05D-15, 5А-7, СТА-11, 00₽-2,
+SMB C 126
+LKA246IKHC 356
+"•*'O0 RJWFALB RJWXBR RJEZHO
+DE RUHLKH 3
+ZN R
+0 2009412
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+TO RCHLKM/PACAF HICKAN AFB HAWAII
+RUKAC/COMALSEAFRON FODIAK ALASKA
+PEPPG/COMWESTSEAFRON SAN FRANCISCO CALIF
+RCHPS/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RJEZHO/COFS USAF ZASHINGTON DC
+RJWFALB/CINCNORAD ENT AFB COLO
+RUMPA/CINCPAC CAMP H M SMITH HAWAII
+PUHAFS/CINCUSARPAC FT SHAFTER HAWAII
+PUHPB/CINCPACFLT PEARL HARBOR HAWAII

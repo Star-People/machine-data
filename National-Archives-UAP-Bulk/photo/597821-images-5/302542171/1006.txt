@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:34:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1679759, "source_ctime_ns": 1793389604221366990, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542171/1006.jp2", "source_mtime_ns": 1785808426000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542171/1006.jp2", "source_sha256": "f29fe4bc617b364a0cc25fa413cdaef5a171ec5fae52d8ec88718fbf37e326ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 577, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+9 August 65 10/0312Z
+SOURCE
+Civilian
+NUMBER OF OBJECTS
+One
+LENGTH OF CBSERVATION
+4 - 6 Seconds
+6. TYPE OF OBSERVATION
+Ground-Visual
+. COURSE
+SW
+8. PHOTOS
+D) Yes
+9. PHYSICAL EVIDENCE
+D Yes
+KINo
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous
+2. LOCATION
+Cedar Rapids, Iowa
+10. CONCLUSION
+Astro (METEOR)
+Duration flight and description in accord with this evaluation.
+1. BRIEF SUMMARY AND ANALYSIS
+Irridescent light white color. No sound. Observed in NE at
+deg elevation.
+Straight flight to SW on heading of 210 deg.
+Faded.
+Duration L - 6 Seconds.

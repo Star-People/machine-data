@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:01:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7054440, "source_ctime_ns": 1793383347985405404, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986774/0506.jpg", "source_mtime_ns": 1785747977000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986774/0506.jpg", "source_sha256": "8d35390a0af0e887695bb02f15d591c8f1c61993d384f1ff6dbdd15dd21627a2"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 166, "method": "ocr", "page": 1, "variant": "plain-psm3"}
++ |
+
+‘West >
+string of
++ ; a ialts m
+iN roa nee ee
+“om |
+a a eog Q jcad
+celta Se o>
+a are Slowed }
+
+¢ Ce lar : Flicher tig Blve-white ae
+oa. oR Zc s Po
+
+Seund: Nene

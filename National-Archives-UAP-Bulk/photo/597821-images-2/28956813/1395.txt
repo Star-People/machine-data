@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:56:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5880167, "source_ctime_ns": 1793375563825272103, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956813/1395.jpg", "source_mtime_ns": 1785696814000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956813/1395.jpg", "source_sha256": "7a4b14bbf4bdf1d8eddc2ca4d917bb56b78963e93d6864cdaae5a9a7bbb6d73e"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 684, "method": "ocr", "page": 1, "variant": "plain-vision"}
+90:c 53 23
+1953 DEC 10
+07: 5 1
+= Aten
+TYA281
+JTC296
+1242IQSU
+C185
+. C
+JEOC J
+DE JEOSU 91
+* 92231
+COM
+TO
+JEOC/COMDR
+6603PD
+W/CONDR
+6617T
+IC/CONDR
+6611T
+BeD
+JEOC/COMDR
+6621ST
+DR 6612TH ADCD
+JEDUD
+BEX2C 666
+ARGP GOOS
+KCA
+B LAPDO
+TO MELO
+" AP SPILD
+STRO:
+MAR GRMLD
+AB GRNLD
+JEDUP/CONDR ATIC URIGHT PATTERSON AFD OUIO
+PERIC/CINCLANT
+THOPE 6724 CITE AT CS21597 BY 1ST IT JAMES I HENDON PILOT T-9L AIRCRAFT
+31E FIS PD ORJECT CREEN IN COLOR FLYING STAIGHT AND LEVEL AT 237A FERT
+FADING 340 DEGREES SPEED 420
+HOTS NO RADAR CONTACT DO WEATHED CLEAR
+TEN NILES SURFACE WI
+* VOTS 509A FEET 617 DECREES AT 7 WHOTS
+OFJECT SIGHTED VICINITY TI
+D NO CORRLATION LOCAL FLIGHT PLANS ED
+CO/2235" DEC JEOSU

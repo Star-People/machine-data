@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:46:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4037880, "source_ctime_ns": 1793372019177296346, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940897/0543.jpg", "source_mtime_ns": 1785688817000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940897/0543.jpg", "source_sha256": "9ac4f1b5c03859d5b4a6cbfa848720cf65329f62ca6dcdc72599bbb846bcd0c5"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 433, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EXTRACT FROM STATUS REPORT / 6
+DATE: 20 Mar 52
+TILE (Local): 1730
+LOCATION: Clovis, W. Hex.
+LONGTH OF TIME OBSERVED: 1 Nr.
+SOUND: Mone
+SPEED: Hovered
+ALTITUDE: Unknown
+HEADING: Unknown
+SOURCE: AF Flight Surgeon
+ACTION OR COMINTS: Possibly balloon from White Sands.
+DESCRIPTION OF INCIDENT: Source observed pear-shaped object the color of silver or
+bumished gold.
+- Ovserved to hover until it disappeared
+due to darmoss.
+UNCLASSIFIED

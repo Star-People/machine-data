@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:09:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9757951, "source_ctime_ns": 1793364202702152349, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0259.jpg", "source_mtime_ns": 1785684596000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0259.jpg", "source_sha256": "d3486cd88fa83715b7bffc0c39639b1bc1bd7187e217e70ee96b74d5788e3f54"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 136, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ВИОІТАРІ
+МОТАРТЕИ ТО ТЛОЯ
+BAJO
+A YE
+STOr
+STAG
+07 103 097
+IN
+JON 1950
+CA DIV
+119 20/21
+) JAN 1950
+Declassification Authority: NND 923007

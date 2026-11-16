@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:45:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3992675, "source_ctime_ns": 1793354328410783010, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989194-001-0001.jpg", "source_mtime_ns": 1785564266000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989194-001-0001.jpg", "source_sha256": "3bbf56255efb7426d2b3a9dd4eb26ff8a1d209cb88dcb5ea5fa985d3879bac41"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1042, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+PHILLIPS LABORATORY (AFMC)
+17 November 1994
+MEMORANDUM FOR
+SAF/HOR
+ATTENTION: LT JIM MCANDREW
+170 Luke Ave, Suite 400
+Bolling AFB, DC 20332-5133
+FROM: PL/IMDF
+3550 Aberdeen Avenue, SE
+Kirtland AFB, NM 87117-5776
+SUBJECT: Partial Referral of FOIA Case I-PL-94-00110 (Mr Tad A. Sherburn)
+1. Reference telephone conversation between Mr John Jenkins, this office, and Lt Jim
+McAndrew, your organization.
+2. The attached FOIA request from Mr Tad A. Sherburn, Mattawan, MI, is being partially
+referred to your office for action and reply direct to the requester. The portion being
+referred is paragraph (4) requesting records pertaining to UFO or UAO. The requester has
+been notified of this partial referral. This portion of the FOIA request was also partially
+referred to the National Archives, Military Reference Branch, Washington DC 20408.
+3. If you have any questions, please contact us at DSN 246-5081.
+Ches ge
+JOHN P. JENKINS
+Assistant FOIA Manager
+Attachments:
+1. FOIA I-PL-94-00110
+2. PL/IMDF Ltr to Requester

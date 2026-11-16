@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:32:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1184149, "source_ctime_ns": 1793355923449638743, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0053.jpg", "source_mtime_ns": 1785564559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0053.jpg", "source_sha256": "a4d5335920be3c3c5354cf12161920ae1b3ed484d9f9cb00905aa326a8fcc9df"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1442, "method": "ocr", "page": 1, "variant": "plain-vision"}
+40
+actually taken place. The first man definitely known to have
+accomplished this feat, test pilot George Smith, suffered severe
+injuries, but these were due apparently to "high decelerative.
+and rotational forces," sustained in unfavorable body position
+and with inadequate harnessing. There is no indication that
+they were due to windblast as such, the one mechanical force
+against which a capsule, unlike an open seat, can offer complete
+protections
+The official preference for capsules, as expressed in the
+Handbook of Instructions for Aircraft Designers, still stands.
+In practice, however, capsule development is not yet far enough
+advanced for much to be done about implementing that preference.
+Thus, for the present, supersonic aircraft-even the X-15--will
+continue to be produced with open escape systems. Indeed the
+Handbook revision was no sooner made than the Air Force itself
+set in motion the program of industry wide cooperation whereby
+Lockheed and Convair received primary responsibility for devising
+68
+improvements in downward and upward ejection seats respectively.
+Even with these improvements, the performance capability of the
+open escape system is obviously limitedombut so is that of an
+escape capsule. The difference is one of degree, and the point
+at issue has been essentially a matter of timing, concerning just
+how much useful life there still is in open escape systems before
+they are written off as obsolete.

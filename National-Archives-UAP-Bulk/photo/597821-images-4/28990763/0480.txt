@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:00:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6991035, "source_ctime_ns": 1793384650834070251, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990763/0480.jpg", "source_mtime_ns": 1785748285000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990763/0480.jpg", "source_sha256": "366a1383b74fd5000abd9de7ff01200fab0043b645eab7b918e2314315e67ae0"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 973, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3 Jan 61
+3. DATE-TIME GROUP
+0025
+Local.
+GM T
+0306252 Jan 61
+S. PHOTOS
+a Yes
+• No
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+6 mi W of Cloquet, Minnesota
+4. TYPE OF OBSERVATION
+* Ground-Visual
+• Air- Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+3. NUMBER OF OBJECTS 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireratt
+Possibly Aircraft
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Drufficiant Dota for Evlotion
+Unknown
+20-30 sec.
+one
+Descending
+lo. BRIEF SUMMARY OF SIGHTINGPlare-type object, size |I COMMENTSFrom the description and
+of dime, blue-yellow flame. Left trail of smoke. duration it appears that the witness
+Long exhaust shape rounded at front end. First
+saw a meteor as it was desintegrating
+seen about 300 feet above ground. Dropped into in the earth's atmosphere.
+woods. Dropped slowly as if parachute attached.
+ATIC FORM 329 (REV 26 SEP 52)

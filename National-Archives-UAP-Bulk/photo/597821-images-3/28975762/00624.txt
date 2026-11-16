@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:50:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4540633, "source_ctime_ns": 1793380403955685511, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975762/00624.jpg", "source_mtime_ns": 1785700994000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975762/00624.jpg", "source_sha256": "4b4de02e921f8522200c887c983608915fba34c51af65333755eb57db7589338"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 284, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE THREE RJEPNY 8
+
+6,0@® EQP DEG 25 KT 30,020 330 DEG 85 KT
+18,008 328 DEG 35 KT 50,098 318 DEG 45 KT
+16390 330 DEG 48 KT 89,980 290 DEG 25 KT
+
+NONE
+De T MILES
+
+Ee NONE
+
+Fe NONE
+
+8. NONE
+
+5. N/A
+
+146 OBSERVER SAW TRANSPORT ACFT-LOW
+41. T/SGT INTEL
+
+12 N/A
+
+BT
+
+26/8253Z DEC RJEPNY

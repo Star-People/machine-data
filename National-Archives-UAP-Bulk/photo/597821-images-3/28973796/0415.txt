@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:04:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8321186, "source_ctime_ns": 1793379923869788497, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973796/0415.jpg", "source_mtime_ns": 1785700804000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973796/0415.jpg", "source_sha256": "2d08c000a3096785b2dd8ebb7a2d6eadf68131fbf81583f127121bb94d5b4b1c"}
+
+===== PAGE 1 =====
+{"alpha_words": 208, "chars": 1348, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 5
+25. Where were you lucated when you saw the object?
+(Circle One):
+26. Were you (Circle One)
+Inside a building
+In a car /
+Outdoors
+d. In an airplane
+e. At sea
+f. Orher
+In the business section of a city?
+In the residential section of a city?
+In open countryside?...
+d. Ftying near an airfield
+• Flying over a city?
+* Flying over open country?
+g. Other
+27. What were you doing at the time you saw the object, and how did you happen to notice it?
+10!
+28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+28.1 What direction were you moving? (Cirels One y
+Northeast
+g. West
+h. Northwest
+28.2 How fast were
+you moving?
+miles per hour.
+28.3
+Did you
+StOp
+(Circle One
+ie while you we
+looking at the object?
+29. What direction
+you looking
+North
+Northeast
+East
+Southeast
+g. West
+h. Northwest
+What direction were you looking when youllast saw the object? (Circle One)
+Nor th
+b. Northeas
+East
+Southeast
+e. South
+f. Southwest
+9- West
+n. Northwest
+31.
+It you are familiar with be
+from true North and also
+ring terms (angular direction), try to estimate the number of degrees the object was
+ber of degr
+ees it was upward from the horizon (elevation).
+31.1
+When
+ppeared:
+From true North
+b. From horizon
+degrees.
+• degrees.
+31.2 When it disappeared:
+a. From true North
+b. From horizon
+degrees.
+degrees.

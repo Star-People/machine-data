@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:49:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4476776, "source_ctime_ns": 1793359694648925829, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-011-0001.tif", "source_mtime_ns": 1785681495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-011-0001.tif", "source_sha256": "9ea6c6723d7e8e28eddd70021c32a245f6ecf026e10040123e2ae28a1fb5ba7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 581, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB IOC
+REPORT NUMBER
+ATSS-0808-135-56
+LOCATION. OF SIGHTING
+Mbeaton, TIlinois
+MEANS RECD
+TT Mag
+INVES UNIT
+N/A
+DATE IR RECD HO
+DATE/TIME OF SIGHTING
+21/0350Z May 56
+RECD AISOP
+122 Max 56
+¡LOGGED BY
+5/5g₺ Deludder
+ACTION TAKEN
+No investigation authorized
+DATE INVES ASSIGNED
+INTA
+DATE IR APPROVED
+1N/A
+ASSIGNED BY
+DATE IR TO ATIC
+İN/A
+DATE AISOP FORM 5
+21 May 56
+COMMENTS
+rT Mag requesting more information sent 22 May 56. Results indicated
+probable Venua sighting.
+¡CONCLUSIONS
+PROBABLY ASTRONOMICAL: Vers
+AISOP FORM 7 (2 AFR 55)

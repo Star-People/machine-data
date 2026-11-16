@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:12:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15613524, "source_ctime_ns": 1793355548249108713, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0133.jpg", "source_mtime_ns": 1785564475000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0133.jpg", "source_sha256": "e907cee9ac1b8fe19e06e78f484da983cc3b628de1373a2ce60bf45f8e4c15fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 855, "chars": 5485, "method": "ocr", "page": 1, "variant": "plain-vision"}
+256
+the corrugated diaphragm, or aneroid, either the full range aneroid, Table 2, row
+1, or the low pressure type with an inside stop that permits expansion to start only
+when the pressure is lower than some preset value, usually 60 to 100 mb.
+Constant mechanical strain produces creep in the wall material of these instru-
+ments and the creep causes a drift in the zero point, the so-called hysteresis shown
+in column 4. These hysteresis data together with the corresponding resolution
+values given in column 5 show that aneroids cannot be used for the pressure altitude
+accuracy mentioned above.
+Aneroids are used in combinations with all kinds of displacement transducers,
+some of which are listed in Table 2, rows 3, 4, 5 and 6. The potentiometer type has
+the additional disadvantages that the wiper friction causes an additional hysteresis
+error, and the resolution is limited by the number of wire windings.
+The baracoder is a pressure transducer with aself-containedmeasuring device.
+Its output is a pulse code. The resolution is limited, but types are available with
+two outputs for two different ranges.
+Although work to improve the aneroids is still going on, it can be expected that
+as high altitude altimeters they will gradually be replaced by more sophisticated
+sensors such as those listed in Table 2, rows 8 through 13. The prestressed dia-
+phragm is especially attractive because of its inherently stable zero point and
+transfer coefficient. The strain perpendicular to the diaphragm is so small com-
+pared to the radial strain that the resulting hysteresis is negligible. At present the
+prestressed diaphragm type transducers are quite expensive but it is possible that
+sometime more economical models will appear on the market. The pressure
+balance type altimeter is another alternative to overcome the hysteresis problem,
+but it, too, is quite expensive. A nearly ideal transducer is the quartz Bourdontube.
+With no hysteresis, no change in sensitivity and an accuracy in the order of 0.02 mb
+over the entire range, this device offers more advantages than any other sensing
+element but its price is also quite high.
+The problem in using each of these three last-named transducers is that their
+resolution is higher than that of the usual measuring instrumentation, and they re-
+quire a servo-mechanism to convert the output into a shaft rotation. In this way the
+output can be digitized into a sufficient number of bits to contain the full information
+content of the measurement.
+In the alphatron we have a completely different type of pressure transducer.
+This unit is attractive for the altitude range above 130 kilofeet, and for high rates of
+pressure change, for example, for dropsondes. It requires a second information
+channel for the measurement of the inside temperature. The alphatron cannot be
+used when the payload will not be recovered because of the regulations concerning
+the radioactive material.
+Next on the list is the radiosonde hypsometer. Its range is limited but the
+accuracy is good. It can only be used when the rate of climb is above a certain
+positive value. No input power is required.
+For constant level balloons we have developed the hypsometer models 224 and
+225. They have a good accuracy and can be flown for a week or longer if the package
+temperature is at least 30°C below the boiling temperature of the liquid used in the
+hypsometer. These instruments will be described in section 4.
+3. RATE OF PRESSURE CHANGE TRANSDUCER
+Table 3 gives four different types of rate of climb transducers. The time con-
+stants of most of these transducers are proportional to the reciprocal of the pressure
+and are impractically long for high altitude measurements. The upper limit of the
+useful altitude range is therefore about 60,000 to 70,000 feet. The stretched dia-
+phragm and aneroid force balance type transducers are quite expensive.
+4. HYPSOMETER, TYPE 225
+Figure 2 shows a cross section of the hypsometer type 225. The liquid, normal
+butylbenzene, is kept boiling in a vacuum flask by a heater coil. The coil is wound
+around a glass fiber wick. At the top of this wick are mounted two thermistors that
+sense the temperature of the vapor. The vapor can escape through a nipple at the
+top of the housing, but most of it condenses on the way up and returns as liquid to
+the reservoir. Figure 3 shows the relationship between boiling temperature and
+vapor pressure of two liquids that have been used for hypsometers. For the higher
+altitude range one has to use the liquid with the higher boiling temperatures. The
+resistance of the bead thermistor varies with the boiling temperature which, in
+turn, is a measure of the pressure. Then the standard atmosphere gives a relation-
+ship between pressure and altitude. These three functions are related in such a
+way that the logarithm of the output resistance is nearly proportional to the altitude,
+Figure 4. The accuracy of the hypsometer itself is shown in Curve A of Figure 5.
+Curves B and C give the high and low pressure accuracy of the combination of
+hypsometer with measuring equipment that has a resolution and accuracy of 200
+ohms. It can be seen that there is considerably lower error and better resolution
+at the higher altitude portion of curves B and C than at the lower ranges.
+It is possible to spread the resolution somewhat more uniformly over the upper range
+of altitudes by choosing a higher value resistance bead and connecting a fixed
+resistor in parallel with it, Curve D.

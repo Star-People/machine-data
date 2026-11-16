@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:45:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4008991, "source_ctime_ns": 1793382389967179876, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983601/0487.jpg", "source_mtime_ns": 1785701077000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983601/0487.jpg", "source_sha256": "70713005bfaf190c5973549f1bd7c1ea7c24389c43e0b7321066b2f0680cd1f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 384, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NANN
+20J059 09 35
+ATIC
+ZCZCSQP001MCZCSQD369ZCUYA140
+PP RJEDSO
+DE RJAPAB 58
+P 2509002
+FM 314 ADIV
+44202
+1959 JUN 25 08 T1
+TO RJWFALB/ADC
+RJEDSQ/ATIC
+RJEZHO/AFCIN
+RJEZHO/ISO
+RJHPKM/PACAF
+RJHPH/KUNIA ANNEX
+RJAPAA/ SAF
+BT
+UNCLAS/3140C-I 3412. UFO REPORT. ATTN:PFICO ATTN: 5FIDC 5FOOT-C-COC
+A. (1) CRESCENT OR HEMISPHERE OR SAUCER.
+(2) PEA 9.5 CM
+(3) WHITE
+(4) TWO
+(5) UNK
+(6) UNK
+(7) UNK

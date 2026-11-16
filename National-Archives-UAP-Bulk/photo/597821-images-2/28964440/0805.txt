@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:44:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3801010, "source_ctime_ns": 1793377584094028548, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964440/0805.jpg", "source_mtime_ns": 1785696897000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964440/0805.jpg", "source_sha256": "83184a4d1496fbf1bbf70ed1057016e8243d262aa7b8a936099314b5f66a6d05"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 824, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+31 Dec 55
+3. DATE-TIME GROUP
+Local .
+GMT 31/2230Z
+5. PHOTOS
+• Y•s
+7. LENGTH OF.OBSERVATION
+20-25 min
+10. BRIEF SUMMARY OF SIGHTING
+1 Yellow, red flaming obj, elongated in
+shape, no sound, appeared to be exhaust
+trail, obj appeared high & slow.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Charleston, South Carolina
+4. TYPE OF OBSERVATION
+• Ground Visual
+• Air Visual
+6. SOURCE
+• Ground-Rader
+• Air-Intercept Radar
+civilian
+8. NUMBER OF OBJECTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+DOX Insufficient Data for Evolution
+Unk no wn
+9. COURSE
+N-Vert-S
+11. COMMENTS
+H Venus not visibpe, possible balloon or
+astro sighting. INSUFFICIENT DATA FOR
+EVALUATION.
+ATIC FORM 329 (REV 26 SEP 52)

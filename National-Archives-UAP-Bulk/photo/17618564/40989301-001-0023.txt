@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T01:29:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 787980, "source_ctime_ns": 1793356063235550778, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0023.jpg", "source_mtime_ns": 1785564597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0023.jpg", "source_sha256": "4680f214d3365bb8d75bb1a80090a2ef213dc2c9475f2a63bad78ed297025895"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 997, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ABSTRACT
+A preliminary survey was made of the problem. Speci-
+fications were drawn up for the equipment needed and manu-
+facturers were contacted to construct experimental balloons
+and altitude controls.
+A balloon crew was assembled.
+While awaiting delivery on the NYU designed equipment,
+clusters of meteorological balloons have been flown for experi-
+ence and as a stop-gap method of carrying a payload to altitude.
+In addition, two salvaged, racing-type, man-carrying balloons
+of 35,000 cubic foot size have been procured and are being pre-
+pared for flight. Two 19,000 cubic foot Japanese balloons have
+been made available by the Navy.
+Preliminary calculations have been made on balloon
+buoyancies and families of curves plotting altitude vs. lift
+for various balloon sizes have been prepared for planning and
+flight purposes.
+Civil Aeronautics Authority has given clearance for
+flight of large balloons form Lakehurst, New Jersey, and Bethlehem,
+Pennsylvania, with certain restrictions.
+- 1-

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:46:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4037955, "source_ctime_ns": 1793379162788395425, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971340/1079.jpg", "source_mtime_ns": 1785700774000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971340/1079.jpg", "source_sha256": "77b5c4047a2008d5476f4b8dbb3bf02f3bce4ad5a541346cd91bbd097347037b"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 372, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO ROUTING SLIP
+I NAME OR TITLE
+ORGANIZATION AND LOCATION
+NEVER USE FOR APPROVALS, DISAPPROVALS.,
+CONCURRENCES, OR SIMILAR ACTIONS
+INITIALS
+CIRCULATE
+DATE
+COORDINATION
+FILE
+INFORMATION
+NECTION Y
+NOTE AND
+RETURN
+SEE ME
+SIGNATURE
+5tr 0
+non than
+FROM NAME OR TITLE
+ORGANIZATION AND LOCATION
+DATE
+TELEPHONE
+DD FEB SO 95 Pop 12, DO NoW, Which y he and AFQ
+# GPO: 1956-0-4034

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:51:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4644396, "source_ctime_ns": 1793377931065092562, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966039/0735.jpg", "source_mtime_ns": 1785696597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966039/0735.jpg", "source_sha256": "d4df09259b784e14b3ba249ef5732f67eea5aa0a1399013f82087a76a84e47c0"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 761, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IN
+ACTION
+2011056 07 29
+RA128
+VPF143 YDC102 XYB113 XMB072DMA 0122
+00 RJEDEN RJEDWP RJEPHO RJWPSE
+DE RJWPDM 132A
+4-4 X22
+0 3009002
+FM COC HQ 25TH AIR DIV DEF MCCHORD AFB WASH
+TO RJEDEN/RJEDEN/COMDR AIR DEF COMMAND ENT AFB COLORADO SPRING COO
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHDC
+RJWPSB/COMDR WESTERN AIR DEF FORCE HAMILTON AFB CALIF
+BT
+/U N C L/UFOB 25TH TAC MSG F-419
+1. A ROUND
+B BIG SKY ROCKET
+C BLUE IN FRONT YELLOW TOWARD BACK
+DONE
+E NA
+F ARCING •
+G TAI BREAKING UP BEHIND
+H NONE
+I NONE
+2. A JUST POPPED UP
+B 35% DEGREES PORT, ACING UP, THEN DOWN.
+C 62 DEGREES STARBOARD SLIGHTLY HIGH
+D UP THEN DOWN, EAST TO WEST HORIZONTAL
+E JUST WENT OUT OF SIGHT
+F 3 SECONDS
+3. A VISUAL

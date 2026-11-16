@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:46:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4038565, "source_ctime_ns": 1793385251547894639, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992465/0522.jpg", "source_mtime_ns": 1785748403000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992465/0522.jpg", "source_sha256": "f20aeca78c357add49aa7192a598b1224e9656ad050762eeaf6357ecde5981a2"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 755, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+11 May 61
+3. DATE-TIME GROUP
+1128
+Local
+GM T.
+111.8282
+5. PHOTOS
+• Yes
+XE No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Indian Springs, Nevada
+4. TYPE OF OBSERVATION
+XI Ground- Visual
+• Air Visual
+* Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+Military
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Wearily Balloon
+Possibly
+EX Was Aircraft
+Probably Aircroft
+Possibly Aircraf
+Was Astronomical
+Probably Astronomical
+Possibly Astronomica
+Other
+Insufficient Data for Evaluation
+Unk no wn
+4 hrs
+10. BRIEF SUMMARY OF SIGHTING Crescent shaped, silver 11. COMMENTS Subsequent reports of similar
+in color. Altitude of objt estimated to be
+sightings fm same area attribute to
+75,000-10,000'.
+U-2 type a/c.
+ATIC FORM 329 (REV 26 SEP 52)

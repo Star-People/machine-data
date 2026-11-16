@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:49:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4444773, "source_ctime_ns": 1793377906496774269, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965929/0639.jpg", "source_mtime_ns": 1785696658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965929/0639.jpg", "source_sha256": "11629cfaeaccb8ccba12a5a54c08177888fb9827b6beff94b09ce1b103c675ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 650, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I Winess
+IN
+27/1625
+ACTION
+se
+25 JUN 1956 07 22
+WPE206 YDE151 XYB193 XDA154JEA274JEF003
+O0 RJEDEN RJEDWP. RJEPHQ
+DE RJWPJE 3F
+2ÇЕY
+0 221748Z
+FM CONDR 750TH ACRON BORON CALIF
+TO RJEDEN/COMDR ADC ENT AFB CLORADO SPRINGS COLORADO
+RJWPJE/COMDR 27TH AIR DIV NORTON AFB CALIF
+RJEDWP/COMDR ATIC WRIGHT-PATTERSON AFE OHIO
+RJEPHQ/COMDR DIRECTOR OF INTELL HEADQUARTERS USAF WASHINGTON 25 DC
+ET
+UNCLD 750TH OPR 2508 PD ATTN UFOB
+1. A CIRCULAR
+B HALF DOLLAR
+C SILVER GREY
+D ONE
+E NA
+IF NONE
+G NONE
+H NONE
+I NONE
+2.
+A JDT AIRCRAFT IN ARIA
+E OVER HEAD
+C UNKNOWN
+25 JUN 1956 08 34
+D STREIGHT COURSE
+E WENT CUT OF SIGHT
+= 5 MIN
+REMARKS HEADING APROX WIST TO EAST
+NI
