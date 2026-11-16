@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:43:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 833667, "source_ctime_ns": 1793390248837664200, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548286/0800.jp2", "source_mtime_ns": 1785808051000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548286/0800.jp2", "source_sha256": "b3076571fb972c4167fe69cccb791d70defda19d8f302eba18a6756c1942775e"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 836, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+26-27 Mar 66 0235-0300Z
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One-Three?
+5. LENGTH OF OBSERVATION
+20-30 Minutes
+6. TYPE OF OBSERVATION
+Ground-Visual (8X)
+7. COURSE
+West
+8. PHOTOS
+• Yes
+9. PHYSICAL EVIDENCE
+• Yos
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous editions of this form may be used.
+PROJECT 10073 RECORD
+2. LOCATION
+Kent, Tacoma, Me Cord AFB, Washington
+10. CONCLUSION
+BALLOON
+11. BRIEF SUMMARY AND ANALYSIS
+One, two, or three objects all close together. One witness
+described them as looking like a transparent kite. The
+Other witness said they resembled a biplane. Objects were
+sighted in the west and appeared to be traveling west. They
+faded as night fell.
+The time is right for a balloon. Weather balloon launches
+at 600PM.
+Description of the object and its flight is
+consistent with a balloon.
+3 Witnesses

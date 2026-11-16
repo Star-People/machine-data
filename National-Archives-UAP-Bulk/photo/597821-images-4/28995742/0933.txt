@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:59:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3655923, "source_ctime_ns": 1793386329162450999, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995742/0933.jpg", "source_mtime_ns": 1785747990000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995742/0933.jpg", "source_sha256": "4c1efcea7edf2f890be2020fde780f41717eca8d5762d012bcf7fc68873f95d2"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFED MESSAGE
+INCOMING
+AF IN : 23582 (5 Dec 61)
+PAGE 2 OF 2
+BRIGHT.
+4. POSITION OF SHIP FORTY DEGREES THIRTY TWO MINUTES
+NORTH LATITUDE, ONE-HUNDRED SIXTY -SIX DEGREES FIFTY-
+NINE MINUTES WEST LONGITUDE.
+5. TIME OF SIGHTING 05/0514Z DECEMBER.
+5. OBJECT FIRST OBSERVED TWENTY DEGREES ABOVE HORIZON ON
+BEARING OF TWO ONE ZERO DEGREES FROM SHIPS POSITION.
+DISAPPEARED EIGHT DEGREES ABOVE HORIZON ON BEARING OF
+ONE SEVEN FIVE DEGREES. OBJECT WAS TRAVELING FROM
+NORIH TO SOUTH IN A STRIGHT LINE, AND WAS OBSERVED WITH
+UNAIDED EYE AND BINOCULARS FOR FIVE MINUTES.
+7. WEATHER WAS CLEAR TO PARTLY CLOUDY.
+3. NO EVAULATION. - POSSIBLE SATELLITE.
+20/2901Z DEC RJHKH
+NOTE: ADVANCE COPY DELIVERED TO CIN & 00P-CP (050455L)

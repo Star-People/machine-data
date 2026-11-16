@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:01:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3853301, "source_ctime_ns": 1793377710714776450, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965056/1346.jpg", "source_mtime_ns": 1785696870000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965056/1346.jpg", "source_sha256": "bbea51712090b093a6f86877589fdec6603da057c557bae9860f9583169cab6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 555, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJEPJM 1G
+1. CHANGING OF COLOR
+2. A. DUTY OF GROUND OBSERVER
+1. OESERVER ESTIMATED OBJECT 1543 TO 2730 MILES FROM HIM AT 500 TO
+800 MILES ELEVATIOM
+C. NEG
+D. OBJECT WAS HEADING WEST WHEN SIGHTED SSE OF THE POST AT 20487
+OBJECT WAS DUE SOUTH OF THE POST
+E. N/A ORJECT STILL IN SIGHT
+F. 52 MIN.
+3. A. GROUND VISUAL
+B. 1S POWER BINOCULORS
+C. N/A
+4. A. 29/30342
+B. NIGHT
+5. LG357 S
+o. A. MR
+49
+MR.
+#SON 32
+GRAHAM, N.C.
+GUIDED MISSLE DESIGNER
+BURLINGTON, N.C.
+MK .
+B, GRAHAM, N.C.
+PURLINGTON, N.C.WESTERN ELECTRIC
+EMPLOYEE OBSERVATION POST SUPERVISOR

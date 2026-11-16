@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:00:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3705291, "source_ctime_ns": 1793382415322866711, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983759/0630.jpg", "source_mtime_ns": 1785700863000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983759/0630.jpg", "source_sha256": "7a5b0b33329d2bd5528c7a12bb9908b877c304925285f7855fa2d9866dcf4f55"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 772, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Insuf Arte
+ATIC
+TCZCSQB73@ZCJYA421
+10 JUL59 07 23Í
+106-10
+05 35
+••••YY RJEDSQ
+DE RJEZHQ 803
+Y 120509/ Z
+FM HQUSAF
+TO AF TECH INTELL CTR
+Y 1092187
+4.
+FM CCGD SEVEN MIAMI FLA
+TO RJ:->?/COMAIRDEFCOM ENT AFX COLORADO SPRINGS
+TO RJEZHQ/CHIEF STAFF USAF WASHDC
+ZEN/COMEASTSEAFRON
+ZEN/CINCLANTFLT
+INFO ZEN/COMEASTAREA
+ZEN/COMDT COGARD
+USCG GRNC
+BT
+MERINT REPORT X FOL REC FROM X SS CALTEX AUCKLAND/GMNW X QUOTE
+BOUND PUNTA CARDON FM SAVANNAH POSIT 100130Z 26.05N 73.95W CSE 1'
+EILEEEEE CSE 131 SPEED 12/ ETA PUNTA CARDON 131008 HOURS AT 9110GMT-2010 focA-
+SIGHTED ROCKET LIKE BODY SHOWING THREE LIGHTS MOVING IN EASTERLY
+DIRECTION OBJECT WAS IN SIGHT FOR APPROXIMATELY 13 MINUTES X
+UNQUOTE
+CEN AUCKLAND/GMNW 100130Z 26.05N 73.05W 131 12 131009 9110GMT 1gL
+BT
+10/35102 JUL RJEZHQ

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:59:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3549220, "source_ctime_ns": 1793356326213683314, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0134.jpg", "source_mtime_ns": 1785564675000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0134.jpg", "source_sha256": "8b0e499346a967d1f5541460d1dc7336b6bb49b9ad311ab6c49b4ea4705d9305"}
+
+===== PAGE 1 =====
+{"alpha_words": 364, "chars": 2483, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECRET
+5. Project Title: Rocket Tracking by Beacon Triangulation.
+Project Scientist: C. S. Tilton
+Project Summary:
+It is of primary importance to the successful completion of experiments
+performed in the Upper Air Research Program that the position in space of missiles
+carrying such experiments be knorn to a high degree of accuracy. A highly re-
+liable tracking device was required which would provide such data for the missile
+and be capable of instant shift to track assemblies carrying experiments which
+would be ejected from the missile during flight. The systen chosen would be
+experinental with emphasis pointed toward research in extreme accuracy and appli-
+cations to the Upper Air experiments to be performed.
+A beacon triangulation system was established in the White Sands area
+early in 1947. Advantage was taken of a beacon already carried by V-2 missiles
+allotted to AC for another experiment (ionosphere density) to establish the
+arly in beacon triangulation syst
+systen for obtaining the required trajectory information. A point is fixed in
+space by the measurements of simultaneous ranges to the missile from three or
+more ground stations of knorn location. Thus no angles are measured and range
+data only, the most accurate feature of a beacon-radar system is utilized.
+Each point, thus obtained, is independent and thus interference at any instant
+cannot impair the accuracy of succeeding points. The system is readily adai-.
+table for use with a variety of beacons packaged for use in other type missiles.
+The system has been used during four V-2 flights which have been allotted to
+The research and development on this project have been utilized in the.
+design of the routine range instrumentation systen to be installed by HarB.
+Research is continuing at CFS to provide even greater accuracy and broader appli-
+cations of the system.
+Complementary Contract:
+Oklahoma A & & Research Foundation
+No. W28-099 ac-377Ś
+"Services in Connection with Flight Operation, and Livaluation of Hesults."
+6. Monitored Contractual Research:
+Contract No. #19-122 ac-51
+Organization: Cornell University.
+Title:
+"To Study Solar dadiation Noises in the r/f Ranges."
+7. Honitored Contractual Research:
+Contract no. 1128-099 ac-293
+Organization: Tufts College
+Title: "To Measure Intensity and Direction of the Larth's Magnetic Field
+in the Upper Atnosphere and to Develop a Light-Weight Recording Device
+for Missile Flights.
+SECRET
+28
+This document is part of an unclassified series

@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:26:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8656245, "source_ctime_ns": 1793363403840346029, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0191.jpg", "source_mtime_ns": 1785684920000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0191.jpg", "source_sha256": "8a4aa7d117482310ee098dd33655513242b70741bf7c5ed0696767d588b2ce61"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 449, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Ceiling 3,000 feet, clouds more than 5/10ths coverage, visibility
+8 miles, wind direction Southwest, wind velocity 8 knots
+1230 weather
+Ceiling 4,000 feet, clouds more than 5/10ths, visibility 15 miles,
+wind direction Northwest, wind velocity 13 kots.
+1330 weather
+Geiling 4,000 feet, clouds less than 5/10ths coverage, visibility
+15 plus miles, wind directionạest by Northwest, wind velocity
+13 lots.
+CLOS ED
+Declassification Authority: NND 923007

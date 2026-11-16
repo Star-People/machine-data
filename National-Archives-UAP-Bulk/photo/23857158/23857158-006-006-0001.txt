@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:02:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4090268, "source_ctime_ns": 1793359124007149058, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-006-0001.tif", "source_mtime_ns": 1785681323000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-006-0001.tif", "source_sha256": "aa93956b4e2b41e3a7e743951ed23047e8b885b829f9e8e60a6bba16d66b5d07"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 491, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+AISS-UР03-312-55
+LOCALION OF STUTT FIG
+DATE/TLE OF SIGHING
+10/14082 Sep 55
+| RECD HQ 4602D
+10 Sop 55
+LOGCED BY
+Daltota City, Nobraska
+MEANS TEED
+A/10 DeBudder
+TT MES
+INVES UNIT
+NA
+DATE IR RECD HQ
+N/A
+DATE OF FORM 5
+No investigation authorized
+DATE INVES ASSIGNED
+NA
+DATE IR APPROVED
+N/A
+ASSIGHING OFFICER
+DATE IR TO ATIC
+1/A
+31 S90 55
+COMMENTS
+Appearance of a balloon.
+CONCLUSIONS
+POSSIBLY BALLOON
+AISOP FORM 7 (2 APR 55)

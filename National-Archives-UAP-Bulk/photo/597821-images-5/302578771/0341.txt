@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:46:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 979572, "source_ctime_ns": 1793393557237394333, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578771/0341.jp2", "source_mtime_ns": 1785808114000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578771/0341.jp2", "source_sha256": "e4090125d4ce8278198986c0973cd7323f70c96f37c85a0c2bb842f6c341aafa"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 279, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR THE RECORD
+Sunburg
+5 July 1958
+Subj: UFO Observation, 2 July 1968
+Called
+He did not actually
+see the meteor.
+The only thing that he said that he saw was that the
+sky lighted up for 15 to 20 seconds in a sort of bluish light. He
+did not remember hearing any sound later.

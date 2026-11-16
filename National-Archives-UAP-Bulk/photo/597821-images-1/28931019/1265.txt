@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:11:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5718481, "source_ctime_ns": 1793369212523801217, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931019/1265.jpg", "source_mtime_ns": 1785688860000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931019/1265.jpg", "source_sha256": "5c6e8f5b9353b2a8f2e901aca7ac71540a787abc0c911763a9cf35ed252158ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 69, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "contrast-vision"}
+АРГЕТІК Р
+3105h Chectries Station
+Analysis of ProJect 27 de: Toperts

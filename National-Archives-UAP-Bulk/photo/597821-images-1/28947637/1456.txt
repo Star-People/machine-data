@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:01:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3927860, "source_ctime_ns": 1793373588695928019, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947637/1456.jpg", "source_mtime_ns": 1785688940000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947637/1456.jpg", "source_sha256": "4bf46db2cafa4bb78671a7e6b348e0e1a2389876b986752e601b20a430f5a0dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 172, "chars": 941, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DE-ROSLIT MY 203/JEPQW
+MM 2S17302
+FN CO 771ST ACAND SODN IT CUSTIS VA
+TO JEPHQ/HQ USAF WASH DC
+JEDWP/AIR TECH INTEL CEN WRIGHT PATTERSON AFE OHIO /
+JEDEN/CO ENT AFB COLORADO SPRINGS COLO
+JEPNB/CG EADF STEWART AFB NY
+ZEN/CG 26TH AIR DIV ROSLYN NY
+VACCDOW 1224 PD FLYOBEPT SHCLN IAN AF LTR 200-5
+DID TO TING APA FIVE THO CHA THE FOLG IS SUBNTO SHCIN IAW PAR SEVER
+CHARLIE PD PAR ONE CHA SEVERAL OBJECTS SIGHTED MOVING AT A HIGH SPEED
+FROM NORTH TO SOUTH CHA MOVING DOWNWAD IN A FORTY FIVE DEGREE SLOPE
+PD NO OTHER INFORMATIOM RECEIVED PD TIME OF SIGHTING APPROX ZERO THREE
+THIRTY ZEBRA CHA SIX AUGUST ONE NINE FIVE TWO PD SIGHTED BY MR
+- CMA NORED K CMA VA PD CHA A MEMBER OF THE GOC PD SIGHTED
+AT THREE SIX DEGREES FIVE FOUR MINUTES NORTH LAT CHA SEVEN SIX DEGREES
+ZERO FIVE MINUTES VEST LONG PD UPON INTERROGATION THE OBSERVER EXPRESSED
+THE OPINION IT MIGHT HAVE BEEN LIGHTS FLASHING ON CLOUDS OR POSSIBLY
+PAGE TWO JEPQW 59D
+7-37
+STS PD END

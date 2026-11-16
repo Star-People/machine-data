@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:51:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1384431, "source_ctime_ns": 1793392682105012356, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569735/0281.jp2", "source_mtime_ns": 1785807989000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569735/0281.jp2", "source_sha256": "e77ba747527fa584eec238dd08a8bca5957637b754f33b4d92a64a572f36002a"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 553, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SUB.:ECT
+DEPARTMENT OF THE AIR FORCE
+HIADOUANTERS FOREIGN TECHNOLOGY DIVYBON (APSCI
+WRIGHT.PATTERSON AIR FORCE BARE. CHO 03023
+IDET/UFO
+UTo Observation, 16 Aug 67
+Suisville, Kentucky 40206
+Reference your waidantified observation. me inforsation which
+ve have received is not mufficient for a scientific evaluation.
+Request you complete the attached ITO Form 164 and return it in
+the envelope provided. Thank you for reporting your observation
+to the Air Force.
+AMES C. MANATT, ColocoL, USAT
+Director of Technology and Subsystems
+PTO Form 164 w/envelope

@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:44:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 926118, "source_ctime_ns": 1793394395221301506, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0115.jpg", "source_mtime_ns": 1785567364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0115.jpg", "source_sha256": "048ff06c665226e5879f1995e8e7ec0ea511699fcda208709a33e14e269c60ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 154, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+D8V ME (07 CL) 107-77E
+0 : 100-
+MECEIAED BA
+DY LE
+LINE
+1eeL
+- 60001
+SELDEMED AONE CVIT
+MIZHES
+ки -
+MEUL
+AOn MEME CYTTED BA-
+AON MERE MIRIED S
+10:
+OL CVTF

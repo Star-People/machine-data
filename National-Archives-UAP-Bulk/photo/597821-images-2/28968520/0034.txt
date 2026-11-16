@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:08:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4986168, "source_ctime_ns": 1793378599848859367, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968520/0034.jpg", "source_mtime_ns": 1785696967000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968520/0034.jpg", "source_sha256": "c8c681d4228b1bd055799af16618f2bf0c9a3aba60a5030917ff824a260e3424"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 899, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Centure,
+26 January 1965
+Dear Mr.
+Your letter to the National Aeronautica and
+Space Administration has been referred to this
+office aa a matter pertaining to the Air Porce.
+The Air Force is responsible for the investi-
+gation of unidentified flying objects reported in
+the skies over the United States.
+The name of this
+project is Blue Book.
+The current report on this
+project is attached for your information.
+Attached 1s PTD Form 154 which 1s used for
+reporting UPOs to the Air Force.
+report your sighting, please complete the form as
+fully as possible and return it to this office.
+The Air Force will analyze the report, and you will
+be advised of their findings.
+Sincerely,
+MASTON M. JACKX
+MaJor, USAP
+Public Information Division
+Office of Information
+2 Atch
+1. Report
+2. FTD Porm 164
+Mr
+c/o ELLIS Company
+Philadelphia 33, Pennsylvania
+Copy to:
+NASA (1-C MAO 1400)
+Washington, DC, 20546
+1003453

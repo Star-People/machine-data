@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:00:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3752053, "source_ctime_ns": 1793372712461159633, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943692/0499.jpg", "source_mtime_ns": 1785688534000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943692/0499.jpg", "source_sha256": "a8bd26cae1b35365303290977b786525fca2c42001694bb7c4e29dd80ddd57f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 831, "method": "ocr", "page": 1, "variant": "plain-vision"}
+18. On the following Sketch B, label a at
+the apparent position of the object
+when first seen and b at point last
+Overhead
+seen. Trace the apparent path of
+the object between points a and b.
+If possible label l, 2, 3, etc.,
+along the traced path to show the
+successive positions of the object
+after equal intervals of time dur-
+ing the sighting.
+19. In Sketch C please show the
+observed features of the object
+Horizon
+Observer's
+Eye
+Horizon
+SKETCH B
+such as;
+1. Apparent shape, (vere edges affemal Rounded
+pointed or rounded),
+B. Apparent direction of motion
+ace tirectione
+(show by arrow), and
+C. Other details, exhaust, trails,
+tils, surfaces, etc.
+SKETCH C
+20. The sun and the moon are shown below as they appear in their correct relative
+size. In this sketch D, show the apparent size of what you saw.
+SUN
+OBJECT
+MOON
+SKETCH D

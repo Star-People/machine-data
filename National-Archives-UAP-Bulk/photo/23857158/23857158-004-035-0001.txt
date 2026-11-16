@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:31:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13046226, "source_ctime_ns": 1793358736587128572, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-035-0001.tif", "source_mtime_ns": 1785681186000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-035-0001.tif", "source_sha256": "76d38e9662aaeb772c6e11a89567926c214c66dfbb6a799977d12e968d2dd485"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 741, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+1 REPORT NO.
+7F08-132-55
+2 DATE RECD HQ 4602D AISS 3 DATE/TIME RECD IN OPS
+30 April 1955
+2 Apr 55
+5 DATE/TIME OF SICHTING
+38/1018 % Ap: 55
+6 LOCATION OF SIGHTING
+Live Cak, Morida
+MEANS RECD 9 INITIAL ACTION
+Investigation authorized
+1,1
+INVES ASSIGNED BY
+112 DATE INVES ASSIGNED
+! 4 LOGGED BY
+Sgt Crawford
+| 7 GEOREF
+10 INVES UNIT
+13 ASSIGNING OFFICER
+114 DATE IR RECD AT HQ
+15 DATE IR APPROVED
+16 DATE IR SENT TO ATIC'
+417 AISOP FORM 5 FILED
+2 May 1955
+18
+COMMENTS
+Cue to the laak of suffialend information in the preliminary repers to morrans a
+SLow do Investigation, none was anthorized by this organization, (46020 AISS).
+*19 CONCLUSIONS
+Possibly balloon.
+AISOP FORM 7 (2 APR 55)

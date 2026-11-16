@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:08:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5046283, "source_ctime_ns": 1793386209842628487, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995223/0464.jpg", "source_mtime_ns": 1785747880000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995223/0464.jpg", "source_sha256": "8a20358fe6178028aad2bd53430818a063090de6fc2cf0fbb708ba648518feb1"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 879, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+17 Oct 61
+3. DATE-TIME GROUP
+Locol .
+1845
+GM T.
+1723452
+5. PHOTOS
+D Yos
+.O No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+West Florence, Ohio
+TYPE OF OBSERVATION
+XE:Ground-Visual
+D Air-Visual
+6. SOURCE
+Dl Ground-Radar
+D Air-Intercept Rodar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical ARCTURUS
+D* Probably Astronomicol
+Possibly Astronomical
+Other
+•
+Insufficient Data for Evaluation
+Unknown
+1/2 hrs
+0. BRIEF SUMMARY OF SIGHTING Flashing greenish-blue
+white objt; brighter and larger than a star
+ce as large as a star.
+11. COMMENTS Description conformed to
+astronomical body. Witness viewed for
+aprox 1 1/2 hrs. Time of sighting, angie
+i elev, etc., concorea to position oi
+ircturus (lst magnitude star).
+ATIC FORM 329 (REV
+EP 52)

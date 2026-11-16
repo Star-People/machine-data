@@ -1,0 +1,96 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:09:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5436925, "source_ctime_ns": 1793381636959051937, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981004/01049.jpg", "source_mtime_ns": 1785701103000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981004/01049.jpg", "source_sha256": "2fea0a8f57b0bdd7a1f38313818e9ab8d58acd1541cb1f8285be9516ea2ded87"}
+
+===== PAGE 1 =====
+{"alpha_words": 206, "chars": 1577, "method": "ocr", "page": 1, "variant": "plain-vision"}
+*Briant Burgess
+Blaine Busenbark
+Ralph R. Cameron
+*"Soup" John Campbel
+* **Stu
+Stewart Campbell
+*Dr. Dean S. Carder
+Thelma Carder
+*Jack Carey
+*MacDonald Carey.
+Fern Carlson
+*Joan Carlson.
+*Oscar W. Carlson***
+Craig Carpenter
+*Rodney Carstensen
+*Dr. Kent Castleton
+*Arthur L.. Chaffin
+*Della (Hickman) Chaffin
+Dick Chandler
+*Benjamin Chappell
+*Harold Chase
+*Sam Chidester
+Herbert Cilch
+Joe Clark
+*Emily (Marx) Clarke
+*Thomas E. Clarke
+* Esther Coleman
+*Alan Conrad
+Clifford Cook
+*Mark Cook
+*Florence Coombs
+*Hazel Corey..
+*Earl Corley
+*Faye Cotton
+*Tom Cotton
+*Mary Courtis
+*Tom Courtis
+Frances Craven
+*John Crawford
+*J. Allan Crockett
+A. B. Crosby
+* Roy Crozier
+*Dick Cullum
+*Tom Cullum
+*Art Cunningham
+Dr. Hugh D. Cutler
+Salina, Utah
+Salt Lake City, Utah
+Billings, Montana
+Salt Lake City, Utah
+Washington, D. C.
+Washington, D. C.
+Berkeley, California
+Cincinnati, Ohio
+.Hollywood, Californa
+Santa Monica, California
+Los Angeles, California
+Boulder City, Nevada
+Hite, Utah
+.Richfield, Utah
+Salt Lake City, Utah
+Hite, Utah
+Hite, Utah
+Boulder City, Nevada
+Ashland,
+Virginia
+Salt Lake City, Utah
+Teasdale, Utah
+Boulder City, Nevada
+Bridge Canyon City, Arizona
+Hemet, California
+Hemet, California
+Boulder, Utah
+Encinitas, California
+Sacramento, California
+Springville, Utah
+Boulder, Otah
+Cleveland, Ohio
+Phoenix, Arizona
+Kingman, Arizona
+Kingman, Arizona
+Detroit, Michigan
+Detroit, Michigan
+Boulder City, Nevada
+Salt Lake City, Utah
+Salt Lake City, Utah
+Denver, Colorado
+Hualpai Ind. Res., Arizona
+Encinitas, California
+Encinitas, California
+Encinitas, California
+Chicago, Illinois

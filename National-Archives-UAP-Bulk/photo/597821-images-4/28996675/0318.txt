@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:58:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3371668, "source_ctime_ns": 1793386589001432495, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996675/0318.jpg", "source_mtime_ns": 1785748324000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996675/0318.jpg", "source_sha256": "8cf6f2b922e0052eac3970e13322fac4d91e8b389b5683e9e1fb9391e2c7c37f"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 747, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+AF IN: 43591 (8 Apr 62) 1/1 MIN G
+PAGE 1 of 2
+INFO: CIN-14, ARMY-2, NAVY-2, CMC-1,
+JCS-35, OSD-15,
+NS A - 7,
+CIA-11, 00P-2, DIA-2, 00P-CP-1, SAFS-3
+(102)
+SMB A 034
+PКA037EAA
+KKHC849
+•***'0O RJEZHQ RJWFALB
+DE RJHPKH 4
+ZNR
+0 08/ 0824Z
+FFM 326 AIR DIV KUNIA FFACILITY HAWAII
+TTO RJHMPKM/PACAF HICKAN AFB HAWAII
+RBHPO/COMHAWSEAFROM PEARL HARBOR HAWAII
+INFO RJEZHQ/COFS USAF WASHINGTON DC
+RBEPW/ CNO WASHINGTOON DCC
+RBEPW/SECNAV WASHINGTON DC
+RJWFALB/CINCNORAD ENT AFB COLO
+RBHPA/CINCPAC CANP H M SMITH HAWAII
+RUHPFS/CINCUSARPAC FT SHAFTTER HAWAII
+RBHPB/CINCPACFFLT PEARL HARBOR HAWAII
+RJAPAZ/COMUSJAPAN FUCHU AS JAPAN
+RUAMCR/COMUSKOREA SEOUL KORREA
+RUAGEL/ COMUSTDO TAIPEI TAIIWAN

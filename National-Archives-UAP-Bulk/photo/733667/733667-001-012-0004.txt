@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:50:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1315340, "source_ctime_ns": 1793394208701517474, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-012-0004.jpg", "source_mtime_ns": 1785567338000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-012-0004.jpg", "source_sha256": "313d734e635d0c041e267ec7b139abff686e43fdc2b2dcdc7dd623e0cbecd02c"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 349, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEC 1 8 1986
+0250 - The northbound United Flight advised they had the Japan Airlines
+flight in sight, against a light background, and could not see any
+other traffic.
+0253 - JL1628 advised they no longer had contact with the traffic.
+A subsequent review of ANC ARTCC's radar tracking data failed to confirm any
+targets in close proximity to JL1628.

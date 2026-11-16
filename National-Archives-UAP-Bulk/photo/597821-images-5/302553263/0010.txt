@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:55:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1751626, "source_ctime_ns": 1793390753794275396, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553263/0010.jp2", "source_mtime_ns": 1785808162000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553263/0010.jp2", "source_sha256": "5bd30c34b0cd92052e3d134298077eb9d83da736eb5f0a750564c80dfbf190c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 477, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+• DATE • CAME GROUP
+19 July 65
+SOURCE
+19/10002
+Civilian
+NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+55 minutes
+6. TYPE OF OBSERVATION
+Ground Visual
+COURSE
+East
+PHOTOS
+• Yos
+R No
+PHYSICAL EVIDENCE
+• Yos
+I No
+FORM
+FTD
+SEP 63 0-029 (TDE)
+2. LOCATION
+Houston, Texas
+10. CONCLUSION
+Astro (S/P)
+(1 witness)
+Venus at 73° azimuth and 17° elevation.
+11. BRIEF SU
+Object
+and sti
+D ANALYS.S
+elevacton a or No. Objecs was stationary
+When the observer stopped looking.

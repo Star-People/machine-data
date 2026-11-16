@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:44:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 894573, "source_ctime_ns": 1793388803566702218, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532774/1033.jp2", "source_mtime_ns": 1785808578000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532774/1033.jp2", "source_sha256": "bf2bf8656cfd2b6a8bccfb2163ae95ab00ed7ac3c81223688aea6f6b21be1630"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 413, "method": "ocr", "page": 1, "variant": "plain-vision"}
+June 2, 1964
+Dear
+This ds in response to your letter of May 14.
+1964 in which you reported the sighting of an
+Inidentified bying Object in the cleveland, Onio
+area on May 10, 1964:
+You both observed Echo I which was south of of
+the city at 120 elevation, moving northeast, at
+the time of the sighting.
+Sincerely,
+MASTON M. JACKS
+Major, USAF
+Public Information Division
+Office of Information
+Mesars
+and
+Onio 44128

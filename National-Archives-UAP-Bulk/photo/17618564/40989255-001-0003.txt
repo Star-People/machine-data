@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:12:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5919696, "source_ctime_ns": 1793354963306659687, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989255-001-0003.jpg", "source_mtime_ns": 1785564370000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989255-001-0003.jpg", "source_sha256": "2d9a608d0d823b4aedd48e7de44fea59a5d417db38ab4d2547b2adefdf5b802e"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 91, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+—— a ES tie eeee per a. eh spots Bal ERS ee Ea a =o ts EEE ek AE ae eta hae de ee Me ya a

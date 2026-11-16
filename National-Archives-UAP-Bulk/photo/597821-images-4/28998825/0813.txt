@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:28:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9809235, "source_ctime_ns": 1793387544832700893, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998825/0813.jpg", "source_mtime_ns": 1785748247000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998825/0813.jpg", "source_sha256": "8d66fe7dee8b9bc099f7f7552cb4ebc8d6b6b0750b08f0bceaca27b3f390f037"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 765, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+ENCLASSIRED MESSAGE
+INCOMING
+AF IN : 41192 (29 Aug 62)
+Page 2 of 2
+RUANCR/COMUSKOREA SEOUL KOREA
+RUAGFL/COMUSTDC TAIPEI TAIWAF
+RUYPD/COMASWFORPAC FORD ISLAFD HAWAII
+RUCSBR/CINCSAC OFFUTT AFB NEBR
+RUECW/CNO WASHINGTON DC
+JUECW/SECNAV WASHINGION DC
+RUWS J/COMWESTAREAUSCG
+RUMPHH/CTF 32
+RUECJD/COMUSCG WASHDC
+AF GRNC
+UNCLAS/MERINT EVALUATION. FORM USCE MATAGORDA
+BRIGHT OBJECT LESS THAN FIRST MAGNITUDE STAR
+POSSIBLE SATELLITE. POSIT 35-24N 144-10E. WO/17302
+MEAN ALI 12 DEGREES. TRAVELING IN NORTHERLY
+DIRECTION. SIGHTED EARING 130 DEG TRUE DISAPPEARED
+BEARING 075 DEG TRUE VISIBLE FOR 15 MINUTES
+VISIBILITY EXCELLENT CLOUDY COVERAGE 22 PERCENT.
+NO EVALUATION.
+BI NOTE: ADV CY TO OOP-CP, CIN, DIA.
+29/1945Z AUG RUHLKH

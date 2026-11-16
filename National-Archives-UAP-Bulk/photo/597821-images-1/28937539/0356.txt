@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:58:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3449721, "source_ctime_ns": 1793371295094979302, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937539/0356.jpg", "source_mtime_ns": 1785688853000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937539/0356.jpg", "source_sha256": "4c1b7cb704fb62d60ab1bbeb90f021f1748a98264f7b2fe213d7cabe5a73377c"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 465, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FORT MCPHERSON, GEORGIA
+AJACI-3 360.33
+SUBJECT: Unoonventional Aircraft
+15 March 1950
+TO :
+Commanding General
+Air Materiel Command
+Wright-Patterson Air Force Base
+Dayton, Ohio
+Attention: MCI (Control No. A-1917)
+Inclosed herewith is newspaper clipping re sighting of supposed
+flying saucer over Columbia, South Carolina.
+FOR THE COMMANDING GENERAL:
+•JOHN MEADE
+Colonel, GSC
+AC Of.S, G-2
+1 Inol:
+Clipping dtd 10 Mar 50
+503,13
+ANALYSIS
+PICON FILE
+carded
+FIL
+3-21
+IN.

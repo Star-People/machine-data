@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:48:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1020771, "source_ctime_ns": 1793389442568317511, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540851/01292.jp2", "source_mtime_ns": 1785808616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540851/01292.jp2", "source_sha256": "14da82fba1310877e72c834bf2f445af24f0f949ff4dfe797bd5b0f1f72278de"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 249, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NO CASE: Information Only ae be ain
+SOURCE: APRO Bulletin phen lamer toga
+Ree Be Ga ae eck
+
+On the 30th, also, a “flying saucer” wag
+reported hovering over the Air Base at
+Sintca, which is about 35 kilometers fro
+Lisbon, Spain, ia
+
+ee
+
+toa
+
+E
+yl
+3

@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:49:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1037403, "source_ctime_ns": 1793390091105998441, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546419/0654.jp2", "source_mtime_ns": 1785808292000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546419/0654.jp2", "source_sha256": "c4b16d839e1455f251d193175aff1b376efc57422ad5ccf037315c6d2ed50ed4"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 310, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR THE RECORD 10 December 1965
+Houston Space Center requested information as to the sighting near Acme,
+Pennsylvania. Major told him that sh Air Force team along with the
+State Highway Patrol searched the area until 2 o'clock this morning.
+Major gave him the location as 45-50 Chilesseast of Pittsburgh.

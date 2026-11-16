@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:02:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3933277, "source_ctime_ns": 1793377629674201672, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964667/1004.jpg", "source_mtime_ns": 1785696687000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964667/1004.jpg", "source_sha256": "86ee35f82d80809a179256c07ee8f9e09dd36617520ee74f2e488f2d75762837"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 822, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+24 January 1956
+3. DATE-TIME GROUP
+Local
+GM T.
+25/0550Z
+5. PHOTOS
+• Yes
+XXNo
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Seattle, Washington
+4. TYPE OF OBSERVATION
+• Ground-Radar
+Xx Ground-Visualasse Air-Intercept Radar
+field
+• Air Visual
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+3 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Oval shaped, golden and glowing with
+long tail. Wx clear. Object climbing.
+12. CONCLUSIONS
+• Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+•
+Was Aircraft
+Probably Aircraft
+•
+Possibly Aircraft
+Was Astronomical
+•
+Probably Astronomical
+Possibly Astronomical
+Other.
+EX Insufficient Data for Evaluation
+Unknown
+9. COURSE
+N-S later
+S-N
+COMMENTS
+Probably a/c with contrail;
+however, data too limited to
+support
+this analysis. Insuffi-
+cient data.
+ATIC FORM 329 (REV 26 SEP 52)

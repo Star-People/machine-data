@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:06:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4748053, "source_ctime_ns": 1793386574745587389, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996624/0273.jpg", "source_mtime_ns": 1785747913000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996624/0273.jpg", "source_sha256": "9437c4fccb5cf780a6c4c1b514d384912ec5220421ddcecc37444cfcfcf815e6"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 899, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Brooklyn 25,
+New York
+June 27, 1962
+It. Col. William J. Lookadoo
+Public Information Division
+Office of Information
+Department of the Air Force
+Washington 25, D.C.
+Dear Sir:
+Recently I sent you a letter requestingassistance in identifying
+an object in our evening sky. Since then we have succeeded in
+identifying it as the planet Venus. Its brightness and the rap-
+idity with which it crossed the sky, along with the presence of
+an orange glow and other weird impressions seen through bin-
+oculars, gave us the impression that it was an aircraft of
+some sort travelling on the fringes of space. Recently, however,
+the moon has been in that portion of the sky and its position
+in relation to the object convinces us that the object is much
+further back than the moon. Since the planet Venus is reportedly
+visible in the evening sky, we have come to the conclusion that
+the object must be it.
+Sincerel

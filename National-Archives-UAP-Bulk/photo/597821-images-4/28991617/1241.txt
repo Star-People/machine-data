@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:24:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8117427, "source_ctime_ns": 1793385015114374916, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991617/1241.jpg", "source_mtime_ns": 1785748402000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991617/1241.jpg", "source_sha256": "bbf4ce27829bb2f419222f2e419dce9dcbabb61e232cd3dd310a7f2cfe36fdfa"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 965, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+27 Feb 61
+3. DATE-TIME GROUP
+Local
+2135
+GM T.
+280535Z
+5. 'PHOTOS
+• Yes
+• No
+7. LENGTH OF.OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+10 min
+1
+10. BRIEF SUMMARY OF SIGHTING Round, white objt, size
+of grapefruit Appeared 45°
+aprox 225°.
+Disappeared 45° unknown. It would climb up
+high and get dim, "outer space"
+descend and get bright.
+Disappeared into
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Portland,
+Oregon
+4. TYPE OF OBSERVATION
+• Ground- Visual
+• Air Visual
+6. SOURCE
+D Ground-Rodar
+• Air-Intercept Radar
+9. COURSE
+•
+•
+•
+•
+•
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probobly Astronomical
+Possibly Astronomical
+Insufficient Dete for Evaluation
+Unknown
+Varied
+cOMMENTS Objts position upon disappear-
+ance was not known by witness; only
+reported as disappearing in outer space
+How this was determined is unknown.
+is too limited to reach a valid conclusion.
+ATIC FORM 329 (REV :

@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:13:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6182312, "source_ctime_ns": 1793377316750915575, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963255/1260.jpg", "source_mtime_ns": 1785696824000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963255/1260.jpg", "source_sha256": "ac916798e0f73fef0dc2e7d8c477ab7a811d5c195db701b8bc5aec946d928b92"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 718, "method": "ocr", "page": 1, "variant": "plain-vision"}
+. DATE
+24 Aug 55
+3. DATE-TIME GROUP
+Locol
+GM T.
+25/0405 z
+S.
+PHOTOS
+• Yes
+R No
+7. LENGTH OF OBSERVATION
+& min
+10. BRIEP SUMMARY OF SIGHTING
+Bluish white, 2500 ft alt.
+Front lighted semi circle.
+Single blinking light rear.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+North Branch, New York
+4. TYPE OF OBSERVATION
+DK Ground- Vi suai
+• Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+civilian
+8. NUMBER OF OBJECTS
+1
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircrat
+Ox Possibly Aircraft
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+unk
+11. COMMENTS
+Possible a/c sighting.
+ATIC FORM 329 (REV 26 SEP 52)

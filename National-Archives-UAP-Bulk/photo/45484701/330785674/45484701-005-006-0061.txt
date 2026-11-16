@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:22:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7527869, "source_ctime_ns": 1793363613008169479, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0061.jpg", "source_mtime_ns": 1785684936000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0061.jpg", "source_sha256": "91a6214ae8c47814dccf58d380d9eb3c696eb56856939f1cfe7da5caeb2c5071"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1002, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SCURHY
+ION
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+File No: 11D 24-0
+OCO/ JCM/ PMJ :blh
+THE INSPECTOR GENERAL USAF
+11TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+TINKER AIR FORCE BASE, OKLAHOMA CITY, OKLAHOMA
+7 May 1952
+SUBJECT:
+Information on Unconventional Aircraft
+TO:
+Director of Special Investigations
+Headquarters USAF
+Washington 25, D. C.
+1. Reference is made to attached Spot Intelligence
+Report, subject as above, District Office No. 1l, File
+24-0, dated 7 May 1952.
+For purposes of this report, only, the observer
+is identified as WALTER R. PRUETT, OCAMA Badge No. 82972,
+Spin Pit Operator, Engine Repair Section, Maintenance
+Engineering, Tinker Air Force Base, Oklahoma.
+Spot Intelligence
+Rpt (in trip)
+10. MET
+JOHN C. McLENDON
+Lt. Colonel, USAF
+District Commander
+CLASSIFICATION CANCELLED EMPER C
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+BY -
+KURT K. KUNZE, Capt, USAF
+Histerlan
+DATE
+4 DEC 1975
+UNCLASSIFIED
+FIDENT
+Declassification Authority: NND 923007

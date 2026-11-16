@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:43:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 819690, "source_ctime_ns": 1793392313359231143, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302567025/0962.jp2", "source_mtime_ns": 1785808546000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302567025/0962.jp2", "source_sha256": "f91c1259991f8a8fc63a12306eb8819d014e60a9ef52887eff7bfe6d1b9606d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 822, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SAF-OIC/Miss Turnure/76526/Nov. 20, 1967
+MOV 2 0 1957
+Dear
+This letter la in reference to your observation of an
+unidentified flying object (UPO) and the subsequent proto-
+graphs you took on June 1, 1907.
+Your three photograpes are returned herewith. A detailed
+analysis cannot be made without the original negatives.
+If you would like to have your photographs analyzed in
+detail, please complete the attached data sheet, and return
+it with your original negatives in the inclosed envelope.
+Sincerely,
+DAVID L. STILES
+It Colonel, USAF
+Chief, Civil Branch
+Commnity Relations Division
+Office of Information
+3 Attachmenta
+1. Prints (3)
+2. Photographic Data Sheet
+3. Postage-Cree invelope
+Porti San Joan, California
+95960
+SAP-OIC
+/Coord Cy - SAF-OIC
+Cmok Cy - SAF-O1C
+Activity Cy - SAF-OIC
+Reader Cy - SAF-OIC
+Stayback
+7-3 14

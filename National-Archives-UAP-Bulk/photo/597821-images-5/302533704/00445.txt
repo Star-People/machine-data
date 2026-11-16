@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:50:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1286202, "source_ctime_ns": 1793388864840106285, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533704/00445.jp2", "source_mtime_ns": 1785808607000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533704/00445.jp2", "source_sha256": "a6a8e1290dc5df34c2be6eab6f46218d3b87ca06190f92b13962a5b1102b3f1d"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 575, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCOMING
+MESSAGE
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+AF IN : 38297 (22 Jun 64)
+PAGE 2 Of 2
+MERINT
+A. MY 2215132
+8. MY 221655Z
+1. COAST GUARD A/C SEARCHED FROM POSIT REPORTED IN REF B. ALONG
+TRACKLINE OF 155 DEGREES TRUE TO A RANGE OF 50 MILES, VISUAL AND RADAR
+SEARCH WES MADE 10 MILES TO EITHER SIDE OF THIS TRACKLINE, NO
+INDICATIONS OF A DISTRESS OR EXPLOSION WERE LOCATED.
+2. INCIDENT CONSIDERED CLOSED PENDING RECEIPT OF FURTHER INFORMATION.
+NOTE: RETRANSMITTED TO CIA PER AFHQ 1392 # 585
+221518 IS AF IN 37882
+221055 IS AF IN 37952 (22 Jun 64)

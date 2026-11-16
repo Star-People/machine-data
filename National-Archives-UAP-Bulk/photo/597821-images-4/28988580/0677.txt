@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:20:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7328823, "source_ctime_ns": 1793384025203404082, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988580/0677.jpg", "source_mtime_ns": 1785747969000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988580/0677.jpg", "source_sha256": "0d34566517410a06add40858849bafdb0571508e626aa687789d96d516381774"}
+
+===== PAGE 1 =====
+{"alpha_words": 236, "chars": 1595, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 5
+25.
+Where were you located when you saw the object?
+(Circle One):
+26. Were you (Circle One)
+a. Inside a building
+b. In a car
+c. Outdoors
+d. In an airplane (type)
+e. At sea
+f. Other
+a. In the business section of a city?
+b. In the residential section of a city?
+e. In open countryside?
+d. Near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+g. Other
+27. What were you doing at the time you saw the object, and how did you happen to notice it?
+HAYING
+IN A HAMMOCH
+28. IF you were MOVING IN AN AUTOMOBILE or other vehicie at the time, then complete the following questlons
+28.1 What direction were you moving? (Circle One)
+a. North
+c. East
+b. Northeast
+d. Southeast
+e. South
+f. Southwest
+g. West
+h. Northwest
+28.2 How fast were you moving?.
+miles per hour.
+28.3 Did you stop ar any time while you were looking at the obiect?
+(Circle One)
+Yes
+No
+29. What direction were you looking when you first saw the object? (Circle One)
+a. North
+b. Northeast
+c. East
+d. Southeast
+South
+Southwest
+9•
+West
+n. Northwest
+Overhead
+30. What direction were you looking when you last saw the object? (Circle One)
+3. North
+b, Northeast
+c. East
+d. Southeast
+South
+Southwest
+g. West
+h. Northwest
+Overhead
+31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was
+from true North (thru east) and also the number of degrees it was upward from the horizon (elevation).
+31.1 When it first appeared:
+a. From true North
+b. From horizon
+607080
+-degrees.
+_ degrees.
+31.2 When it disappeared:
+a. From true North
+b. From herizon
+degrees.
+_degrees.

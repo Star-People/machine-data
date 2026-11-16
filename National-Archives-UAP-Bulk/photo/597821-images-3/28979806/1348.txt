@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:20:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7135356, "source_ctime_ns": 1793381318005001347, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979806/1348.jpg", "source_mtime_ns": 1785700662000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979806/1348.jpg", "source_sha256": "ef7d82b4b2f9979ec9963b2bc9c24a40244567dc95868c8e7038b13c628a4d01"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 63, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ToLEDo, OHLO
+
+8 Sep KB
+
+thie CASE INCLUDE S.
+one %'*/0" phofe

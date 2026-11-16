@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:25:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8419948, "source_ctime_ns": 1793363816682390611, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0310.jpg", "source_mtime_ns": 1785684877000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0310.jpg", "source_sha256": "203dc79455e3a082ff3941b7c2259fac6ef3963cf579299cd2cb81c925cda334"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 100, "method": "ocr", "page": 1, "variant": "plain-vision"}
+18 NOV1949
+CI DIV
+OSI
+15 16/1>
+IN
+18 NOV 1949
+CI DIV
+OSI
++0180
+OÛT
+18 NOV1949
+MANAGEMENT
+DIV
+SI
+ДОИ
