@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:59:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4011654, "source_ctime_ns": 1793382722347511803, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28985207/0495.jpg", "source_mtime_ns": 1785700794000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28985207/0495.jpg", "source_sha256": "bc8ed6ae706fb9a305e6eb1fdf01cc710aecb7f03e8b9e7ee23f6ba8c25b3f6d"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 937, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+28 Oct 59
+3. DATE-TIME GROUP
+Local
+GM T
+5. PHOTOS
+28/12382
+• Yes
+E No
+7. LENGTH OF OBSERVATION
+10-15
+seas
+10. BRIEF SUMMARY OF SIGHTING
+one
+Light blue light, same as 2nd magnitude
+star, size of head of pin, desceading
+rapidly, but not as fast as meteor. Dis-
+appeared below horizon to South.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Between Wake Island
+& Hickman AFB
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Vi suol
+• Ground-Rader
+• Air-Intercept Radar
+6. SOURCE
+Military
+8. NUMBER OF OBJECTS
+12. CONCLUSIONS
+•
+•
+Was Balloon
+Probably Balloon
+Possibly Balioon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Has Astronomical MeteOr
+Probably Astronomical
+Possibly Astronomical
+Other
+In sufficient Data for Evaluation
+Unknown
+9. COURSE
+descending
+11. COMMENTS
+Obj was probably a slow moving meteor
+Witness was at 12,000 ft alt over
+the ocean, which would account for hid
+seeing it longer than usual.
+ATIC FORM 339 (REV 26 SXP 52)

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:59:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3989520, "source_ctime_ns": 1793380651926256008, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977470/0662.jpg", "source_mtime_ns": 1785700794000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977470/0662.jpg", "source_sha256": "9e20982c1840951cad3828e55e5c6726d2f1be3d404ff84fd5049a7f040b6eb6"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 487, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJESDL 1
+(D) 1. BRIGHT SLIVER COLOR IN DAYLIGHT
+2", 45 DEGREES UP ON NORTH HEADING
+5. SAME
+NONE DID NOT MOVE
+SUNSET
+30 MINS BEFORE SUNSET
+(C) 1. GROUND-VISUAL
+NONE
+(0) 1, 21562 -
+16 MAR 58
+2/30- > = 1430
+DUSK
+(E) MACDILL AFB
+. MALCOLY E. TOOF CAPT. HQ. SON. 829TH ABG MACDILL AFB ASST
+OPERATION OFFICER VERY RELIABILE
+(0) 1. 1757E HRS - HIGH SCATTERED 15 MI 61/35-NW7 .204
+1857E HRS- HIGH SCATTERED 15 MI 58/43-MM5-007
+C. FURFACE - 320/6
+5000 - 310/14
+10000-300/29
+16200-280/43

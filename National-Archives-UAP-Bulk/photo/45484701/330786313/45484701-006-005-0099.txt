@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:20:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8337390, "source_ctime_ns": 1793363982553393549, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0099.jpg", "source_mtime_ns": 1785684965000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0099.jpg", "source_sha256": "741122e579dc92f4c24a1cf1927c9006996a8ce737ae309656815edba49b2c2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 268, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+seared NY AL A Vay bf ind
+
+rver'’s: $12
+
+ae bh CW Yb
+
+a
+
+Protective Force
+
+Ar tee
+
+Additional remarks of investigator
+
+)
+4 2
+
+tigator's
+
+Title
+
+sstaeeeeneneestiatieniemmeesinnenmmenanientnemmentanemeee cnaneeenn te rere tae EES
+
+Declassification Authority: NND 923007

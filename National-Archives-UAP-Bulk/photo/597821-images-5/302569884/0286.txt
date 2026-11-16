@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:50:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1381399, "source_ctime_ns": 1793392696016112248, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569884/0286.jp2", "source_mtime_ns": 1785808549000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569884/0286.jp2", "source_sha256": "52e054544648def6d0a3bc56323a0322550c57058dc2b4eb53d12c5b4454ed81"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 618, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TDET/UFO DUFICIAL FILE CY
+PENDING
+TDET/UPO
+UrO Observation
+(Maj Quintanilla/70916/mhs/20 Aug 67)
+Rg8 21 1967
+Greenup County,
+Greenup, Kentucky
+41144
+Reference your telephone conversation with the Duty Officer at
+Wright-Patterson AFB on August 16, regarding an unidentified
+flying object (UrO) observation made by
+If
+wishes to report his observation to the Air Force,
+he may do so by completing the inclosed PTD Form 164 and return-
+ing it in the envelope provided. Thank you for bringing the
+observation to our attention.
+ES C. MANATT, Colonel, USAF
+irector of Technology and Subsystema
+1 Atch
+FTD Form 164 w/envelope

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:22:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8663366, "source_ctime_ns": 1793387204764738821, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998366/0407.jpg", "source_mtime_ns": 1785748450000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998366/0407.jpg", "source_sha256": "38eae7dbd5bb4941d86b5cded43e348adb1f60c52ac87394e0d7016f99f348b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 654, "method": "ocr", "page": 1, "variant": "plain-vision"}
+13 November 1962
+Misı
+c/o'
+Ingrai
+High School
+1819 North 135th Street
+Scattle, Vaehington
+Dear
+"With reference your letter of October 30, concerning UFO and
+also referring to an artiéle in the Senttla Times in comection
+with UrOs and Mcchard jets, in accordance with directives from
+Eg USAP we have forvarded your letter to them. I an auce that
+you will hear free thea in the very near future and perhaps they
+will provide you with some information on the subject.
+recall the exact date and vill lat me how, I will again make
+inquiries fron that publication.
+Thank you for your interest.
+Yours traly
+JOSEPH I. WIC013S, SA
+Captain, USAF
+Infoestion Office

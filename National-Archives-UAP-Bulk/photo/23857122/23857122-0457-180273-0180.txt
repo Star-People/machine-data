@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:30:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18586008, "source_ctime_ns": 1793356566120362991, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0180.tif", "source_mtime_ns": 1785564723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0180.tif", "source_sha256": "e4d438ac05d1370e26e4af1abdac8dc83be5ebccfe56398c75e27df3658becda"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 365, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #58 - N of Bethel, 4laska -- 4 August 1947
+There is no astronomical explanation for this incident.
+The time in sight (four minutes) and rate of speed (520 PH) seem
+to preclude any such possibilities.
+The similarity of this incident to #10, in which several
+objects were seen silhouetted against a sunset, is striking.
+Declassification Authority: NND 57565

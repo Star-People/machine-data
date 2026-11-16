@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:52:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1727813, "source_ctime_ns": 1793389200593293988, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538001/00047.jp2", "source_mtime_ns": 1785808044000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538001/00047.jp2", "source_sha256": "6a4f0d60050f66a50508cb934ee07613250fa47edbc153d7a26125a622ffdbb9"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1072, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+WASHINGTON 25, D.C.
+..SA
+IN HEPLY REFER TO
+1-C HAO 2400
+4PR C 1965
+Nova Sootia
+Ho have received your letter dated
+25, 1905, and frog
+your account of the event on Herch 16, 1965, it appears that
+you witnessed the orbital decay and atmospheric reentry of
+portions of a Soviet scientific satellite. COBNOS 57, leunched
+by the U.S.8.8. on February 22, 1905, 18 kmov to have broken
+into over 100 significant pieces of which seven decayed from
+orbit, reentered the earth's atmospbere, and burned up on the
+evening of March 16, 1965. This conclusion is further evi-
+deuced by your altitude estinate of 50-75,000 feet--this is
+the altitude range where decaying orbital objects becone
+luminescent from the friction created upon entering the
+atmosphare at orbital velocity.
+Your interest in this watter as well as your excollent re-
+port are greatly appreciated.
+Sincerely youre,
+Original signed by
+Lec X. Abernethy
+Leo X. Abernethy
+Chief, Mission Planning
+Apollo Flight Operatione
+Office of Manned Space Flight
+MAO/BCTUrgeon:TP
+4/5/65

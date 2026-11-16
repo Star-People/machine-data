@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:50:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1401522, "source_ctime_ns": 1793356051192198933, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0148.jpg", "source_mtime_ns": 1785564593000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0148.jpg", "source_sha256": "9c341ec91bfd5912059611c7099caa749fa7c84e2ca1455372cd992e57a86d90"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 1133, "method": "ocr", "page": 1, "variant": "plain-vision"}
+APPENDIX 1
+Train Assembly, flight 5, (meteorological oluster)
+Trajectory, flight 5.
+Height-time ourve, flight 5.
+Trajectory, flight 6..
+Height-time curve, flight 6.
+Train assembly, flight 7, (meteorological cluster).
+Trajectory, flight 7...
+Height-time curve, flight 7.
+Train assembly, flight 8, (General Mills Cluster).
+Trajectory, flight 8,.
+Height-time curve, flight 8.
+Train assembly, flight 10.
+Height-time curve, flight 10.
+Train assembly, flight 11.
+frajectory and height-time curve, flight 11
+Train assembly, flight 12.
+Height time curve, flight 12.
+Height-time curves, flights 13, 14, 16, and 23.
+Height-time curve, flight 15.
+Height-time curve, flight 20.
+Height-time curve, flight 24
+Height-time curve, flight 27.
+Height-time curves, flights 29, 30 and 32.
+Height-time ourves, flights 33, 34, 35 and 36.
+Height-time curves, flights 37, 38 and 39.
+Trajectory, flight 17.
+Height-time curve, flight 17.
+(36)
+Fig. 31
+Fig• 32
+Fig. 33
+Fig. 34
+Fig. 35
+Fig. 36
+Fig• 37
+Fig. 38
+Fig. 39
+Fig. 40
+Fig. 41
+Fig• 42
+Fig • 43
+Fig• 44
+Fig. 45
+Fig• 46
+Fig• 47
+Fiz. 48
+Fig. 49
+Fig. 50
+Fig• 51
+Fig. 52
+Fig. 53
+Fig. 54
+Fig. 55
+Fig. 56
+Fig. 57

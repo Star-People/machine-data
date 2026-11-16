@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:13:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6830714, "source_ctime_ns": 1793384440384665044, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990333/0102.jpg", "source_mtime_ns": 1785748154000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990333/0102.jpg", "source_sha256": "7b826d8f694ea51b44a71cb534024515e366c59889cbfa046735d1e06e6f7511"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 281, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(7)
+The temperature lapse rate was almost parallel to dry
+adiabatie to 865 milibars, where a very strong subsidence inversion was
+obserted.
+This report is written in a letter form due to the fact that
+there are no AF Forms 112 at this base.
+WILLIAM R.
+WHE TE
+Major, USAF
+Commander

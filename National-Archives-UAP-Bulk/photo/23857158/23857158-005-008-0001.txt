@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:03:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4858042, "source_ctime_ns": 1793359007146025820, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-008-0001.tif", "source_mtime_ns": 1785681291000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-008-0001.tif", "source_sha256": "cd7ba4853bf12c750168af6d6c464be19436cfb88b210e1ce1ca14762695c097"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 636, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+DATE, TIME OF SIGHTING
+I RECD HQ 4602D
+ATS3-UF0B-116-55
+LOCATION OF SIGHTING
+14/02152 De 55
+17 Deo 55
+LOGGED BY
+Caddo Lake, Loidsiana
+MEANS RECD
+S/Sgt. Deidder
+ACTION
+TT Mag
+No investigation authorized
+INVES UNIT
+DATE INVES ASSIGNED
+ASSIGNING OFFICER
+1/A
+N/A
+N/A
+DATE IR RECD HQ
+DATE IR APPROVED
+DATE IR TO ATIC
+NA
+DATE OF FORM 5
+20 December 1955
+COMMENTS
+Radar sighting Note that the object was described as drifting.
+The winds aloft would support a balloon theory.
+CONCLUSIONS
+POSSIBLI BALLOON (of the type carrying telemetering equipment.?
+AISOP FORM 7 (2 APR 55)

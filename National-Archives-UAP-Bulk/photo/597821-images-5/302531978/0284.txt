@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:48:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 992992, "source_ctime_ns": 1793388757159806035, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531978/0284.jp2", "source_mtime_ns": 1785808021000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531978/0284.jp2", "source_sha256": "a775ebe7544cc4f92306e84a448b0aa5204e2e212d0758291541b719db2f5ac0"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 1001, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN : 45701 (11 Apr 64)
+PAGE 4 RUWGBH 51A UNCLAS
+230 DEGREES
+25 KTS
+27C DEGREES
+32 KTS
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+14,20%
+20, 000
+PAGE 4 of 5
+270 DEGREES
+270 DEGREES
+S5 KTS
+50 KTS
+- 50,200
+(3) CLILING: CLEAR
+(4) VISIBILITY: 15 MILES
+(5) CLOUD COVER: NONE
+(6) THUNDERSTORMS: NONE
+(7) TEMPERATURE GRADIENT: 3 DEGREES PER 502 FT.
+H. OTHER UNUSUAL ACTIVITY OR CONDITIONS WHICH MIGHT ACCOUNT FOR
+SIGHTING: FAA CONTROL, ALBUQUERQUE, WAS CONTACTED AND ADVISED
+THIS UNIT OF FOLLOWING SIGHTINGS AT APPROX 0417Z: AT HOLLOMAN
+BY TOWER AND TRAFFIC: BY CONTINENTAL AIRWAYS NR
+AT 50 MILES
+WEST OF SAN SIMON, NMEX. IWO NR
+5% MILES EAST OF PRESCOTT,
+AND TOWNS OF: TINEY, HAGERMAN, ESPANIOLA, AND CHAMA, NEW MEXICO,
+AND SEMINOLE, IEXAS. INFORMATION HAD BEEN FORWARDED TO SENIOR
+CONTROLLER, OKLA CITY AIR DEFENSE SECTOR.
+I. INTERCEPTION OR IDENTIFICATION ACTION TAKEN: NONE.
+J. LOCAL AIR TRAFFIC: NONE
+K. POSITION, TITLE, SAND COMMENTS OF PREPARING OFFICER: 1ST LT.

@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v1", "engine_mode": "embedded-text", "source_file": "Archives-for-the-Unexplained/documents/AFU-Sponsorships-1993-2017.pdf", "source_sha256": "53d82f6b1b14fda10a0dc027bed7b9ceef8e669eeeda390e85cafc42eb36f089", "source_bytes": 613846, "created_utc": "2026-10-13T03:05:18.188759+00:00"}
+{"created_utc": "2026-11-16T21:44:30Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 613846, "source_ctime_ns": 1793566249450520778, "source_file": "Archives-for-the-Unexplained/documents/AFU-Sponsorships-1993-2017.pdf", "source_mtime_ns": 1793566249424018573, "source_rel": "Archives-for-the-Unexplained/documents/AFU-Sponsorships-1993-2017.pdf", "source_sha256": "53d82f6b1b14fda10a0dc027bed7b9ceef8e669eeeda390e85cafc42eb36f089"}
 
 AFU Sponsorships 1993-2017
 Note: Only regular payments to the AFU bank accounts are counted here. Some collections for specific objets have not been counted in.

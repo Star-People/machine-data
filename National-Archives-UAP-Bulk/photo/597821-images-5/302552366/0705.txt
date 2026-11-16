@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:48:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 970226, "source_ctime_ns": 1793390679522605598, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552366/0705.jp2", "source_mtime_ns": 1785808298000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552366/0705.jp2", "source_sha256": "03b57137efa90823db232828f71059c3f2bd89f4b1874cf7ab5a696e3178c42f"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 442, "method": "ocr", "page": 1, "variant": "plain-vision"}
+emki
+Haddon Hight, N. J
+TDET/UFO
+13 February 1967
+Request for UFO Information
+USAF (SAFOICC)
+Reference the attached letters from M
+ana
+requesting information on unidentified flying objects.
+Proposed
+replies have been prepared and are with their respective letters.
+FOR THE COMMANDER
+TOET/UFO OFFICIAL FILE COP Y
+JAMES C. MANATT, Colonel, USAT
+Director of Technology and Subsystems
+2 Atchs
+1. Ltr,
+2. Ltr,
+26 Jan 67
+23 Jan 67
+Infour 14 7ek 67

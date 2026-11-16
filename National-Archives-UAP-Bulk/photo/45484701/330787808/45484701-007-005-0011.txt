@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:19:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8213597, "source_ctime_ns": 1793364803239243117, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0011.jpg", "source_mtime_ns": 1785685201000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0011.jpg", "source_sha256": "f470e55b1e45b07fa44a43cba9f9d7d379f029762e8be103b2c81b971e192490"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 796, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20D OSI 24-0
+4. Fairchild AFB vesther conditions at 2000 hours, 20 September
+1960, as furnished by Detachment 3, 9th Weather Squadron, were as
+TOLLowS:
+Ceiling:
+None
+Visibility:
+25 Miles
+Cloud Cover:
+None
+Latitude:
+47 Degrees, 37 Minutes North
+Longi tude:
+117 Degrees, 39 Minutes West
+Wind Direction:
+320 Degrees
+Wind Velocity:
+4 Knots
+Winds and temperature gradiant at the various altitudes:
+Altitude
+Deg/Speed (knots)
+Tempera ture
+6,000
+330/11
+2 Degrees C
+10,000
+300/07
+16,000
+330/13
+20,000
+280/08
+30,000
+250/35
+50,000
+260/28
+80,000
+270/0zł
+-49
+5. The foregoing is furnished for your information and no further
+action is contemplated by this District Office.
+PAUL A. HURST
+Colonel, USAF
+Commander
+Copy to:
+EQ USAF (AFCSI)
+СОЛИДЕВ НИЦЕГ ОІЛ
+18R0 OCL SO
+08
+Declassification Authority: NND 923007

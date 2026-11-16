@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:18:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8018532, "source_ctime_ns": 1793362032499886874, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0004.jpg", "source_mtime_ns": 1785684939000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0004.jpg", "source_sha256": "06fde08ac072912558a9e92e08f953a343ac895a3fcb8dc2e55e469d0fc2df53"}
+
+===== PAGE 1 =====
+{"alpha_words": 202, "chars": 1487, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CALDWELL, et al - 24-93
+DETAILS:
+Material obtained from Mr. STEWART F. SMITH, original complainant in
+this case (also DO #4 Number 33-144) has been photostated and copies of
+material pertinent to this investigation are attached hereto as inclosures.
+City Editor, the EVENING SUN, Baltimore, Maryland, was interviewed 24
+August 1949 and indicated that the story had lost most of its newspaper
+interest. Photostatic copies latest newspaper stories as published in the
+EVENING SUN are attached hereto as inclosures.
+Numerous letters from civilians offering aid and information have been
+received by this District Office.
+These letters were answered as a matter
+of courtesy and placed in District OfficeẠ¿4 Case File since none of the
+information was pertinent to this investigation.
+IN CLOSURES
+FOR HEADQUARTERS, OSI
+1. Stock Certificate Rotor-Planes, Incorporated. One hundred shares issued
+to S. FRANKLIN SMITH. (in dup)
+2. Stock Certificate Gray Goose Airways, Incorporated. Fifty shares issued
+to Mr. S. FRANKLIN SMITH. (in dup)
+3. U. S. Patent Office Brief 2108839. (in dup)
+4. Photostat of articles appearing in EVENING SUN, Baltimore, Maryland,
+20 August 1949. (in dup)
+5. Publicity material Gray Goose Airways, Inc. (in dup)
+6. Statement JONATHAN E. CALDWELL and article appearing in the SUN,
+Baltimore, Maryland, 23 August 1949. (in dup)
+7. Photograph of
+rotor plane showing CALDWELL on extreme left and Mechanic
+GANZ in cockpit.
+- PENDING -
+Declassification Authority: NND 923007

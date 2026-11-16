@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:56:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1898369, "source_ctime_ns": 1793374908129549681, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953865/1390.jpg", "source_mtime_ns": 1785696720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953865/1390.jpg", "source_sha256": "24343160672adac7aea8927af8fc94feb0c9e92c7eeefde56878e304746f50a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 501, "method": "ocr", "page": 1, "variant": "plain-vision"}
+7. UNKNOW PD
+8. UNKNOWN PD
+9. F-80 TYPE ACFT SCRAMBLED FR SHAW AFB CMA 1750 EST 5 MAR 53 CMA
+DIRECTED ON 3 GCI'S BY 727TH AC&W PD NEGATIVE VIS
+CONTACT PD POLIT
+COMPLETELY COVERED AIR SPACE VETWEEN TWENTY THOUSAND AND THIRTY THOUSAND
+FEET AS DIRECTED EV CCI PDAELIP FADED FR RADAR SCREEN 1835 IST PD
+10. UNKNOWN PD
+ADD INFO CIN SPEED OF OBJ WAS CONSISTENT FROM 200
+TO 220 MPH PD OBJ
+MADE NO ERRATHIU MOVEMENTS BUT TRAVÉLED CONSISTENT TRACK AS RPTD BY
+727TH AC&M PD
+0S/2246Z MAR JESDD
+Gime
+UNCLASSIFIED

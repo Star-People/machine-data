@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:04:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5022562, "source_ctime_ns": 1793381491075431086, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980390/00482.jpg", "source_mtime_ns": 1785701052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980390/00482.jpg", "source_sha256": "1d0ea04da8ecd477cc2e8733f69050bff2270fed994f84a8784e2b45fb823cfe"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 148, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "clean-vision"}
+DOMINICAN REPUBLIC 1:50,000
+FIRST EDITION-AMS
+71°15*
+18°20*
+2028
+370
+10
+772
+13
+774
+BARA
+775
+2027
+27-
+-26-
+2025
+25-
+22
+-21-
+20-
+65
+66
+67
+68
+69
+70
+73

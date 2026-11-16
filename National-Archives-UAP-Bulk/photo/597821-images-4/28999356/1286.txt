@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:21:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8418064, "source_ctime_ns": 1793387879292449806, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999356/1286.jpg", "source_mtime_ns": 1785747819000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999356/1286.jpg", "source_sha256": "4a4db1968e1b5738da2570ed8f54bcb9d6d832d1ba35add6e469d12da8d7c468"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 675, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : " 25100 (30 Sep 62) R/pgc
+PAGE 1 of 2
+INFO
+: CIN-17,
+DIA-CIIC-3
+008-2337)
+OOP-CP-1, SAFS-3, DIA-10,
+SMB C 003
+ZCHQE794ZCBJB055Í
+PP RUEAHQ
+• DE RUEGUH 209
+ZNR
+P 3205072
+FM COMEASTSEAFRON
+TO RUCKHC/CINCLANTFLI
+RUEASN/CDR 26TH NORAD DIVISION
+INFO RUECE/CNO
+RUEAHQ/CHIEF OF STAFF USAF
+ZEN/COMTHREE
+RFEMC/CANAIRDEF
+RCEHC/CANFLAGLANT
+RUWGALB/CINCNORAD
+BT
+UNCLAS
+UNIDENTIFIED FLYING OBJECT
+• 1. CIVILIAN REPORT AGE 17
+2. BROOKLYN, NEW YORK
+3. CYLINDRICAL
+A. ONE
+B. SAME SIZE AS LARGE PLANE, CYLINDRICAL, NO WINGS, NO
+EXHAUSI OR SOUND, FLASHING RED AND WHITE LIGHTS ON END,
+NO TAIL
+4. HORIZONTAL

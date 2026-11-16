@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:44:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 520867, "source_ctime_ns": 1793365595683387208, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_176.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_176.jpg", "source_sha256": "3e8a66c0c5405d56015fe45f28f1563b54d84f6dc72225afd1b8bdb24e35607d"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1166, "method": "ocr", "page": 1, "variant": "plain-vision"}
+55:32:05
+55:32:36
+55:32:41
+55:32:43
+55:32:46
+55:33:27
+55:33:29
+55:33:36
+55:33:42
+55:33:58
+55:34:03
+55:36:42
+55:36:48
+55:36:51
+55:36:53
+55:37:01
+56:02:52
+CC
+C
+CC
+C
+CC
+C
+cC
+CC
+CC
+C
+CC
+CC
+C
+CC
+CC
+CONFIDENTIAL
+175
+Roger. I've got that.
+Hawaii, Gemini VII. We just took down a complete
+survey of the temperatures around the cabin.
+Go ahead.
+Of 57.
+We're emitting ambient about 78 with a dew point
+Roger.
+Hawaii, Gemini VII. Do you have any other instruc-
+tions?
+Okay. When that ECS 02 reaches 580 we'd like you
+to go back to the OFF position on the ECSO Heater
+switch.
+Okay. I'd just as soon leave the others off too,
+unless you really want them in AUTO.
+I think they want them in AUTO.
+If you'll wait a second, I'll give you the values
+they want them to be left at, and then you can set
+them up the way you'd like.
+Thank you.
+Okay. We'd like you to go to your Fuel Cell Ha
+to 500 psi.
+Ha to 500. Roger. How about the 02?
+We're working on that one.
+Okay. Tell them that I'll turn it off when I get
+there and if they want me to turn it back on, wake
+us up. I'll sleep better if I know it's on AUTO-
+MATIC.
+Very good.
+ROSE KNOT VICTOR
+Gemini VII, RKV CAP COM.
+CONFIDENTIAL

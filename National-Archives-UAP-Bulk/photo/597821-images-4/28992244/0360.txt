@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T21:57:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3794446, "source_ctime_ns": 1793385210294658921, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992244/0360.jpg", "source_mtime_ns": 1785747927000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992244/0360.jpg", "source_sha256": "a8cd084d0b60960898803fb63c2b6d6323ec2e39cb004c3e734795002292d154"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1174, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RECTOR DECAUS
+Materials Central
+REPORT NR: ASRC P61-13 (WWRCP)
+PROJECT NR: 921%
+MANUFACTURER:
+SUBMITTED BY:
+AERONAUTICAL SYSTEMS DIVISION
+This report is not to
+used in whole or in pa
+#RIGHT-PATTERSON AIR FORCE BASE, OHIO for advertising or sales
+promotion purposes.
+Physics
+LABORATORY
+EVALUATION REPORT
+Analysis of Foreign Materials
+DATE:
+10 May 1961
+TYPE EVALUATION:
+SPEC NR:
+ITEM SERIAL NR:
+AFC INZE
+(T/Sgt Bolieu)
+I.
+PURPOSE:
+To identify the foreign material.
+II. FACTUAL DATA:
+The sample was assigned Physics Laboratory Number 7003.
+Positive chemical tests were obtained for:
+e. starch
+b.
+reducing sugar
+c. sodium chloride
+Negative results were obtained for proteins.
+Infrared absorption analysis showed the presence of a hydrogenated oil.
+III. CONCLUSIONS:
+Chemical analysia indicates that the material was prepared from a low
+protein flour with small quantities of sugar and salt and cooked in a
+hydrogenated oil.
+RECOMMENDATIONS:
+None, data merely submitted.
+PREPARED BY:
+BROKESHOULDER ASPC?A 2
+This report is not to be used in whole or in part for advertising or sales promotion pur
+FORM
+WADC AUG S9 64
+PREVIOUS EDITIONS OF THIS FORM MAY BE USED.
+AF-WP-B-SEP 59. 4M

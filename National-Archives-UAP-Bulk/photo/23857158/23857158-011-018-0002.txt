@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:13:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6565706, "source_ctime_ns": 1793359874290217638, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-018-0002.tif", "source_mtime_ns": 1785681551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-018-0002.tif", "source_sha256": "9408ef4c8b2dcce3dfe5ecd71553c75568e82a5d722fd249353857e59b45d63c"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 1090, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+send 164
+131535 =
+EN0003ENA088 TYB105 IMA060
+DGA035DGFØ19
+MM RJEDEN RJEPNB RJEPNY RJEDWP RJEPHQ
+DE RJEPDG 6F
+M 131400Z
+OPS
+FM COMDR 762D ACWRON NORTH TRURO AFS MASS
+TO RJEDEN/COMDR ADC ENT AFB COLO SPRINGS COLO
+RJEPNB/COMDR EADF STEWART AFB NEWBURGH N Y
+RJEPNY/COMDR 26TH AD ROSLYN AFS ROSLYN N Y
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CNTR WRIGHT-PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR OF INTELLIGENCE HEADQUARTERS USAF WASHINGTON 25 D C
+BT
+/UNCLASSIFIED/SQOPS 08078 PD SUBJECT: UFOB
+1. A OVAL
+8 VERY SMALL
+C NONE
+D ONE
+E BRILLIANT LIGHT
+4602D AISS. UFOB REPT.
+261
+ALTIME GROUP Y0300 A HUG 36
+BROCION, MASS.
+F NONE
+G THIN BRIGHT TAIL OF EXAUSE WITH GREEN LIGHT AROUND
+H NONE
+Prob mois
+PAGE TWO RJEPDG 6F
+I NONE
+2 A CALLED TO HIS ATTENTION BY HIS SISTER
+B ELEVATION 045 DEG AZIMUTH 180
+C ELEVATION 260 DEG AZIMUTH 360 DEG
+D STRAIGHT LINE
+E FADED AWAY
+F 30 MINUTES
+A GROUND VISUAL
+& NAKED EYE
+4
+A 12/2500Z AUG -
+1700 K
+ESta
+NIGHT
+5 4205N 7100W
+6 AM
+LIBRARY
+3• N/A
+7 A EXCELLENT
+SOUTHWEST 8 KNOTS
+C UNLIMITED,
+D 15 PLUS
+BROCKTON MASS AGE 25 WORKS IN PUBLIC

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:11:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6321770, "source_ctime_ns": 1793382636728525714, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984893/0211.jpg", "source_mtime_ns": 1785700924000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984893/0211.jpg", "source_sha256": "cdec9a647644c2ff01e6ae9e4255aab6e789c0a75443a80fda886c0d78eca357"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 981, "method": "ocr", "page": 1, "variant": "plain-vision"}
+6. 00
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 6019 (6 Oct 59) A/B/ncm
+ACTION : CIN
+CORRECTED COPY
+INFO : OOP,
+SMD A 148
+ZCZC HQ 198ZC BJJJJJA 182
+.....
+YY RJEZ HQ
+DE RBEKSN 028
+Y 0615 15Z
+FM CCGD SEVEN MIAMI FLA
+TO RJWFAL/CINCONADCOM
+RJEZHO/CHIEF OF STAFF USAF WASHDC
+ZEN/COMEA ST SEAFRON
+CHERGENCY
+ZEN/C INCLANTFLI
+INFO ZEN/COMDT COGARD
+ZEN/COMEASTAREA COGARD
+USC G GRNC
+BT
+F OL REC FROM MV DEFENDER/ GTRT AT 0515 08Z QUOTE OCT 6 0601GMT POSIT
+2854NORIH 7828WEST CAPE CANAVERAL BEARING 256 TRUE BY 114 MILES
+SIGHTED OBJECT IN SKY PROCEEDING AT HIGH SPEED IN EAST BY NORTH,
+DIRECTION SURROUNDED BY REDDISH YELLOW HALO OR LIGHT BOTH GLOW
+AND OBJECT DISAPPEARED FROM SIGHT NEAR STAR RIGEL IN CONSTELLATION
+OR ORION ALI APPROX 28 WHEN SEARCHED FOR WITH GLASSES A FLASHING
+WHITE LIGHT WAS SEEN FOR A FEW SECONDS X MV DEFENDER COURSE 065
+NOTE :
+Advance copy delivered to CIN
+Corrected copy.
+Corrected portions underlined.
+CORRECTED COPY

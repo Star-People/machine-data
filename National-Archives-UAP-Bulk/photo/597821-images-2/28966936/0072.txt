@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T22:15:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7248407, "source_ctime_ns": 1793378142439036073, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966936/0072.jpg", "source_mtime_ns": 1785696780000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966936/0072.jpg", "source_sha256": "b8381365386fb0b5ca60488f5108d6d9b6514ea4dcbb02d03ed55489df854ba0"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 524, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+956
+3. DATE-TIME GROUP
+Local
+GMT
+5. PHOTOS
+O Yes
+a No
+7. LENGTH OF OBSERVATION
+BRIEF SUI
+OF SIGHTING
+ATIC FORM
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Richmond,
+4. TYPE OF OBSERVATION
+Ma Ground-Visuai
+• Air Visual
+6. SOURCE
+• Ground-Rodar
+D Air-Intercept Rodor
+8. NUMBER
+CTS
+9. COURSE
+12. CONCLUSIONS
+Was Bailoon
+Probably Baltoon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Wes Astronomical
+Probably Astronomica
+Possibly Astronomical
+Other
+à Insufficient Date for Evaluation
+Unknown
+11. COMMENTS
