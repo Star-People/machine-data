@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:47:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4281009, "source_ctime_ns": 1793374719739111903, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952888/0521.jpg", "source_mtime_ns": 1785696748000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952888/0521.jpg", "source_sha256": "83456360feafea1506c20cd1e443dad710ba47d65b09dc324c68ed48ecd5834a"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1076, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NATIONAL PARKS
+WITHIN LOS ANGELES SECTIONAL CHART
+DEATH VALLEY
+Tulare Lake .
+Searles Lak
+LAKE
+MEAD
+Barna Vista Lake
+Soda Lake
+PACIFIC OCEAN
+Los Angeias
+NATIONAL PARKS REGULATION. No person shall land aircraft on land or water, on any federally owned area
+within any national park or monument, except for emergency rescue in accordance with the directions of the officer
+in charge of the park or monument or where such landing is caused by unforeseeable circumstances beyond the
+control of such person, other than at one of the following designated landing areas: (a) Death Valley National
+Monument, California, Furnace Creek Airport; (b) Jackson Hole National Monument, Wyoming, Jackson Airport;
+and (e) Lake Mead Recreational Area Arizona and Nevada, Boulder City Municipal Field.
+CLOSED AIRPORT AND RUNWAY MARKER
+When you see a large " X" in the center of an airport, that airport is closed. Do not attemot a landing!
+When you see an" × " on a runway, that runway is closed and hazardous for use. Do not use it!
+TYPICAL INSTALLATIONS
+ENTIRE AIRPORT CLOSED
+ONE RUNWAY CLOSED

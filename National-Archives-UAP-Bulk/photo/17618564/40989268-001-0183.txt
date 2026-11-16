@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:12:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15582180, "source_ctime_ns": 1793355741992644092, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0183.jpg", "source_mtime_ns": 1785564514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0183.jpg", "source_sha256": "198bb5e8887d785476acccec3de33309d76c0c447357ed466921b059819808b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1078, "method": "ocr", "page": 1, "variant": "plain-vision"}
+353
+XXX. Balloons for the Scientific Explortion
+of Mars
+S. M. Greenfield and M. H. Davis
+The Rand Corporation
+Santa Monica, California
+1. INTRODUCTION
+The previous paper examined balloons as physical systems in a planetary
+atmosphere, and derived methods of assessing their feasibility. In this paper we
+shall attempt to answer the questions ofhow balloons can contribute to the explora-
+tion of a planet like Mars, and how their derived capability translates into a
+scientific utility.
+In considering the usefulness of balloons for studying a planet, three modes in
+which such a vehicle can operate should be recognized. Each mode has its own
+utility.
+The three modes of operation are:
+(a) The balloon used as a sensor. (The desired data are obtained by tracking the
+balloon itself and recording the motion.)
+(b) The balloon used as a platform. (The balloon supports instruments, which
+perform the measurements.)
+(c) The balloon used as a conveyance. (The balloon moves an object from one
+point to another.)
+For each of these modes we can derive a possible set of experiments.

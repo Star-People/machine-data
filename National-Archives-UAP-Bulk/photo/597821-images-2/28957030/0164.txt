@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:45:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4002386, "source_ctime_ns": 1793375621025456944, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957030/0164.jpg", "source_mtime_ns": 1785696978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957030/0164.jpg", "source_sha256": "c031cc67d284b29cc3cddbca15e518e22a7b06d362cb42b31cce1e0515a73119"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 449, "method": "ocr", "page": 1, "variant": "plain-vision"}
+#YC173
+1953 DEC
+IA 127
+JOELN
+240
+PP JAD
+JEDWP JEP:
+JWERO 555
+DA
+P 0420301
+CONDR
+TO JED!
+/COMDE AIR
+CE COMD E
+AFS COLO
+JEPHO/DIR OF INTEL HO USAF WASH 25 DC
+JEDMP/COMDR WRIGHT-PATTERSON AFD OHIO
+JWEGO/COMDR FTAF WACO TEX
+JEDST/COMDR ATRC SCOTT AFB ILL
+ED 140N.
+UFOS/ANSUERS LISTED BELO: TAKEN FROM AFR 290-2, DTD 26 AUGIST 1955.
+1•A CARNOWN, LINE A BRIET LISH
+•E HALF DOLLAR
+..C LIXE A REFLECTION
+10 5)
+1•S ALTERNATING ARNG
+1.F NONE
+1.C NONE
+1. HONE

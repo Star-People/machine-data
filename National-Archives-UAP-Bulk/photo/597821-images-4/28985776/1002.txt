@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:49:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4633364, "source_ctime_ns": 1793382887187123138, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985776/1002.jpg", "source_mtime_ns": 1785748282000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985776/1002.jpg", "source_sha256": "9d7c7f8c5dd74472092dbf2f47e7361087fa929fece3f89d742746c5067b277c"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 562, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO ROUTING SLIP
+NAME OR TITLE
+Chief,
+AFOIN 1B1
+ORGANIZATION AND LOCATION
+Room 204, Pentagon Annex #3
+Attn:
+Capt. C.B. Copes.
+NEVER USE FOR APPROVALS, DISAPPROVALS.
+CONCURRENCES, OR SIMILAR ACTIONS
+INITIALS
+CIRCULATE
+DATE
+COORDINATION
+FILE
+INFORMATION
+NECESSARY
+ACTION
+IOTE ANI
+RETURI
+SEE ME
+SIGNATURE
+REMARKS
+Forwarded as a matter pertaining to your office.
+FROM NAME OR TITLE
+James H. Mix,
+ORGANIZATION AND LOCATION
+Investigations Braach, CACSI
+DD 1 FEa SO 95 FoR 12, 10MAY
+AGO Form 895,
+I Apr 48, and AFHC
+DATE
+1. Nar 60
+TELEPHONE
+77633
+c48--18--74067-2
+GPO

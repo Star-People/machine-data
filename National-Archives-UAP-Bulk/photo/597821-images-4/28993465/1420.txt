@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:46:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4082361, "source_ctime_ns": 1793385482296793628, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993465/1420.jpg", "source_mtime_ns": 1785748138000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993465/1420.jpg", "source_sha256": "1ba06bea8ff14a677aaf85ea59acc916481ee4c10434ec6bd22943f4fe9a7845"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 739, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3. DATE-TIME GROUP
+Local _
+CMT.
+S. PHOTOS
+• Yes
+& No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+LOCATION
+mi W of Las Vegas, Revao
+TYPE OF OBSERVATION
+E Ground-Visual
+• Air-Visual
+• Ground-Roder
+D Air-Intercept Radar
+&. SOURCE
+vilian
+3. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomica
+D
+Possibly Astronomica
+Other
+Insufficient Data for Evaluation
+Unknown
+0. BRIEF SUMMAR
+Y OF SIGHTING Wit
+In S in autos rear vi
+and above ver
+above mount
+obje
+opped,
+escended.
+ONLY A
+apparently str
+objEs 111. COMMENTS
+Dr. 0šŘŚ
+while drivi
+long mountain road. PL
+behind I
+ne piane
+che
+ATIC FORM 329 (REY 25
+SEP 52)
+ind

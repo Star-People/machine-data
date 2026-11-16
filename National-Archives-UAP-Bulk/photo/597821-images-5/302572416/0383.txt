@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:38:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1747365, "source_ctime_ns": 1793392950401936467, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572416/0383.jp2", "source_mtime_ns": 1785808364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572416/0383.jp2", "source_sha256": "0aeeeb82494814f29610cfe547a5cf7e76d7955ba60718b8dbb18531bf83fa9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 593, "method": "ocr", "page": 1, "variant": "plain-vision"}
+6 Nov. 167
+MEMO FOR THE RECORD
+5 April 1968
+Subj: UFO Observation, 8 November 1967
+Major uintanilla spoke with Captain Cunningham with regards to an
+unidentified observation of 8 November 1967.
+Major.
+' Quintanilla
+informed Captain Cunningham that a discrepancy report had been prepared
+by the University of Colorado with regards to an unidentified observation
+of 3 November 1967 by a pilot. Captain Cunningham said yes there had been
+a mix up in the report, however, he would attempt to contact the pilot
+and send the Univ of Colorado a report and Major Quintanilla a report
+on the sighting.

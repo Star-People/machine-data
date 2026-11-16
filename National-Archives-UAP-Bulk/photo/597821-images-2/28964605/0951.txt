@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:43:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3843130, "source_ctime_ns": 1793377617685325413, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964605/0951.jpg", "source_mtime_ns": 1785697006000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964605/0951.jpg", "source_sha256": "7a70d88f0c8b0356f29ad1244079c3bb8f13d43e2aaddca33d2b7c723a278cda"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 873, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+18 January 1956
+3. DATE-TIME GROUP
+Local
+GM T
+19/0442Z (N)
+5. PHOTOS
+Elmendorf, AFB, Alaska
+| 4. TYPE OF OBSERVATION
+A Ground- Visual
+• Air- Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+*XNo
+7. LENGTH OF OBSERVATION
+Military
+8. NUMBER OF OBJECTS
+9. COURSE
+2-3 seconds
+one
+BRIEF SUMMARY OF SIGHTING
+could be son at ed of si. Size of
+1/2 dollar. Color--orange yellow to
+white. Exhaust 2-3 times as long as
+diameter--flight level to horizon.
+Same type of sighting occured 18 Jan
+56 1800Z except flight was W to E.
+E to W
+COMMENTS
+Meteor sighting.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+. Possibly Aircraft
+•
+Was Astronomical Meteor
+Probably Astronomical
+EX Possibly Astronomical
+Other_
+•
+Insufficient Data for Evaluation
+Unk no wn
+ATIC FORM 329 (REV 26 SEP 52)

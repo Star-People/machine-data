@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:38:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1758814, "source_ctime_ns": 1793392867866257893, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302571842/0297.jp2", "source_mtime_ns": 1785808166000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302571842/0297.jp2", "source_sha256": "506dafc446776b128ef5fc52c152a6623e3dc6bf68db063255a1cda1e39b362a"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 473, "method": "ocr", "page": 1, "variant": "plain-vision"}
+4 Nor.
+Martle Base h
+NOV 8 1967
+TDET/UFO
+UrO Observation, 4 November 1967
+4 %wenter
+Carrboro, N.
+27510
+Reference your unidentified observation. The information which
+we have received is not sufficient for a scientific investigatio,
+Request you complete the attached FTD Form 164 and return it in th
+envelope provided. Thank you for reporting your observation to the
+Air Force.
+MOS C. MANATT, Colonel, USAF
+rector of Technology and Subsystems
+1 Atch
+FTD Form 164 w/envelon*

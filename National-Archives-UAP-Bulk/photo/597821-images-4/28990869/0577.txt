@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:02:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7899302, "source_ctime_ns": 1793384696361120829, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990869/0577.jpg", "source_mtime_ns": 1785748023000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990869/0577.jpg", "source_sha256": "1aee9dc3080ef391da5c5e069d92f4187940258116e0812a64819683774d9fe7"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 455, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 41263 (10 Jan 61)
+Page 2 of 2
+UNCLAS
+CINCLANTFLT INST 03360.2C LOCATING 1
+1. UNIDENTIFIED AIRBORNE OBJECT
+2. LAT 1948N LONG 7340W
+3. 1017442
+4. COURSE 175 SPEED 3960 KTS RPT 3960 KTS
+5. RADAR
+6. ALTITUDE UNKNOWN
+7. RADAR SPS 12 TRACK FOR ABOVE ONE MINUTE
+BT
+CFN 03360.2C 1948N 7340W 101744Z 175 3960 3960 12
+10/ 1859Z
+NOTE : Advance copies delivered to CIN & OOP-CP

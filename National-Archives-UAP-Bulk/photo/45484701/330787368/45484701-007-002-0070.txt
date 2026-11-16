@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:05:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8948409, "source_ctime_ns": 1793364584939464132, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0070.jpg", "source_mtime_ns": 1785685196000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0070.jpg", "source_sha256": "e2310044238e54029c7b8eb7ceebdbff48db7f808962421006629fd7bd2541c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 259, "method": "ocr", "page": 1, "variant": "clean-vision"}
+ВОЛОЇ ВІД ЗНІ ПО ТИЗИТВАЧНО
+ЗОКОН ВА ЕВТАТО ОТТИИ ВЯЗТЛАЦОЛАНН
+ТИСТФМІНЕАУ
+EMOITADI
+ІЯТ21О А181
+CaRIe
+JOMU
+ache:zil
+HARU JEO MUN A TE
+BA VOLHOELA OR
+СРаЗСулОк СУм
+ete 030 a
+ISBLAON
+ISO
+ĐT 03 1037
+SELAON
+1961 AON
+(+0 80)
+Declassification Authority: NND 923007

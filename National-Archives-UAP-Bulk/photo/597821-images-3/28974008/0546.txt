@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:06:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9064987, "source_ctime_ns": 1793379982506831199, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974008/0546.jpg", "source_mtime_ns": 1785700921000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974008/0546.jpg", "source_sha256": "940d6a9b8f36170f349bd63ba0c6e86acd5de3776e90e75ab1586efb566bd369"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 695, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+6 November 1957
+3. DATE-TIME GROUP
+Local.
+GM T
+07/0720Z
+5. PHOTOS
+• Yes
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Long Beach, California
+TYPE OF OBSERVATION
+XA Ground Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Rodor
+6. SOURCE
+Givilian
+NUMBER OF OBJECTS
+not
+given
+two
+10. BRIEF SUMMARY OF SIGHTING
+Two bright lights, size of a quarter,
+bluish yellow
+approximately
+dgrs spart, flickering & flying to
+gether.
+9. COURSE
+Fast
+11. COMMENTS
+12. CONCLUSIONS
+Possibly Balloo
+IXProbably
+las Airer Aireraf
+•
+Possibly Aireraft
+Was Astronomical
+Probably Astronomica
+Possibly Astronomico
+Insufficient Dete for Evaluation
+Unknown
+Probably A/C.
+TIC FORM 329 (REV 26 SEP 52)

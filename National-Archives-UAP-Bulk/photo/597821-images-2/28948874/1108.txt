@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:43:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3731681, "source_ctime_ns": 1793373828665607357, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948874/1108.jpg", "source_mtime_ns": 1785696875000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948874/1108.jpg", "source_sha256": "f9826ec60cdc7a6b50cbe502f5a106ac9a5c39137e0698b56a8ecbab21d66c75"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 425, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+52
+DATE-TIME GROUP
+1730 PDE
+PHOT
+PROJECT 10073 RECORD CARD
+LOCATION
+Hilleborough, CaliFornia
+4. TYPE OF OBSERVATION
+* Ground- Visual
+• Ground• Rader
+O Air Visua
+SOURCE
+CONCLUSIONS
+ras Salison
+Probably Bale
+ssibly Bellos
+1 ar
+ras Astronor
+C Yes
+I No
+LENGTH OF OBSERVATION
+1 minute
+BRIEF SUMMARY OF SIGHTING
+Start and stop intermittently.
+Civilian Couple
+NUMBER OF
+OBJECT
+2
+• Data f
+COMMENTS
+ATIC FORM 329 (REV 26 SEP 52)

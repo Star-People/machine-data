@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:44:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3965910, "source_ctime_ns": 1793385145133549952, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991993/0100.jpg", "source_mtime_ns": 1785748104000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991993/0100.jpg", "source_sha256": "79b96ebe737b7909c4d2156696e3b4f8a901e20c10827ca07a0a6f20b2d3031e"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 1032, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+ASSIFIED MESSAGE
+AFIN :
+ACTION:
+725141 Apr 61) NO MIN G
+NNNNINFO : OOP-2, OOP_CP-11, DSD-4, SAFS-3 (25)
+SMB C 154
+ZCZCHQA879ZCQJB4 42
+PP RJEZHQ
+DE RJWZSBA 6
+ZNR
+fend
+18 .
+ATIC AFB
+COlT
+Altu.
+FaizNd
+P 011215Z
+FM 552ND AEW C WING MCCLELLAN AFB CALIF
+TO RJWFAL/ADC ENT AFB COLO
+RJWZSB/28TH AIR DIV HAMILTON AFB CALIF
+RJEDSQ/ATIC WRIGHT PATTERSON AFB OHIO
+RJEZHQ/COFS WASHINGTON DSC
+RJEZHQ/OSAF WASHINGTON DC
+RJEDS/ COSMATIC WRIGHT PATTERSON AFB OHIO
+RJEZBF/PROJECT SPACE TRACK L G HANSCOM FLD BEDFORD MASS
+AF GRNC
+BT
+/UNCLAS/520IN 0646.
+FOR COFS PASS TO AFCIN AND AFCIN-1B1. FOR OSAF PASS TO SAFIS.
+FOR COSMATIC PASS TO AFCIN-4A. THE FOLLOWING POSSIBLE MOON DUST
+REPORT IS SUBMITTED IN AFR 200-2 FORMAT. THIS IS AN AMPLI-
+FICATION OF A PREVIOUS AIRBORNE REPORT SUBMITTED BY AIRCRAFT
+ETHAN 29.
+A. 1. ROUND 2. PEA 3. WHITE TO GREEN TO RED 4. ONE 5. NA
+6. THROUGH 9. NONE
+B. 1. BRIGHINESS 2. 20 DEGREES ABOVE HORIZON DIRECTLY AHEAD.
+3. Ø5 DEGREES ABOVE HORIZON DIRECTLY AHEAD OF NOSE OF

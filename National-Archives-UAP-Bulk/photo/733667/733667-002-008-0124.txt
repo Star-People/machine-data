@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:28:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 752735, "source_ctime_ns": 1793394373334816497, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0124.jpg", "source_mtime_ns": 1785567361000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0124.jpg", "source_sha256": "a8b252fd39c4d436a1a0daa79cab374609f84183258b04ed72be9770a11697e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 382, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Fęb. 26th
+Dear Sirs,
+Members of my math class at Overbrook
+High School are interested in the UFO
+report (see enclosed). We would like for
+you to send us whatever materials you
+can that are free (under the $5 limit).
+Also, we are curious as to whether or not
+we will get any response at all to this
+request. So,.. •please do your best!
+Thanks,
+David Van Horn
+(address on reverse...)

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:33:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1368455, "source_ctime_ns": 1793356036829822904, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0167.jpg", "source_mtime_ns": 1785564589000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0167.jpg", "source_sha256": "7699f59ea52228dc8a18daacca43f8b465d934b1663681c16054ef145c6bc040"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1066, "method": "ocr", "page": 1, "variant": "plain-vision"}
+F. Radar and Optical Tracking
+=222S
+Because of their limited range, ground radar sets and theodolites
+were only of minor value in tracking balloons. Sets such as the
+SCR-584, the SPW-1, and MPS-6 are suggested when the balloon is
+VI. INSTRUMENTATION
+A. Altitude Determination
+To provide accurate, sensitive and readable records of the pressure
+(altitude) encountered by the balloon, various systems have been
+tried. A modified radiosonde-type aneroid pressure capsule (Signal
+Corps ML 310-/) has been the basic sensing element, but three
+different systems of modulation of the radio signal as a function
+(1) Standard Diamond-Hinman Radiosonde Pressure Modulator
+Seen in Figure 29, the standard Diamond-Hinman radiosonde system
+provided first pressure sensor used. As the pen arm is pushed
+ENTS FOR HUMIDITY
+HIGH REFERENCE CIR
+COMMUTATOR
+SSURE
+SULE
+LUO PAMEL
+VET
+м- 1,000 Д
+Figure 29. Schematic diagram, Diamond-Hinman
+radiosonde system.
+across the commutator by the aneroid capsule, it falls on
+alternating insulators and conductors attached to three circuits.
+-67-

@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:56:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6703598, "source_ctime_ns": 1793362866073465156, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0166.jpg", "source_mtime_ns": 1785685066000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0166.jpg", "source_sha256": "6d6a7fc5815300e7cfae5036abe0e1d047cc5ddf5a818c32259037fc54773d19"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 976, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+LIM/GRB/vbk
+THE INSPECTOR GENERAL, USAF
+IST DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WESTOVER AIR FORCE BASE, MASSACHUSETTS
+23 January 1950
+ID-OSI 24-0-97
+SUBJECT: Report of Unconventional Aircraft
+TO:
+Director of Special Investigations
+Headquarters, USAF
+Washington 25, D. C.
+1. Inclosed for your information and any action deemed
+appropriate is a personal letter addressed to Captain FRANK J. BUSH,
+Provost Marshal, 3160th Electronics Station, Cambridge, ass., dated
+23 December 1949. On 9 January 1950, BUSH turned the letter over to
+OSI for appropriate disposition,
+2.
+Attention is invited to fact that Captain BUSH advised
+that he did not know the writer of the letter, but that his home
+was approximately 20 or 30 miles from the home of the sender.
+L. L. MARTIN
+Colonel, USAF
+District Commander
+Operial
+Incl:
+Cited above
+JAN
+- 8
+4 35 PM '50
+UNCLASSIFIED
+Declassification Authority: NND 923007

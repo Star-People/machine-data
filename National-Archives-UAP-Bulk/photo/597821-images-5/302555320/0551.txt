@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:36:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1691535, "source_ctime_ns": 1793391070533097917, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555320/0551.jp2", "source_mtime_ns": 1785808119000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555320/0551.jp2", "source_sha256": "e25e2de8df01a7a3d71102a8f827e72d360ad746085acadd17eb048a0e7e5724"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1265, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Proposed reply to letter from
+Dear
+Reference your recent correspondence regarding your
+observation and subsequent photograph of an unidentified
+flying object.
+Examination of the submitted negative has negated
+double exposure and/or retouching. Close inspection of the
+negative revealed many smaller images in addition to the
+bright image which is visible on the prints. These smaller
+images appear to follow a course parallel to the path
+of the bright image indicating that the camera was moved
+rather than the images moving as the photograph was taken.
+Notation should be made of the fact that the images are located
+in the trailer section of the film and not in a normal frame
+position. Without specific details, there is no way to determine
+what produced the images.
+The description of the visual observation is consistent
+with that of an aircraft sighting. Jet aircraft operating at
+altitudes above 20,000 to 25,000 feet can be easily observed;
+however, unless proper conditions prevail, they cannot be
+heard. Lack of sound is not a valid reason to exclude an
+aircraft. After detailed investigation, it appears an
+aircraft could have been responsible for the sighting although
+it was not photographed.
+Thank you for reporting your observation to the Air Force.

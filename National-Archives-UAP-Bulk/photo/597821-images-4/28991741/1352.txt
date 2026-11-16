@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:04:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8259609, "source_ctime_ns": 1793385066930218582, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991741/1352.jpg", "source_mtime_ns": 1785747905000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991741/1352.jpg", "source_sha256": "99fff4af1acbaba8e5a1c70aa60f89836cb2feccdea9d22f394ac10ab356f4eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 469, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJWZGS 8A
+H• N/A
+I• APPEARED STATIONARY RELATIVE INTESITY OF LIGHT REMAINED UNIFORM
+UNTIL DISAPPEARANCE•
+2. A. NORMAL LOOKOUT
+B. LEVEL
+C. ON 14 OR 120N - 2 0' CLOCK
+D. APPEARED STATIONARY
+E• INSTANTANEOUSLY
+F• SEVEN MINUTES•
+E. A. AIRBORN VISUAL AND RADAR
+B. NO AIDS
+C. T-33 AIRCRAFT NO. 29549 MCCHORD 33,002 FT
+260 DEGREES MC
+210 K INDICATED
+4. A. 0548 ZULU
+4 MARCH 1961
+B. NIGHT
+5. 12NM NORTH OF EPHRATA VOR
+6• A• N/A
+B. MILLAR G/C, RCAF
+DEEN, CAPTAIN, USAF

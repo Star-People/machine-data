@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:44:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3923556, "source_ctime_ns": 1793373889654573417, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949157/1378.jpg", "source_mtime_ns": 1785696731000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949157/1378.jpg", "source_sha256": "0abb8ee9c1908549cbe442d55a9623d075a97a051247e8457a43cc52f916c215"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 753, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IV. BALLOON DATA
+21. WERE BALLOONS RELEASED IN AREA?
+TIME SINCE
+SCHEDULED BACIOON TELEASE:
+23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+Dies
+50 Minutes
+Location
+a .
+b.
+Dol
+AF3
+Typa
+RA
+RA
+Launch
+1g Agoncy
+B.
+SMS
+C.
+d.
+Iighted?
+Yea
+No
+Doscribe
+Highting
+21. EVALUATION OF SOURCE:
+C Excellent
+El Good
+_ Fair
+_ Poor
+] Unreliable
+Extremely Doubtful
+] Hoax
+23. FINAL EVALUATION:
+CJ Was Balloon
+[Probably Balloon
+CJ Possibly Balloon
+]Was Aircraft
+]Probably Aircraft
+Possibly Aircraft
+(attach overlay)
+V. EVALUATION
+22, DETAILS OF REPORT:
+Good
+1 Fair
+I Poor
+1 Inaufficient to Evaluata
+] Was Astronomical
+_ Probably Astronomical
+_ Posalbly Astronomical
+_ Other:
+_ Insufficient Data For Evaluation
+- Unknown
+24. COMMENTS:
+ATTC Teat Form 33h (13 Aug 52)

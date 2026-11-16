@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:48:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4511977, "source_ctime_ns": 1793376470449143395, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960846/0722.jpg", "source_mtime_ns": 1785696656000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960846/0722.jpg", "source_sha256": "970895ccf44b158ec86f9af0bf322b576db16741a1cc278c3cc2cdd10b00c3f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1185, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DECNS/COMDR ENT AFE COLORADO SPRINGS COLO
+INFO JEPNY/COMDR 26TH AIR DIV DEFENSE ROSLYN NY
+JEDMP/COMDR AIR
+CCH INTEL GEN
+PATTERSON AFE OHIO
+JEPHO/DIR OF
+INTEL USAF WASH DC
+AF CRNC
+FROM
+NI1-2-E
+UFOB (1) (A) RND (B) ABT 10 FT DIAM (C) BLUISH GREEN AND RED FLAME
+SPARKS FLYING (D) ONE (E) N/A (F) BLUISH HULL (G) LIKE GYRO
+WHEEL RED AND WHITE APARKS (H) NEGATIVE (I) NEGATIVE (2) (A)
+OBSR GLANCING SKYWARD WHEN NOTICED OBJECT (B) APRX 45 DEG APPROACHING
+FROM SW (C) APRX 45
+(F) 30 TO 45 SECONDS (3) (A) GND-VIS (B) NEGATIVE (C) NA (4) (A)
+2331 1IJAN 55 (B) DUSK (5) ARMSTRONG AVE JERSEY CITY NJ OBSR FACING
+WEST OBJECT COMING FR DIRECTION NEVARK APRT (S) (AM
+SEY CITY NJ TP COMMS INSTALLER NYC (B) NA
+(7) (A) CLEAR CLOUDLESS
+SKY VIS GOOD (B) NEWARK APRT WB REPT CLEAR
+SKIES VIS 12 MILES TEMPERATURE 34 DEG WINDS NORTH 14 MPH (C) UNLIMITED
+(D) GOOD (E) CLEAR (F) NEGATIVE (S) NEGATIVE (9) N/A (18) AIR LINER
+HEADING TOWARDS NEWARK 4 MINUTES PRIOR TO SIGHTING (11) PM POSSIBLE
+CAUSE OF SIGHTING UNKNOWN HOWEVER ART 12 JAN 55 JERSEY JOURNAL
+REPTS DUMP FIRE AT TIME OF SIGHTING WHICH WAS MADE LOOKING OVER
+SMOKESTACKS METRO CLASS WKS WEST SIDE AVE JERSEY CITY (12) NEGATIVE
+14/2128Z JAN JEPRB

@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:00:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7698438, "source_ctime_ns": 1793363632305357888, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0011.jpg", "source_mtime_ns": 1785684979000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0011.jpg", "source_sha256": "859bcf3aab5fba5c4f988e5c2fe4e9eb2d5e27c38c1279cb93bde2b625488237"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 650, "method": "ocr", "page": 1, "variant": "plain-vision"}
+8. Weather and Winds - Aloft Conditions at Time and Place of Sightings:
+1.
+Observer could not ascertain conditions as to cloud cover,
+ceiling, or temperature at time of sighting, but described
+the night as dry and good visibility.
+He recalled that the
+sky had been clear during daylight hours.
+2. Because of time lapse since reported sighting, no additional
+weather conditions were determined from official sources by
+this office.
+h. Information received by Special Agent JAMES P. STODDARD III,
+District Office Nr 24, Chicago, Illinois.
+ERNEST J. BOUCHER
+It Colonel, USAF
+Commander
+Copy to:
+Dir OSI
+ILER DIA
+OV
+Declassification Authority: NND 923007

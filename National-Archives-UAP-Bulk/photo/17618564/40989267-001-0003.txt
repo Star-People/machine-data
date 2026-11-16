@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:09:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12100458, "source_ctime_ns": 1793355422299829628, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0003.jpg", "source_mtime_ns": 1785564452000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0003.jpg", "source_sha256": "eff3361ccf3a71ab873098f5efc720b41e4e4db7e8be16c067d9ffb5a12679e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 893, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Abstract
+Sixteen of the twenty papers presented at the Symposium are herein published.
+They provide a reasonable balance between balloon-borne experiments and recent
+developments of balloon technology. Balloon technology presentations include plas-
+tic balloon capabilities, both in-being and projected, current shape studies for new
+designs, a survey of sensing elements for the balloon environment, and the develop-
+ment of a new heavy load balloon material. Two balloon astronomy programs and
+related stabilization systems are presented, as is the case for manned balloon
+astronomy. Other scientific applications of balloons include atmospheric optics
+and atmospheric sampling programs, jet stabilization of a balloon gondola, and the
+ROBIN and ROSE balloon systems. Other types of balloons discussed are tethered
+balloons, hot air balloons, and the neoprene vertical sounding balloon.
+¡ii

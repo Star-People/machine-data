@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:35:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1662956, "source_ctime_ns": 1793389582498374909, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542013/0814.jp2", "source_mtime_ns": 1785808177000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542013/0814.jp2", "source_sha256": "2f3aaebcb1cf4de10af866ba72f116378b7dda962c1e067c7144d5ad66e2261f"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 505, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE • TIME GROUP
+5 August 1965 06/03302
+SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+Not Reported
+- TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+Westerly
+8. PHOTOS
+П Yes
+9. PHYSICAL EVIDENCE
+• Yes
+LES NO
+FORM
+FTD SEP 63 0-329 (TDE)
+2. LOCATION
+Greengbura, Pennsylvania
+(1) Witnass
+10. CONCLUSION
+A/C
+No data presented to indicate that an A/C could not have caused
+the sightinge
+11. BRIEF SUMMARY AND ANALYSIS
+See Case of 13 August by same witness for details.
+used.

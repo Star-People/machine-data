@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-15T23:42:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3613837, "source_ctime_ns": 1793371370503208577, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937938/0690.jpg", "source_mtime_ns": 1785688730000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937938/0690.jpg", "source_sha256": "cdf6bd382c299bd0de54ff0e8cb192e5f7770f0068717169dc21e4525cd60998"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 550, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/UNCLASSIFIED
+A sories of fairly acourate radio fixes were obtained which showed
+the airoraft at the following positions:
+1940 CST - 26°50° N
+86°05'W
+1944 CST - 27°05°N
+65°560 W
+(Turned to heading of 326")
+2000 CST - 27°30°N
+86°40°1
+A series of visual bearinge taken on the light trail during this
+period shored it to be over the riciaity of 28°45"N, 89045'W."
+let Lt., USAF
+Navigator
+LEWIS L. HOWES
+Ist Lt., USAF
+Intelligence Officer
+ao - OCAMA Int Division
+DOWNGRADED AT 3 YEAR INTERVALS:
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+UNCLASSIFIED®

@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T00:04:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8444331, "source_ctime_ns": 1793385923075178813, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994413/0822.jpg", "source_mtime_ns": 1785747974000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994413/0822.jpg", "source_sha256": "1f53559e5f659e01d77da8b4b4f20d6dfba067fe640fbf4c7d326100a86f9ea9"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 935, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3 Sep 61
+3. DATE-TIME GROUP
+Local
+GM T.
+04/07342
+5.
+PHOTOS
+• Yos
+XI No
+7. LENGTH OF OBSERVATION
+4 min
+10. BRIEF SUMMARY OF SIGHTING 1 white Objt size
+and
+brightness 1st mag star observed at 195° az
+heading NE. Desappeared over horizon at 175°
+az after 4 min flight. Observation with Bx.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+34.47N
+166.19W (PACIFIC
+4. TYPE OF OBSERVATION
+XY Ground Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+5. SOURCE
+Military
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraf
+•
+•
+•
+Possibly
+Aireral
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Satellite
+Insufficient Date for Evaluetion
+NE
+11. COMMENTsObservation had characteristics
+satellite observation. Not confirmed with
+Satellite data however,
+there is no con-
+flicting data and case is evaluated as
+Satellite Sighting.
+of
+ATIC FORM 329 (RE)
