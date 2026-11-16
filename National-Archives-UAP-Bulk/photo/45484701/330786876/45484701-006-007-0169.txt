@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:05:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9710131, "source_ctime_ns": 1793364372696232364, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0169.jpg", "source_mtime_ns": 1785685114000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0169.jpg", "source_sha256": "03a8e0919012c6c590d9f73944c34b088472f11644015ea9efeab162a26d7989"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 131, "method": "ocr", "page": 1, "variant": "clean-vision"}
+ЛИСГVa2IŁIED
+AUL ARIU ART TO TIMBUVA Ya
+ОГУЗІЫСУМОЙ СУСЕГГЕ #О
+ater o30 a
+-83
+NIC
+NERONA
+no
+Declassification Authority: NND 923007

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:47:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5253819, "source_ctime_ns": 1793378824945490231, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969431/0828.jpg", "source_mtime_ns": 1785701000000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969431/0828.jpg", "source_sha256": "a563fe75489f338d7408795bc309e4f6355786dff7a8d1f56036149ff4339eef"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 627, "method": "ocr", "page": 1, "variant": "plain-vision"}
+39/29332Řšź
+RJESKB/COMDR 35TK ADIV DOBBINS AFB GA
+RJEPNB/COMDR EADF STEWART AFB NEWBURGH NY
+RJEDWP/COMDR AIR TECH INTELL CEN WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIR OF INTELL HQ USAF WASHDC
+BT
+/UN C L A S S IF I E D/UFOB-702-135.
+(1) DESCRIPTION OF THE OBJECT
+(A) PEAR SHAPE
+(B) PEA
+alvi
+(C) WHITE
+(D) ONE (1) IN NUMBER
+(E) NEG
+(F) NEG
+(G) NEG
+(H) NEG
+(I) NEG
+€
+PAGE TWO RJESKB 1B
+(1) NEG
+(2) DESCRIPTION OF COURSE OF OBJECT
+(A) SUN,S REFLECTION
+(B) OVER HEAD
+(C) UNKNOWN
+(D) MOVING EAST NORTH EAST
+(E) DARKNESS SET IN
+(F) 51 MINUTES
+(3) MANNER OF OBSERVATION
+(A) GROUND VISUAL
+(B) NAKED EYE
+(C) NEG
+ZHI DATE AND TIME OE OTOUTTAC

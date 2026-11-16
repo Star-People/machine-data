@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:46:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5044600, "source_ctime_ns": 1793375148806111055, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954889/0914.jpg", "source_mtime_ns": 1785696674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954889/0914.jpg", "source_sha256": "51d284cb01429875ad0bf8f58b8840c09a80efcbe98dc81293196b8f431707cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 888, "method": "ocr", "page": 1, "variant": "plain-vision"}
+USA-HATS
+RNCLASSIFIED
+IR-360-53
+Unidentifled Plying Object Near Tillanook, Oregon 9 June 1953
+State of Cregon, USA
+Flight Service, KATS, 3300 Newark
+Street, No. To,
+Washington 25, D. Ci
+17 June 1953
+9 June 1953
+B-2
+2d
+BENJAMIN S. CATLIN, III, Captain, USAF
+Alfred
+Laurca
+23729 TAS, Cregor
+WOOi
+ToLSTYPE FLOBRPT 092010Z June 1953 suomitted by Mechord Flight Service Canter
+An unidentified object was reported by two USAP 2d Lieutenants stationed with the
+Hoby Dick balloon launching detaahment, Illanook NAS. The object was viewed through
+a Theodolite and appeared as halfmoon in shape and white colored. It appeared to
+hover and no mamer of propulaion was observed.
+No manner of disappearance was reported.
+BENJAMIN S. CATLIN
+Captain, USAP
+Intelligence Officer
+DOWNGRADED AT 3 YEA
+DECLASSIFIEI
+AFTER 12
+DOD DIR 5200.10
+Chief, Air Teernical Intellizence Center, ATTH: ATTA 2e
+UNCLASSIFIED

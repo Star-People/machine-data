@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:40:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3564242, "source_ctime_ns": 1793359490887292783, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-046-0008.tif", "source_mtime_ns": 1785681429000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-046-0008.tif", "source_sha256": "acafa921e69c26776cad728a6abf117900d549edb99151b6fa8f6fa979125881"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1075, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+COMDR 4602 AISS, ENT AFB, COLORADO
+OIC FLT 1-C, NORTON AFB, CALIPORNTA
+19/2030Z SEP 56
+ROUTINE
+UNCLASSIF TED
+/UNCLAS/ ATSOC
+PD THE FOLLOWING IS AN INFORMATION COPY OF
+UFOB SIGHTING OVER STOCKTON CALIFORNIA PD
+(1) (A) SHAPE OF A STAR (ROUND) PD- (1) (B) HEAD OF A PIN AT ARM'S LENGTH PD
+(1) (C) SAME AS STAR PD (1) (D) ONE PD
+(1) (E) N/A PD (1) (F) LOOKED LIKE
+A STAR PD (1) (G) NONE PD (1) (H) NONE PD (1) (I) NONE PD (2) (A) NOTICED
+FROM AIRCRAFT PD (2) (B) 045 DEGREES PD ABOTE 9,000 FEET PD (2) (C) DIRECTLY
+OVER STOCKTON HEADING EAST AT HIGH RATE OF SPEED PD (2) (D) N/A PD (2) (E)
+FADE OUT PD (2) (F) ONE MINUTE PD
+(3) (A) AIR-VISUAL PD (3) (B) NONE PD
+(3) (C) DC-1 COM 9,000 FEET CMM UNITED AIRLINES FLIGHTS
+PD (4) (A) 14/0534Z
+SEP 56PD (4) (B) NIGHT PD (5) SANTA BARBARA NORTH TO SAN FRANCISCO, CALIF PD
+(6) (A)
+CMM WOODLAND HILLS CMM
+CALIFORNIA PD AGE 38 CMM AIRLINES CAPTAIN CMM UNITED AIRLINES PD (6) (B) NONE PD
+JOSEPHSA. MACHYCEȘXY, 2nd It., USAF
+ATSOC
+4542
+UNCLASSIFIED
+1
+CHARLES W. GODSEY, Captain, USAF
+Assistant Adjutant

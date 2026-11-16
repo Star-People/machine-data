@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:44:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4580790, "source_ctime_ns": 1793388270654074367, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000662/0928.jpg", "source_mtime_ns": 1785748020000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000662/0928.jpg", "source_sha256": "97be9981636f22e46eb3360536cb92b0e881b3eec3e9dc15dc373e40fa2c8c3a"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 445, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DSPARTMSNT OF THE AiR FORCE
+STAFF MOSSAGE BRANCH
+UNFOLAGAEEGO MEEGAGE
+INCOMING
+AF IN : 43594 (21 Apr 63)
+pg 2 of 2
+A. JANAP 146D
+1. CIRVIS REPORT
+2. BARRIER AIRCRAFT N43201
+3. UFO BRIGHT LIGHT HIGH ALTITUDE
+4. 42 20N 173W
+5. 2113132
+S. HIGH ALTITUDE
+7. COURSE UNKNOWN
+3. SPEED UNKNOWN
+9. REPORTING AIRCRAFT HELD RADAR CONTACT SAME POSIT
+SAME TIME GLIMPSE ONLY
+REPORTED TO CINCMORAD AS UNKNOWN CONTACT
+21/14122
+NOTE:
+ADV CYS TO NIN, DIA, & XOPX.

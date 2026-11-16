@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:37:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1762776, "source_ctime_ns": 1793388688865810881, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531088/0873.jp2", "source_mtime_ns": 1785808152000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531088/0873.jp2", "source_sha256": "e6eb430bc106ba5dc236cf38fbb818302295f1f0c8fe5c7970db618a9abf4b96"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 1120, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+21 November 1963
+DATE-TIME GROUP
+Local.
+GM T
+21/23557
+5. PHOTOS
+2. LOCATION
+West Wyack, New York
+TYPE OF OBSERYATION
+g Gmund-Visual
+• Air Vimoi
+L SOURCE
+• Ground- Rador
+• Air-Intercept Radar
+• YO
+xI No
+7. LENGTH OF OBSERY ATION
+A NUMBE
+NUMBER OF OBJECTS
+saconds
+13. SREEF SUMMARY OF SIGHTING
+one
+Object appearing as a solid observed in
+fog, mist or raing. Sharply outlined. Dis-
+appeared behind trees. Red. No sound. Oval
+shape. Estimated distance to obj 6-7 miles.
+Eatimated speed 500 uph. Obj passed through c
+90 deg arc in 5 seconds. Elevation about
+30 deg. Straightlevel flight.
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Meteor
+Probabiy Astronomical
+Possibly Astronomicol
+o
+Other.
+Insufficient Data for Evaluation
+Unknown
+West
+11. COMMENTS
+Errors in distance, duration, speed
+or altitude. Assuming arc distance
+traveled in 5 seconds to be correct
+and discountng the visibility
+onditions reported the case is given
+an evaluation as possible meteor
+ighting.
+АТІС РОЯМ 379 (ЯКУ 26 ЗЕР 52)

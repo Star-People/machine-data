@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-7d6defa6cfe7a959e1376628",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-f4ff9965f3cff37d5f2e0733",
           "segment_index": 3,
           "source_segment_id": "seg-f4ff9965f3cff37d5f2e0733",
           "source_text_sha256": "c708fef64589ad6d74a18b3e6880242802b1f650c24085111aa22d2a266a41b3",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Lorraine",
           "translation_text_sha256": "f72e8a1624c663045d06f4de0cd4dc6b72d95c386da81c6230f2819c5fa2e548"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-7d6defa6cfe7a959e1376628",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-f1a7f3cd200c5489e228a830",
           "segment_index": 4,
           "source_segment_id": "seg-f1a7f3cd200c5489e228a830",
           "source_text_sha256": "247f97fd45ac7b9d271cd1cfc74e54b75571180fc7b08fe69d34ea41bc8fb022",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Meuse",
           "translation_text_sha256": "21dc876b52636957bd908c6953d0a3f2d7ff0af67b662aa1ebdd35e0b27e9394"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-7d6defa6cfe7a959e1376628",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-f639d076a7fd31852229f332",
           "segment_index": 8,
           "source_segment_id": "seg-f639d076a7fd31852229f332",
           "source_text_sha256": "b7a0819b094f70134bfa0919b63057d671df854be5cf428816db1b8bbbddbce1",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 1061 (1976309139).pdf",
-          "translation_text_sha256": "7cd4130c6f87508db21ce33fe6204b43bc384d4ba10402eb9b95e488cf84ee05"
+          "status": "not-required",
+          "text": "Documents: PV n°1061 (1976309139).pdf",
+          "translation_text_sha256": "b7a0819b094f70134bfa0919b63057d671df854be5cf428816db1b8bbbddbce1"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-7d6defa6cfe7a959e1376628",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-986395106945f308d1eb6954",
           "segment_index": 9,
           "source_segment_id": "seg-986395106945f308d1eb6954",
           "source_text_sha256": "65e4cfecacc3ad9529ac369e4925823f715d033085ca9822a396d9cd1b39edd6",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: COMMERCY (55) 20.11.1976 T1 COMMERCY (55) 20.11.1976 T2",
           "translation_text_sha256": "fc8ba72510c7bd17f5d5de09f2a75075f17eeca4b97bd876af18404121f63e1f"
         },
@@ -170,26 +170,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-7d6defa6cfe7a959e1376628",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "dates",
-              "missing_from_translation": [
-                "1976-11-21"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-26487a2fb3e3a863316fa67b",
           "segment_index": 11,
           "source_segment_id": "seg-26487a2fb3e3a863316fa67b",
           "source_text_sha256": "ea76e7eb85fd8e496260987d15606daf373309081ca574d69d277eacc50285dc",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: On November 20 and 21, 1976, around 5:30 PM, several people observed the slow movement of two bright points in the sky. They had a rounded shape. No noise was heard during the observations. This case is classified as C due to a lack of information.",
-          "translation_text_sha256": "19a4b77009a34be0ff9ad61fa46b7f9a73c12ac3907e428f3a6eb4e432b0b5f1"
+          "status": "machine-unreviewed",
+          "text": "Description: On November 20 and 21, 1976, around 5:30 PM, several people observed the slow movement of two bright points in the sky. They were round in shape. No noise was heard during the observations. This case is classified C due to a lack of information.",
+          "translation_text_sha256": "0e29e1b4fc25ce5a2dbcff2abc9f73dc7fc8700364d6155c918a3b5bdee17a36"
         }
       ],
       "source_page_id": "page-7d6defa6cfe7a959e1376628"
@@ -200,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-26T04:05:08Z",
+    "generated_at": "2026-11-16T10:16:16Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:08:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13868325, "source_ctime_ns": 1793355436809170394, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0018.jpg", "source_mtime_ns": 1785564455000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0018.jpg", "source_sha256": "e08b12fbbc48e8632accceacf7e420b9a9a583b44c624671426dcb940aeeca58"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1054, "method": "ocr", "page": 1, "variant": "plain-vision"}
+70
+BALLOON DIAMETER
+IN FEET
+GROSS PACKAGE
+WEIGHT IN POUNDS
+SaNnOd
+FLOTATION ALTITUDE
+- THOUSANDS OF FEET
+Figure 15.
+Payload vs Flotation Altitude for Various Diameters of Balloons
+and Gross Air Launched Package Weights
+3. Flights in the greater than 160, 000 foot altitude range with several hundred
+pound payloads will be possible with the advent of ultra-thin reinforced films.
+4.
+Aerial launching of balloons for flight of 100 pound payloads to an altitude
+of 100, 000 feet is perfectly feasible.
+5.
+Superpressure balloons with flight durations well in excess of 3 months can
+be made with very little further development. The extension of the superpressure
+balloon to altitudes and payloads of 100, 000 feet and 1000+ pounds appears to be a
+straightforward extension of the already existing technology.
+And finally, it is evident that substantially improved flight capabilities will
+result from programmed developments.
+The ultimate usefulness of the balloon
+vehicle will, however, depend primarily upon the imagination and inventiveness of
+the user.

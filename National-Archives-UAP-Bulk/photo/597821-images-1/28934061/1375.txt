@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:47:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5321388, "source_ctime_ns": 1793370208245264130, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934061/1375.jpg", "source_mtime_ns": 1785688592000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934061/1375.jpg", "source_sha256": "55ef709cc7ecd6e723519403273e0b011c467f9e3531d5db57a6553d6eb55482"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 741, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+290
+1. DATE - TIME GROUP
+7 Apr11 49 08/02452
+3. SOURCE
+Vivilian
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+10 minutes
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+Stationary
+8. PHOTOS
+O Yes
+CK No
+9. PHYSICAL EVIDENCE
+• Yes
+36 No
+FORM
+FTD SEP 53 0-329 (TDE) PrevI
+LOCATION
+Charlote, North Carolina
+10. CONCLUSION
+Other (GROUND LIGHTS)
+11. BRIEF SUMMARY AND ANALYSIS
+Observe s sighted an amber cylindrical-shaped object. It was
+stationary and appeared to be fairly high. Later on observers
+returned to the site of the observation and a Pyrex insulator
+was observed casting an unusual and weird reflection of the
+lights of a football stadium, The observers identified it
+aa the strange object which they had seen.

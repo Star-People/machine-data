@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-11-02762/case.html",
-    "bytes": 18487,
+    "bytes": 18505,
     "canonical_source_identifier": "GEIPAN:1976-11-02762",
     "case_metadata": {
       "classification": "C",
@@ -40,12 +40,12 @@
     "original_title": "COMMERCY (55) 20.11.1976",
     "relative_path": "cases/1976-11-02762/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "e85c2d47d356425c46b6e524ce18ce1ea9c90ae7287d93cce8f39ba3716bdc64",
+    "sha256": "884aa921290478e5055f2680f406b023e6334d2b022949d9b1acdd3738ae413a",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-11-02762"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

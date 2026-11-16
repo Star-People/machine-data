@@ -8,7 +8,7 @@
   "document_id": "doc-76557434f459e7f4ef57026b",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-25T23:44:41Z",
+    "generated_at": "2026-11-16T09:49:45Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-10-00352/case.html",
-    "bytes": 18457,
+    "bytes": 18475,
     "canonical_source_identifier": "GEIPAN:1976-10-00352",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "VENON (38) 15.10.1976",
     "relative_path": "cases/1976-10-00352/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "b14ef8cdf7bf38e4e007ec4622add5cb39351d4eb9ae16adde2123383171d715",
+    "sha256": "9d7c5f7ddbe84ad3eb1cb549e3be26ff7861d290785ef2e9d9dc32ad18056083",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-10-00352"
     ]

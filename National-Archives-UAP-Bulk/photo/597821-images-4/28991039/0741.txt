@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:56:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7082786, "source_ctime_ns": 1793384775990663708, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991039/0741.jpg", "source_mtime_ns": 1785748338000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991039/0741.jpg", "source_sha256": "8e56b2277b63898b13066db0930f05cffd257995ea20e4dfb33a9f0caf8411f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pago 6
+30. Have you ever seen this, or o similor object before. If so give date or dates and location.
+31. Was anyone else with you at the time you saw the object? (Circle One)
+31.1 IF you answered YES, did they see the object too? (Circle One)
+31.2 Please list their names and addresses:
+Yes
+Yes
+No
+No
+32. Please give the following informtion about yourself:
+NAME
+First N1ma
+ADDRESS
+Middle Name
+CHIO
+State
+TELEPHONE NUMBER
+City
+ACE 1/2
+Zone
+SEX MAL%
+Indicate any additional information about yourself, including any special experience, which might be pertinent.
+25. VEARS IN NAYY (W0.20. II) AS RADIOMAN
+PUD GUNNER ON TORPEDO BOMBERS AND
+DIVE BEMBERS, LAST RATE; AVIATION RAIDOMAN 20
+33. When ond to whom did you report that you had seen the object?
+Day
+Month
+Year

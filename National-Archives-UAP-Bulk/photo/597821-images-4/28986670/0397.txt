@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:02:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8925060, "source_ctime_ns": 1793383294155710386, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986670/0397.jpg", "source_mtime_ns": 1785748059000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986670/0397.jpg", "source_sha256": "8619e1414f5b831a954ecce8d252a2b13defb46c35f770dd3e7c6b8a154db447"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 797, "method": "ocr", "page": 1, "variant": "plain-vision"}
+D129
+TVCZCSQE61 82CJYD 082
+RR RJEDSQ
+DE RJEZHQ 966
+R 2020242
+1960 APR 20 21 5, :
+ZCZCX HQA 53ø
+RR RJEDSQ RJEZBF
+DE RJEZHQ
+966
+R 2 02 Ø24 Z
+FM HQUSAF
+INFO RJEDSQ/ATIC NSSCC HANSCOM FLD -
+Y 200024Z
+FM COMEASTAREA NEW YORK NEW YORK
+TO RJWFAL/CINCNORAD
+RJEZHQ/COFS USAF
+RBEKHC/COMASDEFORLANT
+RBEGUH/COMEASTSEAFRON
+RCEHC/CANF LAGLANT
+RFEM B/ CANA IRDEF
+RJENGK/64TH NORAD DIV
+INFO RBEPJD/COMDT CB-'ISCG GRNC
+BT
+1/22
+FOLLOWING FROM MS CHARLIE QUOTE FM NMRWEGIAN MOTOR VESSEL
+LUKSEFJELL/LCVS WEST BOUND GLASGOW TO MONTREAL REPORTING
+TO CANADIAN COAST GUARD HALIFAX 2324 GMT POSITION 5122N
+3979W WE OBSERVED FROM OUR BRIDGE A FLAMING MBJECT BEARING
+TRUE 225 ABOUT 20 DEGREES ABOVE HORIZON MAVING AT GREAT SPEED TO
+BEARING 180 DEGREES OUT OPINION COULD NOT BE A STAR BUT ROCKED OR
+A AIRPLANE BT MASTER
+atic

@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:50:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5768940, "source_ctime_ns": 1793355093287121766, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0001.jpg", "source_mtime_ns": 1785564392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0001.jpg", "source_sha256": "d23f3cfa92a8db6774ccc5c5f60108d031721b4186736d3ecd4d2e6da8ce00db"}
+
+===== PAGE 1 =====
+{"alpha_words": 335, "chars": 2218, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TARGET BALLOON METEOROLOGY
+I. INTRODUCTION
+Although balloons are generally assumed to be subject only to the
+capracies of the atmosphere, they may be utilized to overfly designated
+targets. The Air Force Geophysics Laboratory (AFGL,AFSC) has periodi-
+cally engaged in the activity since 1990, with some 250 flights, prin-
+cipally in the vicinity of White Sands Missile Range (WSMR), New Mexico.
+As early as 1949, the Navy, with AFGL support, dropped a missile from
+a target balloon above WSMR.
+The balloons referred to here, are almost all plastic, constant level
+cells, flown primarily by AFGL and NCAR.
+They may handle payloads in
+excess of five tons, (4545KG), and attain with smaller loads, altitudes in
+excess of 50 kilometers.
+An example of a medium sized model, some two
+nillion cubic feet (56,634 cubic meters) is shown in figure 1. Not the
+complex assortment of payloads which can be handled.
+The usefulness of this aerostate in its role as a targeting device is
+exemplified in drop tests of nose cones, ejection seats, etc. Some of
+the more important programs have included the discoverer, Biosatellite
+and Samos nose cones, the Convair B-58 ejections seats, the Goodyear
+balute the Viking and Pioneer Venus recovery systems.
+Some nose cones
+have even been driven to altitudes above the balloon with rocket engines,
+for more valid reentry tests. Some have been powered during the drop phase.
+There were numerous flights where the balloon itself served as a target
+for guided missiles.
+In one series, a small target rocket was fired hori-
+zontally from the balloon.
+Most of these missions required a drop or rendezvous at a designated
+altitude, time and position over a network of impact areas on the WSMR.
+Some concept of the scale of the operation illustrates 4 target flight
+trajectories from a launch point 90 nautical miles (167km) upwind of the
+target area. Float altitudes were 125 to 128K (38 to 39 km).
+sistency of the high stratosphere summer easterlies aided in forecast
+accuracy.
+Accuracy of AFGL target balloon missions over WSMR is summarized in
+the following tables. The data covers the period from summer 1956 to
+Nautical Miles from Target Center
+0-2
+3-5
+6-10
+Accumulative %
+19
+39
+26
+58
+84
+26

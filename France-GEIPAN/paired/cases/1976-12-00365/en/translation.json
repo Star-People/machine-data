@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-474720ee6dfeb0c0cb03bb47",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-6d497b1cd0767bd7a3a422bf",
           "segment_index": 3,
           "source_segment_id": "seg-6d497b1cd0767bd7a3a422bf",
           "source_text_sha256": "166eb5f53a408b6a5b28f13772178d0ada97f725ae4caa47485895ebbf298478",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Auvergne",
           "translation_text_sha256": "c7745f80c6e57d0e6058f0b0bf73fe50589d08f6133fc6cd0a4caad6b56dff86"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-474720ee6dfeb0c0cb03bb47",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-f4dba367deee6efc22801e7d",
           "segment_index": 4,
           "source_segment_id": "seg-f4dba367deee6efc22801e7d",
           "source_text_sha256": "05e462d59842348fad314fbce9d27b4610776838c907ec3117b9f667d8681fbb",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Haute-Loire",
           "translation_text_sha256": "3c19105ee9f03813165cca2431541031f28c507bb3853859899ddd789aea1165"
         },
@@ -82,8 +82,8 @@
           "source_text_sha256": "af3c393e0cd98390c556fb921630c5c6f7383d31ac86d78af17576637a6e230b",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Classification: A (Unclassified)",
-          "translation_text_sha256": "450a8e10fb4b2312baf262f45436f2fa2cfc060460470e5168c7ac58772230cb"
+          "text": "Classification: A",
+          "translation_text_sha256": "af3c393e0cd98390c556fb921630c5c6f7383d31ac86d78af17576637a6e230b"
         },
         {
           "end_ms": null,
@@ -114,8 +114,8 @@
           "source_text_sha256": "99900c51c71c36a2a52d8f84b280bd72f1dbe6b6c147d45eacda8922dbe78274",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Phenomenon Type: Identified but unspecified",
-          "translation_text_sha256": "0f68bd0fdb1d7a3497ed7bf1bc9edf9a02576a951db17c43c4da69dd5a5c16cf"
+          "text": "Phenomenon type: Identified phenomenon not specified",
+          "translation_text_sha256": "6623dd06c461c18a3473aa4060657096afedd77488afd0eba7002ae2480dbdcc"
         },
         {
           "end_ms": null,
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-474720ee6dfeb0c0cb03bb47",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-bb78112fbb481060dd17e15e",
           "segment_index": 8,
           "source_segment_id": "seg-bb78112fbb481060dd17e15e",
           "source_text_sha256": "dc470d5b074a6f5c22e7f49741cf0cd11c401f52ecf128b215598298797af98b",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents:  Carte celeste.pdf  Case Number 366 (1976309135).pdf",
-          "translation_text_sha256": "3204750b45b522884e8ea540536416d7950579d21254bf1625eb8fddd8c5a2a1"
+          "status": "not-required",
+          "text": "Documents: Carte celeste.pdf PV n°366 (1976309135).pdf",
+          "translation_text_sha256": "dc470d5b074a6f5c22e7f49741cf0cd11c401f52ecf128b215598298797af98b"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-474720ee6dfeb0c0cb03bb47",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-5cd7ac5c5156226737949c1f",
           "segment_index": 9,
           "source_segment_id": "seg-5cd7ac5c5156226737949c1f",
           "source_text_sha256": "b98b5c6f43c8872146f44a1efb049e71ea2215187d213707e1dc50762074ca30",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: ALLY (43) 01.12.1976 T1 ALLY (43) 01.12.1976 T2 ALLY (43) 01.12.1976 T3 ALLY (43) 01.12.1976 T4",
           "translation_text_sha256": "dfce6532f70f07528e0080a5e9353212578b45545de5f173e518ea2c257a9dca"
         },
@@ -173,15 +173,6 @@
           "qa_findings": [
             {
               "added_in_translation": [
-                "1976-12-01"
-              ],
-              "check": "dates",
-              "missing_from_translation": [],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
                 "1"
               ],
               "check": "numbers",
@@ -197,8 +188,8 @@
           "source_text_sha256": "25e4f8f868d598454288f0020fb0156f24d51a16a02bc0055480af171f112d73",
           "start_ms": null,
           "status": "needs-review",
-          "text": "Description: On December 1, 1976, several witnesses observed a stationary, glowing object above the horizon. The observation lasted 15 minutes before the object disappeared. No unusual noises were heard. The gendarmerie quickly arrived on the scene but made no observations and found no particular traces on the ground that evening. The gendarmerie investigation revealed that several nights in a row, a luminous phenomenon was observed disappearing behind the horizon in the direction indicated by all the witnesses. All these people had been making astronomical observations of Venus.",
-          "translation_text_sha256": "b82892974ccb9afd90bc00a008a27dad355350e3c4c2dc82a3ff48ee6bfdf908"
+          "text": "Description: On December 1, 1976, several witnesses observed a stationary, glowing object above the horizon. The observation lasted 15 minutes before the object disappeared. No particular noise will be heard. Rapidly on the scene, no observation will be made by the gendarmerie and no particular trace on the ground will be discovered in the sector that evening. The gendarmerie investigation will determine the presence, over several consecutive nights, and in the direction indicated by all witnesses, of a disappearing light phenomenon behind the horizon line. All these people made an astronomical observation of Venus.",
+          "translation_text_sha256": "c72959ebfa8f95c89a35cb526f93395f9456124bd62cdc18f0cea01c7b7889bc"
         }
       ],
       "source_page_id": "page-474720ee6dfeb0c0cb03bb47"
@@ -209,13 +200,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-09-04T08:40:33Z",
+    "generated_at": "2026-11-16T10:21:32Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
     "review_status": "needs-review",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

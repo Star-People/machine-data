@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:34:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1701109, "source_ctime_ns": 1793390919681262491, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554321/0984.jp2", "source_mtime_ns": 1785808484000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554321/0984.jp2", "source_sha256": "70eff4482ed03505afafe4341f7181c0f4871694d5199b97753d0826a399d159"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 344, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TDET/UFO
+Request for UFO Information
+USAP (SAFOICC)
+Reference the attached report from Mrs.
+information is provided in attachment two.
+FOR THE COMMANDER
+7 February 1967
+TDETIUFO OFFICIAL FILE COPY
+•Background
+AMES C. MANATT, Colonel, USAF
+Director of Technology and Subsystems
+2 Atchs
+1. Rpt, Mrs.
+2. Background information
+20 Safaie 3 Fat 69.

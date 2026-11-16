@@ -1,0 +1,99 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:38:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3097064, "source_ctime_ns": 1793372086677590337, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941224/0855.jpg", "source_mtime_ns": 1785688793000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941224/0855.jpg", "source_sha256": "800d03d1386314a0c19238d8df30eef5305979031523f5ae74020660f1a3a9a2"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1430, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+8
+8
+9-20
+10
+10
+10
+10
+DATE
+4
+10
+LOCATION
+Moses Lake, Washington
+Davis Monthan AFB, Arizona
+George Are, California
+San Francisco, California/
+(CARDS MISSING)
+Wichita Falls, Texas:
+Olmstead AFB, Pennsylvania
+Melbourna, Australia
+Phoenix, Arizona
+Richmond, Texas
+Tenafly, New Jersey'
+(CARDS MISSING)
+Phoenix, Arizona
+Keealer AFP, Mississ1pp1
+Nashville, Tennassee
+Fio de Janerio, Brazil'
+31.20N 70.00W (ATLANTIC)
+Migawa, Japan
+Misawa, Japan
+Mishawaka, Indiana
+Sgo Paulo, Brazil
+(CASE MISSING)
+George AFB, California
+George AFB, California /
+San Diezo, California /
+Cyprus v
+Albuquerque, New Mexico
+Ellenton, South Carolina
+Portland, Oragon/
+(CARDS MISSING)
+Korea
+(CARDS MISSING)
+1 - 10 MAY 1952 SIGHTINGS
+OBSERVER
+Military
+Military
+Civilian
+Military
+Civilian
+Military
+Military
+Civilian
+EVALUATI ON
+UNIDENTIFIED
+AIRCRAFT
+UNIDENTIF ICD
+Other (BIRDS)
+Astro (METEOR)
+INSUFICIENT DATA
+Astro (MSTEOR)
+Aatro (METEOR)
+Astro (METEOR)
+UNIDENT IF ICD
+Astro (MOTEOR)
+UNIDENT IF TED
+BALLOON
+PHOTOS) Other (HOAX)
+Astro (METEOR)
+Agtro (METEOR)
+INSUFFICIENT DATA
+INSUFFICIENT DATA
+Astro (METEOR)
+Military-Civilian (RADAR) BALLCON
+Military
+UNIDENTIFIED
+Astro (RETEOR)
+British Scientist
+Meltipis
+Civilian
+INSUFFICIENT DATA
+BALLOON
+UNIDENT IF LED
+Other (SEARCHLIGHTS)
+Military
+BALLOONS
+ADDITIONAL REPORTED SICHTINGS ( NOT CASES)
+LOONFION
+San Francisco, California '
+Pacific Ocean
+SOURCE
+EVALUNTION
+NOT (PHOTOS)ą
+Hydrographic Bulletin Astro (METEOR)

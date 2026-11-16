@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:46:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4912670, "source_ctime_ns": 1793379161469203989, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971335/1074.jpg", "source_mtime_ns": 1785700743000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971335/1074.jpg", "source_sha256": "3367c04b9a9b06e2d9aef9da79162ea50f7857fc3892e7e4a04b2d963f937dbf"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 577, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RJEPHQ/HEDUSAF WASHDC
+RJEPNB/COMDR EADF STEWART AFB NEWBURGH NY
+BT
+/UNCLASSIFIED/ AFROT-OT 080067 ATTN: EADF-C/C ATTN: AIR TECHNICAL
+INTELLIGENCE CENTER ATTN: DIRECTOR OF INTELLIGENCE. THE FOLLOWING
+IS SUBMITTED IN ACCORDANCE WITH AFR 200-2:
+UF OB PD
+1.
+•A. ROUND
+B. LARGE BALL
+C. SILVER
+D. 2
+E. ONE BEHIND THE OTHER
+F• NONE
+G. NONE
+H. NONE
+13/2207Z AUG LVER
+2.
+A. OVERHEAD AIRCRAFT
+B. HIGH FROM SOUTH HEADED NORTH
+C. NONE
+D. STRAIGHT
+E. DISAPPEARED INTO NORTH
+F• VERY SHORT
+3 •
+A. GROUND-VISUAL
+B. BINOCULARS
+C. NONE
+4 •
+A. 19082
+B. DAYLIGHT
+5. MM 34 BLACK, SMITHPORT, PENN
+C

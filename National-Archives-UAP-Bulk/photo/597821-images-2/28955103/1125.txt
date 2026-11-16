@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:46:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4892628, "source_ctime_ns": 1793375203133173123, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955103/1125.jpg", "source_mtime_ns": 1785696996000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955103/1125.jpg", "source_sha256": "60c08a53d944d937a8c68c64570d7dffc0ffff8ce19b8a43921d42d1723a9908"}
+
+===== PAGE 1 =====
+{"alpha_words": 214, "chars": 1376, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ELECTRONICS DATA SHEET
+(GROUND RADAR
+The purpose of this questionnaire is to provide technical data for evaluating the report of
+an unusual radar target or track. It is requested that it be completed as accurately au
+possible.
+When not filled in, the form is Unclassified. The reporting officer will use his own
+judgement as to what degree of classification is required.
+It is preferred that the answers to the questions be typewritten, bowever, if it will ex-
+pedite the completion of the form, the answers may be printed in ink. If additional space
+is needed, use reverse side of form.
+1. STATION OBSERVING TARGET:
+Det #4, FEAF Bomber Command
+Organi zation
+AFO 328, c/o PM, Cal1łł
+Location
+3. DATE TARGET OBSERVED:
+Local Time •
+Z Time
+Day
+Month
+Year
+Time-Local_
+Time-Z _
+5. EXACT LOCATION OF STATION (COORDINATES):
+2. DATE OF THIS REPORT:
+_28
+Day
+- Aug
+Monih 53
+Yoor
+4. NAME
+RANK AND ORGANIZATION OF
+REPORTING OFFICER:
+George A Peters, Captain, USAF
+9th Air Refueling Sq, Mt Home AFB, Idaho
+6. OBSERVER DATE (LIST EACH OBSERVER):
+Nome
+Peters, George A
+Askey, Russell E
+A.
+B.
+C
+D.
+Rank
+Capt
+Capt
+Duty
+Radar Observer
+Navizator
+lo. of Year
+Exp. in Rada
+4
+11
+7. WAS A VISUAL SIGHTING MADE BY ANY PERSONNEL OF THE STATION? • YES
+O NO
+IF SO
+GIVE NAME AND RANK OF ALL PERSONNEL MAKING A VISUAL SIGHTING AND A BRIEF DESCRIPTION OF
+WHAT THEY SAW:
+ATIC FORM 332 (REVISED 25 NOV 1952)

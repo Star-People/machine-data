@@ -8,7 +8,7 @@
   "document_id": "doc-603aecb20ce50941c420494a",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-09-04T08:40:33Z",
+    "generated_at": "2026-11-16T10:21:32Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-12-00365/case.html",
-    "bytes": 19338,
+    "bytes": 19356,
     "canonical_source_identifier": "GEIPAN:1976-12-00365",
     "case_metadata": {
       "classification": "A",
@@ -244,7 +244,7 @@
     "original_title": "ALLY (43) 01.12.1976",
     "relative_path": "cases/1976-12-00365/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "ffdced2e6b732859bfda5454a66978906b35e95d5a7985936ee6be32871d3190",
+    "sha256": "d0c55c1c66e45fd018b77bd386a6cf61781774a639dcee67017f760f52bee539",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-12-00365"
     ]

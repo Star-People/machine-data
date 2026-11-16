@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-09-00342/case.html",
-    "bytes": 19804,
+    "bytes": 19822,
     "canonical_source_identifier": "GEIPAN:1976-09-00342",
     "case_metadata": {
       "classification": "B",
@@ -40,7 +40,7 @@
     "original_title": "SAINT-VERAND (38) 12.09.1976",
     "relative_path": "cases/1976-09-00342/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "6f93a5022e3ab4bcd645e343d077227fb8b87a33a6b822e02aea8e3d77d30629",
+    "sha256": "4dd076ad8f1dfd5082113813c4caf1eab9b6469b03a1880658e9ebb3c9c9ce58",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-09-00342"
     ]

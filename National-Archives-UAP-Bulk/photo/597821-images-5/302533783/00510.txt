@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:30:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1274270, "source_ctime_ns": 1793388870336670055, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533783/00510.jp2", "source_mtime_ns": 1785808668000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533783/00510.jp2", "source_sha256": "314a5c754ac8ac9ceb25f75b96248fbbec8a992256ad82b20338552b8a82d4f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 1116, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+L DATE
+2. LOCATION
+27 Jun 64
+DATE TIME GROUP
+Local
+GM T.
+28/05102
+PHOTOS
+Maupin, Oregon
+TYPE OF OBSERVATION
+CIGround- Visual
+• Air- Visual
+| 6. SOURCE
+D Ground-Radar
+O Air-Intercept Radar
+•Y•S
+R NO
+7. LENOTH OF OBSERVATION
+civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomicol
+Other
+Insufficient Data for Evaluation
+Unknown
+1.5-8 sec 2.23. 14-15 sec
+three
+10. BRIEF SUMMARY OF SIGHTING
+Generally rounded objs observed three times.
+Bright blue; sighted seperately. Rapid motion
+allobjs noved to West. Ist obj reportedly
+changed course about 5 degs. 2nd and 3rd objs
+streight flight. Initial observatin at 45 deg
+elevation.*m Objs disappeared at 45 deg elev
+in abrupt manner. Sightings at 0450Z, 0500Z'
+and 05102.
+west
+COMMENTS
+Possible meteor observatims as
+indicated by theduration and degrees
+of are through which the objs passeã.
+Manner of disappearance also in accord
+with this evaluation.
+ATIC FORM 329 (REV 26 BEP 52)

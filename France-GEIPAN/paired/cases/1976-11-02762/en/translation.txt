@@ -1,13 +1,13 @@
-{"canonical": false, "document_id": "doc-7b640d2d7231e8cf307c493a", "language": "en", "schema": "ufo-files-french-search-text/v1", "translation_review_status": "needs-review"}
+{"canonical": false, "document_id": "doc-7b640d2d7231e8cf307c493a", "language": "en", "schema": "ufo-files-french-search-text/v1", "translation_review_status": "machine-unreviewed"}
 
 ===== PAGE 1 [page-7d6defa6cfe7a959e1376628] =====
 --- seg-a9485fec7305b49fda229768 [not-required] ---
 COMMERCY (55) 20.11.1976
 --- seg-5e91f87a567b002bb7710514 [machine-unreviewed] ---
 Observation date: 11/20/1976
---- seg-f4ff9965f3cff37d5f2e0733 [machine-unreviewed] ---
+--- seg-f4ff9965f3cff37d5f2e0733 [not-required] ---
 Region: Lorraine
---- seg-f1a7f3cd200c5489e228a830 [machine-unreviewed] ---
+--- seg-f1a7f3cd200c5489e228a830 [not-required] ---
 Department: Meuse
 --- seg-ecb7980e82ca9c77796bd44b [machine-unreviewed] ---
 Classification: C
@@ -15,11 +15,11 @@ Classification: C
 Update date: 06/23/2021
 --- seg-f48443b351b942d2f2df0dab [machine-unreviewed] ---
 Phenomenon type: Lack of reliable information
---- seg-f639d076a7fd31852229f332 [machine-unreviewed] ---
-Documents: PV n° 1061 (1976309139).pdf
---- seg-986395106945f308d1eb6954 [machine-unreviewed] ---
+--- seg-f639d076a7fd31852229f332 [not-required] ---
+Documents: PV n°1061 (1976309139).pdf
+--- seg-986395106945f308d1eb6954 [not-required] ---
 Testimonies: COMMERCY (55) 20.11.1976 T1 COMMERCY (55) 20.11.1976 T2
 --- seg-f13bb4ed589a290d97b89d1d [machine-unreviewed] ---
 Summary: Observations of the slow movement of two bright points in the sky.
---- seg-26487a2fb3e3a863316fa67b [needs-review] ---
-Description: On November 20 and 21, 1976, around 5:30 PM, several people observed the slow movement of two bright points in the sky. They had a rounded shape. No noise was heard during the observations. This case is classified as C due to a lack of information.
+--- seg-26487a2fb3e3a863316fa67b [machine-unreviewed] ---
+Description: On November 20 and 21, 1976, around 5:30 PM, several people observed the slow movement of two bright points in the sky. They were round in shape. No noise was heard during the observations. This case is classified C due to a lack of information.

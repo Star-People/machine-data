@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-11-00358/case.html",
-    "bytes": 19148,
+    "bytes": 19166,
     "canonical_source_identifier": "GEIPAN:1976-11-00358",
     "case_metadata": {
       "classification": "B",
@@ -40,7 +40,7 @@
     "original_title": "CASSIS-CARNOUX (13) 04.11.1976",
     "relative_path": "cases/1976-11-00358/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "88649bc78d332468c663c28cc102320bd77aa5ce89440b03b2ea957992489b2d",
+    "sha256": "c95d3d1d7ca6526ef371f413c85911b378bc21e5c85e308479626cd20910e374",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-11-00358"
     ]

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:41:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3876494, "source_ctime_ns": 1793372154945881540, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941587/1161.jpg", "source_mtime_ns": 1785688640000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941587/1161.jpg", "source_sha256": "ef03bd226675b449ed5d0770458a834036e969dfe015937ad7ad43b5b11390e3"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 470, "method": "ocr", "page": 1, "variant": "plain-vision"}
+23 APR1952
+WroN
+RAD19
+TPD243
+YDB201
+JEDEN2Ø1
+PP JEDWP JEPHO 222
+DE JEDEN 87
+P 2523392 ZNJ
+ACTION
+PH 4602D AIR INTEL SVC SQ
+TO ZEN/CG ADC ENT AFB COLO
+JEDUP/CHIEF AIR TECH INTEL CTR WRIGHT PATTERSON AFB OHIO-
+INFO JEPHQ/DIR INTEL DCS/O HQ USAF WASHDO
+9462D ATS 538 REF OUR IS SLAMEF
+MIDENTIFIED OBJ, ITEM (2) SHOULD READ 2215 HRS MSG AND ITEM (S)
+CHOULD READ 2230 HRS MSG.
+5/23412 APR JEDEN
+BOWNCRADED AT'S VRAL INTERVALS
+DECLASSIVIED AFTER 18 YEARS.
+DOD DIR 5200.10
+- /

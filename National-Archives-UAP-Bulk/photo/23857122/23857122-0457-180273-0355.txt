@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:09:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17122912, "source_ctime_ns": 1793356731004006937, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0355.tif", "source_mtime_ns": 1785564749000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0355.tif", "source_sha256": "addcb8ec1bde54da2046ad435f63d1f021e1cf756f835d7fe8cc282c3dcd63b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 811, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident No. 21 - 29 June 1947, 1645, Des Moines, Iowa.
+The observer, bus driver, reported observing thirteen objects at 1200 ft
+altitude, traveling in a straight Line in file at 300 MPH. The objects were
+elliptical in form "inverted saucer, 12 It to 2amar. There ters
+dirty white, and made a sound like an electric motor or dynamo.
+no further information supplied except that the observer stated they looked
+like dots in the sky.
+AMO Opinion:
+These objects were seen just outside Des Hoines, and were
+flying toward Des Hoines. If they were not ordinary objects mistaken for some-
+thing else by the observer, but were really unusual aircraft, it seems alnost
+certain that someone else would have also reported them. There is insufficient
+information for a proper analysis.
+Declassification Authority: NND 57565

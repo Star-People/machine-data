@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:32:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1469792, "source_ctime_ns": 1793393175344312743, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0327.jp2", "source_mtime_ns": 1785808392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0327.jp2", "source_sha256": "a5ab9ebc964d3ba6afbc7bc1f967082802967f7764eac2457a1d78417b2745b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 791, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR THE RECORD
+12 March 1960
+Subj:
+UFO Sighting of 3 March 1968
+Talked to Mr. Sitron of the Smithsonian. Gave him information on
+the sirplane from Canada (Air Canada 457-3). Also told him that I
+would send him a copy of the sighting from Oliver Springs, Tennessee.
+He has not received any reports from the observatories that were
+contacted. (Von Dell Chamberlain of the observatory at Michigan State
+University is the collecting official for meteor watch teams
+at observatories all over the country.) Mr. Sitron has a report
+frou
+" Ohio near control tower. He said
+gave a very good report. He also stated that they had a good
+report from Indianapolis. Indianapolis stated that the objects passed
+south of the city and disappeared at an azimuth of 80 degrees. (No
+elevation was given by

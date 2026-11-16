@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:49:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5576134, "source_ctime_ns": 1793388535073284156, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001481/0564.jpg", "source_mtime_ns": 1785808606000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001481/0564.jpg", "source_sha256": "c5d18ef2fec1fa24c22125426953065241579773a9228a32e73206bc3a3a1e57"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 918, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+26 June 1963
+3. DATE-TIME GROUP
+Local
+GMT.
+26/15402
+5. PHOTOS
+• Yes
+XINo
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+31.45N
+176,25W (Pacific)
+4. TYPE OF OBSERVATION
+• Ground- Visuai
+XIX Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+Military
+8. NUMBER OF OBJECTS
+not reported
+one
+10. BRIEF SUMMARY OF SIGHTING
+Pin head sized white light observed
+at 20dgr elevation fm a/c. Course
+of 130dgr true. No other information.
+No evaluation by Navy.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloor
+•
+•
+Possibly Balloor
+Was Aircraft
+Probably Aircraf
+Possibly
+Aircra
+•
+•
+Was Astronomical
+Probably Astronomica
+Possibly Astronomica
+Other
+EX Insufficient Data for Evaluatior
+Unknown
+9. COURSE
+130 dgr
+11. COMMENTS
+Echo not in area having crossed
+the equator heading North East
+about one hour earlier at 2
+East. Duration & other essential
+data missing for evaluation.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:54:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6611156, "source_ctime_ns": 1793361964135939829, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0076.jpg", "source_mtime_ns": 1785685165000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0076.jpg", "source_sha256": "096fb7e1f4532e9c703c273c6f4d230c11e26566ae195b20a8917ba26267fcba"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 138, "method": "ocr", "page": 1, "variant": "clean-vision"}
+27 JAN 1949/
+CIG MAIL & REGORDS SECTION
+08 09
+oÛT
+141EB 1949
+SECURITY
+DIV.
+OSI
+OL
+сГугесулюй суись
+Declassification Authority: NND 923007

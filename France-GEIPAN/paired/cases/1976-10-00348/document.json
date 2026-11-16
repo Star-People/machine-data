@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-10-00348/case.html",
-    "bytes": 18898,
+    "bytes": 18916,
     "canonical_source_identifier": "GEIPAN:1976-10-00348",
     "case_metadata": {
       "classification": "C",
@@ -40,12 +40,12 @@
     "original_title": "CHATEAU-GONTIER (53) 05.10.1976",
     "relative_path": "cases/1976-10-00348/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "4a11035adf1fd640817c8a34bef49087f1faa88bacecc1055d375c5a6d75f2cc",
+    "sha256": "a2a92b9d23f872308e54c4c7a11e86dbe26403db7f2d3baec2afc6c303224d4c",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-10-00348"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:58:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8049221, "source_ctime_ns": 1793364081892401175, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0071.jpg", "source_mtime_ns": 1785684581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0071.jpg", "source_sha256": "9f4becfc1d53d906c31c1881bccd6a87ec484c52d009f9794a3599c47c06dd61"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 400, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+Subj: Unidentified Aerial Objects
+SPOT INTELLIGENCE REPORT
+Projections:
+Speed:
+Sound and/or Odor:
+Time in Sight:
+Manner of Disappearance:
+3. ACTION:
+14 April 1950
+None visible
+rast
+None
+Few seconds
+Faded from view
+Report submitted to the Director of Special Investigations.
+C.Co Waleman 21 APP'50
+USAF
+za
+DOYLE REES
+It Col, USAF
+District Commander
+Declassification Authority: NND 923007
