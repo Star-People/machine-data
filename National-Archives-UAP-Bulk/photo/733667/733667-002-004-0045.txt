@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:37:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1962360, "source_ctime_ns": 1793394304360635681, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-004-0045.jpg", "source_mtime_ns": 1785567351000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-004-0045.jpg", "source_sha256": "cf262b628ff266dc0ea5b6752c1438232aab06725a92941b9c27b236cd478553"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 265, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WoUld you pleASE SEND A
+LISt WitH PRICES Of THE MAteRIAL
+You HAvE to OFFER ON tHE U.F.O.
+Siğhting
+ON NOV. 17 ON THE JAPAN
+AiR LiNES Flight From Iceland
+TO ANCHORAGE.
+PLeAse Find enclosed a
+S. A.s. envelope.
+thank You
+JO JOHNSON
+4126 KURtH ST, SO.
+SAlem, ORE, 91302

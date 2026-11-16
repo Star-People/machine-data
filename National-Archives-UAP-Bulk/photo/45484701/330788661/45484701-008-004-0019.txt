@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:06:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7251352, "source_ctime_ns": 1793365282471582947, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788661/45484701-008-004-0019.jpg", "source_mtime_ns": 1785685158000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788661/45484701-008-004-0019.jpg", "source_sha256": "f715fe37312688e447ac76251e0ab1cc8fecdfb1f2b055f7aeec4cd7e99f17f3"}
+
+===== PAGE 1 =====
+{"alpha_words": 163, "chars": 1225, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Capt Johnson/rvg/C181/X4718/28 Jan 60
+AFCSI-6D 24-185-500
+TRANSMITTAL OF INFORMATION
+AFC IN 4
+MAN 2%
+1. Transmitted is information considered of interest to your office.
+The attachment is for your retention.
+The information contained in the attached letter was
+originally furnished orally by Lieutenant Colonel Moore, this Directorate,
+to Lieutenant Colonel Mareydt, 1006th AISS, on 15 January 1960, who in
+turn passed it telephonically to Lieutenant Colonel Vitunac, ATIC. The
+attached letter'is being furnished to SAFOI (Major Tacker) for his
+information. This Directorate is conducting no inquiry of this matter,
+out would appreciate the results of any interview of Mrs. Faulkner by the
+Air Force.
+1 Atch
+Itr, FBI, dtd 19 Jan 60
+ROBERT F. ELDRIDGE
+Directorate of Special Investigations (IG)
+- PAFCSI 6D
+I Capt Johnstf Johnst
+Maj L. F. Olsen
+OUT
+28 JAN 1960
+CI DIV
+OST
+ETE SCSI INV 24«185 500
+JAN 2 9 1960
+UPON WITHDRAWAL, OF THE ATTACHMENTS,
+THE CLASSIFICATION OF THIS CORRESPONDENCE
+WILL BE CANCELLED.
+104 OF S
+CLASSIFICATION CANCELLED
+BY AUTHON. KURE, Capt, USAF
+BY
+- Historian
+! 8 DEC 1975
+7=785=500× 5š
+USAF
+OFFICE OF
+BPECIAL INVESPHATIOS
+DATE
+FOR OFFICIAL USE
+ONLY
+UNCLASSIFIED
+Declassification Authority: NND 923007

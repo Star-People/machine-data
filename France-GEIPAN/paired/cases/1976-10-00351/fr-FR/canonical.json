@@ -8,7 +8,7 @@
   "document_id": "doc-d706089717463a7f79c27335",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-25T19:54:11Z",
+    "generated_at": "2026-11-16T09:11:52Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-10-00351/case.html",
-    "bytes": 18418,
+    "bytes": 18436,
     "canonical_source_identifier": "GEIPAN:1976-10-00351",
     "case_metadata": {
       "classification": "B",
@@ -244,7 +244,7 @@
     "original_title": "ALLEVARD (38) 10.10.1976",
     "relative_path": "cases/1976-10-00351/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "08bbc07017b7a27732d5a60244a6c5725dd9f0756c1cc13129dd78018e650ebc",
+    "sha256": "6188dfce345e6752e2222876b7b05ee0f96a7dd51170a80cae134337f76d3563",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-10-00351"
     ]

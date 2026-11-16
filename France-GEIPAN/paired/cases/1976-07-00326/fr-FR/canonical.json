@@ -8,7 +8,7 @@
   "document_id": "doc-87dcfcb43848be03bf328873",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-25T22:44:34Z",
+    "generated_at": "2026-11-16T08:56:00Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00326/case.html",
-    "bytes": 18445,
+    "bytes": 18463,
     "canonical_source_identifier": "GEIPAN:1976-07-00326",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "CHIRENS (38) 30.07.1976",
     "relative_path": "cases/1976-07-00326/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "daf7fe77562ad7593e290308d2b5f780e8afdc5b0c447b88dfb688a5bb3884aa",
+    "sha256": "327484f594a1e6aa56451f7ea8f6d2abe6ff13490ab2ea6e6a5c8abad1558688",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00326"
     ]

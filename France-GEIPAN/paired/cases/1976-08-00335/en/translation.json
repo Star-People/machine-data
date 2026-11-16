@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-6a0da7d2e3c54c2f32852316",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-e63bf1b615e0aae9f6c38b58",
           "segment_index": 3,
           "source_segment_id": "seg-e63bf1b615e0aae9f6c38b58",
           "source_text_sha256": "fd8d520119032de87d836a202d279d596cd8f6a57d9227f4f6787e1663550f69",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Languedoc Roussillon",
           "translation_text_sha256": "df9fed2900d562189342e670fac023a5260c895a0cf6f02fe114232135df592b"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-6a0da7d2e3c54c2f32852316",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-1434d78e7b30be9d2a1fd9b6",
           "segment_index": 4,
           "source_segment_id": "seg-1434d78e7b30be9d2a1fd9b6",
           "source_text_sha256": "b71d0a56f8e2f5dfb65d748ebd9f66c16569c133c1848c433cfb360dedc9f12d",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Hérault",
           "translation_text_sha256": "2dcd03581d5eab8b2fb7a018007ef7a14202f5ea65a76e8b5f15f4eedf90a997"
         },
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-6a0da7d2e3c54c2f32852316",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-fae87645aa0499096888122b",
           "segment_index": 8,
           "source_segment_id": "seg-fae87645aa0499096888122b",
           "source_text_sha256": "4f5d02af99a565c3e7dc1156007e4d71bab0f29f68f19313438da141c355ae6b",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents:  Notes enquete.pdf  Case Number 751 (1976309195).pdf",
-          "translation_text_sha256": "b01f3be054725f021895e3cc779924e71b8c38116d2eed3b7bc5d750ad7c8f67"
+          "status": "not-required",
+          "text": "Documents: Notes enquete.pdf PV n°751 (1976309195).pdf",
+          "translation_text_sha256": "4f5d02af99a565c3e7dc1156007e4d71bab0f29f68f19313438da141c355ae6b"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-6a0da7d2e3c54c2f32852316",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-0ec7a441264854faa543422e",
           "segment_index": 9,
           "source_segment_id": "seg-0ec7a441264854faa543422e",
           "source_text_sha256": "dcba06463532510768de301087671f02c53ffbdf6220a650cb3253ab29bc43dc",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: SAINT-GENIES-DES-MOURGUES (34) 23.08.1976",
           "translation_text_sha256": "9e9bb070d25391b58d95dd25c70d2f8ce2557edb879f2b958faa3c8db77da3a1"
         },
@@ -173,23 +173,10 @@
           "qa_findings": [
             {
               "added_in_translation": [
-                "23:30"
-              ],
-              "check": "times",
-              "missing_from_translation": [
-                "23:00"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
                 "80"
               ],
               "check": "numbers",
-              "missing_from_translation": [
-                "30"
-              ],
+              "missing_from_translation": [],
               "severity": "warning",
               "status": "mismatch"
             }
@@ -201,8 +188,8 @@
           "source_text_sha256": "1c640608ffd2380321b13fc6ad9ca58b7b631dcc55dd639bd0136048bd479e80",
           "start_ms": null,
           "status": "needs-review",
-          "text": "Description: The GEIPAN continues to publish its entire archive on its public website www.geipan.fr. Among its publications are old cases classified at the time as type \"D\" and now subject to a new review. This review is not intended to diminish or enhance any particular category of classification but to make the conclusions more relevant. Thanks to new technical means (software) and the investigative experience gained over many years, this re-examination sometimes leads to new observations or even an explicit change in classification in an investigation note. This case was previously classified as D and named AIGUES-MORTES (30) 23.08.1976. On August 23, 1976, around 11:30 PM, a motorcycle driver noticed in the sky a very bright red light moving in a southerly direction. Upon reaching his home and intrigued by a very high-pitched electric motor noise, he stepped outside and saw about 15 meters away, an oval-shaped, glowing object with white and red lights moving in a northerly direction. The witness observed that the object, after traveling 80 meters, stabilized then quickly ascended at a very high speed before disappearing. During the gendarmerie investigation, no other testimony of this phenomenon on that evening was reported. However, the witness stated that, having finished work late, he had witnessed several movements of light sources. Moreover, local press reported various observations in June and August 1976 that could be associated with this phenomenon. The observation has a low degree of strangeness. A high proportion of the characteristics described by the witness correspond to those of known phenomena: in this case, a helicopter. The observation is explicable and the proposed interpretation is merely plausible. The case is not strange and does not merit in-depth investigation (identifying the involved helicopter flight would also be challenging for such an old case). The testimony is unique and the consistency of the case is low. Due to the strong resemblance with the appearance of a helicopter, the case is classified as \"B\": probable observation of a helicopter.",
-          "translation_text_sha256": "e861a72fdb0ddfdaee2eb42073c1e6c4a144027e867b5fb8fcbacd7f922e0b92"
+          "text": "Description: The GEIPAN continues to publish its entire archives on its public website www.geipan.fr. In its publications, it includes old cases classified at the time as type \"D\" and which are now subject to a new examination. This one is not intended to diminish or increase any particular category of classification, but to be more relevant in the conclusions. Thanks to new technical means (software) and the investigative experience gained over all these years, this re-examination sometimes leads to new observations or even an explicit change in classification in an investigation note. This case was previously classified as D and named AIGUES-MORTES (30) 23.08.1976. On August 23, 1976, around 11:30 PM, a motorcycle driver observed in the sky a very bright red object moving in a southerly direction. Upon arriving home and intrigued by a very high-pitched electric motor sound, he steps outside and observes at approximately 15 meters away the passage in a north-northwest direction of a luminous oval-shaped object with white and red lights. The witness notes that the object, after traveling 80 meters, stabilizes then quickly ascends at a very high speed before disappearing. No other testimony of this phenomenon that evening was reported during the gendarmerie investigation. However, the witness states that while finishing his work late, he several times witnessed movements of light sources. In addition, local press reports various observations in June and August 1976 that could be related to this phenomenon. The observation presents a low degree of strangeness. A high proportion of the features described by the witness correspond to those of known phenomena: here, a helicopter. The observation is explicable and the proposed interpretation is merely plausible. The case is not strange and does not merit a thorough investigation (identifying the helicopter flight involved would, in fact, be difficult for a case this old). The testimony is unique and the consistency of the case is low. Due to the strong resemblance with the aspect of a helicopter, the case is classified \"B\" - probable observation of a helicopter.",
+          "translation_text_sha256": "0088b9b8dd201888bd97d20841a5344b51721124b58cd8baa683db94933b4c46"
         }
       ],
       "source_page_id": "page-6a0da7d2e3c54c2f32852316"
@@ -213,13 +200,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-09-23T07:42:41Z",
+    "generated_at": "2026-11-16T09:27:44Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
     "review_status": "needs-review",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

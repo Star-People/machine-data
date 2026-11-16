@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:08:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7719643, "source_ctime_ns": 1793364837689421687, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0070.jpg", "source_mtime_ns": 1785685206000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0070.jpg", "source_sha256": "5091705c0fb3e5358726667a11dfeb0a271a73fe2e132000915139d243a0b57c"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 786, "method": "ocr", "page": 1, "variant": "plain-vision"}
+File No. 24-30
+DETAILS:
+1. The following investigation was conducted by S/A JAY J. JORDAN.
+AT SEATTLE, WASHINGION
+Mr. ROBERT MARKS, Controller, Seattle Air Route Traffic Control
+Center, Seattle Tacona Airport, Bow Lake, Washington, was interviewed on
+19 October 1949, in regard to obtaining a record of flight schedules of
+all Airways traffic in the vicinity of Hart Mountain, Ore., on 27 May 1949
+at approximately 1430 hours.
+This agent was informed that records are
+kept of such traffic for only ninety days; whereupon, if nothing unusual
+occurred, such as accidents or traffic violations, the records are des-
+troyed. MARKS' record of incidents for that date proved negative, indi-
+cating that nothing unusual was reported on that date.
+CLOSED
+Declassification Authority: NND 923007

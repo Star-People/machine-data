@@ -8,7 +8,7 @@
   "document_id": "doc-d578b5df184702939304d0d5",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-27T00:04:42Z",
+    "generated_at": "2026-11-16T08:45:14Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00321/case.html",
-    "bytes": 18674,
+    "bytes": 18692,
     "canonical_source_identifier": "GEIPAN:1976-07-00321",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "CHATEAUNEUF-VAL-DE-BARGIS (58) 19.07.1976",
     "relative_path": "cases/1976-07-00321/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "bb52696e6938469a2bd0e02d22e32036ca9b7acf1856856b2e1f91d29a8b3e0b",
+    "sha256": "847ec42641d977da8d5d21f19ed84c9e237d32a07ea1c3c0ca33b3284cad43c7",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00321"
     ]

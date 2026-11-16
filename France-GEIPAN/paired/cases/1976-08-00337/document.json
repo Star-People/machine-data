@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-08-00337/case.html",
-    "bytes": 18673,
+    "bytes": 18691,
     "canonical_source_identifier": "GEIPAN:1976-08-00337",
     "case_metadata": {
       "classification": "C",
@@ -40,7 +40,7 @@
     "original_title": "PLANES (66) 28.08.1976",
     "relative_path": "cases/1976-08-00337/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "a7f9c9eb31777f2cde344d6d3414672260fc4dc6b958b736f8a85f452e4d4341",
+    "sha256": "b08bd32bbe02bf32842ac84ce3f3158521b64ce9506892f7e294483e5a9e54d2",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-08-00337"
     ]

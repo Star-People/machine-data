@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:03:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6685789, "source_ctime_ns": 1793387093488976428, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998150/0210.jpg", "source_mtime_ns": 1785748070000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998150/0210.jpg", "source_sha256": "0cb1711fbc40e60d38c959a5dbc2cc815d5d4a0ca5933b69172200887b0df349"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 526, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FOR
+STAFF MESSAGE BRANCH
+INICHASSIFIEO MASSACE
+AF IN: 42375 (12 Ju1 62),$°80 MIN G
+page 1 of 2
+INFO :
+NSA-7,
+CMC-7, JCS-35, OSD-15, CIA-11,
+SMB A 161
+OCTCHQA7 70ZC BJA 154
+O0 RUEAHQ
+DE RBWPPG 068
+ZNR
+0 121401Z
+FM COMWESTSEAFRON
+TO RUHPB/CINCPACFLT
+INFO RJWZS BP/C BP/C ORADR GN
+RJWF AL B/CINCNORAD
+R JWX BR/C INCSAC
+RUECH/CNO
+RUEAHQ/C OFS USAF
+RFEMTE/C ANAIRDEF MONTREAL
+RCWNM/C ANC O AR PAC
+RBWDAE/C FIRSTFLI
+RBWDKE/C OM PACMISRAN
+RUHLKM/PACAF HICKAM
+RUHLKH/ ADCC KUNIA
+NAV YD
+R 121315Z
+FM NTHU
+TO YJJR

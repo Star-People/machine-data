@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:25:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 817745, "source_ctime_ns": 1793391597972357943, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559934/0367.jp2", "source_mtime_ns": 1785808330000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559934/0367.jp2", "source_sha256": "dd1eb9cee0e2815e0c42b095fbba0bec9148733da7e5d7aa47c897287cc313c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 741, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NaID
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+18 9.6%
+Hall Besch, Crade.
+Pg 1 of 5
+AF IN: 26303 (15 Jan 67) A/fdb
+ACTION: RDO-4
+INFO:
+XOP-1, XOPX-2,(
+SAFOS-3, NIN-7, DIA-1 (19) ADV CY DIA
+SMB B003B64
+PTTU JAW RIEDLBR 0125 ø142 156-UUUU--RUED HQA.
+ZNR UUUUU
+1 210
+P 141800Z JAN 67
+• FM 4683ABGP THULE AB GRNLD
+TO RUMFVA/ADC
+RUEDLBA/37AO GOOSE AB CAN
+71W 50
+RUC SQ/FTD NPAFB OHIO
+RIEDHOA/OSAF WASH DC
+R. LED HOA/CSAF
+UNCLAS 468300P 84208 JAN 67.
+FOR SAFOS/OSAF, AFNIN/CSAF. SUBJ: UFO REPORT IN ACCORDANCE
+WITH PAR 14, AFR 2092, 28 JLL 2 AS AMENDED.
+A. DESCRIPTION OF THE OBJECT
+(1) SPHER I CAL
+(2) ABOUT THAT OF A FIRST MAGNITUDE STAR•
+(3) POSSIBLY WHITE
+(4) ONE
+(5) NA
+YORM
+AFHO AN#T 0-309C
+UNCLASSIFIED

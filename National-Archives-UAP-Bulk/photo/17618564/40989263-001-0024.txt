@@ -1,0 +1,209 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:04:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6782313, "source_ctime_ns": 1793355112783024758, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0024.jpg", "source_mtime_ns": 1785564395000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0024.jpg", "source_sha256": "4cd0dba7e8ff3c7fcfe4c9539384ccf193c9ef20f32a9e1c48d53e3925e615bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 208, "chars": 1597, "method": "ocr", "page": 1, "variant": "plain-vision"}
+BALLOON METEOROLOGICAL FORECAS
+1.
+DATE/TIME
+_ (2)
+1000
+CLOUD COVER
+(amt in tenths - type - height ea
+CLR
+CLR
+ICATION
+DATE
+HMN
+24 APRTS
+UNCH SITE FORECAST
+VISIBILITY WEATHER PRECIP TEMP
+(MILES)
+PROB %
+1°c
+7+
+NONE
+NonE
++02
+7
+SCHD. ENCH TIME (Z) FLIGHT NUMBER
+1000₴
+175-26/11-60x
+SURFACE TEND
+(cieg)
+060
+- 04
+100
+FCST
+OBSVD
+FCST
+OBSVD
+FCST
+OBSVD
+INVERSIONS
+height
+SFC
+SFC
+to 2003 ft AGL
+TO 900H AGL
+to
+Kft
+to
+Kft
+to
+Kit
+to
+Kft
+TROPOPAUSES
+height (Kft)
+T temp (°C)
+10
+- 38
+- 6/
+temp (°C)
++18
+110
+SURFACE
+BUBBLE HT
+SFC-60K
+MAXIMUM WINDS
+deg
+K ts
+060
+O7
+140
+05
+020
+09
+140
+07
+260
+height
+SIGNIFICANT WIND SHEARS
+Kts/1000 ft
+height (Krt)
+7
+55
+10 60
+None.
+to
+GO HAGL
+FCST
+OBSVD
+FCST
+OBSVD
+FCST
+OBSVD
+50-80K
+MINIMUM WINDS
+deg
+kts
+260
+height (Kft)
+55
+deg
+₴70
+40 KR
+Kft
+FLOAT WINDS
+Kis
+height (Kft)
+OZ
+90
+NIA
+to
+MINIMUM TEMP
+height (Kft)
+temp| (°C
+67Ị
+-71
+FCST
+OBSVD
+FCST
+OBSVD
+2.
+OBSERVED
+direction
+location
+60K
+FLOAT
+TERMINATION
+IMPACT
+PARACHUTE
+DESCENT
+ENROUTE
+WEATHER
+3.
+DATE/TIME
+(2)
+1900
+time (Z)
+1:10
+1140
+1800
+1840
+TIME
+(min)
+FORECAST
+MILES
+direction
+20
+SW
+17
+SSW
+37
+NW
+30
+NNW
+VECTOR
+(deg/nm)
+TRAJECTORY
+location
+RoW
+Row
+HOR
+time (Z)
+1057
+1/22
+miles
+35
+31
+NIA
+NIA
+TIME
+(min) NA
+VECTOR
+(deg/nm)
+RNM
+N/A
+NIA
+N/A
+None
+CLOUD COVER
+(amt in tenths - type - height each layer)
+4C1250
+IMPACT SITE FORECAST
+VISIBILITY
+WEATHER PRECIPI TEMP
+SURFACE WIND
+( miles )
+PROB %
+_(°C)
+(deg)
+_ (Kts)
+7+
+NONE
++ 21
+220
+15+
+1200
+NONIE
+FCST
+OBSVD
+FCST
+OBSVD
+4. REMARKS - GENERAL SITUATION, SIGNIFICANT WEATHER AND RECOMMENDATIONS.
+METEOROLOGIST (S)
+DEC 72 96
+DATE TIME ISSUED
+05002
+PREVIOUS EDITIONS OF THIS FORM ARE OBSOLETE

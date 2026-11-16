@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:57:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5377074, "source_ctime_ns": 1793378846326649593, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969509/0897.jpg", "source_mtime_ns": 1785700952000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969509/0897.jpg", "source_sha256": "d5cbc0903899740c313d68d5ca6c1d0786b0e4d8085a07b6db9e919f53a4cced"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 322, "method": "ocr", "page": 1, "variant": "clean-vision"}
+PAGE TVO RUMPH 7
+SO A. THREE TIL IS AS FRIGHT AS JUPITER.
+.. UNK.CUN
+C. 2E DEGREE AZI UTH
+• FADING 25 DEGREE TO DA VEER
+E. LICHT WENT CUT
+F. 7 PECONDS
+3. A. NAKED CYE
+PAPATOLIC.
+C.. RONE
+.. 8. 1 / 7450"
+7• NIGHT
+S. RICH FALLS, BY
+• ENCIVEERINC
+TICH FALLS, Y
+.......
+7. A CLEAR
+-• (12 CURTACT 2>
+(.) 6 - 1/A
+DEGREES
+KI CTS

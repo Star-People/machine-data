@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:51:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4550423, "source_ctime_ns": 1793388225665419184, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000499/0778.jpg", "source_mtime_ns": 1785748135000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000499/0778.jpg", "source_sha256": "06ebd73053d07d1eac9bab81fdb52c500229111d764b1b32cf26130746dc1e05"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 944, "method": "ocr", "page": 1, "variant": "plain-vision"}
+28/2150₴
+NAVAL MESSAGE
+UNCLASSIFIED
+PRECEDENCE
+IACTIONI
+RELEASED BY
+PLASH
+DRAFTED BY
+NAVY DEPARTMENT
+EXT. NO
+FLASH
+(INFOI
+AF IN : 9757 (29 Mar 63) A/crp
+*Z 282230Z
+AF DIST: ACTION: NIN-9
+FM
+USCGC MCCULLOCH
+INFO
+XOP-1,
+XOPX-4
+SAF- OS
+DIA-20,
+DIA-CIIC-2 (48)
+TO ZEN/CINCLANTFLT
+RUEASN/CINNORAD
+RUEA SN /2 6NORAD
+RUEAHQ/HQ USAF CNP
+INFO ZEN/COMDT COGARD
+ZEN/ COMEASTAREA
+RUECW /CNO
+RUWSPG/COMEAST SEAFRON
+UNCLAS
+LOCATING ONE
+1. UFO
+2. LAT 35-00N LONG 48-00W
+3. 2821502
+4. SIGHTED BEARING 060 ALTITUDE 62 DEGREES. BEARING
+CUNSTANT ALTITUDE DECREASED TO 15 DEGREES.
+5. VISUAL
+6. APPEARED TO BE FAST MOVING STAR
+AF NOTE: Suspected dupe of AF IN 9710.
+92....COG
+SECNAV UNSECNAV ASTSECNAV (R&D)
+00 09 09B 09M 09D 03 33 34 35 05 06 07
+72 76 94 IP NAVAIDE FLAGPLOT BFR CMC JCS CSA CSAF CIA NIC
+ADVANCE COPIES DELIVERED
+CONTROL NO.
+CIRCUIT NO.
+PAGE
+OF
+PAGES
+TIME OF RECEIPT
+DATE TIME GROUP
+62922/WH/WR/3
+B237
+1
+2319Z/28 MAR
+63
+28223ØZ MAR 63
+UNCLASSIFIED

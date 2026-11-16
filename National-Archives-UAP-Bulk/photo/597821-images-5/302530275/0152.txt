@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:40:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1779575, "source_ctime_ns": 1793388607885506185, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530275/0152.jp2", "source_mtime_ns": 1785808560000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530275/0152.jp2", "source_sha256": "894927aab992a17861b935a718621503d6d574442da21cd048b0f1e4ee8cef65"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 858, "method": "ocr", "page": 1, "variant": "plain-vision"}
+#IN : 43822 (4 Sep 63) D/dOMENT OR THE AIR PORC
+TAFF MESSAGE BRANC
+UNCLASIIRED MESSAGE
+INCOMING
+Page 1 of 2
+ACTION: SAF-OS-3
+INFO : NIN-9
+SMB C059
+B768 ZCSOB747
+RR RUEAHO
+ZNR ZFH- 1
+-13-
+CZCSOB761ZCQJB174
+RR RUEAQO RUEAFF
+DE RUWUSBA 4 03/2355Z
+ZNR
+R 03235 0ZÍ
+FM 552AEW C WG MCCLELLAN AFB CALIF
+TO RUWGALE/ADC
+RUWHSB/28AIRDIV HAMILTON AFB CALIF
+RUEAFF/AFSC
+RUEAHO/ CSAF
+RUEAH/OSAF WASH DC RUEANQ
+UNCLAS 5200P-I 1467.
+ADC FOR ADOIN, 28AIRDIV FOR 280IN, AFSC FOR SCF, CSAF
+FOR AFCIN, OSAF FOR SAFOI, THE FOLLOWING REPORT
+SUBMITTED IAW AFR 200-2, A. 1. ROUND, 2. DIME.
+3. WHITE. 4. TWO. 5. ONE STATIONARY- OTHER
+CIRCLING IT. 6. NONE. 7. NONE..
+8. NONE. 90 N/ A.
+B. 1. STARGAZING. 2. 30 DEGREE ABOVE MOON 3, DID NOT
+DISAPPEAR. 4. ONE STATIONARY- OTHER CIRCLING IT.
+5. DID NOT DISAPPEAR. 6. UNKNOWN. C. 1. GROUND
+VISUAL. 2. BINOCULARS. 3.. N/A. D. 1. 0500Z 3 SEP

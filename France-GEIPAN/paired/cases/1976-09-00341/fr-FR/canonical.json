@@ -8,7 +8,7 @@
   "document_id": "doc-bd6bcb3669f9f36c42229de7",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-26T09:05:35Z",
+    "generated_at": "2026-11-16T09:17:08Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-09-00341/case.html",
-    "bytes": 18529,
+    "bytes": 18547,
     "canonical_source_identifier": "GEIPAN:1976-09-00341",
     "case_metadata": {
       "classification": "B",
@@ -244,7 +244,7 @@
     "original_title": "MAGNE (86) 10.09.1976",
     "relative_path": "cases/1976-09-00341/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "8418852a2f7755468f76e265425517ec72a32129d432a85386e01a6bcdad0745",
+    "sha256": "f5de74eeb1ee5ce2208b14ea602165804bfc23286df2abd737f40514279121f6",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-09-00341"
     ]

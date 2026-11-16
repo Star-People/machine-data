@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:26:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 877070, "source_ctime_ns": 1793388798951771733, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532678/0956.jp2", "source_mtime_ns": 1785808239000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532678/0956.jp2", "source_sha256": "10d1c2651c3d639a4317111c71507a8b4f5c49542f1ad118375dff707450bb1a"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 788, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• INCOMING
+' DEPARTMENT OF THE AIR FORCE
+MESSAG5881(7may64 )
+STAFF MESSAGE BRANCH
+UNCLASSLEEDor 2
+PAGE 2 RUWGBH 1C UNCLAS
+PORT FIRST THOUGHT OBJECT WAS AIRCRAFT ON FINAL APPROACH WITH
+LANDING LIGHTS ON. DIFFERENCES IN SIZE ESTIMATION COULD HAVE
+BEEN CAUSED FROM THE FACT THAT IT OCCURRED AT NIGHT WITH NO
+VISIBLE REFERENCES TO GAUGE THE DISTANCE AND SIZE CORRECTLY.
+THIS OBJECT COULD POSSIBLY HAVE BEEN A SATELLITE REENTERING THE
+AIMOSPHERE; HOR A METERORITE. SINCE THE OBJECT DID NOT MOVE AT
+A RAPID RATE THERE IS A GOOD POSSIBILITY THAT IT MAY HAVE BEEN A
+WEATHER BALLOON. NEITHER CAN BE PROVEN BECAUSE NO PHYSICAL
+EVEDENCE HAS BEEN FOUND, AND THERE HAVE BEEN NO REPORTS OF
+ANYTHING FALLING.
+BT
+NOTE: Section I 1s AFIN 25871 (7
+Section 1118 AIN 25656 (Ma64)
+Advance copy to DIA and NIN

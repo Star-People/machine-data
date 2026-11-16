@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:54:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4975357, "source_ctime_ns": 1793368902507092909, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929881/0217.jpg", "source_mtime_ns": 1785688901000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929881/0217.jpg", "source_sha256": "cc6c3a48221d03950a1bb4dc20adbcf1e8b68892acbff13eb75c12eb8dd3b71e"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 618, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+Incident #67 -- near Placerville, California -- 14 sugust 1947
+If details of the observers' statement are accurate,
+it would be difficult to assign an astronomical origin to the
+object seen in tris incident. There are a few statemonts which,
+taken alone, strongly suggest that a neteor wus observed: high
+rate of speod,
+"seemed to de in a shallow dive," white smoke trail,
+"disappeared in a puff of dark gray snoke."
+dowever, unless the
+description of
+the object (4-6 feet long and 10-14 inches wide)
+and the estimated distance (less than 1000 feet)- are illusory,
+the noteorie explanation will not hold.

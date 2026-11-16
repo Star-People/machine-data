@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:28:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1098200, "source_ctime_ns": 1793355849037461012, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0066.jpg", "source_mtime_ns": 1785564540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0066.jpg", "source_sha256": "25e1cf7421b037f9743218937318d492c4985d1f88ee158e798f1cb5f7f0e0c0"}
+
+===== PAGE 1 =====
+{"alpha_words": 212, "chars": 1385, "method": "ocr", "page": 1, "variant": "plain-vision"}
+51
+Gerald E. Weinstein, another member of the Evaluation Division,
+although in fact Tixier also worked closely on Hi-Fly with both
+Bauman and Weinstein. Many airmen continued to help, including
+Staff Sergeant James McClure, who designed an aluminum launch
+platform ("McClure launcher") in place of the earlier plywood
+contraption. Finally, on 17 July, there was the first "perfect"
+test, from the standpoint of target performance; and on 5
+September the first successful firing of a Sidewinder miss le
+against a Hi-Fly target.
+As now developed, the target is an aluminum-winged, dart-
+shaped affair. It is automatically positioned by a compass
+which keeps it pointing true north until ready to be fired.
+The Hi-Fly system includes two flares that are lit by command
+signal just before the Sidewinder missile is launched from the
+test aircraft. Since the Sidewinder uses infrared guidance,
+it begins to home in on the heat gen rated by the flares--at
+which point the target itself is fired away on a ballistic
+trajectory, and the misile (if all goes well) corrects its
+own trajectory to follow after.
+Though further improvements can be erpected, the Hi-Fly
+system is now operational, with a capability even for
+providing three targets on a single mission. Once its
+practicability was established, moreover, material support
+was obtained for the target program. No great amount of money

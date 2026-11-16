@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-08-00329/case.html",
-    "bytes": 18480,
+    "bytes": 18498,
     "canonical_source_identifier": "GEIPAN:1976-08-00329",
     "case_metadata": {
       "classification": "A",
@@ -40,12 +40,12 @@
     "original_title": "ANGLEMONT (88) 03.08.1976",
     "relative_path": "cases/1976-08-00329/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "c7b1b08898e27591881f78d7321739ceff07443a29ffc7a468fe47a3cfcaa0a9",
+    "sha256": "81c3b3f279733d7e904a2c6ea1355b9237333441dddc4fd9ce7c99f099285c15",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-08-00329"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

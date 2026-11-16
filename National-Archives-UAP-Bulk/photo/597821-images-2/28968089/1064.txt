@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:00:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6085789, "source_ctime_ns": 1793378470786924707, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968089/1064.jpg", "source_mtime_ns": 1785696481000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968089/1064.jpg", "source_sha256": "100367f3616be8f7295f382996b742081e44e07965dc031e998b920f8ed8f653"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1134, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+28 October 1956
+3. DATE-TIME GROUP
+Local
+GMT_
+_28/21032
+5. PHOTOS
+Tehachapi, California
+4. TYPE OF OBSERVATION
+• Ground- Visual
+D Air Visual
+D Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+O Yes
+XENo
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Wos Balloon
+00
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraf
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+25 minutes
+10. BRIEF SUMMARY OF SIGHTING
+one
+south
+COMMENTS
+One round silver object, size of a dime
+Southerly movement not with
+at arm's length. Object
+was stationary
+prevailing winds (to Last). How-
+at tree top level. Object was stationaryever this does not rule out bal-
+then moved south and slowly disappeared, loon. Object possibly balloon.
+after having been observed visually &
+A/C ruled out due to duration. Si
+through binoculars for 25 minutes.
+ing in daytime with good visibility
+Possible balloon but cannot conclude
+without wind information. Insuffi-
+cient data.
+ATIC FORM 329 (REV 26 SEP 52)

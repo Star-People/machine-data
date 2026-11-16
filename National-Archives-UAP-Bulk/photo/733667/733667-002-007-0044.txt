@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:37:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2138186, "source_ctime_ns": 1793394351774064967, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-007-0044.jpg", "source_mtime_ns": 1785567358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-007-0044.jpg", "source_sha256": "6ff236f01c7e15a94c59ccffc2010fdee82b7599904bf940d22ee4facc7c3153"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 336, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3/9/87
+Dear Sirs
+/aul Harvey in early march mentioned ou
+his radio program information available through
+you reparding a possible uFO sightiny by
+one or more airplane pilots. I desire this
+informatioN. Please aduise me regarding cost.
+Thank you.
+Sincerely.
+Kurt Andersen
+1702 S. ~T St.
+Aberdeed, South Dakota
+57401
+phone: 605-225-8382.

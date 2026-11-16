@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:43:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3562449, "source_ctime_ns": 1793374832987623931, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953460/1019.jpg", "source_mtime_ns": 1785696599000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953460/1019.jpg", "source_sha256": "288b05a48614be69f54072ea23f9e631cb810fe4c4edb923b528cddb837bc3c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 565, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• RYS 08
+Multist
+CM 1816LOP DT ADW FO FFO RY ENT
+TO DIRECTOR OF INTELLIGENCE HO USAF
+L 7
+AIR TECHNICAL INTELLICENCE CENTER
+ATTN ATIAA-20
+CG. ADO
+COMMANDER MATS
+HO FLIGHT SERVICE
+10/06002
+BREMERTEN,
+WASh
+FROM LOCHORO FLICHT SERVICE CENTER
+FLYOBRPT
+POSITION OF OBJECT-BEAR
+OF 270 DECREES FROM 47133N 122160W
+DISTANCE NOT KNOWN
+NATURE OF OBJECT COLOR WHITE SIZE LARGE
+TIME SIGHTED-APPROXIMATELY 180600Z
+MOVEMENT-OBJECT MOTIONLESS OBSERVED JUST ABOVE HORIZON
+RECEIVED-10-0-630Z
+REPORTED BY¿¿MR
+E STAFF DUTY OFF
+BREMERTON WASH. 13TH NAVAL DISTRICT SEATTLE, WASH 2) W
+37

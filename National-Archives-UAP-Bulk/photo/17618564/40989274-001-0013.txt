@@ -1,0 +1,99 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:41:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2224373, "source_ctime_ns": 1793355801022231769, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0013.jpg", "source_mtime_ns": 1785564529000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0013.jpg", "source_sha256": "a96683407fa3f09dc8e7efb6f1feefe820e8479577fb50f8c818ee2a8e0ae914"}
+
+===== PAGE 1 =====
+{"alpha_words": 489, "chars": 3136, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 2 Desktop Publishing - Disk Information
+FOR GPO USE
+Jacket no.
+Program/ Print order no.
+7. File Information - List information for all files (including graphics) used in the document to be output
+File
+Size
+Program
+Used
+File Name
+(including extension)
+Example 1
+Exgraph1.TIF
+See
+96 KB
+17 MB
+Pagemaker
+Illustrator
+Compression
+Program
+Used, If Any
+Stuffit
+None
+Document*
+ASCII or
+PostScript
+Pagemaker
+Graphic
+File Format
+(TIFF, EPS, etc.)
+Linked
+Graphic
+(Yes or No)
+TIFF
+No
+2+3
+continued in block 10 or on an attachment
+*Document = program file format (provide name)
+8. Color Separation Information
+Color identification system used:
+PANTONE Matching System ®
+Process colors (CMYK)
+Yes
+x No
+Have color separations been made?
+Name of program used to separate colors (if any)
+Trapping:
+Supplied
+Not Supplied
+Do not trap
+9. Miscellaneous Checklist
+Do the files provide for bleeds (if any)?
+Yes
+Were changes made to any file(s) after the proof was made?
+No
+Yes
+ASCIl = unformatted
+TRUMATCH®
+Other
+| RGB
+Version
+Contractor to create traps
+No If yes, explain
+10. Notes/Special Instructions
+ALL images need to be printed in grayscale as book is te be!
+Black and white except coves (mfo for coves is on separate 952)
+Recommendations for submitting "Electronic Mechanicals"
+• If you are providing files in PostScript format only, remember these are printer
+driver files and usually cannot be manipulated or changed by GPO or the
+contractor. Therefore, if any author's alterations are required you will have
+to provide updated files.
+• If any file has been changed for the benefit of the printout le.g., making an
+image smaller to show bleeds on a printout) be sure to change the file back
+before making the disk you are submitting.
+• After making the printout, remove any "for position only images in the files
+and replace them with an ID number. (referenced to the printout and supplied
+copy) to speed up film output and thus hold down costs
+• If any holding lines (keylines) are used in the file to indicate illustration size
+and position, indicate on the printout whether the lines print or not..
+• On the supplied printout, clearly identify any halftones or other copy
+being supplied as separate camera-ready copy.
+• Clearly mark any miscellaneous instructions that would have been on an
+overlay (e.g., folding and perforating marks), on the printout or by other
+means.
+• Label all disks with the agency name, project name, the date the disk
+was made and the requisition or SF-1 number. In addition, show a disk
+number and totals number of disks sent (e.g., 1/5).
+• Keep an exact duplicate of all disks and visuals you are submitting to
+GPO.
+• To avoid false expectations, any requested enhancements to data
+supplied (e.g., added trapping) should be discussed with GPO ahead of
+time.
+For additional assistance in completing this form and submitting electronic mechanicals, see GPO Circular Letter No. 354 and Technical Report No. 31, or call
+your Customer Service Representative or Regional Printing Procurement Office.
+Mention of any brand name product as an example is not meant as an endorsement of that product nor of its manufacturer.

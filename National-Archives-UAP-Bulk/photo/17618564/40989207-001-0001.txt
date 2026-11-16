@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:49:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4354196, "source_ctime_ns": 1793354402775122109, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0001.jpg", "source_mtime_ns": 1785564279000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0001.jpg", "source_sha256": "130454f428789ca43796b22b30bb451c2ef35284dafd56bbabecdd3ef20ce263"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1411, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Designation
+Cambridge Field Station
+(CFS)
+DESIGNATIONS, HEADQUARTERS, AND COMMANDS
+1945 - 199îšę
+Dates
+20 September 1945 -
+5 July 1949
+Headquarters
+Watson Laboratories
+Red Bank, N.J.
+20 September 1945-
+1 December 1947
+Command
+Air Technical Service
+Command (in 1946 renamed
+the Air Materiel Command).
+20 September 1945 - 2 April 1951
+Air Force Cambridge
+Research Laboratories
+(AFCRL)
+Air Force Cambridge
+Research Center (AFCRC)
+Detachment 2, Hdgtrs. Air
+Force Research Div. (AFRD)
+Air Force Cambridge Research
+Laboratories (AFCRL)
+5 July 1949 -
+28 June 1951
+28 June 1951 -
+2 May 1960
+2 May 1960 -
+1 August 1960
+1 August 1960 -
+15 January 1976**
+Air Research and Development
+Command (ARDC)
+2 April 1951 - 1 April 1961
+Air Force Research
+Division
+Director of Laboratories,
+1 July 1970 - 1 Oct. 1982
+Office of Aerospace Research
+(OAR)* 1 April 1961 - 1 July 1970
+Air Force Systems Command
+(AFSC) 1 July 1970 - Present
+Air Force Geophysics Laboratory
+(AFGL)
+15 January 1976 -
+9 March 1989
+Space Technology Center
+1 Oct. 1982 - 12 Dec 1990
+Geophysics Laboratory (GL)
+Geophysics Directorate (GP)
+9 March 1989 -
+12 December 1990
+13 December 1990 -
+Present
+Phillips Laboratory
+13 December 1990 - Present
+*The Office of Aerospace Research had command status and reported directly to Headquarters USAF.
+**Two Divisions of AFCRL were transferred to jurisdiction of the Rome Air Development Center (RADC) on 1 January 1976.

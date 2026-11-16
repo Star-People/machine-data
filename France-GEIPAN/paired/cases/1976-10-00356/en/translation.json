@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-4c9d419c1eebb97e1b18587e",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-07e6fa30f51a3436d5e18ef1",
           "segment_index": 3,
           "source_segment_id": "seg-07e6fa30f51a3436d5e18ef1",
           "source_text_sha256": "166eb5f53a408b6a5b28f13772178d0ada97f725ae4caa47485895ebbf298478",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Auvergne",
           "translation_text_sha256": "c7745f80c6e57d0e6058f0b0bf73fe50589d08f6133fc6cd0a4caad6b56dff86"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-4c9d419c1eebb97e1b18587e",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-56f30ffd01cc279c17518823",
           "segment_index": 4,
           "source_segment_id": "seg-56f30ffd01cc279c17518823",
           "source_text_sha256": "3609ced99dfceec55623a8db9aaf5c2aaff735618c05e50fcdfbe103b32dad02",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Puy-de-Dôme",
           "translation_text_sha256": "5f8de06df3f07168a39c9ae6b80faa344b75776a0431c43f429b2878db14318a"
         },
@@ -114,8 +114,8 @@
           "source_text_sha256": "99900c51c71c36a2a52d8f84b280bd72f1dbe6b6c147d45eacda8922dbe78274",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Phenomenon Type: Identified but unspecified",
-          "translation_text_sha256": "0f68bd0fdb1d7a3497ed7bf1bc9edf9a02576a951db17c43c4da69dd5a5c16cf"
+          "text": "Phenomenon type: Identified phenomenon not specified",
+          "translation_text_sha256": "6623dd06c461c18a3473aa4060657096afedd77488afd0eba7002ae2480dbdcc"
         },
         {
           "end_ms": null,
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-4c9d419c1eebb97e1b18587e",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-730351e0b7e83948e268fdad",
           "segment_index": 8,
           "source_segment_id": "seg-730351e0b7e83948e268fdad",
           "source_text_sha256": "ea247d4b067bb49652509d81fe80c04b34e5347b72815c028ba979016f7cd3c0",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 591 (1976309149).pdf",
-          "translation_text_sha256": "eb7b4f96699c0ea947ec227ee31da6b71013304a73a79fc312866c94bf920315"
+          "status": "not-required",
+          "text": "Documents: PV n°591 (1976309149).pdf",
+          "translation_text_sha256": "ea247d4b067bb49652509d81fe80c04b34e5347b72815c028ba979016f7cd3c0"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-4c9d419c1eebb97e1b18587e",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-41b1cfb29384348361012c8e",
           "segment_index": 9,
           "source_segment_id": "seg-41b1cfb29384348361012c8e",
           "source_text_sha256": "5f1f423feda62600cae50bdd342db6f4945302fb213904c4a97ba31b48d31c5c",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: CHATEL-GUYON (63) 29.10.1976 T1 CHATEL-GUYON (63) 29.10.1976 T2 CHATEL-GUYON (63) 29.10.1976 T3 CHATEL-GUYON (63) 29.10.1976 T4",
           "translation_text_sha256": "6a1a990eeee800e0d9bc3621122dc11c973add121350b2078e394130aec758b8"
         },
@@ -170,48 +170,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-4c9d419c1eebb97e1b18587e",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "dates",
-              "missing_from_translation": [
-                "1976-10-29"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "04:00",
-                "04:45"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "0",
-                "4",
-                "4",
-                "45"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-5ff3d0fc4a81e6c50fb7c378",
           "segment_index": 11,
           "source_segment_id": "seg-5ff3d0fc4a81e6c50fb7c378",
           "source_text_sha256": "66b08ac4e8b003d8a7c621694f354a7fa1be27c0521f2a95fe337f139a5a4c61",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: During the night of October 28 to 29, 1976, between 4:00 and 4:45 a.m., several people reported a bright light phenomenon in the sky. A stationary circular object emitted a very intense white light. There were few details provided about the possible altitude of the object. These people likely made an astronomical observation.",
-          "translation_text_sha256": "b489f1424a83b93a6a8777388ae7adc7f229d2d3a7ea6e2f4f29253281e33313"
+          "status": "machine-unreviewed",
+          "text": "Description: During the night of October 28 to 29, 1976, between 4:00 and 4:45 a.m., several people reported a bright light phenomenon in the sky. A stationary object with a circular shape was emitting a very intense white light. There are few details provided about the possible altitude of the object. These people likely made an astronomical observation.",
+          "translation_text_sha256": "51ffe6c4f53c7c47426510efacf3fc42838d179bfcbbe2a75635031eb045ff1d"
         }
       ],
       "source_page_id": "page-4c9d419c1eebb97e1b18587e"
@@ -222,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-27T21:21:54Z",
+    "generated_at": "2026-11-16T09:06:34Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

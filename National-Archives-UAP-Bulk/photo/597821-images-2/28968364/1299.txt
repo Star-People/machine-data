@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:02:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6271774, "source_ctime_ns": 1793378549973029403, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968364/1299.jpg", "source_mtime_ns": 1785696755000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968364/1299.jpg", "source_sha256": "c37ebc43fe645c5d8dcbc9c74648258f2ad770c72354dc399bcd7a74349ae26b"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 924, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+14 November 1956
+3. DATE-TIME GROUP
+Local
+GM T_
+14/1530Z
+5. PHOTOS
+• Yes
+XA No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Brainerd, Minnesota
+4. TYPE OF OBSERVATION
+*kGround- Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+Civilian
+B. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircratt
+•
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astroromical
+Other
+EX Insufficient Date for Evaluation
+Unknown
+one minute
+one
+descending
+10. BRIEF SUMMARY OF SIGHTING
+IT. COMMENTS
+One object oblong, size of basketball,
+Insufficient data, However,
+color silver on top and bottom. Black
+this is very possibly a
+stripe in center. Object was descend-
+balloon released from general
+ing to ground out of view.
+Mills, Raven Industries or
+some other local research
+organization.
+ATIC FORM 329 (REV 26 SEP 52)

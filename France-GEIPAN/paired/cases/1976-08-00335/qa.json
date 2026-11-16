@@ -3,24 +3,10 @@
   "findings": [
     {
       "added_in_translation": [
-        "23:30"
-      ],
-      "check": "times",
-      "missing_from_translation": [
-        "23:00"
-      ],
-      "segment_id": "seg-1c27886557adb181a8fd7d3f",
-      "severity": "error",
-      "status": "mismatch"
-    },
-    {
-      "added_in_translation": [
         "80"
       ],
       "check": "numbers",
-      "missing_from_translation": [
-        "30"
-      ],
+      "missing_from_translation": [],
       "segment_id": "seg-1c27886557adb181a8fd7d3f",
       "severity": "warning",
       "status": "mismatch"

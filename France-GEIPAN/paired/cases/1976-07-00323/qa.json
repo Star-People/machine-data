@@ -2,30 +2,6 @@
   "document_id": "doc-dda6f58052e7441c3c301353",
   "findings": [
     {
-      "added_in_translation": [
-        "1976-07-24"
-      ],
-      "check": "dates",
-      "missing_from_translation": [],
-      "segment_id": "seg-b1513a0da46844ddca817681",
-      "severity": "error",
-      "status": "mismatch"
-    },
-    {
-      "added_in_translation": [
-        "1976",
-        "24",
-        "7"
-      ],
-      "check": "numbers",
-      "missing_from_translation": [
-        "24.07.1976"
-      ],
-      "segment_id": "seg-b1513a0da46844ddca817681",
-      "severity": "warning",
-      "status": "mismatch"
-    },
-    {
       "added_in_translation": [],
       "check": "dates",
       "missing_from_translation": [

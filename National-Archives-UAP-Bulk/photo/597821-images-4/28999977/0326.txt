@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:52:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4655914, "source_ctime_ns": 1793388091642447687, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999977/0326.jpg", "source_mtime_ns": 1785748415000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999977/0326.jpg", "source_sha256": "bd778095f44c7382c09d37982d8a43cac0b40a7e260868e0f0011838ed4b7713"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 828, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+13 December 1962
+3. DATE-TIME GROUP
+Local
+GM T
+5. PHOTOS
+13/1212Z
+No
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Robins AFB,
+Georgia
+4. TYPE OF OBSERVATION
+ACK Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS 9. COURSE
+2 seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+Object traveling WSW observed at
+45 dgr to 60 descent. Obj appeared as
+a bright green light
+with a lighted
+tail
+about 1 ft. long.
+Speed very fast. In
+sight for 2 seconds.
+South
+11.
+COMMENTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+CK XWas Astronomical
+Meteor
+Probably Astronomical
+Possibly Astronomical
+•
+•
+Other
+Insufficient Data for Evaluation
+Unknown
+Probably a meteor sighting.
+ATIC FORM 329 (REV 26 SEP 52)

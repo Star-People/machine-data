@@ -8,7 +8,7 @@
   "document_id": "doc-7b325fea1fd7ac9a99540b32",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-28T12:38:27Z",
+    "generated_at": "2026-11-16T08:39:56Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00319/case.html",
-    "bytes": 19039,
+    "bytes": 19057,
     "canonical_source_identifier": "GEIPAN:1976-07-00319",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "REVIN (08) 15.07.1976",
     "relative_path": "cases/1976-07-00319/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "b2b4e69adb86558237b40b5103c4665eb432d58fd5b3db3b9fe4f8077f56859b",
+    "sha256": "60001d088723b7f1c90489ca215fe39961f1fe57282047ddc23a7e009b19e58b",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00319"
     ]

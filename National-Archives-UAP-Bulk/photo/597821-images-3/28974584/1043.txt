@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T09:07:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7594021, "source_ctime_ns": 1793380117711491987, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974584/1043.jpg", "source_mtime_ns": 1785700635000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974584/1043.jpg", "source_sha256": "3b6a909f72b2f82f1e3a7c721c9d6a5525d3b1a35432ee020c1d14df33578d69"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 325, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ Witness.
+Prob balloor
+i0r12 12054027 52
+RE007
+PRO 17 YMB005RFA013K0 11FGF002
+RR RJEDON RJEDWP RJEPHO
+DE RJEDK 1GF
+R 1203302
+FM COUDR ITH ACHRON
+TO RJEDDN/COMDR ADC ENT AFE
+RJEDKACOMDR 20TH AIR DIV
+RJEDWP/COMDR ATIC
+RJEPHO/CONDR DIR OFINTEL HO USAF
+ATIC 37x32
+/UNCIASSIFIED/OPSK-14 SU23:E: UFOD BEF: AFR 200-2. 1. A) SEENED

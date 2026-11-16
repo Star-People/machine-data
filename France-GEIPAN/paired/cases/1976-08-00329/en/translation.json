@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-c84a218c5ddb9183cd9be2bd",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-d2293d654d416d7240b45add",
           "segment_index": 3,
           "source_segment_id": "seg-d2293d654d416d7240b45add",
           "source_text_sha256": "c708fef64589ad6d74a18b3e6880242802b1f650c24085111aa22d2a266a41b3",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Lorraine",
           "translation_text_sha256": "f72e8a1624c663045d06f4de0cd4dc6b72d95c386da81c6230f2819c5fa2e548"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-c84a218c5ddb9183cd9be2bd",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-303b257d4de28b8de8844ad9",
           "segment_index": 4,
           "source_segment_id": "seg-303b257d4de28b8de8844ad9",
           "source_text_sha256": "cb389fdc9e7742ad84d9626d4ffba98356c8b738f6e68b753285eee298cced41",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Vosges",
           "translation_text_sha256": "6b3864f5c08a2a53f1118dc8404412b9a8ef39bbb9d5f0129bc2a15192674f8c"
         },
@@ -82,8 +82,8 @@
           "source_text_sha256": "af3c393e0cd98390c556fb921630c5c6f7383d31ac86d78af17576637a6e230b",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Classification: A (Unclassified)",
-          "translation_text_sha256": "450a8e10fb4b2312baf262f45436f2fa2cfc060460470e5168c7ac58772230cb"
+          "text": "Classification: A",
+          "translation_text_sha256": "af3c393e0cd98390c556fb921630c5c6f7383d31ac86d78af17576637a6e230b"
         },
         {
           "end_ms": null,
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-c84a218c5ddb9183cd9be2bd",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-e3fe1da290242d27c5b64768",
           "segment_index": 8,
           "source_segment_id": "seg-e3fe1da290242d27c5b64768",
           "source_text_sha256": "5edbec367b7d0f6a36991ad5a396ec8bcd29edd3af18304159934bf2990cb355",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 558 (1976309189).pdf",
-          "translation_text_sha256": "248b3fe52d57a484cc67ee63fe94395710a7dd5e9d760a879f29c54eaf1daf2c"
+          "status": "not-required",
+          "text": "Documents: PV n°558 (1976309189).pdf",
+          "translation_text_sha256": "5edbec367b7d0f6a36991ad5a396ec8bcd29edd3af18304159934bf2990cb355"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-c84a218c5ddb9183cd9be2bd",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-fc500f03203f0542b951798a",
           "segment_index": 9,
           "source_segment_id": "seg-fc500f03203f0542b951798a",
           "source_text_sha256": "867b204c63f327b509783c5ebd7761db1d868026c6fac04c341c088b7735aab6",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: ANGLEMONT (88) 03.08.1976",
           "translation_text_sha256": "3622a9058089480e5bf39df528b703dc3869a80691c26b1442f28f5ba6a8a5cc"
         },
@@ -170,36 +170,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-c84a218c5ddb9183cd9be2bd",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "times",
-              "missing_from_translation": [
-                "11:45"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "11",
-                "45"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-33ccf3dadd4e9154b6ca94fa",
           "segment_index": 11,
           "source_segment_id": "seg-33ccf3dadd4e9154b6ca94fa",
           "source_text_sha256": "be4d2314048d1460ddd0722b55252dc9f41081a753fd6c7c12ea59b2d9f6fbd5",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: On August 3, 1976, around 11:45 a.m., a farmer noticed in the sky the slow movement of a cylindrical object with a constant, bright aluminum color. The observation lasted 30 minutes before the object disappeared over the horizon. During the neighborhood investigation, several people identified the object's description as a promotional balloon for a tire manufacturer, seen several times that same day.",
-          "translation_text_sha256": "e2660e4c287212f69c37fc089c55dc297e4798b176016105ecfe42b27b988a1a"
+          "status": "machine-unreviewed",
+          "text": "Description: On August 3, 1976, at approximately 11:45 a.m., a farmer observed in the sky the slow movement of a cylindrical object with a constant, bright aluminum color. The observation lasted 30 minutes before the object disappeared over the horizon. During the neighborhood investigation, several people identified the object's description as a promotional balloon for a tire manufacturer, seen several times that same day.",
+          "translation_text_sha256": "06c446ce96f0f6f3ea7e49496b86fb3efda6862e1bf6d2630e72602eff7e0662"
         }
       ],
       "source_page_id": "page-c84a218c5ddb9183cd9be2bd"
@@ -210,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-26T02:35:12Z",
+    "generated_at": "2026-11-16T09:22:26Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

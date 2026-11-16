@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T08:42:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3207934, "source_ctime_ns": 1793376500369521294, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960989/0838.jpg", "source_mtime_ns": 1785696673000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960989/0838.jpg", "source_sha256": "4e67d6b4c02d0b96655fc0e71905b5abd7087cafdd98a90a721454620356328b"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 1000, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+31 January 1955
+3. DATE-TIME GROUP
+Local
+GMT_1333șŘ
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Fuja,
+Japan
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Ground-Radar
+NIXAit- Visual
+6. SOURCE
+• Air-Intercept Radar
+Military
+8. NUMBER OF OBJECTS
+(pilots)
+9. COURSE
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+1x Insufficient Data for Evaluation
+Unknown
+C1 No
+7. LENGTH OF OBSERVATION
+6 minutes
+10. BRIEF SUMMARY OF SIGHTING
+Circular, white, no discernable
+features. No trail. First thought
+object to be balloon but seemed
+to be going against winds. Obser-
+ving a/c at 37,000 feet, object
+at estimated 45-52,000 feet.
+11. COMMENTS
+Motion picture film poor. No
+features, on light blob in a
+few frames. Insufficient Data
+for evaluation.
+Raference: ATIC # 209035,
+IR-13-55, D/I FEAF ATILO
+dtd 2 Feb 55 on file in
+ATIC repository.
+ATIC FORM 329 (REV 26 SEP 52)

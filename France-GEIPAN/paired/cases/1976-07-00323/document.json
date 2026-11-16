@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00323/case.html",
-    "bytes": 19138,
+    "bytes": 19156,
     "canonical_source_identifier": "GEIPAN:1976-07-00323",
     "case_metadata": {
       "classification": "C",
@@ -40,7 +40,7 @@
     "original_title": "CONDOM (32) 23.07.1976",
     "relative_path": "cases/1976-07-00323/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "dcb89b816b2c3bdc74e9a4eb73fca96d2e204963c1c46fe7441e77bb6fe356b2",
+    "sha256": "c847f0e859cbffae33221473482677ad16cbd11d45d08f12bded28ef7e220bdb",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00323"
     ]
