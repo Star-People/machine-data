@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:02:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4355875, "source_ctime_ns": 1793374794465962238, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953264/0848.jpg", "source_mtime_ns": 1785696860000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953264/0848.jpg", "source_sha256": "041e4a28320a71bf49ab4b3936f8ec5c7ef687c1ef209cacfab206cd582b07c0"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 385, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112--PART !!
+APPROVED 1 JUNE 1943
+Directorate, Ha, AAC
+UNCLACCIFIED
+AIR INTELLIGENCE INFORMATION REPORT
+IR-2-53
+5
+BEAUFORT SEA
+PROFILE
+12,000ł
+10,000'
+3,000'
+5,000'
+5,000'
+- 4,000'
+- 2,000°
+0458 AST.
+BERNARD HARBOR
+, 0450 AST
+061°
+LOCATION OF OBSERVER
+241м
+TRACK OBJECT
+MADE OVER GROUND
+104
+MAST
+© R BN
+BARTER
+ISLAND
+SCALE: 1": 2,650"
+1oFr80
+OF
+30' TO 40'
+DOWNGRADED AT & VRAD

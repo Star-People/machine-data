@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:15:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6759157, "source_ctime_ns": 1793380095389293102, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974513/0982.jpg", "source_mtime_ns": 1785701010000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974513/0982.jpg", "source_sha256": "a4d8b51eb24226c71252614536c0ccfcaa3eb8fbcda6452c03894d121b973437"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 811, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3.
+5.
+10 November 1957
+DATE-TIME GROUP
+Local _
+GM T.
+11/00302
+PHOTOS
+• Yes
+D.No
+7. LENGTH OF OBSERVATION
+15
+minutes
+one
+10.
+BRIEF SUMMARY OF SIGHTING
+Round object,
+five times the magnitude
+of a star, alternating orange, red
+and white. Very bright, moved up and
+down and sideways. Gradually faded.
+PROJECT 10073 RECORD CARD
+12. LOCATION
+Roanoke Rapids, North Carolin
+4. TYPE OF OBSERVATION
+Oy Ground- Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Rador
+6.
+SOURCE
+lili tary
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Bailoon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+O.
+INWas Astronomical
+Venus
+Probably Astronomical
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unknown
+•
+NW
+11. COMMENTS
+Venus sighting.
+ATIC FORM 329 (RKV 26 SEP 52)

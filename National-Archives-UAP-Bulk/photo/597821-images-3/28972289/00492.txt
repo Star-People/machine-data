@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:24:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8201265, "source_ctime_ns": 1793379432828988311, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972289/00492.jpg", "source_mtime_ns": 1785700919000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972289/00492.jpg", "source_sha256": "15940cd5d5123fc1a876571ed3d7d6afbb51c9e0e2ac40d0621b05d069b5bda1"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 583, "method": "ocr", "page": 1, "variant": "plain-vision"}
+A• THREE THOUSAND SCATTERED VISIBILITY FIFTEEN MILES
+B. SURFACE
+6020 FEET
+10,900 FEET
+16,200 FEET
+DEGREES/ 360
+DEGREES/ 290
+DEGREES/ 320
+DEGREES/ 27V
+KNOTS 10
+KNOTS 20
+KNOTS 10
+KNOTS 25
+28,00D FEET
+3,000 FEET
+50,020 FELT
+DEGREES/ 290
+DEGREES/ 270
+DEGREES/ 290
+KNOTS 30
+KNOTS 55
+KNOTS 30
+80,000 FEET
+DEGREES/ N/A
+KNOTS
+C• CEILING UNLIMITED
+D. VISIBILITY 15
+E. CLOUD COVER 2
+F. THUNDERSTORMS NEG
+8. UNK
+9. UNK
+10. NONE CONFIRMED WITH MEMPHIS ARTC
+11. OPERATIONS OFFICE MAXWELL FLT SVC CEN MAXWELL AFB ALA
+12. NONE
+SIGNED GOLINSKY END
+BT
+18/00012 OCT RJESYQ
+Stranget line
+Trangle Shage

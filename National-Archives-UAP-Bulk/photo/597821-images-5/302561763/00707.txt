@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:54:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1782178, "source_ctime_ns": 1793391796494350761, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302561763/00707.jp2", "source_mtime_ns": 1785808124000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302561763/00707.jp2", "source_sha256": "81cdb159c43c7c94063fec0060e18f169c2ac24beea218183d0d57ab133c9614"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 592, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2 MY 1908
+TOPT (UPO)
+Lt Col quintanilla/70916/mas/9 May 63
+UPO Observation, 25 February 1967
+Kr. Philip J. Klaas
+Harocur Square
+560 "3" Street, 3.9.
+Vashlagton, I. C.
+20024
+Reference the UPO observation of 25 February 1007, Fargo, Horth
+Dota, which se corvarded to you previoualy. To date, we have
+not received the additional data from the witnesses.
+Se are
+attaching a copy of the paotozraph and the seather data for this
+case.
+VOTER GUINEANILLA, JP, 1A COlonel, USAF
+aniel, serial Precomena orrice
+Aerospace Technologies Division
+Production Directorate
+2 Atch
+1. Photograph
+2. Neather Data

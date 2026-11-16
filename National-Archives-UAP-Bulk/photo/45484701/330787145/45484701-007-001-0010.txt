@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:24:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8253026, "source_ctime_ns": 1793364434942804781, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0010.jpg", "source_mtime_ns": 1785684559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0010.jpg", "source_sha256": "a42cc58b4d764a717b9540d68eab2ee9964b421f5f73722f7ca37f2fadad0c0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 812, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Memo for Chief, General Investigations Div.
+Subj: Unidentified Flying Objects
+Date:
+24 February 1954
+still observing it. He said that as it disappeared toward the east, they
+observed a jet aircraft at a lower altitude approachimg them from the east.
+REYNOLDS said that he and WOODRICH had discussed the object at
+great length and that it was completely beyond anything within their former
+experience.
+He said both had been pilots--he, REYNOLDS, having about 2,000
+hours--and both had seen many natural aerial phenomena such as Saint Elmo's
+fire. He said he was reporting the matter because he was certain in his
+own mind that something had been in the sky which he could not define within
+his own experience.
+Pa, VanaM
+C. VOSHELL
+Chief, Procurement
+Investigations Division
+Declassification Authority: NND 923007

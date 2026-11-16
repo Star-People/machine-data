@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:44:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 687721, "source_ctime_ns": 1793392837852227927, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302571623/0484.jp2", "source_mtime_ns": 1785808364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302571623/0484.jp2", "source_sha256": "5f08bb0c3306dd70e33dbc9e87510dd307dca97d130b249d795646c8185332d2"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 815, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS 78TH FIGHTER WING (AIR DEFENSE)
+HAMILTON AIR FORCE BASE, CALIFORNIA 94935
+October 19, 1967
+Mr
+Pebble Beach, Calif. 93953
+Dear Mrs.
+Thank you for your letter reporting your observation
+of an aerial phenomenon.
+This office does not maintain any information on sight-
+ings of Unidentified Flying Objects (UFO's). Reports
+of such sightings in any area of the United States are
+forwarded to Wright-Patterson Air Force Base, Ohio
+45433. There the reports are analyzed and complete
+records on all sightings are maintained.
+In the event that further information on this sighting is
+available at the Foreign Technology Division at Wright-
+Patterson Air Force Base, it will be forwarded to you
+by them.
+Sincerely
+Brme c. Jabe
+BRUCE W. LAKE, Captain, USAF
+Chief of Community Relations

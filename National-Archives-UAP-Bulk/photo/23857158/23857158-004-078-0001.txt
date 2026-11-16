@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:30:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11133482, "source_ctime_ns": 1793358942338638731, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-078-0001.tif", "source_mtime_ns": 1785681271000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-078-0001.tif", "source_sha256": "b66cbb3a3b8c1f2fecd015366c9af6ef65f577a2886c7405bc18097323bce0fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 592, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORI NO.
+DATO/FLE OF SIGHTING
+RECD HQ 4602D
+A735-0708-358-55
+10/04552 Cet 5šîšŚ
+10 Cet 55
+MOGATION OF SICITING
+LOCCED BY
+clenwood, Towa
+MEANS RECE
+IT Mag
+INVES UNIT
+І/Д
+DATE IR RECD HO
+N/a
+DATE OF FORM 5
+14 Oct 55
+S/Sgt Deludder
+ACTTON
+No investigation authorized
+DATE INVES ASSIGNED
+ASSICNING OFFICER
+N/A
+N/A
+DATE IR APPROVED
+I DATE IR TO ATIC
+N/A
+COMMENTS
+Due to the bobbing effect and the size it is the opinion of this
+has that the sighting vas possible caused by a balloon.
+CONCLUSTONS
+POSSIBLY BALICON
+AISOP FORM 7 (2 APR 55)

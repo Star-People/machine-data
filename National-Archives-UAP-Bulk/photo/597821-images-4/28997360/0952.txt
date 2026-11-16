@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:00:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4019794, "source_ctime_ns": 1793386786151828040, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997360/0952.jpg", "source_mtime_ns": 1785747836000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997360/0952.jpg", "source_sha256": "1a320d8beb981c6a276a625c1f9da377198fe904fc83afe95ee0fd7e84e59495"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 660, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTENT OF THE AN PORCE
+- ..
+INCOMING
+NNNN
+AF IN :
+39777 (22 May 62)
+Page 2 of 2
+RUAUAZ/C CUSJAPAN FUCHU A JAPAN
+RUAMCR/C QIUSKOREA SEOIL KOREA
+RUAGFL/CONUSTDO TAIPEI TAIWAN
+RUHPD/COMASWFORPAC FORD ISLAND HAWAII
+RJWXBR/CINCSAC OFFUTT AFB NEBR
+UNCLAS/MERINT/USS STONE COUNTY, POSITION 2529N17252W,
+SIGHTED BRIGHT SHINY OBJECT BEARING 280 DEGREES
+ELEVATION 25 DEGRESS, LOST ON HORIZON BEARING 202
+DEGREES, DIRECTION OF MOVEMENT 140 DEGREES. RAPID
+BEARING RATE. SEA VISIBILITY UNLIMITED, TIME OF SIGHT-
+ING 220343Z (IN ERROR, HAVE REQUESTED CONFIRMATION).
+NO EVALUATION.
+NOTE:
+BT
+Advance copies to CIN and OOP-CP.
+Correction of AFIN:
+39753.
+22/0355Z MAY RUHLKH

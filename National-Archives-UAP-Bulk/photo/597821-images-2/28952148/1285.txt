@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:06:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5028720, "source_ctime_ns": 1793374550995326269, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952148/1285.jpg", "source_mtime_ns": 1785696456000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952148/1285.jpg", "source_sha256": "20f20d2a4ee3899d194a3f6767dd310f394a0150e70ecb2862edd64a95205154"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 617, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+17 Dee 1952
+DATE•TIME GROUP
+Local.
+0757 HAS EST
+CM T
+S. PHOTOS
+PROJECT 10073 RECORD CARD
+CATION
+Ithaca, New York
+TYPE ORATION
+i Ground. Visuai
+• Air-Visuul
+SOURCE
+DJ Ground-Radar
+• Air-Int
+or Radar
+C: Yes
+M NO
+LENGTH OF OBSERVATION
+F12
+8. NUMBER OF OHJFCTS
+2 Sec
+BRIEF SUMMARY OF SIGHTING
+Observed a light resembling a Jet exhaust.
+Obj was greonish - blue with an orange trail
+COURSE
+CONCLUSIONS
+C Was Bailoon
+•
+Probabiy Balloon
+Possibly Balioor
+Nas Aircraft
+Probabiy Aireratt
+Possibly Aircraft
+Was Astroniontical
+Possibly Astronomical
+Other
+Insufficient Data for Eval
+11. COMMENTS
+ATIC FORM 329 (REV 26 SEP 52)

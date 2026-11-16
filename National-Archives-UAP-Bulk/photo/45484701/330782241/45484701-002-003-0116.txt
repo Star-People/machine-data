@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:25:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8414030, "source_ctime_ns": 1793362146676395350, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0116.jpg", "source_mtime_ns": 1785684717000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0116.jpg", "source_sha256": "c43c2f81ae26d8f5b6ec0a4dfbd45a220d8218268e80379e382f9451a172ca44"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 106, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+МОІТАФІТЕЗУИ 10 ТЛОЧІЯ
+02|03/02
+ISO
+NIC
+MANAGEMENT
+29 SEP 1949
+INO
+Declassification Authority: NND 923007

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:49:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1255623, "source_ctime_ns": 1793388870169005580, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533777/00508.jp2", "source_mtime_ns": 1785808548000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533777/00508.jp2", "source_sha256": "4a74ee65ec21bad67dbc1024474e1d4510cedbf3041c69740591baa67ec3a082"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 599, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NN/ICOMING
+MESSAGE
+L7 JUN
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+AF IN : 46999 (27 Jun 64) A/wIc
+Pagel of 2
+INFO : NIN-7, XOP-1, XOPX-4,
+SAFOS-3, ARMI-2, CMC-8, JCS-35, OSD-15,
+NSA-7, DIA-15 (98)
+SMB C197
+OPP RUEAHQ
+ZFH-1
+CN157
+LKA 185KHA015
+PP RUEAHQ RUCSBR RUWGALB RUECW
+DE RUHLKH S 27/14172
+ZNR
+P 271415 2
+FM 326AIRDIV KUNIA FACILITY HA
+TO RUHLKM/PACAF
+RUHPHH/COMHAWSEAFRON
+INFO RUEAHQ/CSAF
+R UECW /CNO
+RUECW/SECNAV
+RUWGALB/CINCNORAD
+RUHLHQ/CINCPAC
+RUNLHS/CINCUSARPAC
+RUHLHL/CINCPACFLT
+RUAUAZ/COMUSJAPAN
+RUAMC /COMUKOREA
+RUAGFL/COMUSTDC
+RUCSBR/CINCSAC
+UNCLAS/326 DO-CO 707

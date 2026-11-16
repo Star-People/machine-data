@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:06:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5008382, "source_ctime_ns": 1793354901420265970, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989237-001-0031.jpg", "source_mtime_ns": 1785564360000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989237-001-0031.jpg", "source_sha256": "8cfa13599a0a3712829fc814718fffec7307d5d6c199ffd8e3ee293097d1ec18"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 398, "method": "ocr", "page": 1, "variant": "plain-vision"}
+KITTINGER - 6/23/95
+27
+A:
+He knew. He knew everything about the Air Force
+program, all the classified programs. He was very... Not only
+through the practical application that we were doing, but through
+his association with AFTD.
+2 :
+And after you did Stargazer, did you ever have occasion
+to run into him at a conference or anything?
+A: No. The last time I saw him was in 1963.
+Q: All right.
+(END)

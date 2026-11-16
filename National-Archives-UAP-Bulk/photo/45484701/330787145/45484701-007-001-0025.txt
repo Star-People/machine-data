@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:22:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7833994, "source_ctime_ns": 1793364442993691164, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0025.jpg", "source_mtime_ns": 1785684560000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0025.jpg", "source_sha256": "1c2859b175f91457e9407eb2d742abc59ad57aef48d3921ba1cdbc232a72ae9f"}
+
+===== PAGE 1 =====
+{"alpha_words": 209, "chars": 1460, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+AIR RESEARCH AND DEVELOPMENT COMMAND
+UNITED STATES AIR FORCE
+Andrews Air Force Base
+Washington 25, D.C.
+REPLY TO
+ATTN OF:
+SUBJECT:
+18 MAR 1960
+TO:
+RDISS/Mr. Calhoun/ 4182
+George M. Allender, DOB: 26 October 1919
+UNCLASSIFIED
+Hq USAF (AFCSI-6A)
+Wash 25, DC
+Reference is made to your letter, same subject,
+dated 10 March 1960.
+The three tapes were reviewed and are returned
+in accordance with your request.
+The tapes did not provide enough information on
+any specific area to warrant further investigation.
+The time element is also considered.
+An inspection
+team from this Headquarters conducted a General
+Security Inspection at AFMTC and down range sites
+last month and found security to be satisfactory.
+4. Mr. Allender was employed by RCA, 8 October 1956,
+and terminated employment 27 May 1958, for the reason
+of seeking better employment.
+He was
+then employed
+by Convair in June 1958 and terminated his employment
+on 25 July 1958, for the stated reason "he could not
+live on his salary in this area." Records reflect
+that he is eligible for rehire.
+5. Neither employer has any medical reports or any
+other information regarding subjects mental or
+physical condition.
+6. This Headquarters does not intend to communicate
+with Mr. Allender. No extracts were made from the
+attached tapes.
+FOR THE COMMANDER
+K. Fenton, Col. USAF
+/ROBERT M. CALDWELL
+3 Atch
+Colonel,
+USAF
+1-3 Tapes
+Inspector General
+UNCLASSIFIED
+Declassification Authority: NND 923007

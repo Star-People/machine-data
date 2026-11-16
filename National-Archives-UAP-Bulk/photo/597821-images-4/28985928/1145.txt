@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:03:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4630263, "source_ctime_ns": 1793382942580092233, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985928/1145.jpg", "source_mtime_ns": 1785748066000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985928/1145.jpg", "source_sha256": "30869808a8e4d8b011cc60f3ec7afe29771e161a6184c0998e09af10d85e98b8"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 698, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Paga 3
+16. Toff in a fow words the following things chout the object,
+o. Sound
+b. Color
+17. Drew a picture that will show the shape of the object or objects. Label and include in your statch any detalls
+of the object that you sow such as wings, protrusions, etc., and especiolly exhaust talls or vapor tralls, Place
+on arrow beside the drawing to show the direction the object was moving.
+18. The edges of the object were:
+(Circle One): a. Fuzzy or blurred
+b. Like a bright star
+c. Sharply outlined
+d. Don't remember
+e. Other
+19. IP thare was MORE THAN ONE object, then how many were there?
+Draw a picture of how they were arranged, and put an arrow to show the directton that they were traveling.

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:51:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1415290, "source_ctime_ns": 1793356023445417152, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0177.jpg", "source_mtime_ns": 1785564585000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0177.jpg", "source_sha256": "ba71033738d5188aa2953011a027f16474faa9ac65686b3a5d348831781b71a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 833, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ML-з07(*)/АР
+7(#)/
+Figure 50. Pilot Balloon Targct ML-3071AP or
+ML-307 Л/AP ready for Night.
+Status: Standard. Stock No.: TA1237. Refer-
+ence: TM 1-235.
+Pilot Balloon Target ML-307(*)/AP represents
+Pilot: Balloon Targets ML-307/AP, ML-307A/AP.
+and ML-307B/AP. Pilot Balloon Target ML-307
+(*)/AP is a reflector which is attached to a 100- or
+350-gram pilot balloon to assist in tracking it by
+radar. It is composed of a combination of tri-
+angular-shaped surfaces constructed of light,
+paper-backed aluminum foil supported by balsa
+sticks; it weighs approximately 100 grams. The
+target folds into a flat triangle for shipment.
+Pilot Balloon Target ML-307(*)/AP is designed
+to function best with Radio Sets SCR-584 (any
+model), SCR-545 (tracking components), and
+SCR-614 (any model). The targets are packed
+24 to a shipping container.

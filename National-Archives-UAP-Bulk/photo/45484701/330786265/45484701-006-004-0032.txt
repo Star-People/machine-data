@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:26:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8644141, "source_ctime_ns": 1793363906037773443, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0032.jpg", "source_mtime_ns": 1785685033000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0032.jpg", "source_sha256": "add54cbf513524dbe5d46a03423ed055df2b1ebf1591f39db5e965b42003f976"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 462, "method": "ocr", "page": 1, "variant": "plain-vision"}
+16 OSI 24-0
+6 Nov 50
+SUBJ: Unidentified Aerial Object Sighted in Vicinity of Provo River, Utah
+2. No investigation of the above matter has been initiated by this
+office, and the above summary is furnished for your information.
+Pelhan R. Bunett
+PELHAM R. BURNETT
+captain,
+, USAF
+District Commander
+2
+COUNTER
+94-V85-16-5
+ITED STATES AIR FORCE
+THE INSPFCTOR GENERAL
+Nor 16 09 2350
+OFFICE OF
+SPECIAL INVESTIGATIONS
+File
+Astuil
+Declassification Authority: NND 923007

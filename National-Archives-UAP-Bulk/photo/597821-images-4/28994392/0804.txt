@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:24:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8299394, "source_ctime_ns": 1793385913753290022, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994392/0804.jpg", "source_mtime_ns": 1785748095000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994392/0804.jpg", "source_sha256": "23932e3c1204a68ecb05e52b7a171fed1d5e38552431a413d5b0ef01681d8f47"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 865, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2 Sep 61
+3. DATE-TIME GROUP
+Local _1315
+GM T.
+022015Z
+5. PHOTOS.
+• Yos
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Las Lunus, New Mexico
+4. TYPE OF OBSERVATION
+XE Ground-Visual
+• Air Visual
+• Ground-Rader
+• Air-Intercept Radar
+SOURCE
+Civilian
+NUMBER OF OBJECTS 9. COURSE
+1
+10. BRIEF SUMMARY OF SIGHTINGSilvery, shing objt, 3'
+long fell to ground.
+12.
+CONCLUSIONS
+Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronamical
+•X Other
+‹EX Insufficiont Data for Evaluation
+Unknown
+11. COMMENTS Limited info. Insufficient data
+data to form valid conclusion. Apparently
+no effort to obtain objt made by obser-
+ver. Interviewing officer felt that objt
+viewed was reflection, however case listen
+as insufficient data.
+ATIC FORM 329 (REV 26 SEP 52)

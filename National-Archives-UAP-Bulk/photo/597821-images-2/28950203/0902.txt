@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:57:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3719263, "source_ctime_ns": 1793374098163658746, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950203/0902.jpg", "source_mtime_ns": 1785696728000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950203/0902.jpg", "source_sha256": "3cb883b734dd5d35bf6fafb51c96128dc58f8958b57752f82b8dfd2bf0536215"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 532, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JIPON 39.
+TIME 2215 ZULU 24 SEP 52. LGTH OF TIME OBSD 5 OR 6 MINUTES. OBSR
+STANDINV IN BUSINESS DIST OF AURORA, COLO, ABOUT & MILES E OF DENER.
+OBJ LOCATED JUST N OF STAPLETON AIRPORT. ALT UNKNOWN. WEA COND 1/10
+CLOUD COVER AT 6302 FEET. NO UNUSUAL ACTY OR COND PRESENT WHICH
+MIGHT ACCI FOR SIGHTIN. NO PHOTOS OR FRAGMENTS AVAL. NEGATIVE INTCP
+ACTION. TWO C-47J PASSED THROUGH LINE OF SIGHT WHILE OBSERVATION
+WAS BEIMG MADE. THIS HO HAS NO OP AS TO WHAI OBJU WERE. LTR WILL
+FOL.
+ACTION
+2L/2123Z OCT JWPOW
+Cy#,
+CA 7062
+CHOI

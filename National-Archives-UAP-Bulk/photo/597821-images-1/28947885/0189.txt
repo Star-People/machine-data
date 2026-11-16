@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T19:58:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3783111, "source_ctime_ns": 1793373628049468648, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947885/0189.jpg", "source_mtime_ns": 1785689004000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947885/0189.jpg", "source_sha256": "b2bb60efc65072dd97da9b624d2a043a87ef4ac6f73b303918d7f12c8174cd48"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1222, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 3
+8. What direction were you facing when you first saw the object?
+(Circle One):
+North
+B .
+South
+b.
+Northeast
+Southwest
+East
+West 285°
+d.
+Southeast
+h.
+Northwest
+8.1 What direction vere you facing when the object disappaared?
+(Circle One):
+a. North
+e. South
+b. Northeast
+Southwest
+• Last
+West
+- 215°
+d. Southeas
+h. Northwest
+• dirche one ol the following to indicate how certain you are of
+your answer to the above two questions. (8 and 8.1).
+Certain
+Not very sure
+b. Fairly certain
+d: Just a guess
+9. Were you wearing eye glasses when you saw the object? (Circle One):
+Yes or
+10. How was the object seen?
+(Circle One):
+Through window glass
+Through thecdolita
+Through windshield
+Through sun glasses
+Through binoculars
+Through open space
+Through telescope
+h. Other
+11. What do you remember about the weather conditions at the time you saw
+the object?
+11.1 CLOUDS (Circle One)
+11.3 WEATHER (Circle One)
+Clear Sky HIGH ScAr CLOUDS To SourN
+Scattered clouds
+Thick or heavy clouds
+e. Don't remember
+e.
+Fog, Mist, or light rain
+Mcderate or heavy rain
+Don't remember
+11.2 WIND (Circle One)
+11.4 TEMPERATURE (Circle One)
+b.
+C.
+d.
+No wind
+Slight breeze
+Strong wind
+Don't remember
+a .
+Cold
+Cool
+c. Warm
+d•
+Hot
+e. Don't remember

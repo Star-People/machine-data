@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:03:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4615450, "source_ctime_ns": 1793380265187383657, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975065/00013.jpg", "source_mtime_ns": 1785700716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975065/00013.jpg", "source_sha256": "71cc94c4bf559cebf2799532b9dc5068537e28ff21d6e375688befa73d91344b"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 527, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ hitness 21 2:/00k
+22 Nov 57
+09 49
+RAD49
+T SQA263 YDB351 TYE057-TMB062NYA211
+RR RJEDDN RJEDSQ RJEPHQ RJEPNB
+DE RJEPNY 4
+R 22024 5Z
+FM COMDR 2S ADIV DEF
+TO RJEDDN/COMDR ADC
+RJEDSQ/COMDR ATIC
+RJEPHQ/COMDR ACS INTEL
+INFO RJEPNE/COMDR EADF
+no spape, sýs, eluvation, azimuttí
+or time duration gives.
+Insuf info
+/UNCLAS/UFOB ATTN: CIC
+(1) DESCRIPTION
+(A) NONE - shape ?
+(3) UNX - sijo ?
+(C:
+RED
+(D>
+(E) N/A
+(G) NONE
+(F) LOOKED LIKE EXPLOSIVE BURST (SMALL) RED
+(!!) EXPLOSION
+CI2 N/A
+(2) DESCRIPTION OF COURSE
+(A) SOUND OF EXPLOSIOM

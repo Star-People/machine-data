@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:24:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8291391, "source_ctime_ns": 1793362113006488333, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0047.jpg", "source_mtime_ns": 1785684711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0047.jpg", "source_sha256": "c8fc9420ffb5432c353c1c979c08613c2a3606fe82b1ffb5f2f35740ab22c854"}
+
+===== PAGE 1 =====
+{"alpha_words": 259, "chars": 1762, "method": "ocr", "page": 1, "variant": "plain-vision"}
+_ Pocketeriarce.
+Faze
+19
+: 1›
+rt: mery rocats
+:. €
+c.1-
+_ 5
+JA TO
+Higgite proralsion
+A1261070215107
+Table III
+Range of Duratich of Various Rocket
+Kotors
+The altitude at which a rocket motor is operating,
+1.0,
+:Pa
+fixes the optimum expansion ratio of the Laval Nozzle. In Fig. 5
+have under expansion; Fig. 6 shows over expansion; Fig. 7
+shows
+complete erpansion.
+F1g. 5
+.. 8. 0
+Fig. 7
+Permissible Motor eicht
+For rissiles, the motor may were about 3-10% of the
+weight of the rocket,
+Hal present technicues, motors have
+total
+been
+built ranging from 20-100 1bs. ce thrust pee pound of motor.
+Cooling Methods
+(a) Thermal Capacity Type. This type of motor 18
+characterized
+by a limited operating tine but having comcaratures which
+ruin the motor: The motor is usuall; male cf some metal capable
+of
+absorbing a largi anont of heat. Materials used are stairless steel
+and copper allo"s.
+(b) Regenerativo Type. One of the propellant combinations
+18
+first circulate! though a jacket surrounding the combustion chamber
+as indicated in Fig. h. Vith fu ca 300 pal a:.
+50% eLeut
+2-5%
+of the heat of cont grion rasses through the chamoor walls into
+t.t.e
+coolant. The heat transmiscich is 1 B.T.U. /sq.in,, ses. ir. the motor
+chamber and 2.5-3 5.T:U./sc.1a./sec. in the throat section. It
+interesting to note that the hottest industrial furnaces have a ratc
+of heat transfer of only ›.1 of that in a rocket motor. Figure
+shows the distribution of heat transier at various portions in
+the
+rocket motor. Thereforo, to transfer rore heat to the coolant at the
+oritical sections of the rocket motor, the Jacket ta constricted at
+the hot sections to increase the veincity of the coolant :
+flowing
+past the section, thus absorbing more heat.
+Declassification Authority: NND 923007

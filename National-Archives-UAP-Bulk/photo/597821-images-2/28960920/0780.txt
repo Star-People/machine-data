@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T20:02:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4390242, "source_ctime_ns": 1793376486418268469, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960920/0780.jpg", "source_mtime_ns": 1785696639000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960920/0780.jpg", "source_sha256": "edac82d56b1fb9d536a06949861ee7baa6914a2cc068a96d910cc6854ebeb046"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 891, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+21-22 Jan
+55
+3. DATE-TIME GROUP
+Local 1635, 1715,2000
+GMT
+5. PHOTOS
+• Yes
+*KNo
+7. LENGTH OF OBSERVATION
+20 minutes
+10. BRIEF SUMMARY OF SIGHTING
+Bright white lights. One bright red
+ight. Abreast formation. No sound,
+or exhaust. At first appeared to ba
+hovering then gained rapid speed.
+Daylight observation reported objects
+bright silver.
+PROJECT 10073 RECORD CARD
+LOCATION
+Hutchinson,
+Kansas
+TYPE OF OBSERVATION
+DIGround-Visual
+SOURC
+Air- Visu
+• Ground-Radar
+D Air-Intercept Radar
+Civilian & Military
+8. NUMBER OF OBJECTS
+| 9. COURSE
+12. CONCLUSIONS
+EX Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircrat
+Possibly Aircraf
+Was Astronomical
+Probably Astronomicul
+O Possibly Astronomical
+D, Other.
+Insufficient Data for Evaluatio
+Unknown
+South to North
+11. COMMENTS
+Identified by 4602nd as project
+barber shop. (Balloon launching)
+ATIC FORM 329 (REV 26 SEP 52)
