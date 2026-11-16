@@ -1,0 +1,93 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:41:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3657200, "source_ctime_ns": 1793386337500034944, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995762/0965.jpg", "source_mtime_ns": 1785748300000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995762/0965.jpg", "source_sha256": "3dbf08aab787dd908390cff911ad1ee9b82e33b7b83d7d658e69a9d8561cd470"}
+
+===== PAGE 1 =====
+{"alpha_words": 229, "chars": 1461, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 2
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+8.1 STARS (Circle One):
+8.2 MOON (Circle One):
+a. None
+b. A few
+c. Many
+d. Don't remember
+9. The object appeared:
+(Circle One):
+a. As a light
+b. Shiny
+a. Bright moonlight
+b. Dull.moonlight
+c. No moonlight - pitch dark
+d. Don't remember
+d. Don't remember
+10. If it appeared as a light, was it brighter than the brightest stars?
+Dark
+Navy
+gray
+11. Did the object:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+•. Change brightness?
+f. Change shape?
+g. Flash or flicker?
+h. Disoppear and reappear ?
+Yes
+Yos
+Yes
+Yes
+Yes
+Yes
+Yes
+12. Did the object move behind something at any time, particularly a cloud?
+(Cirele One):
+it moved benind:.
+Yes
+No
+Don't Know.
+13. Did the object move In front of something at any time, particularly a cloud?
+(Circle One):
+No
+Don't Know.
+in front of:
+14. Did the object appear:
+(Circle One):
+a. Solid
+b. Transparent
+15. Did you observe the object through any of the following?
+a. Eyeglasses
+Yes
+C
+b. Sun glasses
+Yes
+c. Windshield
+Yes
+d. Window glass
+Yos
+e. Binoculars
+f. Telescope
+g. Theodolite
+h. Orher
+(Circle One for e1ch question)
+Don't Know
+No
+No
+No
+No
+No
+No
+No
+Don't Know
+Don't Know
+Don't Know
+Don't Know
+Don't Know
+Don't Know
+Don't Know
+IF you answered YES, then tell what
+IF you answered YES, then tell what
+c. Vapor
+Yes
+Yos
+Yes
+d. Don't Know

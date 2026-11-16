@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:27:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 725342, "source_ctime_ns": 1793393086583660644, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302573748/0653.jp2", "source_mtime_ns": 1785808332000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302573748/0653.jp2", "source_sha256": "68c245e9b18eed49a244c49925e7e7473320281fcdbb2ebdf2caabce250376c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 726, "method": "ocr", "page": 1, "variant": "plain-vision"}
+From experience, - know that we will within the
+next thirty days receive a call from some of the
+interested parties to ascertain what we have done
+with or found out about the object so far. Antici-
+pating this query, I would be most appreciative if you
+could give me some progressive or interim feedback with
+which to answer the questions.
+Copies of my correspondence with Mrs. J. L. Green,
+who reported the finding of the object by telephone
+after learning of it from her neighbor, Mr."videtto, and
+with Dr. Purser are enclosed for your information or
+the
+action which I haye taken to date.
+2 Хати х
+DANIEL B. WILLIAMS
+Lt COl,
+USAF
+Chiet, Data Base Management Div
+2 Atch
+1. BTWT 1tx to Dr. Purser
+. 2. ETWT ltr to Mrs. Green

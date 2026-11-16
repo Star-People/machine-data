@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:50:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5136212, "source_ctime_ns": 1793369839203573728, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932946/0372.jpg", "source_mtime_ns": 1785688621000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932946/0372.jpg", "source_sha256": "5fe982cfa5b28d63b65b1b4b187be076f0d5bef07e8a67470d708b558c2109d2"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1228, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+Mid-Ocean News article "Northem Lights Are Seen Here" dtd 25 Jan 49
+Northern Lights Are Seen Here
+For nearly six nours last night Bermudians were treated to the un-
+usual signt of Mortnern Lights. Intries in the Hamilton Meteorological
+Station's log indicate that the Portnern Lights -- othervise know as the
+Aurora Borealis - were visible from about 3.30 P.M. to 2 A.M. Appearing
+to the north-northwest, they began with a reddish nue and changed tarough-
+out the evening to a powerful imite, which spread like a curtain.
+The lighta which are seen frequently in the far Norta are rarely visible
+this far South. Wnen they are ssen in tnese latitudes the weather is ex-
+ceptionally fine, the Met Station seid. last nigat conditions nere were
+still and fine.
+John Jefferies, uranch engineer for Caule and Wireless, Ltd,, in
+Bermude, said the service vas subnormal from about ll p.m. to 6 a.m. As
+expected ne explained the station experienced fading on the wireless cir-
+cuits.
+This was the first tire interference due to the aurora had been
+noticed in Bermuda, he said, although in some otuer parta of the world
+it is not uncommon.
+DOWNGRADED AT 3 YRAR INTI
+BOLASSIFIED AFTER 2 YEAR
+DOD DIR 520010
+UNCLASSIFIED
+S20754

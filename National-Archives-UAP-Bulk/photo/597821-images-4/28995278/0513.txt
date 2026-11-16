@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:45:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4269063, "source_ctime_ns": 1793386223811244681, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995278/0513.jpg", "source_mtime_ns": 1785748459000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995278/0513.jpg", "source_sha256": "d7d7de1da7ab221665d6fe106ea07eca21f230f787d59b59d75cb10cc6e2e8c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 926, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+23 Oct 61
+3. DATE-TIME GROUP
+Local →
+CM 72115092š
+5. PHOTOS
+• Y•s
+•KNo
+7. LENGTH OF OBSERVATION
+3 sec
+D. BRIEF SUMMARY OF SIGHTING Bluish-white flash. NO
+iscernable shape; had meteor type tail or
+rail of smoke like contrail. Assumed at time
+to be meteor.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+58461
+14429W (PACIFIC)
+4. TYPE OF OBSERVATION
+XE Ground Visual
+D Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+S. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+ax
+Was Astronomical VETEd
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS Report
+turned in for correlation
+with other report. (Time did not correspond
+to other report.) Since observers assumed
+objt was meteor, it is logical to assume
+their evaluation was correct.
+ATIC FORM 329 (REV 26 BEP 52)

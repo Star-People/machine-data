@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:34:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1330613, "source_ctime_ns": 1793355972935601695, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0074.jpg", "source_mtime_ns": 1785564572000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0074.jpg", "source_sha256": "e617f4d8cc786058d3a0a5da2d9d046188192baa3894734221873ae336eb5680"}
+
+===== PAGE 1 =====
+{"alpha_words": 224, "chars": 1522, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CHAPTER III
+ADROMEDICAL EXPERIMENTS ON THE HOLLOMAN TRACK: 1953-1956
+The best known test series ever conducted on the Holloman track--indeed
+the group of experiments that first brought national recognition to the track
+itself and to the base where it is located was initiated in November 193
+by the Air Force Missile Development Center's Aeromedical Field Laboratory,
+then under the direction of Lieutenant Colonel (Doctor and later Colonel)
+John Paul Stapp. These experiments, althouch reoriented since 1953, have
+continued down to the present on the Holloman high-speed track facility..
+However, the most memorable of all the Aeromedical Field Laboratory track
+runs, those with Stapp himself riding the rocket sled, were conducted on the
+original 3550-foot track during the period covered by this volume. What is
+more, aeromedical research accounted for a greater number of runs on the
+1
+3550-foot track than any other single project.
+Colonel Stapp's work on the Holloman track was an extension of his
+previous aeromedical experiments on the short deceleration track at Edwards
+Air Force Base, but it was more advanced from the standpoint of both
+physiological research and track operation. He was no longer concerned
+primarily with crash forces but with the complex problem of escape--bailout--
+from high-speed, high-performance aircraft. In particular, he aimed to
+carry out Air Research and Development Command Test Directive 5200¿H1,
+Biophysics of Abrupt Deceleration, which was dated 15 April 1953 and called
+for :

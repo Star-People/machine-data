@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:59:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7718540, "source_ctime_ns": 1793376081046130681, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959124/00669.jpg", "source_mtime_ns": 1785696869000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959124/00669.jpg", "source_sha256": "ae809dc11febff15ce218cbffe1c30bb9e04588c4eae84a1ed297c16cc2ceee6"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 81, "method": "ocr", "page": 1, "variant": "plain-vision"}
+S mi
+Des
+SE BOUND
+S BEUND
+NSS
+ONE SOUTH BOUNC VESE
+DIEAPERSED QUES, TILE
+KOR zaN

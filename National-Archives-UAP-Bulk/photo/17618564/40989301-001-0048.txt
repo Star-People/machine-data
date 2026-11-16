@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:33:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1185258, "source_ctime_ns": 1793356064825711688, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0048.jpg", "source_mtime_ns": 1785564597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0048.jpg", "source_sha256": "43866f1281b258a23d91110cd6fcd94bb256c787083a688ecbaab8ad1f3e5856"}
+
+===== PAGE 1 =====
+{"alpha_words": 270, "chars": 1748, "method": "ocr", "page": 1, "variant": "plain-vision"}
+A third method of holding the equipment at a nominal constant
+altitude is to fly a cluster of standard meteorological balloons equipped
+with ballast dropping devices and a device for releasing lifting balloons
+should the cluster depart from the altitude limits desired. This method
+is inherently unstable, as there are no proportional restoring forces which
+will act on the flabby, freely extensible meteorological balloons. The
+success of this procedure depends on very careful balancing of the load
+against the variable lift of the balloons.
+This cluster method is of use and interest only as a stop-gap
+method of lifting the irmy equipment to altitude now, and has been the
+method used while awaiting delivery of the non-extensible plastic balloons.
+III d) e. A flight was made on 3 April 1947 using this method. A
+cluster of l2 balloons neteorological carrying a radiosonce, a 15 1b.
+dummy load and a series of ballast dropping devices was released from
+the football field at Lehigh University, Bethlehem, Pa. The train was
+to be towed to 30,000 ft. by 2 lifting balloons which would then be
+cut loose. The weight of the equipment was adjusted to equal the lift
+of the balloons and presumably the train should have floated after the
+towing balloons were cut off. Actually, due to lack of experience in
+the difficulty of handling long balloon trains, auxiliary rigging lines
+were needed to take up launching stresses. These lines fouled the main
+flying line and the ballast which was to be dropped on parachutes. As a
+result, the balloon train went to 50,000 ft. where the tow balloons worked
+themselves free. The remaining train thereupon descended as fast as it
+had climbed (1,000 ft. per minute), landing in the ocean near Sandy Hook,
+- 26 -

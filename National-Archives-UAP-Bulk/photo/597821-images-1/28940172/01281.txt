@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:42:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3756728, "source_ctime_ns": 1793371874197434777, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940172/01281.jpg", "source_mtime_ns": 1785688849000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940172/01281.jpg", "source_sha256": "b30a16c7b1b62bf2250289fcc3835e6c0cac2c2c3ba6f20c390518d24fea556b"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 425, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT CO
+¿OL RECORD
+PROJECT N
+SUBJECT
+eport
+DEADLINE
+3110
+DATE
+RECEIVED
+10
+2
+ACTION BRANCH
+BRANCH
+ROJECT OFFICER
+REQUIREMENT
+ror pre
+aration of ron-silitary letter to
+Routine
+ACTION TAKEN
+Prepared ltr to Mr.
+Prepared DP Comment 2 to ATIC
+RECOMMENDED FURTHER ACTION
+Nona
+MAN HOURS REQUIRED
+1 hr - Lt.Col Willis
+1 hr - Miss Overstreet
+DATE FORWARDED
+AFHO FORMO-553
+28 JUN 51
+1437
+PREVIOUS EDITIONS OF THIS
+FORM ARE OBSOLETE.

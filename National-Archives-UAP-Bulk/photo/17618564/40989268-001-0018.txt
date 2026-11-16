@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:09:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15645077, "source_ctime_ns": 1793355579713256671, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0018.jpg", "source_mtime_ns": 1785564483000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0018.jpg", "source_sha256": "011d49aec60ee786bb55287d743e6478ee746dc334edfc5c10b9eb421977610a"}
+
+===== PAGE 1 =====
+{"alpha_words": 428, "chars": 2993, "method": "ocr", "page": 1, "variant": "plain-vision"}
+22
+ND VELOCITY (FT./ SEC.)
+50
+60
+PROFILE *259 - 09:48 17 SEPT., 1964
+TETHER
+TAN en+1 = (Tr SIN en + Dnai) / (Tn COS On - Wnt, )
+Thal = (T SIN On + iDn+1) / SIN Anoi
+DIAMETER
+0.095Ịồại0.0078 FT.
+7.85 FT./1000 F
+WEIGHT.
+4.75*/ 1000 FT.
+BREAKING STRENGTH
+• 619*, 0°-33
+TABS FLIGHT CONFIGURATION
+TOTAL LENGTH _
+88,290 FT.
+TOTAL WEIGHT
+4000 FTiẠồỊ
+192,000 FT.
+DIAME TER
+OLUME
+5004, 34°
+GROSS LIFT_
+BALLOON WEIGHT_
+210*
+NET LIFT
+COEFFICIENT
+FLOAT ALTITUDE
+0.8
+64,000 FT. M.S.L.
+68,000 FT. M.S. L.
+DISTANCE (FT. X 1000)
+Figure 9. TABS Flight Configuration
+1. Compute tether increment weight: W1 = 4.75 l1/1000 = 19.0 1bs
+m. Compute tether angle at h1 = h, - 4h1 = 60,000 ft:
+01 = Tani (T Sin 0 + D]) / (To Cos 00 - W,) = 0°20'
+n. Compute tether tension at h:
+T1 = (To Sin 01 + D1) / Sin 01 = 643 1bs
+o. Repeat steps h - n for successive increments in altitudes of 5000 ft, from
+60,000 ft to 5000 ft, final increment 2650 ft from 5000 ft to ground (2350 ft)
+From the values of On and Tn thus obtained at each altitude hn, a flight con-
+figuration such as that in the center of Figure 9 can be plotted. If at any point On
+exceeds 90°, or Tn exceeds the tether breaking strength (1500 lbs), the system
+cannot be flown. For the procedure outlined above, a previous computation with
+Lp = 650 1bs showing 0 = 90° at approximately 4000 ft altitude was redetermined
+for Lp = 750 lbs, with the acceptable results shown in the figure. This profile is,
+however, close to the maximum which the present system could tolerate; the bal-
+loon is very near its maximum inflation, while the tether angle at the ground is
+dangerously large. The tether tension, however, is at all points well below the
+specified minimum breaking strength. The total length of tether out is somewhat
+greater than that presently on hand, but well within the length scheduled for pro-
+duction at NOTS.
+Referring to the remaining profiles illustrated in Figure 1, a flight would have
+been marginally possible on the 14th because, although the velocity at the maximum
+is somewhat greater than on the 17th, it is relatively less below 20,000 feet, and
+the altitude of the minimum is considerably lower. The system would encounter
+no difficulty on the 15th or 16th, and the vertical extent of the low-velocity region
+could permit flights to considerably greater altitudes. It is unlikely that the
+present system could have been maintained aloft on the 18th.
+In all such calculations the winds are assumed to be constant in direction. In
+most cases, this is in fact a reasonably good assumption over the region of
+moderate-to-high wind velocities; moreover it makes the calculations somewhat
+conservative because a variation in wind direction with altitude will reduce tether
+angle to some extent.
+Application of the mobile launch technique to the profile of the 17th is
+illustrated in Figure 10. If the balloon were to rise freely, with the wind, at a rate
+of 1200 ft/min (which should be achieved by a well-clutched balloon having a vertical

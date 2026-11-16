@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:30:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 968078, "source_ctime_ns": 1793392209887384221, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565646/0008.jp2", "source_mtime_ns": 1785808234000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565646/0008.jp2", "source_sha256": "dc21e20f9181e72340afe2ddf51aa85f76276761041ce14936decbe75bc8c601"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1049, "method": "ocr", "page": 1, "variant": "plain-vision"}
+<1) SOME HIGH CLOUDS
+(2) REPORT FROM BERGSTROM AFB WEATHER FACILITY
+(A) 160/17¿G 24
+(B) 190/20
+(C) 220/10
+(D) 270/15
+(E) 200/25
+(F) 290/45
+(G) 280/70
+CHINO REPORT ABOVE 50 THOUSAND FEET
+(3) 3 THOUSAND SCATTERED, 8 THOUSAND SCATTERED, UNMEASURED
+OVERCAST.
+(4) 10 MILES
+(5) APPROXIMATELY EIGHT-TENTHS TO TEN-TENTHS.
+(6) THUNDER STORM ACTIVITY IN THE LOCAL AREA AND TO THE NORTH.
+(7) SLIGHT INVERSION 7008 - 7580 FEET. TROP AT 45 THOUSAND FEET.
+PAGE 4 RUWINMA2230 UNCLAS
+H. ANY OTHER ACTIVITY THAT MATCHES REPORTED SIGHTING
+(1) UNABLE TO MATCH WITH ANYTHING
+I. MONE
+J. UNABLE TO DETERMINE ANY TRAFFIC THAT MATCHES THE REPORTED SIGHTING.
+X. RICHARD E, MCCLAINE, MAJOR, USAF, 75TRW, TAC. PRELIMINARY
+INVESTIGATION REVEALS NOTHING THAT WOULD ACCOUNT FOR THIS REPORT.
+HOWEVER, IT IS POSSIBLE THAT THE OBJECT SIGHTED WAS A BRIGHT PLANET
+THAT IS VISIBLE IN THE WESTERN SKY AT APPROXIMATELY THIS TIME OF
+THE EVENING. THE CLOUD COVER THAT WAS PRESENT AT THE TIME COULD
+POSSIBLY ACCOUNT FOR THE APPARENT MOVEMENT AND VARYING IN BRIGHTNESS
+THAT WAS REPORTED.
+BT

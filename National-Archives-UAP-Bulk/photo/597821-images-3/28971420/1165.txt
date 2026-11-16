@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:49:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4838846, "source_ctime_ns": 1793379184883955952, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971420/1165.jpg", "source_mtime_ns": 1785700983000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971420/1165.jpg", "source_sha256": "4151c2d56696473e0c390c1bd9227d4aa314d8963afea519ccebccd96862810c"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 657, "method": "ocr", "page": 1, "variant": "plain-vision"}
+$50
+Öchopee
+ades 0922.
+Cape Roma
+CONTROL AREA 1230
+CAUTION AREA.
+(C- 172)
+CONTROL AREA 1228
+5316
+10
+JL
+WARNING
+AREA
+(W-173)
+Warning. Na
+Operations hazar
+conoucteds witH
+TROL' AREA
+L 125°-
+D
+D
+CONTROL AREA
+150
+CAUTION
+AREA
+(C-175)
+CONTROL AREA, 1234
+OF
+STRAITS
+KK
+HAVANA CONTROL AREA 5024
+s on w4? sides of sc
+(Joins 586) 81°K
+400Г
+10
+2101
+2401
+NOTE: It is raquested that use
+s of this chart indicate corrections and additions
+which come to their attention and notity
+"THE DIRECTOR, U.S. COAST AND GEODETIC SURVEY, WASHINGTON 25, D.C."
+VERY HIGH FREOUENCIES (VHF
+BLE IN INDICATES AT TRAIN CONTROLLED AREAS
+2601
+20
+30
+40
+270
+240
+SCALE 1:1.000.000
+GEOREF 8-51

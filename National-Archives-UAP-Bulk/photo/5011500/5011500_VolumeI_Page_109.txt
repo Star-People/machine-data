@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:26:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 559728, "source_ctime_ns": 1793365593127291030, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_109.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_109.jpg", "source_sha256": "5a2e6c1659cd31c82db46f125ede53024d394869d07e0148ded4f52c2a4335c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 159, "chars": 1057, "method": "ocr", "page": 1, "variant": "plain-vision"}
+108
+32:10:03
+32:10:13
+32:10:20
+32:10:25
+32:10:30
+32:10:35
+32:10:43
+32:11:33
+32:11:40
+32:11:49
+32:11:54
+32:11:58
+32:12:03
+32:12:05
+32:12:19
+32:12:21
+32:12:55
+32:13:12
+32:13:14
+CC
+C
+C
+cC
+cC
+P
+cC
+cC
+P
+CC
+C
+CC
+C
+P
+CC
+CC
+cC
+CONFIDENTIAL
+We'd like you to stow the photometer and we'll
+give you a complete briefing at the end of the
+sleep period regarding what we think the problem
+is•
+Roger.
+Thank you.
+I'm coming off the transponder if you have your
+reading.
+Roger.
+During the previous purge did you notice any
+venting of Ha?
+We did notice, but it is difficult to tell
+because we all - we have all this freeze-up at
+the windows and we don't know how we're coming.
+Roger.
+Could you give us the levels that you're going to
+leave your RSS pressures at prior to your sleep
+period?
+Roger.
+600 ECS 02, 450 RCS 02, and 450 Hydrogen 02.
+Roger •
+RKV, you want the RCS heaters on at this time?
+Stand by.
+That's affirm.
+Roger.
+They are going on.
+Purge is complete.
+Roger.
+You both go for the sleep period after our IOS.
+Gemini VII, RKV.
+This is VII. Go ahead.
+CONFIDENTIAL

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:40:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3510828, "source_ctime_ns": 1793376657347551805, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961600/1377.jpg", "source_mtime_ns": 1785696587000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961600/1377.jpg", "source_sha256": "3bac3e5a21b10cc9a652bbde469e1fb85b7246d070c0bd1eed7e1364f0466e80"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 795, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+• DATE
+20 March 1955
+3. DATE-TIME GROUP
+Local -
+1613
+GMT 20/0513Z
+5. PHOTOS
+Japan
+4. TYPE OF OBSERVATION
+D Ground-Visual
+D Air- Visual
+6. SOURCE
+D Yes
+Xa No
+7. LENGTH OF OBSERVATION
+Military
+8. NUMBER OF CBJECTS
+1 to 15
+10. BRIEF SUMMARY OF SIGHTING
+Tokyo radar picked up. 16 UTO's
+on PPA scope. A/C scrambled, had
+2 then 1 UTO on GCI scope. However,
+interception results were negative.
+›AGround-Redar
+2CKAir-Intercept Radar
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probobly Astronomical CUX
+Possibly Astronomical
+Insur cient Date for Evaluation
+EK Unknown
+11. COMMENTS
+See case file. UNIDENTITBD
+SPURIOUS RETURNS
+DOE
+INSTERSION.
+ATIC FORM 329 (REV 26 SEP 52)

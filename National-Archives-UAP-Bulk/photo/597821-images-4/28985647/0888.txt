@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:47:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4480537, "source_ctime_ns": 1793382846023846882, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985647/0888.jpg", "source_mtime_ns": 1785747868000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985647/0888.jpg", "source_sha256": "d1152327ec48395d9027ddbae612cb1282bf99131d3bc543e36bfc378f0ca54e"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 936, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10J73 RECORD CARD
+1. DATE
+6 January, 1960
+3. DATE-TIME GROUP
+Local _
+GMT: 7/01L52
+5. PHOTOS
+2. LOCATION
+Winter Haven, Florida
+4. TYPE OF OBSERVATION
+L Ground- Visual
+• Ground-Radar
+D Air-Visual
+6. SOURCE
+• Air-Intercept Radar
+• Yes
+E No
+7. LENGTH OF OBSERYATION
+2 Minutes
+Civilian
+8. NUMBER OF OBJECTS
+One
+10. BRIEF SUMHARY OF SIGHTING
+Reddish, circular object, size of a grape-
+fruit observed approaching from Fast. Then
+circled in tight radius for approx 2 minutes
+and departed in a Southerly direction while
+gaining altitude.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+South
+11. COMMENTS
+Probably a missile. Missile launched
+at 0140Z. Trail probably appeared
+circular through atmospherie distortion,
+Hinson.
+ATIC FORM 329 (REY 26 SEP 52)

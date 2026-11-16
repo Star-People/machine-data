@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:05:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9291335, "source_ctime_ns": 1793362103848841527, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0028.jpg", "source_mtime_ns": 1785684710000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0028.jpg", "source_sha256": "f6cf36efafb2888785abf4a8dfa9850348b92cf8da0d7710339133cfc8ee34eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 981, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF HQ-33 (20 May 14)
+HEADQU
+ERS UNITED STATES AIR FORCE
+ROUTING AND RECORD SHEET
+TALLY
+NO.
+FILE
+NO.
+SUBJECT:
+TO:
+FROM:
+Rocket Science
+DATE $ 6 SEP 1949
+Counter Intelligence Division, Directorate of
+Special Investigations, Office of Inspector General, COMMENT NO.
+Lt. Col.Nickerson/dgb/
+Guided Missiles Branch, Engineering Division
+AFMEN -4
+Directorate of Research & Development, DCS/M
+this branch as revive the cohe be of the the the are ket office,
+attached hereto.
+No classified information pertaining to guided missiles
+has been found in these publications.
+2 Incls:
+Vol 3, #s 1 & 2, Rocket Science
+CONCURRENGE :
+AFMDC -SA-
+Pisting
+MILLARD C. YOUNG
+Colonel, USAF
+Chief, Guided Missiles Branch
+Engineering Division
+Directorate of Research & Development
+Office, DCS/Materiel
+Chal Futump
+CHARLES H. TERHUNE, JR.
+Lt. Col., USAF
+CLASSIFICATION CANCELLED
+BY AUTHORITY/OF THe
+BY KURTK
+ZZE, Capt, USAF
+listoriate
+8 DEC 197
+DATE
+PAGE_
+UNCLASSIFIED
+Declassification Authority: NND 923007

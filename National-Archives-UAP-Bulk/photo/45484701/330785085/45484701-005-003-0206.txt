@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:02:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8378494, "source_ctime_ns": 1793363411344877804, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0206.jpg", "source_mtime_ns": 1785684921000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0206.jpg", "source_sha256": "a82543d0040ef410805fb1211b7fb46263d06d6fd892f6e5aed1f0fb8deb08d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 306, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ARRIOLE ON PAGE ONH
+NEIDENTIAL
+ALLANCA JOURNAL, DATED 26 JULY 1949
+People all over the country seeing objects.
+Hrs. Josh Atkinson of Brookhaven, Georgia saw object.
+0. M. Bowles, an Exposition Hills painter who lives near airport
+also saw object in past.
+AXHIBIE "g"
+Declassification Authority: NND 923007

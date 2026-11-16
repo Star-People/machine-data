@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:43:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3950912, "source_ctime_ns": 1793386764881502558, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997304/0896.jpg", "source_mtime_ns": 1785748145000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997304/0896.jpg", "source_sha256": "2ce3f21a481a4a692ee8bae01a17accf3068695848291764252445a1d72b7ecd"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 923, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+I DATE
+2. LOCATION
+3. DATE-TIME GROUP
+Local
+GM T.
+5. PHOTOS
+anta Barbara, Califor
+4. TYPE OF OBSERVATION
+•l Ground-Yisual
+• Air Visual
+6. SOURCE
+D Ground-Radar
+D Air-Intercept Radar
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+Civilion
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+a
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+an 30 sec.
+10. BRIEF SUMMARY OF SIGHTING ObjE W/no detailS.
+Brilliant white with red-orange flaming tail
+about 1 - 1 1/2 times as long as body.
+No
+sound.
+Observed at 215°az. Unknown elev.
+Disappearing descending toward ground. l report indicated
+objt struck water off senta Barbara.
+I. COMMENTS Miltiple reports In Los
+Angeles area.
+Duration and description
+conform to meteor sighting.
+ATIC FORM 329 (REV 25 BEP 32)

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:46:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4390127, "source_ctime_ns": 1793386161601632139, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995042/0306.jpg", "source_mtime_ns": 1785748343000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995042/0306.jpg", "source_sha256": "bc682635db5e31875ab70c48b661d38cc0047a6b3e3aec7a7a339bb0fed34d88"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 797, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNGI ASSIEL
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+REPLY TO
+ATTN OF: TD-E/Major Friend/Vw/69216
+sUBJECT: Request for Analysis of Filmstrip
+26 Oct 61
+TO: TD-D48
+1. It is requested that an analysis be made of the attached filmstrip
+to determine the nature of the images.
+2. It is further requested the filmstrip be forwarded to TD-E upon
+completion of the analysis in order that it may be returned to the
+owner.
+EDWARD H. WYNN
+Colonel, USAF
+Deputy for Science
+and Components
+2 Atchs
+1 Filmstrip (C)
+2 Itr fm DI ata 17 Oct 61, (C).
+I UNCLAS
+untanil
+BER 2051, Pan 2-174
+3 Janes
+If Enelosure No......
+...is withdrawn or not
+attnched, elbasifieations of
+will be domgraded to......av
+in accordance with AFR 205-1.

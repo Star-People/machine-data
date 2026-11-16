@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:40:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3447099, "source_ctime_ns": 1793376006008176808, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958779/00363.jpg", "source_mtime_ns": 1785696884000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958779/00363.jpg", "source_sha256": "1017bd54dc33efc406451461b1fd8c7210a0eab3dd7804b788c2d422e3ecccc3"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 709, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+30 June 1954
+DATE-TIME GROUP
+Local
+01
+July/0050Z
+GM T
+PHOTOS
+O Yes
+0 No
+LENGTH OF OBSERVATION
+60 Seconds
+BRIEF SUMMARY OF SIGHTING
+liantly silver
+like jet.
+vapor trails. Circled city.
+ATIC FORM 329 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+N
+LOCATION
+mobile, Alabama
+4.
+TYPE OF OBSERYATION
+Ö Ground-Visual
+I Ground-Roder
+• Air-Intercept Radar
+0 Air Visual
+SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+12.
+CONCLUSIONS
+a
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aireraft
+Possibly Aircreit
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaivation
+Unknown
+No soun
+i, or
+9. COURSE
+NE
+11. COMMENTS
+No info presented conflicting with a/c
+analysis,

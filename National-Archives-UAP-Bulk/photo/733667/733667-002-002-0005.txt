@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:38:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2354100, "source_ctime_ns": 1793394278801918201, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-002-0005.jpg", "source_mtime_ns": 1785567348000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-002-0005.jpg", "source_sha256": "df0a563146779dd21f453bb5f63ea99212a22d331fa3c1d3879e922ad1d1152f"}
+
+===== PAGE 1 =====
+{"alpha_words": 199, "chars": 1301, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Memorandum
+U.S. Department
+of Transportation
+Federal Aviation
+Administration
+Subject:
+From:
+To:
+JAL #1628, UFłął
+Date:
+January 5, 1987
+Paul Steucke, AAL-5
+Public Affairs Officer
+Reply to
+Attn. of:
+Director, AAL-1
+Attached for your review is a Public Affairs plan of action for an
+organized release of information regarding the sighting of unidentified
+air traffic by the crew of Japan Airlines flight 1628, on November 17,
+1986.
+Three specific problems have created the need for this plan of action.
+(1) The public and media interest in this subject is far greater than
+anticipated and requires an organized response that will not
+inadvertentiy embarrass the agency, (2) the agency it appears does not
+have all the data in one location for review, and (3) we have not been
+able to derive any conclusions that will allow us to conclude this
+investigation.
+We have nothing to hide, yet we must be very careful to release even
+the most boring of data, or we will be criticized of "covering-up" via
+"the Government".
+I suggest we cease releasing information at this time, set a reasonable
+date for a press conference, publicize that date, and proceed according
+to the attached plan.
+I am available at your convenience to discuss this further. Your
+concurrence is needed before I can proceed.
+Paul Steucke

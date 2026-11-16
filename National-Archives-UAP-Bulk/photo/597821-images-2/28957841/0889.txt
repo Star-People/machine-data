@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:44:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4006866, "source_ctime_ns": 1793375821147792489, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957841/0889.jpg", "source_mtime_ns": 1785696813000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957841/0889.jpg", "source_sha256": "967ee698bdf246d88fd00b9fc69f90b3290d1b4c8c3384b68a8a1104190fca01"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 975, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JWFMB 81
+ALT EST TO BE BET TEN AND TWENTY THOUSAND FEET. '2.A. OBSRS WERE IN
+THE FRONT YARD OF PUT RESIDENCE WHEN OBJ SIGHTED. B. ANGLE OF
+ELEVATION SEVENTY DEGREES. AZIMUTH, ONE HUNDRED EIGHT DEGREES. C.
+ANGLE OF ELEVATION SEVENTY DEGREES. AZIMUTH, ONE HUNDRED FIFTY
+FIVE DEGREES. D. OBJ FIRST SIGHTED DUE SOUTH AND CONTINUED EAST IN A
+STRAIGHT LINE, E. OBJ BECAME OBSCURED BY TREES. F. APROX THREE
+SECONDS. 3. A. GRD-VIS. B. N.A. C. N.A. 4. A. 90507Z MAR 54.
+B. NIGHT. 5. OBJ OBSR FR RESIDENCE
+SAN ANTONIO TEXAS•
+6. OBJ WAS OBSRD BY MAJ.
+R0565A 1708TH FERR
+AFB TEXAS. DY ASGMI GRP NAV & INTL O. RELIABILITY UNKNOWN. OTHER
+OBSRS INC MRS
+• MR AND MRS
+JR
+SAN ANTONIO TEXAS. MR
+IS BRANCH MANAGER OF S RIEKS
+& SON SAN ANTONIO TEXAS. RELIABILITY UNKNOWN. 7.A.$ VERY CLEAR
+NIGHT. NO CLOUDS. C. UNLIMITED, D. FIFTEEN MI. E. NONE. F. NONE.
+7. B.$
+WIND DIR (DEGREES)
+VELOCITY ( KNOTS)
+SURFACE
+CALM
+6;500
+350
+18,900
+348
+16,923
+358
+30,903
+359
+50,999
+28ø
+80, 202
+NOT AVAILABLE

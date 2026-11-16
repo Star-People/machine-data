@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:38:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2385195, "source_ctime_ns": 1793394312969223545, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0054.jpg", "source_mtime_ns": 1785567353000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0054.jpg", "source_sha256": "bad8d70a44a907b26976776431bc5f314c6a35b9a1c0c304bb822d520140f2e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 245, "method": "ocr", "page": 1, "variant": "plain-vision"}
+To lition if may concern?
+Request copy of FAA form
+sumarging JAL Captaih Kenjyu Terauchis
+UFO Sighting on Nov. 17. Any additiona
+info on this sighting will be appreciated.
+Please send a list of available
+information is pices thank you.
+Sha Spra

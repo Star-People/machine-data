@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:00:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7784110, "source_ctime_ns": 1793362088456747218, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0111.jpg", "source_mtime_ns": 1785684949000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0111.jpg", "source_sha256": "ad1c9fed9042863ebd77ba08fe0659eae6d1fb81c512bb4deb9768f8857892f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 353, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNKNOWN 33-144
+UNDEVELOPED LEADS
+DISTRICT OFFICE #4, BOLLING AFB
+AT BALTIMORE,
+MARYLAND
+An agent of the Baltimore Detachment, DO #4 OSI (IG) will accompany
+SMITH to Salisbury, Maryland, to secure the clippings and literature related
+to the Gray Goose, and then submit said clippings and literature for evaluation.
+Declassification Authority: NND 923007

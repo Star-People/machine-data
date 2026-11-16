@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:09:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15035617, "source_ctime_ns": 1793355498005087441, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0080.jpg", "source_mtime_ns": 1785564465000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0080.jpg", "source_sha256": "72309b59b7e9d6fec2bec28c1060f2923a8cc8b1a6981dd58adbe9458f7b8e47"}
+
+===== PAGE 1 =====
+{"alpha_words": 364, "chars": 2411, "method": "ocr", "page": 1, "variant": "plain-vision"}
+150
+Y = Z AP = - cos Z tan (d - ag) AP
+a = azimuth Venus
+as = azimuth Sun
+As a result, Venus describes a trajectory in the field of the telescope as is shown
+in Figure 5. Venus is off-center by 23 min of arc at the most. The Venus declination
+in this example is +2°. With greater declinations the p-rate and non-linearity in-
+crease, which may in certain instances lead to a reduction of the usable observation
+period.
+3.2 Resolver
+The function of the resolver in the -p device is to derive azimuth and eleva-
+tion servo-signals from the sun-sensor output. If the sun is off-center, a 50 cycle
+A.C. signal is generated, which has its maximum value in the direction of the sun
+image. After amplification, this signal is fed through magnetic reed switches into
+the azimuth and elevation servo circuits (Figure 3). The switches have to be placed
+in proper position in order to minimize cross-talk, which necessitates programming
+of the resolver. The image of the sun on the sun-sensor is formed through reflec-
+tion by the Dove-prism, the reflecting plane being the bisecting plane of the off-set
+angle. (Figure 1) Upon displacement of the gondola in elevation, the sun moves in
+the direction EL1, in a plane parallel to the vertical plane through Venus. The angle
+y between EL and the line Sun-Venus is given by
+tan y = tan p cos B
+(7)
+The sun image therefore moves in a direction EL2 at an angle n with the vertical
+through Venus, given by
+n = y + p - 180°
+(8)
+In order to prevent elevation signals entering into the azimuth servo circuit, the
+azimuth reed switch must be placed such that it is closed when the sensor dividing
+line lies in the direction EL,, as is shown in Figure 3. For not too large values of
+B the angle y is approximately equal to p. At greatest Venus elongation (ß = 47º)
+11.00
+9.36
+10.36 C
+10.24
+9.21
+-10.04
+-10.47
+- 30'
+9.00
+MAY I, 1963
+106° W, 33° N
+Figure 5. Calculated Trajectory of Venus in a Telescope, Guided by Off-Set
+Suntracking.
+the maximum possible difference is approximately 10°. A 1:2 ratio between the
+rotation of the prism and the azimuth reed switch mounting ring is therefore satis-
+factory. Using an optimized average value for y, the error in the azimuth switch
+position can be kept smaller than 5°.
+Upon movement of the gondola in azimuth the sun image on the sunsensor is
+displaced in the direction AZ2, at an angle § with the vertical, given by
+$ = p + 0 - 90°
+(9)

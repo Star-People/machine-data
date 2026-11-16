@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T11:36:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1706101, "source_ctime_ns": 1793391435678035579, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558639/00688.jp2", "source_mtime_ns": 1785808149000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558639/00688.jp2", "source_sha256": "a1816570e504c0be3a395ab3f9ce6ee6db137feb7755f2ac58a85a1f661b7e32"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 549, "method": "ocr", "page": 1, "variant": "plain-vision"}
+G. Weather and Winds - Aloft Conditions at Time and Place of Sightings:
+1. Observer (s) account of weather conditions:
+Very clear
+2. Report from nearest AWS or U.S. Weather Bureau Office:
+Clear and 15 plus vaby
+Winds calm
+3. Ceiling:
+None
+4. Visibility:
+15 Plus
+5. Amount of cloud cover:
+None
+6. Thunderstorms in area and quadrant in which located:
+None
+7. Vertical temperature gradient:
+O degrees/1000' (Sfc - 8000') -2 degrees/1000' (Abv 8000')
+H. Any Other Unusual Activity or Condition:
+None
+I. Interception or Identification Action Taken:
+None

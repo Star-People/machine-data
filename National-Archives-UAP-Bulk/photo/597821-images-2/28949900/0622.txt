@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:45:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4041080, "source_ctime_ns": 1793374038885555702, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949900/0622.jpg", "source_mtime_ns": 1785696575000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949900/0622.jpg", "source_sha256": "bf9e6673ac2e916e2a318c548f40a5103c24ec522f39c8f8e7e0594887b26e15"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 356, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JUNK CLA
+S CEILING CLEAR VISABILITY 15 MILES TEMPERATURE 82 DEGREES
+DEWPOINT 57 DEGREES WIND NORTH NORTHIAST 12 KNOTS ALTIMETER
+DOS RELATIVE HUMIDITY 45 PERCENT
+7 NO
+3 10
+9 NOTIFIED SERD AIR DIVISION TINKER AFE
+10 ONLY KNOWN TRAFFIC IN AREA WAS AF JET 5464 FOX 83 FLYING IN
+LOCAL AREA LANDED AT TINKER AFB AT 2023 CST
+15/23592 SEP JENK
+7-3719-18ł

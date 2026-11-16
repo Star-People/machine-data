@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T10:40:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3532417, "source_ctime_ns": 1793386295504838818, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995594/0799.jpg", "source_mtime_ns": 1785748285000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995594/0799.jpg", "source_sha256": "996d3fc9f2b8eadf68172460d05c2a8896175b84ba4956d311fe7dc1a9da601b"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 1006, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+Hov 61
+3. DATE-TIME GROUP
+Local _
+2040
+160140Z
+GM T.
+5. PHOTOS
+• Yes
+DANo
+7. LENGTH OF OBSERYATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Collins,
+Ontario, Canada
+4. TYPE OF OBSERVATION
+Ö Ground-Visual
+D Air Visual
+• Ground-Rodor
+D Air-Intercept Rodar
+6-
+SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+re%
+inutes
+10. BRIEF sUMMARY OF SIGHTINGBall of fire traveling
+E-W at 1ow altitude. Weather 4000 overcast at
+2030 and 3000 overcast at 2100. objt below
+clouds.
+At goon speed in straight flight.
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+D
+Probably Balloon
+Possibly
+Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical METCOR
+Probably Astronomical
+D
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+E-W
+11. COMMENTS Possibility that overcast was
+local and observation was some distance
+away. Viewed for few minutes not accurate
+estimate of time. Objt has all character-
+istics of fireball and case is listed as
+probable meteor of this type.
+ATIC FORM 329 (REV 26 SEP 52)
