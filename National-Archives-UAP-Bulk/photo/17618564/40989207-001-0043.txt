@@ -1,0 +1,110 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:16:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8495738, "source_ctime_ns": 1793354422683757961, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0043.jpg", "source_mtime_ns": 1785564282000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0043.jpg", "source_sha256": "886c77ac378f50b4fd0f587e485f93edad75d6e6ebb67a35e131e4310a67de1f"}
+
+===== PAGE 1 =====
+{"alpha_words": 265, "chars": 2167, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACC
+AEDC
+AF
+AF / CEVP
+AFCRL
+AFGL
+AFGWC
+AFMC
+AFOSR
+AFSC /DL
+AFSRC
+AFSPACECOM
+AFTAC
+AMOS
+AWDS
+AWS
+BACKSCAT
+BMEWS
+BMO
+CBSD
+CIRRIS-1A
+COBRA DANE
+CRRESRAD
+DARPA
+ACRONYM LIST
+Air Combat Command
+Arnold Engineering Developing Center
+Air Force
+Headquarters Air Force Environmental Planning Division
+Air Force Cambridge Research Laboratory
+Air Force Geophysics Laboratory
+Air Force Global Weather Central
+Air Force Material Command
+Air Force Systems Command, Director of Laboratories
+Air Force Space Forecast Center
+Air Force Space Command
+Air Force Technical Applications Center
+Air Force Maui Optical Station
+Automated Weather Distribution Svstem
+Air Weather Service
+Back Scatter
+Ballistic Missile Early Warning System
+Ballistic Missile Office
+Celestial Background Scene Descriptor
+Cryogenic Infrared Radiance Instrumentation for Shuttle
+Ionospheric Surveillance System
+Combined Release and Radiation Effects Satellite Radiation
+Command, Control, Communications,
+and Intelligence
+Defense Advanced Research Projects Agency
+36
+DISS
+DMA
+DMSP
+DNA
+DOD
+ESC
+FASCOD3
+FEWS
+FITS
+FTD
+FY92
+GL
+GP
+GPAA
+GPAP
+GPAR
+GPAS
+GPEG
+CPEH
+GPID
+GPIM
+GPIS
+Digital Ionospheric Sounding System
+Defense Mapping Agency
+Defense Meteorological Satellite Program
+Defense Nuclear Agency
+Department of Defense
+Electronic Systems Center
+Fast Atmospheric Signature Code
+Follow-On Early Warning System
+Flexible Image Transport Systems
+Foreign Technology Division
+Fiscal Year 1992
+Geophysics Laboratory
+Geophysics Directorate of Phillips Laboratory
+Phillips Laboratory, Geophysics Directorate, Atmospheric
+Structure Branch
+Phillips Laboratory, Geophysics Directorate, Atmospheric Prediction
+Branch
+Phillips Laboratory, Geophysics Directorate, Ground-Based Remote
+Sensing Branch
+Phillips Laboratory, Geophysics Directorate, Satellite Meteorology
+Branch
+Phillips Laboratory, Geophysics Directorate, Gravity Branch
+Phillips Laboratory, Geophysics Directorate, Solid Earth Geophysics
+Branch
+Phillips
+Laboratory, Geophysics
+Directorate,
+Ionospheric
+Modifications Branch
+Phillips Laboratory, Geophysics Directorate, Ionospheric Modeling
+Pranah
+Phillips Laboratory, Geophysics Directorate, Ionospheric
+Applications Branch

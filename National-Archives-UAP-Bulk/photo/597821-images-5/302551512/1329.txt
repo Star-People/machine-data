@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:45:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1035287, "source_ctime_ns": 1793390600104492863, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302551512/1329.jp2", "source_mtime_ns": 1785808702000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302551512/1329.jp2", "source_sha256": "b46d96a0253c65bb44f32f5ad7c62fb0cb53929cdc7ed5d030abb8fe04f3dc77"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 607, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+3 June 66 4/02452
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+15. LENGTH OF OBSERVATION
+4 minutes
+6. TYPE OF OBSERVATION
+Ground Visual
+7. COURSE
+N/A
+8. PHOTOS
+• Yos
+* No
+9. PHYSICAL EVIDENCE
+• Yes
+« No
+FORM
+FTD SEP 63 0-329 (TDE)
+Prors
+PROJECT 10073 RECORD
+2. LOCATION
+Northport, N. Y
+10. CONCLUSION
+Balloon (possible)
+11. BRIEF SUMMARY AND ANALYSIS
+Observer noted star like object that resembled a "polywog"
+with a tail. Object was white in color and heading toward
+the SE. Object appeared to wiggle as it moved.
+Description is consistent with that of a balloon.
+his form may be used.

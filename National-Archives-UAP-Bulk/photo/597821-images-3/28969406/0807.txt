@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:04:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5916702, "source_ctime_ns": 1793378821962531215, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969406/0807.jpg", "source_mtime_ns": 1785700633000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969406/0807.jpg", "source_sha256": "d97ec68dd34da4b7974291c5959dd6e2d20dc255fb9971a384b3872fcfd7a7fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 858, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+26.
+larch
+1957
+DÂTE-TIME GROUP
+Local _
+GM T
+27/03502
+PHOTOS
+• Yes
+D:No
+7. LENGTH OF.OSSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+STILL IN SIGHT
+at least
+30
+mins
+two
+10. SRIEF SUMMARY OF SIGHTING
+Two hovering lights seen drifting
+East. Objects were still in sight
+atter
+30 minutes when the report
+was turned
+in.
+Renton,
+Washington
+TYPE OF OBSERVATION
+R Ground-Visual 5 X • Ground-Rader
+• Air Visual
+• Air-Intercept Radar
+3. SOURCE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomica
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+Easterly
+COMMENTS
+limited investigation assigned
+to flight 1-A 4602d AISS revealed
+that
+this sighting was caused by
+a balloon.
+ATIC FORM 329 (REV 26 SEP 52)

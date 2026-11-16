@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:20:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9419985, "source_ctime_ns": 1793385911105931050, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994365/0799.jpg", "source_mtime_ns": 1785747966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994365/0799.jpg", "source_sha256": "93e76fea99540ecc07ae012468507a66bf64cbdff9804c3e53cc3b47aad17271"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 84, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eS a er PRES Lag de Lae Bina 5 BS Ritice shbe cnt Sd nad. eR sk cai Sih Ve A Ny Ee

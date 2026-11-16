@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:58:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4521944, "source_ctime_ns": 1793380471695202522, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976192/00979.jpg", "source_mtime_ns": 1785700952000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976192/00979.jpg", "source_sha256": "c8465e122dcd7b55448328f9df97131f337e4cdf832e25e42dd0c42016a3feb5"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 623, "method": "ocr", "page": 1, "variant": "plain-vision"}
+16/0702 2
+MEMO ROUTING SLIP
+1 NAME OR TITLE
+Captain
+Gregory
+ORGANIZATION AND LOCATION
+AFCIN-4E4
+Multi
+NEVER USE FOR APPROVALS, DISAPPROVALS
+CONCURRENCES, OR SIMILAR ACTIONS
+INITIALS
+CIRCULATE
+DATE
+COORDINATION
+FILE
+INFORMATION
+NECESSARY
+ACTION
+NOTE AND
+RETURN
+SEE ME
+SIGNATURE
+REMARKS
+No known guided missile test range exist in this
+area and no operation involving missiles have ever
+been reported in the area.
+FROM NAME OR TITLE
+Major Barnes
+ORGANIZATION AND LOCATION
+AFCIN-4F3
+DD I FEB 50 Foma For 12, NOY NOT PbTCS PETe SAy PLand AFRC
+or 12, 10 Nov 17, which may be used
+DATE
+18 Mar 58
+TELEPHONE
+70224
+GPO: 1980-103461

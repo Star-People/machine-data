@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:53:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3563405, "source_ctime_ns": 1793371490766702650, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938520/1205.jpg", "source_mtime_ns": 1785689038000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938520/1205.jpg", "source_sha256": "f8bab28a7fbfdbf7a1e3f3ecd90bf721f57c8e5bd206aef1099efd6862b33aba"}
+
+===== PAGE 1 =====
+{"alpha_words": 245, "chars": 1630, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Memorandum for Record
+UNCLASSIFIED.
+radar tracking, both in azimuth and altitude. With this additional unit,
+the Oak Ridge plant could be covered from a different direction and a
+cross check could be made of the operation of the radar at Knoxville
+Air Base. In addition, It Col Willis requested of Air Weather Service
+that they furnish meteorological data on 13 Oct 50 and 28 through 30 Nov
+50. This information is not yet available.
+(A/s duty Nicer)
+ColL. S. Harle, no, receded that futher ad tagon or tach
+problem be given to the Department of Intelligence, AC, which is
+charged with this responsibility. It Col Seashore, ANC, and Col Dunn,
+ANC, were contacted by telephone and advised of the problem as it
+appeared at the moment.
+7. On 4 Dec 50, Col Harris and It Col Willis conferred with Brig
+Gen Agee concerning action taken.
+Brig Gen Agee directed that the
+intelligence Department, Ao, be contacted by telephone and instructec
+to proceed immediately with the technical investigation and render
+whatever assistance was necessary to the CONAC and Atomic Energy
+Commission.
+8. Col Harris called Col Dunn, AMC, and advised him that the
+investigation was primarily a radar problem and stated that it appeared
+necessary that qualified electronic experts be dispatched immediately
+to secure technical information and to advise the Radar Unit at Oak
+Ridge.
+CONCLUSIONS
+the investigation with other government agencies.
+• ACTION RECOMMENDED
+10. Approval of action taken instructing the Intelligence Department,
+AMC to dispatch electronic personnel to Oak Ridge plant of the Atomic
+Energy Commission.
+COORDINATION
+None
+UNCL
+-WolfIED

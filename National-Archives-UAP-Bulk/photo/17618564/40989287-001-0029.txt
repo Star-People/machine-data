@@ -1,0 +1,117 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:43:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 859457, "source_ctime_ns": 1793355908873490127, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989287-001-0029.jpg", "source_mtime_ns": 1785564555000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989287-001-0029.jpg", "source_sha256": "9e1b14187d6f3f6efab9b1304dc637b981b4e2654161941e11bb306d75c138f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 1001, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESULTS
+BAILOON HAFB DATA #
+REMARKS
+S
+S
+N
+S
+S
+S
+N
+S
+N
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+F
+S
+S
+N
+S
+S
+F
+S
+PS
+S
+PS
+S
+S
+S
+S
+S
+S
+PS
+S
+S
+S
+S
+S
+S
+Recovery 47 minutes after impact
+PS 9
+Command separation
+PS 6
+High ascent rate test
+S
+Parachute tracked from HAFB for 10 minutes
+S
+Command Separation
+F
+PS 6 Launch and paracnute test, 6 knots
+PS 3
+Balloon damaged on take-off
+S
+51 Hours transmission from 24 hour pack
+PS
+Inflation in gusts to 30 mph - modified shroud technique
+F
+Early cut-down
+F
+Tracked by aircraft to Georgia coast
+PS 6
+Askania Test
+S
+Impact 20 miles from Radio van
+Aircraft saw separation - missed parachute
+Panel truck saw parachute descend
+S
+S
+PS 4 Parachute opened at altitude, delayed opening desired
+S
+S
+Recovered directly by the L-20 aircraft
+S
+Launch cart test
+S
+Command cut-down because of approaching clouds
+S
+Direct recovery oy I-20 tracking aircraft
+1,7 Film spoiled by high temperatures
+27
+HAFB
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216

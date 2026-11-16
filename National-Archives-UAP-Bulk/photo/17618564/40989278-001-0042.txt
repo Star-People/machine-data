@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:41:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 633502, "source_ctime_ns": 1793355838906269591, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0042.jpg", "source_mtime_ns": 1785564538000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0042.jpg", "source_sha256": "c4bad2984a12abb101bc40885510249744f10deec257a0f82a58795a74beff9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 543, "method": "ocr", "page": 1, "variant": "plain-vision"}
+05/06/97
+TUE 11:22 FAX 703 604 5533
+SAF/AAZD@CP6
+4001
+*********************
+***
+TX REPORT
+***
+****#****************
+TRANSMISSION OK
+TX/RX NO
+CONNECTION TEL
+SUBADDRESS
+CONNECTION ID
+ST. TIME
+USAGE T
+PGS .
+RESULT
+2115
+996932059
+OK
+2
+8₺ .00
+1 90/0
+CAPTAIN JIM MCANDREW
+SAFIAAZD
+1720 Air Force Pentagon
+Washington, D.C. 20330
+Phone (703) 604-4788, DSN 664-4788
+FAX (703) 604-5533, DSN 664-5533
+FAX COVER SHEET
+DATE: 6 MAY 97
+TIME: 1225 EST
+TO:SAF/AAZ
+MR BOESCH
+SUBJECT: FOREWORD
+HERE'S A PROPOSED FOREWORD.
+NUMBER OF PAGES INCLUDING COVER SHEET:2

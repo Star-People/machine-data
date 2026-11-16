@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:41:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 153869, "source_ctime_ns": 1793368400232197880, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-VN-116-2-114148USAF_002.jpg", "source_mtime_ns": 1785566092000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-VN-116-2-114148USAF_002.jpg", "source_sha256": "6d52205c8686173749051d041948f44048109014ae877c169c113ce64f2e4b2d"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 248, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+349-B- VN-Ie-2 - WANG USAF
+
+WD-GEOGRAPHIC LOCATIONS-COUNTRY~VIETNAM, NORTH SCALE MODEL
+POW CAMP SON TAY
+
+124148 USAF ~ A scale model of the POW prison camp at
+Son Tay, North Vietnam. 1970.
+
+U.S. AIR FORCE PHOTO
+
+CONTROL NO: 75-748 NEG: #7, 4x5 bwn

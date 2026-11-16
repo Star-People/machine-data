@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:45:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1070533, "source_ctime_ns": 1793355847453944391, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0042.jpg", "source_mtime_ns": 1785564540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0042.jpg", "source_sha256": "d18711ff15d44d0405b4585b5b7810dcd49d7d4a74443adeb2759ed9f1164364"}
+
+===== PAGE 1 =====
+{"alpha_words": 214, "chars": 1432, "method": "ocr", "page": 1, "variant": "plain-vision"}
+27
+In the second half of 1952, equipment and personnel began
+moving from Holloman to the West Coast to set up the three
+operational launch sites. These were located at Edwards Air
+Force Base and Vernalis Naval Air Station, California, and
+Tillamook Naval Air Station, Oregon. The training phase of
+Holloman's Noby Dick effort naturally reached its peak when
+whole groups of officers and airmen of the Air Resupply and
+Communications Service- which had primary responsibility for
+manning these sites--were brought throuch for a course of
+lectures and demonstrations. Three distinct "classes" visited
+Holloman between September 1952 and Februnry 1953 and were
+exposed to a curriculum that included "balloon history and
+theory," Moby Dick instrumentation, launch techniques, and
+such related topics as "base policies." Not all the
+graduating specialists went directly to the Moby Dick launch
+sites, althouch the main reason for setting up this special
+training program was to prepare Moby Dick Launching personnel 30
+Even before the final class of trainees left Holloman,
+the "operational" phase of Moby Dick began. From January 1953
+to August 1954 640 Moby Dick balloons were launched either at
+the three original western sites or at admitional launch points
+established later in Missouri and Georgia. This scale of
+operation caused the Commerce Department to fear that the
+project was a hazard to aircraft, but the Air Force replied

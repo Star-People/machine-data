@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:48:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1650127, "source_ctime_ns": 1793356133914044319, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0047.jpg", "source_mtime_ns": 1785564616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0047.jpg", "source_sha256": "9c5e9b3fc506547933ade327570d78ecb1b7ab4eef5da6f3f0321f8c6809cad4"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 405, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Director
+Ac ospace Studies In
+A1 IN: Archives Brane
+Mcxwell AFB, Alabas
+ro:
+DOWNGRADED AT 3 YEAR INTEVALSI
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+HISTORY
+DECLASSIFTED
+EOX11652/
+OF
+HEADQUARTERS
+EIGHTH AIR FORCE
+DOWNGRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+Declassitied
+5-4479-3
+I JULY THRU
+31 JULY 1947
+5410-5-68/241(3)
+This document is part of an unclassified series

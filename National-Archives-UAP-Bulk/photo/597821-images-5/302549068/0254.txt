@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:52:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1762896, "source_ctime_ns": 1793390324430369859, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549068/0254.jp2", "source_mtime_ns": 1785808009000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549068/0254.jp2", "source_sha256": "6e3ab6fabd19fd9bfbde67c8139a9308cbc60df2151f12e5bcd9beacc7247b5a"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 615, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE - TIME GROUP
+2 April 1966 02/1724Z
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+One Minute
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+E
+8. PHOTOS
+2. LOCATION
+Nigeria, West Africa (1 Witness)
+10. CONCLUSION
+Possible (AIRCRAFT)
+In view of experience of observer, not a firm identification.
+11. BRIEF SUMMARY AND ANALYSIS
+Object covered 50 deg of arc in one minute.
+The light blinked
+about twice a second.
+Lobked about like a first mag star. No
+sound heard.
+• Yes
+XX No
+9. PHYSICAL EVIDENCE
+• Yes
+KK No
+FORM
+FTD SEP 63 0-329 (TDE) Prevlous •fIllons of this for

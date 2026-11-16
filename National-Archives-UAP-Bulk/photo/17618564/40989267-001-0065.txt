@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:25:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16336883, "source_ctime_ns": 1793355483411717391, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0065.jpg", "source_mtime_ns": 1785564463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0065.jpg", "source_sha256": "f9b8fe90c99a9bcaef99bb2b39e0e4fdd0bd7bf49b1a3631e00546de54c58ded"}
+
+===== PAGE 1 =====
+{"alpha_words": 183, "chars": 1243, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Figure 4. The Original Balloon Borne Spectrograph for Albedo Studies.
+90
+510
+.70
+60
+25% PURIT
+300.20
+Terrain.
+terrain, Staroraticium nantasti
+illustrate the Loci of Radar for Deser
+combined with standard photopic response values to produce the tristimulus values.
+These numbers when presented as coordinates of a point in the chromaticity
+diagram illustrate several of the more important color properties of the object.
+Since the color of an object is markedly dependent upon the nature of the incident
+radiation, it is necessary to compare the plotted value with a standard which most
+nearly approximates the given condition of natural illumination. In this flight, the
+position C, which describes the color of the average daytime sky, is the standard
+source. Any color which is found on the perimeter of the diagram has a spectral
+purity of 100%. A color coincident with point C has then a spectral purity of 0%.
+The dominant wavelength is that pure spectral color, which when mixed with the
+standard, will reproduce the given color. This is determined graphically by the
+intersection of the line drawn through point C and the given color with the chromatic
+perimeter. For this Fig. 5, each point represents a different altitude of measure-

@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:06:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6621646, "source_ctime_ns": 1793377321501416314, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963269/1272.jpg", "source_mtime_ns": 1785696974000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963269/1272.jpg", "source_sha256": "47eb3a99d6062370c84a51d0b48cd77ee1e0b75ae37e507be0dfd651ba395954"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 725, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+25 Aug 55
+3. DATE-TIME GROUP
+Local
+GM T.
+26/01532
+5.
+PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+st
+visible
+at mt
+time
+10. BRIEF SUMMARY OF SIGHTING
+Round, white stationary.
+ATIC FORM 329 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Pattilion, Webr
+4. TYPE OF OBSERVATION
+2 Ground-Visual
+• Air Visual
+6-
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+civilian
+8. NUMBER OF OBJECTS 9. COURSE
+one
+12. CONCLUSIONS
+Wos Balloon
+Probably Balloon
+Possibly Balloon
+Wos Aircraft
+a
+•
+Probably Aircraft
+Possibly Aircraft
+Was Astronamical
+Probably Astronomical
+Possibly Astronomical
+o
+Other.
+CKXInsufficient Data for Evaluation
+Unknown
+stationary
+11. COMMENTS
+Positional data etc, missing. Insufficient
+Data for Evaluation.

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:58:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4512864, "source_ctime_ns": 1793380449221639799, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975995/00820.jpg", "source_mtime_ns": 1785700986000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975995/00820.jpg", "source_sha256": "3b094e4328c377345d8e2f9505ed88ff77034145494352bd7591b131ad9e53b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 809, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1957
+SAFIS-3/Maj. Tacke: cf/73328/2 July 1958
+a 2 July 1950
+Dear Mrs.
+This is to acknowledge and thank you for your uni-
+dentified flying object report of 12 December 1957 and
+the imm notion picture film you subaitted to support
+this sighting, I am returning your film herewith.
+A careful analysia of the precise data submitted
+establisbed that the object waa definitely the planet
+Venus.
+For your information I am inclosing a copy of the
+latest Department of Defense Fact Sheet, dated 5 November
+1957, on unidentified flying objects, together with copies
+of December 1957 news clippings emphasizing the seasonal
+brillance of Venus at that time.
+Sincerely,
+Inols
+LAHRACE J. LACKER
+Major, USAF
+Executive Officer
+Public Information Division
+Office of Information Services
+SAFIS-3 COMEBACK CY
+SAFIS-1 READING CY

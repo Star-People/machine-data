@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:11:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7242641, "source_ctime_ns": 1793383364164056058, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986827/0539.jpg", "source_mtime_ns": 1785748229000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986827/0539.jpg", "source_sha256": "88522ff81c06302b41c0ba91701a580541f94a1b7cf6b505b6202591d19b2f9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 660, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJWZGU 23
+15B. (1) THE WHITE LIGHT
+(2) 132 DEGREES 7,40% FT FROM REGINA
+122 DEGREES 7,402 FT FROM REGINA
+(3) FATED AWAY
+(4) STARTED OVER REGINA AIRPORT GOING NORTH THEN STOPPED
+FOR 1 MINUTE G PROCEEDED EAST AND STOPPED.
+(5) FATED
+(6) APPX 1 HR
+15C (1) GROUND VISUAL & GROUND ELECTRONIC FPS 20 AND FPS GA
+(2) NONE
+(3) NOT SEEN BY AIRCREW WHO SCRAMBLE AFTER IT.
+15D
+(1) 27132 37 MAY
+2) NIGHT
+15E REGINA CANDA VISUAL OBSERVER
+779TH ACW 29 AD ELECTRONIC OPhe/M
+780TH ACW 29 AD ELECTRONIC ForTUNA
+REGINA PPROACH CONTROL ELECTRONIC
+15F 1L MR. R. J. CARRIER WINNEPEG AREA CONTROL CENTER
+"RELIABILITY GOOD
+(2) LT. JOHN DOBBYN SEN
+OR CONTROLLER 779TH ACW
+GOOD

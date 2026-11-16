@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:27:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19052644, "source_ctime_ns": 1793359407811653303, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-074-0008.tif", "source_mtime_ns": 1785681404000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-074-0008.tif", "source_sha256": "1895b4a31bfba9055d801936d11a77392fe2356b56c69527ba9320819e054b8e"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1136, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+(1) .
+(A) ROUND
+(3) ABOUT THREE TIME SIZE OF BASEBALL
+(C). BRIGHT WHITE VARYING IN COLOR TO BRIGHT RED
+(D) •
+FOUR
+(E). VARYING DISTANCES
+PAGE TWO RUEDHR H2
+(F) NONE REPORTED
+(G). SAME AS (B) ABOVE
+(H). SOUNDED LIKE ELECTRIC MOTOR
+(I).
+SEEMED TO BE SPINNING
+(2). NORTH TO SOUTH
+(A). ILLUMINATION IN SKY
+(B). AZIMUTH 2403 MILESN
+(C). UNKNOWN
+COURSET TO SOUTH, AND SOUTH TO NORTH SPINNING AND HOLDING, STEADY
+(E) COLOR CHANGED TO BRIGHT RED CMA NOISE INCREASED AND OBJECT
+•FADED
+(F). FIFTY MINUTES
+(3) . VISUAL
+(A). GROUNE VISUAL
+(B). NAKED EYE
+(C) N/A
+(4). 11 AUG 0905Z TO 0955B
+(A). 112905Z
+(B). NIGHT
+PAGE THREE RJEDHR H2
+(5). 4230 NORTH 8855 WEST
+(AD.
+CIVILIAN CMA
+AGED 42 CMA
+(7).
+WEATHER CLEA!
+(A) CLEAR
+(B) 6000 FT "60 DEG AT 20 KIS CMA 10000FT 360 DEG AT 20 KTS CMA
+16002 FT 330 DEG AT 30 KTS CMA 22200 FT 300 DEG AT 30 KTS CMA
+330000FAN3080020 AT N0TKASACHA 45002 FT 290 DEG AI 40 KTS CMA
+(C) : UNLIMITED
+(D). UNLIMITED
+• (E). NONE
+(F) . NONE
+(8). NO
+(9). NONE
+(1). NONE
+(11). RICHARD HURWITZ 1LT CMA SENIOR DIRECTOR CMA POSSIBLE CAUSE CAN
+NOT BE DETERMINED
+12) / NONE
+Вт
+12/0845Z AUG RJEDHR

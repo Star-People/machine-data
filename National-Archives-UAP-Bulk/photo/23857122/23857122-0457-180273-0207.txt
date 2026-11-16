@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:25:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17084492, "source_ctime_ns": 1793356591268468030, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0207.tif", "source_mtime_ns": 1785564727000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0207.tif", "source_sha256": "ca878ee198f10caf05e292564073573aa10ce2cf115deac634b0c0401a7c6321"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 286, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICILD
+Incident #34, 34a-f -- Manitoba, Vanada -= 13 October 1947
+The reports of this incident answer to the desoription
+of a typical large meteor, or rireball. The trajectory, speed,
+color, and explosion are partioularly convincing evidence..
+Declassification Authority: NND 57565

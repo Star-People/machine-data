@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:23:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14097677, "source_ctime_ns": 1793355316746241417, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0016.jpg", "source_mtime_ns": 1785564434000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0016.jpg", "source_sha256": "6998264c51efa2dd5dd9dc298c9d8d04a7c600d81245229f3063021d1a7dcfc8"}
+
+===== PAGE 1 =====
+{"alpha_words": 256, "chars": 1689, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(b) The GHOST Flights
+The most promising concepts for gath-
+ering the needed wind data were
+the
+GHOST (Global Horizontal Sounding Tech-
+niques) and its French counterpart, called
+EOLE. Both approaches were based on us-
+ing strong, plastic super-pressure balloons
+to trace air circulations patterns, by drifting
+with wind at constant density altitudes. Sci-
+entists agreed that a system of balloons
+electronically linked to weather satellites
+could provide extensive knowledge of global
+meteorology and could be used in improving
+world-wide weather forecasts.
+The practicability of constant-level bal-
+loons floating with the wind and tracked by
+remote telemetry was first studied by U.S.
+Navy scientists in the Transonde Project
+from 1957 to 1959. In 1958, Vincent Lally
+GHOST balloon and telemetry package in simulated
+launch situation.
+(NCAR Photo)
+Balloon system during inflation.
+Bubble (foreground) is released
+from spool and ascends over pay-
+load (background) which is then
+released. Red wrap is for handling
+protection. Deployed parachute is
+part of flight train.
+((NASA Wallops Flight Center)
+A Ghost balloon rises eerily over the Bonneville salt flats, as engineers of the National Center for Atmospheric Research test a
+new way of launching in wind. In a zippered bag, the helium-filled balloon is run down-wind on an open truck, until the truck is
+going faster than the wind. Then the bag is unzipped and the balloon pops into the air. The Ghost (for Global Horizontal Sound-
+ing Technique) is a new type of plastic weather balloon that floats at a constant level. Thousands of these balloons could be put
+up to gather weather data as they circle the globe.
+(NCAR Photo)
+29
+28

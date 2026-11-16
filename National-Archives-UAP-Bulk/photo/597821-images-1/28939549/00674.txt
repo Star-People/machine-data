@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:54:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3686502, "source_ctime_ns": 1793371716242571172, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939549/00674.jpg", "source_mtime_ns": 1785689021000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939549/00674.jpg", "source_sha256": "6c12cf59db0e1f0660a6b7d452642bc6915a243f20c2c167ab061eb29ee1c3b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 755, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+10 September 1951
+3. DATE-TIME GROUP
+Locol.
+1135EDST
+GM T.
+PHOTOS
+• Yes
+1O No
+7. LENGTH OF OBSERVATION
+2 Minutes
+10. BRIEF SUMMARY OF SIGHTING
+SEE CASE FILE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Sandy Hook, New Jersey
+4. TYPE OF OBSERVATION
+• Ground-Visual
+X0 Air Visual
+6. SOURCE
+D Ground-Rodor
+• Air-Intercept Rador
+Military
+8. NUMBER OF OBJECTS 9. COURSE
+One
+12. CONCLUSIONS
+b Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+D
+Was Aiseraft
+Probably Airerat
+Possibly Aircrol
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Dote for Evaluation
+Unknown
+Varied
+11. COMMENTS
+Balloon released from Evans Signal
+Laboratory at 1112EDST.
+ALSO PT KOMMOUTH NEW JERSEY RA DAR CASH, SAME DATE.
+ATIC FORM 329 (REV 26 SEP 52)

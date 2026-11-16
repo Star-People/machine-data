@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:54:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3676906, "source_ctime_ns": 1793373565388174578, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947579/1353.jpg", "source_mtime_ns": 1785688586000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947579/1353.jpg", "source_sha256": "bf6c3f9f60cfd74df210134daa8b5a059b39f11065a071e0c36debfb0764b9c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 691, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AIR TECHNICAL INTELLIGENCE CENTER
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+4684.00
+AUG 1 5 1952
+Sacramento Control Tower
+Sacramento, California
+Dear Vr•
+Your recent report of unidentified serial phenomena has been
+received by the Air Technioal Intelligence Center. Inclosed is a
+questionnaire, which, when completed by you and returned in the
+inolosed, self-addressed envolope, will aid in standardizing the
+data and will provide a complete record of the occurrence.
+Your interest in reporting the matter and your public spirited
+desire to be of service are grostly appreciated.
+Sinceroly yours,
+2 1po2e
+Robert C. Kennedy
+ROBERT E. KENNEDY
+USA:
+Mar da jutant General
+Sorry a delay - on vacation

@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:29:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22823470, "source_ctime_ns": 1793361152103639922, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0166.tif", "source_mtime_ns": 1785565246000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0166.tif", "source_sha256": "600118af1356fc22977f1debf976a4e3c9a129edddf83b44f4093b8bbd32e434"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 137, "method": "ocr", "page": 1, "variant": "clean-vision"}
+did you see the
+me coke
+DECLASSIFIED
+Authority NND 9237007
+ONTOINAL
+600411155: 05 6526 50
+TOMATO SIR
+cond leafe:
+jetalic.
+ourt a l
+actfs

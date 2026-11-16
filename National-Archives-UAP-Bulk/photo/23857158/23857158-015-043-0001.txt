@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:55:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3715678, "source_ctime_ns": 1793360401084456337, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-015-043-0001.tif", "source_mtime_ns": 1785681713000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-015-043-0001.tif", "source_sha256": "bfbcedd42ee6bbc86323e0c20df603ca5c4b5224ed5d611b1718bd52d5f2c49e"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 508, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS
+LUFOB LOG
+REPORT NUMBER
+AISS UFOB 165-56
+LOCATION OF SIGHTING
+Watertown, Wisconsin
+MEANS RECD
+TT Heasage
+INVES UNIT
+N/A
+DATE IR RECD HQ
+N/A
+DATE AISOP FORM 5
+23 dun 56
+COMMENTS
+Probably astronomical
+Jupiter
+| DATE/TIME OF SIGHTING
+28/04032 JUN 56
+(RECD AISOP
+28 Jun 56
+FLOGGED BY
+A/1C Thomas
+ACTION TAKEN
+Hone
+DATE INVES ASSIGNED
+NA
+¡DATE IR APPROVED
+ASSIGNED BY
+N/A
+DATE IR TO ATIC
+N/A
+CONCLUSIONS
+Probably astronomical - dug Jupiter
+AISOP FORM 7 (2 APR 55)

@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:55:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3760349, "source_ctime_ns": 1793377588018607556, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964444/0821.jpg", "source_mtime_ns": 1785696750000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964444/0821.jpg", "source_sha256": "f45819ad217d1da4a7ed60841f2b5b9142ed81a213ad48b99a7e5a41bfd36578"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 558, "method": "ocr", "page": 1, "variant": "plain-vision"}
+15 DEC SS CAMARIDGE, MASS
+IN HORMATION
+Washington Co.,
+Pennsylvania
+August 14,1958
+Office Of The Secretary Of Defence
+Washington 25, D. C.
+Sirs:
+Please send me affirmation that the following reports of
+Unidentified Fiying Objects are, or are not Flying Saucers and if
+not, why.
+December. 15, 1955.- Cambridge,- At 5 p.m. a girl of 12
+saw a " huge round object, spinning around, and humming." The obj~
+ect seemed to be giving off a white light.
+At the same time
+the Baris 25 year old brother some mil-
+es away reported seeing a " brilliant object in the sky.

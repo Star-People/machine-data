@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T17:20:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9525849, "source_ctime_ns": 1793379728844255367, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973305/01374.jpg", "source_mtime_ns": 1785701077000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973305/01374.jpg", "source_sha256": "d8ae0e337aeca2ea3a74507f3bc15bbecbbaeb16972dee3781d45c5ab860b558"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 650, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+6 of November 1957
+3. DATE-TIME GROUP
+Local
+CN+ 07/0133 =
+PHOTOS
+• Y•s
+1 No
+LENGTH OF OBSERVATION
+5 minutes
+BRIEF SUMMARY OF SIGHTING
+1.
+Large grey mass
+ATIC FORM. 329 (REV 25 SEP 52)
+PROJECT 10073 RECORD CARD
+/ 2. LOCATION
+Mineola L.I.
+TYPE OF OBSERVATION
+* Ground- Visual
+O Air Visuoi
+5. SOURCE
+N.Y.
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+3. NUMBER OF OBJECTS
+12.
+9. COURSE
+Not given
+11. COMMENTS
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Jassibly Aircraft
+Nes Astronomical MuRaRA
+Probably Astronomice!
+Possibly Astronomica
+Other
+Insufficient Data for Evalu
+Unknown
+ze of baseball.
+AURORA
