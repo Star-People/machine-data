@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:27:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1053109, "source_ctime_ns": 1793390035672096156, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545759/0060.jp2", "source_mtime_ns": 1785808074000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545759/0060.jp2", "source_sha256": "3a1ced3c2ab0d7d316ccfb0e3688a2860c0c849b7b4cefc7e2ae1c60f157d39a"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 823, "method": "ocr", "page": 1, "variant": "plain-vision"}
+d. Description of flight path and maneuvers
+The object crossed rapidly
+from the point of first observation near Venus toward the north and
+disappeared in the area of the big dipper?
+e. How long was the object visible?
+'One minute
+3. Manner of observation:
+a Ground
+Air
+Visual
+Electronic
+b. Any binoculars or similar device used?
+Description of optical device
+17/A
+c. If airbore, type of aircraft
+N/A
+Identification Nr
+No
+Altitude
+Heading
+Speed
+Home Station
+1. Date and time of sighting:
+a. Local time of sighting.
+Date of sighting
+0600 EDI
+30 Oct 1965
+b. Light conditions:
+Wight
+Day
+Dawn
+Dusk
+5. Location of observer: Apy.
+a. Latitude
+43° 13' N
+b. Longitude
+75° 24' W
+C•
+Position with reference to known landmark
+in the city of Rome, New York
+6. Observers account of weather conditions A clear night; no wind, no
+clouda.
+2

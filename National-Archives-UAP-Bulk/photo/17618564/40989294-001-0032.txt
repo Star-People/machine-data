@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:27:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1343509, "source_ctime_ns": 1793355961090520180, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0032.jpg", "source_mtime_ns": 1785564569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0032.jpg", "source_sha256": "5b921fb11d98100842853f9b49533d7825a89dfb373a5ca1534abc41e1373510"}
+
+===== PAGE 1 =====
+{"alpha_words": 257, "chars": 1774, "method": "ocr", "page": 1, "variant": "plain-vision"}
+26
+also was commissioned to provide certain support services
+for the coming track experiments. In addition, Protection,
+Inc., delivered improved versions of the suit and helmet
+last used at China Lake. The suit's outer material was white
+dacron sailcloth, while the inner garment consisted of layers
+of wool, heat-resistant aluminized dacron, and cotton. The
+helmet was made of fiberglas and completely covered the
+head and face except for two half-inch portholes at eye
+level.
+The protective suit had been built to the measurements
+of a particular chimpanzee from the Aeromedical Field Labora-
+tory primate colony; and unfortunately the chosen subject
+died just before the originally scheduled firing time on the
+morning of 5 August 1958. Apparently this result was due to
+the long anesthesia combined with overheating in the special
+suit during prerun preparations; later autopsy revealed an
+abscessed wisdom tooth as a further complication. The next
+step was to reschedule the experiment and call in a back-up
+chimpanzee subject, and the suit did not fit quite so well.
+Indeed it was necessary to remove some layers of material
+protection offered abion naturally seaused the degres of
+The run was programmed to reach approximately the same
+speed as the last three SNORT runs, with moderate accele-
+ration/deceleration levels so that g-forces experienced
+would not overshadow the supersonic wind pressure. Propulsion
+was supplied by a Megaboom solid-propellant rocket motor,
+approximately 22 feet long and capable of delivering 100,000
+pounds of thrust during its ten-second firing period.?
+Instrumentation included the track's new light-beam-interrupter
+velocity measuring system, cameras, telemetry, sled-borne
+recording equipment, and an assortment of thermometers and

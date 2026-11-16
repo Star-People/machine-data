@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:52:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6901838, "source_ctime_ns": 1793377178731956355, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962888/0971.jpg", "source_mtime_ns": 1785696769000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962888/0971.jpg", "source_sha256": "b5c7bfb4899689afb2f5e3a8ca1e6a21a0849fbd6958e4726962f1e969047496"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 413, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Mutti
+IN
+22 JUL 1958 07 45-
+ACTION
+18
+WPB101 YDD111 XYA179 XMAC65 XXB039GRAS15
+RR RJEDEN RJEDWP RJEPHQ RJWPKL RJWPDM
+DE RJWPGR 32A
+R 2118002
+FM CO NINEAIRDII GEIGER FLD SPKANE AN
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+RJEDWP/COMDR WRIGHT PATTERSON AFB OHIO
+RJWPHQ/DOI HQ USAF WASHINGTON 25 DC
+RJWPKL/COMWADF HAMILTON AFB HAMILTON CALIF
+RJWPDM/COMDR FLT 1-A 4522ND AISSRON MCCHORD AFB TACOMA AN
+BT
+- le

@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-b7eaf711f459b08b0f832b9d",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-d5a147ca596ba0e3bd02a340",
           "segment_index": 3,
           "source_segment_id": "seg-d5a147ca596ba0e3bd02a340",
           "source_text_sha256": "79dbc5c726174a7eacc3772b95a789e7c826af4c8da6e958c5c0321b70ca7243",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Midi-Pyrénées",
           "translation_text_sha256": "163f1a93625f8b3d0442a9358ea5fd93f009981b84ebbf64cb05982851a789f1"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-b7eaf711f459b08b0f832b9d",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-46226d47fd4aa58f726e4b66",
           "segment_index": 4,
           "source_segment_id": "seg-46226d47fd4aa58f726e4b66",
           "source_text_sha256": "0af2c930a733b86ce6a9b81bcf1fb2c1f3c7dbd746f401d55b6b83213cd7e9cd",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Haute-Garonne",
           "translation_text_sha256": "7b792d28d95f6b2ad918772acd4f1f7e25abafff84ce03cba90be2eb56a23b28"
         },
@@ -82,8 +82,8 @@
           "source_text_sha256": "af3c393e0cd98390c556fb921630c5c6f7383d31ac86d78af17576637a6e230b",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Classification: A (Unclassified)",
-          "translation_text_sha256": "450a8e10fb4b2312baf262f45436f2fa2cfc060460470e5168c7ac58772230cb"
+          "text": "Classification: A",
+          "translation_text_sha256": "af3c393e0cd98390c556fb921630c5c6f7383d31ac86d78af17576637a6e230b"
         },
         {
           "end_ms": null,
@@ -114,8 +114,8 @@
           "source_text_sha256": "99900c51c71c36a2a52d8f84b280bd72f1dbe6b6c147d45eacda8922dbe78274",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Phenomenon Type: Identified but unspecified",
-          "translation_text_sha256": "0f68bd0fdb1d7a3497ed7bf1bc9edf9a02576a951db17c43c4da69dd5a5c16cf"
+          "text": "Phenomenon type: Identified phenomenon not specified",
+          "translation_text_sha256": "6623dd06c461c18a3473aa4060657096afedd77488afd0eba7002ae2480dbdcc"
         },
         {
           "end_ms": null,
@@ -123,64 +123,31 @@
           "field": "documents",
           "page_id": "page-b7eaf711f459b08b0f832b9d",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-b297030cbddb7bc01ddaf2c0",
           "segment_index": 8,
           "source_segment_id": "seg-b297030cbddb7bc01ddaf2c0",
           "source_text_sha256": "dae31c975b39fa225dc483d8b150d0b3b826097184b63fd59cec19ce2a28484f",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV #1611 (1976309160).pdf PV #1818 (1976309163).pdf",
-          "translation_text_sha256": "71c59d0e32c4bf781dbe39d3dc860be0fea4ae89a18eb148eeb8be6a4e524176"
+          "status": "not-required",
+          "text": "Documents: PV n°1611 (1976309160).pdf PV n°1818 (1976309163).pdf",
+          "translation_text_sha256": "dae31c975b39fa225dc483d8b150d0b3b826097184b63fd59cec19ce2a28484f"
         },
         {
           "end_ms": null,
           "error": null,
           "field": "testimonies",
           "page_id": "page-b7eaf711f459b08b0f832b9d",
-          "qa_findings": [
-            {
-              "added_in_translation": [
-                "1976-09-17",
-                "1976-09-17",
-                "1976-09-17"
-              ],
-              "check": "dates",
-              "missing_from_translation": [],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "17",
-                "17",
-                "17",
-                "1976",
-                "1976",
-                "1976",
-                "9",
-                "9",
-                "9"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [
-                "17.09.1976",
-                "17.09.1976",
-                "17.09.1976"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "not-required",
           "segment_id": "seg-650f3ebe35858bdcc7d8ec94",
           "segment_index": 9,
           "source_segment_id": "seg-650f3ebe35858bdcc7d8ec94",
           "source_text_sha256": "d9e4f81fd6a1b34243bcd3a9271afe192af91ae6459d695b008b83ea099316fa",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Testimonies: PORTET-SUR-GARONNE (31) 09/17/1976 RAMONVILLE-SAINT-AGNE (31) 09/17/1976 T1 RAMONVILLE-SAINT-AGNE (31) 09/17/1976 T2",
-          "translation_text_sha256": "0bd5d9fc0e0e37ec892812a77b7519369371e87616a9705858b6c6b5b7d1cee0"
+          "status": "not-required",
+          "text": "Testimonies: PORTET-SUR-GARONNE (31) 17.09.1976 RAMONVILLE-SAINT-AGNE (31) 17.09.1976 T1 RAMONVILLE-SAINT-AGNE (31) 17.09.1976 T2",
+          "translation_text_sha256": "95b08f8b8ae6741d2fcb0c54020f9c322bdc3666c726b034f38c9fc6d7615cfd"
         },
         {
           "end_ms": null,
@@ -211,8 +178,8 @@
           "source_text_sha256": "db9a90c77392656469ab2b073efe466939a7f7e50dcc62bd4c7f0765b35ff8b7",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Description: On September 17, 1976, between 8:15 PM and 8:30 PM, several people observed the silent movement of a spherical, luminous phenomenon. Some witnesses noted changes in colors. A gendarmerie investigation quickly determined that it was the passage of a stratospheric balloon from the National Center for Space Studies, released at Air-Sur-Adour (40), to perform high-altitude measurements. The changes in colors were caused by the diffraction of sunlight as it set, while atmospheric movements produced optical distortions of the object's contours.",
-          "translation_text_sha256": "d596d01da5b64a9feb0bec8ccadc48e283ecbd574ecdc8680f4fcad7ad22c857"
+          "text": "Description: On September 17, 1976, between 8:15 PM and 8:30 PM, several people observed the silent movement of a spherical light phenomenon. Some witnesses noted changes in colors. A gendarmerie investigation quickly determined that it was the passage of a stratospheric balloon from the National Center for Space Studies released at Air-Sur-Adour (40) to perform high-altitude measurements. The color changes were caused by the diffraction phenomenon of sunlight as it set, while atmospheric movements caused optical distortions of the object's contours.",
+          "translation_text_sha256": "06128b8f2c31c6cf426f55e0ec52bcff756d0f5d05720ec8d92d72e0584f5166"
         }
       ],
       "source_page_id": "page-b7eaf711f459b08b0f832b9d"
@@ -223,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-29T20:48:38Z",
+    "generated_at": "2026-11-16T06:52:32Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

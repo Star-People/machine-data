@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:42:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4458988, "source_ctime_ns": 1793376424419685046, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960628/0535.jpg", "source_mtime_ns": 1785696826000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960628/0535.jpg", "source_sha256": "7800092b6a0579f99136a388a3c44695d2fb1008d05572419f725c81fe59b7b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 763, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+5 December 1954
+DATE-TIME GROUP
+Local
+GMT.
+06/015
+5. PHOTOS
+Palm Beach, Florida
+4. TYPE OF OBSERVATION
+I Ground-Visual
+D Air-Visuai
+6. SOURCE
+• Ground-Radar
+D Air-Intercept Radar
+• Yes
+Civilian
+7. LENGTH OF OBSERYATION
+3. NUMBER OF OBJECTS
+| 9. COURSE
+Less than 10 soconds
+1
+10. BRIEF SUMMARY OF SIGHTING
+Bluish green.
+2 yds X Si size.
+Orange trail
+with smokd •
+Motion from N to South descendin
+disappearing beyond trees.
+N-S
+11. CONMENTS
+Probable meteor.
+12. CONCLUSIONS
+Was Balloon
+Probably Balioon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibiy Aireraft
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+D
+Other.
+D
+Insufficient Data for Evaluation
+Unknown
+ATIC FORM 329 (REV 26 SEP 52)

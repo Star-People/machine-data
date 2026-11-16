@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-09-00344/case.html",
-    "bytes": 19264,
+    "bytes": 19282,
     "canonical_source_identifier": "GEIPAN:1976-09-00344",
     "case_metadata": {
       "classification": "A",
@@ -40,12 +40,12 @@
     "original_title": "HAUTE-GARONNE (31) 17.09.1976",
     "relative_path": "cases/1976-09-00344/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "f9de1ad1198c5817d1b9b178f9568a14e21c3de56b267f7f5e00c79403afa294",
+    "sha256": "f0833146ffd76b723136064255c3abdef2555e500fb4bb27460d0b4dc90b42fe",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-09-00344"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-5c323fb17eea369d6dcf45e0",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-7da906ac3bfb85020ffcee5f",
           "segment_index": 3,
           "source_segment_id": "seg-7da906ac3bfb85020ffcee5f",
           "source_text_sha256": "b65fad2128e32e242a715c294957483fec057fb7583a88d2969bc51f6cf18506",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Aquitaine",
           "translation_text_sha256": "44b785415252d7df0515fb158b96a25260ab9444a415f915f469beb0c4aa26a4"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-5c323fb17eea369d6dcf45e0",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-467c363f82b595144fd89611",
           "segment_index": 4,
           "source_segment_id": "seg-467c363f82b595144fd89611",
           "source_text_sha256": "683c8bed1112c641b3f156415b50fa8703ed18bb69461bed4b027c345d2f2513",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Lot-et-Garonne",
           "translation_text_sha256": "d617c27ae91509904c993f4062e93b241243d602f4e75c285febc61fe54ba7a4"
         },
@@ -123,59 +123,31 @@
           "field": "documents",
           "page_id": "page-5c323fb17eea369d6dcf45e0",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-49c47af19373b95fd623270b",
           "segment_index": 8,
           "source_segment_id": "seg-49c47af19373b95fd623270b",
           "source_text_sha256": "f32204f45594a8b57dc33a711b96925d139cb743f4133bb3f1a1fe0a52c99554",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents: PV n° 355 (1976309208).pdf",
-          "translation_text_sha256": "188aa29a7ea29eb44746639f01bdf37e9c6359a4188f7df83812315703f5d57a"
+          "status": "not-required",
+          "text": "Documents: PV n°355 (1976309208).pdf",
+          "translation_text_sha256": "f32204f45594a8b57dc33a711b96925d139cb743f4133bb3f1a1fe0a52c99554"
         },
         {
           "end_ms": null,
           "error": null,
           "field": "testimonies",
           "page_id": "page-5c323fb17eea369d6dcf45e0",
-          "qa_findings": [
-            {
-              "added_in_translation": [
-                "1976-07-26",
-                "1976-07-27"
-              ],
-              "check": "dates",
-              "missing_from_translation": [],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [
-                "1976",
-                "1976",
-                "26",
-                "27",
-                "7",
-                "7"
-              ],
-              "check": "numbers",
-              "missing_from_translation": [
-                "26.07.1976",
-                "27.07.1976"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "not-required",
           "segment_id": "seg-4b3b626f2adeddc4c5688a85",
           "segment_index": 9,
           "source_segment_id": "seg-4b3b626f2adeddc4c5688a85",
           "source_text_sha256": "dd4e4c8c54aaa47b452637c0ec5eae0be34dce3b926d6d148ff5c01108c30f40",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Testimonies: LAROQUE-TIMBAUT (47) 29.07.1976 T1 LAROQUE-TIMBAUT (47) 07/26/1976 T2 LAROQUE-TIMBAUT (47) 07/27/1976 T3",
-          "translation_text_sha256": "b96c4948a67ee7c4600c035977fff2c8535089de6875709b65941e71adbcafef"
+          "status": "not-required",
+          "text": "Testimonies: LAROQUE-TIMBAUT (47) 29.07.1976 T1 LAROQUE-TIMBAUT (47) 26.07.1976 T2 LAROQUE-TIMBAUT (47) 27.07.1976 T3",
+          "translation_text_sha256": "30ab2b209bc646583daa7c0e87172320e141cd29b778b1560ee41046ce6f5c56"
         },
         {
           "end_ms": null,
@@ -198,36 +170,16 @@
           "error": null,
           "field": "description",
           "page_id": "page-5c323fb17eea369d6dcf45e0",
-          "qa_findings": [
-            {
-              "added_in_translation": [],
-              "check": "dates",
-              "missing_from_translation": [
-                "1976-07-29"
-              ],
-              "severity": "error",
-              "status": "mismatch"
-            },
-            {
-              "added_in_translation": [],
-              "check": "numbers",
-              "missing_from_translation": [
-                "26",
-                "29"
-              ],
-              "severity": "warning",
-              "status": "mismatch"
-            }
-          ],
-          "review_status": "needs-review",
+          "qa_findings": [],
+          "review_status": "machine-unreviewed",
           "segment_id": "seg-080b726e732746482a41bf76",
           "segment_index": 11,
           "source_segment_id": "seg-080b726e732746482a41bf76",
           "source_text_sha256": "a0b38f9f8c3c75884d26dfecfe924829ba3fa68a0490bafe81fec116fe94836f",
           "start_ms": null,
-          "status": "needs-review",
-          "text": "Description: Between July 26th and 29th, 1976, at different times, several witnesses observed luminous and electrical phenomena that intrigued them. One witness reported the rapid passage of a flickering green ball in the sky, leaving a red trail. TV reception disruptions and an electric meter fire were noted during these days. A gendarmerie investigation reported multiple, differing witness testimonies. This case is classified C due to a lack of consistency and information in the testimonies.",
-          "translation_text_sha256": "a0c69ee058ecfffaa3c92a7d91b3603ad898da19bd66bdd3614ba119dd4ce440"
+          "status": "machine-unreviewed",
+          "text": "Description: Between July 26 and July 29, 1976, at different times, several witnesses observed luminous and electrical phenomena that intrigued them. One of the witnesses observed the rapid passage of a flashing green ball in the sky, leaving a red trail. TV reception disruptions and an electric meter fire were noted during those days. The gendarmerie investigation will report several witness accounts of different observations. This case is classified C due to a lack of consistency and information in the testimonies.",
+          "translation_text_sha256": "92484f47ffb5914d873111febde6d38089155a02d22e1261e8f2d53d91b49117"
         }
       ],
       "source_page_id": "page-5c323fb17eea369d6dcf45e0"
@@ -238,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-28T05:27:51Z",
+    "generated_at": "2026-11-16T07:03:08Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
-    "review_status": "needs-review",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
+    "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

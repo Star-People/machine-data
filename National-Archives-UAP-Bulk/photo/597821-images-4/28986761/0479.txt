@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:53:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7053017, "source_ctime_ns": 1793383335118484118, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986761/0479.jpg", "source_mtime_ns": 1785748414000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986761/0479.jpg", "source_sha256": "b086b976691c0f83c8e97eb84191c4c823b396f3e911e1d7b94c6f4689feec48"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 900, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(2) Approximately 45° above the horizon (See attached sketch).
+(3) Approximately 30° above the horizon (See Attached sketch).
+(4) Object traveled in a straight path.
+(5) Object faded from sight in a north easterly direction.
+(6) No more than 15 seconds.
+c. Manner of Observation:
+(1) Ground - visual
+(2) No optical aids used (observer wears glasses).
+(3) NA
+d. Time and Date of Sighting:
+(1) 012020Z May 60
+(2) Day
+e. Location of Observer:
+33° 30' N/112° W, Glendale, Arizona
+Located approximately 6 miles N/W from the center of Phoenix,
+Arizona.
+f. Identifying Information on Observer:
+Arizona,
+Age 38,
+Reliability cannot be judged.
+Glendale,
+g. Weather and Winds - Aloft Conditions at Time and Place of Sighting:
+(1) Visibility very good, cloudless, bright
+(2) Weather in the Phoenix Area, furnished by Det 30, 25th
+Weather Squadron (MATS), Luke AFB, Arizona, is between 1957Z and
+2056Z, 1 May 60.

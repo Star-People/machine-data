@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-08-00336/case.html",
-    "bytes": 18551,
+    "bytes": 18569,
     "canonical_source_identifier": "GEIPAN:1976-08-00336",
     "case_metadata": {
       "classification": "B",
@@ -40,7 +40,7 @@
     "original_title": "FORBACH (57) 27.08.1976",
     "relative_path": "cases/1976-08-00336/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "2b6fc1352cb8a29e6b5126bb61464d4008c9c74c487d56bfc3f35288216bc530",
+    "sha256": "76e6f1c710dfc2356495ec2b218ddd82046e5aa1606226784963a5192012ae80",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-08-00336"
     ]

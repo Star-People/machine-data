@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:52:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6586212, "source_ctime_ns": 1793380122293437198, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974611/1064.jpg", "source_mtime_ns": 1785700737000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974611/1064.jpg", "source_sha256": "38ec7513c8389e55bc7eadea8447db77f37371f0fb445d62c3b34f3868b6e85d"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 875, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+3. 12
+_November 1957
+DATE-TIME GROUP
+Local
+GM T.
+given
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Sudehob
+21. 1711
+4. TYPE OF OBSERVATION
+AD Ground- Vi sual
+• Air Visual
+6-
+SOURCE
+• Ground-Radar
+• Air-Int
+Civilian
+8. NUMBER OF OBJECTS
+one
+cept Radar
+12. CONCLUSIONS
+00
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Wos Aireraft
+Probably Aircraft
+Possibly Aircraft
+ax Was Astronomical Vents
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+O Yes
+7. LENGTH OF OBSERVATION
+Visible
+24 hrs a day
+0. BRIEF SUMMARY OF SIGHTING
+Object with appearance of a balloon
+although too high to identify. Visible
+2% hrs a day and shines very brightly
+at night. This object has been obser
+ved for a period of two weeks.
+9. COURSE
+not
+givan
+COMMENTS
+No azimuth given; however,
+the
+object appears to be Venus.
+ATIC FORM 329 (REV 26 SEP 52)

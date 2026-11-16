@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:58:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7882345, "source_ctime_ns": 1793364079263312087, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0066.jpg", "source_mtime_ns": 1785684581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0066.jpg", "source_sha256": "c008a1e5c7986b8b9b477cd7e5fd819466d92d2f37c13b97254389b1ec1bab26"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 923, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+Subj: Unidentified Aerial Phenomenon
+SPOT INTELLIGENCE REPORT
+14 April 1950
+Color of Objects:
+Size of Objects:
+Blue, Green and White
+Approximately one-fourth size of
+full moon.
+Shape of Objects:
+Round
+Distance from Observer:
+Unknow due to lack of relationship
+with other objects
+Angle of Elevation from Horizon: Thirty-five to ten degrees
+Direction from Observer:
+East-Northeast
+Direction of Flight:
+Earthward
+Maneuvers:
+None
+Trail or exhaust:
+Long, white, fiery tail
+Effect on clouds:
+None noted
+Luminosity:
+Very bright
+Projections:
+None noted
+Speed:
+Extremely fast
+Sound and/or Odor:
+None
+Time in Sight:
+Approximately three seconds
+Manner of Disappearance:
+Plunged to earth and two apparent
+explosions were noted prior to dis-
+appearance of object
+3. ACTION: Report submitted to Director of Special Investigations.
+Вття
+DOYLE REES
+It Col, USAF
+District Commander
+- 6 -
+Declassification Authority: NND 923007

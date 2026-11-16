@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:35:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3737307, "source_ctime_ns": 1793375637887819714, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957101/0222.jpg", "source_mtime_ns": 1785696643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957101/0222.jpg", "source_sha256": "ceca9f9fa2f37c62e1e4318bf16f91f4b07cdbfbaa283c4f5d0238cb75f684e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 494, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+1700 local '
+16 Dec 53 17/0100Z
+3. SOURCE
+civilian
+4. NUMBER OF OBJECTS
+one
+S. LENGTH OF OBSERVATION
+5-7 mins
+6. TYPE OF OBSERVATION
+ground & air visual
+7. COURSE
+stationary
+8. PHOTOS
+• Yes
+9: No
+9. PHYSICAL EVIDENCE
+• Yos
+• No
+FORM
+FTD SEP 63 0-329 (TDE)
+Provlous odie
+2. LOCATION
+Agoura, Calif
+10. CONCLUSION
+OTHER: CLOUD
+Lenticular Cloud.
+11. BRIEF SUMMARY AND ANALYSIS
+First appeared as black stationary cloud, then rapid
+movement in long shallow climb
+ma way bo vood.

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:25:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 992787, "source_ctime_ns": 1793390674571083253, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552319/0592.jp2", "source_mtime_ns": 1785808166000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552319/0592.jp2", "source_sha256": "c947f55389b240a4c32af021740fffb7a7450161fd0209c76840c4a79dfe186e"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 931, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICIAL FILE COPY
+DETR
+Office of Record
+PTD (TDETR)
+Wright-Patterson AFB, Ohio 45433
+11 August 1900
+Chicago, Illinois 60623
+Dear Mr.
+There have been several sightings similar to yours reportedạ
+to the Air Force during the past year.
+In most cases, we
+have found the cause of these sightings to be an aircraft
+towing an electrical advertising sign.
+The Chicago area has a company engaged in this type of adver-
+tising.
+We have found these aircraft advertising a furniture
+sale, a Ford Motor Compeny sale, and a Go-Go band.
+It is
+difficult to read the message unless the observer is fairly close
+to the aircraft. These aircraft normally fly at altitudes of
+1000-1500 feet, therefore, I would estimate that if the air-
+craft was a mile from your position, then you would see onl
+the sequential rows of electric lights.
+Thank you for reporting your observation.
+Sincerely,
+RECTOR QUINTANILLA, Jr, Major, USAF
+Chief,
+Project Blue Book

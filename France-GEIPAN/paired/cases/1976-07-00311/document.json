@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00311/case.html",
-    "bytes": 18516,
+    "bytes": 18534,
     "canonical_source_identifier": "GEIPAN:1976-07-00311",
     "case_metadata": {
       "classification": "C",
@@ -40,7 +40,7 @@
     "original_title": "CHOLET (49) 02.07.1976",
     "relative_path": "cases/1976-07-00311/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "79558fc51a7cafc459501965ff4ea511f156ef338ecd3f2b1871edda9bd6cc9b",
+    "sha256": "98e41ff209535da380be1ec707bec589584e9405a280444867c762dd87a008fb",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00311"
     ]

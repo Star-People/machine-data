@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:50:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6010175, "source_ctime_ns": 1793378499285571283, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968192/1149.jpg", "source_mtime_ns": 1785696558000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968192/1149.jpg", "source_sha256": "24d8efe10ce5b611e7c3174673b7176f7ae546f9f75da12464850dd254461093"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 782, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+5 November 1956
+3. DATE-TIME GROUP
+. Local
+CMT
+06/0133Z
+S. PHOTOS
+• Yes
+XXNo
+7. LENGTH OF.OBSERVATION
+6. NUMBER OF OBJECTS
+ten minutes
+two
+10. BRIEF SUMMARY OF SIGHTING
+Two objects - elliptical - 15,000 ft.
+diameter (?) color orange to white.
+Objects moving away from each other,
+then together.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Buffalo, New York
+4. TYPE OF OBSERVATION
+›KGround Vi sual
+• Air Visual
+6. SOURCE
+• Ground-Roder
+• Air-Intoreopt Roder
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolloon
+•
+o0
+Was Aireraft
+Probably Aireraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+OXXInsufficient Date for Evaluation
+Unknown
+9. COURSE
+northeast
+11. COMMENTS
+Insufficient data for evaluaton.
+ATIC PORM 329 (REV 26 SEP $2)

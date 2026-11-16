@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:23:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 795989, "source_ctime_ns": 1793355908306708719, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989287-001-0020.jpg", "source_mtime_ns": 1785564555000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989287-001-0020.jpg", "source_sha256": "4043c31093d1858fcfec4c164cec382e0c443aa389e65ed735a618ea30b5c427"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 847, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESULTS
+BALLOON HAFB DATA *
+S
+S
+S
+S
+Л
+PS
+S
+F
+S
+S
+S
+S
+S
+F
+S
+F
+S
+S
+F
+S
+F
+REMARKS
+PS 1 Good data, but unsatisfactory balloon performance
+6 Cluster inflated in one launch platform
+PS 6 Vertical launch from Truth or Consequences Airport
+S
+S
+S
+F
+PS
+F
+F
+S
+S
+4 AM-l failed
+No inflation tube received with balloon
+PS
+Vertical Launch
+S
+30 Pounds ballast dropped at 80,000 ft, MSI
+F
+Sampler free fell - first wind screen launch
+4 Moby Dick network flight, no ballast dropped
+PS
+Payload impact limitations discovered
+3 Payload damaged on take-off - 10 knot wind
+PS 6 10 knot wind screen launch - a holes patched
+F ? Launched at Tillamook, Oregon
+AM-1 heard second morning at HADC
+S
+S
+N
+S
+Recovery not desired
+PS PS 7 One speciman alive - ten hours above 80,000 feet, MS.
+F F 2 Balloon destroyed in 8 knot gusts
+Great Falls, Montana - Launched during night
+18

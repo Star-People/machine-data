@@ -8,7 +8,7 @@
   "document_id": "doc-06648f84225b8063c57d1c97",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-09-06T00:23:59Z",
+    "generated_at": "2026-11-16T06:47:12Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-10-00353/case.html",
-    "bytes": 19439,
+    "bytes": 19457,
     "canonical_source_identifier": "GEIPAN:1976-10-00353",
     "case_metadata": {
       "classification": "C",
@@ -244,7 +244,7 @@
     "original_title": "LOCMINE (56) 19.10.1976",
     "relative_path": "cases/1976-10-00353/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "80de112a0efc7223e8ed6da6e75f1143c777e303f2cc90087f6b4a97cf828e49",
+    "sha256": "f45f254cc7d4d853a8fb867773791abd2851e5a2e2233bdbebd4e86b7ec8327e",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-10-00353"
     ]

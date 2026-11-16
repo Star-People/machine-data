@@ -43,13 +43,13 @@
           "field": "region",
           "page_id": "page-22110383d1c5cddae0ff599c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-b824afffc8402e8f03fc2a39",
           "segment_index": 3,
           "source_segment_id": "seg-b824afffc8402e8f03fc2a39",
           "source_text_sha256": "fd8d520119032de87d836a202d279d596cd8f6a57d9227f4f6787e1663550f69",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Region: Languedoc Roussillon",
           "translation_text_sha256": "df9fed2900d562189342e670fac023a5260c895a0cf6f02fe114232135df592b"
         },
@@ -59,13 +59,13 @@
           "field": "department",
           "page_id": "page-22110383d1c5cddae0ff599c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-b1072c0479420dbc39ad6037",
           "segment_index": 4,
           "source_segment_id": "seg-b1072c0479420dbc39ad6037",
           "source_text_sha256": "f952b870444a1004c3e603c04dfeb4028e8fac413cb5b58a9900c951776cbfbf",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Department: Pyrénées-Orientales",
           "translation_text_sha256": "03dc19a76ba92ef2aeef9da18c66f7314e3c36f7a25b7cf019f7c8beccb4201a"
         },
@@ -114,8 +114,8 @@
           "source_text_sha256": "75eb25968810ea3c968b7457056061746822d1a7e03d5929fad7e73d895ea4d1",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Phenomenon type: Strange phenomenon of medium or strong consistency",
-          "translation_text_sha256": "5ca5ef678ffee11042f6eefc098aff170f16f9a293138ee81f082894d765995f"
+          "text": "Type of phenomenon: Strange phenomenon of medium or strong consistency",
+          "translation_text_sha256": "dc7f549c636605e779c3dfe05971297c9bef3057e3d2b7ba64190280c3df6232"
         },
         {
           "end_ms": null,
@@ -123,15 +123,15 @@
           "field": "documents",
           "page_id": "page-22110383d1c5cddae0ff599c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-312dc8e5871826d30a3a04ce",
           "segment_index": 8,
           "source_segment_id": "seg-312dc8e5871826d30a3a04ce",
           "source_text_sha256": "b8ef484246eae6ba00c4fe3507be02ff9e37404303760c7559f5429a75572021",
           "start_ms": null,
-          "status": "machine-unreviewed",
-          "text": "Documents:  Compte rendu enquete.pdf PV n° 1081 (1976309236).pdf",
-          "translation_text_sha256": "e1db344c45cc2993e65dba10214e71c2bc751b00303c50a30d957f5be757cf10"
+          "status": "not-required",
+          "text": "Documents: Compte rendu enquete.pdf PV n°1081 (1976309236).pdf",
+          "translation_text_sha256": "b8ef484246eae6ba00c4fe3507be02ff9e37404303760c7559f5429a75572021"
         },
         {
           "end_ms": null,
@@ -139,13 +139,13 @@
           "field": "testimonies",
           "page_id": "page-22110383d1c5cddae0ff599c",
           "qa_findings": [],
-          "review_status": "machine-unreviewed",
+          "review_status": "not-required",
           "segment_id": "seg-b798ed785473b72ad341d69f",
           "segment_index": 9,
           "source_segment_id": "seg-b798ed785473b72ad341d69f",
           "source_text_sha256": "77d55710a86f0f869c00094ec5855b5af2989075e9b167d47b6bf3487048cacc",
           "start_ms": null,
-          "status": "machine-unreviewed",
+          "status": "not-required",
           "text": "Testimonies: THUIR (66) 25.03.1976 T1 THUIR (66) 25.03.1976 T2",
           "translation_text_sha256": "56a9de12fa95d8e0c967becee72f74e6706222d4ffe95ad7a8016cad4ca5da47"
         },
@@ -162,8 +162,8 @@
           "source_text_sha256": "0e89ccc3330934f7e14f034b2d2d92b30c1907776f19ec0c554219493e31e39a",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Summary: Observation of the rapid passage of a luminous flying object in an oval shape topped with a dome: unexplained phenomenon.",
-          "translation_text_sha256": "494a0c1778e0134bd41ca1236e37fc311ed6785bc7971f0d1df20e6d8177edc6"
+          "text": "Summary: Observation of the rapid passage of a luminous flying craft of oval shape topped with a dome: unexplained phenomenon.",
+          "translation_text_sha256": "9f3ed4797ede1de5a52f46b3aa5b0a0bd73fc10e10b571964fd92c9e9a0f8da6"
         },
         {
           "end_ms": null,
@@ -178,8 +178,8 @@
           "source_text_sha256": "7edb4d450e65d58f5ecfa5ec015db5f98961eb5841581d296ab81945806cafd8",
           "start_ms": null,
           "status": "machine-unreviewed",
-          "text": "Description: On March 25, 1976, around 2:30 PM, a motorist and his passengers observed in the sky a bright object moving from east to west. Of large size and oval shape, topped with a dome, it remained in their visual field for one minute before disappearing suddenly. No other testimony about this phenomenon was collected. This case is classified as D1 (see investigation report).",
-          "translation_text_sha256": "8da22fbda836e4cc6879aa4b1377c6bad25bd88fd3a615a61b710a77f8b6b051"
+          "text": "Description: On March 25, 1976, around 2:30 PM, a motorist and his passengers observed in the sky a bright object moving from East to West. Of great size and oval shape, topped with a dome, it remained in their visual field for one minute before disappearing suddenly. No other testimony about this phenomenon was collected. This case is classified as D1 (see investigation report).",
+          "translation_text_sha256": "1ef3154d74e86dcb463a74962e3cd633908c6d3407d0ac75b10eb5d419185113"
         }
       ],
       "source_page_id": "page-22110383d1c5cddae0ff599c"
@@ -190,13 +190,13 @@
   "source_language": "fr-FR",
   "target_language": "en",
   "translation": {
-    "generated_at": "2026-08-27T20:21:43Z",
+    "generated_at": "2026-11-16T07:35:36Z",
     "method": "local-mlx-lm",
     "model": "mlx-community/aya-expanse-8b-4bit",
     "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
-    "prompt_sha256": "2212752d6ec719b84c87d65b09fe6ecd9c52f6b671c5f793ff2b80fd0934d6b0",
+    "prompt_sha256": "6e05a472dd3a9630569cd08a1cdb536271348d81c7b54228eca5c68644d7eee2",
     "review_status": "machine-unreviewed",
     "runtime_version": "0.30.7",
-    "workflow_version": "fr-en-geipan-translation-prompt/v1"
+    "workflow_version": "fr-en-geipan-translation-prompt/v5"
   }
 }

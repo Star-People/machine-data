@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:39:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4071719, "source_ctime_ns": 1793386532064092448, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996494/0150.jpg", "source_mtime_ns": 1785748096000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996494/0150.jpg", "source_sha256": "91e4ad61dea03e35bf9c5ad423571acbdcf236e7dde9f4775e331e5b0a933d9a"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1008, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+22 March 1962
+3. DATE-TIME GROUP
+Local.
+GM T_
+S. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+New York City, N. X.
+TYPE OF OBSERVATION
+[I Ground-Visual
+D Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+3. SoURCe
+Civilien
+8. NUMBER OF OBJECTS | 9. COURSE
+2152
+• Yes
+- No
+7. LENGTH OF OBSERVATION
+5 min
+10. BRIEF SUMMARY OF SIGHTING Il YT old boy observed
+smoke in sky. Followed smoke and saw objt
+hat had a light on each end. Estimated objt
+speed of sound. Total observation time 5 min.
+Distance believed to be a mile any.
+12. CONCLUSIONS
+Was Balloon
+Prabably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireral
+Possibly Aireral
+Was Astronomical
+Probabiy Astranomica
+Possibiy Astronomica
+Othe
+Insufficient Data for Evaluation
+Unk no wr
+HI. COMMENTS Observation about noon in NYC.
+Only report for this day im that area/
+In view of location and youth of witnes
+and in consistance of report, objt was
+probably a high flying a/e with con-
+trail misidentification (smoke).
+ATIC PORM 329 (REV 26 SEP 52)

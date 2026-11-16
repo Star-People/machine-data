@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:33:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2960735, "source_ctime_ns": 1793375971128896433, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958589/00196.jpg", "source_mtime_ns": 1785696519000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958589/00196.jpg", "source_sha256": "88394f0d42a7f70628c713e16362472a9c6c6b6fac836dc019b5901dbb41435f"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 354, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JEDLE 46A
+/H/ NONE
+/I/ NONE
+/2/ DESCRIPTION OF COURSE OF OBJECT
+/A/ OTHER PERSONS
+/E/ NEGATIVE
+/C/ NEGATIVE
+/D/ ALMOST MOTIONLESS - APPEARED TO MOVE VERY SLOWLY IN WESTERLY
+DIRECTION.
+/E/ VANISHED FROM SIGHT
+/F/ APPROXIMATELY THREE /3/ HOURS
+/3/ MANNER OF OBSERVATION
+/A/ GROUND VISUAL
+/B/ BINOCULARS
+/4/ TIME AND DATE OF SIGHTINGS
+/A/ 18/11422

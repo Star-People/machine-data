@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:34:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3190958, "source_ctime_ns": 1793376465327562762, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960823/0701.jpg", "source_mtime_ns": 1785696542000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960823/0701.jpg", "source_sha256": "4075bfb04a87b97e6027b78f3e8f4f87942fe03ebd2d1b822fc36dcdf6b033df"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 700, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+3. DATETIME GROUP
+January 1950
+Local
+GMT. 06/1015Z
+5. PHOTOS
+D Yes
+RINo
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Trinidad
+4. TYPE OF OBSERVATION
+XXGround- Visual
+D Air- Visual
+6. SOURCE
+Military
+8. NUMBER OF OBJECTS
+one
+1) Ground-Radar
+D Air-Intercept Radar
+9. COURSE
+10. BRIEF SUMMARY OF SIGHTING
+Siongated silver, no tail or wings,
+sound similar to
+B-36. No a/c rpto
+in area.
+N. - SW
+11. COMMENTS
+Possible a/c.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probabiy Aircraf
+TXPossibly Aircraf
+D
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+D, Other.
+Insufficient Data for Evaluation
+Unk no wn
+ATIC FORM 329 (REV 26 SEP 52)

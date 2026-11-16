@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:45:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5052120, "source_ctime_ns": 1793380310651031068, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975305/00227.jpg", "source_mtime_ns": 1785700683000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975305/00227.jpg", "source_sha256": "dcd65ba2ccfe00e01a3ea154af629e7eb251205e0147d52df42973ced0d19335"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1012, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TO RJEDON/COMDR ADC
+RJWFDN/COMDR 34TH ADD
+RJEDSO/COMDR ATIC WRIGHT PATTERSON AFB
+RJEPHO/DIRECTOR OF INT HQ USAF
+BT
+UNCLAS OPS 472 PD UFOB
+1. (AX LONG (B) BULKY FOUNTAIN PEN (C) BRILLANT WHITE (D) ONE (E)
+NEGATIVE (F) NEGATIVE (G) WIDE TRAIL (H) NEGATIVE (I) NEGATIVE
+2. (A) NEGATIVE (B) 20 DEGREES TO 039 DEGRÉES (C) 25 DEGREES TO 030
+DEGREES (D) SOUTHWEST FOR & MILES CMM SOUTHEAST 13 MILES VEST UNTIL
+IT FADED (E) FADED IN THE DISTANCE (F) 15 MIN PD
+3. (A) GROUND VISUAL (B&C) NEGATIVE
+4. (A) 26 NOV 57 CM 1258 (B) DAWN /: - 7
+5. AF 4555
+S. (A) MR
+FARMINGTON CMM N MEX RETAIL
+PAGE TWO RJWFDN 1J
+JEWLER (B) NEGATIVE
+7. (A) CLEAR CMM SURFACE WINDS 2-10 KNOTS WINDS ALOFT CALM (B)
+LIGHT AND VARIBLE AT NEGATIVE CMM NEGATIVE AT NEGATIVE 313 AT 12
+KNOTS CMM 182 AT 05 KNOTS CMM 260 AT 12 KNOTS 259 AT 15 KNOTS CMM
+280 AT 40 KNOTS CMM NEGATIVE AT NEGATIVE (C) NEGATIVE (D) UNLIMITED
+(E) NONE ITEMS 8 CMM 9 CMM 10 CM 11 CMM 12 CMM 13 CMM ARE NEGATIVE
+TIME 26 NOVEMBER 2000Z CMM ALBUQUERQUE GOC
+ST
+27/18352 NOV RJWFDN

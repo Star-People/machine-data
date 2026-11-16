@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:46:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5403821, "source_ctime_ns": 1793354480138994434, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0021.jpg", "source_mtime_ns": 1785564292000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0021.jpg", "source_sha256": "eb0ec79b4a851c4debb3c8e2c26d825be8cb9b0b0db455a6e29a2675f9e2581f"}
+
+===== PAGE 1 =====
+{"alpha_words": 302, "chars": 1860, "method": "ocr", "page": 1, "variant": "plain-vision"}
+August 6, 1991
+plies, fuel; rations, etc. Further, few had the time or expertise.
+One question was asked by the author and Wexler: "Why must
+the floors be tiled and waxed?" In prior visits to Arctic sites, the
+author lived in buildings with oiled, wooden floors. Gerson later
+visited both Antarctic and Arctic stations to conduct experi-
+ments. At McMurdo he was assigned the top bunk in a tier of
+four which rested on tiled, waxed floors. In the Arctic (Baker
+Lake, Hay River, Yellowknife) he slept in military sleeping bags
+lying on oiled, wooden floors.
+A humorous incident arose when the subject of fuel was
+raised. The Navy agreed to tow two fuel barges to McMurdo and
+knew that on the high seas they would pitch and roll continu-
+ously. No one volunteered to man them. Finally, a bright staff
+commander suggested to the Air Force that it assign officers and
+men to man the barges as they were towed. The Air Force
+thought this offer was an honor and quickly filled the billets. The
+men were seasick until they left the barges at McMurdo
+The Third Antarctic Committee was chaired by Gould, with
+Admiral Byrd as Honorary Chairman, was concerned with over-
+seeing implementation of the Antarctic program. At a subsequent
+meeting, Gould reported that Paul Siple was unhappy. He wanted
+to be placed in charge of the South Pole Station. The USNC
+approved, and he was named Station Chief. After his untimely
+death, the South Pole Station was named the Siple Station in his
+honor.
+Planning for the Arctic geophysical program proceeded dif-
+ferently. After his experience with the first Antarctic Committee,
+the author wrote the entire Program himself, then critiqued it
+with oceanographers and glaciologists. Insofar as meteorologic,
+ionospheric, auroral, and geomagnetic physics were concerned,
+observations and objectives were similar to those for Antarctica.

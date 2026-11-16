@@ -8,7 +8,7 @@
   "document_id": "doc-0f84f7aad9ad5334a905ed15",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-29T05:37:01Z",
+    "generated_at": "2026-11-16T07:24:34Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-04-00297/case.html",
-    "bytes": 19152,
+    "bytes": 19170,
     "canonical_source_identifier": "GEIPAN:1976-04-00297",
     "case_metadata": {
       "classification": "A",
@@ -244,7 +244,7 @@
     "original_title": "PONT-SAINTE-MAXENCE (60) 05.04.1976",
     "relative_path": "cases/1976-04-00297/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "3c335f64ebf8fc995e4c309c5a65e85edfbec2c45f277b26f94995df5e9b4006",
+    "sha256": "b3df343a9250ec927e63df04da3db301f0ee98abf4afdc02cb05d50907a506d6",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-04-00297"
     ]

@@ -8,7 +8,7 @@
   "document_id": "doc-79385eb7a6a8f22503653398",
   "extraction": {
     "engine": "python-html-parser",
-    "generated_at": "2026-08-28T10:08:06Z",
+    "generated_at": "2026-11-16T07:08:30Z",
     "mode": "archived-structured-html",
     "tools": {
       "reader": "python.html.parser"
@@ -219,7 +219,7 @@
   "segments": [],
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00318/case.html",
-    "bytes": 19020,
+    "bytes": 19038,
     "canonical_source_identifier": "GEIPAN:1976-07-00318",
     "case_metadata": {
       "classification": "B",
@@ -244,7 +244,7 @@
     "original_title": "VOID-VACON (55) 13.07.1976",
     "relative_path": "cases/1976-07-00318/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "c4a2aa8f1417bc270a63e351a756babd868b312773f2ddce886d87eb6a9894ea",
+    "sha256": "ad6b38c2d04a20d612cbf4f0f6b78623065b2f28293b4ee221f18620f21bfd12",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00318"
     ]

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:32:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1741878, "source_ctime_ns": 1793390911748106364, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554279/0912.jp2", "source_mtime_ns": 1785808497000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554279/0912.jp2", "source_sha256": "5d66c3436553c959ed68bda7fafb65a2d3bc2158ee76d5d10f23f5ff6095d05a"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 460, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFO CHECKLIST
+WEATHER, OBSERVER
+DA TE
+8 Aug 66
+1. Weather and Winds Aloft
+Wind Direction & Velocity
+(1) 6,000$
+(2) 10,0001
+(3) 16,000г
+(ц)
+20,000₽
+(5)
+30,000"
+(6) 50,000'
+(7) 80,000'
+2. Ceiling
+3. Visibility
+Amount of Cloud Cover
+25/15
+24/20
+21/10
+22/10
+23/25
+24/30
+UNK
+23,000
+10 miles
+6/8
+5.
+Thunderstorm in area and quadrant in which located
+none
+6., Temperature gradient
+Normal
+7. Any unusual meteorological condition which might account for sighting.
+None

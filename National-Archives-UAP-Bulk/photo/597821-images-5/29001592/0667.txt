@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:48:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5733678, "source_ctime_ns": 1793388574638590724, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001592/0667.jpg", "source_mtime_ns": 1785807996000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001592/0667.jpg", "source_sha256": "6704df5d5c29d2e4a3d2d805fb46cec832a5a817f606b7607b25172e36d6e3b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 1063, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1 July 1963
+3. DATE-TIME GROUP
+Local
+2000DST
+GMT.
+02/0100Z
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Glen Ellyn, Illinois
+4. TYPE OF OBSERVATION
+& Ground-Visual IX • Ground-Rader
+• Air Visual
+• Air-Intercept Radar
+3. SOURCE
+• Yes
+- No
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+1 hour 30 min.
+One
+10. BRIEF SUMMARY OF SIGHTING
+Object observed through TX to move from 140
+deg azimuth to the West over the horizon.
+Motion steady,
+About magnitude of Venus.
+Observed again during November and Dec.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft:
+a
+Probably Airerott
+Possibly Alrcraft
+Was Astronomical
+Probably Astronomical
+•
+Posalbly Astronomical
+D Orhor-
+UNIDENTIFIED
+Insufficient Date for Evaluation
+•
+Unknown
+9. COURSE
+West
+11. COMMENTS
+Too fast for Star/Planet if duration and
+positional data correct. Wrong way for
+upper Air balloon. Two Comets visible
+during this period of the year bu
+magnitude estimated to be + 6. Nearest
+celestial object is Satur at 21h40.59..
+Aerospace
+L
+ATIC FORM 329 (REV 26 SEP 52)

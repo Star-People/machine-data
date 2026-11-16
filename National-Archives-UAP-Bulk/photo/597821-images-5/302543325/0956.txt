@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:24:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 959043, "source_ctime_ns": 1793389747854183967, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0956.jp2", "source_mtime_ns": 1785808304000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0956.jp2", "source_sha256": "6f0b04ef582022f30ef9aeb9b53fc1927e9a299e3df6f6f30ccaca1dac419b1a"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 745, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR THE RECORD: 2 Aug 65 - Call Colonel Strandt from NORAD throguh
+NORAD Switch 2191 as soon as we have ananalysis - NORAD Warning Sector
+Received a call from NORAD, Col Strandt, Indications Center, NORAD Warning
+Section regarding observation s on the 2nd of Aug 65.
+Ellsworth - 06452, 2 Aug
+Tulsa, Okla 09002, 2 Aug
+Tulsa on l Aug, three objects for 22 minutes visual observation by state
+patrolman.
+2 Aug, 13 reports from Chayene, red green changing to blue.
+0925Z 2 Aug, Pt Worth and Kansas --- had static
+08552, 2 Aug - Oklahoma Tower - lost communication.
+Col Strandt queried DIA, said they had received reports.
+Col Strandt called beck he had no radar confirmations. Major quintanilla
+gave him the details of what has been happening.

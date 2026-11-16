@@ -15,7 +15,7 @@
   "schema": "ufo-files-french-document/v1",
   "source": {
     "archived_original_path": "originals/France-GEIPAN/cases/1976-07-00325/case.html",
-    "bytes": 18974,
+    "bytes": 18992,
     "canonical_source_identifier": "GEIPAN:1976-07-00325",
     "case_metadata": {
       "classification": "C",
@@ -40,12 +40,12 @@
     "original_title": "LAROQUE-TIMBAUT (47) 29.07.1976",
     "relative_path": "cases/1976-07-00325/case.html",
     "rights_access_note": "Public GEIPAN case page archived by ufo-files.",
-    "sha256": "2a58e2ceac93e8882f15dbfeff0b3bae9f567209e3ad5092f4f10b558c42afe9",
+    "sha256": "ca89c630d11186bd80e623b1ac174169067cf98e27accadf7bebadf1823b7001",
     "source_urls": [
       "https://www.geipan.fr/fr/cas/1976-07-00325"
     ]
   },
   "translation_available": true,
   "translation_path": "en/translation.json",
-  "translation_review_status": "needs-review"
+  "translation_review_status": "machine-unreviewed"
 }

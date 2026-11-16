@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T07:31:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1721277, "source_ctime_ns": 1793389317015243111, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539144/01081.jp2", "source_mtime_ns": 1785808333000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539144/01081.jp2", "source_sha256": "29ade408258287e82f3ebf44bc085d90547f88ec22c0af025ddb97f5d969ef55"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 506, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCOMING
+'MESSÄGE
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+AF IN : 16761 (7 June 65)
+4. ONE
+5. N/A
+PAGE 2 RUWMBUA9585 UNCLAS
+6. THROUGH 9. NONE.
+B. REF PKRA 14B.
+1. WATCHING FOR ECHO SATALLITE
+2. 70 DEGREES ABOVE HORIZON
+3. 45 DEGREES ABOVE HORIZON
+4. SOUTH TO NORTH
+5. LOST AT 45 DEGREES DUE TO FLORAL OBSTRUCTION
+6. ONE MINUTE
+C. REF PARA 14C.
+1. NONE
+2. N/A
+3. N/A
+D. REF PARA 14D.
+1. 06 JUN 65 0658Z
+2. NIGHT
+E•
+1, MARYSVILLE, WASHINGTON (5 MILES NORTH OF
+EVERETT, WASH)
+UNCLASSIFIED
+Pg 2 of 4

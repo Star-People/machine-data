@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:41:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4304990, "source_ctime_ns": 1793379233428006097, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971690/1392.jpg", "source_mtime_ns": 1785701080000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971690/1392.jpg", "source_sha256": "635f8f3b51f3f29fa167db6570adf7ac456975b150e88fd8231a8c1d82e4844b"}
+
+===== PAGE 1 =====
+{"alpha_words": 252, "chars": 1550, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Range 190 n.mt., SAMN ISSELE
+3,600 knots. The scope operator
+immediately called this track to the attention of the duty controller
+and the floor supervisor. The three operations personnel observed
+this track throughout its course until it faded at approximately 50
+n.mi. southeast of the station. This fade occurred within the
+M. TI area. The average speed of the track over its entire length
+was 5,400 knots."
+At the time of the incident, there were 3 UPA-35,
+4 GPS-23 consoles and one height scope in operation.
+The basis for the altitude estimation on track BB-6
+was so unreliable the NORAD team was forced to disregard it.
+Derivation of height associated with part of track BB-6 is discussed
+later in this report.
+The target was detected and tracked on a UPA-35 scope
+but it was not observed on the height finder nor on any other scope
+in the operations room; however, due to the short time that this
+target was carried, it was impossible for the operations personnel
+to evaluate or assess the conditions of the other scopes in the
+operations room. No jamming or intense interference were present at
+this time and weather in this area was low overcast with slight rain.
+Further weather analysis is included later.
+Upon receipt of the initial target information, the
+26th AD alerted other related sites within the 26th AD area to be
+on the lookout for this high speed track. The stations initially
+alerted were Highlands and North Truro. Subsequently, Claysburg,
+Pa., Benton, Pa., and Lockport, N.Y. were alerted as a result of
+DOWNGRAD!
+ASSIFIED

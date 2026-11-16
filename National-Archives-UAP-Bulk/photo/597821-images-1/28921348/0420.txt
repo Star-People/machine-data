@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T06:51:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6521929, "source_ctime_ns": 1793368627782174696, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0420.jpg", "source_mtime_ns": 1785688709000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0420.jpg", "source_sha256": "e6d058d375ad6ffe839cdf7cd37a4b412535a0211be6c06d94f82c0ad91ec725"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 454, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+·1508
+15
+15-17
+[8-15 March 1967]
+LOCAT I ON
+Iweed, Ontario
+Leinster, Massachusetts
+Charlettesville, Virginia
+Tuba City, Arizona
+San Juan, P. R.
+Greenwich, Connecticut
+Washington, -owa
+Lamar, Arkansas
+22.30N - 158.30W (Pacific)
+San Diego, California
+Benton Harbor, Michigan
+Sault Saint Marie, Canada
+ADDITIGNAL REPORTED SIGHTINGS (NOT CASES)
+much 8 - 15
+SOURCE
+News Clipping
+NICAP Report
+"164.
+Ma g
+164
+Ltr
+164.
+M3 g
+EVALUATION
+Astro (STARS/PLANETS)
