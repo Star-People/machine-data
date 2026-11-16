@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:28:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4935904, "source_ctime_ns": 1793375070778033252, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954567/0614.jpg", "source_mtime_ns": 1785696832000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954567/0614.jpg", "source_sha256": "2ef2132515d4f974bcaf97bd5f7801fb8a22810be0d1af26bddfe06a60145bff"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 254, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IN M L
+DSP
+TRO
+X V
+CR
+PO
+REMARKS:
+DESTRICTEDE
+UNCLASSIFIED
+lAR
+FGA
+MC G
+Date:
+17 May 53
+L.C.T.: 7:30 pm
+Location:_
+STL
+St. Louis, Mo.
+Most probably a twilight jet.
+DOWNGRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+UNCLASSIFIED

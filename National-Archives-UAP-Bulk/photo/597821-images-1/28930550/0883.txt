@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:26:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4538270, "source_ctime_ns": 1793369095515419682, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930550/0883.jpg", "source_mtime_ns": 1785688921000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930550/0883.jpg", "source_sha256": "b6f11bde38b8616d7b243c6144f6fb9a2f6a7d3d5b6d39a79a7a6ceded5b5dcc"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 85, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+» » ehd
+
+meh
+
+ae ‘ls ARS
+
+nev’
+
+Satins
+
+a ieittant ye
+
++k
+is
+
+x
+
+AS Saar by
+Fete ko

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:27:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4560405, "source_ctime_ns": 1793388321961523824, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000864/1102.jpg", "source_mtime_ns": 1785748241000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000864/1102.jpg", "source_sha256": "ab90fe27aeeda773bc278a39516b02efab1edc008e03dcf02a259efbad0ba25f"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 852, "method": "ocr", "page": 1, "variant": "plain-vision"}
+-929
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 32625 (25 May 63) S/Jej
+Pg 1 of 2
+INFO : NIN=9, XOP-1,
+XOPX-4,
+SAF - 0S=3,
+/ Army-2, CMC-8, JCS-39,
+OSD-15, CIA-11, NSA-7, ĐIA-25, DIA/CIIC-2
+-133-
+SMB CØ75
+LKA369KHA400
+OO RUEAHQ RUECW RAWGALB
+DE RUHLKH 6
+ZNR
+0 2507092
+F 326 AIR DIV KUNIA FACILITY HAWAII
+TO RUHLKM/PACAF HICKAM AFB HAWAII
+RUHPHH/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RUEAHQ/CSAF USAF WASH DC
+RUE CW/CNO WASH DC
+RUECW/ SECNAV WASH DC
+RUWGALB/CINCNORAD ENT AFB COLO
+RUHPA/CINCPAC CAMP H M SMITH HAWAII
+RUHAFS/ CINCUSARPAC FT SHAFTER HAWAII
+RUMPB/CINCPACFLI PEARL HARBOR HAWAII
+RUAUAZ/ COMUSJAPAN FUCHU AS JAPAN
+RUAMC/COMUSKOREA SEOUL KOREA
+RUAGFL/COMUSTDC TAIPEI TAIWAN
+RUCSBRB/CINCSAC OFFUTT AFB NEBR
+AF GRNC
+02
+UNCLAS/CIRVIS REPORT/
+1. CIRVIS
+2. SERGEANI FLOYD FOSTER, HALEIWA, OAHU, HAWAII

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:08:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 838858, "source_ctime_ns": 1793356286562799714, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0135.jpg", "source_mtime_ns": 1785564660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0135.jpg", "source_sha256": "97184e67947d92c9065dd9278e70eaca8d1ab30d3b1108447ecc99cc6d560784"}
+
+===== PAGE 1 =====
+{"alpha_words": 225, "chars": 1440, "method": "ocr", "page": 1, "variant": "plain-vision"}
+our country's ocean programi
+Robert B. Abel
+President
+New Jersey Marine Sciences Consortium
+Spilhaus on:
+Education
+"I think being an ideas man is an attitude of life. It is a mixture of the childish virtues
+curiosity, wonder, playfulness, and puzzle solving. I have never lost these things.
+Usually they are beaten out of children in schools."
+AtheIstan Spilhaus
+"It is a mistake to think learning or training the mind must be done only in distinct
+disciplines. I have heard someone say they are good in art, but not in mathematics. That
+is nonsense. If you can do one thing well, you can do another well. I believe a curricu-
+lum should include only two subjects-
+-language, which includes language, art,
+speaking, and history; and numbers-
+-mathematics and science. Training the mind is
+simply training the mind-without these separations of disciplines. That is why I dabble
+in everything from toys to science.
+"Children don't have inhibitions about leaming. It is only when you get older that you
+get inhibitions about it. The fundamentals are what children need. My now famous blast
+at secondary education that said there was too much itapdancing, typing, and tomfoolery'
+in schools still stands. We need a very serious re-examination of American educational
+purposes by new people. We need to go back to the fundamentals such as mathematics,
+non-candy coated history, and science, and students should even be expected to leam
+English.

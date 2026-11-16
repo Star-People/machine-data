@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:27:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4687531, "source_ctime_ns": 1793388002634285347, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999633/0034.jpg", "source_mtime_ns": 1785747991000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999633/0034.jpg", "source_sha256": "71d2c0554be5a87c6577fa326c9ae4011abb05a6bb78ef9fa1309076eed3e484"}
+
+===== PAGE 1 =====
+{"alpha_words": 261, "chars": 1848, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OWENS-ILLINOIS
+INTRA-COMPANY 1) CORRESPONDENCE
+January 9, 1963
+Attention of Mr. I. H. Farmer, Jr. - O-I Bldg.
+cc:
+Dr. C. L. Babeock - T.C.
+Subject
+Dr. J. M. Teague - T.C.
+GENERAL RESEARCH DIVISION
+TECHNICAL CENTER
+TOLEDO, OHIO
+Glass Sample Received from the Air Force
+Examination of the subject sampie indicated that the largest
+fragment possessed both a blown surface and a molded surface which
+was crackled. Since these two surfaces were opposite each other,
+the wedge-shaped area between these surfaces represented the thick-
+ness of the original sample. This thickess varied from 1/2'' to 3/4''.
+Generally speaking, the molded surface of these fragments was
+practically identical to the crackled surface of the bottom of large
+carboys, acid bottles or the 5 gallon wide-mouthed jobs currently sold
+for ''Gardens in Glass.''
+In addition to the raised crackle lines,
+definite depressed lines or crevices vere also present. Microscopic
+examination indicated that these lines or crevices were shear marks.
+Therefore, the ware was made from a sheared gob.
+Considering the foregoing characteristics, it appears that the
+glass fragments may have originated from one of
+the larger carboys or
+wide mouth jars having capacities of 5 or 6-1/2 gallons. Also,
+evidence of a sheared gob would indicate that the ware was machine
+made.
+I believe that our Alton Plant is the only plant having the
+necessary machinery to do these large jobs.
+Therefore, it is quite
+possible that the glass sample represents Alton flint composition.
+Emersion in monochlorobenzene indicated that the glass fragments
+have a refractive index similar to ordinary soda-lime-silica glasses.
+On the basis of the foregoing information, it appears that a chemical
+analysis is not necessary. Therefore, the sample is being returned with
+this correspondence.
+E. C. Hagedorn
+Glass Technology

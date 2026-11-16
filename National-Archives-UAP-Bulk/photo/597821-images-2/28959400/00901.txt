@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:25:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4238216, "source_ctime_ns": 1793376136729152610, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959400/00901.jpg", "source_mtime_ns": 1785696425000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959400/00901.jpg", "source_sha256": "1c5434f74b54a41e443efdf886f008f3ba0f5896137451c9fe919fd30524d9b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 735, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JEDLS 56A
+2 DESCRIPTION OF COURSE OF OEJECTS
+A. NOTICED TWO OFJECT HOVERING
+B. NORTH VEST OF OBSERVER ELEVATION 3C DEG UPON SIGHTING DISAPPEARED
+VERTICALLY
+C. OEJECTS HOVERING AT DISCOVERY THEN CLIBED SIDE BY SIDE VERTICALLY
+AT TERIFIC RATE OF SPEED DISSAPPEARING
+C. CLIBED OUT OF SIGHT
+E. TWO MINUTES
+/3/ MANNER OF OESERVATION
+A. GROUND VISUAL
+2. NONE
+C• N/A
+/4/ TIME AND DATE OF SIGHTING
+A. 26/11152
+E. DAY
+/5/ LOCATION OF OBSERVER
+A. APPROX
+3634N 7850W
+724029
+/6/ IDENTIFYING INFORMATION OF OBERVER
+A. CIVILIAN I
+WENT
+DANVILLE VA
+OCCUPATION ENGRAVER AND MINISTER RELIABILITY UNKNOWN
+/7/ WEATHER AND WINDS ALOFT
+A. DAYLIGHT CLEAR AND GOOD VISIEILITY
+B. SURFACE
+2254 DEGREES
+1.002
+10..0
+20021
+25.
+27:
+27-
+3 KNOTS
+17
+10
+14
+18

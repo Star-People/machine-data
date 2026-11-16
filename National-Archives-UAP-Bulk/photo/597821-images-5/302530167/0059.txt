@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:16:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1749703, "source_ctime_ns": 1793388597502937969, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530167/0059.jp2", "source_mtime_ns": 1785808355000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530167/0059.jp2", "source_sha256": "9422ece50f0c999621ca1f530f299447b7306fac739c2632161f749ef5b26235"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 586, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCHASSIHO MESSAGE
+INCOMING
+ANNO
+AF IN: 27592 (21 Aug 63)
+Page 2 of 2
+UNCLAS/ 326 DO-CO 1425
+1. CIRVIS REPORT
+2. N43188
+3, YELLOW GREEN FLASH SIGHTED FOLLOWED BY YELLOW GREEN
+SMOKE TRAIL WHICH REMAINED FOR APPROXIMATELY SIX SECONDS
+4. 44-45N 170-20W
+5. 2 1125 Iłą
+6, OBJECT APPEARED AT APPROX 320 DEGREES RELATIVE AND
+42 DEGREES TO HORIZON
+7. VERTICALLY DOWNWARD
+8. ESTIMATED ONE THIRD SPD OF A METEOR
+9, EVALUATION UNKNOWN POSSIBLY METEOR
+BT
+2 1/ 1525Z AUG RUHLKH
+NOTE: Retransmitted to CIA
+Advance copy deliverd to XOPX, NIN, DIA-CIIC

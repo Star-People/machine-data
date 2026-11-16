@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:42:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8744464, "source_ctime_ns": 1793387737830995020, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999078/1032.jpg", "source_mtime_ns": 1785747851000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999078/1032.jpg", "source_sha256": "c1d3e01806e7e23a74913925845a94db3a5dbd363539ef2781973f4819475655"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 906, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+14 September 1962
+3_
+DATE-TIME GROUP
+Local
+GM T.
+15/01352
+S.. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Barbados.
+TYPE OF OBSERVATION
+XO Ground- Visual
+• Air- Visual
+6. SOURCE
+• Ground-Rodor
+Cl Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+000
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Dato for Evaluation
+Unknown
+not rotd
+one
+BRIEF SUMMARY OF SIGHTING
+Observation in semi-dark room. Very
+bright,
+twinkling blue-green obj like
+sky rocket. Falling toward the earth,
+not across sky. No tail.
+falling
+COMHENTS
+Although duration not rptd, obj
+is characteristic of meteor in
+description. Vertical descent
+unusual; however, still possible.
+Probably a meteor sighting.
+ATIC FORM 329 (REV 26 SEP S2)

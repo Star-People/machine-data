@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:50:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14810244, "source_ctime_ns": 1793355709354933583, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0146.jpg", "source_mtime_ns": 1785564507000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0146.jpg", "source_sha256": "bb64cefe768b7bd27324dd0760c47635c0c48d278e2d094ac298c275b0af32c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 196, "chars": 1358, "method": "ocr", "page": 1, "variant": "plain-vision"}
+279
+278
+vehicles, and certainly at a fraction of the cost of many of the present globe-
+encircling networks. The possibilities are remarkable.
+XXIV. The Rotation of Balloons
+at Floating Altitude*
+A. E. Germeles
+Arthur D. Little, Inc.
+Cambridge, Massachusetts
+Abstract
+The use of high-altitude balloons as stable platforms for meteorological and
+astronomical observatories necessitates an investigation of the dynamic behavior
+of balloons.
+This report deals with the azimuthal rotations of the balloon-gondola
+ystem. The aerodynamic damping and inertia of the system have been mathemat-
+cally formulated and experimentally verified.
+The forcing torque,
+mostly aero-
+lynamic in nature, has been described and its order of magnitude has been
+estimated for known balloon rotations.
+These rotations have been alleviated in the past by control systems which
+orient the gondola by reaction torques applied to the balloon.
+The aerodynamic
+parameters which are evaluated in this report can be useful in the design of such
+a control system.
+*This talk was based on a research paper of the same title by Mr. Germeles and
+R. M. Lucas, of Arthur D. Little, Inc., and E. R. Benton of the National Center for
+Atmospheric Research, Boulder, Colorado. The report, dated December 1963, was
+prepared for the Office of Naval Research under Contract No. Nonr 3164(00). - Editor.

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:44:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9254659, "source_ctime_ns": 1793362065759246537, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0067.jpg", "source_mtime_ns": 1785684945000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0067.jpg", "source_sha256": "da8b066e4f7e7a6084da840b412691a91fd6b7390048ebbd990c2b22c285b47c"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1332, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COPY
+Law Offices
+MARTIN F. O'DONOGHUE
+Tower Building
+Washington, D. C.
+August 1, 1939
+Honorable Robert &. Clapp, Jr.,
+Assistant Attorney General
+1901 Baltimore Trust Building
+Baltimore, Maryland.
+Dear Sir:-
+As attorney for the Rotor-Planes, Ino., 1 wish to advise
+you that I am now in the process of gathering the necessary informa-
+tion which you requested in your letter of Nay 27, 1989. I will
+have this information in your office not later than Friday, August
+4, 1939.
+The matter of Rotor-Planes, Ino. has been taken up by the
+Securities Exchange Commission, and I am now in the process of fur-
+nishing information to the Washington Field Office. Mr. Duncan, the
+attorney in charge of the matter, has been dealing with me on this
+question.
+Rotor-Planes, Inc. is a Maryland corporation and has taken
+over all the assets and assumed all of the liabilities of the Gray
+Goose, Inc., a Nevada corporation, under a contract of merger. I
+am now securing the approval of the Securities Exchange Commission
+on this merger agreement.
+The information which you desire has been delayed being
+sent you due to the fact that I have been out of my office a great
+deal during the last two months.
+Thanking you for this courtesy, I am
+Yours very truly,
+/s/ Martin F. O'Donoghue
+/t/ MARTIN F. O'DOROGHUE
+TAL
+Declassification Authority: NND 923007

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:18:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1984578, "source_ctime_ns": 1793360316177188560, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-014-025-0002.tif", "source_mtime_ns": 1785681688000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-014-025-0002.tif", "source_sha256": "a6a02eb9d242f0b6976878bce75181d2afd4bbf41f23f0829a61eeb26e522d80"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 614, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602
+Office of the Commander
+HEADQUARTERS
+2849TH AIR BASE WING
+Hill Air Force Base, Utah
+APR 1 8 1956
+SUBJECT:
+Unidentified Flying Object Sighting
+TO:
+Commander
+Air Defense Command
+Ent Air Force Base
+Colorado Springs, Colorado
+The inclosed report of an unidentified flying object is
+herewith forwarded in accordance with the provisions of Air Force
+Regulation 200-2.
+1 Incl
+Statement (Capt Petit)
+Алианувне
+it Colonel, USAF
+Commander
+4602D AISS UPOR REPY.
+14-103
+DATERME GROUP 17/02SL& Apr 56
+AlU over Fairfield, lital
+PROBABLY ASTACAOMICAL: VenuS
+'MORE AIR FORCE PER DOLLAR'

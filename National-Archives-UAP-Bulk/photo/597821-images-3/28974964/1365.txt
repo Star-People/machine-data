@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:41:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8562976, "source_ctime_ns": 1793380230541850157, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974964/1365.jpg", "source_mtime_ns": 1785701015000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974964/1365.jpg", "source_sha256": "bec6eb4b5f1d8b21197ff582e779e86612b7c74b80526fc969d3cae42f9698d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 889, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+19 November
+3.
+DATE-TIME GROUP
+Local
+GM T
+19/23467
+5. PHOTOS
+1957
+• Yes
+DANO
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+20 Mi NW of
+Corpus Christi, Texas
+TYPE OF OBSERVATION
+•Cl Ground- Vi sual
+• Air Visual
+• Ground-Radar
+D Air-Intercept Radar
+6. SOURCE
+GOC Obser
+8. NUMBER OF OBJECTS | 9. COURSE
+20 minutes
+one
+I0. BRIEF SUMMARY OF SIGHTING
+Object with appearance of bright star
+with a tail, size of a pea, siiver.
+Trail was very bright and rather
+short, but appeared to be a contrail.
+Appeared to be an a/c with the sun
+shining on it.
+пос
+11. COMMENTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+D:%Wos Aircraft
+Probably Aircrat
+Possibly Aircraf
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+insufficient Data for Evaluatio
+Unknown
+This is apparently an unidentifed
+a/c, rather than a Uro.
+ATIC FORM 329 (REV 26 SEP 52)

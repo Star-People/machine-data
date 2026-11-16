@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:09:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 954548, "source_ctime_ns": 1793390727944836115, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552953/1089.jp2", "source_mtime_ns": 1785808507000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552953/1089.jp2", "source_sha256": "16dc35e3d62f39e5d2b869624f55ac4614a7332f5bdcab268938ee93783a5b2a"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 370, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+9 July 66 09/0900z
+SOURCE
+Civilian
+1. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+Not Reported
+TYPE OF OBSERVATION
+Ground-Visual
+. COURSE
+NE
+8. PHOTOS
+• Yes
+XX No
+9. PHYSICAL EVIDENCE
+n Yes
+XX No
+FORM
+FTD SUP 63 0-329 (TDE)
+NOSECT
+2. LOCATION
+Hamilton, Ohio
+10. CONCLUSION
+INSUFFICIENT DATA FOR EVALUATION
+11. BRIEF SUMMARY AND ANALYSIS
+SEE CASE

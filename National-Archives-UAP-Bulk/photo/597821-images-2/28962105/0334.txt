@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:33:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6735069, "source_ctime_ns": 1793376847377603818, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962105/0334.jpg", "source_mtime_ns": 1785696689000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962105/0334.jpg", "source_sha256": "912994c28a654401017fe48f975a38f32eb18c0ee181de34572bfa54802c2b99"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 1017, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+2. LOCATION
+Local
+GM T._
+16/09052 May 1955
+5. PHOTOS
+• Yes
+* Ground-Visual
+• Air- Visual
+6. SOURCE
+7. LENGTH OF OBSERVATION
+Civilian (COC)
+8. NUMBER OF OBJECTS
+Approx. One (1) Minute
+Cne (1)
+10. BRIEF SUMMARY OF SIGHTING
+One (1) whitesh-yellow object appeared as an
+inverted bowl with a light shining on it. Ob
+server estimated size as three (3) faet at
+10,000 faet. Object seemed to dive behind a
+mountain range.
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+a
+•
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other:
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+Downwari (40°)
+11. COMMENTS
+Observer's estimates and data are not
+feasibla, 1,0,; seeing a thres (3) foot
+object at 10,000 feet at night, and
+contradictiona given in the preliminary
+report preclude the necessity for in-
+vestigation. No investigation author-
+ized. INSVEFICIENT DATA.
+AISOP Form 5 (15 Oet 54)

@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:44:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9402392, "source_ctime_ns": 1793379381768706605, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972165/00384.jpg", "source_mtime_ns": 1785700982000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972165/00384.jpg", "source_sha256": "a55fe2dcf6ce40a5570178c27adbae0b6b6def56e04f4d1ebfbea2795083f672"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 201, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+14/29162 OCT RJEPNY = Ste tty Me Tht thee ciarttien? Me
+
+oe 7 pipe Vee A be’ Cke, HE
+
+tal aGe AHL Ste (pote of ratmoer a
+
+Pe ae fey gett the fey, Ca,
+
+ee 3 i retes - one
+eel Se Fe ee oe . : ee ern ee

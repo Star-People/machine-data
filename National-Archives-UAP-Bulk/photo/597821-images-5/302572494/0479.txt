@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:14:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1426790, "source_ctime_ns": 1793392959910704161, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572494/0479.jp2", "source_mtime_ns": 1785808397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572494/0479.jp2", "source_sha256": "53076765cd3e64747a1ce359f87810421327b242f5987ac9777255b15a3f3474"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 994, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+TIME GROUP
+11 Nov 67 12/02052
+3. SOURCE
+Divalian
+1. NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+1 Hour, 30 Minutes
+TYPE OF OBSERVATION
+Ground -Radar
+7. COURSE
+2. LOCATION
+NCATA CIESTED, ORIC
+10. CONCLUSION
+Probable
+(BALLCON)
+8. PHOTOS
+• Yes
+XX NO
+9. PHYSICAL EVIDENCE
+O Yes
+XX No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous aditions of this form may be uead,
+11. BRIEF SUMMARY AND ANALYSIS
+FAA radar at North Olmstead painted a target that could no.
+be identified at that time. Initially the target was at an
+azimuth of 070 deg traveling at about 50 MPH and approx 20
+25 miles north of Erie. The radar controller felt that the
+target would have had to have been quite high. Lost target
+about10 miles NW of Buffalo.
+COMMENTS :
+The controller thought that the object must have beer
+a balloon out couldn't find the agency that launched
+it. The wind at 30,000 ft was blowing fron 230 deg
+at about 51 MPH.
+It appears that the object was a
+* balloon, however, the launch agency can, not be
+located.

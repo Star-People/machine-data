@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:23:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3883294, "source_ctime_ns": 1793371470696273402, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938410/1117.jpg", "source_mtime_ns": 1785688822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938410/1117.jpg", "source_sha256": "b73ef370375f7b1daab2a5e1aa818c64e7ce55a6eb75da7b31d984d044244c3a"}
+
+===== PAGE 1 =====
+{"alpha_words": 397, "chars": 2487, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Weather Radar Research
+Massachusetts Institute of Technology
+UNCLASSIFIED
+Department of Meteorology
+Room 24-520
+3-6784
+October 6, 1952
+Director
+Evans Signal Laboratory, SCEL
+Belmar, New Jersey
+Attention: Mr. William B. Gould
+Meteorological Branch, Sie:i cs Section
+Dear Mr. Gould:
+We have finally discovered our records covering the "Flying Saucers
+incident of 2l September 1950. The incident came about in the following way:
+We had arranged informally with the Air Weather Service group at Otis
+Field on Cape Cod to track a pair of jet aircraft (F-84's I believe) at 35,000 It.
+in order to provide them with an estimate of their wind drift, and consequently
+winds aloft at that altitude. I have never understood why the group at otis
+Field wanted us to do this, and don't in general approve of using our radar
+systems for operations completely disconnected with our regular line of work.
+This instance is, I believe, the only time we have had any sucharrangement with
+a group at Otis Field.
+We had established radio communications with the jet aircraft on our
+The first radar contact was made with the SCR-615-B at 45-mile range and
+285° azimth. As the accompanying plot shows, the F-BL's were flying a straight
+and level course at 250 IPH indicated air speed towards the northwest (3330).
+About three mimutes after radar contact, we noticed another aircraft signal which
+appeared to be flying a closing course with the F-8h's. We notified the F-84 pilots
+by radio to watch out for the other aircraft which was closing on then from their
+left. At 4.0 minutes (all tines being figured from the first radar contact) the
+two signals nearly merged, the "Saucer" crossing the track of the F-84's about
+three miles ahead of then; but the pilots of the F-84's reported that they were
+unable to see any aircraft. They further explained that there was a haze level
+below them and some light haze above, so that the visibility near their flight
+level may have been quite poor.
+The other aircraft did a very shary tum of nearly
+270° and again approached the F-84's on an intercepting course and closed with them,
+as lar as we could tell by radar, at 5.O minutes. Again the F-o4 pilots were unable
+to see any other aircraft. The "Flying Saucer" then carried on straight towards
+• continuing to plot the fou s up to 9 minutes
+as indicated.
+The signal strength from the two F-84's in close formation was approxi-
+mately two-thirds saturdtion. The signal from the "Saucer" was saturated.
+UNCLASSIFIED

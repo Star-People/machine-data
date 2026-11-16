@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:37:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7552593, "source_ctime_ns": 1793378424619579599, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967950/0936.jpg", "source_mtime_ns": 1785696407000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967950/0936.jpg", "source_sha256": "330e37832fc2070ff9eeefb5323630ba92871cd712e9f4389dbc014dfd90af91"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 931, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+18 October
+3. DATE-TIME GROUP
+Local.
+GHT.
+17/2
+3. PHOTOS
+1956
+Wheelus
+Libya
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+ẠỊSOURCE
+• Ground-Rodor
+D Air-Intercept Radar
+• Y•s
+•. No
+7. LENGTH OP OASERVATION
+Military
+8. NUMBER OF OBJECTS
+| 9. COURSE
+two
+varied
+11. COMMENTS
+10. BRIEF SUMMARY OF SIGHTING
+No visual sighting of objects. Bright
+return on both ground and ar radar.
+Visibility with no ceiling, wind 10
+Altitude on lst object at 9,000
+Kts• Ground radar contact fm 22172
+it.
+and
+final contact at 00482 by a/c.
+A11
+returns indicate solid object & some
+object rather than interference due to
+WX or anomalous prop. See case file fo
+detail movements and contact data fm
+aircraft.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Posity Alicat
+•
+Was Astronomical
+Probably Astronomical
+RETURN
+• Other-
+Insufficient Data for Evaiuation
+ATIC FORM 329 (REY 26 SEP 52)

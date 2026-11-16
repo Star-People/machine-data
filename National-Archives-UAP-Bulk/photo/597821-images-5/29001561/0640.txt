@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:32:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6386039, "source_ctime_ns": 1793388564880930541, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001561/0640.jpg", "source_mtime_ns": 1785808312000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001561/0640.jpg", "source_sha256": "9bb2d9d0574cb7d608571ab5d7896fd1a3e1348d8cd33d64515b8b9e8636643a"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 601, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SAF OIPB/K. Wells/75630.
+July 12, 1963
+Dear Miss
+The Office of the President has asked the Air Force to
+reply to your letter concerning an unidentified flying object
+in your area June z7th.
+The Air Porce has determined that you sighted the
+satellite Boho, moving in an easternly direction on the date
+and time you reported in your letter.
+Your interest in Air Porce activities is appreciated.
+Sincerely,
+C. R. CARLSON
+Colonel, USA:
+Deputy Chief
+Public Information Division
+Office of Information
+Miss
+Shore Road
+Budd Lake, Hew Jersey
+(Office
+Symb61
+Date)
+SAF OIPB COMEBACK
+SAF OI READING
+SAREL
+SAF01PB

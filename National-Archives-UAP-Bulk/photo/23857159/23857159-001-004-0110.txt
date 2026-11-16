@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T13:39:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8310870, "source_ctime_ns": 1793361100949108996, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0110.tif", "source_mtime_ns": 1785565230000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0110.tif", "source_sha256": "6e10fcfb397d1416903f7e96fc6ad49ee644a00417169d9a30486e4cf12c6f81"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 279, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Routing Inst
+Cont' d
+AFON-DI PHOTOSTAL HEP RONUCÉON;
+REQUIREMENT.
+NUMBER OF
+ORIGINA L9
+RE PRODUCTIONS
+SIZ E
+PRINTS
+NEGS
+BETS
+PRINTS
+TOTAL
+OPERATOR NO/DATE
+OPERATOR NO/DATE (8/C)
+OPERATOR NO/DATE
+COLLATOR NO/DATE
+1 - AFK 1958
+11 APR 1958
+58
+ЯЧА
+DECLASSIFIED
+Authority NND 9237007

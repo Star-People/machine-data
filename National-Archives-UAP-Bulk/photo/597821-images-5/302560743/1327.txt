@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T14:10:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1000842, "source_ctime_ns": 1793391659502289025, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560743/1327.jp2", "source_mtime_ns": 1785808322000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560743/1327.jp2", "source_sha256": "0eecab9a21e10dfbbd04f9c2ede7234810f5893d7a662d64d42e0f390fe8eb40"}
+
+===== PAGE 1 =====
+{"alpha_words": 14, "chars": 101, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2
+tL
+
+fi
+
+2
+
+Fob
+
+ATT
+
+3
+
+by ps ghr ~¥
+
+;
+
+7
+
+“Pry
+
+‘
+
+| Sle *.
+Y
+3
+,
+$ |
+f
+ee Gent
+' 4
+| ree
+at ey
