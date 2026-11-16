@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:08:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3628452, "source_ctime_ns": 1793371376857303383, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937964/0718.jpg", "source_mtime_ns": 1785688953000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937964/0718.jpg", "source_sha256": "e0b4299cf7024e62f7942e115681a9bfaa5190b48169b74e5bc4f45ac80add0b"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 645, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEC 14 1967
+IDPT (UFO)
+Maj Quintan111a/70916/mhs/14 Dec 67
+UFO Observation, June 1950
+TDPT (UFO) OFFICIAL FILE CY
+Clearwater, Florida
+33516
+This replies to your letter of November 21, 1967. We appreciated
+leurning of your unusuel experience and will file your letter for
+information purposes. At this late date it vould be impractical
+to undertake a detailed investigution. It 1s important that a
+witness report his observation as soon as possible. This enables
+Air Force anal yats to perform a comprehensive investigation.
+ECTOR QUINTANILLA, Jr, Major, USAF
+chief, Aerial Phenomena Office
+Aerospace Technologies Division
+Production Directorate

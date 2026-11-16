@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:08:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3837781, "source_ctime_ns": 1793356188857329571, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0234.jpg", "source_mtime_ns": 1785564631000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0234.jpg", "source_sha256": "05c83e7f870b135c999f02d456757e7310f9a5258488ecc1c51c9ebe5bb81e31"}
+
+===== PAGE 1 =====
+{"alpha_words": 358, "chars": 2335, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECTION, I
+DESCRIPTION
+1. General
+Meteorological balloons are used to determine the direction and speed
+of winds aloft, to determine the height of clouds, and to carry aloft
+equipment which will take soundings of the temperature, humidity,
+and pressure of the upper air.
+The symbol (&), found in paragraph
+56, refers to all models of procurements of the Generator ML-185
+series.
+2. Types
+Three types of balloons are used in meteorological work; ceiling
+balloons, pilot balloons, and sounding balloons. When in use, all three
+types are inflated with hydrogen gas.
+a. CEILING BALLoONS. Ceiling balloons are small balloons which
+ascend at an average rate of 360 feet per minute after the first 1½
+minutes (par. 16a). They are used in the daytime to determine the
+cloud heights whenever the ceiling is approximately 2,500 feet or less
+Ceiling balloons are supplied in two colors, in red and in a dark color
+(black, dark blue, or purple to contrast with the color of the sky at
+the time of observation (par. 4). Ceiling balloons, before inflation,
+are approximately 3% inches in diameter and weigh about 10 grams
+(0.35 ounce).
+The balloon neck is about 2 inches long and approxi-
+mately 1 inch in diameter.
+b. PILOT BALLOONS. Pilot balloons are used to determine the direc.
+tion and speed of the wind in the upper air and to determine cloud
+heights at night if a ceiling light projector is not available. Pilot
+balloons are supplied in two sizes.
+1) The smaller pilot balloons (fig. 1) are approximately 6 inches
+n diameter before inflation and weigh about 30 grams (1.06 ounces)
+The balloon neck is about 2½ inches long and 1½ inches in diameter.
+The balloon is of one-piece seamless construction. Thirty-gram pilot
+balloons are inflated to ascend at a constant rate of about 200 yards
+per minute (par. 166) and are used for low-level observation (up to
+30,000 feet).
+They are supplied in the following colors: white or
+uncolored, a dark color (black, dark blue, or purple), red, orange, and
+yellow to
+contrast with the condition of the sky at the time of
+observation (par. 4).
+(2) The larger pilot balloons are approximately 16 inches in
+diameter before inflation and weigh about 100 grams (3.53 ounces)
+The balloon neck is made of relatively thick rubber, is about 2½
+inches long, and is 16 inch to 1½ inches in diameter. Pilot balloons

@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:34:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15114365, "source_ctime_ns": 1793355520998371384, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0104.jpg", "source_mtime_ns": 1785564470000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0104.jpg", "source_sha256": "f9c91a16e26f53615b940aeac44c57d2c0d15f4fa98464647e5f440da55747d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 414, "chars": 2709, "method": "ocr", "page": 1, "variant": "plain-vision"}
+198
+For smaller balloons, plastic films and combinations of films and coated
+fabrics are more suitable. Polyesters, polyethylene and urethanes are some of
+the films that have been used. They have been used as single sheets and bonded
+together in laminate form. Nylon and dacron threads and cloth have also been
+laminated between films and on the outer surfaces. Experience has shown that
+a total weight of at least 1-1/2 ounces per square yard is required for suitable
+permeability. However, a material this light does not have the required strength
+or tear resistance for use in captive balloons. At this time the lightest weight
+material suitable for captive balloon use weighs about 4 ounces per square yard.
+Figure 10 shows approximate envelope material weight versus balloon volume.
+6. SUPPORT EQUIPMENT
+Primary support equipment consists of tether cables and winches. Most
+balloons are flown on steel cables although synthetic fiber ropes are used on some
+small balloons. Steel is more widely used because of its better abrasion resistance.
+Figure 11 shows the strength versus weight of cables made from different materials.
+A cable made up of glass roving impregnated with a resin has been investigated
+as one method of increasing the strength to weight ratio. Thus far brittleness of
+the glass fibers has been the hindering factor.
+Standard winches with a few modifications have been adequate for all captive
+balloon flights thus far.
+7. TYPICAL CAPTIVE BALLOON OPERATIONS
+Captive balloons are inflated under a nylon web net for almost all operations.
+When inflation is completed, the harness lines are adjusted to proper tensions and
+the main tether cable attached to the harness rigging. For balloons larger than
+about 75, 000 cubic feet the net is parted in the middle by firing pyrotechnic loaded
+cable cutters. For smaller balloons, it is pulled off by hand. Cable is then payed
+out at about 100 feet per minute until the balloon reaches operating altitude.
+Captive balloons have been flown in extreme cold climates and in the tropics.
+They have been launched from both land and flight decks at sea.
+Many operations require that the balloon be held in a precise position with
+respect to a ground reference point. This is accomplished by tethering the balloon
+with three cables where the cables approximate a tripod configuration. By
+selectively operating one or more tethering winches the balloon can be held in
+position. Television cameras and monitors have been used to view its position.
+1,000
+14 OZ/YD ENVELOPE MATERIAL WEIGHT -
+100
+BALLOON VOLUME X 10-3 CU. FT.
+4 OZ./YD2 ENVELOPE MATERIAL WEIGHT
+BALLOON WEIGHT X 10-3 LBS.
+Figure 10. Balloon Weight Versus Volume for Viron Captive Balloons

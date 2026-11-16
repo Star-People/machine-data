@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:24:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7060286, "source_ctime_ns": 1793384564174927490, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0326.jpg", "source_mtime_ns": 1785748429000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0326.jpg", "source_sha256": "713d7bd0195eb208a22fabd072fcd03e032a914a04896435243559011d7c737b"}
+
+===== PAGE 1 =====
+{"alpha_words": 163, "chars": 1201, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+16 Dec 60
+3. DATE•TIME GROUP
+Local _
+0714
+GM T.
+16/13142
+5.
+PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+1-2 sec
+0. BRIEF SUMMARY OF SIGHTING
+Round, bluish-white, pea to egg shape. Sighted
+060° above horizon and disappeared at 20°
+above
+horizon. Azimuth was 160°.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+5 mi. S of Hutchinson, Kansas
+4. TYPE OF OBSERVATION
+Al Ground- Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Rodor
+&. SOURCE
+Military and Civilian
+| 8. NUMBER OF OBJECTS
+%. COURSE
+one
+N-S
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aiseraft
+a
+Probably Aireraft
+Possibly Aireraf
+a
+Was Astronomical
+Probably Astronomical Metec
+Possibly Astronomiea
+Other.
+Insufficient Data for Evaluation
+Unknow
+11. COMMENTS
+Duration not long enough for satellite.
+All observers were driving and elevation
+was reported to be 60°. While driving a
+car, it is highly improbable that the
+field of view extends that high. Duratio
+and description are characteristic of a
+meteor. The earth is passing through a
+number of meteor showers this time of
+year, and several reports of meteor
+sightings have been received by the AF.
+Object was probably one of these meteors
+ATIC FORM 329 (REY 25 SEP 52)

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:24:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6979191, "source_ctime_ns": 1793378325618067426, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967612/0653.jpg", "source_mtime_ns": 1785696419000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967612/0653.jpg", "source_sha256": "6352ce0fa24e2627d64f3747728b8f879c9a885c119a3874c6874c376f1f164f"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 758, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(1) DISCRIPTION:
+A. ROUND
+D. LARGER ONE SIZE OF MARS
+SMALLER ONE SIZE OF PIN HEAD
+C. SMALLER ONE BLUISH WHITE LARGER ONE YELLOWISH WHITE
+D. 2
+E. ONE BEHIND OTHER
+F. LIGHT
+G. NONE
+(2) DESCRITION OF COURSE
+D. FIRST SIGHTING-HEADING SV-SMALLER FOLLOWED BY LARGER LIGHT
+SECOND SIGHTING-HEADING NE-ONE-SIZE OF DIM STAR
+THIRD SIGHTING-SAME AS SECOND BUT PRECEEDED BY LARGER LIGHT
+F. FIRST ONE SECOND 45SEC THIRD 75 SECONDS
+(3) MANNER OF OBSERVATION
+A. GROUND VISUAL
+(4) TIME & DATE OF SIGHTING
+A. FIRST SIGHTING 2180152 SECOND 210245-THIRD 210110Z B NIGHT
+(S) IDENTIFYING INFO OF ALL OBSERVERS
+25 SALES
+ROOKLYN NY
+29 STUDENT-PHO
+(7) WEATHER
+C. 4,000
+D. 15 MILES
+E. SCATTERED
+(11) 1/LT JON F. CURRY III CIC/DO MEADQUARTERS 26TH AIR DIVISION (D)
+21/31522 SEP RJEPNY

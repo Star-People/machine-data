@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:17:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5431690, "source_ctime_ns": 1793363168400898854, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0157.jpg", "source_mtime_ns": 1785684747000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0157.jpg", "source_sha256": "3cedaae6d7523d31685eb0a0f9ed99e9ee05b3615c0123f2d760d7ebc8eb652d"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 71, "method": "ocr", "page": 1, "variant": "clean-vision"}
+28 MAY
+CI Div
+ISO
+| 20/2
+So 80)
+Declassification Authority: NND 923007

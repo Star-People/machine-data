@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:58:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1145464, "source_ctime_ns": 1793355926186222544, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0009.jpg", "source_mtime_ns": 1785564560000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0009.jpg", "source_sha256": "79ee873f3c647afb4042f8681f7b3406950a21058b89a4b20876498df61c87ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1282, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3
+In the beginning, and in fact for a number of years, Hollo-
+man's function in aeromedical and related activities was pri-
+marily to render supportservices. The first instances of such
+support were in connection with the firing of V-2 rockets at
+nearby White Sands Proving Ground starting in 1946, even be-
+fore the Air Force guided missile program was brought to Hol-
+loman. Not all V-2's fired at White Sands carried experiments
+of interest to aeromedical research, but many of them did for
+a variety of both governmental and academic organizations.!
+Virtually all V-2 firings required some support from Hol-
+loman. This might consist of little more than providing a
+landing strip for aircraft carrying project people who would
+prepare the actual experiments or for the planeloads of high
+officials and other important visitors who would arrive to watch
+the final blast. Upon occasion, however, Holloman was called
+upon to lend laboratory facilities as well as vehicular support
+and housing for visitors. Such services were quite apart from
+the sharing of resources in routine day-to-day operations such
+as range management that has always existed between the Air
+Force Missile Development Center and White Sands Proving
+Ground without regard to the needs of specific projects.?

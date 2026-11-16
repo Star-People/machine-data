@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:02:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1695370, "source_ctime_ns": 1793391177806123459, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556056/1221.jp2", "source_mtime_ns": 1785808514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556056/1221.jp2", "source_sha256": "37a94863e4247d7b157b8581a33af2d656e284384d1c8fb4e389b7c5ceb25e8c"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 410, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 100: 3 RECORD
+1. •DATE •TIME GROUP
+23 Sept 66
+0638z
+2. LOCATION
+San Angelo, Texas
+3. SOURCE
+Civilian
+10. CONCLUSION
+(other)
+INSUFFICENT DATA FOR EVALUATION:
+NUMBER OF OBJECTS 1
+One
+LENGTH OF OBSERVATION
+20 minutes
+11. BRIEF SUMMARY AND ANALYSIS
+• SEE CASE
+TYPE OF OBSERVATION
+Ground Visual
+:. COURSE
+Varied
+3.
+PHOTOS
+D Yes
+_* No
+2. PHYSICAL EVIDENCE
+17 Yes
+& No
+FORM
+FTD SEP 63 0-329 (TDE)
+Provi
+used.

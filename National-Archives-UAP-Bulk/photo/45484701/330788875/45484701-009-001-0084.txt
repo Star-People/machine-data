@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:50:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22474604, "source_ctime_ns": 1793365461408182585, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0084.jpg", "source_mtime_ns": 1785685093000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0084.jpg", "source_sha256": "1eed1c583b9eb42ebb645c1390dad0f99e76532fa6b78d86488540b92b6d4086"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 146, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Hear view of abandoned ear body, Wickatron
+Hanch, Cheyenne, Wyoming, shoving shattered
+rear windows
+Aich r
+Declassification Authority: NND 923007

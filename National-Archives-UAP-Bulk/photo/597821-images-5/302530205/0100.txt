@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:06:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1767302, "source_ctime_ns": 1793388602080813626, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530205/0100.jp2", "source_mtime_ns": 1785808576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530205/0100.jp2", "source_sha256": "498aa653a6706ac59b1652e703cbce6cb8601ec4af0617af549603417dc5a568"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 215, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+NO CASE
+(IMPORMATION ONLY)
+13 august, 1903
+Bourbonneis, Lilincie
+50.2-6 :
+ZARA - SER 63
+Case f7 Bourbonnais, Illinois,
+reddich orenss liebta,
+See Lepeci
+E 13, 1963. Melvin Eddington, 14, sas three
+feport elsewhere.

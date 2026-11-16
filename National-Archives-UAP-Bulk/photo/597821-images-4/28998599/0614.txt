@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:30:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8761549, "source_ctime_ns": 1793387374223665992, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998599/0614.jpg", "source_mtime_ns": 1785748311000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998599/0614.jpg", "source_sha256": "4813df861702244500c4b3361924f8885bb9a35bece1255ae7b70072e3522c84"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 398, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN :
+DEPARTMANT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+NCLASSIFED MASSAC
+20616 (13 Aug 62) IN C 0 M IN F
+Pg 2 of 2
+88-17W BRIGHT OBJECT LEAVING LONG RED/WHITE TRAIL SIGHTED
+ABOUT 30 DEG ABOVE HORIZON BEARING ABOUT 220 DEG MOVING
+RAPIDLY ACROSS SKY LEAVING STEADY TRAIL DISAPPEARING ON
+178 DEG BEARING 10 DEG ABOVE HORIZON OBJECT IN SIGHT ABOUT
+3 MINUTES.
+13/1236Z
+NOTE: ADV CYS CIN, DIA & 00P-CP

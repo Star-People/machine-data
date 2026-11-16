@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:42:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10671624, "source_ctime_ns": 1793354435220977972, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0063.jpg", "source_mtime_ns": 1785564284000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0063.jpg", "source_sha256": "363f6e394bd5a1a03fc99995ce02d9e9cfc85239f7e2f05a0fae635750a181b8"}
+
+===== PAGE 1 =====
+{"alpha_words": 310, "chars": 2307, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Understanding the environment between the earth and sun and its
+effects on military systems and operations is the main focus for Phillips
+Laboratory researchers at Hanscom Air Force Base, Massachusetts.
+cientists there are interested in space and ionospheric physics, atmos-
+pharie and earth sciences, and optical and infrared technologies. Their
+products include geophysical models and data bases, design standards,
+and prototype hardware and software.
+Geophysics Programs
+CIRRIS
+- The Laboratory's CIRRIS-1A (Cryogenic Infrared Radi-
+ance Instrumentation for Shuttle) experiment collected measurements
+of the natural earth background from the surface of the earth out to 260
+kilometers. The experiment flew on the Space Shuttle Discovery in
+1991. Infrared background models will be developed from the data and
+used in designing strategic defense surveillance systems.
+CRRES -
+- The Combined Release and Radiation Effects Satellite
+(CRRES) is in geosynchronous transfer orbit making measurements of
+the cause and effects of spacecraft anomalies while passing through the
+heart of the most radiation-damaging regions of near-earth space. The
+results on micro-electronic damage and materials charging, together
+with up-dated models of the near-earth radiation environment, will
+significantly impact how future spacecraft are designed, tested and
+operated.
+Tactical Decision Aids - Geophysics researchers are developing
+techniques and prediction models to understand how weather affects
+the operation of "smart" weapons on the battlefield. These techniques,
+called Tactical Decision Aids, help tactical planners -
+— as well as
+fighter pilots -
+- predict meteorological parameters and the effective-
+ness of specific smart weapons in wartime scenarios.
+Ionospheric Models - Global, real-time ionospheric and atmospheric
+density models are being developed for transition to the Air Weather
+Service to satisfy Space Command and Space Track requirements.
+Treaty Verification - Seismic studies, to learn the characteristics of
+man-made and natural vibrations. will contribute to the United States'
+ability to monitor underground nuclear tests for Nuclear Test Ban
+Treaty verification.
+Geophysics
+Cryogenic
+Labcede
+Facility
+Experiment
+Integration
+Coronal
+Photometer
+Laser at Ascension Island
+Aurora
+Effects
+Studies

@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:20:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6340362, "source_ctime_ns": 1793378580122428325, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968462/1384.jpg", "source_mtime_ns": 1785696897000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968462/1384.jpg", "source_sha256": "201ce18242d657c8ceaa58c9c489f5674ead63ce640d589656d613e9d3df146b"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 340, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IAWÄFR 200-2 FOLG UFOB RPT I A B C D E N/A F
+G H I 2 A B 35 AZIMUTH 100 C 60 100 D E F HRS 3 A
+B C N/A 4 A 0512Z 27 56 B 5 FKDP2951 6 A 24
+elos
+B 21 C 35 D 45 E B NEG 7 A B C DE NEG F NEG 8 NEG
+9 iE NEG 11 OPS 12 1,4672 G.0.S 1873 .
+(941 PM NOV 27 TYL
+WINDS.
+Papil
+als
+site
+W-NW
+RAPIDSTY
+Lanc
+apput 180 miles
+→ RADEKA
+y Kacloka.
+Probe
+Rall

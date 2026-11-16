@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:41:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8932975, "source_ctime_ns": 1793383285756924325, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986656/0384.jpg", "source_mtime_ns": 1785748359000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986656/0384.jpg", "source_sha256": "c069ed5a28d41ae8db71f6598342cbb3306fe6d82ad9c0fc9adda72504619d0c"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 886, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+17 April, 1960
+3. DATE-TIME GROUP
+Local
+GMT18/0229ZłęŚęÍ
+5. PHOTOS
+• Yes
+% No
+7. LENGTH OF OSSERVATION
+2 1/2 minutes
+10. BRIEF SUMMARY OF SIGHTING.
+Red glowing object viewed through 48X
+elevation, located North of Orion at 300
+elevation, passed
+South of Cirus and
+disappeared below the horizon in 2 1/2
+minutes. Request for additional information
+sent and no answer reveived.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Richards Gebaur AFB, Missouri
+1. TYPE OF OBSERVATION
+LeLEScOpe
+• Air Visual
+.. SOURCE
+• Ground-Rader
+• Air-Intercept Radar
+Military
+•. NUMBER OF OBJECTS
+One
+12. CONCLUSIONS
+Was Balloon
+ossibly Balle
+•
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Othor.
+Unknown
+9. COURSE
+Southwest
+11. COMMENTS
+From the information given no
+conclusion can be offered. Case listed
+as unidentified.
+ATIC FORM 329 (REV

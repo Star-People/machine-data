@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:10:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4203172, "source_ctime_ns": 1793384082834756402, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988819/0130.jpg", "source_mtime_ns": 1785748436000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988819/0130.jpg", "source_sha256": "bbdfc70e7cd494c7a8045f6a811f646d4efdd359ad5f3634ec38ed93625e137a"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 631, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TCZCSQA573ZCJY9714
+RUEDSQ
+43
+100 01P 8
+10 54
+0310252
+1 COMBARPAC
+TO RJHPKM/CINCPACAF
+RAHPO/COMHAWSEAF RON
+UMPHH/COMHAWSEAFRON OCC
+UMPKA/ADCC • HEELER AFB
+DAPPG/COMWESTTTTTSEAFRON
+NFO RJEZHQ/COFS USAF WASHDC
+INFALB/CINCNORAD
+ЧЕ2
+44K2A
+UMPB/CINCUSAPAC FT SHAFTER
+BMPBXCINCPACF LT
+APAA/COMSUJAPAN FUCHU
+AMC/COMUSKOREA SEOUL
+JAGFL/COMUSTDO TAIPEI
+EDSO/ATIC WRIGHT-PATTERSON AFG OHIO-
+JAPAA/ATIC DET FOUR TOKYO
+AVY GRNC
+MAS X MERINT X NEVELL (DER 322) X SINGLE OBJECT
+TERING ATMOSPHERE BRILLIANT YELLOW-GREEN FOR FIVE
+CONDS X SON-162 39.5V X 0808152 X LOW X SOUTH TO
+RIN 45 DEGREIS TO HORIZON EAST BEARING X SEAS CALM
+IBILITY UNLIMITED

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:55:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 679681, "source_ctime_ns": 1793356360970137500, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0010.jpg", "source_mtime_ns": 1785564685000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0010.jpg", "source_sha256": "794441c77732931fc3babb2444b956599ebfb258f575cedc2238fbb3151b4322"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 666, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FITZWILLIAM (Socret) Projects. To facilitate adminiutration, trang-
+portation and supply for FIiZWIIAM (Secret) the restricted codevords
+were assigned as indicated below to designate the efforts of the respec-
+tive participating agencies:
+Apency
+Air Materiel Comand
+Air Woather Service
+Signal Corps, U. S. Army
+Signal Coips, U. S. Ary
+Signal Corps, U. S. Arny
+Naval Ordnance Iaboratory
+Naval Electronics Laboratory
+Naval Nescarch laboratory
+Codeword
+BIACKHEART
+FISTHATE
+BIITHROXYT
+CRIMPED
+CHIESECIOTH
+TENSOR
+VECTOR
+SCALAR
+Scientific Field
+Balloon acoustic
+Nucloar
+Acoustic net
+Nuclear Instrumonts
+Light roflection fron
+the noon
+Acouatic and seisnic
+Acoustic
+Nuclear

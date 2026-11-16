@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:21:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6400351, "source_ctime_ns": 1793369429086408874, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931760/0496.jpg", "source_mtime_ns": 1785688787000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931760/0496.jpg", "source_sha256": "d928a53bd9fc6602b0583cbc8a5086ec5b1aceefc85709f5873fcc284d916db3"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 352, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+Incident /210 - Boston, Hassachusetts -- 10 Hovember 1948
+There is no astronomical explanation for this incident.
+The objests seen were apparently conventional aircraft.
+It is rather surprisin
+in the dim light, the observer could
+identify then as single-engine planes, and yet could hoar no scund
+from them
+UNCLASSIFIED
+MOOTED
+7-3712 - 12

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:37:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18656231, "source_ctime_ns": 1793355576752852016, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0015.jpg", "source_mtime_ns": 1785564482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0015.jpg", "source_sha256": "b64946332ae6277cac32c2b67d7e0520103471ec4c16ac188743693f7fa1e73f"}
+
+===== PAGE 1 =====
+{"alpha_words": 188, "chars": 1257, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HYDRAULIC
+CONSULICATIONS
+YEAR PLASTICI
+CELL'
+SIDE SHIELDS
+(WIRE MESH)
+AD-OUT GUIDE
+_EAD-OUT PULLEY
+LEVEL-WIND PU
+AUX TETHER
+AUX GUIDE
+AUX PULLEY
+FOOTAGE CONTROL
+HAND RAIL
+CATWALK,
+AUX WINCH
+PROP SHAFT===
+Figure 7. Tabs-Mobile Winch Vehicle
+control panel for the intercom system used by the personnel aboard the truck. The
+personnel includes the hydraulic and communications operators, the vehicle driver
+and one observer, seated facing backwards and upwards in the driver's compartment.
+All personnel are shielded from possible injury in the event of tether breakage by
+side and overhead screens of wire mesh or clear plastic.
+A small auxiliary winch at the extreme stern of the vehicle, together with a
+guide pulley and lead-out grommet provide a means for initial erection of the
+balloon and load train, and for transfer of the load to the main tether. A gasoline-
+driven 110-volt a-c generator is also mounted at the stern, to provide power for
+flood lights during night operations, and any additional instrumentation which may
+Figure 8. Final Preparations for 5000-Foot Telemetry Check-Out Flight Using 23-
+Foot Sleeve-Clutched Balloon, Glass Tether, and Mobile Launch Vehicle.
+The
+alloon is attached to the auxiliary winch by a secondary handling line

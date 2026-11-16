@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:22:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6853622, "source_ctime_ns": 1793383911076043840, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988265/0376.jpg", "source_mtime_ns": 1785748422000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988265/0376.jpg", "source_sha256": "2561a9579226adde18f584f8179252f214b51e68b4afdce910be049235237479"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 377, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGK TWO RAKONPH 1
+7. 0/8
+E• W/A
+D. DERCRIPTION OF COURSE
+1. ANOTHER PERSON CALLED OBSERVERS ATTENTION TO OBJECT
+2. AZIMUTH 122 DECCCES CLIVATION 15
+S. AZIMUTH CH4 DECREES ILEVATION 1E
+4. STRAIGHT
+I. CLUECT WANT OVER THE HORIZO
+2. OCCREVER USED A WEATHER BURIAL THRODOLITE
+D. TIME AND CATS OF FIGHTING
+:. 27/02434
+C. LOCATION OF OBSERVER
+CA3IN 25S 270 ON HONE AIRFIELD, ALARKA

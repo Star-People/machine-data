@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:24:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7021659, "source_ctime_ns": 1793378166699927400, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967024/0142.jpg", "source_mtime_ns": 1785696633000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967024/0142.jpg", "source_sha256": "b9641a4ece2a0c0d61be48bee3833122ef30c4a90096d1f4e63302dbfa8e5fda"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 588, "method": "ocr", "page": 1, "variant": "plain-vision"}
+59117
+АСТЮ
+RB117
+WPE166ENA137
+O0 RJEDWP
+ZOV RJEDEN
+ENA162 TYA180
+4- 4x22
+O0 RJEDWE
+EOV RJEP
+TDA075V XTA168 XDEBPIIDMA261X
+O0 RJEDEN RJEPWD RJEPHQ
+DE RJWPDM 77A
+0 1809522
+FM COMDR 25 AIR DIV D MCCHORD AFB WASH
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+RJEPWD/COMDR ATIC WRIGHT. PATTERSON AFB OHIO
+RJEPHQ/DI HATRS USAF WASH 25 DC
+ZEN/COMDR 25 HR AD MCCHORD AFB WASH
+ВТ
+OOUNCL/,ATTN: D/I DI-FOB/25TH TAC H-210
+8. NONE
+9. NONE
+12. NONE
+11. NONE
+12. OBSERVER REPORTED THAT AT 05482 AN A/C IN AREA HAD APPROACHED THE
+OBJECT FROM THE SOUTH AND CIRCLED IT TWICE THEN PROCEEDED BACK SOUTH

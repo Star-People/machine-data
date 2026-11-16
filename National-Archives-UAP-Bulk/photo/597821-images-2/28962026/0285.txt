@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:23:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6926059, "source_ctime_ns": 1793376823321961887, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962026/0285.jpg", "source_mtime_ns": 1785696844000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962026/0285.jpg", "source_sha256": "284f2abd673764244a609accd7f5404ed2dff4dca7d36202ba8cd08455d70c3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 71, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+vee Us eee
+
+4 oie
+
+“C4
+
+e
+*
+,
+.
+;
+
+ry
+
+; “
+s ue
+- t
+.
+.
+ole. ,
+,*
+tng

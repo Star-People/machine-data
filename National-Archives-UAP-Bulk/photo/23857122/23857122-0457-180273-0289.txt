@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T15:45:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17504768, "source_ctime_ns": 1793356668208558797, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0289.tif", "source_mtime_ns": 1785564739000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0289.tif", "source_sha256": "c5723733c9cd93264c2dc3853938d0c65e1bf53fea7930cb19bc95366a5a719c"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 408, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+Incident #l6l -- Moxeesport,
+*ennsylvania -- c. 8 July 1948
+Information offered by these two untrained, uncritical,
+and excitable observers can de given little weight. There does not
+appear to be anything astronomical about this incident; chances
+are that the two women saw ordinary aircraft with sunlight reflected
+from fuselage out not from wings.
+RES
+CTED
+Declassification Authority: NND 57565

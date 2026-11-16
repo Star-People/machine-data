@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:08:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3910488, "source_ctime_ns": 1793371095822843741, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936614/0911.jpg", "source_mtime_ns": 1785688540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936614/0911.jpg", "source_sha256": "74dc9bfa50e54f74083b259d146d9e16634e5e0f8498ca99c657be8b215845fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 651, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE • TIME GROUP
+Sep 49 1/2230Z
+SOURCE
+divilian
+NUMBER OF OBJECTS
+he
+i. LENGTH OF OBSERVATION
+22-3 Minutes
+3. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+Southwest
+B. PHOTOS
+• Yos
+* No
+9. PHYSICAL EVIDENCE
+• Yes
+XA No
+FORM
+FTD SEP 63 0-329 (TDE) Provi
+ATION
+Edge, Tennesse
+10. CONCLUSION
+RAZOON
+AIRCRAFT
+Evaluated on flight description and charecteristics.
+11. BRIEF SUMMARY AND ANALYSIS
+Observer sighted an object which appeared to be disc shaped and
+was no evidence of exhaust or vapor trails and no sound was
+heard.
+The object faded from view about 3 minutes after it
+was first sighted. Flight was level and constant.
+• used.

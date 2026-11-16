@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:06:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1765678, "source_ctime_ns": 1793391831268456223, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562005/01056.jp2", "source_mtime_ns": 1785808525000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562005/01056.jp2", "source_sha256": "36abc6b95b24ef65285e0df6176aa3c5de4978c3f94c28f91291dd947603b48b"}
+
+===== PAGE 1 =====
+{"alpha_words": 253, "chars": 1603, "method": "ocr", "page": 1, "variant": "plain-vision"}
+The unidentified flying object reported to Holloman AFB, New Mexico,
+on
+, most likely was caused by an accidental
+radar chaff drop from an aircraft. The base had aircraft roturning from
+a training chaff drop mission in the vicinity of the sighting at the same
+time.
+Officers assigned to investigate the report said their conclusions
+were based on reported movement patterns of the unidentified flying
+object and supporting data from surveillance radars.
+The chaff consists of long, narrow metallic strips dropped from
+aircraft to confuse ground radars attempting to pinpoint an aircraft as
+a target. The chaff has a falling and wind movement pattern and moves
+similar to the direction and velocity reported for the unidentified flying
+object. In addition, the chaff was observed on surveillance radars at
+White Sands Missile Range in the same area at the same time as the
+unidentified flying object sighting.
+Several of these targets were confirmed by two radars. An auto
+track was obtained by one of the radars. Shortly after the target video
+faded and the radar remained looked on noise, the operator thought he still
+could see weak returns. The Azimuth Servo System on the radar had a.
+slight
+unbalance which caused the antenna with noise as its input to
+begin a clockwise drift. The range Servo remained balanced. The
+resultant clockwise Azimuth movement with no range change, resulted in
+a circular plot.
+Initially, this was interpreted to be a valid track of an object
+traveling in a circle over Holloman AFB with an approximate radius of
+37 miles. This interpretation was later proven incorrect.

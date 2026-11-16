@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:09:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4111300, "source_ctime_ns": 1793354348767563869, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989197-001-0008.jpg", "source_mtime_ns": 1785564270000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989197-001-0008.jpg", "source_sha256": "7333ff7d1f46a224a2838bc3d0d00fa08a80bfb3ba1db33a2d0a98a5d0e83a47"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 779, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS 58TH TACTICAL TRAINING WING (TAC)
+MACDILL AIR FORCE BASE, FL 33808
+Jack D. Pickett
+Rt. 4, Box 1500
+Angleton, TX 77515
+April 1, 1982
+Dear Mr. Pickett,
+Thank you very much for your recent letter requesting information
+about an "experimental aircraft" you allege was once based here.
+Careful research by
+several people have been unable to turn up
+any information on the aircraft you say were here.
+It has been recommended you write the Air Force Alfred E. Simpson
+Historical Research Center, Maxwell AFB, Ala.
+• 33612.
+Be advised,
+however, that the amount of time needed
+to research this subject
+may belengthy.
+Best of luck on your research.
+Sincer
+MARK
+GOLDSTEIN,
+Staff Sergeant, USAF
+NCOIC, Community Relations
+Readiness is our Profession

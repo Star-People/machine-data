@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T16:30:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8722002, "source_ctime_ns": 1793383437984866739, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987011/0700.jpg", "source_mtime_ns": 1785748420000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987011/0700.jpg", "source_sha256": "54fa876f7bd927555228eedce32aa72d46d622c8957038eb59645ca8b30fd921"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 437, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SAM TOUR & CO., Inc. R. #12429
+NEW YORK 6, N. Y.
+P. # 4864
+Page 2
+Elements checked but not found: Aluminum,
+Zinc, Cadmium, Indium, Vanadium, Tungsten.
+Conclusions:
+It appears that the sample represented a
+piece of soft iron, such as Armco iron, which had been
+coated with a lead pigmented paint and
+then heated in
+air or an oxidizing environment to a scaling heat.
+Respectfully submitted,
+SAM TOUR & CO., INC.
+ST/nb j
+Sam Tour
+President
