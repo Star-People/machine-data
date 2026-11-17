@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:01:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4719941, "source_ctime_ns": 1793380450989326133, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976020/00827.jpg", "source_mtime_ns": 1785700808000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976020/00827.jpg", "source_sha256": "e10be62d8bc1b1d8a355502d999d8ad8b12b97f6c8e06576dae0fcb5aa9fe311"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1088, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+11 December 1957
+3. DATE-TIME GROUP
+Local
+GM T_
+12/00487
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERY ATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Lake City AFS, Tennessee
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+MKGround-Radar
+• Air-Intercept Radar
+6. SOURCE
+Military
+8. NUMBER OF OBJECTS
+41 minutes
+one
+10.
+BRIEF SUMMARY OF SIGHTING
+Object about the size of 3 B-47 a/c
+in close formation, Object descend-
+ing from an altitude of 13,000 ft
+to
+11,000 it at point or fade. Speec
+estimated 90 knots. Winds from NW to
+NNW 30-50 knots.
+12. CONCLUSIONS
+* Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+a
+Probably Aircraft
+Possibly Aircraft
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unk no wm
+9. COURSE
+se
+11. COMMENTS
+Inconsistant information, radar
+range of rptd target is not given
+Object speed indicated at 90 kts
+yet object in sight for 4l min-
+utes. Object at this speed would
+move out of range. Winds at 30 kts
+likely balloon as target paint.
+Obj moving in direction of wind.
+ATIC FORM 329 (REV 26 SEP 52)

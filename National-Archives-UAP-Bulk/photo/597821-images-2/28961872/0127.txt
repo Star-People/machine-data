@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:15:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9004234, "source_ctime_ns": 1793376740071809863, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961872/0127.jpg", "source_mtime_ns": 1785696852000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961872/0127.jpg", "source_sha256": "fc26252adc766e734d998e5c20babf2bae79693abcf07128ec296d3fb022dfbd"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 635, "method": "ocr", "page": 1, "variant": "plain-vision"}
+A• CIVILIAN
+• ROME GA
+LOCKEED EMPLOYEE
+D. MILITARY
+T WEATHER AND WILDS ALOFT AT TIME AND PLACE OF SIGHTING
+A. CLEAR 15
+B. SURFACE
+S200 FEET
+10022 FEET
+16900 FEET
+22060 7121
+50000 1335
+52070 FEET
+80022 TECT
+32
+362
+369
+352
+35A
+350
+DEGREES
+DEGREES
+DEGREES
+DEGREES
+DEGREES
+34>
+DEGREES
+DEGREES
+9 3233
+KHOTS
+15
+KROTS
+32 KNOTS
+25
+KOTS
+KNOTS
+70
+KNOTS
+50
+KHOTS
+KHOTS
+C. CELING NONE
+D. VISIDILITY 15 MILES
+E• CLOUD COVER NORE
+F. THUNDERSTORMS NONE
+PAGE FOUR JESYC 291B
+/• TONE
+21. OPERATIONS OFFICER ARVELL FLIGHT SERVICE CENTER MAXIELL AFE ALARANA
+CPAT
+SYDERS FLY SEVIC CL V OFF OFJECT VERY POSSABLY HAS LAD
+VERT NT ROCVET FIR
+1/2202 MAY JESYO

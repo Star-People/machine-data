@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:03:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5078404, "source_ctime_ns": 1793374948578819525, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954015/0133.jpg", "source_mtime_ns": 1785696907000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954015/0133.jpg", "source_sha256": "9ba5375a40bffb3220b017f53d1c9f53f93834df35e0899a7bbc45faf8cbfb0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1332, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ommanding
+icer
+Aeronautical Chart Service, USAF
+Whington 25, D. C.
+ПОРЧЕ НЕВЕ
+STAPLE HERS
+CORRECTION INSTRUCTIONS
+1. Military users of this chart are urged to mark hereon any errors or omissions. Corrections of radio and airway
+information, drainage, cultural features (roads, canals, power lines, etc.) should be marked on the face of the chart or
+on an overlay of the area. In reporting elevation corrections, state method used by observer in making the determination.
+2. Every effort is being made to furnish the user with accurate charts. The user will materially assist in this
+eftort by:
+a.
+Marking correction on face of chart or under "Remarks", below.
+b. Folding chart along regular fold lines, but with back out.
+c. Making an extra fold along dotted line and stapling at points so marked.
+3. Corrected chart may then he dropped in any U.S. mail box.
+REMARKS:
+INTERCHART RELATIONSHIP
+358 A I
+1:250,00ął
+358 A II
+1:250.00ął
+358 A
+1: 500,000
+358 B
+1:500,000
+358 A IV
+1:250,000
+358 A 1II
+1:250,000
+358
+1:1,000,000
+358 D
+1:500,000
+358 C
+1:500,000
+Each chart is a component section of 1:1,000,000 World Aeronautical
+Chart Series, and is indexed within the series as indicated on diagram.
+AIRPORTS
+ervices, co
+ramp win
+Rotating
+Rotating
+Retatin:
+Flashing
+F- - Pis
+Mooring
+Dirigible
+Prominent
+Ocean St
+Lighted O
+Obstruet
+Line of :

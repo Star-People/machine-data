@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:10:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7463751, "source_ctime_ns": 1793354633231804660, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0024.jpg", "source_mtime_ns": 1785564316000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0024.jpg", "source_sha256": "32788852ef84d00b730259e6eefa426d8aee96ab31f6cc81b2be5d72b5b3a77c"}
+
+===== PAGE 1 =====
+{"alpha_words": 413, "chars": 2601, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Asst TC: Prosecution Exhibit l is a stipulation in the case of the United
+States versus Lieutenant Colonel George F. Adams:
+(The Asst TC read Prosecution Exhibit 1 to the court.)
+Asst TC: Prosecution Exhibit 2 is a stipulation by and between the trial
+and defense counsel with the consent of the accused:
+(The Asst TC read Prosecution Exhibit 2 to the court.)
+asst TO: Prosecution Exhibit 3, a stipulation in the case of the United
+States versus Lieutenant Colonel George F. Adams,
+and reads in pertinent
+parts:
+(The Asst TO read Prosecution Exhibit 3 to the court.)
+Asst TO: Prosecution Exhibit 4 is a stipulation as to the expected testimony
+of a witness for the prosecution, Mrs. Glena Richards, 5301 Alameda, Box 26,
+El Paso, Texas, and if this witness were present in court today, she would
+testify under oath substantially as follows:
+(The Asst TC read Prosecution Exhibit 4 to the court.)
+Asst IC: Prosecution Exhibit 7 is a stipulation by and between trial and
+defense counsel and with the consent of the accused and reads in pertinent
+parts as follows:
+(The Asst TC read Prosecution Exhibit 7 to the court.)
+Asst TC: Prosecution Exhibit 5 is a registration card in the name of Doctor
+and Mrs. George F. Adams...
+TC: I don't think it's necessary to read those exhibits.
+LO: Just show them to the court.
+Asst TC:
+Prosecution Exhibit 8 is a stipulation by and between the trial and
+defense counsel and with the consent of the accused, reads as follows:
+(The Asst TC read Prosecution Exhibit 8 to the court.)
+The assistant trial counsel presented all the stipulations which he had
+just read as well as Prosecution Exhibits 5 and 6 to the president of the court.
+Asst TC: At this time the prosecution calls as a witness, First Lieutenant
+Charleen Goodnough.
+DC :
+The defense objects to the calling of Lieutenant Goodnough at this time
+on the basis of paragraph 148c of the Manual for Courts-Martial, 1951.
+The
+defense contends that the witness is an incompetent witness because she does
+not have the mental capacity to observe, recollect, and describe correctly
+the facts under investigation. For that purpose the defense at this time
+would like to call Major Charles R. Rosewall.
+IO:
+Gentlemen, the defense counsel has raised an objection as to the calling
+of First Lieutenant Charleen Goodnough as a witness.
+Due to the fact that he
+intends to present evidence that she is incompetent to act as a witness before
+this court, the competency of a witness before a court is a matter of law and
+the ruling upon her competency will be determined by the law officer. You may
+proceed with your witness.

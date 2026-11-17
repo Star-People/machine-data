@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:15:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8875866, "source_ctime_ns": 1793383276275478404, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986634/0368.jpg", "source_mtime_ns": 1785748542000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986634/0368.jpg", "source_sha256": "8c318957998d435def390c62d529cadd9f4981427d8e955b208b0586c8929517"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 723, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJWFAM 6
+(9) OBJECT MOVING SLOW COMPARED TO METEORS, ETC.
+Ë(1) OBSERVED FROM COCKPIT, APPROXIMATE COURSE B70 DEGREES
+MÄGETIC HEADING. AIRCRAFT HEADING WAS APPROXIMATELY 130 DEGREES
+PLUS OR MINUS 5 DEGREES.
+(2) DIRECTLY AHEAD 11,500 MSL, APPROXIMATE COURSE 070 DEGREES
+MAGNETIC HEADING.
+(3) OBJECT TRAVELED THRU ABOUT 30-45 DEGREES OF ARC BEFORE
+BURNING OUT.
+(4) STRAIGHT FLIGHT PATH AT 070 DEGREES MAGNETIC HEADING
+(5) ALMOST ABRUPTLY.
+(6) 5-12 SECONDS
+C(1) AIR-VISUAL.
+(2) NONE
+(3) C-46, 69346, 11,500 MSL, GROUND SPEED 185 KNOTS, CAPITOL
+AIRWAYS, VALLEJO CALIF
+D(1) 0202ZULU 17 MAY 60.
+(2) DUSK
+É. 20-40 MILES SE OF FARMINGTON NMEX. ENROUTE TO KIRTLAND AFB,
+ALBUQUERQUE NMEX
+F(1) CIVILIA
+35, ROUTE
+BOX
+VACAVILLE

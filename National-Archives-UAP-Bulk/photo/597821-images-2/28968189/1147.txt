@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:06:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5996036, "source_ctime_ns": 1793378498634826487, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968189/1147.jpg", "source_mtime_ns": 1785696813000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968189/1147.jpg", "source_sha256": "2629b3022434ec37ead30ee6546c19e2802519b90d5dae8a73e57e0c5dbd77c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+5 November 1956
+3. DATE-TIME GROUP
+Local
+CMT.
+05/2350Z
+S. PHOTOS
+Bucyrus, Ohio
+4. TYPE OF OBSERVATION
+*KGround Visual
+• Air Visual
+6. SOURCE
+• Ground-Roder
+• Air-Intercept Roder
+O Yos
+I No
+7. LENGTH OF.OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+fifteen minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+One round white object, size of a dime
+at arm's length. A light on the object
+was noted. Object was moving back and
+forth at a low altitude heading north-
+west.
+12. CONCLUSIONS
+Was Balloon
+EXProbably Balloon
+Possibly Balloon
+Was Aircrait
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficiont Dato for Evaluotion
+Unknown
+9. COURSE
+Northwest
+COMMENTS
+Duration, description, light on
+object indicate the sighting was
+probably caused by a balloon.
+No Report in File.
+ATIC FORM 329 (REV 26 SEP 52)

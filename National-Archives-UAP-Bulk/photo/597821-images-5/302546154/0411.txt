@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:38:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1022288, "source_ctime_ns": 1793390069096295711, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546154/0411.jp2", "source_mtime_ns": 1785808128000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546154/0411.jp2", "source_sha256": "672be7f3b28f9c52b4dac25660d172a4f279e7bd01180f1dd3277c5a6027b5b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 866, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+PICOMING MESSAGE
+AF IN: 36360 (20 Nov 65) F/ap
+Pg 1 of 6
+ACTION: NIN=7
+INFO: XOP-1, XOPX-2, SAFOS-3, DIA-1 (15)
+•? C13ØWZCZCHQE297ZCAMA113
+PP RULAHQ
+DE RUEAAML 1 3242000
+ZNRUUUUU
+P R 201600Z
+FM 649TH RADAR SQ BEFORD AFS VA
+TO RUVGALE/ADC ENT AFB COLO
+RUEAKN/25 AIR DIVISION STEWART AFB NY
+RUCDSQ/AFSC(FTD) WRIGHT PATTERSON AFB OHIO
+RUEAHQ/HEADQUARTERS USAF (AFNIN) WASH D C
+RUEAHQ/SECRETART OF THE AIR FORCE (SAFOI) WASH D C
+INFO RUEAAM/WAADS FT LEE AFS VA
+RUEAAM/CAPTCARTER WAODC-I FILEE AFS VA
+Вт
+UNCLAS 64900P 18 NOV 65 SECTION ONEOF IWO SECTIONS.
+FOR ADC(ADOIN) : 25AIRDIV (2501N): AFSC (SCF): HQ USAF (AFNIN):
+OSAF (SAFIO): WAADS (WAODC-I) SUBJ: UFO SIGHTING. IN ACCORDANCE
+WITH AFR200-2 THEFOLLOWINGINFORMATION IS SUBMITTED;
+A. DESCRIPTION OF OBJECT:
+(1) ROUND
+AFHQ
+FORM
+JAN GS
+0-309C
+UNGLASSIFIED

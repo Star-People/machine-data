@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:04:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5348530, "source_ctime_ns": 1793354317726783789, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0081.jpg", "source_mtime_ns": 1785564264000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0081.jpg", "source_sha256": "c53222ceafa59e702598e799ad3e2474fbbe5cfb3c7bde9f2601bf0b724977b8"}
+
+===== PAGE 1 =====
+{"alpha_words": 247, "chars": 2146, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5
+"What Does Nuclear Technology Have to do with Pool Cues, Cow Fat and Art
+Fakes?", ASCENT 4:4, 1984, p. 14; Part 2, 4:5, 1984.
+"Irradiated Food", SCIENCE, 225:4662, p. 566, Aug. 10, 1984.
+"State-of-the-Art Survey - Commercial Utilization of Power Plant Waste
+Heat" CEA Report 318 U SOA, 140 p., published February, 1985.
+"Maritime Nuclear", ATLANTIC ADVOCATE, January 1984.
+"Nuclear Power Flies High", ASCENT, 4:2 Summer 1983, p. 18-22.
+Co-author, "Overview of Irradiation Food Processing and the Potential of a
+Commercial Food Irradiator in New Brunswick", 166 p., 6/63 for ITC/DRIE.
+"Nuclear Methods", "Applied Research", "Atlantic Region Nuclear
+Facilities", ATLANTIC ADVOCATE, 73:1, Sept. 1982, P. 20A, 25A, 29A.
+Co-author, "Experimental Shielding", chapter in textbook, Reactor Shielding
+for Nuclear Engineers, TID 25951, N.M. Schaeffer, Editor; 1973, 788 pp.
+"Indirect Measurement of Nuclear Heating in Poison Control Vanes", with W.
+Rankin, Trans, of Amer, Nuch, Soc., Vol. 12:1, June 1968, p. 25.
+"Experimental Evaluation of Boron Carbide Modified Beryllium Oxide Shield
+Matrices", Transactions of ANS Vol, 10:1, June 1967, p. 393.
+"Use of the Transport Code, DTK, for Shielding Design and Analysis", with
+J. Rathbun and R. Kaufman, Trans, of ANS, Vol. 7:2, Dec. 1964, p. 354.
+"Preliminary Shield Design for Nuclear Electric Space Power Plants", with
+Dr. Cochran, invited paper, AIEE Meeting, Denver, 6/62 (62-1236), 40 p.
+"Realistic Evaluation of Shadow Shields for Space Nuclear Systems",
+International Symposium on Aerospace Nuclear Propulsion, Las Vegas, NV;
+published in IRE TRANS. ON NUCLEAR SCI., Vol. NS9:1, Jan. 1962, P. 378-84.
+"Measurements of Secondary Gamma-rays from Tungsten, Stainless Steel and
+Borated Steel", Trans, of ANS, Vol 4:2, Nov. 1961, p. 266.
+"Radiation Shielding Tests Performed in GE Outside Test Tank in the Period
+March - June, 1958", APEX 581. (GEANP Report) Declass. 1964; 109 p.
+"An Analysis of Late 1957 and Early 1958 Lid-Tank Experiments Pertaining to
+XMA-1 Shield Design", APEX 524, Oct/59. (GEANP Report) Declas. 1964; 55 p.
+Many classified reports, 1956 - 1968; many popular articles 1967 - 1990.

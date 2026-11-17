@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:46:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1131648, "source_ctime_ns": 1793355849907529406, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0078.jpg", "source_mtime_ns": 1785564541000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0078.jpg", "source_sha256": "af50e50213fda39e14765a667092e35f13c2a24723f04f310fbc059aea4f6d0e"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1436, "method": "ocr", "page": 1, "variant": "plain-vision"}
+62
+programming is required oi the rocket, and the
+vehicle can therefore be relatively simple and
+inexpensive.
+The usefulness of the giant plastic
+research balloons has always been augmented by
+their low cost....
+c. Solid data reliability: The usual re-entry
+vehicle descends over an area which is difficult to
+predict accurately, and at tremendous ranges from
+tracking stations.
+The 'Balrok' technique provides
+a descent directly over a highly concentrated range
+network. The telemetering transmitter can be low-
+powered, due to the proximity of the ground stations.
+Optics and radar are present to back up telemetry....
+d. Fine control of parameters: Achieved by
+adjustment of drop [and firing] altitude.
+The "Cree" Missile Cluster
+Still another research vehicle that has been launched from
+Holloman balloons is one specially developed by Cook Research
+Laboratories for parachute testing. It is used in the work of
+Project 6065, Parachute Performance at High Mach Numbers, which
+is directed by Wright Air Development Center with Cook in the
+role of contractor. Parachutes capable of operation "at high mach
+numbersại will prove useful for various purposes, but the most
+interesting application, without much doubt, is for manned
+re-entry. Some re-entry proposals envisage the use of metal
+parachutes; Cook, however, believes that cloth parachutes, in
+48
+series, will do the trick.
+Project plans call for the deployment of experimental

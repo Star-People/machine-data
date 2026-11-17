@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:43:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 903305, "source_ctime_ns": 1793388797001673146, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532650/0921.jp2", "source_mtime_ns": 1785808233000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532650/0921.jp2", "source_sha256": "e08c718457a3b13b94b2e3571305c5ad6bd4b064e68368a21b68773e06524f09"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 898, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE
+1 May 64
+3.
+DATE-TIME GROUP
+Local
+02/04152
+GM T
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Las Vegas, Nevada
+TYPE OF OBSERVATION
+& Ground- Visual
+• Air- Visual
+6. SOURCE
+•I Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+D.
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unk no wm
+• No
+7. LENGTH OF OBSERVATION
+civilian
+8. NUMBER OF OBJECTS
+1 hr 35 min
+10. BRIEF SUMMARY OF SIGHTING
+one
+Obj shaped like moon changing to star-shape
+as time progressed. Bright glow around obj.
+Moved from 90 deg elev to 30 deg elev in
+flight from North to NW. Left and right
+tracking movements.
+9. COURSE
+NE
+11. COMMENTS
+WX balloon release from WX station
+at McCarren fila, Las Vegas. Photo
+taken but no obj appęta on film
+ATIC FORM 329 (REV 26 SEP 52)

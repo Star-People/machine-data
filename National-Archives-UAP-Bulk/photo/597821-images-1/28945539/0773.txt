@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:02:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4915829, "source_ctime_ns": 1793373114595333410, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945539/0773.jpg", "source_mtime_ns": 1785688568000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945539/0773.jpg", "source_sha256": "9d68285516fe3d670cd1fbec92931a10369729db9990b1732adfc46c49365c44"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 358, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(2) EXACT TİME OF SIGHTING UNKNOWN. RPORT RECEIVED 24 JUL 52 $2313PDT.
+(3) VISUAL FROM GROUND
+(4) REPORT FROM DANVILLE CMA CALIF 5 A Y MILES EAST OBSERVERS POST PH
+0149 •
+PAGE TWO JWPML 62F
+(5) MRS.
+WAS FIRST OBSERVER. G. O. PHE4I
+UNKNOWN. RELIABILITY UNKNOWN.
+(6)X CLEAR CMA WITH SOME HAZE CMA CEILING 15354 FT
+(7) NONE
+25/1448Z JUL JWPML
+CMA OTHER PERSONS

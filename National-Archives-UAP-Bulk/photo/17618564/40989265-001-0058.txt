@@ -1,0 +1,215 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:19:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11101270, "source_ctime_ns": 1793355350416358355, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0058.jpg", "source_mtime_ns": 1785564439000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0058.jpg", "source_sha256": "a24fdc25093ca00b9fab606a1d458a18a99e04c3683324546ba6526d29522244"}
+
+===== PAGE 1 =====
+{"alpha_words": 1318, "chars": 8917, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Atmosphere-the air which surrounds the earth.
+Aeronautics-the science of traveling in the air.
+Aerostatics-the branch of science dealing with
+mechanical properties of gases in equilibrium, and
+the equilibrium of bodies held up by them, like
+balloons and other lighter-than-air (LTA) vehicles.
+Aerostation-is the science connected with LTA
+vehicles not provided with motive power. It is, by use
+of the balloon, a logical application of the Archi-
+medes' principle.
+Aerostat-an aircraft, filled with a gas lighter than
+air, or hot air, which is supported in flight mainly from
+the buoyancy derived from the surrounding air.
+Balloons and airships are aerostats, as well as bal-
+loonists, who are also called aeronauts.
+Archimedes' Principle- "When a body is com-
+pletely immersed in a fluid at rest, or in two stationary
+fluids: one of which lies above the other; the body is
+buoyed up by a vertical force equal to, in magnitude,
+the weight of the fluid displaced."
+Balloon-a non-powered driven, lighter-than-air
+craft with a gas bag of impermeable material inflated
+with a gas lighter than air, or with heated air, and sup-
+ported by the buoyancy of the atmosphere. The
+aerostat descends, ascends or floats in air without
+means of controlling its horizontal direction. The
+balloon rises if it is surrounded by heavier air and
+descends when the outside air becomes lighter than
+the gas within the balloon. The bag, or envelope, of
+the balloon system must have the capacity to hold
+enough light weight gas to sustain the load of the gon-
+dola, the passengers and equipment in flight at an
+perational altitude. The development of moder
+alloons for any atmospheric altitude and for aerc
+space applications has led to many modifications in
+balloon design.
+Balloons are normally categorized to identify a
+particular balloon system, including trade names and
+models. Balloons are also identified by their shape,
+Aerospace-includes the atmosphere and the re-
+gions of space beyond it.
+Apogee- is the point farthest from earth in the orbit
+of an earth satellite.
+Artificial Satellite-is a spacecraft or structure
+that circles the earth or other celestial body. The
+terms is usually shortened to satellite, applying also
+to natural moons.
+Orbit-is the path of a satellite.
+Perigee-the point closest to earth in the orbit of an
+earth satellite.
+Period-is the time it takes for a satellite to make
+one revolution.
+APPENDIX A
+Terms and Tables
+Aeronautical Terms
+displacement, type of lift used and the operational
+use of the balloon.
+Most balloons can be scaled up or down in size,
+built of material of greater or lesser strength or
+weight and in numerous ways optimized for a
+specified application. Basic criteria for balloon
+design include altitude requirements, total payload
+to be supported and flight loads to be endured.
+The original definition of a balloon has now been
+rought up-to-date to mean... any object inflated
+nainly by gas and no longer restricted to devices hy
+drostatically lifted within the atmosphere. These can
+now include devices inflated outside the atmosphere,
+like erectable space stations, structures and solar-
+energy concentrators
+This new interpretation for the present-day
+meaning of balloons has taken into account the his-
+toric past and linked them up with the new era of
+space structures and aerospace balloons.
+Some of the original balloon classifications in-
+clude: free balloon-floats in the atmosphere with
+its equipment, or payload, and is not steered or pro-
+pelled; captive balloon-or tethered balloon, nor-
+mally held to the ground by a cable; dirigible
+balloon- a powered airship capable of being guided
+or steered, and capable of carrying passengers and
+other kinds of payloads; and unmanned balloon-
+without airborne participation of human beings.
+Dirigible-a term used as an adjective to first des-
+ignate a lighter-than-air vehicle inflated with gas
+lighter than air, and having controlled flight in all
+three dimensions of space. The term is now solely
+associated with airships.
+Helium-a gas used in lighter-than-air craft. It will
+lift 92.64% as much load as hydrogen and will not
+burn as hydrogen does. Helium, the second lightest
+gas, diffuses from a balloon much slower than hy-
+drogen. If contaminated with air, helium can be
+purified reasonably and safely, whereas the purifica-
+tion of hydrogen is costly and hazardous.
+Aerospace Terms
+Rendezvous-is a space maneuver in which two or
+more spacecraft meet.
+Spacecraft-is a man-made object that travels
+through space.
+Space-begins where the earth's atmosphere is too
+thin to control objects moving through it. Near the
+earth's surface, air is plentiful, but higher above the
+earth, the air becomes thinner and thinner. Little by
+little, the atmosphere fades to almost nothing, and
+space begins. Space usually begins about 100 miles
+above the earth. At this height, a satellite may con-
+tinue circling the earth for months, or longer, but
+even there, enough air is still present to slow a
+110
+satellite and finally cause it to fall. Beyond 100 miles
+above the earth is not like the air near the earth. It
+consists of widely scattered atoms and molecules of
+gas and radiation.
+Space Launch-spacecraft or structures are lifted
+into space atop a launch vehicle. The launch equip-
+ment needed to launch a space vehicle depends on
+the vehicle's size. A small sounding rocket or an
+inflatable space structure can be launched by a sim-
+ple launch component. Manned spacecraft is more
+complex and requires special equipment to be car-
+ried to protect the astronauts and bring them safely
+• mete
+kilometer (1,00
+0.3048 meter
+1 cubic foot
+1 square foot
+1 pound (avoirdupois)
+1 knot ...
+1 nautical mile
+1 cubic foot
+1 mile.
+back to earth. This equipment includes a life-support
+system, communications and navigation equipment,
+control system and re-entry and landing equip-
+ment.
+Inflatable and Erectable Space Satellite-an
+efficient and economical device that can be packed
+uninflated in a small canister, shot by rocket into
+space and then inflated to become a massive space
+structure, in some cases about 100,000 times its
+uniflated size or volume. It can be prefabricated into
+an unlimited variety of shapes and sizes to perform
+numerous space functions.
+Conversion Tables
+3,281 feet (39.37 inches)
+0.621 miles
+1 foot
+28.316 liters
+(28.317 cubic decimeters)
+0.0929 square meter
+0.45359 kilograms
+autical mile an hour
+.. 6,080 feet
+1728 cubic inches
+5280 feet (1609.35 meters)
+APPENDIX B
+Regulations and Safety
+Guide to the U.S. government's requirements
+for balloon pilots, balloon builders, improving
+safety and preventing accidents.
+Federal Aviation Administration (FAA)
+In the interest of public and aviation safety, and in the
+implementation of Congressional legislation, the
+FAA issued regulations on July 1, 1964, governing
+the certification of manned-free balloons using gas or
+hot-air inflation systems. For candidate balloon
+pilots, the certification requirements were set up as
+early as November 1, 1962.
+Most recent FAA regulations took effect Novem-
+ber 1, 1973. Part 61, Federal Aviation Regulations
+(FAR), prescribes the requirements for issuing pri-
+vate or commercial pilot certificate, with a free-
+balloon, class rating in the lighter-than-air category.
+Part 61 contains information relating to pilot oper-
+ations, procedures and maneuvers relevant to the
+flight testing needed to be accomplished before is-
+suance of the certificate by the FAA.
+Student Pilot Certificate
+*must be at least 16 years of age, or at least 14 years
+of age for a student pilot certificate limited to free-
+balloon operations.
+*must read, speak and understand the English lan-
+guage.
+*in lieu of a current third-class medical certificate for
+free-balloon operations, applicant must personally
+certify that he has no known medical defects that
+would make him unable to pilot a free balloon.
+Application
+*for a student pilot certificate, a FAA form is submit-
+ted to a FAA operations inspector or designated pilot
+examiner, together with the aforementioned medi-
+cal statement.
+Prerequisites for Solo Flight
+*must be familiar with the FAA flight rules and have
+received ground and flight instructions from an
+authorized instructor or a holder of a commercial
+pilot certificate with a lighter-than-air category
+*instructions covering flight preparation procedures,
+including preflight operations; operation of hot-air or
+gas source, ballast, valves and rip panels; lift-off and
+climbs; and descents, landings and emergency use of
+rip panel (may be simulated).
+Solo Cross-Country in Free Balloon
+*student pilot must receive instruction in the follow-
+ing pilot operation in a free-balloon, solo, cross-
+country flight: the use of aeronautical charts and the
+magnetic compass for pilotage; recognize critical
+weather situations, and the procurement and use of
+aeronautical weather reports and forecasts; and in
+cross-country emergency procedures.

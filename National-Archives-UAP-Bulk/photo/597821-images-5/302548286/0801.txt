@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:42:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 840711, "source_ctime_ns": 1793390248903356329, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548286/0801.jp2", "source_mtime_ns": 1785808051000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548286/0801.jp2", "source_sha256": "57424f91340b23ec7c0f234a3f8c0580dc5f39d3f05e1f13a2f9903ca5d44182"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 846, "method": "ocr", "page": 1, "variant": "plain-vision"}
+KENT
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN : 5605 (1 May 66) H/rb
+ACTION: NIN-7
+INFO
+SAFOS-3, XOP-1, XOPX-2, DIA-1 (15) ADV CY DIA
+SMB C222RFTU JAW RUEDQXC0273 1031108-UUUU--RUEDHQA.
+DE RUWHBH8504 1030005
+ZNR VUUUU
+OS
+OS≥
+OSE
+R 122300Z
+FM 325TH FTRWG MCCHORD AFB WASH
+TO RUMFVA/ AD C
+ZEN/250 IN
+RUED HQA/ US AF
+RUEDHQA/SECRETARY OF AF WASH D C
+RUCS&/FTD WRIGHT PATTERSON AFB OHIO
+INFO RUWHSB/4TH AF
+BT
+UNCLAS 318FIS 80616 APR 66.
+FOR: USAF (AFNIN), OSAF (SAFOI). SUBJ: UNIDENTIFIED FLYING
+OBJECT. THE FOLLOWING INFORMATION IS SUBMITTED ON AN UFO
+SIGHTED 27 MAR 66.
+1. DESCRIPTION OF THE OBJECT:
+A. SHAPE: RESEMBLED A BI-PLANE.
+B. SIZE: VERY SMALL (HIGH ALTITUDE).
+C. COLOR IS NOT DISCERNIBLE, NON GLOWING.
+AFHQ
+FORM
+JAN 65
+0-309C
+UNCLASSIFIED
+26 MARGE
+27802005
+Pg 1 of 4
+RD
+MPP
+MPR
+AAA
+AAR
+TOI
+DSNG

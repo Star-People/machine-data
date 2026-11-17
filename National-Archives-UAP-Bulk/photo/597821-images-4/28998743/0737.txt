@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:12:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8175973, "source_ctime_ns": 1793387479931669148, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998743/0737.jpg", "source_mtime_ns": 1785748159000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998743/0737.jpg", "source_sha256": "6df18069f96e52ecb93db20d060aab0fe0e0326126a050095a6e4b03ebe5efad"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 791, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+22
+st 1962
+3. DATE-TIME GROUP
+Local .
+GMT.
+22/1535
+5. PHOTOS
+• Yes
+C No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+12S
+15%.0 W
+TYPE OF OBSERVATION
+C. Ground-Visual
+• Air Visual
+S. SOURCE
+• Ground-Radar
+D) Air-Intercept Radar
+Military
+3. NUMBER OF OBJECTS
+9. COURSE
+#inS
+one
+10. BRIEF SUMMARY OF SIGHTING
+brightness of Ist mag star obsyd
+during dawn at 050dgr azimuth, 43dgr
+elev & disappearing into douds at
+045dgr azimuth 25dgr elev after flight
+of 5 min. Straight flight. Obsvation
+thru sextant.
+11. COMMENTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+UX Other
+Insufficient Data for Evaluation
+Unknown
+ATIC FORM 329 (REY 26 SEP 52)

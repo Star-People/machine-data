@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:53:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2547456, "source_ctime_ns": 1793359368874715654, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-052-0002.tif", "source_mtime_ns": 1785681392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-052-0002.tif", "source_sha256": "b5417cc8653b08f168ec91d41d03054f5b52ad4eec78019b0676f5c7df3de248"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 849, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AIS OP
+Camar, 4602a AISS
+Long Distance Talaphone Call
+AISOP
+24 Aug 55
+1340 hours
+AISS-20
+1/10 DeBudder
+MEMORANDUM FOR RECORD:
+Talephone conversation between A/1C R.D. DeRudder, Headquarters, 4602d
+AISS, and Captain Chester Hanson, Flight 3-H, 4602d AISS.
+2. The undersigned callad Flight 3-d with respect to a follow-up UFOB
+investigation of a sighting at Arlington, Virginia, 24/0200Z Aug 55. It was
+requested that Flight 3-A make a completa investigation of the sighting as
+soon as possible.
+3. Captain Hanson requested that the contents of the initial UFOB report
+ba sent to him in a priority message as a copy of the initial UFOB report was
+not available at MoGuire AFB. (Sent 1430 hours, 24 Aug 55)
+4. Captain Hanson requested to talk to Captain Bronstein,
+Ronald D. Dedudder, A/1C, USAF
+AIC, UPOS Program

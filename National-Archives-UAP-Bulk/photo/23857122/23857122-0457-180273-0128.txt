@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:22:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17132000, "source_ctime_ns": 1793356517507924704, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0128.tif", "source_mtime_ns": 1785564716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0128.tif", "source_sha256": "8b1a0a2727fb7b681135da9ad6f6bd10f477135521532fe2271e230ed14ee404"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 430, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TRICTED
+Incident 7231 - Abilene, jexas -- 1 January 1948
+This incident has no astronomical explanation.
+The fan-shaped glow that extended momentarily from the
+horizon to the zenith suggests a man-made disturbance -- electrical
+or explosive. The green color is the only characteristic that
+might conneat this incident with the "New Mexico green flashes";
+the rest of the description does not.
+Declassification Authority: NND 57565

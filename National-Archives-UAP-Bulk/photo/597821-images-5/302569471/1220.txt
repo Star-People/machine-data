@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:49:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1443750, "source_ctime_ns": 1793392651035013482, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569471/1220.jp2", "source_mtime_ns": 1785808295000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569471/1220.jp2", "source_sha256": "b78a6680cf3a89b6e0b88724520cb3dbf9afbd5a8b2e76a924a3d8836a7bfaaa"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 764, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR THE RECORD
+20 Sept. 1967
+Called Indianapolis Center (317-244-2495 ) about aircraft sighting
+of 14 Sept. 08,0Z; 0912Z; « 0917Z.
+At the present we have the report of the Saturn 777 but we
+have no info. on the Universal 689. The controller John E presdorf
+said that the Sapt of the 777 may know the Capt of the 689. He also.
+said that both reported the 0850% sighting at the same time and
+gave the same position for the object. Later both reported
+bright lights off of their right wings. Radar at the Center
+sporadically painted an object off the risht wong of the 689
+for about 20 mina. However Mr. Fresdorf said that it might have
+been what he called Angels, because it was a sporadic paint.
+Every oace in a while they would ses something for only a sweep

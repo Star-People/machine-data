@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:10:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7023796, "source_ctime_ns": 1793362993017705702, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0025.jpg", "source_mtime_ns": 1785685125000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0025.jpg", "source_sha256": "ac4de283b9203335336c5247a5e540a8a1c617e02c99386ea7c8d39979a87a7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 940, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+3rd DISTRICT OST (IG) USAF
+P.O. BOX 709
+HARRISBURG, PENNSILVANIA
+3D0 24-213
+SUBJECT:
+Unidentified Flying object Sighted
+by JAMES ALFRED BRICKETT at Philadelphia,
+Pa., at 0201072 July 1958
+8 JUL 1958
+TO :
+Commander
+Air Technical Intelligence Center
+Wright-Patterson Air Force Base
+Ohio
+1. Reference is made to Air Force Regulation 200-2, dated 5 February
+1958.
+In accordance with Paragraph 15, AFR 200-2, the following is
+furnished for your information and any action you may deem appropriate:
+a. Description of the Object:
+(L)
+Shape - Similar to a point of light
+(2) Size - Head of a pin held at arms length
+(3)
+Color - Yellowish
+(4) Number - One (1)
+(5) Formation - Not Applicable
+(6)
+Discernible features or details - Similar to a moving
+point of light
+(7)
+(8)
+Tail, trail, or exhaust - None
+Sound - None
+(9)
+Other pertinent or unusual features - None
+UNCLASSIFIED
+FOR OFFI
+AL USE ONLY
+Declassification Authority: NND 923007

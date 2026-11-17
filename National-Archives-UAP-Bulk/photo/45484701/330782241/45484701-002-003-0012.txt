@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:13:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8557721, "source_ctime_ns": 1793362096291555026, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0012.jpg", "source_mtime_ns": 1785684708000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0012.jpg", "source_sha256": "bbacf5e62fb7399ba830c5880818d73efa6c8ef9a8902d891d2a5b28bfea6bca"}
+
+===== PAGE 1 =====
+{"alpha_words": 215, "chars": 1497, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COPY
+(2) Confirm from the Forest Service the number of deaths as being
+two, S.W. Spears and Bob Reynolds. This was on a construction
+project near Oroville. (It is not clear whether this was a
+forest Service project, or a private project.) However, lightning
+set off an explosion, killing the two men.
+(3) Confirm five persons injured due to lightning bolts.
+(If the Forest Service has no reports on the men killed and five
+injured, please check the files of the San Francisco Examiner and San Francisco
+Chronicle for July 3l, also Aug. 1, for data, then follow leads through.)
+(4) Secure weather data from all weather stations in northern
+Calif. for a period Sat. 12 a.m. to Sun. 12 a.m., humidity,
+barometric pressures, prevailing wind, presence or absence of
+clouds in areas affected by lightning bolts, etc. Also, rainfall.
+(5) Secure copies of San Francisco papers quoting the unusual
+character of this lightning seige.
+(6) Secure any photographs of lightning bolts which might have
+been published in the northern Calif. press, or whatever
+source possible.
+(7) Continue to note such unusually heavy ionization, and all details.
+Note whether these occurances are in direct lines with occurances
+of visible "flying saucers," reported in the press.
+Send data to Wright-Patterson Tech. Intelligence, Att: A.d. Hemstreet.
+Thanking you kindly, I am,
+cc/ McChord Field Intelligence,
+Tacoma, Washington.
+Sincerely,
+/ s/ M.G.M.
+Mrs. Madeline Gwynne Merchant
+COPY
+Declassification Authority: NND 923007

@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:59:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4367363, "source_ctime_ns": 1793380663355605053, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977619/0783.jpg", "source_mtime_ns": 1785701015000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977619/0783.jpg", "source_sha256": "450a45e003be9e29717c8584171f31d24dcb8b1c6d74681d616cabdea1551e71"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 1000, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+Apr 58
+3. DATE-TIME GROUP
+4. TYPE OF OBSERVATION
+NA of Shelby, Iowa
+Local
+EN Ground-Visual
+• Ground-Radar
+GM T
+not given
+D Air-Visuol
+D Air-Intercept Radar
+5. PHOTOS
+6. SOURCE
+C Yes
+Physical
+3 No
+Specimen
+7. LENGTH OF OBSERYATION
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12.
+CONCLUSIONS
+Wes Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircreft
+Possibly Aircraf
+Was Astronomiccl
+Probably Astronomical
+Possibly Astronomical
+Other
+Chaff
+Insufficient Data for Eval
+Unknown
+N/A
+N/A
+0. BRIEF SUMMARY OF SIGHTING
+Metal filings & strips were recovered
+on a farm. After observation of burst-
+ing flash, strips assumed connected
+w/this fäsh. Tested
+strips at local
+level and found slight radio activity.
+N/A
+11. COMMENTS
+Found to be chaff used by SAC
+in ECM training. Not associated
+w/flash.
+Flash probably meteor.
+Confirned caff by CINCSAC.
+Maxwell APB, Alab
+ATTN: Archives Bu
+Aerospace Studies,
+Directot
+RETURN
+ATIC FORM 329 (REV 25 SEP 52)

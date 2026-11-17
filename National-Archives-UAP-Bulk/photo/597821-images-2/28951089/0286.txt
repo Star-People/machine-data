@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:09:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6737239, "source_ctime_ns": 1793374293358072594, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951089/0286.jpg", "source_mtime_ns": 1785696551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951089/0286.jpg", "source_sha256": "f0c980d5dbbfe45b6f4cf5036efd23debfc6f73687c62411739d617e4a488b79"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 618, "method": "ocr", "page": 1, "variant": "plain-vision"}
+8°W
+ETOWN
+PLE
+180
+20
+30
+408°W 50
+TO REFERENCE BY THE GEOREF (SHOWN IN BLUE) TO MINUTES
+(Select nearest intersection south and west of point)
+Sample Point:
+HYANNIS
+HJ identifies basic 15° quadrangle
+EM identifies 1° quadrangle
+43 identifies Georef minute of longitude
+38 identifies Georet minute of latitude
+Sample reference: HJEM 4338
+<97
+Castle
+350 11.G 2233
+EST CHESTER RADIO
+PHILADELPHIA RADIO
+263 PHL
+(Joins 357)
+Nautical Miles
+Statute Miles
+(310)
+PRICE 25 CENTS
+76°Q
+20 1
+Principal Sources
+. Geological Survey,
+U.S. Army Corps of Engineers, U.S. Air Force, U. S. Dept, of Agricultu
+Civil Aeronautics Admir
+Camden

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:08:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6510395, "source_ctime_ns": 1793362622547856202, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0045.jpg", "source_mtime_ns": 1785685000000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0045.jpg", "source_sha256": "501d0fd180e7f9344f8ee9913ea27354310f448e8be832c44f46b98c8e499b83"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 111, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+SHOILVE
+OUT
+62 80 9970001
+1956 AUG: 20:0110 | 46
+· SE
+COUNTER INTEL DIV
+Declassification Authority: NND 923007

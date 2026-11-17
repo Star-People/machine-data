@@ -1,0 +1,133 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:07:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6358338, "source_ctime_ns": 1793354988126783971, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0048.jpg", "source_mtime_ns": 1785564374000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0048.jpg", "source_sha256": "67f4c0880cae4076fcf0265b5062bff628814088b112c0caef3de14766c13443"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 897, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ORM 17-503
+U.S. DEPAR
+ENT OF COMMERCE
+NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
+FLIGHT DATA RECORD
+(ASCENT/DESCENT)
+(%)
+Int.
+CODE ALT
+(Kft.)
+DENS. ALT
+(Kft.)
+REMARKS*
+lauNch
+ANt DROp
+6:1
+10,6
+14,5
+19,5
+04,2
+28,7
+34,4
+39,8
+44,8
+S0.1
+56,4
+61,6
+68.8
+72,6
+77.2
+80,6
+39,5
+FLIGHT NUMBER
+178-13/H129
+LOCATION
+Holloman AFB
+TIME (Z)
+CODE ALT.
+5 Min. Int.
+(Kft.)
+lUnT ALTITUDE
+80
+N. m.
+DENS. ALT
+(Kft.)
+Kft.
+DATE
+131PR78
+REMARKS*
+2.5
+30
+3 5
+40
+45
+50
+55
+00
+06
+10
+715
+120
+025
+225
+26
+27
+32
+35
+40
+45
+50
+200
+205
+DIO
+DIS
+- 20
+25
+30
+35
+40
+45
+50
+00
+305
+309
+10
+0:37
+/3
+15
+320
+325
+75,0
+23,3
+72.0
+70.7
+69,7
+6 81
+67,5
+67,2
+05.9
+65,4
+64,1
+62.3
+61.2
+60.7
+5917
+59,1
+57,2
+542
+53.2
+52,4
+52,8
+44,8
+38,1
+2608
+16.9
+11.9
+75,9
+ght release, antenna drop, float, flight termination,
+BallooN AfFloat
+samp. cms. on.
+samp. cmo oFF
+valve railsafe
+Blow Ballast
+value latch
+TeRmInatioN
+System in trail
+GM D
+ALTITUDE AT FLOAT
+RADAR

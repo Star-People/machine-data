@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:42:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 747863, "source_ctime_ns": 1793389185263315462, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537756/1290.jp2", "source_mtime_ns": 1785808612000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537756/1290.jp2", "source_sha256": "3e0233723f6cb4176756c44304a955f1655f20d79720e2e2806b073bb2776a90"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 606, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCOMING
+MESSAGE
+DEPARTMENT OF THE ALC. FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+AF IN : 7144 (19 Feb 65)
+Page 5 of 5
+NORAD COC, SPACE TRACK DIRECTORATE, 71ST SURVEILLANCE WING,
+FAA CENTER, LOCAL AIRPORT CONTROL TOWERS, ALL LAW ENFORCEMENT
+AGENCIES IN AREA. NEGATIVE RESPONSES FROM THESE AGENCIES
+PRACTALLY ELIMINATE THE POSSIBILITY OF THE OBJECT BEING AN
+AIRCRAFT, DECAYING ORBITAL SATELLITE OR DEBRIS OR UNUSAUL WEATHER
+PHENOMENA. WITNESS SGT LEE INDICATED HE THOUGHT THE OBJECT TO
+BE A METEOR IN THAT HE HAD SEEN SIMILIAR METEORS IN THE PAST.
+BT
+NNN
+N
+NOTE: Advance copies delivered to XOPX and JCS/DIA.

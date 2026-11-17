@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:57:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3957849, "source_ctime_ns": 1793377569586775904, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964359/0736.jpg", "source_mtime_ns": 1785696701000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964359/0736.jpg", "source_sha256": "d19b808093eb603a1f0d1ba5613591c0014daedb360b240ee97469bc182600ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 771, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+13 Dec 55
+3. DATE-TIME GROUP
+Local _
+GM T. 14/0309Z
+5. PHOTOS
+• Yes
+ExiNo
+7. LENGTH OF.OBSERVATION
+ArLington,
+Va
+1. TYPE OF OBSERVATION
+D Ground-Visual
+• Air Visual
+6. SOURCE
+civilian
+8. NUMBER OF OBJECTS
+2 min, 12 sec
+10. BRIEF SUMMARY OF SIGHTING
+No discernible shape. Had appearance of a
+slow moving meteor. Red, sparks, trail or
+exhaust were observed, no sound. Speed
+appeared to fluctaute moderately.
+• Ground-Rodor
+• Air-Intercept Radar
+9. COURSE
+12.
+CONCLUSIONS
+Was Bolloon
+Probably Balloon
+Possibly Balloon
+Was Aiseraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomicol
+Other.
+Insufficient Data for Evaluation
+Unknown
+NNE
+11. COMMENTŚ
+A/C.
+ATIC FORM 329 (REV 26 SEP 52)

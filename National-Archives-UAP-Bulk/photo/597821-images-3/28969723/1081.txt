@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:00:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4616899, "source_ctime_ns": 1793378894991007871, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969723/1081.jpg", "source_mtime_ns": 1785700677000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969723/1081.jpg", "source_sha256": "d770a31bf5f650ecddd72e29ddae14ded1aa88a3a4eafac0b0e8aa547a82b59a"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 729, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+# May 1957
+DAT
+ME GROUP
+2/57
+OMI
+02/0256 ₴
+PHOTOS
+O Yes
+LENGTH OF OBSERVATION
+Not Given
+BRIEF SUMMARY
+OF SIGHTING
+A moving and flick
+vicinity of bie dipper
+ATIC FORM 320 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Springfield, Pa.
+TYPE OF OBSERVATION
+M Ground-Visual
+O Air- Visual
+6. SOURCE
+• Ground-Reder
+• Air-Intercept Radar
+Civilian
+NUMBER OF OBJECTS
+0105-5-7-05
+12. CONCLUSIONS
+D
+Ves Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircreft
+D
+Possibly Aircraft
+Was Astronomical CO/t 7.
+Probably Astronomicel
+Possibly Astronomical
+Other
+Insufficient Data for Evalua
+Unknown
+One (1)
+ring object appeared
+9. COURSE
+SE
+COMMENTS
+This is without a coubt the
+recently discovered comet.
+Arend-Roland.

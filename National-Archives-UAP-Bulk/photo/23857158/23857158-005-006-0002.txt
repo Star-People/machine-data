@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:04:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5418418, "source_ctime_ns": 1793358984214718577, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-006-0002.tif", "source_mtime_ns": 1785681285000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-006-0002.tif", "source_sha256": "8f921739b9fc7f06fc74b3f02551a9ed2ea02d56a0705aef3a3b2ca653eb59b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 647, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+pet mita reguler
+ENOM
+0.084
+KFF 058
+KBBØ38
+RR JEDEN
+. DE JESKB 62
+OPS 19|1122₴ł
+AISCR
+R 182200Z
+AISDC
+FM FLIGHT 2-C 4602D AISS 35TH ADIV DOBBINS AFB GA
+| AISAJ
+TO COME 46Ø2D AISS ENT AFB COLO
+AISAD
+AISPR
+• BT
+• AISDD
+AISOP
+70 N C LA S S IF I E D/AIS2C 21 PD REF MSG AIS2C 19 ANDEMSG COMD
+FLI SVC CENTER MAXWELL AFB ALA SUBJ CLN UFOB DID 26/Ø326Z FEB 55 PD
+TP CALL FRA/1C GLEB R MOLICKI FR NEW ORLEANS LA INDC INVES NEAR
+COMPL PD ALL OBSR OF THE OBJ WERE AT THE SAME LOC PD OBJ KMULD NOT BE
+CFM BY OTHER SOURCES INCL ILCT CMM MET OR ASTRONOMICAL PD FULL REPT FOL
+PD END
+18/2152Z FEB JESKB
+o c
+DETS
+FLTS
+/ FILE

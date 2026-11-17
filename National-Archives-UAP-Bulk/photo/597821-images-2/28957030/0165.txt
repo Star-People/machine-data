@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:58:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3987504, "source_ctime_ns": 1793375621394926696, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957030/0165.jpg", "source_mtime_ns": 1785696978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957030/0165.jpg", "source_sha256": "96d97d2695276f54637030dcec1f09a02da8b34c5f5c61b9b9d60b6378364fac"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 609, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JWFLN 18
+.•I NORE
+2.A IRREGULAR CRSE P
+%•E VAKNOWN, OBSEAVER NOT FAMILIAR WITH TERMS
+2.C UNKNOWN, BET OVERHEAD
+2.D ODJECTS FOL IRREGULAR CRSE C PSN IN FORMATION AND GAINING ALT
+2.E GRADUALLY AS THEY GAINED ALT
+2.F FIVE TO EICHT MIN
+3.A GROUND VISUAL
+3. 5 NONS
+3.C N/A
+40A 0420322/NOV 53
+4.B DAY
+5•
+WAC CHART NO 463, SCOREF FHK03843
+AGE 45,
+TEX, OCCUPATION BLDS CONTR, CAREFUL OBER, APTD TO BE NOT EASILY
+INFULENCED, PROBABLY RELIABLES
+, ADDRESS AND PARTICULARS
+UNKNOWN;
+, HOUSTON TEX, PARTICIE
+UNKOWN; THESE LATER TWO MEN CANNOT BE LOCATED.
+7A CLEAR SKY, SLIGHT BREEZE, DRY, COOL TEMP. APPAOK TO DES
