@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:05:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5065849, "source_ctime_ns": 1793362568015236709, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783159/45484701-003-002-0097.jpg", "source_mtime_ns": 1785684835000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783159/45484701-003-002-0097.jpg", "source_sha256": "19a20521edc9016160526dd0aa618285a3d3fd7c578a673d7d89139e6973a9b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 981, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF HQ-38 (20 May 44)
+HEADQUARTERS UNITED
+SIA
+ROUTING AND RECORD SHEET
+TALLY
+NO.
+FILE
+NO.
+SUBJECT: (Unclassified)
+AFCSI Letter No. 85, dated 23 October 1950, Subject:
+(Unc1)
+"Reporting of Information on Unconventional Aircraft"
+TO:
+Directorate of Special Investigations, Inspector General DATE 26 FEB 1952
+COMMENT NO.
+FROM: Directorate of Intelligence, DCS/0
+Lt. Col. Hundt/ro/55894
+AFOIN-V/TC
+The inclosed letter requesting concurrence with procedures in the investigation
+by the Office of Special Investigation of reports on unidentified aerial objects was
+prepared by Air Technical Intelligence Center. This request is concurred in by the
+Directorate of Intelligence, DCS/O and is forwarded for coordination.
+1 Incl
+Itr to AFCSI
+23 Jan 52
+H.
+KIBLING
+Colonel, USAF
+Executive
+Directorate of Intelligence
+CLABSIFICATION CANCELLED WO
+BY AUTHORITY OF THE DIRECTO. O
+BY
+KURT K. KUNZE, Capt, USAF
+Histo
+& DEC 1975
+DATE
+PAGE
+JNCLESSIEIED
+1654288-1
+Declassification Authority: NND 923007

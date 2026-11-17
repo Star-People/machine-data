@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:54:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1752690, "source_ctime_ns": 1793388651141634373, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530717/0539.jp2", "source_mtime_ns": 1785808207000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530717/0539.jp2", "source_sha256": "b83570c4803206e9e095694b672beb4c0591993f5745b8a01e35558a5dc2873a"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 496, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARIMENT OF THE AIR FORCE
+STAFF MISSACE BRANCH
+UNCLASSIFED MISSAGE
+INCOMING
+AF IN: 40250 (13 Oct 63)
+Page 2 of 2
+A. JANAP 14SD
+1. CIRVIS REPORT
+2° NAVY 143188
+3. ONE SATELLITE, SIZE AND BRIGHTNESS OF FIRST NAG STAR.
+4, OBSERVED FROM POSITION LAT 40-40N LONG 174-30W 182 DEGREES
+TRUE 15 DEGREES ABOVE HORIZON DISTANCE UNKNOWN.
+S. 130600îłęŚ
+6. ALTITUDE UNKNOWN
+7. WESWUO
+8. COVERED 30 DEGREE ARC IN 10 MINUTES.
+9. NONE
+BI
+NOTE: ADVANCED COPIES SENT TO DIA-CIIC, XOPX, NIN,
+RETRANSMITTED TO CIA.

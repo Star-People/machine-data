@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:26:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16729748, "source_ctime_ns": 1793356576378574365, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0191.tif", "source_mtime_ns": 1785564725000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0191.tif", "source_sha256": "776ffcb2102bd8db2e57695f290387fee314dbeb91a7b4088888a6f8fe22d14e"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 317, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Indident 749 - Danville, bentucky -- 9 January 1948
+Although the distance, time in sight, speed, sound, size,
+color, and construction of the object reported here are not stated,
+the fact that it showed a long trail and exploded makes it entirely
+probable that it was a fireball.
+Declassification Authority: NND 57565

@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:09:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5530195, "source_ctime_ns": 1793369678367320219, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932484/1217.jpg", "source_mtime_ns": 1785688950000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932484/1217.jpg", "source_sha256": "2401dd7cdbf85ea29d57331521f67367f97e30cc9354062acbb1b4a2966f542d"}
+
+===== PAGE 1 =====
+{"alpha_words": 174, "chars": 1274, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Hq AMC Form No. 10-513 (Rav 20 Fab 48)
+WF-L-15 JUN 48 200M
+UNCLASSIFIEL
+IN
+REPLY
+ADORESS
+BOTH
+COMMUNICATION
+ANO
+EN-
+VELOPE
+GENERAL
+TO AIR
+COMMANDING
+MATERIEL
+COMMAND
+ATTENTION FOL-
+LOWING OFFICE SYMBOL:
+NOLAXO
+HEADQUARTERS
+AIR MATERIEL COMMAND
+WRIGHT-PATTERSON AIR FORCE BASE
+DAYTON, OHIO
+LCIAXO-3/GTT/dw
+10 48
+SUBJECT:
+Request for Investigation
+THORO :
+TO :
+Chief of Staff
+United States Air Force
+Washington 25, D. C.
+ATIN: AFOIR
+Commanding General
+YEAP
+APO 925
+c/o Postmaster
+San Francisco, California
+Reference is made to message AX943-A2 dated 26 Oct 48
+(2508002), regarding radar sighting of unidentified aerial object
+by Fol radar.
+It is requested that source Base Intelligence
+Officer be directed to initiate further investigation of this re-
+ported sighting. An Essential Elements of Information form is
+attached as an aid to the interviewing officer in obtaining the
+desired information,
+Pertinent information relative to the reported object is
+desired as follows:
+Was object apparently practicing radar evasive bactics
+when it disappeared from the scope periodically, or was it running
+into nomal skip "null" zones affecting appearance on scope of all
+aircraft?
+07 75
+7-70004-4
+DOWNGRADED AT 3 YEAR INTER
+DECLASSIFIED AFTER 12 YRA
+DOD DIR 5200.10
+OMCCASSIFIED
+700

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:19:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8891633, "source_ctime_ns": 1793364014710470174, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0157.jpg", "source_mtime_ns": 1785684969000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0157.jpg", "source_sha256": "ae229abb1dd0437ad069d410d56c38ed06bc9500346a7c44c64917693614c419"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1147, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ONFIDENTIAL
+File No: (24-8)-28
+Subj:
+Summary of Observations of Aerial Phenomena in
+the New Mexico Area, December 1948 - May 1950
+25 May 1950
+DISTRIBUTION:
+• cys, Director of Special Investigations, Headquarters USAF
+1 ey ,
+CG, Air-Materiel Gommand, Wright Patterson AFB, Ohio
+ATTN: Director of Technical Intelligence
+1 cy, CG, Special Weapons Command, Kirtland AFB, New Mexico
+1 cy, CG, Armed Services Special Weapons Project, Sandia Base,
+New Mexico. ATTN:
+J-2
+oy, CG, Headquarters, Fourth Army, It. San Houston, Texas
+ATIN: AC of S, G=2
+1 cy, CO, Holloman AFB, New Mexico
+cy, CO, Air Force Cambridge Research Laboratories, Cambridge, Hass.
+1 cy, Director, Security Division, U.S. Atomic Energy Commission,
+Los Alamos, New Mexico. ATTN: Mr. B. O. Wells
+1 cy, Federal Bureau of Investigation, El Paso, Texas
+1 cy, Federal Bureau of Investigation, Albuquerque, New Mexico
+Air Force Scientific Advisory Board, Pentagon Building
+ATTN: Dr. Joseph Kaplan.
+1 cy, Research and Development Board, Pentagon Building-
+ATTN :
+Dr. HI. E. Landsbers, Executive Dirootor, Committee on
+Geophysies and Geography-
+1 су, File
+Declassification Authority: NND 923007

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:17:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8151679, "source_ctime_ns": 1793379454705273561, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972346/00541.jpg", "source_mtime_ns": 1785700648000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972346/00541.jpg", "source_sha256": "ade34edf1a81a3094348f965ff0c7d95e938b246cea05106072b0fb998b57834"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 795, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+20 October 1957
+3. DATE-TINE GROUP
+Local 1140
+GMI-
+20/16402
+5. PHOTOS
+O Yes
+O. No
+LENGTH OF.OBSERYATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+payton.
+Ohio
+1. TYPE OF OBSERVATION
+D Ground-Visual
+• Air Vi suol
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+one
+10. BRIEF SUMMARY OF SIGHTING
+A very
+shiny object was moving slowly
+above
+TV tower near Germantown in
+Dayton.
+12. CONCLUSIONS
+Ox Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+Was Aircraft
+Probably Airerat
+Possibly Aircraft
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+W/O Fox of DetoNational Guard
+statd a balloon had been released
+approximately
+1 mile from said
+sighting at 1100.
+ATIC FORM 329 (REV 26 SEP 52)

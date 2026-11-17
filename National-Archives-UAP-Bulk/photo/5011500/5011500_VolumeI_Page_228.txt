@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:44:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 569481, "source_ctime_ns": 1793365597862386058, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_228.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_228.jpg", "source_sha256": "096f81ea8bb7287f4000d06519d09ac5df50d8d3afd0906e79d881a2d1478cc9"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1092, "method": "ocr", "page": 1, "variant": "plain-vision"}
+76:22:02
+76:22:09
+76:22:14
+76:22:19
+76:23:20
+76:23:29
+76:29:34
+76:29:37
+76:29:41
+76:29:42
+76:29:49
+76:29:52
+76:29:57
+76:30:01
+76:30:18
+76:30:20
+76:30:21
+76:30:27
+cC
+CC
+P
+C
+cC
+C
+CC
+C
+C
+cc
+C
+cC
+C
+cc
+CONFIDENTIAL
+227
+Would you turn off your BIO MED Tape Recorder Num-
+ber 1?
+Roger. Number 1 cut off.
+Thank you, Gemini VII. Hawaii Surgeon out.
+Roger. The Command Pilot had about 19 ounces dur-
+ing his meal time.
+Gemini VII, Hawaii CAP COM. You have a UHF 6 test
+over the RKV this pass.
+VII, Roger.
+GUAYMAS
+Guaymas, this is Gemini VII. How do you read?
+Loud and clear. Loud and clear, Gemini VII.
+Are you getting our oral temperature?
+Roger. It's coming up real good. They want to
+conduct the crew status report over Texas. Your
+temperature is up real well.
+Okay. Thank you.
+We were given 76:28 but we'll hold on.
+Roger. You should be getting to Texas in about 2
+minutes.
+Thank you.
+Gemini VII, Guaymas CAP COM.
+Go ahead.
+Roger. They decided to conduct it over Guaymas
+after all. We have a valid oral temperature. Stand
+by for the Surgeon.
+You can go ahead with your blood pressure.
+CONFIDENTIAL

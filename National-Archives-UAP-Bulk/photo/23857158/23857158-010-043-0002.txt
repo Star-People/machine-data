@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:25:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16090570, "source_ctime_ns": 1793359760528240033, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-043-0002.tif", "source_mtime_ns": 1785681513000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-043-0002.tif", "source_sha256": "54eac6ddd462a88431afa6c4079a69e5eabb28cda206286a5a162a6a7a72596e"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 233, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+Declassification Authority NND 923007
+PAGE THREE, RJEDKFEIGM
+A. CLOUDY FROM S.E TO N.W.
+B..
+5000--272/10ÍŚ
+10000--300/157
+16000-300/20
+20000-310/25
+30000--280/65
+C..
+NONE
+D. 15.
+E.
+SCT
+F. NONE
+9..
+10.
+IT•
+A•
+BT -
+11/0500Z AUG RJEDKF

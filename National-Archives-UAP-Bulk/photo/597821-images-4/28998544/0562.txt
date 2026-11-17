@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:20:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9263278, "source_ctime_ns": 1793387330878174017, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998544/0562.jpg", "source_mtime_ns": 1785748060000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998544/0562.jpg", "source_sha256": "ef61ee0a7d26dc810274f40ae3b7f8ad1d7da39181681d51c4e06f7f5e1c4ff4"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 393, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFED MESSAGE
+INCOMING
+AF IN : 14749 (8 Aug 62)L/Joe
+pg 1 of 2
+ACTION: CIN-17
+INFO : 0OP-2, 00P-CP-1, SAFS-3, DIA-10, DIA-CIIC-3 (37)
+SMB A 167
+CZCHQA827ZCBJA133
+***** YY RUEAHQ
+DE RUHPJ
+ZNR
+Y 08085 72
+FM NIFV
+TO RUEAHQ/HEDR
+RUSY HFIV
+RUW GAL B/ HVLL
+ZEN/ N2DZ
+RUAUAZ/ SRYK
+RUHPB/ YKR
+INFO RUECJD/ OGRN
+WEN/ SNYYX
+USCG GRNCC
+UNCLWS
+UF O.

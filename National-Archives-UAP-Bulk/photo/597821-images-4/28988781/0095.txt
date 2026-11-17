@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:00:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4323260, "source_ctime_ns": 1793384075466259913, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988781/0095.jpg", "source_mtime_ns": 1785748095000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988781/0095.jpg", "source_sha256": "919da8bfd83c41c038344dfc37c40b8013e53f46198da8d1901de5c6c93b699c"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 448, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJAOKA 147
+(2) 20 DEGREES TO 40 ELEVATION 060 DEGREES AZIMUTH
+(3) SEEMED TO FOLLOW CURVATURE OF EARTH, NO CHANGE IN COURSE
+(4) BEHID E CLOUDS ON HORIZON
+(5) 10 - 20 MINS ESTIMATED.
+C. (1) 11052 5 SEPTEMBER 60
+(2) NIGHT - WITH FULL MOON
+REMAKRS: SIGHTED AGAINST 2 HOURS AND 8 MINUTES LATER. OBJECT
+SIGNED 1340Z AND 1330Z ON 6 SIP 60. OBJECT SIGHTED AGAIN AT
+10232 AND 12402 ON 7 SEP 60. OBJECT BELIEVED TO BE ECHO I.
+er
+39/0833Z SEP RJAOKA

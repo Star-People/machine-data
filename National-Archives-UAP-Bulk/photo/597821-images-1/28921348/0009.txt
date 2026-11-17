@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:03:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4764449, "source_ctime_ns": 1793368498905099133, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0009.jpg", "source_mtime_ns": 1785688695000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0009.jpg", "source_sha256": "e5f8b8f183ab18b3b546bfb2fd03acf94741bf3b232d52c6506c6cf26f6295e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 168, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RG 31, Records of Headquarters United States Air Force
+
+Project BLUE BOOK
+
+National Archives and Records Service
+General Services Administration
+Washington, D.C.
+
+1976

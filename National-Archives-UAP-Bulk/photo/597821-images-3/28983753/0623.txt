@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:56:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3561198, "source_ctime_ns": 1793382413783810869, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983753/0623.jpg", "source_mtime_ns": 1785700867000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983753/0623.jpg", "source_sha256": "8a35d6588a9f0530a90e440c9d354e2e4718d23bd93aad9782b823f098910282"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 982, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+8 Jul 59
+3. DATE-TIME GROUP
+Local ._
+2030
+GMT 09/0130Z J11 59
+5.
+PHOTOS
+• Yes
+:O:No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Pikesville,
+Maryland
+4. TYPE OF OBSERVATION
+D: Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other Prob Reflection
+Insufficient Data for Evaluation
+Unknown
+6-8 min
+SW - NE
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+Rnd, bluish-white obj, size of pinhead.
+Four witnesses. Probably reflection
+Moved up & down, but folloved a definite fligh/fm car lights on inversion. Inversion
+path. Went out of sight above horizon. In
+present Im 5,500 to 6000 ft. Area of
+sight 6 to 8 mins.
+observation located near indlined
+bridge where lights fm car vould hit
+inversion.
+ATIC FORM 379 (REV 26 SEP 52)

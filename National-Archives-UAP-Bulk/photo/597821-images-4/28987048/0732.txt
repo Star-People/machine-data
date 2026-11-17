@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:21:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9671314, "source_ctime_ns": 1793383453311120021, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987048/0732.jpg", "source_mtime_ns": 1785748126000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987048/0732.jpg", "source_sha256": "c024072236a8a76bd35784be3b54fbd27d4449e2ceee58501ae05313d5f54ba0"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 471, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PicK up in An
+1800 MY 29 10 04
+10
+TELEPHONED
+TO
+NO
+IME
+REO 12
+CZCSQA446ZCJYB281
+PP JEDSQ
+DE RJEZBZ 2
+P 2907002
+FM COMDR BANGOR ADS
+TO RJWFAL/COMDR ADC
+RJEZSN/HQ 26 NORAD REG
+RJEDSQ/AIR TECH INTEL CNTR
+RJEZHQ/HQ USAF AFCIN
+RJEZHQ/SEC OF AIR FORCE SAFIS
+UNCLASS/REF AFR 200-2, THE FOL REPORT IS
+SUBMITTED (UFO).
+A. DISCRIPTION OF THE OBJECT
+(1) ROUND
+(2) BASKETBALL
+(3) ORANGE
+(4) THREE
+(5) NONE-APPEARED AT ONE MINUTE INTERVALS
+(6) ONE SEEMED TO COME FROM GROUND
+(7) NONE

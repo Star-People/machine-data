@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:48:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1404495, "source_ctime_ns": 1793390395297044137, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549574/0721.jp2", "source_mtime_ns": 1785808180000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549574/0721.jp2", "source_sha256": "2b14a450f81b23d6ac2d8d04c2a1c487f9b8cd66a7710f871eb7cb3442fff65d"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 461, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Syracuse, New York
+April 13, 1966
+Project Blue Book
+SAFOI
+Washington, D.C.20330
+Dear Sirs:
+I would like to report a UFO. It could of been a
+meteor, but my friend and I decided that it was to to
+low to
+be a meteor. It was very bright and traveled
+very fast. It was in sight for abbut 25 seconds, than
+it disappeared.It flew low and over the center of
+Syracuse. i will be glad to give any other information
+reguired if needed. The address is at the top.
+Sons 164

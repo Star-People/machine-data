@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:12:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6738645, "source_ctime_ns": 1793381328769254754, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979841/1374.jpg", "source_mtime_ns": 1785700983000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979841/1374.jpg", "source_sha256": "f513f3f2814b3171774278c6c32e0bfe66ef63f75f7521d497ec99d25bc5cf7a"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 935, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+11 September 1958
+3. DATE-TIME GROUP
+Local.
+CM T
+11/07152
+S. PHOTOS
+** taken but
+• No not iwae.
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Cartwright, Labrador
+TYPE OF OBSERVATION
+•XGround- Visual
+• Ground-Roder
+• A Hasi" Lars • Air-Intercept Roder
+T. SOURCE
+military
+NUMBER OF OBJECTS
+10 mins
+one
+10. BRIEF SUMMARY OF SIGHTING
+Banana shaped obj, diameter of pencil
+2 inches long, multicolor, traveling
+SE slowly rising.
+9. COURSE
+SE
+11. COMMENTS
+12. CONCLUSIONS
+000
+Was Balloon
+Probably Bel leor
+2039
+Was Aireraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+000
+Other.
+Insufficient Date for Evaluation
+Unknown
+Probably Aurorai streamer
+ATIC FORM 329 (REV 26 SEP 52)
+9 SEP 57 20 1 2 6 g
+118:57 09 50 г
+89492
+44x2-Q
+M WPD286 YDA056 JYA990 JDC044EXD058FTA#72
+••••YY RJEDEN RJEWP RJEPHQ RFEMV
+DE RJEXFT 55A
+Y 1188472
+FM DIR 64TH CONAD. CC PEPPERRELL AFB NF

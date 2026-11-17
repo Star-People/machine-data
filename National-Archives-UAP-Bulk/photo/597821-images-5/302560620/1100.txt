@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:46:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1009750, "source_ctime_ns": 1793391648189490637, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560620/1100.jp2", "source_mtime_ns": 1785808147000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560620/1100.jp2", "source_sha256": "92267fb6bc777b83ab9bec4d3a6b31d225c3ccf9da198e54f05dde37bd9a4e02"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 505, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Torrington, Conn. 06790
+July 17,1967
+ProJect Bluebook
+Wright*Patterson Air Force Base
+Ch1045433
+Dear Major Quantilla,
+In Feb., 1967, I sent a report of a UFO sighting
+(Feb.1,1967) to your office. In return, I received a 2arx
+FID form 164 w/envelope, which I filled out to the best of m;
+ability and returned.Since then, I have received no word as
+to what I viewed. If you have such information, would it be
+possible to send me said information?Thank you for any
+information you can send.
+Sincerely yours,

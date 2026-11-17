@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:20:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8911982, "source_ctime_ns": 1793363499132654932, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0036.jpg", "source_mtime_ns": 1785684620000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0036.jpg", "source_sha256": "2f6b3245167e1fdd9f8c8ad15344fc927eac1aa526d60f7129b62a1489ca5291"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 186, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+BL PASO SHEN?
+N 3000 - W 10200/120 x 360
+1/500,000 :
+
+Ft Bliss
+
+ep eet ee ee Me ar PNT POO AAAS Pa ORD AREER RD PERRIN RE ISN
+- wn bey
+
+8 60 $ 61
+
+Declassification Authority: NND 923007

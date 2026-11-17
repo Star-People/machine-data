@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:17:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8159386, "source_ctime_ns": 1793379452772218524, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972338/00537.jpg", "source_mtime_ns": 1785700854000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972338/00537.jpg", "source_sha256": "5e6aacbbffda4c24b070a696f7cc4d97d0838d9d935642d79b22bbb5b98b3049"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 546, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(3) MANNER OF ORSERVATION:
+(A) GROUND VISUAL
+(B) NONE
+(C) NONE
+(4) TIME & DATE OF SIGHTING 25/04407 0449-5 = 7340 local
+(A) NIGHT -CLEAR
+(5) HJ BL 3548
+(6) IDENTIFYING INFO OF ALL OBSERVERS
+(A)
+GARDEN CITY BLVD MESTHEMPSTEAD
+AGE 45 SALES MANAGER
+(B) NONE
+(7) WEATHER
+(A) CLEAR-VISIBILITY UNLIMITED
+(B) SURFACE 270 DEG 7 KT
+, 6,000 '350. DEG20
+KT
+19,200'280 DEG 15 KT
+16,200'250 DEC35 KT
+22,290'220 DEG63 KT
+30,220'230 DEC82 KT
+50,000'240 DEG 35 KT
+(9) NONE
+(1E) LOCAL TRAFFIC NEW YORK AREA
+(11) SENIOR CONTROLLER
+(12) NONE
+BT
+20/25182 OCT RJEPNY

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:44:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 423665, "source_ctime_ns": 1793355828341747253, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0028.jpg", "source_mtime_ns": 1785564535000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0028.jpg", "source_sha256": "6c2dc7c7d5593d5b3a5e25dd787f726ffb8aaa1344b0d35ce8122c4ed1d2bf52"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 420, "method": "ocr", "page": 1, "variant": "plain-vision"}
+8. Hanscom
+9. Peterson
+10. Hurlburt
+11. AIA
+12. Bolling
+13. Air Weather Service
+Non Air Force Entities
+1. White Sands Missile
+Range
+2. Armed Forces Institute
+of Pathology
+2
+Base PA
+Phillips Lab
+Space Command
+Base PA
+AFSOC
+OSI
+Surgeon General
+Info
+Mentioned in text
+Info
+Info
+Mentioned in text
+Into
+Info
+Info
+Info
+Mentioned in text
+Mentioned in text
+LONIAL
+JAMES McANDREW, Capt, USAFR
+Deflassification and Review Officer

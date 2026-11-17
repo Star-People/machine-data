@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:55:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2741707, "source_ctime_ns": 1793365585114057403, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0081.tif", "source_mtime_ns": 1785565392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0081.tif", "source_sha256": "a69b77179bdd05e923acae8dc97a1b7766133645d0f7870da047cb2033048021"}
+
+===== PAGE 1 =====
+{"alpha_words": 283, "chars": 2234, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Revised - April 1970
+DEFENSE ADVISORY COMMITTEE ON WOMEN IN THE SERVICES
+BIOGRAPHICAL INFORMATION
+ON MEMBERS APPOINTED IN 1968
+Mrs. Celia Aidinoff, 110 East End Avenue, New York, N. Y.
+10028
+Native of New York City. Graduated Agnes Scott College (B. A.).
+Member: Board of Directors, Executive Committee and Chairman Public
+Relations Committee, International Center in New York; Executive
+Committee, Women's Division, Legal Aid Society; Executive Committee
+and Editor of Curtaincalls, Friends of the City Center of Music and
+Drama; Public Relations Committee, Women's Africa Committee; Associ-
+ates Committee, Institute of International Education; New York City
+Commission to the United Nations; Off-the-Record Luncheons, Foreign
+Policy Association; St. Bernard's School Representative of the Independent
+Schools Committee, Public Education Association; Northeast Regional
+Vice President and President of New York City Chapter, Agnes Scott
+College Alumnae Association.
+Business and Professional Affiliations: Editor of Publications, Institute
+of International Education; Editor of Publications, Near East College
+Association; Editorial Assistant, Consumer Reports; Assistant Public
+Relations Officer, Pakistan Mission to the United Nations; Volunteer
+Editorial Work, United Nations Association.
+Mrs. Aidinoff is an Editor of Publications, Public Relations Director
+and a Civic Leader.
+Mrs. Marian C. Atkinson, 2560 North Summit, Milwaukee, Wisconsin 53211
+Native of Pennsylvania. Attended Howard University, St. Louis University
+and the University of Wisconsin.
+Member: Chairman, Housing Committee 1959-63; League of Women Voters;
+Chairman, East Side High School Group, American Field Service Council;
+Chairman, Milwaukee Hostesses for NMA: Chairman, Adoptive Homes
+Program, Community Welfare Council; Chairman, East Side Girl Scout
+Council; YWCA Speaker's Bureau; Women's Auxiliary to Abdominal Surgeons;
+President, 1955-57-59 Beta Tau Chapter, Delta Sigma Theta National
+Sorority.
+Business and Professional Affiliations: Occasional writer and journalist.
+Teacher in the Social Improvement Program, Milwaukee School Board.
+Mrs. Atkinson is a teacher in the Social Improvement Program, Milwaukee
+School Board and an occasional writer.

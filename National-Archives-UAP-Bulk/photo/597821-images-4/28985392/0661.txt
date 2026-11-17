@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:05:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5010778, "source_ctime_ns": 1793382764049147221, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985392/0661.jpg", "source_mtime_ns": 1785748436000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985392/0661.jpg", "source_sha256": "caa7a592e1b83b05be3e211478ecd6e224c4d4a0e14e1f77810f898c4361e395"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 643, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+• UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 48820 (17 Nov 59)
+PAGE TWO RJEDJR 19A
+(8) NEGATIVE
+(9) NEGATIVE
+B, DESCRIPTION OF COURSE OF OBJECT:
+(1) BRIGHTNESS
+(2) 25 DEGREES 170 TRUE
+(3) 05 DEGREES 170 TRUE
+(4) APPEARED TO BE IN DOWNWARD FLIGHT
+(5) FADED OUT WITH AN ADDED BRIGHTNESS JUST BEFORE GOING OUT OF
+SIGHT.
+(6) ONE TO ONE AND ONE HALF SECOND
+C. MANNER OF OBSERVATION:
+(1) SHIP/VISUAL: USS SKYWATCHER, PICKET SHIP.
+(2) NEGATIVE
+(3) N/ A
+D. TIME AND DATE OF SIGHTING.
+(1) 17/0440Z NOV 59
+(2) NIGHT
+E LOCATION OF SIGHTING (GEOREF):
+HOTEL
+F. IDENTIFYING INFORMATION ON OBSERVER:
+Page 2 of 4

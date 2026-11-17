@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:58:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3834035, "source_ctime_ns": 1793372072442661908, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941172/0787.jpg", "source_mtime_ns": 1785688583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941172/0787.jpg", "source_sha256": "d5b86dfb2e022da95d0d2ce737174cc4578161c7b9f28cf4bceaf0176970dbd6"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 719, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+9 Apr11 52
+3.
+DATE•TIME GROUP
+Local _
+2010 EST
+CMT 10/01LOZ
+3. PHOTOS
+• Yes
+22 No
+7. LENGTH OF OBSERVATION
+ISECOND
+10. BRIEF SUMMARY OF SIGHTING
+Ex-AF P1lot
+NUMBER OF OBJECTS
+1
+Elliptical. Straight and level maneuvers.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Ft. Lauderdale, Florida
+4. TYPE OF OBSERVATION
+# Ground• Visual
+D Air- Vi suol
+SOURCE
+• Ground-Rador
+D Air-Intercept Rodor
+9. COURSE
+12. CONCLUSIONS
+10
+Wos Balloon
+Probably Balloon
+Possibly Bolloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably AstronomicalMETEOR
+*Possibly Astronomical
+Other
+Insufficient Data for Evolva
+Unknown
+11. COMMENTS
+Sighted at elevation of 35° south
+of Ft. Lauderdale.
+ATIC FORM 329 (REV 26 SEP 52)

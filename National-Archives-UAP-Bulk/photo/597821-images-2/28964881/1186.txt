@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:59:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4025558, "source_ctime_ns": 1793377671998434602, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964881/1186.jpg", "source_mtime_ns": 1785696608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964881/1186.jpg", "source_sha256": "40f1afc0b00922269e99448d615ac164a0c50aefad87dc0b39257eac8a72b42b"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 1028, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+18 February 1956
+3. DATE-TIME GROUP
+Local
+GM T.
+5. PHOTOS
+19/01352
+• Yes
+XX No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Beaulieu,
+Minnesota
+4. TYPE OF OBSERVATION
+XO Ground- Visual
+• Ground-Radar
+• Air-Visual
+• Air-Intercept Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+not reported
+one
+10. BRIEF SUMMARY OF SIGHTING
+Object like basketball, green and
+red slowly descending in flight to
+NE. Disappeared over horizoni WX
+balloons in area.
+12. CONCLUSIONS
+Was Balloon
+•
+•
+Probably Balloon
+Possibly Balloon
+XXWas Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Prabably Astronomical
+Possibly Astronomical
+•, Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+northeast
+11. COMMENTS
+Red and green
+lights disappearing
+over horizon indicate probable
+a/c sighting. Balloons tend to
+have appearance of rising and
+fading into distance. Red and
+green associated with a/c lights
+Duration not reported however
+case evaluated
+as a/c on limited
+data presented.
+ATIC FORM 329 (REV 26 SEP 52)

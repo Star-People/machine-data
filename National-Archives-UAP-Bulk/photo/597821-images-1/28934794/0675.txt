@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:04:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4805890, "source_ctime_ns": 1793370538261787389, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934794/0675.jpg", "source_mtime_ns": 1785688520000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934794/0675.jpg", "source_sha256": "8a52a5a93fe9241c58943bec74350e1bf492c782871a600bca447932de9b0246"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 330, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WORK SHEET
+Code
+*
+Descripti on
+Incident serial
+number
+1.
+Serial No.
+Serial No.
+Day
+Month
+Year
+Day
+Month
+Day
+Month
+irs.
+Min.
+Time units
+Duration
+Insertion
+Observed
+Reported
+Rec'd ATIC
+Time of observa-
+tion Greenwich C.T.
+Duration of
+observation
+Latitude
+Location
+5.
+Longitude
+Cosine latitude
+* Denotes separate code key is needed.

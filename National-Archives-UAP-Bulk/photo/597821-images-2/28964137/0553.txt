@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:04:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4912653, "source_ctime_ns": 1793377526374895782, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964137/0553.jpg", "source_mtime_ns": 1785696736000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964137/0553.jpg", "source_sha256": "0c110a301dac64a484319e2c230447a2e955d092a5194a03145c0d5e3167b5b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 899, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1 Nov 55
+3. DATE-TIME GROUP
+Local
+GM 02/0300%
+5. PHOTOS
+• Yes
+& No
+7. LENGTH OF.OBSERVATION
+approx 15 min
+10. BRIEF SUMMARY OF SIGHTING
+Two small 'objs, saucer shaped, blue changing to
+purple and back to blue, seen for approx 15
+mins. Objs flying erraticly towards the west
+at high rate of speed. Obja were estimated to be
+at an alt of over 50,000 feet.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Corpua Christi, Texas
+4 TYPE OF OBSERVATION
+XO Ground-Visual
+D Ai- Visual
+%. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+civilian (Ex Marine Flyer) & Wife
+8. NUMBER OF OBJECTS
+9. COURSE
+two
+Erratic to W
+11. COMMENTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+INSUFFICIENT DATA FOR EVALJATION.
+ATIC PORM 329 (REV 26 SEP 52)

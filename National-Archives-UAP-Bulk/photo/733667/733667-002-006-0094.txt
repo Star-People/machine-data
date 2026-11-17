@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:45:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 886570, "source_ctime_ns": 1793394338170319800, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-006-0094.jpg", "source_mtime_ns": 1785567356000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-006-0094.jpg", "source_sha256": "1aafc4b037800a377a39626256856f84912ed1417ffeac03391c7b638368cd36"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 325, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NORMAN
+ARNOLD
+700 GERVAIS STREET
+COLUMBIA, S. C. 29201
+May 8, 1987
+FAA
+701 C Street
+Box 14
+Anchorage, Alaska
+Gentlemen:
+99513
+Would you please send us a list of the
+items as mentioned in the attached article.
+Your kind attention to this request is
+most appreciated.
+Sincerely,
+Norman Corned
+Norman J. Arnold
+NUA/cd
+Enclosure

@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-16T23:59:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4094529, "source_ctime_ns": 1793379036179455656, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970639/0454.jpg", "source_mtime_ns": 1785700920000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970639/0454.jpg", "source_sha256": "ddeb779ff290fbd55a935459d62bc3b38240962ec7aa0c072aa8898de814f07e"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 534, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(A) N/A
+(V) NA
+(C) KA-
+(3) H/A
+(F) LOOKED LIKE NORMAL MODE 3 PAINT.
+(G) N/A
+CHO NAA
+CI) NYA
+PAGE INO RAWFON 15 +
+.....
+2. OBJECT STATIONARY
+(A) APPARENT TO BE ON IFF PAINT.
+(B) 42,009 FT. 308 DEG AZIMUTH, 82 MILES
+(C) 308 DEG AZIMUTH, 82 MILES <
+Smith of Wilhen, AFG
+- The madle of y dunts.
+(D) NONE, OBJECT STATIONARY
+(E) NORMAL RADAR CONTACT LOSS
+(F) 34 MINUTES
+3, GROUND ELECTRONICS
+(A) GROUND ELECTRONIC, AN/MPS-7, AN/MPS-14
+(B) N/A
+(C) NYA
+4. 9546Z 19 JULY 57
+(A) 19/35462
+05462-8=9:46 PM
+on 1s anął
+(ic.
+214 ms, 1824•
+(E) NIGHT

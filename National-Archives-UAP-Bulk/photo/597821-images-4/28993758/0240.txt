@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T00:18:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8376922, "source_ctime_ns": 1793385616166500443, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993758/0240.jpg", "source_mtime_ns": 1785748082000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993758/0240.jpg", "source_sha256": "dc0282f22ccd99ab8092361ec3c911e4a045428bae3bc544ad9a7d1ad094d371"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1562, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LN CP 1961 JULY 27/28
+:.S. No. 3570
+8.5. 18 Conse. A 0397 0M. J28, 1651, 10 1a. 3057 N. 1058
+76°55' W, a meteor appeared bearing 90°, altade 45°, It disappeared bedring
+180' altitude 10°. It was a dull greenish color changing to a bright orange before it
+iAm. S.S. Guilking ... A: 0838 G.M.T. Juiy 23, 1961 in lat. 27°55' N, long
+79°41 W., a very bright object, belluved to be a meteor, was observed. It appeared
+bearing 43° altitude 13° and traveled straight down and disappeared in low clouds
+just above the horizon. The object was very bright and lit up the whole vessel. It
+Hoked like a huge ball of fire and had a tmil of abott 45. The object was visible
+about 20 seconds."
+The report from S2 is incomplete. The statement "straight down" might mean a
+perpendicular path but i is contradicted by "a trail of about 45" when h = 18".
+A solution for HI was attempted. First the point of intersection of the bearing was
+used, i.e. B1. As the differences in calculated hechts was then abnormal, two other
+points were chosen, araming small errors in the reported bearing. This is reasonable
+as bearings of 90 and 43 are certainly approximate. The results follow;
+Assumed errors
+Intersection points
+1110₴
+122 = 51 m
+183 = 10 km
+164 # 21 km
+It was impossible to determine H2 as no bearing was given by S2. The fireball mast
+have been at least - 10 magn. Its duration was long.
+This brief discussion is given
+largely to emphasize the extreme importance of accuracy in giving coordinates, includ-
+ing ship's position, and the absolute necessity of giving all of them.
