@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:26:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4940358, "source_ctime_ns": 1793379190060979957, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971461/1184.jpg", "source_mtime_ns": 1785700957000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971461/1184.jpg", "source_sha256": "d6497261e9db275ed660c0200c17eefb1b590b4deebb7ee4eaf18f138b1321f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 828, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+24
+87
+August 1957
+DATE-TIME GROUP
+Local
+GM T.
+30/0037Z
+S.
+PHOTOS
+• Yes
+C:No
+LENGTH OF OBSERVATION
+2 minutes
+10.
+BRIEP SUMMARY OF SIGHTING
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Wichita,
+Kansas
+4. TYPE OF OBSERVATION
+• Ground-Visual
+XB Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Military
+8. NUMBER OF OBJECTS
+one
+An UFO estimated at 25,000 ft with
+speed about
+200 knots
+reported because
+of slow speed and erratic changes in
+direction.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+POX Insufficient Data for Evaluation
+Unk no wn
+9. COURSE
+unknown
+11. COMMENTS
+Sighting has characteristis of
+balloon;
+however, insufficient
+information for
+evaluatin.
+ATIC FORM 329 (REV 26 SEP 52)

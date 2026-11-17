@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:32:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6075602, "source_ctime_ns": 1793359645805935491, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-058-0001.tif", "source_mtime_ns": 1785681480000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-058-0001.tif", "source_sha256": "591228de74c186e459ebb85f5df70804c98566e07a5a861a5c38f1ecd0726b68"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 748, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF FORM 112-PART
+APPROVED 1 JUNE 1948
+UNCLASSIFIED
+(CLASSIFICATION)
+CUUNINT
+UNITED STATES
+REPORT NO.
+(LEAVE BLANK)
+AIR-1-1956Śę
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+Unidentified Flying Object Report (IFCB)
+ORTED ON
+FROM (Agency)
+Macon, Georgia
+REPORT
+DATE OF INFORMATION
+Commander, 35TH JAD, Dobbing APB, Georgia
+2 Aug 1956
+7-3
+3Y (Officer)
+Yal G. Mixon, 1.LT., AO 3032020
+ENCES (Control)
+IMMARY: (Enter
+26 12 2950 р нал 2850 17 300 н
+HQ., 2853RD Air Base Ning, Robbins AFB, Go
+ber, directive, previous report, etc., as applicable)
+tence paragraph. List inclosures
+-Part II.)
+4502D AISS UFOB REPT..
+Macon, Georgia
+Was Astro:
+Meteor
+JOSEPH A. BOYER
+Captain
+USAF
+Director Of Intelligence
+(CLASSIFIERTION)

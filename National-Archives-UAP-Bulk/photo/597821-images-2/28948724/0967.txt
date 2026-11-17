@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:20:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3864684, "source_ctime_ns": 1793373797914848548, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948724/0967.jpg", "source_mtime_ns": 1785697009000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948724/0967.jpg", "source_sha256": "8b555d339e6b76d47e9d94bf5a3106a2a7e558d5ccabd9411b5d3b7399822557"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 630, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AIR TECHNICAL INTELLIGENCE CENTER
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+AUG 2 8 1059
+Mr.
+Ontario, California
+Dear Ir. Irvin:
+Your recant report of unidentified serial phenomena has basn
+recalved by the Air Tochnioal Intelligenoa Center, Inolosed la a
+questionnaire, which, when complated by you and returned in tha
+inclosed, self-addreased onvelope, will aid in standardizing the
+data and will provida a complete record of the occurrence,
+Your intereat in reporting the matter and your public spirited
+dasire to be of parvice are greatly appreciatad.
+Sincerely yours,
+2 Incla
+c/a
+ROBERT E, KENNEDY
+Major, USAT
+Air Adjutant General

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:38:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7442151, "source_ctime_ns": 1793383554724967302, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987254/0922.jpg", "source_mtime_ns": 1785747937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987254/0922.jpg", "source_sha256": "e0b847f893da01b52afe09e710b6ca2f8a767e3189b6a6d4782b968ee763ea70"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 266, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5. Since contrails from high flying aircraft were apparent
+the loud sonic-type boom could have been caused by the air-
+craft passing threugh the sound barrier coincident with the
+appearance of the image.
+
+Mh
+WI PRICE, J
+
+Chief, AFCIN-4D4
+
+4 2 Atch
+n/c
+
+i ae
+
+ee Se

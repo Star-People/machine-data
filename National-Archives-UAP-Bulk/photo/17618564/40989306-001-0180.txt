@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:17:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3366521, "source_ctime_ns": 1793356182043045063, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0180.jpg", "source_mtime_ns": 1785564629000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0180.jpg", "source_sha256": "c6a94e1a39ba001c03f9cba434fa76d0d33b32283a300f791d74db7878519ec3"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1177, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL MODIFIED HANDLING AUTHORIZED
+PAL 5907AM
+LANTERN
+CANDLE
+ML - 90
+BADASPADE
+PILOT BALLOON ML -160
+HYDROGEN
+CYLINDER
+HYDROGEN
+REGULATOR
+ML - 193
+TM 487-VII- 4
+Figure 65. Miscellaneous pilot and sounding balloon equipment.
+Sig C stock No.: 7A1326-3.
+Status: Standard
+SCM-12, Meteorological Observation Set: An as-
+semblage of equipment for making and evalu-
+ating pilot-balloon observations; includes bal-
+loons and accessories, hydrogen generator and
+charges, psychrometer, theodolite, timing and
+telephone set, plotting equipment, and supplies.
+Used by the Field Artillery to make metcorologi-
+cal observations to determine the direction and
+speed of winds aloft and to compute ballistic
+winds.
+CONFIDENTIAL
+Sig C stock Nos.: 7A1200-SCM-12 (general use);
+741200-SCM-12.1 (tropical use).
+Status: Standard.
+TK-17()/FMQ-1, Tool Equipment: Tools for
+field maintenance and repair of Radiosonde
+Receptor AN/FMQ-1(*); packed in two chests,
+weight approx 200lb. U/w, not p/o, Radiosonde
+Receptor AN/FMQ-1(*)
+Sig C stock No.: 7A1856-17.
+Status: Standard.
+TS 29()/FMQ-1, Frequency Meter: Electronic;
+indicates output frequency of Radiosonde Re-
+67
+MODIFIED HANDLING AUTHORIZED

@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:17:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3141450, "source_ctime_ns": 1793365638179359536, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-406-0115.jpg", "source_mtime_ns": 1785565405000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-406-0115.jpg", "source_sha256": "0beeb6b61c8da29c56a225a1fc38a4f9ebf7083b6d377b0ad76d9a721d04fa0d"}
+
+===== PAGE 1 =====
+{"alpha_words": 2, "chars": 64, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "clean-vision"}
+10
+22
+24
+14
+12:10
+GERmUOA
+14000
+3 JULY 54
+8-36 H 573Y
+К-ЗА
+659฿

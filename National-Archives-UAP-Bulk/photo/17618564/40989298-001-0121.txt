@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:02:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 490311, "source_ctime_ns": 1793356018226583709, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0121.jpg", "source_mtime_ns": 1785564583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0121.jpg", "source_sha256": "5ce4bced76e04d20ce523e4a2ceb3ac232d494ff8f477e5e850659e94f215045"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 460, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Maj. Gen. Clements McMullen, Deputy Chief of Staff, Strategic Air
+Command, 1947. General McMullen is alleged to have directed General
+Ramey to cover up the recovery of an extraterrestrial craft and crew.
+After an extensive search, the "Command Correspondence" file for the
+period was located. This file contained privileged and classified
+information of the highest order between McMullen and Ramey-it
+contained no information to support the outrageous claim.

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:11:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1686035, "source_ctime_ns": 1793389538596781650, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541699/0565.jp2", "source_mtime_ns": 1785808368000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541699/0565.jp2", "source_sha256": "445bc27b5b0377edbec4f72fd32f2ade7729f507d466dbfaa23f7171cd14dd06"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 477, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICAL FILE COPY
+Ocire of Record
+FTD (TOEW)
+Wright-Patterson AFB, Ohio 45433
+17. January 66
+Ус -
+Dallas, Texas
+Dear Mr-
+Reference your unidentified observation of 4 August 65. The
+information which we received was not sufficient for svalu-
+ation.
+Request you complete the attached PID Tors 164 and
+return it in the envelope provided.
+we wish to thank you for reporting your obserration to the
+Air Force.
+Sincerely,
+HECTOR QUINTANTIA, Jz., Major, USAP
+Chief, Project Blue Book

@@ -1,0 +1,151 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:17:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2909443, "source_ctime_ns": 1793394208027125060, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0121.jpg", "source_mtime_ns": 1785567337000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0121.jpg", "source_sha256": "ba052f1b3d8d3988b055873df5677eaa7b5d2f320b33d9770268af513da037d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 397, "chars": 2934, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Federal Agencies Digitization Initiative Still Image Working Group - August 2010
+- NOISE -
+Engineering
+Metric
+Derivate
+Relate
+descriptive
+term
+Evaluation Criteria
+(units)
+• =Primary •=Secondary
+ossible failure
+causes
+- Radiometric Distortion -
+definition: The deviation of any given spatially imaged point from an aim radiant energy value relative to the input object.
+Noise Power Spectrum (NPS)
+Total Noise
+Definition: A spatial frequency descriptor of the sources of radiometric noise of an imaging
+component or system
+Chromatic Noise
+Definition: The inter-color channel radiometric deviations
+relative to an identified aim
+Temporal Noise
+Random
+(stochastic)
+Definition: The root
+mean square deviation
+( std. deviation) of both
+temporal and fixed
+pattern noise for a
+single color channel
+Banding
+Streaking
+(deterministic)
+Definition: One
+dimensional
+patterns
+Fixed Pattern Noise
+Defects
+(stochastic)
+Non-Uniformity/
+Definition: point or
+Shading
+dusters of
+(deterministic)
+defective or poorly
+Definition: A deviation in
+corrected pixels
+Color Uniformity
+(deterministic)
+Definition: A difference in large
+area uniformity/shading
+between color channels
+Color SFR uniformity
+(deterministic)
+Definition: The differential
+spread of light between color
+channels.
+over a capture device's
+field of view; usually with
+lower illumination near the
+field's outer extent.
+Temporal noise
+Grain
+- Hot, Cold, or
+Shot noise
+Dead Pixels
+- Vignetting
+- Relative illumination
+Wounded Pixels
+Read noise
+White noise
+Blinkers
+•: RMS deviation of
+pixel values in terms of
+selected metric(i.e.,
+counts, density,
+Luminance) over an
+dentifled region of
+nterest
+units: counts, density,
+•: The relative
+amount of
+variance or noise
+power that a
+selected spatial
+frequency band
+contributes to
+the total noise
+units: TBD
+•: The number or
+size of defects
+per unit sensor
+defects/unit
+sensor area
+- Rainbows
+- Colored edges
+- Color Bleed
+- Fringing
+•: The peroent deviation
+•: The percent deviation of
+of several large area
+luminance measurements
+several large area chroma
+measurements over the field of
+over the field of view
+view relative to the average of
+elative to the average of
+those chroma measurements.
+those measurements.
+units: % Luminance
+units: % chroma difference
+(unit less)
+difference (unit less)
+•: The difference in SFR
+response between selected
+color channels,
+units: % deviation in SFR
+response relative to the
+highest measured SFR
+(unit less)
+Aggressive digital
+signal amplification or
+High ISO speed
+High throughput
+Poor senso
+calibration
+dust/dirt on
+linear array
+poor sensor
+dust on sensor
+poor sensor
+abrication
+ygiene
+poor senso
+calibration
+- poorly designed optics
+non-uniform lighting
+• Chief ray angle (CRA)
+nismatch between optics and
+sensor
+- Non-uniform color coatings at
+sensor fabrication.
+- Poor optical design or
+performance
+Technical Guidelines for Digitizing Cultural Heritage Materials: Creation of Raster Image Master Files
+11

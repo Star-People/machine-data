@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:15:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1796319, "source_ctime_ns": 1793392591494559698, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569011/0491.jp2", "source_mtime_ns": 1785808671000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569011/0491.jp2", "source_sha256": "2aaaa35a4b0d211a0d6767a02224fde9dbd7f04d4e5c0aeec06bf7984f008faf"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 853, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Miss& Laks,
+mime.
+67
+22/49 23/69172
+SEP 2 7 1967
+TET/UTO (MaJ Quintan1l1a/70916/mhs/26 Sep 67)
+UFO Observation, 22 August 1967
+Bly, Minnesota
+55731
+Reference your observation of August 22, 1967 which you reported to
+the Air Force.
+We appreciated your note containing your explanation.
+The Aerial Phenomena Branch did perform an investigation on your
+sighting and found that you probably observed the star Capella.
+At
+the time of your sighting, Capella would have been on an zinuth of
+approximately 15 degrees, at an elevation of six degrees. Capella,
+because of its brightness, has often been misinterpreted for an
+unidentified flying object (UFO). Again, we appreciated your note
+in which you expressed your comments on the now identified flying
+object (IFO).
+TDET/UFO OFFICIAL FILE CY
+CES C. MANATT, Colonel, USAF
+Hrector of Technology and Subsystems

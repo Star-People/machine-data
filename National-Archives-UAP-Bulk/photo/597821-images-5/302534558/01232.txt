@@ -1,0 +1,116 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:06:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 993846, "source_ctime_ns": 1793388930321970938, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534558/01232.jp2", "source_mtime_ns": 1785808066000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534558/01232.jp2", "source_sha256": "0069c8a271d81b4080b4678b181b47d26d0e9dd66a9d67508f89cf74a807efa1"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 776, "method": "ocr", "page": 1, "variant": "plain-vision"}
+610-12
+Jat on
+at. and
+of Stotion
+pe of
+od
+yo of bolloon / ¿ c
+Slant
+range
+(m.) (yd's.)
+Piba!
+ebpre
+216
+350
+414
+670
+612
+QRO
+Rawin
+ht. above
+surface
+(m.)
+2
+02:1
+BUSY 1I ASH
+Elevation angle®
+Observed
+Smoothed
+21.7
+20.60
+17.7
+201
+21.2
+Distance from
+observation
+point
+(m.)
+880
+1785
+2735.
+3510
+4085
+U.S. DEPARTMENT OF COMMERCE
+WINDS-ALOFT COMPUTATION SHEET
+(LAND STATION FORM)
+WBAN-20
+Azimuth
+angle
+215.5
+219.3
+227.4
+233.-
+29,5
+Wind
+Direction°
+360°= N..
+sfc. 2-12-
+219
+2233
+1242
+1265
+273
+Speed
+(m.p.s.)
+7.2
+15.0
+15,5
+15,1
+112,9
+11.4
+3300
+11
+12
+13
+14
+15
+17
+18
+10
+11
+12
+13
+14
+15
+18
+Year
+Month
+actual
+Day
+UCI
+standard)
+1900
+SUl
+12
+Scheduled
+C.M.T
+76250!
+ana
+Asconsion NoSYS
+Orientati
+360° = South
+Rowinsonde Time-Attitude Data
+act
+Altitude
+(m., m. s.1.)
+Elopse:
+time
+(min.)
+5
+10
+25
+75

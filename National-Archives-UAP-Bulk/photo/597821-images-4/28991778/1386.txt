@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:38:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7289043, "source_ctime_ns": 1793385083189921357, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991778/1386.jpg", "source_mtime_ns": 1785748280000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991778/1386.jpg", "source_sha256": "4574befa32002dd29d78cd027e157c526315d8703adcc375b6109df824747b3a"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 555, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
+NANN
+AF IN : 41193 (9 Mar 61)
+Page 3 of 3
+PAGE THREE RJWZSBA 5
+PANETTE, DONALD R. TSGT 963RD AEW/C SQ ENGINEER MATURE
+6500 HRS AGE 31
+G(1) CUMULUS 4/10 TOPS 12,000'
+(2) NONE
+(3) NONE
+(4) ZERO TO UNLID
+(5) 4/10
+(6) NONE
+(7) - 1 DEGREE C TRUE
+H
+NONE
+NONE
+NONE
+J
+K
+CHIEF INTELLIGENCE DIVISION COMMENTS: THIS REPORT TENDS
+TO CONFIRM EARLIER REPORT BY ETHAN 25. IT APPSARS THAT
+A SPACE VEHICLE DID BURN OUT WITHIN THE AREA BETWEEN
+ETHAN 25 AND ETHAN 42.
+BT
+09/02 1ØZ MAR RJWZSBA

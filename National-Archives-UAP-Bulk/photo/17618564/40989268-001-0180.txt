@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:40:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17822781, "source_ctime_ns": 1793355739439453992, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0180.jpg", "source_mtime_ns": 1785564513000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0180.jpg", "source_sha256": "f2b8595e5eec7d2452fda0b91c1ff2d60eaa8cdf28d3b1b9137669dd6e7bd4b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 574, "chars": 3814, "method": "ocr", "page": 1, "variant": "plain-vision"}
+346
+the diurnal temperature cycle. If the change in effective balloon temperature is
+(AT) during the one-day period, and we define
+where R* is the gas constant (8.3 × 10i egs units), Ma is the molecular weight of
+the atmosphere, and K
+by its density (gm/ cm3, is the tensile strength of the material (dynes/ cm?) divided
+approximately for the superpressure case:
+w = 0.2 (1-5-10x).
+It is difficult to estimate (AT) for the Mars environment, since it depends on
+the radiative characteristics of the balloon film, and the ambient air temperature,
+as well as the day and night radiation environments. However, suppose that AT is
+about 20°C. Then for K = 10° cgs units,
+w = 9.2 10.85 - 2.
+The balloon volume is readily computed once & is given, since
+Our procedure will be to compute w for interesting combinations of payload
+and density, then using the above implicit relations, compute corresponding values
+for S. Finally, using S, we estimate the required balloon volume and the total mass
+and volume of the balloon system.
+But first we must discuss balloon materials and the atmospheric densities we
+expect to find. We will assume that the balloon fabric has an area density of
+0.002 gm/ cm' corresponding to 0.5-mil Mylar. Research into super-light film
+materials may reduce this value. But it should be kept in mind that the film used
+ultimately must be (1) of very high reliability, (2) unaffected by solar ultraviolet,
+(3) unaffected by the very low temperatures that may be encountered in the Mars
+atmosphere - as low as -150°C, (4) capable of being positively sterilized -
+347
+preferably by dry heat at 135°C for 24 hours, (5) able to be stored in space for
+8 months, (6) able to be unfolded rapidly and reliably without hanging-up.
+At the time of writing The Physics of Balloons and Their Feasibility as Explora-
+tion Vehicles on Mars' (Greenfield and Davis, 1963), it was thought that the atmospheric
+density near the surface of Mars would be found to be around 8 × 10-5 gm/ cm? with
+temperatures around -70° to -20°C -- conditions resembling those at about 67,000
+feet in the earth's atmosphere. However, the recent interpretation of spectroscopic
+data (Kaplan, Munch and Spinrad, 1964) suggests that the surface level density is
+probably closer to 2 X 10-5
+gm/ cm 3 - - corresponding to conditions at about 96,000
+feet in the earth's atmosphere. For balloon operations we will consider three
+densities in the Mars atmosphere: 8.0 × 10-5
+gm/ cm?, which corresponds approxi-
+mately to ground level under the old atmospheric estimates; 2.0 × 10-5
+gm/ cm3,
+which may be no higher than just off the ground; and 1.0 × 10-5 gm/ cm?, which
+should occur no lower than about 10 km (33,000 feet) in the Martian atmosphere.
+(These densities correspond to 68,000 feet, 97,000 feet and 110,000 feet on earth.)
+It should be emphasized that our ideas about the atmosphere of Mars are very un-
+certain at present. However, even if balloons are used eventually as a part of the
+Mars exploration program, they will almost certainly not form a part of the first
+instrument package to land on the planet. Since the first package will have as one
+of its primary scientific missions the determination of the pressure and density in
+the Martian atmosphere, we can expect that a balloon designer will have this infor-
+mation available when he writes his final report. For the present, we must use
+the best information we have, uncertain as it is.
+We will consider payloads of 1 kg for the superpressure balloon, and of 10 kg
+and 100 kg for the equal-pressure balloon at these three densities. Table 1 shows
+estimated values for m.p., V.r and Vp.
+Table 1.
+Density (gm/ cm3)
+8 × 10-5
+Superpressure
+1 kg
+11 kg
+0.8 cu ft.
+1 × 103 cu.ft.
+10 kg
+67 kg
+4.6 cu.ft.
+5.7 × 103 cu.ft.
+Equal-Pressure
+100 kg
+550 kg
+40 cu.ft.
+4.9 × 104 cu.ft.

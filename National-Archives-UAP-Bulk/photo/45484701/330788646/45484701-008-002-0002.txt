@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:39:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7670369, "source_ctime_ns": 1793365267941725722, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788646/45484701-008-002-0002.jpg", "source_mtime_ns": 1785684938000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788646/45484701-008-002-0002.jpg", "source_sha256": "d21990268c349aae4f4b26c71ae77795e4b2898e8460184e73b8cb5269538773"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1162, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MESSAGE
+RESTRICTED
+SECURITY INFORMATION
+DEPARTMENT OF THE ARMY
+STAFF COMMUNICATIONS OFFICE
+RESTRICTED
+ROUTINE
+PARAPHRASE NOT REQUIRED
+NO UNCLASS REPLY OR REF
+IF DTG IS QUOTED
+FROM:
+CINCARIB QUARRY HEIGHT CZ FROM J2
+TO :
+CSUSA WASH DC FOR G2
+NR
+CINC 63099D
+Mymsg CINC 63025D DTGạẠ
+Nov. Miami Herald
+Drew Pearson column 20 Dec carried detailed rept of 2 flying
+saucers over CZ. This rept was picked
+up and published in
+Panamanian papers: No rpt no press release was
+locally and J2 intentionally
+used term
+unidentifieo
+rather than saucer
+in confidential dispatch.
+Dirintel CAIRC states first rept to Dept AF was made in
+clear 20 Nov via TWX. Pearson art indicates
+no rpt no
+official release of news hence possible
+and time delay indicate leakage not rpt not
+forwarding copies of local news art via mail.
+Teak jocal.
+Investigation
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DI
+BY
+KURT K. KUNZE, Capt, USAF
+Historiani
+8 DEC 1975
+DATE
+NOTE:
+63025 is DA
+ACTION: G2
+INFO : AF, CI
+DA IN 220251
+(26 NOV 52) 62
+OCS FORM
+1 AUG. 51
+375-1
+REPLACES OCS FORM
+375-1, 1 MAR 51, WHICH
+MAY BE USED.
+(22 DEC 52)
+UNCLASSIFIED
+RESTRICTED
+cib/9
+Declassification Authority: NND 923007

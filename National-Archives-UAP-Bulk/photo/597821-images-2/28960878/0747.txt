@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:28:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5128535, "source_ctime_ns": 1793376477093082122, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960878/0747.jpg", "source_mtime_ns": 1785696628000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960878/0747.jpg", "source_sha256": "fc8d6b71da31069eca84ff9381cd3e5689273d675d033c677601c221d9acc3c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 585, "method": "ocr", "page": 1, "variant": "plain-vision"}
+B. SURFACE
+DEGREES/200
+KNOTS 9
+6000 FEET
+DEGREES/275
+10,009 FEET DEGREES/285
+KNOTS 25
+KNOTS 40
+16,00 FEET DEGREES/275
+KNOTS 60
+20,299 FEET
+DEGREES/275
+33,200 FEET DEGREES/275
+50,000 FEET DEGREES/275
+80,020 FEET DGREES/270
+KNOTS 80
+KNOTS 83
+KNOTS 85
+KNOTS 50
+C. CEILING-CLEADO
+D. VISIBILITY-12 MILES
+E. CLOUD COVER-NONE
+F. THUNDERSTORMS- NONE
+3. NONE
+9. SHKN
+17. NONE REPORTED
+11. OPERATIONS OFFICE MAXVELL FLIGHT SERVICE CENTER MAXWELL AFB
+ALABAMA.
+12. NONE
+REMARKS:
+NO CONTACT IS AVAILABLE WITH THE REPORTING AGENCY TO OBTAIN
+A DETAILED REPORT.
+SIGNED GOLINSKY END
+15/83/22 JAN JESYQ

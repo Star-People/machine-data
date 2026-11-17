@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:17:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3328978, "source_ctime_ns": 1793384292655648100, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989845/1040.jpg", "source_mtime_ns": 1785748403000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989845/1040.jpg", "source_sha256": "c6fc772f3a894b0aa6e050621027a715fac6a20cbea95362e4b82aea1780a69c"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 642, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN: 31705 (25 Oct 60)
+0 - 500012
+FM CGAIRDET SJUAN
+TO COMGANTS
+Вт
+UNCLAS X UF2G CGN 1313 REPORTS UNUSUAL PHENOMNA CROSSING TRACK AT
+2325Z X POSIT 15¿«48N 62-51W X MOVING FROM SURFACE TO SKY X PILOT
+REPORTS THIN MUSHROOM OR CANOPY SHAPED CLOUD OF MIST AND WATR
+FROM SURFACE TO ABOVE 6500 FT WITH BRILLIANT WHITE LIGHT MOVING UP
+THRU CLOUD TO ABOUT 20202 FT AND DISAPPEARING ON COURSE 020 X
+CLOUD DISSIPATED SHORTLY AFTER LIGHT PASSED THRU
+ВТ
+CFN UF2G 1313 23257 15-48N 62-51W 6500 20002 022
+25/0010ęŘ
+- NOTE: Advance copies delivered to CTN and O0P-CP
+2 of 2

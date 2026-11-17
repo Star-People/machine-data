@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:03:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 807668, "source_ctime_ns": 1793356034972719095, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0142.jpg", "source_mtime_ns": 1785564588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0142.jpg", "source_sha256": "1d4628b9b57dd16efa7ba359b42f0d829bb839049216d3ac97f0f89010c90622"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 841, "method": "ocr", "page": 1, "variant": "plain-vision"}
+This relationship is expressed as:
+(5)
+Ap = Az (82 loir
+(1-8)
+go and espotive.
+Mg, Mo& Ma are molecular weights of lifting
+Since, for a full balloon, Az
+is constant at any altitude, and
+B (for our discussion) is a constant:
+ap
+(6)
+dz. air
+The mass rate of flow is equal to the density of the lifting
+gas multiplied by the volumetric rate of flow:
+(7)
+L = Qdg
+de lair ag
+Since the number of openings will not change with altitude,
+equation (7) expresses the relationship for mass rate of flow
+from e full balloon for any altitude. The leakage at any
+altitude may be expressed as a function of leakage at sea
+dz lair - 2
+dz
+ак-о
+As an example, let us compere the leakage rates of a lifting gas
+through a full balloon at sea level, at 40,000 feet and at
+100,000 feet.
+Altitude
+(dp/dz) air
+10,000ł
+100,000
+1880
+1013
+288K
+188
+218K
+10.9
+218R
+-42-

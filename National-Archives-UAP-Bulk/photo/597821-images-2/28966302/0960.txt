@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:26:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4901114, "source_ctime_ns": 1793377987269963064, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966302/0960.jpg", "source_mtime_ns": 1785696757000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966302/0960.jpg", "source_sha256": "a08e505f6eac981a5fbfcaf105d2386a969897aab98e910d6e6a79f99723f7aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 56, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "clean-vision"}
+0187
+Nutti
+IN
+23
+23 JUL 1956.
+10 17 :
+PCI
+44 pra
+16: 15

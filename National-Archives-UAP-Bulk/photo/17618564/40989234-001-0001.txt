@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:33:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6320366, "source_ctime_ns": 1793354880665553182, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989234-001-0001.jpg", "source_mtime_ns": 1785564356000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989234-001-0001.jpg", "source_sha256": "970560492994e094a2bf2a6930e89406567202c6cfdbcae8255a3b8305aabd78"}
+
+===== PAGE 1 =====
+{"alpha_words": 477, "chars": 3052, "method": "ocr", "page": 1, "variant": "plain-vision"}
+STATEMENT OF WITNESS
+Place : Grants, NM
+Date: 20 June 95
+L, Raymond A. Madson, Lt Col, USAF (Ret), hereby state that James McAndrew was
+identified as a Lieutenant, USAFR on this date at my place of employment and do hereby,
+voluntarily and of my own free will, make the following statement. This was done without
+having been subjected to any coercion, unlawful influence or unlawful inducement.
+I was born, raised, and presently reside in New Mexico. I graduated from New Mexico
+A&M College in 1954. I entered the Air Force in 1955 and was assigned a short time later
+to the Aero Medical Laboratory at Wright Patterson AFB, OH. At the Aero Medical
+Laboratory I was assigned to the Escape Section as a project officer and test parachutist.
+During this time I also had extensive participation in various aspects of the space program
+and worked on the highly classified U-2 project. I served a tour of duty in Alaska and at
+the School of Aerospace Medicine at Brooks AFB, TX, before being reassigned to the
+Aero Medical Laboratory at Wright Patterson. I retired in from the Air Force in 1979 and
+I am currently and Environmental Specialist for the State of New Mexico.
+The first project that I was assigned at Wright Patterson was Project 7218, later changed to
+Project 7222. This project was first known by the name High Dive and then was known as
+Excelsior. The object of this project was to study the free fall characteristics of
+anthropomorphic dummies from balloons at altitudes of 50,000 to 100,000 feet. Following
+satisfactory dummy drops, Capt Joe Kittinger made a series of high altitude parachute
+jumps that culminated with a jump from 102, 800 feet.
+I assumed the duties of Project Officer for the dummy drops in the spring of 1956. I made
+numerous trips to Holloman AFB, NM, the site of the drops, from 1956 until the end of
+the project in 1959 (dummies were also dropped for this project at Wright Patterson AFB
+by personnel from the Parachute Branch). I wrote two technical reports that described the
+project in considerable detail. The type of anthropomorphic dummy used primarily was
+manufactured by Alderson Laboratories but we also used Sierra Manufacturing type
+dummies. Both of these dummies are shown in the technical reports. The Alderson
+dummy had facial features that were not life-like and ears that were not well defined. The
+dummies were outfitted with flight suits of various colors, fuchsia, olive drab, and sage
+green (a shade of gray). We chose the Alderson dummy because it was relatively
+inexpensive as compared to the Sierra dummy.
+We encountered considerable difficulty dropping the dummies from the balloons. I
+designed the rack that suspended the dummies, two at a time, from the balloon. On
+numerous occasions the dummies were fouled during the release sequence and the dummy
+rode a "streamer" all the way to the ground. Other times malfunctions occurred that
+caused the two dummies and the entire rack assembly to descend to the ground as one
+package. Both of these instances are described in the technical reports.

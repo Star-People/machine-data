@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:04:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 835221, "source_ctime_ns": 1793390220297420719, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547792/0488.jp2", "source_mtime_ns": 1785808499000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547792/0488.jp2", "source_sha256": "d2a93ac34e16c78a677aa68594e8a51df2d4d87317a848c61cc410056d5adf6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 451, "method": "ocr", "page": 1, "variant": "plain-vision"}
+In conclusion, it is unfortunate that so much presa and public attention
+was paid to the Michigan sightings which, as far as UFO reports go, do not
+compare in substance or in competent witnesses, to many other cases in the
+file which got very little attention. But at least, in the Michigan cases
+there was a possible fairly obvious physical explanation at hand; with the
+others, which remain unidentified, this does not appear to be the case.
+END
+19

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:30:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5508613, "source_ctime_ns": 1793377522063414596, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964119/0538.jpg", "source_mtime_ns": 1785696708000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964119/0538.jpg", "source_sha256": "c0531281fb629fa283e00c046cf70b00eb6015d62f578b68ccde83ef2f3e2917"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 415, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Nov 55
+Letter from Naturalized US citizen of Hungary revealed that
+"The so-called flying saucers(rockets) for several weeks kept
+the people in a nervous state. These very fast speeding flyers kept
+scientific groups very busy. I'm sure you heard already from the
+papers, 12 thousand km per hours was estimated on these flyers."
+Flight was estimated to have been from the direction of Moscow toward
+Budapest.
+1003436

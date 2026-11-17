@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:37:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7252689, "source_ctime_ns": 1793383914999965301, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988277/0386.jpg", "source_mtime_ns": 1785748424000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988277/0386.jpg", "source_sha256": "a562782784c09e5ee8a6bddce93932190f2ccb1cfbcd4077e9a03d8be0702d6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 415, "method": "ocr", "page": 1, "variant": "plain-vision"}
+VER A
+WEATHER
+CLEAR AND
+VICIMILITY UNLIMITED
+FORT FROM
+FOLLOVS:
+0,922' 210 DEGRIS
+KNOTS
+23,3991 213
+13
+22,0221
+230
+43,0221 232
+52,372'
+H. NO
+UNUCUAL CONDITION
+23
+15
+PRESENT.
+NTERCEPTION
+J. NO AIR TRAFFIC REPORTED.
+IC ACTI
+ITY REPORTED AT AIRFIELD
+WITHIN ONE HALF ẠILE.
+I. REPORT RICELES DY MAJOR CYRU, DET 1, BAN FRANCISCO
+AIR DEPENDE PLOTOR, SH
+MIOR CO
+TER, MATITOR AFE, CALIE
+2XT. 7117.
+1. ..
+21/217SS AUC R6V738

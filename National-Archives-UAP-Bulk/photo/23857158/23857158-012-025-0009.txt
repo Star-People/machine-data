@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:18:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3399918, "source_ctime_ns": 1793360051125898174, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-025-0009.tif", "source_mtime_ns": 1785681612000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-025-0009.tif", "source_sha256": "b820e4c65b24769bc23e34dfb6296844bfd4927382eba11baf8bb72a6cbd3a7f"}
+
+===== PAGE 1 =====
+{"alpha_words": 250, "chars": 1706, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+DRAFT
+DRAFT
+DRAFT
+COMMENTS of Approving Officer:
+1. The following additional information was revealed by the Investigating
+Officer upon request by this headquarters:
+a. Pibald balloons are released at 03007, 0900Z, 1500Z, and 2100Z daily
+from both civil and military agencies in the New York City area. LaGuardia and
+Idlewild Airports release this type balloon at the above times.
+b. These balloons are three feet in diameter with balloon color
+dependent upon sky conditions at the time of release. On a clear day, as was
+18 Jan 56 in the New York City area, white pibald balloons were released.
+2. It is the opinion of this headquarters that this sighting was caused
+by a pibald type balloon released at LaGuardia Airport (GeoRef GJBL 4204) at
+18/2100Z January 1956. The following items are given in support of the above
+hypothesis:
+a. LaGuardia Airport is located fifteen (15) miles north-northwest
+of the SCURCE's home. Winds at the time of the sighting were from the north
+and northwest, thereby carrying the balloon released at LaGuardia Airport at
+18/2100Z Jan 56 to a position west of the observer.
+b. At 2140Z, the time of the sighting and forty (40) minutes after
+the release of the pibald from LaGuardia, it has been computed that the subject
+balloon would have been approximately eight (8) miles west of the observer and
+at an altitude of 22,000 feet.
+c. From the above figures we can obtain the angle of elevation of the
+balloon as seen from the SOURCE'S location as follows:
+(Balloon)
+22,000
+(Location of SOURCE)
+tan a =
+22, 000'
+42,040
+tan x= .5208.5208
+a = 27° 38"
+8 Miles
+(42, 40)
+The SOURCE estimated the object to be at an angle of elevation of 30°.

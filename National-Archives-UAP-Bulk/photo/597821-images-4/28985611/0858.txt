@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:25:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4631441, "source_ctime_ns": 1793382835289202774, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985611/0858.jpg", "source_mtime_ns": 1785748095000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985611/0858.jpg", "source_sha256": "d7e910b17e7a6917b7fbf495a179bb37a5c64152ec68cf128baec4f5c5c3ebdc"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 544, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO ROWZBG 63A
+(9) APPEARED LIKE A MISSILE OF SOME SORT
+(1) BRIGHT FLAME
+(2) 20 TO 23, 000 FT LEVEL
+(3) SAME
+(4) SOUTHWEST DIRECTION STEADY FAST MOVING
+(› SOUTHWEST VERY RAPIDLY
+(6) ABOUT SECONDS
+C.
+(1) TWO CIVIL AIRLINES SPOTTED WHILE AIRBORNE RADAR SITE SHOPWORN
+UNABLE TO PICK-UP
+(2) NONE USED
+(3) UNITED AIRLINES FLIGHT 140 TO DENVER AT 17,000 FT TRANSWORLD
+AIRLINES FLIGHT 207 TO LAS VEGAS NEVADA AT 13,000 FT
+D .
+(1) 0530Z 4 JAN 60
+(2) NIGHT
+OVER MORMON MESA NEVADA
+(1) PILOT CREW AND PASSENGERS ABOARD UNITED AIRLINES FLIGHT 140 TO

@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:25:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4860445, "source_ctime_ns": 1793378586831872432, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968488/0004.jpg", "source_mtime_ns": 1785696739000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968488/0004.jpg", "source_sha256": "aec9e8b7ccd991d4e0bd04b1f45ec8767e6dd43d1102eb795bf0470f976775a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 1086, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112
+APPROVED 1 JUNE 1948
+COUNTRY
+Mitress
+(CLASSIFICATION)
+REPORT NO.
+(LEAVE BLANK)
+United States of America
+3-56
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+Unidentified Flying Object Report
+AREA REPORTED ON
+Washington, D. C.
+DATE OF REPORT
+18 December 1956
+PREPARED BY (Officer)
+Major James
+E. Geurta
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+None
+FROM (Agency) Director of Plans and Programning,
+Headquarters Command, USAF, Bolling AFB
+DATE OF INFORMATION
+EVALUATION
+28 November 1956
+Uneval uated
+SOURCE
+SUMMARY: (Enter concise summary of report. Give significance in final one-
+ice paragraph. List inclosures at lower left. Begin text of report on AF Form 118-Part II.)
+The following information is reported in accordance with AFR 200-2, Unidentified
+Flying Objects Report, dated 12 August 19541
+1. GEURTZ
+Major, USAF
+assistant Director, Plans
+and Programming
+INCLS.
+DISTRIBUTION BY ORIGINATOR
+1 cy - Dir of Intelligence, Headquarters USAB, Washington 25, D. C.
+1 cy - Chief, Air Technical Intelligence Center, Wright-Patterson AFB, Ohio
+~
