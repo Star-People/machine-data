@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:52:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6367041, "source_ctime_ns": 1793362848456738600, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0129.jpg", "source_mtime_ns": 1785685064000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0129.jpg", "source_sha256": "a8a66527ada43b98d0e9b08e6b8c089d3a8d440c1d48e95ce9fe1502f90392a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 339, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Ltr, DO #1, File No. 1D-OSI 24-0, dated 5 Oct 50, Spot
+Intelligence Rpt, subj: Unconventional Aircraft
+2 Incls:
+AMC Routing and Rcd Sheet
+subj: Sighting of Unidentified Airborne Object
+(1 cy)
+Rpt of Sighting of Unidentified Airborne Object
+by JOSEPH V. CONNELLY
+(1 cy)
+Copy
+not attached
+for FLLE
+- 2
+Declassification Authority: NND 923007

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:56:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7132585, "source_ctime_ns": 1793383373343122619, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986847/0558.jpg", "source_mtime_ns": 1785747939000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986847/0558.jpg", "source_sha256": "0dd9574df24a31d7a45c983f0a51a24c3dbb11177d9bc0c32d8b262dc400afa5"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 599, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10-3d/Tacker/jt/72291
+21 June 1960
+Dear
+This is to acknowledge your recent letter regarding
+the sighting of an unidentified flying object.
+Your letter contains insufficient information for a
+valid conclusion. Therefore, request you complete the
+attached Air Force Questionnaires in regard to the sight-
+ing and forward the completed paper to the Aerospace Tech-
+nical Intelligence Center, Wright-Patterson Air Force Base,
+Ohio.
+Sincerely,
+Inclosure
+LAWRENCE J. TACKER
+It. Col., USAF
+Public Information Division
+Office of Information
+Ottava, Ontarion
+0e7:
+4880 00и 51 І 02
+10-3d comeback
+10-1
+reader

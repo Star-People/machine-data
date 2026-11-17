@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:02:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8707391, "source_ctime_ns": 1793364774641867770, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0076.jpg", "source_mtime_ns": 1785684928000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0076.jpg", "source_sha256": "c16d514ff989074c1cda0cb7a7de6ecd919122e67c304f894bd9a82e8227415a"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 179, "method": "ocr", "page": 1, "variant": "plain-vision"}
+-Casg No. 24-37
+Apparent Size
+Direction of
+Flight North
+Altitude - Estimated, 4,000 to 5,000 feet.
+Speed
+- Unknown
+Color
+- Aluminium
+Inol 1
+Declassification Authority: NND 923007

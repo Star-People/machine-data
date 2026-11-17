@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:21:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 295066, "source_ctime_ns": 1793356027497752878, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0049.jpg", "source_mtime_ns": 1785564587000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0049.jpg", "source_sha256": "d57bc3190c44ccebb600d855dc761345c0a2e49a702683ea0f649d598dbe25a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 78, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Appendix 6
+
+Long Range Sound Transmission
+in the Atmosphere
+by Maurice Ewing

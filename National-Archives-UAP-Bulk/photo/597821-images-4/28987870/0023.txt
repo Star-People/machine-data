@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:50:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5388949, "source_ctime_ns": 1793383785087372759, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987870/0023.jpg", "source_mtime_ns": 1785747886000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987870/0023.jpg", "source_sha256": "95293bceb4f9816be7b8dae0d332e97ec60210bede022ae44a46a78263d9f8f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 847, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+24 Jul 60
+3. DATE-TIME GROUP
+Local _
+2045
+GM T.
+25/01452
+S.
+PHOTOS
+• Yes
+PROJECT 10073 RECORD CARD
+2 LOCATION ESCUMBUS, ONi:
+Dayton, Ohio
+TYPE OF OBSERVATION
+A Ground Visual
+• Air Visual
+• Ground-Roder
+• Air-Intercopi Radar
+SOURCE
+Civilian
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+000
+Was Aircraft
+Probably Aireraft
+Possibly Aireraft
+020
+Was Astronomical
+Probably Astronomical meteor
+Possibly Astronomical
+7. LENGTH OF.OBSERVATION
+8. NUMBER OF OBJECTS
+9. COURSE
+Other.
+Insufficient Dote for Evaluation
+2-5 sec
+one
+E-SE
+Unknown
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+Multi sightings of object described as brighter
+Multiple sighting of meteor.
+than star and throwing off sparks.
+Color varied
+some biue
+some green,
+some orange.
+Muved at
+constant
+peed and broke up in show
+er of sparks,
+ATIC PORM 329 (REY 26 SEP S2)

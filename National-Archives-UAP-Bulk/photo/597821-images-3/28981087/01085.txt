@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:45:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4243326, "source_ctime_ns": 1793381644520905494, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981087/01085.jpg", "source_mtime_ns": 1785700976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981087/01085.jpg", "source_sha256": "8ed5933e39bb2e78e0a1a89b15eec509653f1fd445270ed298d43476aadb8a29"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 914, "method": "ocr", "page": 1, "variant": "plain-vision"}
+retiren
+11:15-11:20 201/00
+20 Nor 57
+16 December 1958
+Dear Mr!
+This is to adknowledge and thank you for your letter of
+22 November 1958 concerning an unidentified flying object you
+saw on 20 November on the beach of the Persian Gulf.
+The infornation received in your letter was limited but
+it is the opinion of the Air Technical Intelligence Center that
+the phenomena vieved by your group was a fireball. A fireball
+or bolide is a meteor of uncommon brightness, by definition
+brighter than minus three magnitude.
+Fireballs often leave a short trail, are sporadic in their
+origin and often change color in flight.
+A study of the meteors
+pointe out the infrequency of their occurence. Experienced
+astronomers rarely see more than one in their lifetime.
+Thank you for your interest in this matter.
+Sincerely,
+LAVRENCE J. TACKER
+MAjor, WEAP
+Executive Officer
+Public Information Division
+Office of Information Services

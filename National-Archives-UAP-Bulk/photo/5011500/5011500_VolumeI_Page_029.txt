@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:21:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 538375, "source_ctime_ns": 1793365590104766088, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_029.jpg", "source_mtime_ns": 1785565396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_029.jpg", "source_sha256": "950fcbd6ab60ec260269a3fc3746d7570ee0c2e046c88730e430a94cbb9f4897"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1158, "method": "ocr", "page": 1, "variant": "plain-vision"}
+28
+01:12:22
+01:12:45
+01:12:51
+01:13:01
+01:17:49
+01:17:51
+01:17:53
+01:17:55
+01:17:58
+01:18:04
+01:18:08
+01:18:11
+01:18:13
+01:18:15
+01:18:18
+01:18:59
+01:19:02
+01:19:17
+CC
+C
+C
+CC
+cC
+cc
+C
+CC
+C
+CC
+cC
+C
+cC
+CONFIDENTIAL
+Roger.
+Understand you are reading weak but clear.
+We are continuing to analyze the Fuel Cell light.
+We expect to have some procedures to analyze it
+further. We will pass those to you as soon as we
+are ready, probably over the States.
+Roger
+... Understand.
+Gemini VII, you are very weak here. Would you
+confirm that the Delta-P light is still on?
+This is Gemini VII. The Delta-P light is still on.
+HAWAII
+Gemini VII, Hawaii CAP COM.
+Go ahead Hawaii, Gemini VII.
+How you doing up there?
+Very good. Except for the Delta-? light, every-
+thing is normal.
+Okay.
+You're looking real good here on the ground.
+I'd like a readout of your OAMS propellant quantity.
+Roger. OAMS propellant quantity reads 82 percent.
+Roger. You have ceased your stationkeeping?
+NO •
+Not yet.
+Okay.
+... booster... no longer have in sight.
+Roger.
+Understand.
+All right. We'll be standing by if you need any-
+thing from us.
+Roger, Hawaii.
+How about a GET time hack?
+CONFIDENTIAL

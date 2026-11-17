@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:48:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4691995, "source_ctime_ns": 1793388101907117831, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000015/0361.jpg", "source_mtime_ns": 1785748062000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000015/0361.jpg", "source_sha256": "506c92dfc11b21bc1405dd9c426ee7d1fcd3013271a4c49691039679bce4a05c"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 1058, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+12. CONCLUSIONS
+16 December 1962
+3. DATE-TIME GROUP
+Local.
+61
+38N 07.15W (Atlantic)
+TYPE OF OBSERVATION
+GM T
+5. PHOTOS
+16/16567
+DI.Ground- Visual
+• Air Visual
+6. SOURCE
+D Ground-Radar
+• Air-Intercept Radar
+• Yes
+7. LENGTH OF.OBSERVATION
+Military
+8. NUMBER OF OBJECTS | 9. COURSE
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+30 seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+SW
+11. COMMENTS
+Satellite on heading of 075dgr. Speed
+Most probably a high meteor it dure
+very rapid. Round size of pea,
+green-
+tlon is correct. Possibly satellite.
+ish same size as stars. Initial obser-Insufficient data presented for
+vation at 20 dgr elevation 20 dgr
+evaluation. Conflicting & incom-
+azimuth disappeared at 60 dgr elevath plete info present.
+tion 305 dgr azimuth w/gravitational
+trajectory blinking as approaching
+horizon. 30-5 seconds
+ATIC PORM 329 (REV 26 SEP 52)

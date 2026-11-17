@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:33:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1748033, "source_ctime_ns": 1793389342502488927, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539415/01341.jp2", "source_mtime_ns": 1785808573000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539415/01341.jp2", "source_sha256": "2639da1e139d2f2f41b8ad3912e08f9c082a973d348af8a4b956bd268790acac"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 847, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE - TIME GROUP
+2 July 65
+03/0600%
+3. SOURCE
+Military & Civilian
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+15 Minut es
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+Zig-Zag, Hast
+8. PHOTOS
+• Yoo
+KENO
+9. PHYSICAL EVIDENCE
+• Yes
+XX No
+FORM
+FTD SEP 63 0-329 (TDE) Pro
+2. LOCATION
+Gunneson National Monument, N. M.
+10. CONCLUSION
+Satellite (ECHO I)
+11.
+BRIEF SUMMARY AND ANALYSIS
+Object like a star zig-zagging across sky and disappearing
+over the horizon to the East.
+White.' Also varied speed.
+General direction Vest to Rest. Initial cbservation at 75
+deg elevati on.
+CONTENS: On 2 July at 1054 PM the Satellite ECHO I was over
+New lexico heading ME at. 43 deg clevation North of Albuquerque.
+This placed ECHO over the area of observation. Zig-Zag notion
+and apparent changes in speed attriluted to atmospheric
+conditions or illusion.

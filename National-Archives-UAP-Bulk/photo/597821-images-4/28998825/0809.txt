@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:05:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9774708, "source_ctime_ns": 1793387541246815136, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998825/0809.jpg", "source_mtime_ns": 1785748247000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998825/0809.jpg", "source_sha256": "95a6778e6d3f30d63bbfbe6aa8d889785531057dacb964c691d757960b571c4a"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 797, "method": "ocr", "page": 1, "variant": "plain-vision"}
+29. 026 29/17302
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+S3 A 213
+CECHOA 963ZCBJA 330
+AF IN : UN240827635A(29 Aug 62) G/cge
+ACTION! CORAL! NG
+**'*' YY RUEAHQ
+INFO: 00P-2, 00P-CP-1, SAFS-3, DIA-10
+DIA-CIIC-3 ' (37)
+DE RUMPJ 79
+ZNR
+Y 291805Z
+FM CGO MATAGORDA
+TO RUEAH/C OFS USAF
+RUWSJ/ C OIWESTAREA
+ZEN CTF 32
+RUW GAL 3/ CINCN ORAD
+RUAUAZ/COIFIFTH AF FUCHU
+RUHPE/CINCPACFLT
+INFO RUECJD/COMDI COGARD
+ZEN/CC CD FOURTEEN
+USC & GRNC
+UNCLAS
+UF O.
+SATELLITE
+2. POSIT 35-04N 144-10E
+1. BRIGHT OBJECT LESS THAN FIRST MAGNITUDE STAR POSSIBLY
+3. TOS 291732Z.
+4. MEAN ALT 10 DEGREES
+5. TRAVELING IN NORTHLY DIRECTION
+6, SPEED SIGHTED BEARING 130 DEG TRUE DISAPPEARED BEARING 075 K
+DEG TRUE VISIBLE FOR 15 MINUTES
+7. VISIBILITY EXCELLENT CLOUDY COVERAGE 20 PERCENT
+NOTE: Advance copy sent to CIN & DIA

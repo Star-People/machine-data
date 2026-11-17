@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:23:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 810275, "source_ctime_ns": 1793392249995805548, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302566187/0818.jp2", "source_mtime_ns": 1785808704000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302566187/0818.jp2", "source_sha256": "16da7639d6c07bd893a951ba2c0628a93bf1ab9f47abf987fd78bfb3cb24e31f"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 651, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE /TIM:
+21
+DUCE
+2. LOCATION
+/ 1967 28/02352
+Pai
+ebon, Dayton, Ohio
+(Miltiple)
+Stary
+•BER OF OBJECTS
+10. CONCLUSION
+Astro (VENUS)
+VANUS vas on an azimuth of 293 deg and an elevation of 8 deg at
+time of sighting.
+11. BRIEF SUMMARY AND ANALYSIS
+Object was brighter than the planet Nars. It faded out
+Gradually till it disappeared and then reappears again tell
+till it's original brightness.
+Object is nothing more than
+point source of light.
+ENGTH OF OBEERVATION
+- 30 2
+roes
+YPE OF OBSERVATION
+0202
+. COURSE
+G-Visual (BX)
+(Stabionary)
+PHOTOS
+n Yes
+Viio
+9. PHYSICAL EVIDENCE
+1 Vas
+FORA
+PTD SEP 63 0-027
+Prov
+a form may be used.

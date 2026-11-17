@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:04:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9545303, "source_ctime_ns": 1793355001725020058, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0001.jpg", "source_mtime_ns": 1785564376000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0001.jpg", "source_sha256": "48cdd79cabdcc17957285d09d4e2d2d41c83ca5ea250b8f2d97aea0568997b4d"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 353, "method": "ocr", "page": 1, "variant": "plain-vision"}
+22'8"
+US AIR FORCE
+63814222
+Sent iraller Low Bed, 25 Ton, 4 Wheel, Level Deck, GPX-25PS,
+TRANSPORT TRAILERS, INC.
+Federal Stock Number 2330-892-4796
+MIPR NO. ~MP 3-00908
+OMS-4600.24.4601.2.41
+Contract No. - DA-20-413 AMC-1526(X)
+Contract Date 22 April, 1963
+Contract Item No. 4 thru 1l and 38
+AFIA
+Item No. 38 same as above except:
+MIPR NO. MP= 3=00996

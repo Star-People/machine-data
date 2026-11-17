@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:37:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2237178, "source_ctime_ns": 1793394154434768531, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-003-0013.jpg", "source_mtime_ns": 1785567330000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-003-0013.jpg", "source_sha256": "c160b42b1e3b3bc328197559923c680533bf0a30857df4e4320c70796a2bba87"}
+
+===== PAGE 1 =====
+{"alpha_words": 229, "chars": 1509, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Memorandum
+U.S. Department
+of Transportation
+Federal Aviation
+Administrtion
+Subject
+From
+ACTION: Release of Accident investigation
+material, data, information.
+JL #1628
+PUBLIC AFFAIRS OFFICER, AAL-5
+MANAGER, AIR TRAFFIC DIVISION, AAL-500
+HENRY ELIAS
+Date:
+February ¿
+Reply 10
+Attn. of
+C
+Attached is an article about the JAL flight #1628, (UFO), which
+appeared on the wire service, and in the January 30, 1987, Anchorage
+Daily News.
+In the article, a Mr. Phillip J. Klass, Editor with theẠAviation Week
+and Space Technology" magazine, is reported as saying, "According to Klass,
+who reviewed a complete copy of the transcript...'
+The investigation of this incident has not been completed to date and
+release of information or material prior to the completion of an
+investigation is not in keeping with existing policy. Mr. Klass used
+this reference to substantiate a position regarding his theory about the
+As a result of this published reference we received several telephone
+calls from correspondents throughout the Nation wanting to know why
+they did not get a complete copy of the transcript as promised when
+Mr. Klass was able to obtain a copy. We told them we had not released
+the material to date.
+Has the AAL-500 division provided anyone, other than AAL-5 and AAL-200,
+with a copy of the transcript, or other materials included in the
+investigation, from the ARTCC, ROCC, or pilot?
+If copies have been provided to others I would like to have the
+names, titles and routing codes.
+Paul Steucke
+cc: AAL-1

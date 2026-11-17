@@ -1,0 +1,100 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:38:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2841045, "source_ctime_ns": 1793356061427982593, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0004.jpg", "source_mtime_ns": 1785564596000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0004.jpg", "source_sha256": "23b48c4b2902ee5559cf480a0104d6ee1b6dd8cd96f84862740489313703b229"}
+
+===== PAGE 1 =====
+{"alpha_words": 717, "chars": 4647, "method": "ocr", "page": 1, "variant": "plain-vision"}
+130
+JOURNAL OF METEOROLOGY
+CONTROLLED-ALTITUDE FREE BALLOONS
+By Athelstan F. Spilhaus, C. S. Schneider, and C. B. Moore
+College of Engineering, New York University
+(Manuscript received 4 December 1947)
+ABSTRACT
+The results of an experimental program to develop balloons with associated control devices, which will
+float at constant pressure in the atmosphere, are given.
+Newly developed plastic balloons and automatic ballast equipment are described. Examples of successful
+controlled-altitude flights are shown, together with a preliminary analysis of their trajectories.
+The constant-level balloon may provide data not obtainable from an ordinary pilot-balloon network.
+VOLUME
+le mo
+1. Purpose
+Drift bottles have been used for many years in the
+study of ocean currents and have provided interesting
+data. In meteorology, no corresponding device has
+been available. It is evident, however, that a balloon
+which is free to move with the air currents, and yet
+whose altitude can be controlled, has many important
+applications in meteorology, as well as in other fields,
+where it may be desired to keep instruments at alti-
+tude for considerable lengths of time. An example is in
+the investigation of cosmic rays; here, clusters of
+ordinary extensible meteorological balloons have been
+used, but the constancy of altitude obtained is not
+sufficient for many meteorological applications. The
+purpose of the present investigation' was to develop
+a balloon with a control system which would fly at a
+predetermined constant level for periods of many
+hours. Such a balloon has wider application than the
+ocean drift bottle, because, whereas the latter is
+limited to surface (or near surface) currents, controlled
+free balloons may be set to drift at any pressure
+elevation desired, or along other thermodynamically
+defined surfaces, as long as the element defining the
+surface changes in a monotone fashion in the vertical.
+In addition to the uses for maintaining instruments
+at high elevations, there are numerous potential appli-
+cations of these balloons. Direct measurements of air
+trajectories and of lateral diffusion become possible.
+The balloons may also be used as vehicles to convey
+and drop radiosondes over ocean areas. One problem
+in this application is to obtain an absolute altitude
+tie-in point, as it will be difficult to identify the point
+at which the radiosonde reaches the sea surface.
+2. Earlier attempts
+There have been numerous attempts for various
+purposes to get a balloon or group of balloons to stay
+at a fairly constant altitude. Meisinger was interested
+and in
+tories of the Air
+I Sponsored DyMateriel Command
+cooperation with the Watson Labora-
+in the meteorological aspects of this, using a manr
+balloon. In the investigation of cosmic rays, as
+example, by Clarke and Korff (1941), clusters
+ordinary meteorological balloons, 350-gram or 7
+gram size, numbering anywhere from twenty to ne
+seventy, were utilized. No altitude-control dev:
+were used; the balloons were merely given differ
+amounts of inflation. Thus the whole train ascen
+to an altitude where certain of the more highly infla
+balloons burst until the remainder just balanced
+load; thereafter, the assembly descended slowly
+to loss of lift by the diffusion of gas. The only provi
+for having the system regain altitude if it descen
+too low was by arranging the launching before da
+so that after the bursting of the first balloon and
+subsequent descent, superheating of the balloons
+the rising sun would cause the whole assembly to
+again, thereby increasing the duration of the fli
+The system does not have sufficient control for m
+purposes.
+The much-publicized use of balloons by the Japa
+in the last war represents an attempt which mus
+considered highly suecessful from the point of vie
+the length of time which the balloons stayed in the
+Here the objective was not to obtain any cri
+altitude control, but rather to insure that the ball
+remained floating. The Japanese nonextensible
+loons were of two types. One type was of heavy pa
+coated to minimize diffusion, of spherical shape, a
+25 to 30 ft in diameter, and containing about 19
+cubic feet of gas. A solid-ballast control system
+utilized and gas was valved at a low internal pres
+(about two inches of water) to prevent the ball
+from rupturing due to the increase of the inte
+pressure by altitude fluctuations or radiation' char
+Such a valve tends to conserve the lifting gas but
+as a safety device to prevent damage of the enve
+due to too great an internal pressure.
+The solid-ballast system was complex; app
+mately 900 pounds of sand was used on each bal
+distributed in thirty-six bags. The dropping of b

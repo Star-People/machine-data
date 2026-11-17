@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:43:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3872929, "source_ctime_ns": 1793386693865377283, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996993/0661.jpg", "source_mtime_ns": 1785748370000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996993/0661.jpg", "source_sha256": "55049e38875d574934028672115755907af0fd2644ce12be9c084be719f8660d"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 696, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICE, SECRETARY OF THE AIR FORCE
+OFFICE OF INFORMATION
+SUSPENSE: AV 1917- DATE: 31
+GEN. MARTIN
+COL. CASEY
+COL. BOYD
+COL. EVANS
+LT COL SANDVIG
+CAPT. FREEMAN
+291952
+SAFOI-1A (RESERVE FORCES)
+SAFO1-18 (BANDS & MUSIC)
+I SAFOI-1C (SCTY COORD)
+SAFOI-2 (COMMUNITY REL)
+SAFOI-3 (PUBLIC INFO)
+SAFOI-4 (PLANS & PROG)
+SAFOI-5 (INTERNAL INFO)
+ATTENTION:
+PREPARE REPLY FOR SIGNATURE OF:
+DIRECTOR
+DEPUTY DIRECTOR
+ASST. DIRECTOR
+EXECUTIVE
+- DIRECT REPLY
+ACTION
+INFORMATION
+FILE
+DIRECTOR HAS SEEN
+SAFOI-
+SAFOI-
+1A
+18
+13
+1C
+1C
+COMMENTS:
+SECRETARY
+CHIEF OF STAFF
+VICE CHIEF OF STAFF
+ASST VICE CHIEF OF STAFF
+COOROINATION
+RECOMMENDATION
+COMMENT
+NOTE & RETURN
+_ DEP. DIR. HAS SEEN
+HAS ACTION
+HAS INFO.
+SAFOI - 100

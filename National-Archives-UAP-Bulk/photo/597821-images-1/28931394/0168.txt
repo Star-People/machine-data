@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:49:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5352679, "source_ctime_ns": 1793369319534658105, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931394/0168.jpg", "source_mtime_ns": 1785688550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931394/0168.jpg", "source_sha256": "5c63968fdd28845eb7b0dfd7744fb6911efbb93e2b7ae296a0f20f7960c9a0ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 601, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STA ES DEPT OF JUSTICE
+FEDERAL BUREAU OF INVESTIGATION
+MASHINGTON, D. C.
+September 17, 1948
+Commanding General
+Air Materiel Command
+Wright-Patterson AF Base
+Dayton, Ohio
+Attention: MCIAXO-3
+Re: Project "SIGN"
+Exemination of Soil
+Dear Sir:
+The Bureau acknowledges receipt of the evidence which
+you have submitted in the above-entitled case for examination inthe
+FBI Laboratory. This material is being given appropriate attention
+and your office will be subsequently advised.
+Assuring you of my desire to cooperate in these matters,
+1 am
+Sincerely yours,
+John Edger Hoover;
+Director
+Incident 162

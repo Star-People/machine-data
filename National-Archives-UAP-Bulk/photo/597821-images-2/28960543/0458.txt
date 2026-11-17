@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:38:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3010362, "source_ctime_ns": 1793376407125437319, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960543/0458.jpg", "source_mtime_ns": 1785696591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960543/0458.jpg", "source_sha256": "3058f000b88de33e3652c830b1a03f54294c680f001be05487052fb9b57a648b"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 680, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+30 NOV 1954
+3. DATE-TIME GROUP
+Local
+5.
+GM T
+PHOTOS
+3019002 (D)
+• Yes
+1a No
+7. LENGTH OF OBSERVATION
+UNK
+10.
+BRIEF SUMMARY OF SIGHTING
+DESCRIBED AS A FLAMING MISSILE.
+2. LOCATION
+MEXICO BEACH, FLORIDA
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+UNK a Air-littercept Radar
+UNA
+8. NUMBER OF OBJECTS
+ONE
+112. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+- robabiy Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluc
+Unknown
+9. COURSE
+DOWNWARD
+11. COMMENTS
+NO INVESTICATION ON THIS SIGHTING
+CONTEMPLATED.
+AISOP Form 5 (15 Oet 54)

@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:28:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1389597, "source_ctime_ns": 1793392711696587635, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569992/0863.jp2", "source_mtime_ns": 1785808030000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569992/0863.jp2", "source_sha256": "5ee3326fbf874fbaaf77ca9b32094e9209a5068279c7107b90bf57c713f05ad3"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 419, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NEW YORK 12866
+September 10,1957
+The Honoraule Carletor. J. King
+The House of Representatives
+Washington, D. C.
+Dear Carleton:
+I am enclosing a comprehensive report on
+the UFO or UOF which you and I discussed on your
+last visit to Saratoga. You said you would
+give it to the Defense Degertuent.
+Hope to hear
+from you soon or will the Blustook gobble it up
+in its confusion!
+Beat rogards to Connio. Keep mell.
+sincerely

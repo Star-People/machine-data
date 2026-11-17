@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:32:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1734258, "source_ctime_ns": 1793389008876425952, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535427/00576.jp2", "source_mtime_ns": 1785808337000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535427/00576.jp2", "source_sha256": "588a41978b249bb0a273b3bcf5fe87e538afb5f0ffdc9b2644968f841e8c38fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 642, "method": "ocr", "page": 1, "variant": "plain-vision"}
+September 30, 1964
+Dear Mr.
+and Mr.
+This is in response to your recent letter
+concerning the sighting of three unidentified
+flying objects in the Yosemite area of Northern
+California.
+While your description was very interesting,
+it was not in sufficient detail to enable our
+investigators to make an evaluation.
+we are inclosing a form FTD 164 which we request
+you complete in as much detail as possible and
+return to the Air Force.
+completed form, another attempt will be made to
+analyze this sighting.
+Sincerely,
+MASTON M. JACKS
+MaJor, USAF
+. Public Information Division
+Office of Information
+Inclosure
+Messrs
+and
+San Francisco, California

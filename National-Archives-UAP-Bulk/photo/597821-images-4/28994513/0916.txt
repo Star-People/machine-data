@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:01:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8410293, "source_ctime_ns": 1793385971533252814, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994513/0916.jpg", "source_mtime_ns": 1785748329000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994513/0916.jpg", "source_sha256": "53e868d2b94cbe890324ca9fccc47b9e50b87a55f3ebd39088e301f550bd1c2c"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 605, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPAREMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN: 51782 (11 Sep 61)
+3 01 3
+PAGE THREE RJEDNU 7
+10 M
+280/20
+16M
+260/25
+2ØM
+260/20
+З ØM
+230/30
+5 ØM
+25 0/ 15
+80M
+UNK
+(3) NONE
+(4) UNRESTRICTED
+(5) NONE
+(6) NONE
+(7) SAME AS STANDARD 14 DEGREE C WARM TROPAPAUSE 39600
+H. NONE
+I. NONE
+J. RAWINSONDE BALLOON RELEASED AT PEORIA AIRPORT 80 MI NW
+ON 07 AT 00002
+K. OIC, INSTRUMENT SECTION - PROBABLE CAUSE OF SIGHTING -
+STAR, PLANET OR COMET. NO OTHER REPORTS OF SIGHTING. EXTREMELY SLOW
+SPPED OR OBJECT LINKENED TO STAR OR PLANET. PROBABLE START WAS VEGA.
+ВТ
+11/16Ø8Z SEP RJEDNU

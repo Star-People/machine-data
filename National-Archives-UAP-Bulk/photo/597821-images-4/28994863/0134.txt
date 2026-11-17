@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:47:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4423400, "source_ctime_ns": 1793386106964175261, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994863/0134.jpg", "source_mtime_ns": 1785747997000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994863/0134.jpg", "source_sha256": "439ffb3f28325b5191cb6c15b79a5c27bc2a729078f086a61fecc652b61cf083"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 677, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN : 8813
+DEPARTMENT C. THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+(26 Sep cl)
+page 2 of 4
+PAGE TWO RJEDAF 1
+(5) N/A
+(6) NONE
+(8) NONE
+(7) BLACK SMOKE TRAILED THREE INCHES AT ARM'S LENGTH.
+(9) NONE
+B. DESCRIPTION OF COURSE OF OBJECT:
+(1) WHILE DRIVING AUTOMOBILE
+(2) 20 TO 30 DEGREES IN ELEVATION; 300 DEGREES AZIMUTH
+(3) SAME AS B (2)
+(4) SEEMED TO MOVE TOWARD SE AND GAIN A LITTLE ALTITUDE.
+(5) COMPARED TO THE TURNING OUT OF A LIGHT WITH A RHEOSTAT.
+(6) SIGHTED TWICE: 1 1/2 MINUTES EACH TIME.
+C. MANNER OF OBSERVATION
+(1) GROUND VISUAL
+(2) NONE
+(3) N/A
+D. TIME AND DATE OF SIGHTING
+(1) 2600182
+(2) DUSK, JUST BEFORE SUNSET
+E. LOCATION OF OBSERVER:

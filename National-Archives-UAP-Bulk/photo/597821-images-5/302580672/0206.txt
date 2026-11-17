@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:25:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1013446, "source_ctime_ns": 1793393807976008585, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580672/0206.jp2", "source_mtime_ns": 1785808578000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580672/0206.jp2", "source_sha256": "ad2c150c0fa54a6268efe567cbed381c2e7f1c3b97b9c905c0b421a2c7e94d7a"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 340, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AT 0300 hours local 24 October 1968
+AZIMUTH
+ELEVATION
+Regulus
+Capella
+Castor
+Pollux
+Procyon
+Betelgeuse
+Sirius
+Rigel
+Allebaran
+Aries
+Deneo
+Vega
+AT 0400 HOURS IOCAL, 24 OCTOBER 1968
+Mars
+Jupiter
+Regulus
+Capella
+Castor
+Pollux
+Proeyon
+Sirius
+Betelgeuse
+Rigel
+Aldebaran
+Aries
+Deneb
+Vega
+341
+at horizon
+just below horizon
+20
+at horizon
+12/01 3-1

@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:51:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5587042, "source_ctime_ns": 1793378392356732236, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967833/0840.jpg", "source_mtime_ns": 1785696714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967833/0840.jpg", "source_sha256": "ce3fa7ab19f2b25488a4b4801399b3c27e41bfcd899b2db1dab6c562d66d0cf4"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 1029, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+5 October 1956
+3.
+DATE-TIME GROUP
+2248 PST
+Local _
+CAT_06/0678 2łš
+5.
+PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+about 9 seconds
+•Observer
+BRIEF SUMMARY OF SIGHTING
+states he submitted report
+apparently after reading Keyhoe's book
+FLYING SAUCERS FROM OUTER SPACE. Obser
+ved a row of luminous "things" that
+traveled from N to S.
+waver
+like birds in flight.
+They appeaced to
+PROJECT 10073 RECORD CARD
+2. LOCATION
+China Lake, California
+4. TYPE OF OBSERVATION
+XO Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+SOURCE
+Civ
+8. NUMBER OF OBJECTS
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolinon
+000
+Was Aircraft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical Metear
+D Probably Astronomical
+Possibly, Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+N to S
+11. COMMENTS
+A/C ruled out due to duration.
+Observation most probably meteor
+sighting although light reflectious
+on birds is also a possibility.
+Case evaluated as probably meteor
+sighting.
+ATIC PORM 329 (RKV 26 SEP 52)

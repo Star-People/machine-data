@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:01:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8549069, "source_ctime_ns": 1793383190455337143, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986488/0230.jpg", "source_mtime_ns": 1785747879000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986488/0230.jpg", "source_sha256": "c585b6f16f89a4185bfc12d70ed9eca7a5cbb82b149047f4d5505756215e6703"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 710, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE 3 RJEZSA SS
+STATION, DOVER. DEL. OCCUPATION. PLUMBER , RELIABILITY INKNOWN
+(2),
+FIGHTER INTERCEPTOR DO DOVER AFB. DEL. PERSONNEL SPECE.
+DULY PHONE
+HOME PHONE
+RELIABILITY INKNOWN.
+G. WEATHER AND WINDS-ALOFT CONDIGIONS AT TIMF AND
+PLACE OF SIGHTING:
+(1) CLEAR, WINDS NORTHWEST AT 6 MILES PER HOURS
+(2) SURFACE 320/6 6.000 320/14. 10,000
+350:36 16.000 350/40 20.000 350/50 30.000 348/42
+59,600 280/58 00.009 279/23
+(3) NONE
+(4) 10 MILES
+(2) NONE
+(5) NONE
+H. ANY OTHER UNUSAL ACTIVITY OR CONDITION.
+METEROLIGICAL. ASTRONOMICAL. OR OTHERWISE. WHICH MIGHT
+ACCOUNT FOR THE SIGHTING NONE
+I. INTERCEPTION OR IDENTIFICATION ACTION TAKEN. NONE
+J. NO LOCAL FLYING
+K. POSITION TITLE AND COMMENTS OF PREPARING OFFICER:

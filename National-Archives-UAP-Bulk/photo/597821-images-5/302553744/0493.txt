@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:30:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1695907, "source_ctime_ns": 1793390830581862160, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553744/0493.jp2", "source_mtime_ns": 1785808693000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553744/0493.jp2", "source_sha256": "1f55d69dfbf50409929b4f2a063f8417e6c2ea6d478bd1cc6eb839c7a1813632"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 285, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Enclosed is a copy of the Project Blue Book brochure which explains the
+objectives of the unidentified flying object program.
+Thank you for
+your interest in Project Blue Book.
+Sincerely,
+HICTOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book
+2 Atchs
+1. FTD Form 164
+2. Blue Book

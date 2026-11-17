@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:54:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6874802, "source_ctime_ns": 1793384459643867079, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990381/0137.jpg", "source_mtime_ns": 1785748548000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990381/0137.jpg", "source_sha256": "2008bf8504ef336648d6ec082d7eb32461241ad866d1fefdbc70b94a4fa360fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 1074, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+6 nec 60
+3. DATE-TIME GROUP
+Local.
+0040
+GM T.
+06/20402
+PHOTOS
+Fort Yukon, Alaska
+4. TYPE OF OBSERVATION
+I Ground- Visual
+0 Air Visual
+• Ground-Radar
+Di Air-Intercept Radar
+6. SOURCE
+O Yes
+EL No
+7. LENGTH OF OBSERVATION
+2-3 sec
+Civilian
+| 8. HUMBER OF OBJECTS | % COURSE
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolioon
+Was Aircraft
+Probably Aircreft
+D
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical 100
+Possibly Astronomical
+Insufficient Data for Evalustion
+Unknown
+0. BRIEF SUMHARY OF SIGHTING
+111. COMMENTS
+Round green object, size of quarter (one report
+There was asatellite reentering on 5 Dec
+said size of baseball). Appeared 30°
+elevation
+60 (Zeta IT) the time of day unknown. It
+and 185° azimuch. Disappeared - horizon, 186°
+is improbable that this object was Zeta
+azizuth. Dropped to horizon on 5° angle from
+II. The description and duration are
+straight down. Disappeered almost instantaneous
+ly characteristic of a meteor.
+to SW; bright light Just diseppeared.
+ATIC FORM 329 (REV 26 SEP 52)

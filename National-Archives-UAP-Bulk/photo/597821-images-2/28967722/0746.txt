@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:51:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5610568, "source_ctime_ns": 1793378360099265583, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967722/0746.jpg", "source_mtime_ns": 1785696519000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967722/0746.jpg", "source_sha256": "6cdfb89cb73cd3b0bfa23d4c2214f49556598bca3533f5acee8a775183f6a592"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 508, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JED'
+P32
+YDA133 WYD123 NDE133HWA741
+MN RJEDEN RJEDUP REEPHO
+4E4
+DE ROUTHU 17
+# 219:2
+3 4 p20
+ACTION
+FM COND 74STH ACWRON ORCTY AF STA OKLA
+TO RUDEN/CONDE ADC ENT AFB COLO
+ZEN/CONDR 33D ADIV OKCTY AF STA OKLA
+RJEDUP/COMER AIR TECH INTELL CTR WRIGHT PATTERSOL AFE ONIO
+RUMPHO/DIR OF INTELL HO USAF WASH DO
+BT
+UNCLAS OPS 9-5D. SUBJ: UNIDENTIFIED FLYING OBJECT REPORT PD
+A. DESCRIPTION OF THE OBJECT PD
+1• ROUND CH OVAL
+2. UNKNOW
+2. WHITE OR LUM CM YELLOW
+4. C...
+S. NONE
+7. TAIL TO SOUTHWEST
+E. NO MOISE
+0s: 10

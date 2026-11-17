@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:33:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1745333, "source_ctime_ns": 1793388642789779900, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530627/0464.jp2", "source_mtime_ns": 1785808367000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530627/0464.jp2", "source_sha256": "da0fad6ab2471606c43494e153a96ba2941ebc1a93bf489fecfbec376ce125fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 454, "method": "ocr", "page": 1, "variant": "plain-vision"}
+October 10, 1903
+Dear Mr.
+We are unable to determine from your letter
+of October 4, 1963, what it was that you sighted.
+Inclosed is Form PTD 164. Would you kindly
+complete it and forward it to this office in order
+that it may be properly evaluated and an investiga-
+tion made.
+Upon completion of the investigation
+you will be notified of the results.
+Sincerely,
+MASTON M. JACKS
+Major, USAF
+Publie Information Division
+Ortice of Information
+Bedrord, Ohio

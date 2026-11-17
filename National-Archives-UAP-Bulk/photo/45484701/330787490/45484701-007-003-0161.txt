@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:57:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7415052, "source_ctime_ns": 1793364700992809443, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0161.jpg", "source_mtime_ns": 1785684894000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0161.jpg", "source_sha256": "c0b09ca3163efbb563f47b0258bf8d1ffaca3c1470077d29056ba1e8d2be6ae7"}
+
+===== PAGE 1 =====
+{"alpha_words": 248, "chars": 1503, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2021 West Third Street
+Los Angeles - 5 - California
+July 5th, 1950
+General Douglas MacArthur
+U. S. Army Headquarters
+Tokyo, Japan
+Dear Sir:
+Because of the seriousness of difficulties in Korea, I believe
+I should inform you of the following facts:
+I have invented, constructed and tested a plane which I flew with
+two passengers from Los Angeles to San Francisco-Oakland and return
+to Los Angeles. Time for the round trip - 38 minutes.
+The engine in this plane was a Curtis - and not the finest Curtis
+motor at that.
+I build this plane by SOUND. No rivets or bolts.
+Plane can be
+built in 2 1/2 hours. This does not include time for placing
+motor.
+Plane flies throughthe air without a sound. Cannot be detected
+by radar. We are now working on one or two experiments which,
+if successful, will make this plane operate like a dragon-fly.
+That is, stop suddenly and fly backwards. Sudden stop barely
+My son, Frederick W. Reed is with you and has been with you for
+some time. He knows all about this plane.
+We will send you a
+set of the plans if you are interested and you can see for yourself.
+We have a factory in which the milling machines can be placed
+and after the machinery is set the production of planes will be rapid.
+Our reason for contacting you direct is that I believe you to
+be one of the greatness generals our Army has ever had and we believe
+you will want to keep this information for the United States only.
+Yours truly,
+/s/ Fred W. Reed
+FRED W. REED
+Declassification Authority: NND 923007

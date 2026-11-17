@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:46:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4349617, "source_ctime_ns": 1793374636388342056, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952493/0148.jpg", "source_mtime_ns": 1785696747000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952493/0148.jpg", "source_sha256": "759b61f6a57abcbaf7b6d32bfaf8a6eecc16d7b630b4ea988d6b8d96042c05c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 392, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JWPGU 21F
+AT TIMES. ITEM 5. UNKNOWN AT THIS TIME.
+5 TO 6 WITNESSES. 9 YEAR OLD GIRL DREW PICTURE THAT FIT DISCRIPTION
+OF OTHER WITNESSES. ITEM 6. HLN M52 OVC 40 42/25 WNW 23 BINOVC GTF
+55 SCTD 95 SCTD M 190 OVC 60 41/28 SW 22 OVERCAST AT NEAR 9200 MSL.
+WIND WSW 20-25 PMH. ITEM 7. UNKNOWN. ITEM 8. NEGATIVE. ITEM 9. NEGATIVE
+ADD TO ITEM 2. 2 JANUARY.
+03/18437 JAN JWPGU
+UNCLASSIFIED

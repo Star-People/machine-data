@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:10:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17885844, "source_ctime_ns": 1793356734929454835, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0359.tif", "source_mtime_ns": 1785564749000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0359.tif", "source_sha256": "044f357a2da762e706ae7fb5b18143eda84ed921ddafcf27fb9f6dbfcd6db2ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 151, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+D+ 4 te 4 Wer
+
+aC % A ya ew 2 oe @ Qo te ae oe 4 ws D Ae pr ie
+© Sumnary of ANC Evaluation of Remaining Reports
+
+Declassification Authority: NND 57565

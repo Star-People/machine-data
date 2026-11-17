@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:54:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6703505, "source_ctime_ns": 1793377067578701718, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962611/0746.jpg", "source_mtime_ns": 1785696990000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962611/0746.jpg", "source_sha256": "609613d033b27ab5f82645046177905348ffb99679334e7f4cb5d683fb9c07b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1101, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+5 Jul 55
+3. DATE-TIME GROUP
+Local
+GM T
+05/01502
+5. PHOTOS
+• Yes
+XO No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+St Mrboo, Mass
+4. TYPE OF OBSERVATION
+Ở. Ground-Visual
+• Air Vi suol
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+c ivlion
+8. NUMBER OF OBJECTS
+twenty minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+One round object, with Jagged outer eages,
+hich appeared red, orange, yellow, and blue,
+appeared as a bright light. Pilot from local
+FIS Squadron nade repeated passes over location
+and though he appeared to pass thru the object
+he noted nothing. Bincolars used by observers.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+• Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+• Was Astronomicol Saturn
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+stationary
+11. COMMENTS
+At time of sigating Saturn was at an
+altitude of 30, and in the Sw, the
+area of sighting. Possibly the observer
+saw Saturn thru haze and clouds. Bin-
+oculars could account for the color and
+size.
+ATIC FORM 329 (REV 25 BEP 52)

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:25:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1022044, "source_ctime_ns": 1793393814107140587, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580844/0271.jp2", "source_mtime_ns": 1785808074000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580844/0271.jp2", "source_sha256": "6a0f179d179b114223d18e61b51b88d69fdab87fee68b40a387a0e065298c3db"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 93, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+hi I ti kk Yh }) AD biel gee
+
+Fae eves “se nies a So ag
+
+ys 60S
+
+a oe ee PE afoul Keehn rag

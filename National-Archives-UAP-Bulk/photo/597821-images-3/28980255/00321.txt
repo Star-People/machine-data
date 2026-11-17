@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:51:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5640911, "source_ctime_ns": 1793381440962668305, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980255/00321.jpg", "source_mtime_ns": 1785700810000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980255/00321.jpg", "source_sha256": "1b0831169496ca2e65af52fdd6481cbd2568df3841fba119efebfd6223c9427a"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 948, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+3. DATE-TIME GROUP
+Local
+GM T.
+5. PHOTOS
+4. TYPE OF OBSERVATION
+Q.Ground-Vi Visual
+• Air-Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+robably Aircraf
+ossibly Aircrat
+Was Astronomical
+Probably Astronomical
+Possibly
+Astronomica
+Other-
+Insufficient Data for Evaluation
+Unknown
+8. NUMBER OF OBJECTS | 9. COURSE
+ove
+H-E
+11. COMMENTS
+10. BRIEF SUMMARY OF SIGHTING
+eright white,
+star
+- like obj.
+This rpt was sent in two (2) yrs
+Braghter tean most stars,
+but not
+after
+the
+incident occurred. It
+as bright as the brightest star.
+is possible that it could have
+About the size of
+the stars in
+thesky/been a light on
+an a/c or balloo
+but not as big as a bright planet.
+but
+due to the lapse of time an
+Just faded out.
+investigation of the incident
+is impractical.
+ATIC FORM 329 (REV 26 SEP 52)

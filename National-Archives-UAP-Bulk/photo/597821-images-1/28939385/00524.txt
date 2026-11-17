@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:41:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3717555, "source_ctime_ns": 1793371668732329968, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939385/00524.jpg", "source_mtime_ns": 1785688938000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939385/00524.jpg", "source_sha256": "b99e00a2d2384655f49da84768e427fbbfdbdfca5e7cdf56f1d1d129a7769daf"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 930, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
++ August 1951
+3. DATE-TIME GROUP
+Locol
+GM T 14/2020Z
+5. PHOTOS
+• Yes
+AKNO
+7. LENGTH OF.OBSERVATION
+UNK
+10. BRIEF SUMMARY OF SIGHTING
+First, saw a light, the light seemed to fall
+siowiy as suspended from a parachute then it
+leveled off into a southernly course, made a
+turn West, then a trn Est. Extremely fast.
+Round, white.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Rhein Main AB, Germany
+4. TYPE OF OBSERVATION
+ExGround Visual
+• Air Vi suol
+6. SOURCE
+D Ground-Roder
+• Air-Intercopi Rodor
+Mil (pilot)
+8. NUMBER OF ObJECTS
+12. CONCLUSIONS
+000
+000
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Orhor_
+Insufficlent Dete for Evaluation
+Unknown
+9. COURSE
+S
+11. COMMENTS
+Sounds like a/c. However, reported as
+astronomical phenomena (?). Duration
+not included. Insufficient Datafor
+analysis.
+ATIC FORM 329 (REV 26 SEP 52)

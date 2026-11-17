@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:26:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1135596, "source_ctime_ns": 1793355841287170805, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0080.jpg", "source_mtime_ns": 1785564539000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0080.jpg", "source_sha256": "5c3f07084f3d3913bfe16e37950ebe6021a0f9419ad4ad397c9fe126bf1817d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 179, "chars": 1142, "method": "ocr", "page": 1, "variant": "plain-vision"}
+02/10 '95
+21: 21
+246 48 48 67
+SCIENCE & VIE
+4001
+10/3/9śął
+Fax to 1st Lieutenant James McAndrew,
+Secretary of the Air Force Declassification and Review
+Team.
+from Pierre Lagrange
+Fax number 33 1 43 54 56 28
+Dear Jim:
+This fax just to give you the correct address where you can send other
+copies of your and Colonel Weaver's report (I would greatly appreciate it
+if you can autograph/sign one copy: it is an historical document. Thank
+you) and the copy of the videotape on Project Mogul.
+Pierre Lagrange
+CSI, Ecole des Mines
+62, blvd Saint Michel
+75272 Paris Cedex 06
+Can you please fax me your address (if it is different form the one on the
+envelope: SAF Declassification and Review Team, 1720 Air Force
+Pentagon, Wash DC 20330-1720) so I can send you copies of some
+articles I have published on the history of the flying disc controversy in
+1947.
+I am reading the report. Very interesting.
+I send you a copy of the Science & Vie issue with my second article as
+soon as it is printed. I'll try to write a review of the Report for Science &
+Vie (or for another science magazine).Thank you again for your help.
+Sincerely,
+Nicu
+Pierre Lagrange

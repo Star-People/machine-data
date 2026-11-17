@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:40:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3241895, "source_ctime_ns": 1793384205886905845, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989480/0708.jpg", "source_mtime_ns": 1785748419000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989480/0708.jpg", "source_sha256": "580295223d1c9d92c07ea1bf28abd7aa9c8b8a65ed82b115b8134c5e6a81b726"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 446, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Be EekXPLUSLUN CALLU SIGHIED ¥LKSI
+
+I
+Ce
+
+Ds
+
+rt
+
+Fe
+Ge
+
+2. 7@ DEGREES
+
+3.1NTO HORIZON
+
+4. NORTHWEST TO SOUTHEAST OVER EAST PORTLAND.
+
+5.BELOW HORIZON
+
+$s-2-3 MINUTES.
+
+1. GROUND VISUAL
+
+2. NONE
+
+3eN/A
+
+1, 02252 33 SEP 6a
+
+2.TWILIGHT.
+45DEGREES 36"N, 122 DEGREES 36".
+
+| A OUT NRN . RELIABILITY CONSIDERED Coop
+1. NONE
+
+QeWINDS AS FOLLOWS: 6,90 330/53 13,008 299/293 16,998
+
+@2G/183 29,990 540/123 39,998 339/25: 59,988 390/30
+
+Se CLEAR ¢ NONE)

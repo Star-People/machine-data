@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:44:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4143535, "source_ctime_ns": 1793374417778668939, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951598/0774.jpg", "source_mtime_ns": 1785696510000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951598/0774.jpg", "source_sha256": "67ad9d15377e982e11726a6522af63f622ae29f4511039d39077546dba041619"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 459, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+363D TACTICAL RECONNAISSANCE WING
+Shaw Air Force Base, South Carolina
+ROI 319.1
+SUBJECT:
+26 November 1952
+Unidentified Flying Object Report
+TO:
+Chiei
+Air Technical Intelligence Center
+Wright Patterson Air Force Base, Ohio
+ATTN: ATIAA-2c
+In compliance with the provisions of AFL 200-5, 29 April 1952, copy
+of Unidentified Flying Object Report is forwarded for your information.
+1 Incl
+AF Form 112
+JOHN P. DEVORE
+Captain, USAF
+Intelligence Officer
