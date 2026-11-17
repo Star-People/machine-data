@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:49:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6071312, "source_ctime_ns": 1793369156068670974, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930808/1082.jpg", "source_mtime_ns": 1785688865000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930808/1082.jpg", "source_sha256": "baf2e54c280af99fb96db7bb6ba239686fdd2a345fe2f958a2a39e90f776dd57"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 932, "method": "ocr", "page": 1, "variant": "plain-vision"}
+| 1 CLASSIFIED
+NATIONAL MILITARY ESTABLISHMENT
+RESEARCH AND DEVELOPMENT BOARD
+WASHINGTON 25, D. C.
+2 February 1949
+MEMORANDUM TO:
+SUBJECT:
+Air Materiel Command
+intelligence Divisio:
+Wright Patterson Air Base
+Dayton, Obio
+Attn:
+Memphis Incident
+It is requested that all pertinent details of the
+so-called Memphis incident" of May 7, 1948, 2:00 to 5:00 P.M..
+be furnished the Research and Development Board for use by
+the RDB Committee on Geophysical and Geographical Sciences,
+2.
+Attached hereto is correspondence from Dr. Lincoln
+LePaz referring to the Memphis incident.
+5.
+This information should be transmitted to the
+Research and Development Board, Technical Intelligence Branch,
+Room 3E 636, The Pentagon, Washington 25, D. C., Attn: Mr
+Darid 2. Beckler.
+DAVID Z. BECKLER
+Chief
+Technical Intelligence Branch
+Attachments:
+Letter to It Col Rees from Dr
+Letter to Dr LaPaz fron
+1/4/49
+Letter to it Col Rees, from Dr LaPaz
+12/30/48

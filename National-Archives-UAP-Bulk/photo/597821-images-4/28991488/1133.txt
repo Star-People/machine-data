@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:55:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7382016, "source_ctime_ns": 1793384965209144483, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991488/1133.jpg", "source_mtime_ns": 1785747976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991488/1133.jpg", "source_sha256": "e2661f60f5eb43f4f7f0a5fd6952bff01a0a270185b2c75b0aa42d7756690172"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 733, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN : 25005 (21 Feb 61)
+ACTION: CIN-14
+INFO: 0OP-2, 0OP-CP-1, SAFS-3
+H
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
+(21)
+SMD B 106
+KZCHQC435ZCQJB881
+PP RJEZHQ
+DE RJWZGS 7A
+ZNR
+P 210500Z
+FM SPOKANE AIRDEFSEC LARSON AFB WASH
+TO RJWFAL/HQ ADC ENT AFB COLORADO
+RJWZBH/HQ 25 AIRDIV MCCHORD AFB WASH
+RJEDSO/HQ ATIC WRIGHT PATTERSON AFB OHIO
+RJEZHO/HQ USAF AFCIN WASH 25 D C
+RJEZHO/SEC OF AIR FORCE SAFIS WASH 25 D C
+RJWFALB/CINCNORAD NINT ENT AFB COLO
+BT
+UNCLAS FROM SPOIN 369
+FOR INTELLIGENCE. SUBJECT, UFO REPORT.
+1. A. OBLONG-CIGAR SHAPED.
+B. DIME TO PEA
+C. GREEN, CHANGING TO DULL ORANGE.
+D. ONE.
+E. N/A
+F. OBJECT BROKE UP BEFORE DISSAPPEARANCE
+G. POSSIBLE SHORT TRAIL CAUSING SHAPE.
+H.. N/A
+W/ns

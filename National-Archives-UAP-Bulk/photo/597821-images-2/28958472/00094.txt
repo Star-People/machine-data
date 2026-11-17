@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:34:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4150813, "source_ctime_ns": 1793375951597787873, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958472/00094.jpg", "source_mtime_ns": 1785696521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958472/00094.jpg", "source_sha256": "46d156198ea2f25c2edf4880ec802cc62c5c9802312e6b2d304cf6bfb654b136"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 880, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+5 June 1954
+3. DATE-TIME GROUP
+Locai
+2130 (N)
+GM T.
+06/02302
+5. PHOTOS
+• Yes
+D No
+7. LENGTH OF OBSERYATION
+PROJECT 10073 RECORD CARD
+LOCATION
+Indialantic, FLA
+4. TYPE OF OBSERVATION
+Xit Gun d-Visual
+O Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+MILITARY & CIVILIAN
+NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probabiy Bailoon
+Possibly Balloon
+Was Aircraft
+Probably Aircraf
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Search 11g
+Insufficient Data for Evaluatior
+Unk no wn
+3 Minutes
+0. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+Bright light in sky like search light manuevered-
+Several very reliable witnesses.
+no sound, WX overcast intemittant showers
+Pos beacon or search light from
+brighter than flashlight beam, shinny from
+ocean vessel. Clouds in area.
+roint 100 yds off shore.
+ATIC FORM 329 (REV 26 SEP 52)

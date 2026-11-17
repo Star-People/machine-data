@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:09:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14016714, "source_ctime_ns": 1793358743567482476, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-037-0004.tif", "source_mtime_ns": 1785681188000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-037-0004.tif", "source_sha256": "6b14c05fa8bcfe10a38cf0d712e13f6e819fda687f4230104093142d1569a668"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 840, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+45020 AISS UFOR PEPT...1.97
+DATS-TIME GROUP ....
+UNCLASSIFIED
+(CLASSIFICATION)
+COUNTRY OR ORIGIN
+United States
+(SECURITY INFORMATION when
+REPORT NO.
+1-55
+AIR INTELLIGENCE INFORMATION REPORT
+CA REFOR CONCERNS
+United States - South
+AGENCY OF ORIGIN Intelligence Division
+DCS/0-0&T, Air Proving Ground Cond
+Eglin AFB, Florida
+SOURCE OF INFORMATION
+DATE OF REPORT
+28 June 1955
+PATE OF INPORMAIION
+27 June 1955
+BRIUSAT
+PREPARING OFFICER
+JOHN J. WALSH, Major, USAT
+EVALUAI ON
+• REFERENCES CONT
+plicable)
+AF Regulation 200-2, 12 August 1954
+SUBJECT
+UFOB
+SUMMARY (Enter c
+(Leave blank)
+1 report. Give sin
+(30 42 15er), 6 feng object sighted orer Holt, Florida,
+- 15'W), 26 June 1955.
+Major,
+USAF
+/Chief Intelligence Division
+INCLS.
+In accordance with paragraph 7a(2) (a) of AF Reg 200-2,
+dated 12 August 1954.

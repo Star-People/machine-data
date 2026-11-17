@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:25:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1403308, "source_ctime_ns": 1793393250512939716, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302575500/0987.jp2", "source_mtime_ns": 1785808123000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302575500/0987.jp2", "source_sha256": "04fc8f784140d6c84130db5a7b6e866b04a0ba4b1e4776aed6b703204c6f792f"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1106, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SAF-OICC/Miss Turnure/76526/Apr 16, 1968
+1 7 APR 1958
+Dear
+This will reply to your recent letter in which you reported
+seeing an unidentified flying object (UFO).
+Without additional information, we cannot offer an explanation
+of the object you saw. However, if you will complete the attached
+questionnaire and mail it in the inclosed envelope, our technical
+people at Wright-Patterson Air Force Base will be able to investi-
+gate further and make an evaluation.
+Should you ever sight another UPO, please report it as soon
+as possible to the nearest Air Force base. Each base has a UPO
+investigator, who is in a better position to make an on-the-spot
+investigation which usually results in a more accurate analysis.
+In the meantime, we are sending you some literature that may
+help you identify the sighting. Thank you for reporting it to the
+Air Force.
+Sincerely,
+DAVID L. STILES
+It Colonel, USAF
+Chief, Civil Branch
+Community Relations Division
+Office of Information
+Attachments
+Mr
+norook, New York
+11563
+Coord Cy - SAF-OICC
+Cmbk Cy - SAF-OIC
+Activity Cy - SAF-OIC
+Reader Cy - SAF-OI
+Stayback
+SAF-OICC
+10

@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:54:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7256330, "source_ctime_ns": 1793383597340914282, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987374/1027.jpg", "source_mtime_ns": 1785748360000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987374/1027.jpg", "source_sha256": "aecf83bfb2e7a37a2027b1f91bdaf5094be965edd8186188f4936a1bee020e25"}
+
+===== PAGE 1 =====
+{"alpha_words": 180, "chars": 1398, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+REC'D AUG 15 1960 .
+This document consists of..../...pagès
+No. /.
+..05 3
+....copies, series..
+3 Aug 60
+Memorandum, -4A2c, July 12, 1960, Subj: (C) Possible Foreign Space Object
+Material
+2nd Ind (-4BX-3/H. C. Cross)
+To: -4E2c/C. A. Naugle
+Through: -4B1/L. G. Waltcher pak
+1. It is suggested that the two samples be subjected to a preliminary investiga-
+tion consisting of (1) a microstructural analysis and, depending on the results
+obtained, (2) a spectrographic analysis for composition. At the conclusion of
+this investigation, the results would be integrated and reported to ATIC, along
+with recommendations, if any, for additional investigation and a cost estimate.
+2. The estimated cost for the performance of the microstructural analysis is
+$150, and of the spectrographic analysis, $300.
+3. Before proceeding with such an examination, PWS will await authorization.
+Classification Cancelled
+Howard C. Coas
+Howard C. Cross
+(or changed tounc<45)
+Auth
+HCC: mim
+3rd Ind (AFCIN-LE2c/C.A. Naugle/67310)
+TO:
+AFC IN-4BX-3
+THRU: APCIN-4BX-1
+Dae L272
+HFR 20S
+Par 2172^
+8 Aug 1960
+3 Jan68
+Since the cost of PWS analysis of the sample inclosed with first indorsement
+would have to be defrayed by Material PCS's, it is requested that PWS return
+the samples to this office.
+PHILIP G. IVANS
+Colonel,
+USAF
+AFCIN-LE
+U z Atch:
+1. n/c
+2. n/c (Box containing samples w/d).
+DON
+PREAIS :
+UNCLACSIFIED

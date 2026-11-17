@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:38:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5176200, "source_ctime_ns": 1793377925914329164, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966015/0715.jpg", "source_mtime_ns": 1785696680000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966015/0715.jpg", "source_sha256": "e408744f1b9780edcac28dcec6256b1a1620098dbd17d78325b5c9272fd5933d"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 407, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ROUND
+BASEBALL
+C. SILVER
+D. ONE
+FOYING EAST
+NONE
+G• NONE
+H. NONE
+I • NONE
+2. FLYING EAST
+A• OBSERVED ON DUTY AT POST
+3. UNK
+C. UNK
+D• UNK
+I. OUT OF SIGHT
+7 45 M,14e
+3 •
+A. GROUND VISUAL
+3. NONE
+C* UNK
+4•
+A. 281522Z JUN 55
+B• DAY
+5. KM 3922
+Вт
+28/19222 JUN RJEDKF
+A• MRS.
+B• N/A
+7. NONE
+A. NONE
+B• NOT AVAILABLE
+C• UNLIMITED
+D• CLEAR
+E• NONE
+F • NONE
+8. NONE
+9• NONE
+10. NONE
+11. NONE
+A • NONE
+CRESCENT IOWA

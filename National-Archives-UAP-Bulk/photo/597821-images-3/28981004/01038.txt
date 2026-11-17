@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:38:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5392438, "source_ctime_ns": 1793381633022722462, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981004/01038.jpg", "source_mtime_ns": 1785701102000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981004/01038.jpg", "source_sha256": "e44c5ad3ec813323701ef8b0b48896e245e5efcec753562d1ccfce1c7c818bfb"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 920, "method": "ocr", "page": 1, "variant": "plain-vision"}
+*Howard O. Welty
+*Lee Wendleboe
+Louis West
+A. B. Weston
+Charles Whipple
+Paul Whipple
+*George White
+*Georgie DeRoss White
+James D. White
+* Bea Whittlesey
+*Captain Wilcox
+*Mrs. Captain Wilcox
+C. D. Wilkerson
+J. T. Wilkerson
+* Butch Williams.
+*Bill Wilson
+Bruce Wilson.
+*Everardus B. Wilson.
+*Ida B. Wilson
+*Katherine Wilson
+Niell Wilson
+Charles Wismer
+*Madge Worthington
+Linda Lee Wotring
+ẠCap. H. T. Yokey
+Berkeley, California
+Utah State Road,Utah
+Los Angeles, California
+Phoenix, Arizona
+Portland, Oregon
+Iron Mountain, California
+Indio, California
+Los Angeles, California
+Los Angeles, California
+Laguna Beach, California
+USA Tank Destroyers
+Boulder City, Nevada
+Needles, California
+Phoenix, Arizona
+Kanab, Utah
+Rainbow Lodge, Arizona
+Burlingame, California
+Napa, California
+Napa,
+California
+Rainbow Lodge, Arizona
+..Burlingame, California
+Upper Peninsula, Michigan
+Rainbow Lodge, Arizona
+Elko, Nevada
+Green River, Utah

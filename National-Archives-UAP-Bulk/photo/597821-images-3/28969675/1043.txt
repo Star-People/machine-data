@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:36:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4700702, "source_ctime_ns": 1793378883380241585, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969675/1043.jpg", "source_mtime_ns": 1785701051000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969675/1043.jpg", "source_sha256": "03376ea84cfa6e160c80d659e7902af47262abab83bf45fb6f8bfa53509fb6c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 161, "chars": 1143, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+21 April.
+1957
+3. DATE-TIME GROUP
+Local _
+Gмт25/0215Z
+5. PHOTOS
+• Yes
+OF No
+7. LENGTH OF OBSERVATION
+fifteen minutes
+10.
+BRIEF SUMMARY OF SIGHTING
+One round orange object the size of a
+dime at arm's length. Object moved fo
+the South to the Northwest. Then to the
+West, repeating the movement three
+times in fifteen minutes. Object disa-
+ppeared each time in the West.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+EL
+Centro,
+_California
+4. TYPE OF OBSERVATION
+XX Ground- Visual
+D Air-Visual
+• Ground-Rodar
+• Air-Intercept Radar
+6. SOURCE
+Civilian (GOC)
+8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+• Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+•
+Probably Aircroft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Ox Oh Finres
+Insufficiont Data for Evaluation
+Unk no wm
+9. COURSE
+N to NW tow
+11. COMMENTS
+An ATIC form 164 revealed the
+information included under ten
+not already given in the orginal
+TWX. DisausSion V/COMDR NAVAL CONAL
+revealed that the El Centro Range
+(Navy) has ASW type aircraft that
+have illumination lights that
+answer the description of the
+sighting.
+ATIC FORM 329 (REV 26 SEP 52)

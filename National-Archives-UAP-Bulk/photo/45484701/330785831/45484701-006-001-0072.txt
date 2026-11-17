@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:03:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8939540, "source_ctime_ns": 1793363693762211991, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0072.jpg", "source_mtime_ns": 1785684857000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0072.jpg", "source_sha256": "cf7163959602c455fab022042c8fa87081dd0bdaaecab47c622ca4b1b5a80ac6"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 994, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEAT
+AL
+INFORMATION
+•24-00
+13 August 1952
+SUBJ: Reporting of Information on Unconventional Aircraft and Unidentified
+Flying Objects
+Periodically, press clippings re "flying saucers" are received by
+this office. Neither AFCSI Letter 85 nor AF Letter 200-5 appear to indicate
+whether material of this type is desired by Air Technical Intelligence Center
+or Headquarters OSI.
+In view of the recent increase in alleged sightings of unidentified
+flying objects, a statement of policy regarding such matters is requested
+from your Headquarters in order that this District Office may properly submit
+appropriate reports to interested installation commanders, Air Technical
+Intelligence Center, and Headquarters OSI. It is also requested that this
+office be advised whether press clippings re "flying saucers" should be
+submitted to Headquarters OSI.
+Chas Anarena
+CHARLES P. MARTIN
+District Commander
+co: Plans & Policies Division
+ATIN: Col Matthew Thompson
+Joes
+Declassification Authority: NND 923007

@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:21:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 853189, "source_ctime_ns": 1793390253902068303, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548349/0862.jp2", "source_mtime_ns": 1785808610000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548349/0862.jp2", "source_sha256": "cea051dc8c831dc0d1f78cdfce88872d393ca8f16bd5355f8c4fdd7db4978fff"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1315, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 2
+8. IF you saw the object at NIGHT, what did you notice conceming the STARS and MOON?
+8.1 STARS (Circle One):
+8.2 MOON (Circle One):
+a. None
+Bright moonlight
+b.
+A fow
+Duil moonlight
+Many
+c. No moonlight - pitch dark
+..
+Don't remember
+d. Don't ramember
+9. What were the weather conditions at the time you saw the object?
+CLOUDS (Circle One):
+Claar sky
+Hazy
+c. Scattered clouds
+d. Thick or heavy clouds
+WEATHER (Circle One):
+a. Dry
+b. Fog, mist, or light rain
+c. Moderate or heavy rain
+d. Snow
+e. Don't remember
+10. The object appeared: (Circle One):
+Solid
+Transparent
+c. Vapor
+d. As a light
+a. Don't remember
+11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
+c. Brighter
+c. About the same
+b. Dimmer
+d. Don't know
+11.1 Compare brighiness to some common object:
+12. The edges of the object were:
+(Circie One): a. Fuzzy or blurred
+Like 1 bright star
+Sharply outlined
+Don't ramember
+s. Other
+13. Did the objact:
+a. Appear to stand still at any time?
+b. Suddenly speed up and rush away at any time?
+c. Break up into parts or explode?
+d. Give off smoke?
+e. Change brightness?
+f. Change shape?
+g. Flash or flicker?
+h. Diseppeer and reappeer?
+Yes
+Yes
+Yos
+Yes
+(Circle One for each question)
+Don't know
+Don't know
+Don't know
+Don': know
+Don't know
+Don't know
+No
+Don't know
+Don't know

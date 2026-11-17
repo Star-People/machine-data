@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:50:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6501713, "source_ctime_ns": 1793377272276715267, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963123/1155.jpg", "source_mtime_ns": 1785696700000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963123/1155.jpg", "source_sha256": "c28a31f01a5976aab33df3f66c83c8ae75756c023763631cdd8287109a4b56eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 480, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACTION/
+Matti
+00.855
+nň 28
+DR.
+AR RJWTEH RJEDEN RJEDEP RJEPHO
+DE RJWFKD 46
+212.3.2
+TH. OIC FLT 1-D 45 2D AISS KIRTLAND AFS NME
+IC RJEDEN/CONDR ADC ENT AFB COLO
+INTO RJWFDN/COMDR 34AD /D/ KIRTLAND AFB NME
+YOIN-HEL
+REEPHO/DIR OF INTL HO USAF WASHDC
+IT
+/UN C L A S SIF I E D/ AIS1D 097 PD UFOB PD THE FOLG IS SUBM
+IN COMPLIANCE WITH PARA 7 AFR 2.-2 DTD 12 AUG 54 PD
+1 A CLN ROUND DISC SHAPE
+E CIN DIME
+C OLN SILVER
+D CLN ONE (1)
+E CLN NONE
+F CLN NONE
+G CLN TRAILING SMOKE
+H CLN NONE

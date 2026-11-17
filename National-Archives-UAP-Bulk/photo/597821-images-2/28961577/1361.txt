@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:30:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3495976, "source_ctime_ns": 1793376653914123973, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961577/1361.jpg", "source_mtime_ns": 1785696440000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961577/1361.jpg", "source_sha256": "58bb74adebc97324ea7f48998bf09b32a0a5cb20d442aa65f4fdc5f635edcf24"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 709, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+2. LOCATION
+3. DATE 883
+Local
+PHото38/23306 7aр9A 2955
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+4.
+• Ground- Visual
+• Air- Visual
+6. SOURCE
+8. NUMBER 7 8BJECTS
+D Ground-Radar
+• Air-Intercept Radar
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probbly Aircrat!
+Possibly Aircrof
+D
+000
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+10. THIEF SORMANY OF SICHTING
+-Two (2)
+On 18 Mar 55 the observer noted two (2)
+square, silber objects, the size of anar
+at arm's length??????????, heading due north.
+Much aircraft activity in the area ab
+tine of a ghting. Possibly a/c
+AISOP Form 5 (15 Oct 54)

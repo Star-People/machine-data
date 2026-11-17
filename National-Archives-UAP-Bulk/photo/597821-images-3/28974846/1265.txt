@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:02:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8826203, "source_ctime_ns": 1793380189128810039, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974846/1265.jpg", "source_mtime_ns": 1785700631000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974846/1265.jpg", "source_sha256": "94383bb340edd1943a575cc885a095f0b548f091a75c2a09e0ab9af80b5ed6bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 780, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+tovember
+3. DATE-TIME GROUP
+Locol 1525 EST
+GM T.
+15/20257
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Florida
+• TYPE OF OBSERVATION
+Ct Ground- Visual
+• Air Visual
+SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+2 hrs 30 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Round, white,
+shiny
+object,
+could be
+covered by
+dime held at arm's length.
+• Ground-Radar
+El Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+a
+Probably Aircraft
+Possibly Aircraft
+DiX Was Astronomical
+Venus
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Urik no wn
+9. COURSE
+stationary
+11. COMMENTS
+An astro plot shows the planet Ver
+to be at approx the reported loce
+tion.
+ATIC FORM 329 (RKV 26 SEP 52)

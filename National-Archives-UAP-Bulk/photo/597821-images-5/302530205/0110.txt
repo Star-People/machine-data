@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:28:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1754912, "source_ctime_ns": 1793388603188007920, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530205/0110.jp2", "source_mtime_ns": 1785808576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530205/0110.jp2", "source_sha256": "23e8895ff41ae8cfefc5d97b661181ca6ec69d807c87d2398ab586aaa91cf51d"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 335, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+29 August, 1963
+Kent, England
+SOURCE: FLyIng SAULER REVIN- NOU-DELLS
+Damned fact from Kent
+The London Evening Standard
+on August 29 printed the follow-
+reportarmers
+without
+and
+golice, were which hit Dartford
+police
+spokesman said:
+'We are baffled. There was too
+much of it to be dropped from
+an airplane.'"

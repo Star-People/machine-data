@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:53:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6874886, "source_ctime_ns": 1793377223520735455, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963001/1054.jpg", "source_mtime_ns": 1785696477000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963001/1054.jpg", "source_sha256": "9b976683cc9aa929a8f7cb5968cb543f75850bcb9f9c3a9fc5b0ca7206d53209"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 233, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AT TURM 11A PAKI I
+APPROVED 1 JUNE 1948
+FROM (Agencu)
+Det 3, 4602d AISS
+UNCLASSIFICATION)
+UNIA TOU
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+D3-UFOB-4-55
+PAGE 1-A
+OF
+APPROVED:
+anim wait.
+JOHN M WHITE JR
+Colonel,
+Commander
+PAGES

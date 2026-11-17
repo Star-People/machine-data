@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:00:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8359806, "source_ctime_ns": 1793354422091483217, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0042.jpg", "source_mtime_ns": 1785564282000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0042.jpg", "source_sha256": "d3fa56e4370def2ea901738fa9383bb8f3c1d0e8c49d658fff2c3c54cb1a043b"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 825, "method": "ocr", "page": 1, "variant": "plain-vision"}
+APPENDIX C
+ANALYSIS OF GP FY92 TECHNOLOGY TRANSITION EVENTS BY USERS
+USERS
+NUMBER OF TECHNOLOGY
+PERCENTAGE
+CONTRIBUTIONS
+12
+AF Materiel Command
+SMC
+ESC
+BMO
+RL
+WL
+PL (excluding GP)
+AEDC
+TOTAL AF Materiel Command
+Other AF
+TOTAL AF
+DARPA
+Strategic Defense Initiative Organization
+Defense Nuclear Agency
+Defense Mapping Agency
+ARMY
+NAVY
+Other DoD
+NATO
+TOTAL Technology Contributions
+44
+30
+74
+2
+108
+8.3
+0.9
+0.9
+2.8
+13.0
+3.7
+40.7
+27.8
+68.5
+1.9
+8.3
+1.9
+3.7
+2.8
+9.2
+2.8
+0.9
+100.0
+34
+APPENDIX D
+ANALYSIS OF GP FY92 TECHNOLOGY TRANSITION EVENTS
+GP MAJOR THRUSTS
+MAJOR THRUST
+Space Effects on AF Systems
+Optical and Infrared Technology
+Ionospheric Effects on AF
+Systems
+Terrestrial Effects on AF
+Systems
+Weather Effects on AF Systems
+TOTAL Technology Transitions
+NUMBER OF TECHNOLOGY
+TRANSITIONS
+PERCENT
+15.8
+23.7ł
+32.9
+11.8
+15.8
+100.0

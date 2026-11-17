@@ -1,0 +1,87 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:05:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9591493, "source_ctime_ns": 1793362196545547356, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0217.jpg", "source_mtime_ns": 1785684724000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0217.jpg", "source_sha256": "118c14eb3b3fd6bdeefe054b73ef966b394171b048a227406b1b10d5570bb12b"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1175, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDEN
+8+
+Local flight schedules of commercial aircraft at Woodru Pield,
+Roanoke, Virginia, over period of 12 May 1949.
+American Airlines
+Plight No.
+405
+40%
+393
+410
+Due In
+9:24 A
+10:28 AB
+12:36 PM
+Due Out
+0:36 AŘę
+10:40 AM
+1:56 PM
+Flight 0.
+190
+753
+758
+755
+754
+189
+Eastern Airlines
+Due In
+7540 Ałą
+9:29 AM
+10:21 AN
+2:59 PM
+6:34 PM
+8:46 PM
+10:55 PM
+Piedmont Airlines
+Due In
+9:02 AM
+18:58 AM
+9:10 AM
+2:40 PM
+S:33 PO
+7:85 PHI
+7:48 PM
+8:16 PM
+Due Out
+7:50 At
+9:37 AR
+10:30 AM
+3:10 PM
+6:44 PM
+8 e 56 PM
+11:05 PM
+Flight Ho.
+32
+43
+31
+Due Out
+9:04 AM
+9:13 AM
+9:40 AM
+2:48 PIE
+3:24 PM
+42
+7:51 PM
+8:19 PM
+8:25 PM
+9-
+Information on air activity in vicinity of Roanoke, Virginia, on
+12 May 1949 covering period around sunset, received from Control Tower Operai
+tors of Toodrun Pield, Virginia, is as follows:
+The Air Reserve Unit ha
+flight in
+air at that time.
+Two Savons from Woodrum
+Field were flying local.
+Ce
+No sir traffic excopt
+scheduled Airlines were khow to be in
+the area during the period of sun dow
+and for some time thereafter.
+No known objects are released in this ares except weather burosu
+balloons used for winds aloft readings.
+Declassification Authority: NND 923007

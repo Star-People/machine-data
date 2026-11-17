@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:57:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7852219, "source_ctime_ns": 1793354760937037208, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0116.jpg", "source_mtime_ns": 1785564336000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0116.jpg", "source_sha256": "230862978c151df26c037f90d3c125cb42e360fa484885148b4fa73848665068"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 992, "method": "ocr", "page": 1, "variant": "plain-vision"}
+7 CMR, P. 581, United States v. Hanna (ACM 5819)
+The instructions would have been improved if the court-martial had also
+been informed in detail that conduct unbecoming an officer:
+• is action or behavior in an official capacity which, in dishonoring
+or disgracing the individual as an officer, seriously compromises his
+character as a gentleman, or action or behavior in an unofficial or
+private capacity which, in dishonoring or disgracing the individual per-
+Sor 212} serlously compromises his standing as an officer." (MCM, 1951,
+Likewise, it would have been better if the court had been informed that
+conduct of a nature to bring discredit upon the armed forces means "to injure
+the reputation of the service (MO, 1951, par 213b). Nevertheless, the
+Board is of the opinion that the instructions as to Specification 2, taken
+all together, were adequate to provide the court-martial with the required
+pattern against which it could apply the facts in evidence and fairly
+judge the issues.

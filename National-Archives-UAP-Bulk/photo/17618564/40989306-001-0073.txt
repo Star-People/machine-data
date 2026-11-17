@@ -1,0 +1,85 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:29:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2513027, "source_ctime_ns": 1793356166584435103, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0073.jpg", "source_mtime_ns": 1785564626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0073.jpg", "source_sha256": "6bd865d04825895c08678841803a426a54b14d566b1426265247d5a65455186f"}
+
+===== PAGE 1 =====
+{"alpha_words": 327, "chars": 2423, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AN/FMQ-1(*)
+CONFIDENTIAL
+Fiqure 6. Radiosonde Receptor AN/FMQ-1.
+Status: Limited/Std. Stock No.: 7A1326. Ref-
+rence: TM 11-2403.
+Radiosonde Receptor AN/FMQ-1(*) represents
+Radiosonde Receptors AN/FMQ-1 and AN/FMQ-
+14. Radiosonde Receptor AN/FMQ-1(*) is an
+assembly of electronic and electromechanical
+devices especially designed to receive, indicate,
+and record in printed form radio-frequency signals
+modulated at an audio-frequency rate that are
+transmitted by radiosondes such as Radiosondes
+AN/AMT-1 and AN/AMT-2. The receptor can
+be used independently for 72.2-megacycle opera-
+tion (AN/AMT-1); for 403-megacycle operation
+(AN/AMT-2), Radio Set SCR-658 is used in
+conjunction with the receptor. All the com-
+ponents of Radiosonde Receptor AN/FMQ-1(*),
+except the antennas, are mounted on one rack.
+MODIFIED HANDLING AUTHORIZED
+TECHNICAL CHARACTERISTICS
+RADIOSONDE RECEIVER R-17/FMQ-1
+TYPE: Superregenerative.
+R-F RANGE: 56 to 85 me.
+TYPE OF SIGNALS RECEIVED: A-m.
+NUMBER OF TUBES: 8.
+POWER REQUIREMENT: 115-v to 125-r, 60-cyc
+ac.
+ANTENNA: Coaxial vertical dipole.
+FREQUENCY METER TS-29/FMQ-1
+A-F RANGE: 0 to 200 eps.
+NUMBER OF TUBES: 8
+POWER REQUIREMENT: 115-v, 60-cyc ac.
+RADIOSONDE RECORDER RD-3/FMQ-1
+CURRENT RANGE: 0 to 500 ma.
+NUMBER OF TUBES: 2.
+RATE OF PAPER FEED: 4 in. per minute.
+AMPLIFIER AM-7/FMQ-1
+TYPE: Pulse.
+NUMBER OF TUBES: 6.
+POWER REQUIREMENT: 115-v, 60-eve ac.
+VOLTAGE REGULATOR CN-2/FMQ-1
+INPUT VOLTAGE: 105 v to 125 v.
+INPUT CURRENT: 2.3 amp.
+INPUT FREQUENCY: 60 +2 cps.
+OUTPUT VOLTAGE: 115 v, +.5 percent.
+OUTPUT CURRENT: 1.3 amp.
+PHASE: Single.
+ANTENNA ASSEMBLY AS-11/FMQ-1
+TYPE: Coaxial vertical dipole.
+TRANSMISSION LINE: Radio-Frequency Cble
+RG-11/U, flexible coaxial (solid dielectric); 75-ohm
+nominal impedance; 200 ft 1g.
+Note. The technical characteristics listed above for the individual com-
+ponents of Radiosonde Receptor AN/FMQ-1(*) apply equally to any model
+of the component.
+PRINCIPAL COMPONENTS
+Radiosonde Receiver R-17/FMQ-1
+Radiosonde Recorder RD-3/FMQ-1
+Frequency Meter TS-29/FMQ-1
+Amplifier AM-7/FMQ-1
+Voltage Regulator CN-2/FMQ-1
+Rack Assembly MT-47/FMQ-1
+Antenna Assembly AS-11/FMQ-1 (two)
+Note. Any model of any of the above equipments may be used as a com-
+ponent of Radiosonde Receptor AN/FMQ-1(*).
+WEIGHTS AND VOLUMES
+Total weight (Ib) -
+Total volume (cu ft)
+Ship tons
+Domestic
+Export
+packed
+packed
+1, 015 1, 309
+96
+138.
+3. 45
+CONFIDENTIAL
+MODIFIED HANDLING AUTHORIZE.

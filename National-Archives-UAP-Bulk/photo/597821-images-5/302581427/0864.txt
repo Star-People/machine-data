@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:22:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 978793, "source_ctime_ns": 1793393860149413092, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302581427/0864.jp2", "source_mtime_ns": 1785808205000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302581427/0864.jp2", "source_sha256": "f5ebe81e723b054ee726d044d071271146aec25e34e9c7116dc6cb9574087ef7"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 471, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5 FEB 1969
+TDPT (UFO)
+UFO Observation of 30 Dec 68 and 1 Jan 69
+out Street
+New Carl16le, Indiana 46552
+Enclosed are the polaroid backings, polaroid prints, and color
+negatives that you submitted to this office.
+No image could be
+found that we consider a UFO on any of these photos.
+SECTOR QUINTANILLA, Jr, Lt Colonel, USA
+Chief, Aerial Phenomena branc
+Aerospace Technologies Division
+Production Directorate
+34 Atch
+13 polaroid backings
+13 polaroid prints
+color negatives

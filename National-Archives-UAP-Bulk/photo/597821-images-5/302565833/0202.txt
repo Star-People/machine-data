@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:20:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 803822, "source_ctime_ns": 1793392223337346098, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565833/0202.jp2", "source_mtime_ns": 1785808640000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565833/0202.jp2", "source_sha256": "33d1504cdfecb0fcc46201c667b96f03cc984001c0a8e8be0db9c6b54d3f2a73"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 541, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PHOTOGRAPHIC
+DATA
+1. Type and make of camera
+2. Type, focal length, and make of lens
+3. Brand and type of film
+4. Shutter speed used
+5. lens opening used; that is, "rt stop
+6. Filters used
+7. Was tripod or solid stand used
+8. Was "panning" used
+9. Exact direction camera was pointing with relation to true North, and
+its angle with respect to the ground.
+10. If supplemental information is unobtainable, the minimum camera data
+required are the type of camera, and the smallest and largest "f" stop
+and shutter speed readings of the camera.

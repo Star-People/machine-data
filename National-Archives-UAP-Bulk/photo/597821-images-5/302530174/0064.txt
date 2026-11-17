@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:28:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1749704, "source_ctime_ns": 1793388598053767304, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530174/0064.jp2", "source_mtime_ns": 1785808143000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530174/0064.jp2", "source_sha256": "170a380fdff69ba0134ebe7f1607dcdac1ff7bee493b43d7e1466a2021046bb5"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 726, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFIN
+INFO
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+ONCESSIFO MESSAGE
+: 32921 (25 Aug 63) 9 M IN G
+Pg 1 of 2
+* N51-7, X95-15, 0RA-43, 0L8 76-2 (122) ARNY-2, CMC-8,
+01
+SIB AJ34
+ZCHQAJ73Z0QJA972
+DO RUBANO
+ZAR ZFH1
+CSUB073ZCMCA640
+O RUZANO RUECH RUAUAZ RUNGALE RUNAFS
+ZFM- 1
+A. 123
+DE RUALKH 3
+DO RUNLAM RUEAHQ RUECE RUMPH RUMPS RUMPA RUAUAZ RUNGALS RUNAPS
+0 25035 72
+PH 325 AIR DIV KUNIU FACILITY HAWAII
+TO RUHLKM/PACAF HICAN AFB HAWAII
+RUMPHH/COMMAWSEAFRON PEARL HARBOR MAWAII
+INFO RUEAH/CSAF USAF WASH DO
+RUECH/ONO WASH DO
+RUECH/SEONAV WASH DO
+RUNGALE/C INCNORAD ENT AFE COLO
+RUMPA/C INPA CAMP H M SMITH HAWAII
+RUNAFS/C INCUSARPAC FT SHAFTER HAWAII
+RUHPEVCINCPACFLT PEARL HARBOR HAWAII
+RUAJAZ/C MUSJAPAN FUCHU AS JAPAN

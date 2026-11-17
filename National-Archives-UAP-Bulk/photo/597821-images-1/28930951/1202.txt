@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:49:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6136644, "source_ctime_ns": 1793369194325080653, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930951/1202.jpg", "source_mtime_ns": 1785688811000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930951/1202.jpg", "source_sha256": "a340fd311347843d30269ee87db3c9e0e0df4129c0b9037488d5708d92bfc523"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 419, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ATIC
+ПРОКТ I.
+MA02 OF
+TIE OF ST
+SHAPI
+TIG
+1500
+COUROR
+NO. IN GRO
+SOUND
+PHOTOS
+Temporary ATIC Form 329
+(2 Jan 52)
+SKETCHES
+Incident #214
+L DATE OF TITO
+7 July 1948
+LOCATION
+West Rindge, I. H.
+Male Civilian
+SOURCE_
+DATE IN TO ATIC
+COLOR_
+SPPED
+ALTITUDE
+StAnted
+Mea murd
+Estinat
+He asured
+IRIGTH OF TIN: OBSERVED_
+TYPE OF OBSERVATION
+Ground
+MANEUVERS
+Remarks:
+Investigation not complete,
+Pant Residue
+from
+Stain locomotin

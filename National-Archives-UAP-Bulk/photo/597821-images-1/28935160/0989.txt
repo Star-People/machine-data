@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:37:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4816830, "source_ctime_ns": 1793370718222329324, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935160/0989.jpg", "source_mtime_ns": 1785688694000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935160/0989.jpg", "source_sha256": "209628c889b950d480eb22608c2087e7b6651b24959f4ee164ce4405c741f415"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 700, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+30 May 1949 30/1332(L)
+3. SOURCE
+Military
+4. NUMBER OF OBJECTS
+On e
+LENGTH OF OBSERVATION
+3 Minutes
+2. LOC
+'ON
+i Paso, Texas
+10. CONCLUSION
+AIRCRAFT
+An F5l type fighter in area at approx 1330 hours.
+No data presented to indicate object could not have been an A/C.
+6. TYPE OF OBSERVATION
+Ground-Visual
+BRIEF SUMMARY AND ANALYSIS
+Observer was watching a fighter a/c in area when his attentior
+was attracted by a bright reflective object.
+Object was oblong
+glassy or shiny. Object went from 90 deg to 35 deg of arc in
+3 minutes.
+7. COURSE
+ENE
+8. PHOTOS
+• Yes
+XI NO
+9. PHYSICAL EVIDENCE
+• Yes
+XEL NO
+FORM
+FTD SEP 63 0-329 (TDE)
+Previor
+of this form may be used.
