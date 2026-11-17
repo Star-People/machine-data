@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T21:15:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1294553, "source_ctime_ns": 1793390541092075787, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550865/0678.jp2", "source_mtime_ns": 1785808486000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550865/0678.jp2", "source_sha256": "fb7974aeccfda149cdeef2cdfa3265a260bfe680accc01acdaa412f04d08ddc4"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 547, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eS CHANDRA O/F1O- | OM ayes
+
+FTD (TDEwW) :
+Wright-Patterson AFB, Ohio 45433
+13 May 1966
+
+ee:
+
+a_i
+Camden, Ohio 45311
+Dear Mr .<iiagesieiipep
+
+Reference your recent unidentified observation of 10 Mey 1966.
+The information which we have received is not sufficient for
+evaluation. Request you complete the attached FTD Form 164,
+and return it in the envelope provided.
+
+we wish to thank you for reporting your observation to the
+Air Force.
+
+Sincerely,
+
+fA
+HECTOR QUINTANILLA, Jr, Major, USAF 1 Atch
+
+Chief, Project Blue Book FTD Form 164 w/envelope

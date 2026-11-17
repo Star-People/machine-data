@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T21:45:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8340619, "source_ctime_ns": 1793354543292606066, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0029.jpg", "source_mtime_ns": 1785564303000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0029.jpg", "source_sha256": "0b0d2b2706460721f02c006716a924b786e8f0a04f2e99aa4c64b5dd062f2a68"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 689, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MHAG22°
+
+MM RJEPHQ
+
+DE RJEDMH 483
+
+M @11946Z
+
+FM CINCSAC OFFUTT AFB NEBR
+
+TO RJWFLK/COMAIRDIV 47 WALKER AFB N MEX
+INFO RJWPRH/COMAF 15 MARCH AFB CALIF
+RJEPHQ/COFS USAF WASHINGTON DC
+
+BT
+
+/UNCLAS/ DPMPS 36886. SUBJ: CONTTEMPLATED ACTION
+
+a
+
+IN THE CASE OF LT COL GEORGE F. ADAMS, AO 257 543. REFERENCE
+TELEPHONE CONVERSATION 30 APR 57, CWO HULL, THIS HEADQUARTERS,
+AND REPRESENTATIVE OF HQ 15TH AF INDICATING THAT
+
+COURT-MARTIAL CHARGES WOULD BE PREFERRED AGAINST LT COL ADAMS
+
+°a HOUOWD ‘swvay
+
+ON 2 MAY. REQUEST THIS HEADQUARTERS BE ADVISED BY PRIORITY
+
+|
+i
+|
+i
+)
+\
+
+MESSAGE WITHIN 24 HOURS AFTER CHARGES ARE PREFERRED.
+BT
+@i/2i148Z APR RJEDMH
+
+~
+ASp, CSI, CDS, PMP
+i
+
+y
+
+159 (2 May 57)

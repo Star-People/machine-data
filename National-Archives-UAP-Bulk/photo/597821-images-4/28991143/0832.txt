@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T21:38:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7078579, "source_ctime_ns": 1793384819652307592, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991143/0832.jpg", "source_mtime_ns": 1785747998000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991143/0832.jpg", "source_sha256": "537e17f6f6521d0ea4de00e425b2e574da037d93772aaebf1a5adba555afdce8"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 248, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. ? « foe \
+Md 7
+(
+
+9. It is requested that you pass this information to SAFLL for forwarding me
+to Mr. Robert Smart, House Armed Services Sub-Committee. Sa
+
+FOR THE COMMANDER:
+} SAZ Or
+
+hea i, ies
+
+Colonel, USAF
+Deputy for Science and Components

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T21:42:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8009207, "source_ctime_ns": 1793363420872780232, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0021.jpg", "source_mtime_ns": 1785684651000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0021.jpg", "source_sha256": "b3265ef4ed4bd1919369179384faa5dcf2f8e77a05c71d7f7824d6b3b74fd4f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 684, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a,
+4
+
+he No unusuel activity reported by Weather Bureau which
+might account for sighting.
+
+i. None.
+dj» None reported.
+
+ke The Operations Officer at the U. S. Naval Air Station
+advised that there is no recor of flights of any type from
+the Naval Air Station by any units during period of sighting
+of unidentified object. In view of the preceding information,
+a determination could not be made of the possible cause of the
+
+de None.
+
+4, MeDONALD appeared to be of above averege intelligence and
+judgement. He expressed himself calmly and factually in des-
+eribing the sighting.
+
+FRANK M. CLARK Copy to: Dir OSI, AFCSI-6D
+It Cole, USAF
+Commander
+
+Declassification Authority: NND 923007

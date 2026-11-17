@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T21:48:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9512263, "source_ctime_ns": 1793365151009795213, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0042.jpg", "source_mtime_ns": 1785684781000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0042.jpg", "source_sha256": "7e9c69e2bd523ec57218befd60d3424805d2d86bb7e2476f7960e7e7a4429683"}
+
+===== PAGE 1 =====
+{"alpha_words": 14, "chars": 113, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+J Ald VAIN Y3LNNOS
+
+ut’ Ov
+<afgg}eowo
+aa er ee tll
+
+“o
+
+0¢ 80 02 434 6&6
+
+Declassification Authority: NND 923007

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T21:11:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 744124, "source_ctime_ns": 1793356018674632671, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0131.jpg", "source_mtime_ns": 1785564584000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0131.jpg", "source_sha256": "7bcdf44426f7d72e5f468fb35794f527af40aa0260f6650a4b9981ad0ffc318d"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 859, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Launch of Project MOGUL neoprene balloons, Alamogordo
+AAF, NM, July 1947. While awaiting the experimental
+polyethylene balloons, NYU engineers utilized long trains of the
+smaller neoprene balloons as a stopgap method of placing their
+acoustic sensors in the upper atmosphere. These balloon trains
+consisted of a variety of equipment and measured more than 600
+feet long (see Atch 25). Photo Collection of Albert P. Crary.
+
+Standard 350-gram meteorological weather balloons in the North Hangar
+at Alamogordo AAF for use by Project MOGUL in June 1947. Although the
+balloons themselves were common, the remainder of the equipment on the
+MOGUL trains was experimental or had been recently placed in service (see
+Atch 25). It would not be unusual for individuals uninvolved in the
+development of these devices not to recognize them. Photo Courtesy of C.B. Moore.

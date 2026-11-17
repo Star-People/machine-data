@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T21:35:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6360820, "source_ctime_ns": 1793361853081710953, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0108.jpg", "source_mtime_ns": 1785685077000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0108.jpg", "source_sha256": "84b286df33ec63098e352212a35d699f8d551d212c524e7ce4ccd404e8d51640"}
+
+===== PAGE 1 =====
+{"alpha_words": 206, "chars": 1377, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 25, D.C. :
+Office of Spefial Investigations
+The Inspector General
+
+S,
+TWX Report re Circular Ring Object
+SPECIAL INQUIRY
+
+District Commander, 14th OSI District (IG)
+Lowry Air Force Base, Denver, Colorado
+
+"=
+
+3B This headquarters is in receipt of action copy of a TWX
+which makes reference to the fact that your office conducted an
+investigation regarding the circular ring-like object found near
+Delta, Colorado by a rancher,
+
+2. It is noticed that the addressee of the TWX is Air Materiel
+Command with informational copies to the Director of Intelligence,
+Hq. USAF; the Commanding General, Air Training Command; the Commanding
+General, Scott Air Force Base,
+
+3. Request this office be advised whether or not this TWX was
+dispatched by your office or by the Base Intelligence Officer, This
+request is based upon the fact that if this TWX was transmitted by
+your office, your attention is called to the fact that the distribution
+made by your office would be inappropriate, and in addition the TWX
+should have been addressed to this headquarters which office will take
+the necessary action to ensure that the interested commands are informed,
+
+FOR THE DIRECTOR;
+
+WILLIAM M. TURNER
+Lt, Colonel, USAF
+Executive, Special Investigations
+fe Thispector General, USAT
+
+Declassification Authority: NND 923007

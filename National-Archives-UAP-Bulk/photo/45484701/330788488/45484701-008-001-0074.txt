@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T21:45:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8211126, "source_ctime_ns": 1793365219854151825, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0074.jpg", "source_mtime_ns": 1785684667000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0074.jpg", "source_sha256": "d1017130ee66e782a359037091bd6f711407304f81e198857a802c607505b2bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 133, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee ei einem ee
+
+'
+
+t
+
+ANREP
+
+a
+
+SS SE EA CCS SEAN Sao
+
+aeeiniaeetntiteeet
+
+ao 5 ES
+
+A Re Bat
+
+NND 923007
+
+Declassification Authority
