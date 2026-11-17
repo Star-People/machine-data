@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:17:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3912814, "source_ctime_ns": 1793375436648674661, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956257/0898.jpg", "source_mtime_ns": 1785696900000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956257/0898.jpg", "source_sha256": "85cca6bf0f80633e989e1717ba1bf91559d09c9413ee8cfb3b0b9aded8abceba"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 810, "method": "ocr", "page": 1, "variant": "plain-vision"}
+550253 13 552
+WPE138
+YMBØ88
+JEDLS A055
+EFD324
+EMERGENCYJEDEN JEDWP JEPHQ JEPFF JEPRS 555
+DE JEDES
+208
+Y 8513007
+FM COMILFLTSVCOMMSYS
+OLMSTED AFB MIDDLETOWN PENN
+TO JEPHQ DIR OFFINTEL
+HQ USAF WASHDC
+JEDWP/AIR TECH INTEL CEN WRIGHT-PATTERSON AFB OHIO
+JEDEN/CG ADC ENT AFB COLO
+JEPFF/COMDR MATS WASKDE
+JEPRS/HQ FLT SV WASHDC
+CIRVIS 35/15N 109/53W 132/25NM FROM HOLBROOK ARIZONA UNIDENTIFIED
+OBJECT FLYING EASTERLY DIRECTION EMITTING SINGLE PULSATING JET TYPE
+BLUE FLAME ALTITUDE APPROX 18 TO 20 THOUSAND FLIGHT PATH STEADY
+ESTIMATED SPEED OVER 502 MPH. 10920 FEET 19NM SOUTH 2225M VERIFIED
+BY NAVIGATOR ZUNI RADIO GROUND OBSERVER AIRCRAFT 833 REPORTING
+TO INW ARIZONA APPROX SAME TIME WX CAVU WIND VELOCITY 16K 223
+DEGREES 8505252 JAMES M HAYES, JRLT COL USAF HO 32 BOMB WG FLYING
+A/C 43-48909
+25/13202 SEP JEOLS

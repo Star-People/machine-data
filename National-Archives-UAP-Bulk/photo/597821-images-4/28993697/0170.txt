@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:40:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8358061, "source_ctime_ns": 1793385580493798631, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993697/0170.jpg", "source_mtime_ns": 1785748340000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993697/0170.jpg", "source_sha256": "e7521b93a5cbabb12474d3878f6b4635641d83128883fe25954e6361cdaf1ace"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 553, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+AF IN : 8380
+ACTION: CIN-17
+INFO :
+OOP-2, SAFS-3, 01ł
+CZ 096
+CHQA283ZCBJB603Í
+'**•'ZZ RJEZHQ
+DE REPAC 039
+Z NR
+Z 2905432
+FM COMBARAR GENT IAG
+TO RBEKHC/CINCLANTFLT
+RJWFAL B/VINCONAD
+RJEZSN/16TH NORAD RZGION
+RJEZHQ/ HQ USAF
+RBEPW/ CNG
+CBE GUK/ COME AST SEAFRON
+INFO R$, ?) / COMBARLANI
+NAVY GRNC
+(23)
+UNCLAE.
+ALOCATING ONE - UFO
+1. SINGLE UF OB
+2. 4029N 3623W
+8. 2905907
+4. 110 DEG
+5. VISUAL
+6. LOST CONTACT 401-N 3433WL0515Z
+BT NOTE: Advance copy delivered to CIN & OOP-CP
+(290225R)

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:19:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4238093, "source_ctime_ns": 1793377690081654383, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964964/1260.jpg", "source_mtime_ns": 1785696821000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964964/1260.jpg", "source_sha256": "d46a973ea76158a09260444331997cf2721fac79a23147d1e3dd9b2779956ddf"}
+
+===== PAGE 1 =====
+{"alpha_words": 203, "chars": 1197, "method": "ocr", "page": 1, "variant": "plain-vision"}
+?.UN C L A SS IF I E D / OPS 23-232 CMM UFOB CMM UP JCADF INTERL:
+CHANGE 1 TO CONADM 55-1 CMM THE FOL REPT IS SUBMITTED PD PAR 906A
+(4)(A)1 PD EGG SHAPED LIGHT PD (A)2 PD AUTOMOBILE PD (A)3 GOLDEN
+YELLOW THEN RED PD (A)4 PD ONE PD (A)5 PD N/A PD (A)6 PD BRIGHT LIGHT
+PD (A)7 PD N/A PD (A)8 PD NONE PD (A)9 PD NONE PD
+PAR 906A (4)(8)1 PD BRIGHT LIGHT PD (B)2 090 DEG - 20 DEG UP PD
+(B)3 PD 092 DEG -30 DEG UP PD (B)4 PD STRAIGHT UP PD (B)5 PD LIGHT
+WINT OUT PD (B)6 PD 3-4 MIN PD PAR 926A(4)(C)1 PD GROUND VISUAL PD
+(C)2 PD THRU WINDSHIELD OF AUTO AND SPECTACLES PD (C)3 PD N/A PD
+PAR 926A(4)(D)1 PD 28/2412Z FEB 56 PD (D)2 PD NIGHT PD PAR 906A(4)
+PAGE TWO RJWFHW 1Q
+(E) PD 5 MI SO CEDAR HILL TEX PD (F)1 PD
+EMM 47 CMM
+CEDAR HILL TEX CMM DEPT STORE STOCK MGR SEMI CLN BYRON
+BUZBY CMM UNK CMM 517 COLLEGE CMM GRAND PRAIRIE TEX CMM UNK SEMI CLN
+MRS BYRON BUZBY CMM UNK CMM SAME CMM UNK PD (F)2 PD I B CLARK CMM
+MAJ CMM USMCR DALLAS NAS TEX CMM UNK CMM UNK PD (G) 1 PD CAVU PD
+(G)2 PD SURFACE NONE - ALOFT NOT AVAILABLE PD(G)3 PD CLEAR PD (G) 4
+PD UNLMTD PD (G)5 NONE PD (G)6 PD NONE PD (H) PD NEG PD (I) PD N/A
+PD (J) PD UNK PD (K) PD OPER OFF CMM CAPT CMM NONE PD (1)
+PD NONE PD
+22/9215Z FEB RJWFHW

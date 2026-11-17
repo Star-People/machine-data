@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:04:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 834541, "source_ctime_ns": 1793391569427203310, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559571/0023.jp2", "source_mtime_ns": 1785808110000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559571/0023.jp2", "source_sha256": "b61c0cc1171de51cd346c82adac6d5b67095fc95a21517c54bbbaa80b235fc55"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 838, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS 3640TH PILOT TRAINING WING (ATC)
+LAREDO AIR FORCE BASE, TEXAS 78041
+REPLY TO
+ATTN OF:
+SUBJECT:
+DCO-OP
+UFO
+TO:
+AFSC (FTD)
+80-17
+The following UFO report is submitted in accordance with AFR 200-2:
+a. Description of Objects):
+(1) Shape: Cigar shaped.
+(2) Size: Larger than a star.
+(3) Color: Flashing blue and red.
+(4) Number: 3
+(5) Formation: Separated but in a straight line.
+(6) Any discerible features or details: None
+(7) Tail, trail, or exhaust: White-ish smoke.
+(8) Sound: None
+(9) Other pertinent or unusual features: None.
+b. Description of Course of Objects):
+(1) What first called the attention of observer(s) to the objects)?
+Attention first caught by a flashing Red-Green star.
+(2) Angle or elevation and aximuth of objects) when first observed:
+Elevation - 025°
+Azimuth ~ 090°
+Send 164

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:23:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5318692, "source_ctime_ns": 1793359211628416126, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-048-0003.tif", "source_mtime_ns": 1785681346000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-048-0003.tif", "source_sha256": "bc4db313d424a5e4d1f76026d37877d455283d0e2245c715a2c33c866793c785"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 477, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE THREENDE RJEDUS 1H
+7 WEATHER AND WINDS ALOFT CONDITION AT TIME AND PLACE OF SIGHTING
+A CLEAR 15
+3 SURFACE LIGHT AND VARIABLE
+S300 300 DEG 15 KT:
+13000 280 DEG 10KT
+15320 270 DFG 20KT
+20202
+260 DEG 29 KT
+33020:262 DEG 36 KT
+58000
+NOT AVAILABLE
+B0000 NOT AVAILABLE
+C CLEAR
+D 15 MILES
+E NONE
+F NONE
+R NONE
+© UKN
+12 UKN
+11 CAPT
+R W MCGUIRE FLIGHT SERVICE CLEARANCE OFFICER NONE
+12 NOVE
+PT
+03/0035Z OCT RJEDLS
+RGR UP
+991EEEEE
+YORGR UR 201

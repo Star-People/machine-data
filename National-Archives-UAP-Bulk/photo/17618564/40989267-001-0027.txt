@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:46:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14932979, "source_ctime_ns": 1793355444813257839, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0027.jpg", "source_mtime_ns": 1785564456000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0027.jpg", "source_sha256": "fc05f22d7568fb74dc5351a7afeb387fca000b8f9d235d82de1026c021bead95"}
+
+===== PAGE 1 =====
+{"alpha_words": 520, "chars": 3575, "method": "ocr", "page": 1, "variant": "plain-vision"}
+These basic films have served well for the early research flights of the 40's
+and 50's which were in most cases light payloads and relatively inexpensive equip-
+ment. Today, however, with the more complex requirements of our space age,
+such as expensive and complex telescopes and research equipment, requirements
+for better balloon control in air-space, and special payload handling conditions, the
+payloads are becoming heavier and the requirements for reliability are more im-
+portant.
+These more complex requirements require a good deal of time and work
+to design and set up. Ideal flight conditions cannot always be obtained with respect
+to geographical location, time of day, season, or cost of field operations.
+The
+balloon system, therefore, must be capable of survival with a high degree of
+reliability.
+The standard packaging films by themselves have not been able to satisfy these
+advanced requirements. However, through combining the properties of existing
+materials in such a way as to produce a hybrid material approaching the balloon
+designer requirements, some outstanding results have been achieved. We have
+designed a material to meet a vehicle requirement, we have not designed the
+vehicle around an existing material.
+2. DISCUSSION
+2. 1 Heavy-Load Balloons
+Under Contract with ONR, a study was established to develop a heavy load
+material with the following requirements:
+1. High tensile and impact strength.
+2. Low service temperature - 100 C.
+3. Absolute tear stopping properties at low temperature and room temperature.
+4. Weight equivalent to 2-mil poly or less.
+5. Forgiveness, a high degree of latitude in handling and fabrication to reduce
+the probability of fabrication defects and flight damage. It is impractical to con-
+sider that a large plastic balloon can be given 100 percent inspection and, of
+course, it is impossible to pretest the balloon prior to flight. Therefore, it is
+important to design the reliability into the basic material and balloon design.
+This study resulted in what we call the GT-10, GT-11, and GT-12 laminates
+consisting of 1/4-mil, 1/3-mil, and 1/2-mil Mylar respectively, laminated to a 12
+by 4, two ply fill, 220 denier Dacron leno with GT-301 adhesive system (Figure 1).
+This all-polyester film has thermal properties similar to Mylar with added tensile
+and tear strength (Figure 2). The GT-10 weighs the same per unit area as 1.8-mil
+220 DENIER
+DACRON WARP
+12 PER INCH
+2 PLY
+220-DENIER
+DACRON FILL
+4 PER INCH
+GT-301 ADHESIVE SYSTEM
+MYLAR SUBSTRATE 1/4 TO ½ MIL
+Figure 1. GT-10 Series Materials
+STRENGTH TO
+WEIGHT RATIO
+TEAR RATIO
+POLYETHY LENE
+MYLAR
+GT - 10
+GT- 11
+GT- 12
+17. 2
+16.6
+15
+1
+0.2
+40
+40
+40
+Figure 2. Comparison of the Mechanical Properties of Five Balloon Films
+polyethylene and has an ultimate tensile of 40 pounds per inch in the machine
+direction and 30 pounds per inch in the transverse direction.
+Seals can be made
+on this material which have the same strength as the film.
+Other combinations of plastic films and woven materials were also investigated.
+However, this particular combination (Mylar-Dacron) resulted in the best balance
+of properties at a moderate cost. The substitute of less expensive materials, for example
+biaxially oriented polypropylene film, polypropylene fibers, rayon fibers, would
+reduce the cost of the material slightly; however, some loss in strength properties
+of the materials also resulted from the substitutions.
+Although the GT-10 series material has been in existence only three years its
+records have been outstanding. Four of the five major telescope and camera

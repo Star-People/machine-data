@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:35:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8480234, "source_ctime_ns": 1793359481413059054, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-038-0001.tif", "source_mtime_ns": 1785681426000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-038-0001.tif", "source_sha256": "676b75f4a197b822b0a6e3406a2dd399c657fd147506d3be68c084e04c52ad55"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 1206, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+15212F+
+01 5
+ENO013
+ENA221 YDC193 XYD199 XDF128
+JBA089JBF004
+00. RJEDEN RJEDWP RJEPHQ
+DE RJWPJB 4F
+0 151915Z
+FM COMDR 75ØTH ACWRON BORON CALIF
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+RJWPJB/COMDR 27TH ADD NORTON AFB SAN BERNARDINO CALIF
+ARJEDWRZGHM PATTERSON AFB OHIO
+NNNONEFHEXDERENNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNG
+CeCeCCCCCCCCCCCCCCCCCCCCCCCCCCECCCCCCT R OF INTELLIGENCE HEADUARTERS USAF W
+ASHINGTON DC
+UNCLAS 750TH 0647 AITN:NU.F.0.B.
+-• (A) ROUND
+N(B) HEAD OF PIN
+(C) WHITE
+(D50
+- 1
+(E) N/A
+(F) NONE
+(G) NONE
+(H) NONE
+(I) NONE
+4602D AISS UFOB REPT.
+275
+Pxob Bln.
+DATE TIME CROUP 15/1.750. Z aug 5
+SHAFTER, CAL.
+PAGE TWO OF RJWPJB 4F
+2* (A) OBSERVED DURCNG NORMAL COURSE OF GOC OBSERVING
+(B) DIRECTLY OVERHEAD
+(C) DIRECTLY OVERHEAD
+(D)NDRIFTING SLIGHTLY TO LEFT AND RIGHT
+(E)
+TADED
+(F) 8 MINUTES
+3. (A) GROUND - VISUUL
+(B) NONE
+(C) N/U
+4: (A) 15/1750Z
+(8)
+DAX
+0. 119.18 W 35.19 N OR AF 42-29
+•. NONE
+(7) 235- 10MI
+(A) ART STEWART ACE IINGOC OBSERVER AT GOC POST IN SHAFTER CAL.
+(A). CLEAR
+(B) ÇLEAR 15MI VIS WINDS CALM
+(C) NONE
+(D) T MI
+(E) NONE
+(F) NONE
+(8) NONE
+CO NONE
+PL NONE
+C11>
+DUTX DIR
+(12) NONE
+BT
+ЭTXQOWIZ AUG RJWPJB

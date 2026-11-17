@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:20:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4782353, "source_ctime_ns": 1793354369159463385, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989198-001-0031.jpg", "source_mtime_ns": 1785564273000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989198-001-0031.jpg", "source_sha256": "2e622849d719c0962468621bbd4df03322e6a6f17a3e1f096b1bd0bff8d5e86b"}
+
+===== PAGE 1 =====
+{"alpha_words": 325, "chars": 2115, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Before the Commission report was
+published,
+the National Space
+Transportation System program manager at the Johnson Space Center
+initiated a thorough review of the entire range of crew
+and escape options. A team was formed consisting of NASA
+engineers, industry, and military
+experts (including the crew
+experts from the Air Force Aeronautical
+Laboratories in Ohio).
+On June 30
+of this year,
+the
+team finished a two month conceptual
+study which picked
+up where previous
+shuttle escape studies left
+off in examining state of the art systems.
+As a result
+of the
+escape
+team study, the shuttle
+program manager
+has
+issued instructions to the Kennedy Space Center
+improve
+their ground egress systems and procedures and to the Orbiter
+Project Office
+to work with the prime orbiter contractor
+(Rockwell International) on a more detailed study of a variety of
+escape options.
+Included are manual and rocket assisted bailout,
+rocket extraction, ejection seats and ejection pods. These
+studies will define cost and schedule impacts for each concept
+and will be used to help the shuttle program manager decide what
+sort of
+egress/escape system will be implemented before the next
+flight, as well as the
+longer term.
+Additionally, reviews are currently underway in the areas of
+shuttle hardware
+concerns, intact abort capabilities (those
+emergencies where
+the orbiter can be flown safely to an abort
+landing
+field), and potential enhancements. The obvious intent
+of all these reviews is to determine those
+changes which can be
+implemented in the interest of decreasing the probability of
+failures which might require crew escape prior to loss of vehicle
+control or ditching.
+In summary, Mr. Sperry's concern for crew safety is shared by
+NASA, and
+a significant effort is currently underway both to
+decrease the probability of catastrophic failures which would
+require
+escape
+and to provide the crew with some reasonable means
+safely leave the vehicle should a non-intact abort emergency
+arise.
+Please let us know when we may be of further assistance to you.
+Sincerely,
+F. Murphy
+lesistant Administrator
+for Legislative Affairs

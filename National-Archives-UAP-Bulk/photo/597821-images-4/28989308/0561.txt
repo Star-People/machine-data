@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:17:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3917738, "source_ctime_ns": 1793384175455332435, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989308/0561.jpg", "source_mtime_ns": 1785748421000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989308/0561.jpg", "source_sha256": "e8ae336b8760f656f48cd2f9ef9c7c4601609c53044eff8412a6ca7eb34cab6f"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 1087, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MILTTARY
+24 Sep 60
+3. DATE-TIME GROUP
+Locai.
+GM T
+PHOTOS
+12102
+• Yes
+© No
+7. LENGTH OF OBSERVATION
+30 sec
+10. BRIEF SUMMARY OF SICHTING
+Round, blue object, size of basketball at arm's
+length, had long blue and yellow tail. Slight
+descent moving slowly across horizon, faded
+from view.
+SEE CASE = 367 23S<PT (LAB24D01)
+SDO REPORT, ITEM V/%
+PROJECT 10073 RECORD CARD
+2. LOCATION
+10 NM E of PointArena, California
+TYPE OF OBSERVATION
+D Ground-Visual
+X Air Visual
+• Ground-Radar
+D Air-Intercept Rador
+SOURCE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aivereft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical MeteOr
+Litary
+D
+Possibly Astronomicel
+3. NUMBER OF OBJECTS | P. COURSE
+Other.
+Insufficient Data for Evaluation
+one
+S (?)
+Unknown
+11. COMMENTS
+Sighting has all characteristics of
+meteor, except that the duration is
+excessive. Satellite reentries of 1960
+Epsilon 6 and 7 occurred this date,
+however the color and general descriptio
+conform more to a meteor observation.
+Case listed as meteor observation.
+ATIC PORM 329 (REV 25 SEP 52)

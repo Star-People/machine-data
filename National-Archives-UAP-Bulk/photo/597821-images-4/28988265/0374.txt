@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:31:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7341692, "source_ctime_ns": 1793383910307536130, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988265/0374.jpg", "source_mtime_ns": 1785748422000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988265/0374.jpg", "source_sha256": "7b8087e8d827ca49b7e3d87969f2b2bfae539977693f5ce478170f0ca72a2a23"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1066, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE
+19 Aug 60
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Nome, Alaska
+4. TYPE OF OBSERVATION
+3. DATE-TIME GROUP
+Local
+GM T.
+PHOTOS
+20/08432
+• Air Visual
+SOURCE
+• Yes
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+4 min
+one
+10. BRIEF SUMMARY OF SIGHTING
+Round white object, red at base, brilliant,
+size of a dime; had straight flight path.
+Disappeared over horizon. Appeared azimith
+120, elevation 15; disappeared 004, elevation
+Report identical sighting 2 hrs later.
+• Ground-Radar
+• Air-Intercept Radar
+| 9. COURSE
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Orhoross satelLite
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+Additional reports from same area with
+identical characteristics. Object appeared
+in orbit. No data available at this time
+to correlate with satellite track. However
+report carried as possible satellite due
+to orbital characteristics and multiple
+reports from area.
+ATIC FORM 329 (RF.V 26 SEP 52)

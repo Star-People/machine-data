@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:11:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1730093, "source_ctime_ns": 1793389902996232409, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544829/0640.jp2", "source_mtime_ns": 1785808331000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544829/0640.jp2", "source_sha256": "747e0462eec2efc9aacfdf21adaf869e5a86f67c48702db31f7bcb1459f47587"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 1099, "method": "ocr", "page": 1, "variant": "plain-vision"}
+c. Manner of observation:
+(1) The objects were observed visually from the ground.
+(2) No optical aids were used.
+d. Time and date of sighting:
+(1) 24 Sep 1965, 03152.
+(2) Night - local time was 0215.
+e.
+Location of observers:
+Observers were in the R/V Security Area at Whiteman AFB, Mo.
+38° -43' 26" N, 93°-33' 14" W.
+f. Identifying information
+on observers:
+(1)
+A2C Charles McBrayer, AF15687934, 351st Combat Defense
+Squadron, Whiteman AFB, Missouri.
+(2)
+A3C John L
+Bolding, AF18698857, 351st Combat Defense Squadron,
+Whiteman AFB, Missouri
+(3)
+Both observers are considered to be reliable.
+Weather and winds:
+Aloft conditions at time and place of sightings:
+(1)
+0230 local time observers report was high cirrus scattered
+clouds covering 4/8 of the sky.
+Visibility greater than 15 miles.
+Surface
+winds, 300° at 02 knots.
+An upper trough located between Whiteman AEB, Mo.
+and Columbia, Mo.
+No weather
+associated with the trough.
+(2)
+Wind direction and velocity:
+Surface
+300°/02
+6,000
+310°/28
+10,000
+290°/35
+16,000
+280/50
+20,000
+280°/53
+30,000
+270/77
+50,000
+280°/48
+(3) No thunderstorns in the area.

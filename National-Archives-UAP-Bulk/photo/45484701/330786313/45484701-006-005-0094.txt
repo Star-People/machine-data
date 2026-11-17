@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:38:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10102788, "source_ctime_ns": 1793363979476200807, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0094.jpg", "source_mtime_ns": 1785684964000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0094.jpg", "source_sha256": "d4d0152b81e86c8c065af11d05510248fddc16e845445563a2dbf1707fdfb1e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 807, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+THE INSPECTOR GENERAL USAF
+17TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+KIRTLAND AIR FORCE BASE, NEW MEXICO
+File No. 24-0
+•SUBJEOT: Aerial Phenomena
+12 Jamary 1951
+20 g
+Conmendin: General
+Air Materiel Commend
+Wright-Patterson Air Force Base
+Dayton, Ohio
+AFTH: NOIS
+Inclosed are two copies of a spot intelligence report
+covering the detaile of tvo serial phenomena observations in the
+Los Alamos, ev Vexico area,
+Inels
+1. Ept fr Wilbur h. Jackson
+ded 25 Dea 50
+2. Rpt fr Thomas A, Fleek
+ded 21 Ded 50
+3. Str to Eg, 051, Subj:
+Same
+đtd 12 Jen 50
+RIOKARD O. COX
+District Commander
+UNCLASSIFIED
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF KURT K. KUNZE, CUt, IS% DEC 1975
+Historian
+BY
+DATE
+S
+COPY
+Declassification Authority: NND 923007

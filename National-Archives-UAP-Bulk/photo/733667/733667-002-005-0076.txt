@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:13:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2537282, "source_ctime_ns": 1793394316847230184, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0076.jpg", "source_mtime_ns": 1785567353000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0076.jpg", "source_sha256": "213f5ea9a0cdd1285b896a3b31ba88ba5b4bb6a02924c5215931e2b85f3826a0"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 210, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2/25/87
+Tear FAA,
+el saw an atates article in
+todays San Francisco Chronicle
+and any other information. you
+could send me on this incident.
+Sincerely,
+Michael C. Gulla
+646 Corbet+ #305Śł
+San Francisco CA
+94114

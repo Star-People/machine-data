@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:47:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18428047, "source_ctime_ns": 1793355484511052547, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0066.jpg", "source_mtime_ns": 1785564463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0066.jpg", "source_sha256": "4424c43871ee2a729845fbf6b64ba07c412aaa1f3d58e96b41be9f5c3a1cf42d"}
+
+===== PAGE 1 =====
+{"alpha_words": 481, "chars": 3268, "method": "ocr", "page": 1, "variant": "plain-vision"}
+122
+ment of desert area, except for points 6, 7 and 9. For example, point 1 is at
+10, 000 feet, point 2 is at 20, 000 feet, and so on. All show approximately a
+dominant wavelength of 6000A but the value wanders about 200A during the period
+of changing altitude. The purity is quite low, 20-25%.
+The failure to recover this instrumentation after a flight resulted in the design
+of a new set along entirely different lines. Fig. 6 presents an overall view of this
+balloon-borne system. Directed toward the nadir is a set of twenty-seven individual
+photometers and centered in the cluster is a Beattie-Coleman 35mm camera to
+record the terrain features. The collimating optics (3° total angle) are common for
+all units and most have the same type detector - a CdS cell. Each is different by
+reason of an interference filter, centered at every 200 Angstroms from 3900A to
+9100Å and each having a bandpass of 75A.
+The output of these detectors, calibrate levels, pressure, temperature and
+camera operations are commutated and recorded on the on-board seven channel
+FM/FM tape recorder. The recovered tape is played back through conventional
+equipment and displayed on a recording oscillograph. A Benson-Lerhner "Oscar"
+is used to measure the amplitudes and card-store for automatic plotting.
+Fig. 7 illustrates a particular record for a measurement over cultivated area
+in the North Central region of the United States. The difference between the two
+graphs is due to atmospheric change. Both observations are at 86, 000 feet.
+The
+broken curve is produced by a very thin cloud at the fringe of a cumular formation
+which was moving into the photometer field of view. The result is a decrease in
+apparent radiance of about 10% and a shift at the peak wavelength of 150 Angstroms.
+The final part of the atmospheric optics program is the sky radiance task.
+These measurements are accomplished by studding one side of a rectangular
+parallelepiped shaped gondola with photometer units oriented at different vertical
+angles. Azimuthal scan is dependent upon gondola rotation. Each elemental
+photometer consists of a Fresnel lens and a photovoltaic cell, modified with a
+viscor filter. Mounted atop the balloon is a loosely-gimbaled radiance and
+irradiance measurement equipment as shown in Fig. 8. A 16 conductor cable
+running vertically down the perimeter of the balloon furnishes the signal leads into
+the main gondola. All signals activate microammeters and these are recorded by
+Keystone A-9 cameras. Photographic recording of a sun dial furnishes the
+azimuthal information. Fig. 9 illustrates these principal elements. But the
+principal feature which is not at all obvious in the foregoing is the very arduous
+task of data reduction.
+Fig. 10 is intended to display in a quick fashion the results of some earlier
+measurements. For this display, one should imagine himself as a pilot flying at
+an altitude of 90, 000 feet and located at the center of the display. The difference
+between these two displays is the condition of the atmosphere. The less turbid
+Figure 6.
+The Present System Designed for Albedo Measurements. Lower Center
+is the Array of Photometers, Nested about a Camera and Spring-linked to the
+Gondola Frame.
+The Tape Recorder is at the Upper Right Foreground.

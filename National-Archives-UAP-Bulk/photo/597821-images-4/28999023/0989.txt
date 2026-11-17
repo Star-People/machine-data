@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:44:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9749558, "source_ctime_ns": 1793387705461663027, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999023/0989.jpg", "source_mtime_ns": 1785747872000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999023/0989.jpg", "source_sha256": "99ec8e2a25db2489309a6eeada0a5fb70970a512fcd15bd2403850fbc9902bb0"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 644, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ 0 Serr 62
+October 9, 196₴îś
+Dear Mrs.
+Reference vour letter concerning
+bunches of foil found in nearby fields.
+These pieces of foll are known
+as 'chaff." Dropped from aircraft in
+bundles, they
+quickly separate and each
+piece
+of chaff gives a radar return
+resembling an aircraft.
+These radar
+returns clutter the monitoring radar scopes
+masking the movement of the airoratt.
+They are extremely effective
+as they fall
+slowly and permit the aircraft to pass
+undetected.
+Chaff are dropped by USAF
+aircraft on practice missions.
+Your interest is appreciated.
+Sincerely,
+W. J. LOOKADOO
+It. Colonel, USAF
+Public Information Div
+Office of Information

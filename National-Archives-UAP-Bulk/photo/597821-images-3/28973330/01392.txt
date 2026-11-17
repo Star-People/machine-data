@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:35:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8654508, "source_ctime_ns": 1793379735405909110, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01392.jpg", "source_mtime_ns": 1785700814000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01392.jpg", "source_sha256": "92f30a8f928363bb8f45a9c20965790ea3d69faa0fd4ddbadbe7e006ab982fc6"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 804, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+3. DATE-TIME GROUP
+07/01302 Nor 57
+5. PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+One minute
+2. LOCATION
+Harietta, Ga.
+4. TYPE OF OBSERVATION
+→ Ground- Vi sual
+• Air Visual:
+SOURCE
+UFOB INDEX CARD AISS-UPOB-470-57
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+• Ground-Radar
+• Air-Intercept Radar
+•
+•
+Was Aircraft
+Probably Aircraft
+Possibly Aircraf
+Oivilian
+8. NUMBER OF OBJECTS
+9. COURSE
+One
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Vas Auros Boreslia
+Insufficient Data for Evaluation
+Unknown
+10. BIF SoM fusly red objeet about the aise
+of a large orange.
+Object appeered to
+deacend and was in might for one minute.
+Descending
+•
+11. COMMENTS
+Coneur with Reporting Officer that
+thie sighting wee caused by the
+Aurora Borealis.
+AISOP Form 5 (15 Oct 54)

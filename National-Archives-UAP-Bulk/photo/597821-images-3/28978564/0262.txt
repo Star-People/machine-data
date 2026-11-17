@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:42:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8855321, "source_ctime_ns": 1793380832654765220, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978564/0262.jpg", "source_mtime_ns": 1785700927000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978564/0262.jpg", "source_sha256": "b03f741cd9edfc6135cc6bd53de09c70006845e5c7f86711e42b24d941b40b40"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 661, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NNNN
+Neither 200 512F 19 JUN C/1
+А! -
+• 711C
+Pass A/C
+RC071.5. SQD383 YDC890 VYB313 VMC443X317 BJC#76
+PP RJESKE RJEDDN RJEDSQ RJEPKN RJEPHQ
+DE ROEMBJ 268
+TEL!
+TO
+NO.
+Date
+Ву:
+P 2006312
+FM FLIGHT SERVICE CENTER MAXWELL AFB
+TO RJESKB/COMDR 35TH AIR DIV (DEF) DOBBINS' AFB
+3+ЕЧ
+4
+RJEDDN/COMDR AIR DEFENSE COMMÄND ENT AFB
+RJEDSQ/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB
+RJEPKN/COMDR EASTERN AIR DEFENSE COMMAND STEWART AFB
+RJEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 DC
+UNCLAS/ 1. DESCRIPTION OF OBJECTS
+A. UNKN
+B. UNKN
+C
+COLDEN
+D. ONE
+E. NO
+F. NO
+G. UNKN
+H. UNKN
+EXCESSIVE SPEED< How FAST IS "ExceSsIve Speed" CONSIdered
+by observer?

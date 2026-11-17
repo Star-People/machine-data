@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:19:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4262233, "source_ctime_ns": 1793376042740016971, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958940/00511.jpg", "source_mtime_ns": 1785696444000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958940/00511.jpg", "source_sha256": "5129d04323339c427c011ce73fda4495cd05946757b0c4dafaf176107bb03f0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 742, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+9 July 1954
+3. DATE-TIME GROUP
+Local
+GMT.
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+fanston,
+England
+4. TYPE OF OBSERVATION
+• Ground- Visual
+70 Air- Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Military
+8. NUMBER OF OBJECTS
+9. COURSE
+09/1456Zął
+• Yes
+17 No
+7. LENGTH OF OBSERVATION
+3 Seconds
+10. BRIEF SUMMARY OF SIGHTING
+Round white object observed through window
+of a/c. Vertical ascent. Too rapid for jet,
+too close
+12. CONCLUSIONS
+U Wes Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircratt
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evalution
+Unk no wn
+UP
+11. COMMENTS
+Insufficient data for analysis.
+ATIC FORM 329 (REV 26 SEP 52)

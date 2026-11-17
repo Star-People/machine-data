@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:19:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4290383, "source_ctime_ns": 1793385355555612228, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992907/0928.jpg", "source_mtime_ns": 1785748100000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992907/0928.jpg", "source_sha256": "cdd3a2b8093689d3f9069d7f0d9b8ceeff504ebf30373d18af157482de018712"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1132, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ATIC
+NAVAL MESSAGE
+• UNCLASSIFIED
+NAVY DEPARTMENT
+RELEASED B
+EXT. NO.
+MARGENCI
+CHERGENCI
+CORECTED COPY CORRECTON UNDERLINED DESTROY ALL OTHER COPIES
+01052 0555 1 Juna 61) /d
+FM COMHAWSEAFRON
+AF DIST: CIN-14, SAFS-3, 00P-2, 0OP-CP-1
+TO COMMAVAIRT FD IV WREELER AFS
+INFO CINCPACFLI
+COFSUSAF WASHDO
+SE CNAV
+CINCPAC
+PACAF
+BASECOM MICKAM
+CINCORD ENT AFB
+CNO
+CINCUARPAC
+PACAF
+COMVESTAREA COGD
+_ COGD FOURTEEN
+-21-
+UNCLAS
+8 JUN 1991
+MERINT
+1. FOLLOWING RECO BY TELECON FROM CGD FOURTEEN:
+ẠMERINT. OCEAN STATION VICTOR, AYV. STARLIKE OUGECT,
+BRIGHTER THAN STAR, SHIP POSIT 34-O1N464-125 TOM%
+010845Z COURSE OF OBJECT 120T ALITUDE HIGH WIND SW
+AI 13 KI, SEA SLIGHT, OBJECT SIGNTED BY DUBHE
+ALISTH, ALDAID BEARING 340 AT ALTITUDE 70 EDES AT
+ORADY, CONTINUED TO TRACK ACROSS SKY TO LAST OBSERVED
+POSIT BEAR.
+G !IOT, ALTITUDE
+19 DEGREES AT 08337."
+NOTE: Advance cy del to 00P-CP and CIN at 011941Z
+Corrected bopy of AF IN 10162 (1 June 6l)
+DEC
+00 3
+WEITTEN
+NAVA IDE
+01/04161
+098 09M 09D 05 35 34 35
+JOS CSA
+OSAF CIA NIC FLAGPA
+CORDSPEED PER COMHA
+PAGES TIME OF RECEIP
+UNGLASSIFIED
+03 07D
+101/13/152 / 6/8
+DATE TIME GROUP
+10357/JUN61
+0 JUM 1981

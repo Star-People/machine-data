@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:13:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2869892, "source_ctime_ns": 1793376335571231284, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960222/0175.jpg", "source_mtime_ns": 1785696578000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960222/0175.jpg", "source_sha256": "a0bdadac51e59e92f6cc4b275ebdeda005234f0edf84f7d83c792f77e611f5a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 182, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PSE Pee ee ee
+
+ote hanes 9
+
+Le FB, PLUS
+we NONE
+
+RAWFORD ASST OPERATIONS OFFICER
+
+C
+WNAZLE TO ACCERTATIN pracan fr UTT
+JisASLE TO ASCERTAIN REASON FOR SIG} TING
+
+19/255$Z NOV JEDLS

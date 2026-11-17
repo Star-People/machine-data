@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:18:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4065908, "source_ctime_ns": 1793386580032545252, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996630/0288.jpg", "source_mtime_ns": 1785748494000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996630/0288.jpg", "source_sha256": "9d9fe979de9fb769240466c409846a3d750787c1ae94c2519c57836042977202"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 522, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICE OF THE ASSISTANT SECRETARY OF DEFENSE
+WASHINGTON 25, D.C.
+July 22, 1963
+PUSLIC AFFAIRS
+MEMORANDUM FOR DIRECTOR OF INFORMATION, USAF
+SUBJECT: Referral of Correspondence
+The inclosed correspondence is forwarded for consideration,
+appropriate action or direct reply to the writer who has not been
+notified of this referral. Information copy of your reply is not
+requested.
+Ltr dtd 16 July
+Springfield, Ohio
+Staff Assistant
+Directorate for Special Activities
+Room 2D 771, The Pentagon
+LIberty 5-6700, Ext. 75737
+848950

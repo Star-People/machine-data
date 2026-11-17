@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:18:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4061651, "source_ctime_ns": 1793374216519065649, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950786/1435.jpg", "source_mtime_ns": 1785696984000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950786/1435.jpg", "source_sha256": "57505b0c508b2e7e4b139647fa4e060f87632f8d98b2db737f8abd141b4c2b35"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1170, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 WORKSHEET
+I. GENERAL
+DATE
+2. LOCATION
+2. c.
+LU Yes
+- Nakod Eye
+i Binoculars
+Telescope
+Theodolite
+5. WAS OBJECT OBSERVED BY GROUND RADAR?
+Tos
+_ By One Sot
+_ By To Sets
+- By Three Sets
+5. WAS OBJECT OBSERVED FROM THE AIR?
+• Y0s
+_A/C Obeerved Object
+.. Interception Attempted
+No Intercept Attempted
+WERE AIRCRAFT SCRAMBLED TO INTERCEPT?
+• Yes
+_A/C Scrambled
+) Visual Contact Mada
+JA/I Contact Made
+I No Contact Mado
+DID OBJECT CHANGE DIRECTION AT ANY TILE?
+G Yes
+Erformal
+!? Violent
+1. IF OBJECT WAS A "LIGHT", WAS IT:
+10, LENGTH OF TIME IN SIGHT:
+() Blinking
+MY Standy
+L.1 1-15 Seconda
+[11-5 Minutes
+rOves 20 Minutes 15 min
+• REPORTING AGENCY (Unit Number and bailing Address)
+Local: 20/5-
+/ Zebra:
+CI NO
+USE A G03 Highland Punis Sun, tou then 4 anis N.C
+* II. ASTRONOMICAL DATA
+12. WHAT ASTRONOMICAL ACTIVITT WAS NOTED?
+3. DID OBJECT APPEAR DO ARCH DOWNMARD?
++• DID OBJECT HAVE A
+DID OBJECT APPEAR TO DISINTEGRATE?
+IND OF SIGHTING RELATIVE TO SUNRISE OR SUNSET
+Ll Yeg
+5 Yes
+- 1 Yes
+(Data From Air Almanac)
+• Night
+- No
+SENO
+L Sunrise
+103-
+III. AIRCRAFT DATA
+ERE
+ALRC
+RAFT NOTED IN AREA:
+- Yes
+- NO
+_ Ona Aircraft
+Yore Than One Aircraft
+lest
+534 (13 Aux 52)

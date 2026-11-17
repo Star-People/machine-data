@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:47:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17792188, "source_ctime_ns": 1793356733768648402, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0358.tif", "source_mtime_ns": 1785564749000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0358.tif", "source_sha256": "28747a9ad769a2a8f6d2673e7166ccbad9d9ede621fb75980c515b1025029aad"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1196, "method": "ocr", "page": 1, "variant": "plain-vision"}
+~13-
+18. Indicate whether flames or streamers emerged from it, and
+describe them
+19. Location, distance, and height of phenomenon when first ob-
+served
+20. Apparent size of phenomenon
+21. Rotation, if any, observed
+22. Colors
+23. Brichtness
+24. Smoke or vapors emitted (color, odor, form, etc.)
+25. Odor (during and after occurrence of phenomenon)
+26. Heating effects, if any
+27. Physiological effects
+28. Mechanical effects
+29. Electrical or magnetic effects
+30. Sounds accompanying original appearance and life-span of phe-
+nomenon
+31. Path taken by "ball lightning," including height and location
+during its life span
+32. Movements of observer during phenomenon (including movements
+of head and eyes, if possible)
+33. Speed of motion of "ball lightning"
+34. Duration of phenomenon and duration of period of observation
+35. Indicate any special conditions observed to attend beginning
+of phenomenon
+36. Indicate conditions observed at tine of ending of phenomenon
+37. Traces, if any, left after dissipation
+36. Psychological effect on observers
+39 -
+Was sould like that of thunder heard at time of its disappear-
+ance? Describe its intensity and character
+Declassification Authority: NND 57565

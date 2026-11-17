@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:08:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1445532, "source_ctime_ns": 1793393177808880942, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0347.jp2", "source_mtime_ns": 1785808392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0347.jp2", "source_sha256": "648e2444b3fbbc6a271187b2a3414fd5d9bb33dc3fc01c142e7b9b9b19d6498c"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 390, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR RECORD
+8 March 1968
+SUBJECT: UFO Observation,
+Lexington, does not have radar.
+They have one entry,
+о24бZ,
+line of light reported going SW to NE (nothing more). They
+checked Indianapolis Center who said they receifed reports
+fron Charleston, West Virginia and Atlanta, Georgia.
+in Control Tover saw the object.
+They haard that the Con-
+trd Tower in Knoxville, Tenn. saw the object.

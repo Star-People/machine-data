@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:18:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4020204, "source_ctime_ns": 1793385270206558872, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992541/0592.jpg", "source_mtime_ns": 1785748391000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992541/0592.jpg", "source_sha256": "f794b7878d10d84dcc67ee2a2a1ecd400a7e055dc1feaaa1e681b3745b256917"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 729, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ZIR
+0 141939šșîŘ
+FM COMWESTAREA
+TO REWPPG/COMWESTSEAFRON
+RJWFAL/CONAD ENT AFB
+RJEZHO/CHIEF OF STAFF USAF WASH DC
+P 141825ą
+FM SS PENNMAR
+TO CONWESTAREA
+INFO NAVY SANFRANCISCO
+BT
+UNCLAS MERINT SS PENNMAR WAUY SINGLE OBJECT WITH CONTROLLED FLIGHT TOO
+HIGH TO NOTE SHAPE OR SIZE OR TYPE OF PROPULLSION. HAD NEITHER ROCKET
+NOR METEOR TAIL. SHIPS POSITION 14.10 NORTH 95.10 WEST 0800Z 14
+MAY 61. OBSERVED ALTITUDE APPROXIMATELY 40 DEGREES. OBJECT FIRST
+OBSERVED HEADING NORTH STOPPED TWICE THEN MADE EASY TURN AND HEADED
+SOUTH AND IN ABOUT ONE MINUTE DISAPPEARED OVER SOUTHERN HORIZON.
+PERIOD OF OBSERVATION FIVE MINUTES. SEA CALM SKY CLEAR VISIBILITY
+UNLIMITED. OBJECT AS BRIGHT AS FIRST MAGNITUDE STAR
+MASTER
+BT
+14/2303Z MAY RJEZHQ

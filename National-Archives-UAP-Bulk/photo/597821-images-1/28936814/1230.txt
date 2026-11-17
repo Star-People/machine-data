@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:18:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4093401, "source_ctime_ns": 1793371168270512442, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936814/1230.jpg", "source_mtime_ns": 1785688904000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936814/1230.jpg", "source_sha256": "dfc6151b8104799cf5a395d5c5ab46071c74eaea18c2dce6ca507df43b5a253b"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 924, "method": "ocr", "page": 1, "variant": "plain-vision"}
+VCLASSIFIED
+OFFICE OF THE AIR PROVOST MARSHAL
+Mitchel Air Force Base
+(2500th Air Base Group)
+New York
+24
+26 October 1949
+SUBJECT: Sighting of Unidentified Object
+TO
+Commanding General
+Air Materiel Command
+Wright-Patterson Air Force Base
+Dayton, Ohio
+Attention: TSDIN
+The following information has been reported to this office
+regarding an unidentified object:
+(1) Location and Time of Sighting - Card, 4yh hon, i act 1o
+(2) Weather at the time
+- Clear
+(3) Name & Address of Witness
+Garden City, L.I.,
+New York
+(4) Occupation of Witness
+HE ST, New YOrK
+- See Inclosure
+DOWNGRADED
+(5) Sketch of Object
+(6) Object Sighted
+(a) Number
+(b) Size
+(c) Color
+- Unidentified
+- One
+- Larger than B-29
+- Blue and White Flames
+DIR
+5200.10
+DR 12 YEARS.
+(d) Speed
+(e) Heading
+(f) Maneuverability
+INTERVALS:
+- Fast as a Jet (Approximately 500 MH))
+- WW over Garden City toward Great Neck
+- Straight Course
+UNCLASSIFIED
+CONEIDENTIAU
+neid
+476

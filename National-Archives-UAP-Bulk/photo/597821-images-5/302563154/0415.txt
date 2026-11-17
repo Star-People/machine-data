@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:12:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1797274, "source_ctime_ns": 1793391989474542162, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563154/0415.jp2", "source_mtime_ns": 1785808011000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563154/0415.jp2", "source_sha256": "951a589856ddb344ad208c76f4a19225e9cb078815fd61ec198eb9e4c2b891bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 669, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AFIN:
+29292 (28Mar67) C/rm
+ACTION: RDC-44,
+SMB A1 03C 991
+pg lof 4
+INFO: NIN-7, SAFOS-3, DIA-1, XOP-1, XOPX-2 (19) ADV CY DIA
+PTTU JAW RUW JO BA0689 0682337-UUUU--RUEDHQA.
+ZNR UUUUU
+P 272300Z MAR 67.
+FM 12SAD DMAF B ARIZ
+TO RUEDHQA C SAF
+RUWJABA/ 27AIRDIV LUKE AFB ARIZ
+FU WMFV A/ ADC
+RUEDF IF/F TD WRIGHT PATTERSON AFB CHIO
+RUEDHQ A/ OSAF
+RUEDPV A/ USAF
+INF O RUCSAAA SAC
+INCLAS BO0B1920 MAR 67. SUBJ UFQ FOR FTO WPAFB OHIO (TDETR),
+CSAF)( AFRDC), SSAF (SAE-OI), SAC(D1).
+A DESCRIPTION OF THE OBJECT.
+(1) CIRCULAR
+(2) BASEBALL
+(3) WHITE TO RED
+(4) ONE
+сани
+AFHO JAN OS 0-309C
+UNCLASSIFIED

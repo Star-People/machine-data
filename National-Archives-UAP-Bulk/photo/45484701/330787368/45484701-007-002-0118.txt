@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:40:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8399114, "source_ctime_ns": 1793364614033125708, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0118.jpg", "source_mtime_ns": 1785685199000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0118.jpg", "source_sha256": "f88472382a1466783859aa39bdbbd1ffbac9d62cb48ad7925732313b3e14899c"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 145, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+0О1S
+2 00
+TOMAD VOTTADIRIBAO
+TO YTIROHTUA YN
+RANU JO SMUA TRUN
+віо/гін
+Ятла
+AIO
+6+61 NON OT
+NI
+SUBIAON SI
+Declassification Authority: NND 923007

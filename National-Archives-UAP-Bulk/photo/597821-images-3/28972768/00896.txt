@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:35:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8518174, "source_ctime_ns": 1793379590043847177, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972768/00896.jpg", "source_mtime_ns": 1785700650000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972768/00896.jpg", "source_sha256": "a649ff9dff4450168bea37c0efc7b36cddc5998e33eb5f4cf6693d6e27e1f090"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 675, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MOUNTAINS.
+F. OBSERVED FOR 30-48 SECONDS
+3. MANNER OF OBSERVATION:
+PAGE THREE RJWFEG 42
+A. GROUND - VISUAL
+B. NO OPTICAL AIDS
+C. N/A
+4. TIME AND DATE OF SIGHTING:
+02312 - 7= 1931 ms (731PM, 4 Nov 57)
+A. #5C231Z
+I. LIGHT CONDITIONS - NIGHT
+5. OESERVER 3 MILES SOUTHEAST OF INTERNATIONAL AIRPORT, EL PASO,
+TEXAS,
+6. A.
+AGE - 35 YEARS,
+BORDER INSPECFOR, STATE OF TEXAS.
+7. WEATHER:
+A. OBSERVER REPORTED SCATTERED CLOUDS, SLIGHT HAZE
+E. BIGGS WEATHER STATION REPORT:
+OCCUPATION-
+SURFACE WIND
+6,00% FT
+13,000 FT
+16,000 FT
+20,920 FTŚ
+SHED PT
+50,000 FT
+100 DEGREES
+123 DEGREES
+220 DEGREES
+28 KNOTS
+230 DEGREES
+239 DEGREES
+250 DEGREES
+34 KNOTS
+65 KNOTS
+83 KNOTS
+250 DEGREES
+55 KNCTS

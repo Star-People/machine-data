@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:14:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3398725, "source_ctime_ns": 1793371337700309333, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937766/0547.jpg", "source_mtime_ns": 1785689001000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937766/0547.jpg", "source_sha256": "07a03c6aad4d4775c888e3c50a2e355ae188291ae7d20053a284dfb30608e7aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 651, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS THIRD ARMY
+FORT MCPHERSON, GEORGIA
+UTCDASSIFED
+AJACI-3 360.33
+SUBJECT: Unoonventional Airoraft
+7 Apr11 1950
+TO :
+Commanding General
+Air Materiel Command
+Wright-Patterson Air Force Base
+Dayton, Ohio
+Attention: NCI (Control No. A-1917)
+Inclosed herewith is summary of information re unidentified
+flying objects seen over Summerville, South Carolina, 3 April 1950.
+FOR THE COMMANDING GENERAL:
+h. l. Overton,
+JOHN MEADE
+major unc
+Colonel, GSC
+AC Of S, G-2
+1 Inel:
+S/I dtd 4 Apr 50
+DOWNGRADED AT 3 YEAR INTERVALS.
+PECLASSIFIED AFTER 12 YEARS
+DOD DIB 5200.10 -
+504.1
+ANALYSIS DIVISION FILE
+FILE NUMBER
+4-1%
+INITIALS
+DATE
+UNCLASSIFIED
+1-3712-29

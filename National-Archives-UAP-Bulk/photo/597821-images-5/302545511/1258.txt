@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:08:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1390250, "source_ctime_ns": 1793390006281306484, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545511/1258.jp2", "source_mtime_ns": 1785808644000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545511/1258.jp2", "source_sha256": "4119cc6a5ff61895062fda05cac84dd24fba6563e4e790dcc7ee08db6e2a91c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 574, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT. OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 42309 (16 Oct 65)
+Page 3 of 4
+A. 1602302
+B. NIGHT
+5. OBSERVERS
+A. MR.
+AGE 42, MACHINIST
+DR. SUNNYVALE, CALIFORNIA
+AGE 40, HOUSEWIFE
+PAGE 3 RUWSAE 035A UNCLAS
+C.
+, AGE 18. STUDENT
+D.
+E.
+AGE 14, STUDENTO
+, AGE 12, STUDENT
+7, WEATHER
+A. CLEAR
+B. 297/8 360/15 332/24 340/53 340/85 349/102 330/130 N A
+C. UNLIMITED
+D. UNRESTRICTED
+E. LESS THAN 1/10 STRATO CUMULUS
+F. NONE
+8. NONE
+9. NONE
+10. THE FOLLOWING AIRCRAFT WERE IN THE AREA OF THE SIGHTING PLUS A
+AFHQ
+FORM
+JAN 55
+0-309C
+UNCLASSIFIED

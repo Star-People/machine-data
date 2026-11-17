@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:46:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14635000, "source_ctime_ns": 1793355526354523673, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0110.jpg", "source_mtime_ns": 1785564471000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0110.jpg", "source_sha256": "2be20a2d6928875ffae06f2abec08d25280ae4e4dd55dc374ee288e739c912bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 583, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SPECIFIC LIFT (POUNDS/CUBIC FOOT)
+SPECIFIC LIFT (POUNDS/CUBIC FOOT)
+SPECIFIC LIFT VS BALLOON INTERNAL TEMPERATURE
+PARAMETERS:
+OPERATING ALTITUDE = SEA LEVEL
+AMBIENT
+TEMPERATURE = 59° F
+AMBIENT
+PRESSURE = 29.92 INCHES OF HG.
+200
+BALLOON INTERNAL TEMPERATURE
+Figure 2. Specific Lift Vs Balloon Internal Temperature
+SPECIFIC LIFT VS AMBIENT TEMPERATURE
+PARAMETERS:
+BALLOON AVERAGE INTERNAL TEMPERATURE(T) = 250°
+OPERATING ALTITUDE = SEA LEVEL
+AMBIENT
+PRESSURE = 29.92 INCHES
+60
+AMBIENT TEMPERATURE IN °F
+(Ta)
+Figure 3. Specific Lift Vs Ambient Temperature
+120
+STANDARD
+ATMOSPHERE TEMP.

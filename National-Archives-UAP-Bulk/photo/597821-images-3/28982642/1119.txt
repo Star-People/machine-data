@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:32:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7737477, "source_ctime_ns": 1793382133839717094, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1119.jpg", "source_mtime_ns": 1785701025000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1119.jpg", "source_sha256": "418eea2a8be74a1f58d4f1f34fdc3bd290e1a920212cbf61b3c8e7f91e600526"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 508, "method": "ocr", "page": 1, "variant": "plain-vision"}
+welve
+1.7
+we pive the following information about yourself:
+Last Name
+Street
+First Name
+Middle Name
+EULSWaRT AFB
+5.0
+City
+Zone
+State
+ADERESS
+TELEPHONE NUMBER
+What is your present job?
+PILOT
+Age
+43
+Please indicate any special educational training that you have had.
+a. Grade School
+•. Tachnical School
+b. High Sahool
+(Type)
+c. College
+I. Flying School
+d.. Post graduate
+g. Other special training
+48. Date you completed. this questionaire?:
+DONNGRADE
+NCLASSIFIED
+1006TH AISS ClassieS,
+Document Log For
+57-1112

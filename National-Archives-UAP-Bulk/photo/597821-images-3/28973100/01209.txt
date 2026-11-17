@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:42:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8780918, "source_ctime_ns": 1793379659803701767, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973100/01209.jpg", "source_mtime_ns": 1785700752000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973100/01209.jpg", "source_sha256": "dbb27687cfbb241d792e7dd4c4a5c4257d32faeb9301df3936de624e08e11670"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 540, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE ROESKB 9A
+(S)
+(A) UNKNOWN (INFO
+NEW ORLEANS LA) (TU 2411)
+NEWSPAPER REPORTER
+(7)
+(A) UNKNOWN
+(B) UNKNOWN
+(C) UNKNOWN
+(D) UNKNOWN
+Weacto
+Cond
+(E) UNKNOWN
+(8)
+(F) UNKNOWN
+(A) UNKNOWN
+(9)
+(12)
+(A) UNKNOWN
+(A) UNKNOWN
+(11) (A) LAWRENCE STAGE JR. COMDR JACKSON FILTER CENTER
+JACKSON MISSISSIPPI UNKNOW PRELIMINARY ANALYSIS
+(12)
+(A) UNKNOWN
+REMARKS: (1) FULL REPORT ON SIGHTING BEING PASSED FROM CUTTER
+SEBAGO TO COAST GUARD HEADQUARTERS.
+(2) MR.
+HAD ANOTHER REPORI ON UFOB 1133Z-1115Z
+AT BATON ROUGE NO DETAILS
+BT
+05/23182 NOV RJESKB

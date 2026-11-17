@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:44:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9925499, "source_ctime_ns": 1793362533510533737, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0136.jpg", "source_mtime_ns": 1785685155000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0136.jpg", "source_sha256": "bfdf38f0d36b233a01a7e47b79abd6d1a5c52510f1d7ee8d1d58494de9ee222f"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1164, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- SECURI
+Headquarters OSI, where a copy will be furnished the Directorate of
+Intelligence, Headquarters USAP.
+Other distribution of witten reports
+should be as
+shown in AFL 200-5.
+With respect to your Detachment Offices
+located on Air Force bases, information concerning these incidents upon
+receipt should be immediately furnished the installation commander in
+order that he may comply with the provisions of AFL 200-5.
+The Information
+furnished the commander should be confirmed in writing with a copy of the
+confirmatory letter designated for this office.
+4. It is the policy of OSI to assist the Air Technical Center and
+local commanders in these matters in every way consistent with our other
+responsibilities.
+However, In conneetion with the request of the Command-
+ng Officer, LeGuire Air Force Base, it is suggested that you tactfull
+oint out to him the requirement in paragraph 1, AFL 200-5, and that 05.
+does not normally submit reports under the precedure outlined therein.
+FOR THE DIRECTOR:
+JAMES H. BREASTER, OR.
+Colorel, U, S. Air Force
+Executive, Special Investigations
+The Inspector General
+10|11/22
+ORMATION
+Declassification Authority: NND 923007

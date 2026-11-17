@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:02:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 477649, "source_ctime_ns": 1793365591407298528, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_064.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_064.jpg", "source_sha256": "aade2d4ae3031a7fd31a3979e4004b326591710eb060dce99dc5775d7098335c"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1106, "method": "ocr", "page": 1, "variant": "plain-vision"}
+12:09:59
+12:10:06
+12:10:08
+12:10:15
+13:38:14
+13:38:29
+13:38:30
+13:39:47
+13:39:57
+13:40:00
+13:40:11
+13:40:20
+13:40:22
+13:40:29
+13:40:34
+13:40:41
+13:40:46
+cC
+cC
+C
+CC
+cC
+CC
+C
+cC
+C
+CC
+C
+cC
+CC
+C
+cC
+CONFIDENTIAL
+63
+Roger. Copy.
+You tell us about how long it was off?
+No. As a matter of fact, I didn't notice it go off.
+I just saw it come back on, but it couldn't have
+been more than 2 or 3 minutes because we'd just
+checked it.
+Roger.
+COASTAL SENTRY QUEBEC
+Gemini VII, CSQ CAP COM.
+This is Gemini VII. Go ahead.
+Roger. Would you start your fuel cell purge at
+this time?
+CSQ, we are purging. Gemini VII here.
+... Gemini VIl, CSQ. Your next purge will be at
+Carnarvon in approximately 20 hours, approximately
+20 hours.
+I understand. Next purge 20 hours at Carnarvon.
+Affirmative.
+Also, we'd like to have you bring
+your fuel cell 02 tank pressure up to 400 psi on
+your gage.
+Roger.
+That should be sufficient for the sleep period.
+Houston would like to know if you've placed your
+film packs in the plastic bags.
+Roger.
+Did you get that, CSQ? We've placed all but ...
+in the plastic bags.
+Roger. I copy.
+CONFIDENTIAL
