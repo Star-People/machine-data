@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:14:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1745760, "source_ctime_ns": 1793390853080684558, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553899/0622.jp2", "source_mtime_ns": 1785808421000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553899/0622.jp2", "source_sha256": "10bd65fe81e31686e99b3555db7fa7ce4de239f3e8cc3d8002f4ddf0358e9328"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 346, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Major Quintanilla
+September 29, 1966
+- 4 -
+My final conclusion is that your questionaire definitely
+needs revision.
+And if I can be of any assistance to you in such
+a revision, please do not hesitate to ask. It will cost you nothing.
+Again, many thanks for your help.
+Cordially yours,
+Doncert Mangel
+Donald H. Menzel
+DHM:cjb
+cc:
+Allen Hynek
+Mrs.

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:36:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8096216, "source_ctime_ns": 1793384652065492270, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990763/0482.jpg", "source_mtime_ns": 1785748285000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990763/0482.jpg", "source_sha256": "a3b5a2b805a346173239669bae7f25d6b3080972ac3409e245e4e1851b70850e"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 706, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJEDDU 56
+(8) NONE
+(9) LONG EXHAUST SHAPE ROUNDED AT FRONT END.
+B. (1) FIRST OBSERVED WHILE DRIVING AUTOMOBILE
+(2) ABOUT 302 FEET ABOVE GROUND
+(3) DROPPED INTO WOODS
+(4) DROPPED SLOWLY AS IF PARACHUTE ATTACHED
+(5) DISINTEGRATED AS IT FELL INTO WOODS
+(6) 20 TO 30 SECONDS
+C• (1) VISUAL
+(2) NONE
+(3) NIL
+D. (1) 0625Z 3 JAN 61
+(2)
+NIGHT
+92 DEGREES 32 MIN WEST, 46 DEGREES 44 MIN NORTH
+6 MILES WEST OF CLOQUET, MINN
+BOx
+ROUTE
+(2)
+F. MR.
+CLOQUET, MIN
+G. (1) -12 DEGREES FAHRENHEIT. BRIGHT MOON LIGHT.
+(2) WNW 18 KNOTS
+339 DEG 30 KNOTS
+PAGE THREE RJEDDU 56
+32% DEG 35 KNOTS
+338 DEG 56 KNOTS
+340 DEG 60 KNOTS
+330 DEG 92 KNOTS
+31V DEG 57 KNOTS
+270 DEG 15 KNOTS
+(3) 1720 FT
+(4) 15 MILES
+(5) 1742 FT BROKEN

@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:17:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3618143, "source_ctime_ns": 1793374834022962289, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953468/1024.jpg", "source_mtime_ns": 1785696638000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953468/1024.jpg", "source_sha256": "3f6cdc418ca4eaaef19b7c5b54a015446f97e24bd9e37b42f20737d18eab725e"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 488, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+TIME GROUP
+18 Feb 53 18/16452
+SOURCE
+•i ed
+• NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+6. TYPE OF OBSERYATION
+COURSE
+8. PHOTOS
+• Yes
+• No
+PHYSICAL EVIDENCE
+I NO
+FORM
+FTD SEP 63 0-329 (TDE)
+2. LOCATION
+penscoro, N.
+10. CONCLUSION
+Astro (
+ZOR)
+1. Coast Guard and Weather
+ureau
+eteor.
+No know a/c were lost
+• BRIEF SUMMARY AND ANALYSIS
+object as being
+Led observers saw an
+te an explosion of a jet a/c.
+Observers in the vicinity of
+i North Carolina saw the flash.
+IN FLE
+mey be used.

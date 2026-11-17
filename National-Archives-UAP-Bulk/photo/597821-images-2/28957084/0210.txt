@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:21:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4190838, "source_ctime_ns": 1793375634804494260, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957084/0210.jpg", "source_mtime_ns": 1785696433000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957084/0210.jpg", "source_sha256": "3926dfc9c7be911eaca3bf6a9e217c025a2bfed29298513255ef254cb54082f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 453, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NEGATIVE
+G. NEGATIVE
+H. NONE HEARD
+PAGE TWO JWPMC Ø1G
+I. NONE
+W. A. UNKN
+B. 45 DEGREE ANGLE TO HORIZON IN SOUTHEAST DIRECTION FROM OBSERVER
+C. SAME
+D. MOVED SOUTHEAST
+ALTITUDE UNKN, ON STRAICHT COURSE
+E. UNKN
+F• W 1/2 MINUTES
+E. A. GROUND-VISUAL
+B. FIELD GLASSES
+C. N. A.
+4. A. 151350Z
+B. NIGHT
+6. A. CAPTA
+AGE UNKN
+CAPT. OF GUARD AT AEC PLANT
+5. AREA 5, CHEMICAL PROCESSING PLANT, PHILLIPS PETROLEUM CO.
+•
+IDA•
+E. INSPECTOR TERRY
+AGE UNKN
+AEC EMPLOYEE

@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:16:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2652593, "source_ctime_ns": 1793365579295856968, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0061.tif", "source_mtime_ns": 1785565391000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0061.tif", "source_sha256": "d7ab4927a7027cdc420fc83b83b7222a7c05677c1bd7ef0c62bca73394a6578a"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 383, "method": "ocr", "page": 1, "variant": "plain-vision"}
+The following information would be helpful in sclection and should be
+listed, if known. The CANDIDATE BEING NOMINATED SHOULD
+NOT BE APPRISED THAT SHE IS BEING CONSIDERED FOR
+APPOINTMENT TO THE COMMITTEE.
+BACKGROUND: Business or professional affiliations during the
+past 10 or more years. Any offices held.
+MEMBERSHIP IN CLUBS OR ORGANIZATIONS:
+Club or Organization
+Dates
+Office Held

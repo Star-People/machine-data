@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:45:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11283671, "source_ctime_ns": 1793363742897390384, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0167.jpg", "source_mtime_ns": 1785684865000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0167.jpg", "source_sha256": "9f798312fb44a7adadd80279e4c817434ffd442cce77418f373e840f5b8f7bd5"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 221, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+around in an attempt to see it again,
+we took up our course for Omaha and
+continued our scheduled flight.
+/s/ James F. Bachmeier
+A TRUE COPY:
+oar Sparke
+EARL E.
+SPARKS
+Captain, USAF
+Declassification Authority: NND 923007

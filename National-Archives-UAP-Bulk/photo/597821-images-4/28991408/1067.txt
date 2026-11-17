@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:35:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7189919, "source_ctime_ns": 1793384933914840619, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991408/1067.jpg", "source_mtime_ns": 1785747994000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991408/1067.jpg", "source_sha256": "1218d1ba6620ca4f89228d2324df2dca742e7e306409038dc6a712e67932fede"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 531, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFED MESSAGE
+IN COM paLeGy of 4 Pages
+AF IN : 18571 (15 Feb 61)
+PAGE FOUR RJWZSBA 4
+TION ON BALLOON RELEASES.
+K. 552 AEW&C WING INTELLIGENCE OFFICER. I BELIEVE THE OBSERVERS
+DID PER CHANCE SEE A SATELLITE IN ORBIT. HOWEVER, THIS OFFICE
+DOES NOT HOLD TRAJECTORY DATA TO ALLOW TENTATIVE CONFIRMATION.
+BOTH OBSERVERS STATED THEY HAVE OBSERVED ECHO I ON FOUR OR FIVE,
+OCCASIONS AND THAT THIS OBJECT HAD EVERY APPEARANCE OF A
+SATELLITE IN ORBIT.
+L. NONE
+BT
+15/0110Z FEB RJWZSBA

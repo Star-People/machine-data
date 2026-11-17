@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:46:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13208791, "source_ctime_ns": 1793355322543472002, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0023.jpg", "source_mtime_ns": 1785564434000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0023.jpg", "source_sha256": "488c93406a66187d56e862420b867ce4d4e11c8b4909ff4395778cccf6692648"}
+
+===== PAGE 1 =====
+{"alpha_words": 242, "chars": 1617, "method": "ocr", "page": 1, "variant": "plain-vision"}
+N.A.S.A.
+Scientists at NASA's Langley Research
+Center complete the first ground infla-
+tion tests of a 135-foot-diameter inflat-
+able spherical satellite. Purpose of the
+ground test is to verify the structural
+strength of the sphere. The rigidized
+sphere is thicker and heavier than Echo
+I and is designed as the prototype of
+passive communications satellites of the
+future.
+(NASA Photo)
+The canister in which the Echo II Satelloon was folded had an
+oblate spheriod design about a tenth of an inch thick. It was
+folded with an accordian pleat into one of two flanged half-
+shelled canisters.
+(Schjeldahl Photo)
+Technician examines a 40-inch metal payload container for
+an inflatable sphere of the Echo II passive communications
+satellite type.
+(NASA Photo)
+Echo Communications Satellite Series
+The 135 foot design of Echo II stems basically from spherical pressure balloons. Containing about 1,000 square yards of
+material, made of 106 gores that are four feet wide at the equator and tapering to the points of attachment. Echo II was packed
+uninflated in an 11 cubic foot column canister... a ratio of 100,000 to 1. The sandwich material, capable of self-rigidizing in
+space, is a laminate with a precise combination of cold rolled aluminum foil and DuPont Mylar.
+NASA scientists use a 30-inch scale version of an inflatable 135-foot diameter sphere in
+their High Vacuum Facility during general research.
+(NASA Photo)
+Inflation ducts on ground test model of Echo II.
+(Schieldahl Photo)
+(NASA Photo)
+ALTITUDE
+[ 950 N. MILES
+Inflated Echo II shows panels and size in hangar.
+(Schjeldahl Photo)
+RANGE IN NAUTICAL MILES

@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:20:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3928487, "source_ctime_ns": 1793371169915931514, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936949/1237.jpg", "source_mtime_ns": 1785688694000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936949/1237.jpg", "source_sha256": "2ebd7eacc6006e75bc44456d6689d72f75e36cc4e5cea9c0a22e07e830000db0"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 400, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ATIC NO.
+AL NO.
+REPORT IO
+DATE OF PORT
+THE OF SIGNING
+SHAPE
+Saucer
+SIZE
+Huge
+COURSP
+NO. IN GROJP
+SOUND
+Powered by motors
+PHOTOS
+SKETCHES
+Temporary ATIC Form 399
+(2 Jan 52)
+DATE OF INPO
+• LOCATION
+26 Oct 1949
+Dickson, Tenn.
+SOURCE
+Optometrist
+DATE IN TO APIC_-=
+COLOR_
+_Alurinum
+SPEeD Very high
+Estinat
+Hear are
+ALTITUDE
+Very high
+M asured
+LENGTH OF TIM OBSERVED
+TYPE OF OBSERVATION_
+MANEUVERS
+Ground

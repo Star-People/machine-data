@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:42:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9752999, "source_ctime_ns": 1793383634748428327, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987476/1116.jpg", "source_mtime_ns": 1785747998000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987476/1116.jpg", "source_sha256": "40151bacf36b4a313cbf8b232e3af2155646dccbf0912247d9a2956e2529c222"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 578, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR RJWFFU 28
+BOM UG (HO. COMMENTS OF PREPARING OFFICER: PRELIHINARY ANALYSIS
+INDICATES SOURCE MAY HAVE OBSERVED THE LARCE BRIGHT LANDING LIGHT
+OF THE B-52 ACFT MAKING APPROACH AT 29/0929Z JUN 60. RELATIVE
+POSITION OF SOURCE AND AIRCRAFT WOULD MAKE OBSERVATION OF A LIGHT
+ON AN AIRCRAFT MAKING A LONG APPROACH FROM THE SOUTH APPEAR AS A
+STATIONARY LIGHT, AND THEN SPEED UP AND DISAPPEAR AS ACFT TURNED
+ON FINAL. ALTUS AFE IS LOCATED 3 HILES EAST OF SOURCE'S POSITION
+AND THE APPROACH PATTERN IS LOCATED TO THE SOUTH AND EAST OF THE
+RUNWAY.
+L. NONE.
+BT
+02/00202 JUL RJWFFU

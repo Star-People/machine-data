@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:23:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4394359, "source_ctime_ns": 1793371283419507059, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937487/0307.jpg", "source_mtime_ns": 1785688933000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937487/0307.jpg", "source_sha256": "551f4b0276fe28f6237b43fcad849b58da80281032dbfc5513b05e07f5895ffe"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1059, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+1,2, 3 March 2950
+3. SOURCE
+Army Radar
+LOCATION
+Knoxville, tennessee
+USIO
+• Ve inird report
+Other ramn
+End Probable Ground Returns
+4. NUMBER OF OBJECTS
+Soveral
+Returns on 3 sucessive nights fren same quadrant. Probably
+ground returns from inversion. Report on 3 March of A/C.
+5. LENGTH OF OBSERVATION
+11. BRIEF SUMMARY AND ANALYSIS
+1 hour 55 minutos,
+Two successive nights returns of stationary object. Ca third
+6. TYPE OF OBSERVATION
+night slow motion was reported. lst night 1 hour 55 minutes.
+Ground Radar
+2d night Not stated.
+3d imps day report of object size of
+C-47 with track spoed estinated at 200 knots.
+7. COURSE
+Report from 3 March probable A/C. First two nights returna
+1. Stationary, 2. Not
+Repof stationary object likely grourd targets since they were
+3. PHOTOS
+of long duration. No Weather data included. Should be an
+inversion in the area at the time in order for this to be a
+• Yes
+33 No
+cause of the report.
+PHYSICAL EVIDENCE
+• Yes
+= No
+FORM
+FTD SEP 63 0-329 (TDE) Previous odillor
+orm may be usod.

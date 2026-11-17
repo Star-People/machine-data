@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:18:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3728119, "source_ctime_ns": 1793375338748801368, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955747/0435.jpg", "source_mtime_ns": 1785696751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955747/0435.jpg", "source_sha256": "fbec10bbf5f50f1ec33fb2f249ac68fefabefea9a9bfd1dde009e0a7a926d73c"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 977, "method": "ocr", "page": 1, "variant": "plain-vision"}
+S !!
+UNCLASSIFIED
+26 July 1953
+Nellia AF Base, Nevada
+Description
+Two civilians who work in the Aero Maintenance Section at Nellis
+AF Base were on a picnic at Deer Creek Springs, Nevada, when they
+saw an unidentified flying object that was estimated to be 100 feet
+in diameter and at an altitude of 70,000 feet. The object was silvery
+retallic in color and reflected the rays of the sun brilliantly at
+times.
+The object was observed for a period of one hour with both
+ten power and seven power binoculars.
+Discussion
+Reporting officer stated in his report that there were no weather
+balloons or aircraft in the area at the time of the sighting. A check
+was made with the upper air research balloon tracks received from Lowry
+AF Base revealing that there was very probably a balloon over that srea
+at the time of this sighting.
+Conclusion
+Probably balloon (upper air research).
+DOWNGRADED AT 3 YEAR INTERVALS:
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+UNCLASSIFIED
+T53-11156

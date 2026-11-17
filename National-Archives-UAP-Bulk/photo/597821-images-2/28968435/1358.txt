@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:33:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6617973, "source_ctime_ns": 1793378571070360569, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968435/1358.jpg", "source_mtime_ns": 1785696703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968435/1358.jpg", "source_sha256": "0bfbc7c90cee9fe3f20044829260791b0707bacc68d3c067b004139a74682003"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 1001, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10075 RECORD CARD
+1. DATE
+2. LOCATION
+21 November 1956
+3. DATE-TIME GROUP
+Local _
+2105
+GM T.
+21/2005Z
+5. PHOTOS
+Muehlheim, Germany
+4. TYPE OF OBSERVATION
+#round-Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+*KNO
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+30 seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+Stationary orange colored light
+observed in the constellation Great
+Bear. Looked similar to the Planet
+Mars. Remained for 30 seconds at which
+time it blinked two or three times and
+disappeared. Observer did not believe
+that it was an a/c.
+12. CONCLUSIONS
+•
+•
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Airerat
+Possibly Aircroll
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+ak Inefficient Dete for Evelvation
+Unknown
+9. COURSE
+stationary
+11. COMMENTS
+Mars in vicinity of Ursa Major
+at report. No evaluation attempted
+on the limited data presented.
+Case listed as insufficient data.
+ATIC FORM 329 (REV 26 SEP 52)

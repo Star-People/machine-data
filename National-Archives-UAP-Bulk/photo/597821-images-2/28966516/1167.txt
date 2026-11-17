@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:28:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5475963, "source_ctime_ns": 1793378049729953523, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966516/1167.jpg", "source_mtime_ns": 1785696475000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966516/1167.jpg", "source_sha256": "c8f82deaa310312bede1e7603e5796ab24336ad32441d192296e5ad37a20c653"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 730, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Puge 8
+39. Do you think you can estimate the speed of the object?
+(Circle One)
+Yes
+No
+IF you nswered YES, then what speed would you estimate?
+40. Do you think you can estimate how far away from you the object was?
+(Circle One)
+Yes
++ 20
+054520
+No
+IF you answered YES, then how far away would you say it was?
+41. Please give the following informtion about yourself:
+NAME
+m.p.h.
+feet.
+Last Name
+Name
+Middle Name
+ADDRESS
+Street
+Zone
+TELEPHONE NUMBER
+What is your present job? -
+рана
+Age
+Sex
+Please indicate any special educational training that you have had.
+a. Grade school
+b. High school
+c. College
+d. Post graduate
+e. e. Technical school
+(Type)
+f. Other special training
+42. Date you completed this questionnaire:
+Month
+1755
+Y eas

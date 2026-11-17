@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:16:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3222643, "source_ctime_ns": 1793384190194518582, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989395/0636.jpg", "source_mtime_ns": 1785748372000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989395/0636.jpg", "source_sha256": "9c0289a7a2ded69ac6b698463017faa39bd6bf1f68c1c99f51513866be2654fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 315, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJWFAM 244
+(3) NONE.
+(4) 15 MILES PLUS •
+(5) 2/8 COVERAGE•
+(6) NONE•
+H• NO SIGN OF INVERSION ON LATEST RADAR OBSERVATION•
+I. NONE.
+J• TERMINAL TRAFFIC AT LOWRY AFB AND STAPLETON AIRPORT• HIGH
+ALTITUDE JET TRAFFIC OVER DENVER•
+K• AIR OPERATIONS OFFICER, NO COMMENT•R
+L• NONE •
+BT
+29/2140Z SEP RJWFAM
+NNNN

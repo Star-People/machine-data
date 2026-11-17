@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:19:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3856455, "source_ctime_ns": 1793373475085731093, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947009/0911.jpg", "source_mtime_ns": 1785688745000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947009/0911.jpg", "source_sha256": "532f1c10f54212ab6ff930d0af340d0e439d8ddfba0fa4f10cbb6569105d539e"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 450, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JWPUK 32
+(6) WEATHER: OVERCAST AT 25 W FEET, THIN AND BROKEN, VISIBILITY 15 MILES
+PLUS, TEMP SU DEGREZS, DEVPOINT 41, BARONTTER 29.55
+(6) (CONTINUED) WINDS ALOFT: 2080 FEIT 170 DEGRIES 1N KN, 4000 FIFT
+100 DEGREZS 5 KN, 60
+0 FEET 100 DEGREES 18 KN 2XPAFIIT 10A DEGREES
+5 KN
+(7) NONE
+(6) NONE
+ST NONE
+(10) & F-34'S AIRFORNE AT TIME OF SIGHTING ON LOCAL AREA TRAINING
+FLIGHTS, AIRCRAFT NOT REPEAT NOT FLYING FORMATION.
+22/17412 AUG JWPUK
+су г

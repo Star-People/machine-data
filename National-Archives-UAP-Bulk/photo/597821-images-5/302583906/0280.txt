@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:04:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 766038, "source_ctime_ns": 1793394119106407449, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302583906/0280.jp2", "source_mtime_ns": 1785808208000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302583906/0280.jp2", "source_sha256": "b4984d7610c233265e83fa8103aa9e8c7131d92dfd952f9818e9f490c09626d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 619, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE • TIME GROUP
+07/0900EDT
+17 Oct 69
+07/23002
+3. SOURCE
+Civilien
+1. NUMBER OF OBJECTS
+To (2)
+LENGTH OF OBSERVATION
+2 minutes
+1 minute
+TYPE OF OBSERVATICN
+Ground Visual
+7. COURSE
+to N
+8. PHOTOS
+• Yes
+A No
+9. PHYSICAL EVIDENCE
+D Yes
+4 No
+FO 2%
+FTD SEPS: 0-329 (TDE) PRov
+2. LOCATION
+Newport News, Virginia
+10. CONCLUSION
+Possible Aircraft
+11. BRIEF SUNMARY AND ANALYSIS
+Observer sighted four (4) red lights arranged in a square
+pattern twice in one night.
+COMMENTS:
+It is not clear how far apart the two sightings
+were.
+There seems to be no evidence that the sightings
+could not be of an aircraft.

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:34:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7180989, "source_ctime_ns": 1793383326432677156, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986741/0461.jpg", "source_mtime_ns": 1785747968000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986741/0461.jpg", "source_sha256": "d3f9367bdae06f1d79acc26a77f16a724163aa8268ddd19ff35045c903a3c321"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 626, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO ROUTING SLIP
+1 NAME OR TITLE
+Major Robert Friend
+ORGANIZATION AND LOCATION
+ATIC
+NEVER USE FOR APPROVALS, DISAPPROVALS,
+CONCURRENCES, OR SIMILAR ACTIONS
+INITIALS
+CIRCULATE
+DATE
+COORDINATION
+FILE
+INFORMATION
+NECESSARY
+ACTION
+NOTE AND
+RETURN
+SEE ME
+SIGNATURE
+REMARKS
+Attached is forwarded for investigation,
+analysis and/or evaluation. We have a
+Congressional suspense date of 22 June or:
+this, so will appreciate any fast action
+you can manage.
+FROM NAME OR TITLE
+It Colonel Lawrence
+ORCANIZATION AND LOCATION
+FORM
+- 1 FEB 50 95
+SAFOI-3a 5C 965
+Replaces DA
+AGO Form 395,
+Form 12, 10 :
+DATE 16 June
+TELEPHONE
+72291
+and AFHQ

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:27:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5024403, "source_ctime_ns": 1793376125819640005, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959355/00864.jpg", "source_mtime_ns": 1785696506000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959355/00864.jpg", "source_sha256": "57dbe289419392401800e6ae4c861805c68c267f0fe840aa546e69701a9ae945"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 560, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Multi
+IN
+ACTION
+15 "
+*PE016
+IDA C1 OT
+23 4001954 07 41 2 2270651
+21/3300=
+PATRICK AKE
+УHAP19
+JESVO A03
+00 JEDEN JEDMP JEPHO JEPFF 444
+0 22 135łęłîš
+PH CRDR FLIGHT SERV CNTR MAXWELL AFB ALA
+TO JEDEN/CMOR ADC ENT AFB COLO SPRINGS COLO
+JEDUP/OMDR AIR TECHNICAL INTELLIGENCE CNTR WRIGHT PAT AFD OHIO
+JEPHO/DIRECTOR OF INTELLIGENCE HOS USAF WASH D C
+JEPFF/CHDR HATS WASH D C
+1 DESCRIPTION OF OBJECT
+(A) DOME PROJECTING UNDER FLAT SURFACE
+(E) SIZE OF DIME AT ARNS LENGTH
+(C) WHITE VARIABLE TO SILVER BODY CMA INTERMITTENT RED LIGHT
+(D) ONE
+(E) NA
+(5)
+HONE
+NONE
+*(I>

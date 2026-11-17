@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:40:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8870134, "source_ctime_ns": 1793387766998446805, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999129/1083.jpg", "source_mtime_ns": 1785748431000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999129/1083.jpg", "source_sha256": "406989d936c8d86a21cb7947ad72bcb3aba0a0a54198dd8dcbff3f57159b663b"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 502, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Object Strikes Irish Field No
+A mysterious object, about the size
+of a baseball with four spokes protrud-
+ing from it, fell from the sky over county
+Wexford, Ireland and made a crater four
+feet in diameter on 8 September 1962
+Residents in the area reported hearing
+an explosion within a half-mile radius,
+at the time the object fell. It was found
+lying on top of a burned-up patch of
+yellow clay. Police cordoned off the field
+while waiting arrival of military experts
+from Dublin. No further details.

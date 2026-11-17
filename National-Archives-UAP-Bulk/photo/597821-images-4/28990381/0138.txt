@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:36:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7662362, "source_ctime_ns": 1793384460209630133, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990381/0138.jpg", "source_mtime_ns": 1785748548000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990381/0138.jpg", "source_sha256": "a921f1770c10a5fbeb32901b36de494412e3dee445eca2dc5a363aba1628f08e"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 744, "method": "ocr", "page": 1, "variant": "plain-vision"}
+7 27 3
+ZCSQA670ZCQYB115
+PP RJEDSO
+DE RJKDNPB 1
+P 0623907 ZEX
+FM 709TH ACW SQ FORT YUKON AFS ALASKA
+1969 DEG .
+Ch0 1
+05 47
+TELEP
+TO
+NO.
+TO RJKDAG/ HQ AAC ELMENDORF AFB ALASKA
+RJWFAL/AIR DEFENSE COMMAND ENT AFB COLO
+Date
+8у:
+RJEDSQ/AIR INTELLIGENCE CENTER WRIGHT-PATTERSON AFB OHIO
+RJEZHQ/HO USAF WASH DC
+RJEZHO/SECRETARY AIR FORCE WASH DC
+ЦЕЗУ
+INFO RJKDAG/ALCOM J-2 ELMENDORF AFB ALASKA
+RJKDAG/ACS INTELLIGENCE ELMENDORF ALASKA
+RJKDNPN/744TH ACW SQ MURPH DOME AFS ALASKA
+ВТ
+UNCLAS FROM ACWO98-19-1. ATTN: ACS/INTELLIGENCE OFFICER
+AS PER THE DESCRIPTIVE FORMAT IN AFR 290-2, THE FOLLOWING INFORMATIN
+IS SUBMITTED CONCERNING UFOB SIGHTED IN THE AREA.
+A. DESCRIPIION OF OBJECT
+1. SHAPE-ROUND
+2. QUARTER
+3. WHITE WITH GREEN EDGES
+40 1
+5. NO
+6, NONE

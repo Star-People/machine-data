@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:17:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3630814, "source_ctime_ns": 1793359107884061597, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-066-0001.tif", "source_mtime_ns": 1785681318000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-066-0001.tif", "source_sha256": "f1ef33e38036137bd51724170a9ebacc717bfee067d87f281f011e4887a582dc"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 664, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+#ISS
+UFOB Sighting
+This msg was phoned in.
+From: COC, MAJ Harper
+Time: 2150, 18 JAN 55
+Location:
+\Kalispell, Montana
+Time of Sighting:
+1901004 and 1901157JAN 55
+Four different parties relayed message.
+They heard a rumbling
+sound going in a Westernly direction. They saw two large red flashes
+and heard a loud explosion, very high.
+Mr and Mrs
+Phone: Helena, Mont
+Position: 2 miles South and 1 mile West of FD5101 - 1901152
+Mr
+and two neighbors in Ronan, Mont. reporte explosion.
+Position: FC5335 - 190100Z
+·
+*
+CAC, Flight Service, and SAC were notified.
+WADF from Fairchild AFB
+Several from Polson, Mont.
+Kalispell - Mr
+Phone:

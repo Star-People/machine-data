@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:35:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7623321, "source_ctime_ns": 1793383588948928179, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987355/1006.jpg", "source_mtime_ns": 1785748244000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987355/1006.jpg", "source_sha256": "2f69a1bf0fcdfe2affbcffcd863601d96ccb5a0a640a012a6f593a12a4b83df6"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 938, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN :
+INFO
+SMDC 161
+29320
+¡ Jun
+(60)
+:: CIN, OOP-CP,
+SAFS
+CHQC59 6Z CB JA214
+PP RJEZ HQ
+DE RBEJC 95
+P 25 1628Z
+FM COMCARIBSEAFRON
+INFO RBEKHC/CINCLANTFLT
+RBE PW /CNO
+RJWFABL/CINCNORAD
+RJEZHQ/COFS USAF WASHN
+0 25 0344Z
+FM COMGANTS
+TO COMCARIBSEAFRON
+P 250330Z
+FM CGRADSTA SJUAN
+TO COMGANTS
+DXPARTMENT OF THE AIR FURCE
+OGPAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
+FOL RCVD FM COLOMBIE/FNTH QUOTE COLOMBIE 1. CKNC 2503Ø0GMT BT USCG
+SAN JUAN BT COLOMBIE FNTH AT 00.20GMT
+IN LATITUDE 17.30 NORTH
+LONGITUDE 59.54 WEST VERY CURIOUS BRIGHT PHENOMENON WAS OBSERVED
+IT WAS LIKE A STAR MOVING VERY QUICKLY FROM IHE VICINITY OF BIG
+BEAR TO THE VICINITY OF SAGITARIUS THIS STAR WAS EMITTING FOUR
+RIGHT ANGLE RAYS AND WAS SURROUNDED BY A WHITE ELLIPTIC CLOUD STOP
+WEATHER CLEAR WINDS EAST SIX BAROMETER 763 AIR TEMPERATURE 27C SEA
+TEMPERATURE 29C OBSERVER THIRD MATE
+BT MASTER DE
+BT™
+UNQUOT E
+NOTE: Advance copy delivered to CIN and OOP-CP.

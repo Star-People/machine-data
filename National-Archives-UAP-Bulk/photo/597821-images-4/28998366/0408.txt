@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:36:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8132074, "source_ctime_ns": 1793387205407354198, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998366/0408.jpg", "source_mtime_ns": 1785748450000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998366/0408.jpg", "source_sha256": "15b144d6882a502edc719098edc1ef84abb0fd893a141af2dfebecf77fa95d0b"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 457, "method": "ocr", "page": 1, "variant": "plain-vision"}
+23 JULY 19.6Z
+DEPARTMENT OF THE AIR FORCE
+OFFICE OF THE SECRETARY
+MEMORANDUM
+Jan 11, 1963
+Dear Cathy:
+A check with the Seattle Times
+information desk and morgue confirms that
+no specific reference to UPCs and Air Force
+Jets had been published in that paper during
+the past year.
+The latest Department of Defense
+Fact Sheet concerning UFOs is forwarded for
+your information.
+Sincerely,
+NT. Colonel, USAF
+LOOKADO:
+Public Information Div
+Office of Information
