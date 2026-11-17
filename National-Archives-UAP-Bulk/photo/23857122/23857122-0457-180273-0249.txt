@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:45:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18284220, "source_ctime_ns": 1793356630745313569, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0249.tif", "source_mtime_ns": 1785564733000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0249.tif", "source_sha256": "6eedb1acb26619a328b76384fd866aaf201304680574f99cf1a3dd6721183a81"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 494, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+Incident #101 - Dorcatur, Kansas -- 18 February 1948
+This now-celebrated case of an unusual fireball has
+been adequately reported in astronomical literature; (for de-
+tails, see Sky and Telescope, April, 1948, page 164, and Octo-
+ber, 1948, page 293).
+Positive identification has been made
+by the recovery of framents. The origin of this object 1s,
+therefore, definitely astronomical, and the incident need not
+be considered further.
+RESTRICTED
+Declassification Authority: NND 57565

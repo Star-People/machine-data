@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:29:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8342990, "source_ctime_ns": 1793379394718645972, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972203/00410.jpg", "source_mtime_ns": 1785700874000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972203/00410.jpg", "source_sha256": "acaf468d20f9092c3150f0af709640302d45038c5d86eb0d2a996d4c1acb6733"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 882, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+14 October 1957
+3. DATE-TIME GROUP
+. Local
+S. PHOTOS
+15/0710Z
+• Yos
+7% LENGTH OF.OBSERVATION
+Californi:
+& Ground Visual
+• Air Visual
+6. SOURCE
+• Ground-Roder
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomica
+•
+Possibly Astronomica
+Moon
+Insufficient Data for Evaluation
+Unknown
+2 - 3 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Object shape of cup upside down,
+silvery and gold.
+Moved East
+size of a quartout of site in clouds.
+Came down from clouds & moved back
+up into clouds.
+ESE
+11. COMMENTS
+Area was overcast. Moon full on
+this date & in about same posi-
+tion as object sighted. It
+is
+believed break in clouds let moon
+show through momentarily.
+MC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:17:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5398106, "source_ctime_ns": 1793377750994620963, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965247/0054.jpg", "source_mtime_ns": 1785696828000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965247/0054.jpg", "source_sha256": "4f1880ae602cb311d0231387e1290b50ff4da42963eb1dfd54c9e93af25e5d33"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 991, "method": "ocr", "page": 1, "variant": "plain-vision"}
+27/1/05₴
+/Witness
+54194
+228P us
+..03.0
+4F4
+44K%a
+WPA139 YMAD84FJAQ47
+PP RJEDEN RJEDEW RJEDWP RJEPHO
+DE RJEDFJ 2G
+P 2814002 !
+FE COMDR 754TH ACRON PORT AUSTIN MICH
+TO RJEDEN/COMDR ADC ENT AFB COLO
+RJEDEW/COMDR 30TH ADIV WRAFS BELLEVILLE MICH
+RJEDUP/COMDR ATIC WRIGHT-PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 DC
+/UNCLASSIFIED/ OPS 116-93 PD UFOB CMA ATTN: DIR OF INTEL PD
+(A) DESCRIPTION OF THE OEJECT (S):
+1. SHAPE-SPHERE
+2. SIZE-BASKETBALL
+3. COLOR-BURNT ORANGE
+4. NUMBER-ONE
+5. FORMATION -N/A
+6. DISCERNIELE FEATURES OR DETAILS-IRREGULAR WITH FAND AT TOP AND
+EOTTON 1/8 INCH WIBE BAND WAS GRAY
+7. TAIL TRAIL OR EXHAUST-NEG
+PAGE TWO OX RJEDEJ 2G
+8. SOUND-NEG
+9. OTHER PERTINENT OR UNUSUAL FEATURES-NEG
+(E) DESCRIPTION OF COURSE OF OBJECT (S):
+1. WHY NOTICED-COLOR
+2. ANGLE OF ELEVATION AND AZIMUTH- 025 DEGREES CMA WSW
+3. ANGLE OF ELEVATION AND AZIMUTH OX AB3CT UPON DISAPPEATANCE- 225
+DEGREES WSW
+4. DISCRIPTION OF FLIGHT PATH AND MANEUVERS OF OBJECTS) -NEG

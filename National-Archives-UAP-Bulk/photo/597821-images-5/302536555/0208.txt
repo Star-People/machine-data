@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:57:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 999212, "source_ctime_ns": 1793389116268670660, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536555/0208.jp2", "source_mtime_ns": 1785808206000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536555/0208.jp2", "source_sha256": "e54900658d9ed4e94b65d9306216211930f223f270e8e11547b8299eadbce821"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1070, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Information Only
+Sourse:
+Saucer News, Vol 12, #l, March 1965
+Buenos Aires,
+, Argentina
+14 November 1964
+FLYINC SAUCERS OVER ARCENTINA: On the night of November_14th. a
+mysterious object was observed by astronomers at the San Miguel Observatory,
+near Buenos Aires, Argentina.
+The red-colored UFC crossed the sky at about 41
+times-the speed of
+a man-made earth satellite, according to a spokesman for
+the Observatory. A half hour later, the same object crossed the sky again, go-
+ing in the opposite direction. It did not resemble any known type of satellite
+•ither in speed or orbital height.
+A few nights earlier, two men in a truck traveling along a highway
+near Parana in the northern province of Entre Rios,
+reported to police that a
+fast-moving brightly-lit object swooped down on their truck several times.
+These incidents
+are just two in a continuing Argentine flap, con-
+sisting of frequent near-landings, occasional landings,
+and scattered reports
+of little men. Unfortunately, our clipping services do not send us more than a
+small percentage of these reports.

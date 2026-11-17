@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:24:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6820205, "source_ctime_ns": 1793380012140040184, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974213/0729.jpg", "source_mtime_ns": 1785700681000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974213/0729.jpg", "source_sha256": "67345f14588269d0ab622082c4fb2832748a6b2054e487e139c4215070ab69e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 815, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+7 November 1957
+DATE-TIME GROUP
+Local
+GM T
+08/02:57
+S. PHOTOS
+• Yes
+•KNO
+7. LENGTH OF OBSERVATION
+20-25 minutes
+I0. BRIEF SUMMARY OF SIGHTING
+Round object, size of dime at arm's
+length. Red. Light pulsating and very
+fast.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+2 Mi N of Seminole, New Mex
+TYPE OF OBSERVATION
+O Ground- Visual
+• Air Visual
+• Ground-Reder
+• Air-Intercept Roder
+SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aireraft
+Possibly Aircraf
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+EX Insufficient Date for Evaluation
+Unknown
+9. COURSE
+not given
+11. COMMENTS
+Probably astronomical sighting;
+however, positional data not
+included no evaluation-..insuffi
+cient data.
+ATIC PORM 329 (RKV 26 SEP 52)

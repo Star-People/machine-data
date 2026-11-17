@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:08:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3393721, "source_ctime_ns": 1793371741396775634, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939648/00773.jpg", "source_mtime_ns": 1785688859000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939648/00773.jpg", "source_sha256": "0f593566c3b0521d147f5591cb57f7a9ca44917d27796e662ed4bfcdd45b5eb6"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 371, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EXTRACT FROM STATUS REPORT #
+DATE: 17 Sept 51
+TILE (Local): 1217
+LOCATION: Marion, Ohio
+LENGTH OF THE OBSERVED: Few Sec.
+SOUND: None
+SPEDO: High
+ALTITUDE: 2800'
+HEADING : 50°
+SOURCE: Private Pilot
+ACTION OR COMENTS: Probably friendly conventional a/c
+DESCRIPTION OF INCIDENT: Pilt of Bessna reported that he almost collided with
+a black, high tailed swept wing aircraft.

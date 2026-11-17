@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:55:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 781159, "source_ctime_ns": 1793391236325266925, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556596/0158.jp2", "source_mtime_ns": 1785808182000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556596/0158.jp2", "source_sha256": "68e7b4389cf22b6a4d1f00edc1f973c100803c727c0ce63b46d7e170128ce4b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 835, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE
+TIME GROUP
+2. LOCATION
+6 October 66 06/1500%
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+1 Minute
+6. TYPE OF OBSERVATION
+Ground - Visual
+7. COURSE
+N/A
+8. PHOTOS
+• Yes
+9. PHYSICAL EVIDENCE
+• Yes
+XXNo
+FORM
+FTD SEP 63 0-329 (TDE) Prevlous •
+a of this form may be used.
+Woodbridge, Virginia
+10. CONCLUSION
+INSUFPICIENT DATA FOR EVALUATION V MA
+(1 Witness)
+BRIEF SUMMARY AND ANALYSIS
+Observer noted silvery colored object for about one minute
+before the object disappeared benind some trees. Object
+looked like it had a window that was visible. Observer
+stated that she was not to sure of the shape of the object.
+There is a total lack of information in regards to the
+azimuth of appearence and disappearence of the object. Also
+the observer was not to sure of the shape of the object.

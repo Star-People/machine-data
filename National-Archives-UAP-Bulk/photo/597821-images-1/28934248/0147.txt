@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:21:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6056154, "source_ctime_ns": 1793370292860284314, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934248/0147.jpg", "source_mtime_ns": 1785688545000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934248/0147.jpg", "source_sha256": "16c2853fb11c5e1cd259769ed84bf30b904c6f3a75949558d9c37f1e5c87c88f"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 561, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MC LAKS
+24 JUN 1949
+UNCLASSIFIED
+MO LAXS / GNT/ano
+Washington
+Dear
+Receipt of your letter, dated 16 June 1949, is respectfully
+ackmowiedred by this Headquarters.
+The completed questionnairs memtioned in your letter has not
+been received to date.
+In view
+the above, me are icelosing an additional copy of
+our Questionnaire for use in recording the desired data.
+Your co-
+operation in this matter is sinceraly approciated.
+Sincerely yours,
+Guide to Investigation
+A. J. HEUSTRAST, JR.
+Lt Colonel, USAP
+Acting Chief, Analysis Division
+Intelligence Department
+¡FIED

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:22:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6374731, "source_ctime_ns": 1793394164155107601, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-005-0006.jpg", "source_mtime_ns": 1785567332000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-005-0006.jpg", "source_sha256": "3fdccec42257edacf5de69176af0871eba97f032b32d1fd4bb23c2fb32c7884f"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 157, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+115.8 ENN
+Ch 105
+BoSZ
+10185
+IT BY NOTAM
+EA GAL
+00 NE
+166
+Ch 98 EIL ::
+EIELSON
+117.0 EAF :-_.
+ZAN CENTRE/F
+Y NOTAM
+228
+JOHNSTO
+MIDDLETON
+115.3 MDO
+DME Ch 100

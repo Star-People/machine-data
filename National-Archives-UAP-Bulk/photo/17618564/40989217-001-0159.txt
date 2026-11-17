@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:25:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7027152, "source_ctime_ns": 1793354616165694517, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0159.jpg", "source_mtime_ns": 1785564313000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0159.jpg", "source_sha256": "d695cf3183c264ad428590de738fd827182049e902dfb6825c20ca5ce07fa824"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 709, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Walker Air Force Base
+New Mexico
+STATE ME VI
+A review of Colonel Adams' personal file discloses that in
+addition to numerous letters of commendation, he has served as past
+President of the Walker Air Force Base Chapter of the National
+Sojourners and past President of the Walker Air Force Base Chapter of
+the SAC Aero Club. He has written numerous newspaper articles,
+appearing both in the Roswell Daily Record and the Walker Air Force
+Base newspaper, the Atomic Blast, including a series of articles on
+Medicare appearing in the Atomic Blast. Colonel Adams served as First
+Commander of the all-doctors post of the San Francisco American
+Legion.
+William
+G. Walker,
+Colonel, USAF
+Investigating Officer
+EXHIBIT

@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:32:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8968825, "source_ctime_ns": 1793362505927160718, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0077.jpg", "source_mtime_ns": 1785685151000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0077.jpg", "source_sha256": "6c4c066e2b179f75c3ab72bc5b39fb9cf19b532d508c30844ab01627e155d9f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 83, "method": "ocr", "page": 1, "variant": "clean-vision"}
+8 19 20
+18 AUG1952
+MANAGEMEN
+011 02103/04
+110|11/2ął
+OUT
+20 AUC1952
+CI DIV
+OSI
+Toz

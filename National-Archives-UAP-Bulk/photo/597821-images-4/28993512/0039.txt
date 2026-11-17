@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:28:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8111265, "source_ctime_ns": 1793385510560867493, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993512/0039.jpg", "source_mtime_ns": 1785748240000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993512/0039.jpg", "source_sha256": "68399e339df08f3bd9e966b79b45832b864f37c7306b7ecbf08c88a54b84403f"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 796, "method": "ocr", "page": 1, "variant": "plain-vision"}
+February 7, 1902
+Dear Mr.'
+Your letter of 14 January 1962 has been referred to this
+office for enswer.
+Neither of the speelfic sightings you mention vere forwarded
+for record purpose because investigators at the initial reporting
+level were able to establish positive identification.
+The sighting in the Chebalis-Morton ares on 12 July 1951
+vas detemined to be a SAC training refueling operationr
+The sighting near Tacoma, Washington on 15 October 1961 vaa
+determined to be on F-100 aircraft from NoCiord AB.
+The inclosed copy of AYR 200-2 has applicable portions noted
+for your information.
+Thank you for your interest and we hope the above information
+vill prove satisfactory.
+Sincerely,
+Inel.
+C. R. BART
+Major, USAP
+Public Information Division
+OfFice of Information
+Mr.
+Seettle 66, Washington

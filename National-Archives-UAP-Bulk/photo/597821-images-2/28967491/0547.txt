@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:22:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6211730, "source_ctime_ns": 1793378290907490669, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967491/0547.jpg", "source_mtime_ns": 1785696764000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967491/0547.jpg", "source_sha256": "399dd1eba792d26b5b7814c141b168c136a4906b7de7e296709ab678dbf45ced"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 782, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+7 September 1956
+3. DATE-TIME GROUP
+. Locol_
+0330 (N)
+GM T
+_ 07/03302 09152
+5. PHOTOS
+• Yes
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dayton, Ohio
+TYPE OF OBSERVATION
+A Ground-Visual
+• Air Vi suol
+6. SOURCE
+• Ground-Radar
+• Air-Intereopt Rador
+Civilian
+8. NUMBER OF OBJECTS
+l minute
+two
+10. BRIEF SUMMARY OF SIGHTING
+Two objects size of dime, color
+bluish. Objects fuzzy disappeared
+over horizon.
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+EXProbably Aireraft
+Possibly Aireraft
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+unknown
+11. COMMENTS
+Twe separate sightings by
+youth on paper route. Probable
+a/c sighting.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:45:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18875958, "source_ctime_ns": 1793358948420812181, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-079-0004.tif", "source_mtime_ns": 1785681273000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-079-0004.tif", "source_sha256": "0dd06bdd86a8918ec8065e7c0a9e04f85828670c5ac760aa642e9601187d7156"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 781, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+CO AHEAD MATE
+OCT S
+11/0610 €
+opS
+80511YMA762 YYB265N6A01.
+AGEDYF RJIRAG RJOOKE
+E RJEDNG 1I
+1123352
+CONDR 789TH AC&W SQDN OMAHA NEBR
+TO BJIDWN/CONDR. ADC ENT AFS COLO
+JEDWP/COMDR ATIC WP AFB OHIO
+NEPAG/CONDR DIR OF INTELL HO USAF WASH DC
+RUEDKE/CONDR, CADE GRANDVIEW ARB NO
+JEENG/CONDR 31ST ADIV ST PAUL MINN
+267 .
+10 -
+8 1 8 3 5/OPMS 704 UFOB REPORT AS FOLLOWS
+PTING THE ABOVE LINE
+CLASSIFIED/ OPS
+UN C L A SAS IF ED / ORNS 704 UFOB REPORT AS FOLLOWS
+NEG
+ARINHEAD
+RED-WHITE-GREEN
+ONE
+NVA
+NONE
+NONE
+NONE
+NONE
+PAGE TWO RJEDNG LI
+COLORS YO
+15-25 DEGREES
+13-25 DEGREES
+E-W-NE
+FADE OUT
+11 99-4 MIN
+GROUND VISUAL
+2-225 DEGREES
+11/00512
+NIGHT
+EN 4939
+STORMLAKE IOWA COLLEGE STUDENT
+CLEAR
+5-200-15.
+110-240-20 15-243-20 20-250-30 30-263-15 45-282-20

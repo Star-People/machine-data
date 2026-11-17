@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:30:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8371070, "source_ctime_ns": 1793385999003617371, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994572/0968.jpg", "source_mtime_ns": 1785748520000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994572/0968.jpg", "source_sha256": "6299db7e036e0b76c70af92608e5835f14215e919a108f49d944bf4f4c261f28"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 868, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+REPLY TO
+ATTN OF:
+SUBJECT:
+TD-X2
+Extract from Duty Officers' Report
+14 Sep 61
+TO :
+TD-E (Major Friend)
+The following, extracted from Capt Fisher's Report dated 13 Sep 61,
+is quoted for your information:
+About 2120 hours, received UFO telephone call from Mrs
+Belmont
+informing she had seen high flying
+(above the stars)
+and wanted to know if I thought it was
+enemy .
+I was courteous and told her I would like to call her
+back because I was quite busy at the time (High Heels). I did
+so later but did not have time to get information from her.
+told her someone would call her tomorrow.
+I will notify Sgt
+Bolieu to call her.
+I just didn't have the time to take down
+information at the time.
+JOHN C. MCNETEE
+Major, USAF
+Administrative Officer

@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:40:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9713517, "source_ctime_ns": 1793364816895405706, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0034.jpg", "source_mtime_ns": 1785685202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0034.jpg", "source_sha256": "b976591a29b058fb7c1090c47cfa31f77d9a1f6acf3d4edea9657797f169562d"}
+
+===== PAGE 1 =====
+{"alpha_words": 184, "chars": 1353, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Maj Murtha/es/AFCSI-6D
+Code 151/x 8896/18 Aug 54
+UNCLASSIFIED
+AFCSI-6D 24-185-20-15
+28 A0G 1954
+SUBJECT:
+(Unclassified)
+SPECIAL INQUIRY
+Unidentified Flying Objects
+CLASSIFICATION CANCELLED
+TO:
+Distriet CommanderBY AUTHORITY OF THE DIRECTOR OF SPEC INV
+20th OST District
+MeChord Air Force
+{IG)
+Washington
+KURT K: KUNZE, Capt, USAF
+Historian
+DATE
+5 DEC 1975
+Reference is made to letter from your District, dated 8 June
+1954, subject as above.
+2. This office interposes no objection to the dissemination of
+information concerning 'Unidentified Flying Objects" to the local Piela
+Office of the Federal Bureau of Investigation, provided that such dis-
+semination meets with the approval of the Commander, 25th Air Division
+(Defense), Disposition of actual or suspected items of material relating
+to "Unidentified Flying Objects" will continue to be made in accordance
+Dissemination of information of this type is not made by this
+office to the FBI at national level, nor has Headquarters FBI expressed
+an interest in receiving this type of information.
+FOR THE DIRECTOR:
+AFCSI FILE CY
+GILBERT R. LEVY
+Chier, Counter IntelLigence Divisior
+Directorate or Special Investigations
+The Inspector General
+OUT
+181959
+GEMEN
+80 80
+AFCSI-6
+Maj Murtha
+AFCSI-9
+COl. TURNER
+uma
+UNCLASSIFIED
+24-185-20-18
+SPECS
+Genes
+for
+EBO AUG 1954
+Declassification Authority: NND 923007

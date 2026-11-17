@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:21:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5940339, "source_ctime_ns": 1793375927760830069, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958334/1321.jpg", "source_mtime_ns": 1785696421000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958334/1321.jpg", "source_sha256": "cb90883845df066b8e7110966487b97f28ac3ecb6e4c38bd0fdd5c9c20813374"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 27, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+fae io oes
+Tigh ees et AO

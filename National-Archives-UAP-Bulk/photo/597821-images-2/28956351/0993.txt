@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:11:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3802176, "source_ctime_ns": 1793375457361223246, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956351/0993.jpg", "source_mtime_ns": 1785696442000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956351/0993.jpg", "source_sha256": "bdcbb93b5437bf9e1d60bbdb12bb0b206672fb2f7836accd54f1d033f88c7614"}
+
+===== PAGE 1 =====
+{"alpha_words": 612, "chars": 4141, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AERONAUTICAL CHART SUPPLY
+To insure that the airman has the latest information available, U.S. World Aeronautical Charts are revised at six-month
+periods and the Alaskan World Aeronautical Charts are revised at twelve-month periods.
+Chart users are advised to check the list Dates of Latest Prints on display with authorized agents.
+CIVIL CHART SUPPLY
+Authorized agents for the sale of aeronautical charts have been appointed at certain airports and principal cities through-
+out the United States. The charts may also be obtained from the Director, U.S. Coast and Geodetic Survey, Washington
+25, D. C.
+MILITARY CHART SUPPLY
+(Ref: AF Reg. 67-3)
+1.
+Aeronautical Charts, Maps and Publications distributed by the Aeronautical Chart and Information Center are
+indexed or listed in the current edition of the "USAF Catalog of Aeronautical Charts and Aeronautical Information Publica-
+tions". A Bulletin is also published twice monthly which contains important information such as new editions of charts
+available, replacement charts, hazardous charts, chart correction notices and other pertinent information pertaining to charts
+and supply.
+2.
+Requisitioning.
+Outside Continental United States: USAF activities are to submit requisitions to the appropriate Aeron
+tical Chart and Information Office located within the applicable theater, in accordance with existing theater directives.
+b.
+Within Continental United States: USAF activities are to submit requisitions to Commanding Office
+Aeronautical Chart and Information Center, 2nd and Arsenal Sts., St. Louis 13, Missouri, Attention: Distribution Division
+Requisitions will be submitted on available requisition forms or by letter in quadruplicate. When demand is urgent, wi
+service may be used. Requisitions submitted from a Base or Station will bear the signature, or approval by indorsement
+the Operations officer. Requisitions from Air Force, Wing, or Command Headquarters will bear the signature of the approp
+ate staff officer. Quantities of charts and maps requested are to be such as to assure the maintenance of a thirty (30) da
+supply at all times, but not to exceed a sixty (60) day supply.
+3.
+USAF Requirements for Special Purpose Maps and Charts: Maps and charta for special purposes, specific missio
+and also those maps and charts published by other government agencies which may not be listed in the principal types of aer
+nautical charts in the current edition of theẠUSAF Catalog of Aeronautical Charts and Aeronautical Information Publication
+should be requisitioned from USAF Aeroaautical Chart and Information Center, when the request orginates in the Unit
+States. For those USAF requests originating outside the continental United States, the applicable theater USAF Aeronauti
+Chart and Information Office should be contacted. Charts will be furnished, if available, when sufficiently identified in requ
+sitions as to name or number, scale, projection and publisher. If this information is unknown to requestor, a description of th
+information required on chart or map should be furnished.
+Obsolate Charte: Aaronautical charts rendered obsolete by printing of a new edition shall be salvaged if no
+practicable to correct for conformity with new edition. Disposition is to be made in accordance with provisions of AFR 67-
+Disposition of classified charts is to be made in accordance with provisions of AFR 205-1.
+CORRECTION INSTRUCTIONS
+1. The Coast and Geodetic Survey is making every effort to furnish the user with accurate charts. The user wi
+materially assist in this effort by marking corrections of aeronautical information, drainage, relief and cultural feature
+(roada, canala, power lines, etc.) on the face of the chart, on an overlay of the area, or under "Remarks" below. In re-
+porting elevation corrections, state method used by obeerver in making the determination.
+Mark correction on face of chart or under "Remarks" below.
+b. Fold chart along regular fold lines, but with back out.
+c. Make an extra fold along dotted line and staple at points so marked.
+Fill in the return address and drop the chart in any U.S. mail box. Postage is not required.
+Remarks:

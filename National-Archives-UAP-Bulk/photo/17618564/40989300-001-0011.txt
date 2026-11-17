@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:57:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 899135, "source_ctime_ns": 1793356038437228998, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0011.jpg", "source_mtime_ns": 1785564590000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0011.jpg", "source_sha256": "080c987b34cf64f974049ffa256ff7f3ff0acd12eb6b837f667ab528da429d57"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1227, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Flight 10:
+Released from Alamogordo, New Mexico, 0501 MST, July 5, 1947
+Not recovered
+This flight was the first to use a large plastic balloon as the lifting
+vohicle. The cell was spherical, 15 feet in diameter, and the walls were
+•00g" polyethylene heat sealed at the seams (made by Harold A. Smith, Ino.).
+The altitude control was an automatic ballast valve, pressure-triggered to
+throw off liquid ballast. The equipment train used on this flight is show
+in Figure 5.
+Open Appendix
+15" dia.-.008thick polyethy lane
+Balloon. H. A.Smith Inc.
+Reinforced blow-out patch to be
+opened by Time-clock.
+Bridle of 9 nylon lines, each 150*
+test, 13' long, served to a thimble
+and attached to reinforced patches
+at alternate seams.
+Payload
+74.5 mc. Radiosonde with 20 and
+fed antenna. Heavy duty batter
+in black boxes, pelvethylene
+wrapped.
+Plastic ballast Reservoir with
+3000 gr ballast.
+Pressuro oporated ballast valve
+(Automatic) actuated by 301h contact
+of radiosonde baraswitch.
+Figure 5: Train, Flight 10
+The balloon rose to about 16,000 feet MSL and dropped back to 9000 feet
+MSL where it "floated" for at least 4 hours, at which time radiosonde re-
+ception failed. It is believed that the automatic ballast valve sealed off
+-10-

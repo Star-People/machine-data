@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:05:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1741743, "source_ctime_ns": 1793389663763540189, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542598/0502.jp2", "source_mtime_ns": 1785808426000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542598/0502.jp2", "source_sha256": "0bb84ab266610fd2561d2f020dab2f02fd2fafc988dc5b8fb701fbac6c2e57fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 448, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OCTOBER
+DEPARTMENT OF THE AIR FORCE
+2578TH AIR BASE SQUADRON (CONAC)
+ELLINGTON AIR FORCE BASE, TEXAS 77030
+REEN OF? BOT
+SUBJECT:
+25 October 1965
+Transmittal of UFO Information
+TO:
+Foreign Technology Division
+Wright-Patterson AFB, Ohio
+ATTN: Major Hector Quintanilla
+Attached are reports of UFOs received from residents of the Houston,
+Texas, area 13 through 23 October 1965.
+FOR THE COMMANDER
+USAF Atchs a/s
+Assistant Chief
+Operations and Training

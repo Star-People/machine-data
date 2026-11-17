@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:18:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5573249, "source_ctime_ns": 1793378681534024355, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968844/0306.jpg", "source_mtime_ns": 1785696896000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968844/0306.jpg", "source_sha256": "008d3f225ee6f5bd63cf46343d5a08c984f387e88f8bf2f99b30e1ce510bef73"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 986, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+16 January
+1957
+3. DATE-TIME GROUP
+Local
+GM T.
+17/06302
+3. PHOTOS
+Glenwood
+Springs, Colorado
+4. TYPE OF OBSERVATION
+D: Ground- Visual
+D Air- Visuai
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+O-NO
+7. LENGTH OF OBSERVATION
+Civilian (GOC)
+8. NUMBER OF OBJECTS
+8 mins & still in sight
+one
+10. BRIEF SUMMARY OF SIGHTING
+One circular clear bright light, the
+size of a small orange. Object was
+seen in the ESE at 45 dgr elevation
+and climbing. Object was still in
+sight after having been seen visually
+and through a three power K-3 telescope
+for eight minutes.
+12.
+CONCLUSIONS
+ax Was Bolloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomica
+Possibly Astronomica
+Othar
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+climbing
+11. COMMENTS
+Object was definitely established
+to have been
+a balloon released
+from Grand Junction at 03002
+TIC FORM 329 (REV 26 3ZP 32)

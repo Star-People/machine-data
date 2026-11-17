@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:03:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1713341, "source_ctime_ns": 1793393736809980310, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580220/1132.jp2", "source_mtime_ns": 1785808582000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580220/1132.jp2", "source_sha256": "c30e20abe267a8036f07a87640827adc997ee7b98e3766a7e72d91097da9a207"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 399, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE - TAVE CROUP
+1968 00/1600
+SOURCE
+Civilian
+MIMAER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+90 Minutes
+TYPE OF OSSERYATION
+Ground-Visual
+COURSE
+Stationary in WW
+8. PHOTOS
+• 7- No
+9. PHYSICAL EVIDENCE
+П Yes
+13 Mo
+FORM
+FTD SEP 63 0-329 (TDE)
+PROLECT 171 RECOND
+2. LECATION
+Riverdale, New York
+18. CONCLUSICM
+INSUFFICIENT DATA
+No date given for observation.
+11. BRIEF SUMMARY AND AMALYSIS
+See Case

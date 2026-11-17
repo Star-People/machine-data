@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:27:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7356429, "source_ctime_ns": 1793362971474543280, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0221.jpg", "source_mtime_ns": 1785685052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0221.jpg", "source_sha256": "3dbfe5f598e478ef4e3cc6bcbe2d2a106f162b870acde89e02d890dd1bae3e4b"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 187, "method": "ocr", "page": 1, "variant": "clean-vision"}
+16. Since all logieal leade have been developed, based upon Initial
+request for investigatfen, the case la considered CinED by thia office.
+GLOBED™
+Declassification Authority: NND 923007

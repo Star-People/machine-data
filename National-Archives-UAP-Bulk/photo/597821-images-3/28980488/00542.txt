@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:13:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4330803, "source_ctime_ns": 1793381503605172516, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980488/00542.jpg", "source_mtime_ns": 1785701082000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980488/00542.jpg", "source_sha256": "e3585dece6e090edcd707ca7841e4022b04eed67a453e1390b954f383dfa54d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 922, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+I. DATE
+12 00t0
+3. DATE-TIME GROUP
+Local _
+GMT 12/1905-
+5. PHOTOS
+4. TYPE OF OBSERVATION
+• Ground- Visual
+• Air Visual
+6. SOURCE
+• Yes
+• No
+7. LENGTH OF.OBSERVATION
+8. NUMBER OF OBJECTS
+28 mins
+10. BRIEF SUMMARY OF SIGHTING
+one
+Luminous obj shape of football about
+the size of the moon only a little
+larger. Not able to say whether it
+was made of metal. Moved in all
+directions, syrated, rapid changes
+in speed & direction, a5dgr elev fm
+orizon. White predominant color,
+changing to green, red & blue. Affected
+television set. Changed directions.
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+•
+•
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+robably Astronomic
+ossibly Astronomic
+•
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+varied
+11. COMMENTS
+Insufficient data.
+ATIC FORM 329 (REV 26 SEP 52)

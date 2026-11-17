@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:45:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16334494, "source_ctime_ns": 1793355620894320455, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0059.jpg", "source_mtime_ns": 1785564490000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0059.jpg", "source_sha256": "3719862b5d49007f05909ddbae0e60868a911f864705c31b936d9b587ace64c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 622, "method": "ocr", "page": 1, "variant": "plain-vision"}
+104
+Figure 2. Balloon Unit is Dropped or Ejected from the Launching Aircraft
+Which May Include the Latest Types of High Performance Fighter Airplanes
+Figure 3. Drag Parachute is Deployed to Slow the Unit and Reduce the Main
+Canopy Opening Shock. The drag parachute is then released and deploys the
+main canopy
+Figure 4. Main Parachute Opens and Quickly Establishes Stable Descent.
+Payload and balloon are supported on top of main canopy
+Figure 5.
+Balloon Protective Cover is Released and Balloon Inflation
+Begins Atop Main Parachute
+Figure 6. Balloon Inflation is Completed and Balloon and Payload Separate
+From Parachute

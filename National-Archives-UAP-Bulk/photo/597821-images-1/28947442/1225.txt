@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:11:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3774816, "source_ctime_ns": 1793373538378586983, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947442/1225.jpg", "source_mtime_ns": 1785688571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947442/1225.jpg", "source_sha256": "4082982c47e2d0bec3ba969d884b68c87fcced1b569d883f698b159e7ba9849e"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 916, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TENTATIVE
+OBSPRYERS QUESTIONNAIRE
+SECTION A
+1. When did you see the object:
+1.2 Dator Dẩy A00057
+1,2 Tine of days Tre.
+1952
+Year
+A.M. or CoM
+(Circle One)
+1.3 Time Zone: (Circle One):
+Eastern
+be
+Central
+Mountain
+(Girole One) $ Q
+Pacifio DAYLIGHT SAVING
+Other
+Daylight Saving
+Standard
+1.4 Girole one of the following to indicate how certain you are
+of your answer to the above question 1.2:
+Certain
+Not very sure
+.. Fairly certain
+de
+Just a guess
+2. Where did you see the object?
+HALL OF JUSTICE BLOG.
+27% & BARRETT AVE
+Postal Address
+ALIFORNI
+3. Where were you located when you saw the object:
+(Cirole One): a.
+Inside a building
+bo
+In a car
+Outdoors
+ON ROOF OF BUILDING
+d. In an airplane
+•.
+At sea
+f. Other
+3.1 Were you:
+In the business section of a city?
+In the residential section of a city?
+In open countryside?
+de
+Flying near an airfield?
+• .
+Flying over a oity?
+Flying
+over open country?
+B•
+Other
+U.S.A.
+Country

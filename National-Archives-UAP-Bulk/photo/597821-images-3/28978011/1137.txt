@@ -1,0 +1,109 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:09:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3516930, "source_ctime_ns": 1793380725218874453, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978011/1137.jpg", "source_mtime_ns": 1785700898000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978011/1137.jpg", "source_sha256": "6459a6271c8ac7eeb8a3c50d41a68849fc6f57f29ee2135425d2502e8cd29fa4"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 996, "method": "ocr", "page": 1, "variant": "plain-vision"}
+26 Apr11 1958
+MNIORANDUN:
+From: Vesther Service
+To :
+Whom It May Concern
+Subj: Weather Observabion and Winds Aloft.
+I .
+The folloving weather conditions existed during the poried
+0400% to 0500% 25 April 1958. This is an of iciel extract from
+the Veather records as observed by the Weather Service Office,
+U.S. Naval Station, Midway Ialands.
+Cloud Coverage: C
+5/10
+Type Clouds:
+Conulus.
+Temperature:
+65 degrees 7.
+Vind Direction:
+Past Soubheast.
+Find Velociby:
+10 knots.
+Visibility:
+12
+miles.
+Present eather:
+Seabbered
+Winds Aloft
+1000 Ft.
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+11
+11
+10,00ą
+12,00îŚŘ
+14,000
+16,000
+Direction
+050ME
+11.0 ESE
+080 E
+100 F
+030NNE
+060 ENE
+33.0 N
+Velocity
+12-
+09
+03
+31.0 NW
+350 M
+030
+0,20
+02
+03--
+05
+02
+02
+18,000 Pt.
+20,000
+25,000
+30,000
+35,000
+40,000
+42,000
+50,000
+55,00ОŚŘ
+60,00ąźą
+65,00șš
+70,000
+Direction
+300
+300
+310
+310
+290
+310
+310
+290
+280
+310
+080
+090
+Velocity
+06
+1.1
+17
+30
+30
+22
+30
+20
+08
+06
+10
+1. Q. Haney
+S. Re Harvey,
+USNR
+Weather Service Officer
+(Enclosuro 5)

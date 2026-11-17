@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:28:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7673937, "source_ctime_ns": 1793380942771686990, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978897/0575.jpg", "source_mtime_ns": 1785700890000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978897/0575.jpg", "source_sha256": "062e7d0362e6786bd3fba84fe884ae4f60a14648b0797b95069ee8b4a39fbf9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 356, "method": "ocr", "page": 1, "variant": "plain-vision"}
+....
+M SAC879 YD03722CZCVYB865 VDDX54HA257
+PP RORDIN RJEDSO FURPHO
+ЦЕY
+4Xzа
+P 14 2620
+PM COMER SESTH ACULON AMARILLO AFB TEX
+TO FORDIN' COMDE
+JEDSD/COMER AIR TECH INTELL CTR WRIGHT PATTERSON AFE OHIO
+RJEPHO/ASST CHIEF POF STAFF INTELL.
+HDS USAF WASH 25 DC
+RJEPHO/OFFICE OF INFORMATION SVC HDOS USAF WASH 25 DO
+RINFEV/COMER 331 ADIV ORLA CITY AFE OLLA
+cite

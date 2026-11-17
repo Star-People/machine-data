@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T16:16:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5093729, "source_ctime_ns": 1793377940857540721, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966082/0773.jpg", "source_mtime_ns": 1785696734000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966082/0773.jpg", "source_sha256": "c3bc044db027dbdf24e1ff28be05367fa5df10deba41dcd67a83703554d30bd9"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 436, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO JEGOO1
+4. 3/0110W (2) DUSK
+5. EJ DD 3050
+6. (A) NYA (E)
+• PILOT, VERQ GOOD , AGE 25
+7. (A) 200 SCATTERED (E) CALM, CATM, CALM, CALM, 270/15, 180/20
+NEGATIVE. (C) NONE (D) 15 (E) SCATTERED (F) NEGATIVE
+8. NEGATIVE
+9. 4 F-3D'S ATTEMPTED TO READH OBJECT WITH NEGATIVE RESULTS
+38-73 91 3/543.3 ->5857'3
+10. NEGATIVE
+11. 2HD IT. JA. RAYTOR, DIRECTOR, 751UT AC&N SQ., I BELIEVE IT TO
+HAME BEEN A BALLON
+12. MA
+PT
+02/23472 JUL RJWPJD
