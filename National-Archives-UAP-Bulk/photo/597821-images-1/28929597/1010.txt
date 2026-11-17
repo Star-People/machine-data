@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:30:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6275018, "source_ctime_ns": 1793368839417264891, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929597/1010.jpg", "source_mtime_ns": 1785688879000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929597/1010.jpg", "source_sha256": "3efa390ad79a102810fac2c6428ac184609b850919d6cacc315871af5a54ac8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 757, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COP
+VNCLASSIFIED
+THE DOW CHEMICAL COMPANY
+MIDLAND - MICHIGAN
+September 22, 1948
+Dr. J. d. Grebe,
+Civilian Technical Advisor
+Research & Engineering Div, O0Cmlc
+Building No. 1
+Army Chemical Center
+Edgewood, Maryland
+Dear John:
+In answer to your letter of September 17, I am sending to you the re-
+port by Edward Fales, of our Dow Plant Protection Department.
+summarizes the evidence, or otherwise, on Midland's claim to fame in the
+flying suacer business.
+Best regards -
+D
+Enol,
+F.S. Dr. Beamer found the material radio active sufficient to count. The
+radio activity was apparently due entirely to thoriun and it was
+believed that this could have arisen from the use of a little luminous
+paint.
+L AM
+DOWNGRADED AT 12 YEAR
+ALS: NOT
+AUTOM
+FIRD. DOD DIR 5200.10

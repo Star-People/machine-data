@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:03:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 685148, "source_ctime_ns": 1793356090234767008, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989302-001-0010.jpg", "source_mtime_ns": 1785564604000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989302-001-0010.jpg", "source_sha256": "9563df4a097aa4454c148513b850b303c4b9bf8751184df9e35f5d011998e2dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 628, "method": "ocr", "page": 1, "variant": "plain-vision"}
+26 September 1958
+FIRST ENDORSEMENT
+From:: ELEVENTH Company Officer
+The Judge Advocate General, United States Air Force
+Official Channels
+Subj: Court-Martial Records and Evidence; request for permission to examine
+1. Forwarded recommending approval.
+2. Midshipman LATHROP intends to use the subject records in connection with
+writing a term paper required during his final year at the Naval Academy.
+He would examine the records in Washington, D.C. during his Christmas Leave
+if they can be made available to him.
+T. R. COTTEN JR.
+LT, USN
+SECOND
+- - Endorsement
+1. Forwarded, reconmending Approra/.
+39 Das. Officer.
+995-50
+→ 1"

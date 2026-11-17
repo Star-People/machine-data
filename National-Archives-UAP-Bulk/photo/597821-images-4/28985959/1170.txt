@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:24:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4870449, "source_ctime_ns": 1793382952008096551, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985959/1170.jpg", "source_mtime_ns": 1785748342000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985959/1170.jpg", "source_sha256": "740b0fd426103713c3c8abdb4f3a583ceffee287e738499a5fbdfd59747a152b"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 936, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+22. Febru
+3. DATE•TIME GROUP
+Local.
+GM7/03502
+5. PHOTOS
+1960
+• Yas
+D NO
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Alexandria, Louisiana
+TYPE OF OBSERVATION
+Xo Ground-Visual
+D Air Visual
+6. SOURCE
+• Ground-Radar
+D Air-Intercept Radar
+Military
+8. NUMBER OF OBJECTS
+2 seconas
+One
+10. BRIEF SUMMARY OF SIGHTING
+Streak of light about half the size of a
+pinhead at arm's length with tail about
+half the size of the object.
+12. CONCLUSIONS
+Wos Balloon
+Probably Balioon
+Possibly Balloon
+Was Aircraft
+robabiy Aircra
+ossibly Airero!
+Was Astronomical
+Meteor
+Probably Astronomical
+Possibly Astronomicol
+Othar.
+Insufficient Data for Evaluation
+Unknown
+South to North
+Downward
+11. COMMENTS
+Limited information, Case submitted to
+correlate with other cass from this
+same area, however, this report is of
+a different object, object described
+in this report is typical of a meteor
+observation.
+ATIC PORM 329 (REY 26 BEP 52)

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:17:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3174005, "source_ctime_ns": 1793376337749972841, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960233/0181.jpg", "source_mtime_ns": 1785696594000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960233/0181.jpg", "source_sha256": "0b2773d545c45db0aebd4008cd0830e9782db306dd9b263e6a14453ca2faa2c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 439, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+11 November 1954
+11/18552
+3. SOURCE
+Civilian - Pilot
+4. NUMBER OF OBJECTS
+2. LOCATION
+West Virginia
+10. CONCLUSION
+WAS AIRCRAFT
+5. LENGTH OF OBSERVATION
+UNKNOWN
+6.
+TYPE OF OBSERVATION
+Air Visual
+7. COURSE
+11. BRIEF SUMMARY AND ANALYSIS
+Shape of a/c. Observed jet exhaust.
+8. PHOTOS
+• Yes
+KKNo
+9. PHYSICAL EVIDENCE
+• Yes
+1 No
+FORM
+FTD SEP 63 0-329 (TDE) Previous editions of this form may be used.

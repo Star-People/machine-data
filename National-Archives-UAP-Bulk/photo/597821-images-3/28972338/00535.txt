@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:38:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8094800, "source_ctime_ns": 1793379451769470795, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972338/00535.jpg", "source_mtime_ns": 1785700854000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972338/00535.jpg", "source_sha256": "66da879238e8aa771c9f40d0950e3b0b6148d989aae79a174b5f11d36aff8580"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 791, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+10
+October
+1957
+3. DATE-TIME GROUP
+Lo cal.
+GM T.
+20/04407
+5. PHOTOS
+• Yes
+20: No
+7. LENGTH OF.O3SERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Island
+New York
+4. TYPE OF OBSERVATION
+*D Ground- Visual
+• Air Vi suol
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+several seconds
+several
+D. BRIEF SUMMARY OF SIGHTING
+Several round objects, green with
+appearance of a
+flare. Low on hori-
+zon, seemed to be stationary & faded
+out
+of Sight.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bulloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+leteors
+Probably Astronomical
+Possibly Astronomical
+Other_
+Insufficient Dato for Evaluation
+Unknown
+9. COURSE
+not given
+11.
+COMMENTS
+Probable meteor sighting.
+ATIC FORM 329 (REV 25 SEP 52)

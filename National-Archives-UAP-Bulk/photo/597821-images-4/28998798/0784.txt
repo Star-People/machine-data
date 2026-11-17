@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:37:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7901465, "source_ctime_ns": 1793387520180543646, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998798/0784.jpg", "source_mtime_ns": 1785748258000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998798/0784.jpg", "source_sha256": "d59b0e80ed2fd37c371ae93dfb46e50c232fa337d51594e30f20de131f123ad5"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1106, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1 2. LOCATION
+1. DATE
+26 August 1962
+3. DATE-TIME GROUP
+Local
+GM T
+27/0634Z
+5. PHOTOS
+aspe!
+Nyoming
+TYPE OF OBSERVATION
+• Ground-Visual
+• Air- Visual
+3. SOURCE
+• Ground-Rodar
+D Air-Intercept Radar
+O Yes
+XENO
+7. LENGTH OF OBSERVATION
+Civilian
+NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Prabably Bailoon
+Possibly Balloon
+Wos Aircraft
+Probably Aircratt
+Possibly Aircraft
+PaK Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluctio
+Unknown
+1-2 seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+West
+11. COMMENTS
+Obj appearing as a light flashed on
+Meteor sighting. Speed, duration
+and off in sight 1-2 seconds, Passed
+& flight indicate this evaluation
+out of sight when view was blocked by Dimming or going out in middle of
+oil storage tank. No sound. Color of
+flight unusual although occuring
+match
+flame. Like ball of fire. High
+speed.//on rare occasions. Also
+Just a light going on & off.
+possibility that this was obscured
+by weather conditions at the time.
+Dull moon & a few stars were out.
+ATIC FORM 329 (REV 26 SEP 52)

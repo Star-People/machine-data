@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:17:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3503864, "source_ctime_ns": 1793371870171276206, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940154/01266.jpg", "source_mtime_ns": 1785688812000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940154/01266.jpg", "source_sha256": "a0ca2669239f56e7bd16f619368517794c86a17292df00a149fa94a44ed60023"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 437, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACLASSIFIED
+Itr He Fa2 FO 225, Soj: Unidentified Air Contact, to D/I He USAP.
+3. A sketch of the patrol plane commander's impression of the
+contact is attached as inclosure number one.
+FOR THE COLANDING GENERAL:
+1 Inel:
+Patrol Plane Commander's
+Sketch of Air Contact.
+ALFRED GOIDFARE
+WOIG
+Asst Adj Gen
+US/ F
+DOWNGRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+FEAF AG NO. 20159
+SECE
+- UNCLASSIFIED 18818
+33272-1

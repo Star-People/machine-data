@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:17:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2858693, "source_ctime_ns": 1793394301162772704, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-004-0019.jpg", "source_mtime_ns": 1785567351000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-004-0019.jpg", "source_sha256": "da615ad9a3afb05d6d21b1fe6b4d8e1c0c29dd1f08ab6ab9b8ea5f272d966419"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 241, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Ladies or Gentlemen,
+Jet: 26,1987
+his sighting in No 1,986 of a UFO. se
+The news article Pread said
+the spaceship" he saw was the size
+of two aircraft carriers
+Thank you.
+Appreciatinse
+Michal Blötika
+22 Cambridge Road
+Turnersire, N. 2.08012

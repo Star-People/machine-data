@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:02:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 326601, "source_ctime_ns": 1793389716071750998, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543237/0592.jp2", "source_mtime_ns": 1785808370000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543237/0592.jp2", "source_sha256": "ef469ffc488a9f6c9a40c4451f96a04865ddce47e4aec423f83032024f1f5f36"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 803, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+29 Aug 65
+3
+SOURCE
+30/01572
+civilian
+1. NUMBER OF OBJECTS
+5.
+one
+LENGTH OF OBSERVATION
+3-5 mins
+4. TYPE OF OBSERVATION
+gd visual
+7. COURSE
+NE
+2. LOCATION
+Tipp City, Ohio
+10. CONCLUSION SATELLITE (ECHO 1I)
+Obj similar in appearance to Echo. Echo II as over Dayton at
+856pm heading NE. Observed to Nest of City at 46 deg elev.
+11. BRIEF SUMMARY AND ANALYSIS
+Circular object in wavering Cight of 3-5 minutes. Yellowish
+white color. Hoved behind clouds. Slightly brighter than the
+white color.
+brightest star. Similar to ECHO. Observed tin N moving to the
+NE.
+Echo Il over the ar &.
+for Echo I ached le)
+(See 28 Aug Washington, Torship, Chie
+8. PHOTOS
+[) Yes
+9. PHYSICAL EVIDENCE
+il Yes
+11 No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous aditions of this form may be used.

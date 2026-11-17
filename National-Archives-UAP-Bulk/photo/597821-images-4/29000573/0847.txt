@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:25:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4980229, "source_ctime_ns": 1793388246305094466, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000573/0847.jpg", "source_mtime_ns": 1785748026000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000573/0847.jpg", "source_sha256": "fefeea69fa4dac1e88d0bfa1ef6ee780345135c12306d511bcdd607e4f8abb28"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1057, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+AF IN : 16854 (3 Apr 63) D/fO M IN G
+SAB D 158 U INFO : NIN-9, XOP-1, XOPX-4, SAFOS-3, ARMY-2, NAVY-2,
+ZGZCHQA897ZCQJA815
+OSD-15, CIA-11, NSA-7, DIA-20,
+O0 RUEAHQ
+DE RUHLKH 4
+0 030925Z
+FM 326 AIR DIV JUNIA FACILITY HAWAII
+TO RUHLKM/PVCAF HICKAM AFB HAWAII
+RUMPQ/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RUEAHQ/COFS USAF WASHINGTON DC
+RUWGALB/CINCNORAD ENT AFB COPO
+RUHPHOKCINCPUR CAMP H M SMITH HAWAII
+RUHAFS/KINCUSARPAC FT SHAFTER HAWAII
+RUHPB/CINCPACFLI PEARP HARBOR HAWAII
+RUAUAZ/COMUSJAPAF FUCHU AS JAPAN
+RUAMOR/COMUSKOREA SEOUL KOREA
+RUAGFL/COMUSTDC JCB38 TAIWAN
+47#OS/COMASWFORPAC FORD ISLAFD HAWAII
+RACSBR/CINCSAC OFFUTT AFB NEB
+RUECW/CNO WASHINGTON DC
+RUECW/SECNAV WASHINGION DON
+RUHPHH/HAWSEAFRON KUNIA TUNNEL ANNEX
+AF GRNC
+UNCLAS/C I R V I S/ POSSIBLE SATELLITE SIGHTED. HEADING
+WAS EASTBOUND. OBJECT WAS SIGHTED BY A NAVY A/C AI
+A POSITION 32 DEG 32 MIN NORTH, 177 DEG 20 MIN WEST
+04/0857Z. SIZE OF A PIN. NO EVALUATION.
+BZ
+NOTE
+: ADVANCE COPIES DELIVERED TO DIA, NIN AND XOPX.

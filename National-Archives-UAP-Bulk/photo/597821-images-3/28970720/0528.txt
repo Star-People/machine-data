@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:19:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4020044, "source_ctime_ns": 1793379046874676129, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970720/0528.jpg", "source_mtime_ns": 1785700723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970720/0528.jpg", "source_sha256": "f1e65d6fe8612aba6d25092d686f50893ba3b87c2235623f672726506d7af873"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1012, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1957
+DATE-TIME GROUP
+Local.
+2105/
+GM T
+5. PHOTOS
+hours
+(MST)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Wild
+Rice,
+4. TYPE OF OBSERYATION
+North Dakota
+XE Ground- Visual
+O Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+LENGTH OF OBSERYATION
+8. NUMBER OF OBJECTS
+2 hrs
+F SUMMARY OF SIGHTING
+ike object,
+one
+blue to firey
+brown
+in color,
+Icoked to be longer
+than
+its width
+with a
+tail the size
+of the object
+12. CONCLUSIONS
+Was Balloon
+Probably Bailoon
+Possibly Bailoon
+Was Aircraft
+Probably Aireraf
+Possibly Aircraf
+Was Astronomical
+Star
+UK Probably Astronomical
+Possibly Astronomical
+COURSE
+Othe
+45 dgr
+Insufficient Data for Eva
+almost stationary
+Unk no w
+11.
+COMMENTS
+When small objects like a star ar
+observed through binoculars
+they
+appear to move or to be distorted.
+Duration and movement indicates
+astronomicsl sighting without
+positional info the object cannot
+be identified. Characteristics,
+nowever, of sighting are present
+and case is evaluated en this bas
+ATIC FORM 329 (REV 25 SEP 52)

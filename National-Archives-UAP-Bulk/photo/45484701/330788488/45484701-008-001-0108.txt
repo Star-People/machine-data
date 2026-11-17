@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:42:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9837894, "source_ctime_ns": 1793365239328673132, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0108.jpg", "source_mtime_ns": 1785684670000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0108.jpg", "source_sha256": "5644189189e971be5ab79195261124fd03785966e84cc053cac7f9fdc355bcd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 402, "chars": 2546, "method": "ocr", "page": 1, "variant": "plain-vision"}
+18. At 0800 hours on 16 Dec 1950 BUSTER GENE was contacted and reported
+he had broken a trail to the area where the land slide had been observed by
+S/A WOODRUM. He stated he had found no indication of explosions or fire in
+any of the area he opined; that the marks observed by WOODRUM were caused by
+a land slide. Due to dense ice fog and extremely cold weather further air
+search of the area was impossible.
+19. At 1130 hours on 17 Dec 1950 S/A WOODRUM and Pilot BENNETT proceeded
+by ski plane to the area previously observed by WOODRUM. A landing was made
+and close scrutiny of the marks proved that a landslide had occurred sometime
+prior to date first observed.
+20. On 18 Dec 1950 S/A WOODRUM and the writer proceeded west on Glenn
+Highway and inquiries were made at Mendeltna, Eureka and Sheep Mountain
+Lodges in regards to subject flashes with negative results.
+AT ELMENDORF AFB, ALASKA
+21.
+At 1400 hours, 19 Dec 1950, 467th Counter Intelligence Corps, USARAL,
+was contacted.
+Records of that office reflected that Pilot EKLUND and Co-
+pilot UPHAM of Northwest Airlines flight 802 had been interviewed at Chicago,
+Illinois on 13 Dec 1950. The following message is the text of the interview:
+#FROM:
+5TH ARMY CHICAGO ILL
+ACTION TO:
+CG USARAL
+DTG:
+150410Z
+DEC 1950
+ạFrom ALFGB-I 086 urmsg ARGSI 13 Dec 50 as rgstd pilot Eklund and
+co-pilot Upham Northwest Airlines were interviewed ref explosions ob-
+served during Northwest Air Lines flight 802 enroute Anchorage to Mpls
+11 Dec. Eklund and Upham rept fol: At time flashes and clouds were
+seen, weather was clear, so at night pilot and co-pilot could make out
+the flashes and later the smoke clouds. The cloud of smoke broke slightly
+and separated from its base. Due to weather cond pilot discounted these
+flashes as being lightening. They were on flight green 8, aprx 40 miles
+northeast of Gulcanna. They noticed these flashes which were approximately
+at right angles to plane in direction of Mount Sanford. Plan dpsn aprx
+144 30 minutes west and 62 degrees 30 minutes north. Mount Sanford
+is 144 degrees 10 minutes west and 62 degrees 15 min north. They did not
+hear explosion nor did they observed shock waves.
+They were not sure how
+far away they were from explosion. It could have been 100 miles or 200
+miles. They were flying on instruments due to weather cond, not because
+of smoke cloud mentioned in ref msg.
+There were intermittent clouds,
+normal flying cond on an off.
+At time incident happened they were in the
+clear as ref msg states."
+CLOSED
+Declassification Authority: NND 923007

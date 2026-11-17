@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:26:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5260686, "source_ctime_ns": 1793378913924538401, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969838/1189.jpg", "source_mtime_ns": 1785700751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969838/1189.jpg", "source_sha256": "8baad6ea45aafa4992d3ac0506baffb70314fc4e46e17c72fd638d4df43742ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 578, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJUPJB 2E
+WEST OF SANTA ROSA ISLAND CALIF. 6. MILITARY, 2/LT LELAND M MARTIN
+A03264654 AEW&C MCCLELLAN AFE CALIF. PILOT SECTION. 7. A. CLOUDS WERE
+4022FT BELOW HIM. 3. SURFACE CALM, 6020 CAR/05, 13329 215/13, 16200
+215/12, 20099 215/12, 30008 245/15, 53033 285/25, 80092 INK C.
+5000FT OVERCAST. D. 12 MILES. E. 5000 FT OVERCAST BUT CLEAR AT
+PILOTS ALTITUDE. F. NONE. 8. INVERSION OVER WATER. 9. NONE. 10.
+ONE AEV&C A/C ON STATION. 11. 1ST LT MARTIN, SENIOR. DIRECTOR,
+PROBABLY AN A/C BUT INSUFFICIENT INFORMATION TO MAKE FUTURE
+ANALYSIS. 12. NONE.
+06/1705 Z MAY RJWPJB

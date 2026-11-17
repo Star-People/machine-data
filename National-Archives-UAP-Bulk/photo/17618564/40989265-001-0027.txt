@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:48:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13654486, "source_ctime_ns": 1793355326253834097, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0027.jpg", "source_mtime_ns": 1785564435000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0027.jpg", "source_sha256": "4e0ed8723540e0595bb97f88ce604a5878ba2825de93e83263ff386719b73a70"}
+
+===== PAGE 1 =====
+{"alpha_words": 296, "chars": 2011, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(f) Powered Balloons
+Beginning in the late 1960's, several
+government agencies contracting through
+private industry undertook the development
+of manned and unmanned powered balloons
+to be used for scientific experimentation and
+military operations. The results were prom-
+ising.
+High Platform I was one of the earliest
+attempts and involved Goodyear Aerospace
+and Winzen Research. The concept was to
+power an unmanned balloon at high alti-
+tudes. A free balloon was thus maintained
+on station in the upper atmosphere, powered
+by a silicon-solar array driving an electric
+propeller.
+Early in 1969, High Platform II began
+development under the auspices of Raven
+Industries. This unique 136-pound aerostat
+proved itself capable of operating for an ex-
+tended period greater than six months at an
+altitude of 70,000 feet. This powered super-
+pressure balloon had a fineness ratio of 3:1
+and was completely sealed-it's envelope be-
+ing made of bilaminate Mylar. Solar cells
+provided the power source for driving the
+light, molded propeller at a designed speed
+of 20 knots. The control surfaces attached to
+the hull included a vertical stationary fin, a
+rudder, two horizontal stabilizers and two
+elevators. The gondola of High Platform II
+provided the support for the mechanical
+components of the propulsion system. An
+Preparing inflatable spheres for space flight. (NASA Photo)
+Balloon used to carry animal and micro-biological experi-
+ments prior to takeoff at Goose Bay, Labrador.
+(NASA Photo)
+The balloon payload consists of four capsules.
+(NASA Photo)
+Four recovered strapped capsules are shown in heavily
+wooded area of Canada after being cut down.
+(NASA Photo)
+Retrieval of a payload returned to earth.
+(NCAR/NSF Photo)
+Close-up of monkeys in their capsule couches immediately
+after recovery. The boxes in front of monkeys are food con-
+(NASA Photo)
+This experimental powered balloon was flown successfully at 70,000 feet altitude. It was solar powered. (Note photo cell array
+on nose.)
+(Raven Industries)
+50

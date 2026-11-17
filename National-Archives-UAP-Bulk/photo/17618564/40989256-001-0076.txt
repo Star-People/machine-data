@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:30:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6038520, "source_ctime_ns": 1793354999433734944, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0076.jpg", "source_mtime_ns": 1785564375000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0076.jpg", "source_sha256": "a2919d18a4ceb28d981ed74e32e192f80236d80123b8697a666b54ac1a3bd89e"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1126, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Memo for Record
+SUBJECT: Post Mission Critique for Flight H78-13/H-129
+DATE: 20 Apr 78
+using a 0.516 x 10
+The nominal sampling period was 240 minutes. A Post Mission Critique
+was held on 20 April 78 to evaluate this flight. Those in attendance
+are listed in the attached.
+2. All mission objectives were met in that two good DFS filters were
+collected, and a good C-14 sample was taken. The sampling period was
+241 minutes.
+3. Specific Problem Areas:
+The NARCO transponder signal was lost from 0700-1130 MST time; then,
+an intermittent signal was picked up by the tracking stations and the
+aircraft.
+A post mission check showed the transponder to be 3 MHz
+low in frequency. The transponder will be recalibrated before the
+next use.
+4. Items of General Interest:
+a)
+At antenna drop the Control Center reported the 40 MHz signal was
+highly modulated by the 1746 KHz signal; however, this condition
+cleared at about 10 Kft., and both signals were clean and strong
+for the remainder of the flight.
+b) A good aerial retrieval was made at 11.9 Kft. The system was
+stable in-trail.
+Jaku R Found
+John R. Ground
+Ash Can Project Officer

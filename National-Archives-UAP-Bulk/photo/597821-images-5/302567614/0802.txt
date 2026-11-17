@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:10:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1359066, "source_ctime_ns": 1793392385535577991, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302567614/0802.jp2", "source_mtime_ns": 1785808266000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302567614/0802.jp2", "source_sha256": "a37ad20cb281e666467a93e14f881ba6dd6cbe4fbcade3238888f4db3c2a1660"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 549, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PHOTO ANALYSIS REPORT NO. _68-20
+.. DATED
+16 May 1968
+• Page 2 of 2
+7. Although the object on the negative cannot be identified, it appears to be circular in
+planform and situated between the camera and antenna. Its diameter is estimated to be 1 to
+1.5 feet and at a range of approximately 15 feet.
+PHOTO ANALYSIS BY:
+APPROVED BY:
+Paul A Mille
+PAUL D. GILLES
+Intelligence Research Specialist
+BURTON
+E. HULTZ
+Chief, Photo
+Analysis Branch
+Ironmars,
+THOMAS E. DAVIS
+Intelligence Research Specialist
+WILBER PRICE,
+JR.
+Chief, Photo Exploitation Division

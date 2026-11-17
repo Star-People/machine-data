@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:44:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10386344, "source_ctime_ns": 1793363846614104925, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0039.jpg", "source_mtime_ns": 1785685027000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0039.jpg", "source_sha256": "f6a15a3d7ccc536435a2276084a4e6c858791029ebb9f5b5c7e005b493646598"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 319, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Qh)
+Subject: Unidentified Flying Objects
+
+mn. Fxistence of physical evidence, such as materials
+and photographs, Negative.
+
+FREDDIE L. CAPPS
+2 Inclss Major, USAF
+1. Statement of Airmen Detachment. Commander
+INGBER, 23 May $5
+2. Statement of Airman
+SHAPIRO, 23 May 55
+
+AL MA OST:
+
+Declassification Authority: NND 923007

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:32:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6592234, "source_ctime_ns": 1793383830538612550, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988020/0157.jpg", "source_mtime_ns": 1785748242000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988020/0157.jpg", "source_sha256": "9623b37703e19495f10ecd0235a51a622137a8f52cf1ffe1dc383341e0e8c99b"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 573, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+29 July, 1950
+3. DATE-TIME GROUP
+Local
+GM T.
+29/2.002
+5. PHOTOS
+LENGTH OF OBSERVATION
+BRIEF SUMMARY OF SIGHTING
+ATIC FORM 329
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Springfield, Ohio
+4. TYPE OF OBSERVATION
+Ö Ground. Visual
+• Air Visual
+6. SOURCE
+ilian
+• Ground-Radar
+• Air-Intercept Rador
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+•
+• Orher
+Insufficient Date for Eveluation
+Unknown
+11. COMMENTS
+oce
+CAMMA

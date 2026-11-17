@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:20:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4175894, "source_ctime_ns": 1793386449214801764, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996177/1325.jpg", "source_mtime_ns": 1785748091000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996177/1325.jpg", "source_sha256": "8b97725b442c2cf3539f6a2e569e61f77ed5dc403e6d40c0ccaa38d9dac774ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 86, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+tur
+P0 ou
+..... !
+code
+.1225/9 10001
+- KY B.
+025
+o310m
+3111 11
+9227/ 15ł
+500
+S W PKC.

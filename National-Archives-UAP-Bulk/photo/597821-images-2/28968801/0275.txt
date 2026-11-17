@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:27:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5558953, "source_ctime_ns": 1793378671820309411, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968801/0275.jpg", "source_mtime_ns": 1785696409000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968801/0275.jpg", "source_sha256": "c21b4c7fa3a7a0c76c94a323c07186262555c403ad586419a5cf302873fefb81"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 731, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1: 1-31 DEG 13 KT
+16, 0V'-290 DEG 18 KT
+2 ;
+RAC1-27 DEG 2 KT
+3, 0*-270 DEG 35 KT
+5 : '-29 DEG 42 KT
+8.001 -
+DEG KT
+C CLEAR D UNLINITED E NONE F NONE
+& AN XTREME INVERSION FROM SURFACE TO 5O FT WARLS UP SOME 14DEG C
+IN THIS LAYER
+S NONE
+10 NORTH CENTRAL AIRLINES FLICHT DEPARTED 2252 FOR HIBEING NINN
+11 INFORMATION OFTAINED FROM BUTLER, P.R. A/2C DIE. OPERATIONS
+LUTTRILV ME. CAPT OPERATIONS OFFICER LRY F/S
+AT ISP CAPT HOOPLAN, H NO NOTHING PICKED UP ON RADAR.
+5/08352 JAN RJWFAR
+RJEDE
+RUEDNG RUEDUP RJEPHO
+117 - Adv
+RUMFAL 1D
+Multi
+5 83 2
+LOURY FLIGHT SERVICE CENTER LOWRY AFF COLO
+C RJEDEL/COLDR ADC ENT AFD COLO
+JEDIC/COMER SIST AIR DIV (DE) MI
+DR AIR TECHNICAL INTEL CI
+PRE
+050157-1
+FAPOLIS
+WINLESOTA
+URGHT PATTERSON AFE CHIO

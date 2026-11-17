@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:17:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3660848, "source_ctime_ns": 1793374661054019599, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952604/0251.jpg", "source_mtime_ns": 1785696715000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952604/0251.jpg", "source_sha256": "1f0a7de02555ae1e457b4aa0d86d09352d91c64eb03cf970cfeecfcb9ff6675d"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 787, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IN REPLY, ADDRESS BOTH
+COMMUNICATION AND EN•
+VELOPE TO ATTENTION OF
+FOLLOWING OFFICE SYM-
+BOL.
+SAIP
+SAN ANTONIO AIR MATERIEL AREA
+KELLY AIR FORCE BASE, TEXAS
+UNCLASSIFIED
+15 January 1953
+SUBJECT: (Unclassified) FLYOBRPT
+THRU :
+Commanding General
+ATTN: Intelligence Division
+Air Materiel Command
+Wright Patterson AF Base, Chie
+TO:
+Director of Intelligence
+Headquarters, USAF
+Washington 25, D. C.
+In compliance with AF Letter 200-5, dated 29 April 1953,
+the attached AF Form 112 is fowarded.
+FOR THE COMMANDING GENERAL:
+2 Incls:
+1•
+AF Form 112
+20
+Statements- Cuff, Allen
+cc:
+Chief, ATIC
+ATTN:
+ATIAA-2c
+W-P AFB, Ohio
+FOR
+Major USAF
+Asst Air Provost Marshal
+DOWNGRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+UNCLASSIFIED
+SAAMA FORM 2
+(1 JUL S2)
+WHICH MAY BE USED.

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:23:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4509547, "source_ctime_ns": 1793378919837587902, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969891/1231.jpg", "source_mtime_ns": 1785700693000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969891/1231.jpg", "source_sha256": "edc9f023f4b69abd221d012e7e9698e2b4536313296ce614af291749d884eb6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 321, "method": "ocr", "page": 1, "variant": "clean-vision"}
+EXTRICT FROM FUPPELTS BOOK
+the mares
+on the mowning of Hay 23nd, when
+observers in Kansas, Chly saw four flyery clac-chaped obfects
+flying in formation at oxtremely bigh speed, At ons point duan
+their flight two of the objects broke formation and veered of
+but saam rejoined, It took the obfeets only four minutes to cre

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:29:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5825732, "source_ctime_ns": 1793369275484211736, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931234/0014.jpg", "source_mtime_ns": 1785689012000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931234/0014.jpg", "source_sha256": "80a8cedfc755f4995cd669927ea94c783e5ec14b159752d2c8efd787cc9ad0b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 611, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+Bsc ltr, AMC, 6 Aug 43, to TRAMA, sub: "PROJECT 'SIGN'"
+Ist Ind
+WRAI/JRB/73
+Hq, #RAMA, Robina AFB, Robins Fld, Ga, 14 September 1948
+TO:
+Commanding General,
+AMC, Tright-Patterson Air Force Base, Dayton,
+Chio
+ATTN:
+MCI
+The investigations directad in connection with Project Sign" hars
+been completed, and reports thereof are inclosed.
+FOR THE COMMANDING OFFICER:
+BROECE
+Captain, USAF
+Intalligence Officer
+1 Inel
+bth OS1 Dist Spec Inves Rọt, File No. 333.5 (24-1), 9 Sep 43 (in dup),
+#/ll-page rpt & 4 exhibits
+DOWNGRADED AT 3 YEAR INTERVALS:
+DECLASSIFIED AFTER 12 YBARS
+DOD DIR 5200.10
+UNCLASSIFIED

@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:03:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 750558, "source_ctime_ns": 1793389184745594747, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537749/1280.jp2", "source_mtime_ns": 1785808212000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537749/1280.jp2", "source_sha256": "ee6819b57e8b329ef56f807fbd692da2e86b2553f08ae226101072f61875d844"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 580, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCOMING
+MESSAGE
+18 fet
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+AF IN : 10547 (19 Feb 65) T/rff
+ACTION: NIN-7
+INFO: XOP-1, XOIX-7, SAF-0S-3 (19)
+SMB C207 4 14ZCNF A 169
+00 RUEAHQ
+DE RUEANF 69 19/1957Z
+ZNR
+0 P 191955Z
+FM USAF SO
+TO RUWGALE/ADC
+RUE AGL / AF SC
+RUEAHQ/CSAF
+RUEAHQ/OSAF WASH DC
+INFO RUEKDA/DIA
+RUL PAL/USC INC SO
+BT
+UNCLAS CIN 01484.
+AFSC FOR FTD, HQ USAF FOR AFNIN, OSAF FOR SAFOI,
+• USSOUTHCOM FOR J-2. THE FOLLOWING MSG FROM USS
+SERRANO 190422Z FEB 65 IS TRANSMITTED FOR NECESSARY
+ACTION.
+UNCLAS
+UNIDENTIFIED FLYING OBJECT REPORT
+Page 1 of 4

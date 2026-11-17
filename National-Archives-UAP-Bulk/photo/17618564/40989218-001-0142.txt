@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:30:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6186173, "source_ctime_ns": 1793354688600602601, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0142.jpg", "source_mtime_ns": 1785564324000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0142.jpg", "source_sha256": "48088854a579ca817bf2d2792b6b36cd85ecbd4863cc3361711b9366a310c428"}
+
+===== PAGE 1 =====
+{"alpha_words": 231, "chars": 1446, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pres: No, we understand it.
+DO: Sir, if I may request a five-minute recess at this time before proceed-
+ing, to confer with the assistant defense counsel?
+10: Do you have any further witnesses?
+DC: That is something...
+IO: Oh, I see.
+DC: ...we are trying to make that determination.
+10: Five-minute recess granted for that purpose.
+The court recessed at 1417 hours, 14 August 1957.
+The court reconvened at 1424 hours, 14 August 1957.
+Pres: Court will come to order.
+Asst TO:
+Iet the record reflect all parties present when the court recessed
+are once again present.
+DC: The accused has been advised of his rights; the defense rests.
+TO: The prosecution at this time would like to call some rebuttal witnesses.
+Asst TC: At this time the prosecution calls as a witness Mrs. Reavis, a
+civilian.
+Mrs. Ethel T. Reavis, Roswell,
+New Mexico, a rebuttal witness for the
+prosecution, was sworn and testified as follows:
+DIRECT EXAMINATION
+Questions by the prosecution (TC):
+Mrs. Reavis, if you would please, try to talk up - take your time.
+A •
+Okay •
+Questions continued by the prosecution (Asst TC):
+Would you state your
+me and occupation for
+the lady
+My name is Ethel
+• Reavis and I'm working at the Air
+am just a nurse's aide.
+MrS.
+eavis, do you
+I sure do.
+arleen Goodnough?
+How long have you known
+Miss Goodnough?
+Well, somewheres about ti
+Leute:
+court, if you will please,
+t Goodnough?
+I have been working with
+During these two years?
+Yes, sir.
+128

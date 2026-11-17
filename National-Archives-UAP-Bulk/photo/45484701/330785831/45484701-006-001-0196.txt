@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:42:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9854434, "source_ctime_ns": 1793363758392638100, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0196.jpg", "source_mtime_ns": 1785684868000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0196.jpg", "source_sha256": "4535ccfd63e0f2e9c62fd49be160b27796c5adb50a0358220c890f3b2d2f9cd9"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 156, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+О НОТАРЧЕАЮ
+BA VALHORIA
+KhUL N' NANSE CODE DEV.
+totall Ya
+eter 030
+15/16
+STAG
+OÛT
+30 MAR 1950
+НІЗАЮИИ
+CI DIV
+OST
+UC'
+Declassification Authority: NND 923007

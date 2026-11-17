@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:05:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 910289, "source_ctime_ns": 1793388820201150175, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533083/1299.jp2", "source_mtime_ns": 1785808675000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533083/1299.jp2", "source_sha256": "9fa2a7b1798621b604003341ab9410d23d24e946d2479a839a9e2e4d4e50c85e"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1 ELIZABETH, N.J.
+EST
+AT 10.56 PM MAY .18 NORTH OF CITY, 62 DEGREES ABOVE HORIZON MOVING SE
+AT 09.45 PM MAY •19 NORTH OF CITY, 59 DEGREES ABOVE HORIZON MOVING NE
+AT 11.47 PM MAY •19 NORTH OF CITY, 75
+DEGREES ABOVE
+HORIZON MOVING SE
+AT
+10•35
+PM
+MAY •20
+NORTH OF CITY, 63
+DEGREES ABOVE
+HORIZON
+MOVING SE
+AT
+09.24
+PM
+MAY
+• 21
+NORTH OF CITY, 58
+DEGREES
+ABOVE
+HORIZON
+MOVING NE
+AT
+11.26
+PM
+MAY
+•21
+NORTH OF CITY, 79
+DEGREES ABOVE
+HORIZON
+MOVING SE
+AT 10.15 PM MAY .22
+NORTH OF CITY, 64 DEGREES ABOVE HORIZON MOVING SE
+AT 00.18 AM MAY
+• 23
+SOUTH OF CITY, 67 DEGREES ABOVE HORIZON MOVING SE
+AT 11.05
+PM
+MAY
+•23 NORTH OF CITY, 84 DEGREES ABOVE HORIZON MOVING SE
+AT 09.54 PM MAY
+•24 NORTH OF CITY, 67 DEGREES ABOVE HORIZON MOVING SE
+AT 11.57 PM MAY
+•24 SOUTH OF CITY, 59 DEGREES ABOVE HORIZON MOVING SE

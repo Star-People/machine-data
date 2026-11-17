@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:19:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4032620, "source_ctime_ns": 1793370971063314487, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936062/0415.jpg", "source_mtime_ns": 1785688571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936062/0415.jpg", "source_sha256": "ad9d5d07cf7849e9d334c627a9e9f17133a6c2b6cea227659fa6f9e1e1edb908"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 874, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+24-57
+SUBJECT:
+INSPECTOR GENERAL USAF
+13TH DISTRICT OFFICE OF SPECIAL INVESTIGATION
+Offutt Air Force Base, Omaha, Nebraska
+MT/EES/dr
+10 November 1949
+SPECIAL INQUIRY - UNCONVENTIONAL AIRCRAFT
+Scottsbluff, Nebraska
+TO:
+Commanding General
+Air Materiel Command
+#right-Patterson Air Force Base
+Dayton, Chio
+ATTN: MCIAXO-3
+1. Attached for your information are two copies of Report of
+Investigation of Special Agent NILLIAM R. OOSTING, this district,
+dated 10 November 1949, on above subject.
+2.
+In regard to the inclosed report, your attention is invited
+to Par 11, AFR 205-6, dated 18 May 1949, which prohihits disclosure
+of this information to unauthorized persons.
+1 Inel:
+Rpt of S/A OOSTING
+dd 10 Nor 49 (in dup)
+Carl Sparks
+MATTHEW THOMPSCHEt USA,
+It Colonel, USAF
+District Commander
+UNCLASSIF
+503

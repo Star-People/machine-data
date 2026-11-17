@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T11:26:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5296252, "source_ctime_ns": 1793358525248401622, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-034-0003.tif", "source_mtime_ns": 1785681118000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-034-0003.tif", "source_sha256": "de4399c05a2f6784b86f83fa6c30e7a20e1e4a2adb73a54f30495661505b6d9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1223, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AR
+ENO 20
+11/2044₴/35
+ENC027 YDA041 XYA126JBA054
+RR JEDEN JEDWP
+ZFD JWPJB
+JBD 019
+RR JWPJB JEDEN JEDWP
+DE JWPJB. 1D
+R 111700Z
+FM COC 670TH ACRON SPEDRO CALIF
+TO JWPJB/COC 27TH AD DEF NORTON AFB CALIF
+JEDEN/COMDR ADC ENT AFB COLO
+JEDP/CONDR AIR TECH INI CEN WRIGHT PATTERSON AFB OHIO
+/ UN C L A S S IF I END / 670TAC C-008 PD IN ACCORD WITTH AFR 200-2
+PAR 7D CMA REPT OF UNID FLY OBJ THE FOLG IS SUBM CLN
+1. A. ROUND B. SIZE OF PEA AT ARMS LENGTH C. SILVER D. SIX E. V F.
+NONE G. NONE H. NONE I. SWIRLING
+3. LOOKING STRAIGHT UP B. NINE ZERO DEGREES AT TWO NINE ZERO
+C. THREE ZERO DEGREES AT
+TWO NINE ZERO D. HEADING NORTH WEST
+E, VANISHED F. FIVE SECONDS
+3.. A. GROUND VISUAL B. NONE C. NONE
+4. A. ONE ONE ZERO FOUR FIVE NINE ZULU B. NIGHT
+5. A. EASY JIG BAKER EASY FOUR ZERO ZERO SIX B. HOLLYWOOD
+AGE ONE SEVEN CMA
+HOLLYWOOD CM CALIFORNIA CA STUDENT B. NONE
+A •
+WINDY ? ONE ZERO ANGELS THREE IWO ZERO DEGREES AT THREE ZERO
+TWO ZERO ANGELS THREE IWO ZERO DEGREES AT THREE ZERO CMA THREE ZERO
+ANGELS THREE ZERO ZERO DEGREES AT THREE FIVE C. CLEAR D. ONE FIVE MILES
+NONE F. NONE
+A. NONE
+SA. NONE
+• A. CLIFFORD E. BRANDT CAPTAIN USAF CMA INPOSSIBLE TO DETERMINE
+A. NONE
+11/18892 APR JWPJB
