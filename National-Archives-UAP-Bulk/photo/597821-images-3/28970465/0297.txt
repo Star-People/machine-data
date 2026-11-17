@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:47:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4071355, "source_ctime_ns": 1793379000122460652, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970465/0297.jpg", "source_mtime_ns": 1785700615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970465/0297.jpg", "source_sha256": "3516bc048256ee0b98dda7aec87e19cba5ddcb40ad9251d783505b51b4d16c78"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 854, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+9 July 1957
+3. DATE-TIME GROUP
+Locai
+GMT 09/2400Zął
+5. PHOTOS
+Amarilo,
+Texas
+4. TYPE OF OBSERVATION
+XE Ground- Visual
+• Air- Visuai
+6. SOURCE
+D Ground-Radar
+• Air-Intercept Radar
+• Yes
+KO No
+7. LENGTH OF OBSERYATION
+Civilian
+3. NUMBER OF OBJECTS | 9. COURSE
+one
+12. CONCLUSIONS
+EX Was Balloon
+Probably Bailoon
+Possibly Balloon
+Was Aircraft
+Probably Airerait
+•
+Possibly Aireraft
+Was Astronomical
+Probabiy Astronomical
+Possibly Astronomical
+•
+Other.
+insufficient Data for Evaluation
+Unknown
+10. BRIEF SUMMARY OF SIGHTING
+One object, round, size of Prollow-
+color
+silver. Object seemed
+to be
+ing B-36, stopped for a while then
+vent straight up. WX balloon was
+released near same time as sighting.
+straight up
+11. COMMENTS
+Civ WX believes obj was
+balloon as does reporting
+officer.
+ATIC FORM 329 (REV 26 SEP 52)

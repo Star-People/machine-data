@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:47:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3988569, "source_ctime_ns": 1793379061936536056, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970786/0589.jpg", "source_mtime_ns": 1785700918000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970786/0589.jpg", "source_sha256": "5d40a4e6a926f1f5269877d5830738b19f04037d0db206d25c58d8a122f69850"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 609, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATÈ
+DATE-TIME GROUP
+Local.
+0023
+25/05₴îš
+GM T.
+5. PHOTOS
+a Yes
+• No
+7. LENGTH OF OBSERVATION
+0. BRIEF SUMMARY OF SIGHTING
+Rada:
+ATIC FORM 329 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Falls,
+TYPE OF OBSERYATION
+New York
+KO Ground-Visual
+• Ai~Yisual
+TO Ground-Radar
+• Air-Intercept Radar
+5. SOURCE
+Crew
+3. NUMBER OF OBJECTS 9.
+daneuver
+radical
+COMMENTS
+12. CONCLUSIONS
+" Was Balloon
+A Probably Bailoon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astrenemical
+Possibly Astronomical
+Other_
+Insufficient Data for Evoi
+GERUnk no wm
+PROSABLE BALLOONS

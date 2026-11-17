@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:48:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4398200, "source_ctime_ns": 1793359080934589030, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-038-0001.tif", "source_mtime_ns": 1785681311000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-038-0001.tif", "source_sha256": "82ef518db53efe0e78049e463741d71e96d2b04857b4de3f48ef60201ba1026e"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 664, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LCG
+L REPORT NO.
+TSS 0703-99-55
+2 DATE/TIME OF SIGATING
+26/0340Z April 1955
+4 LOCATION OF SIGHTING
+Roscommon, Michigan
+5 MEANS RECD
+6 ACTION
+Phone to ILt 3-0
+7 INVES UNIT
+ilta
+Investigatlon Authorised
+8 DATE INVES ASSIGNED
+26 April 1955
+10 DATE IR RECD 11%
+9 May 7955
+13 AISOP FORM 5
+11 DATE IR APPROVED
+9 May 1955
+2 June 1955
+14 COMMENTS
+3 RECD HQ 4602D
+26 April 1955
+19 ASSIGNING OFFICER
+Capt Bronstein
+12 DATE IR TO ATIC
+Investigation concluded because of questionable reliability of source
+and negative resulta from datailed investigation.
+15 CONCLUSIONS
+Sichting
+ted by sowces imag
+AISOP FORM 7 (ZArk 55)

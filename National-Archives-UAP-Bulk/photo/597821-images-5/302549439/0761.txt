@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:28:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1478609, "source_ctime_ns": 1793390382232882315, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549439/0761.jp2", "source_mtime_ns": 1785808106000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549439/0761.jp2", "source_sha256": "5a75f8d5d977952d4eb54b7e5a353b59f46c8060c77b3655c1912ebeb933e449"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 730, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 58856 (21 Apr 66)
+Pg 3 of 3
+(2) N/A
+G. (1) UNK
+PAGE 3 RUMMFVA2112 UNOLAS
+(2) SURFACE 15/06; 6000°27/12; 10000°30/27; 16000°
+29/35: 20880°30/35; 30000°34/37: 50000° 29/16; 80000°UNK.
+(3) SCATTERE CLOUDS.
+(4) FIFTEEN PLUS MILES.
+(5) 3/10
+(5) N/A
+(7) UNK
+H.. N/A
+1. N/A
+J. NUMEROUS AIRCRAFT IN THE COLORADO SPRINGS AREA AT TIME
+OF OBSERVATION.
+K. MAJOR EDWARD L STRICKER, ASST BASE OPERATIONS OFFICER,
+PETERSON FIELD, COLO. PRELIMINARY ANALYSIS: BELIEVE
+OBJECT WAS AIRCRAFT NORTHBOUND VICINITY OF COLO SPRINGS.
+ROTAT IN BEACON WOLD BE EASILY VISIBLE, EVEN FROM TRAFFIC
+ON AIRWARYS WEST OF PIKES PEAK.
+L. NA
+BT
+FORM
+AFHQ JAN 65 0-309C
+UNCLASSIFIED

@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:38:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4412490, "source_ctime_ns": 1793372423974589462, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942609/00759.jpg", "source_mtime_ns": 1785688505000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942609/00759.jpg", "source_sha256": "97169851dc7a9ebcf8cf2567dd94fba722fdb05c89aa9cfa7dc94be164820806"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 266, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+AF FORM 112-
+APPROVED | JUNE I8
+FROM (. lyraCy)
+Dir of Intel, PEANCOM, APO 323
+RES
+ERRETED ONCLSSIFIED
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO,
+FLYOBRPT 1-52
+PAGE
+RESTRICTED Bem
+PAGES
+INORTH
+PATH OF O
+ANGLE OF SIGHT
+20-31
+BOD
+OSCILLATES
+DISAPPEARED HERE
+STOPP

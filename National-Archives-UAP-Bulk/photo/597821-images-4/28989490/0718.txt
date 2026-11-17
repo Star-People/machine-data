@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:35:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3362851, "source_ctime_ns": 1793384208356191424, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989490/0718.jpg", "source_mtime_ns": 1785748492000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989490/0718.jpg", "source_sha256": "c6860c4e4010332caee99d08f849574ebd48ae05c3d098d80729625ce314dfd8"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 473, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RECEIVED
+30cr 60 08 21
+ATIC
+1960.00T 1 20 33
+RC 111
+CZCSQEED6ZCWYA132
+PP RJEDSQ I
+ZDK
+63
+ZCZCKF A462 •
+PP RJWFAL RJEDSQ RJEZHQ
+DE RJNFKE 16G
+P 2113322 ZEX /
+FM KCADS RICHARDS GEBAUR AFB MO
+TO RJWFAL/33ADS SAGE RICHARDS GEBAUR AFB MO
+RJEDSQ/WRIGHT PATTERSON AFE OHIO Y
+RJEZAQ/HQ USAF AFCIN WASH DC
+RJEZHQ/SECRETARY OF THE AIR FORCE WASH DC
+BT
+/UNCLAS/KCADCC 1675
+A DESCRIPTION OF OBJECTS
+1 ROUND
+2 BEACHBALL
+3 WHITE
+# 1
+5 NA
+6 NA
+7 N/A
+TO
+NO
+TIME
+Date
+By:
+71222
+160
++ -4x20

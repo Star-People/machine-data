@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:03:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8258654, "source_ctime_ns": 1793384750800412067, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990961/0689.jpg", "source_mtime_ns": 1785748581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990961/0689.jpg", "source_sha256": "a41a34fabb01fb2d96b3db9b1237cfa0da2a129fe9ca55942474c97bf6327f59"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 363, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Had the rabe of moveseat have an effect on the color of the objeet?
+No .
+9. New long was each object in sight?
+1 hour.
+10, Did the objects seen on I Jamary have the same characteristic
+movements as those seen on 13 January?
+Did not see it on the l4th
+11, Give a detailed account of each objects maneuvers.
+None.
+12, What was the ceiling height on 13 January?
+N/A

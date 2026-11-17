@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:37:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4279167, "source_ctime_ns": 1793372979873378616, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28944993/0268.jpg", "source_mtime_ns": 1785688644000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28944993/0268.jpg", "source_sha256": "8310ef404e3c62315a82f6c3eacdae2fc3ba3bc04455f1aa350e8685a2068bf6"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 966, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OBSERVERS QUESTIONNAIRE
+3117.01
+SECTION A
+1. When did you see the object:
+1.1 Dates 32 Ju
+1.2 Time of days Hrs."
+1.3 Time Zone: (Circle One):
+Eastern
+Be Central
+b.
+c. Mountain
+(Circle One):
+45
+Min.
+1952
+Year
++ 1105
+A.M. of P.M.
+(Circle One)
+Pacific
+Other
+b.
+Daylight Saving
+Standard
+1.4 Circle one of the following to indicate how certain you are
+of your answer to the above question 1.2;
+Certain
+Hot very sure
+b. Fairly certain
+d.
+Just a guess
+2. Where did you see the object?
+BO3- W. HIGH ST.
+Postal Address
+HADDON HITS. N.J.
+City or Town
+State
+3. Where were you located when you saw the object:
+(Circle One): a. Inside a building
+In a car
+ỊOutdoors
+d. In an airplane
+e. At sea
+f. Other
+CAMDEN
+Country
+3.1 Were you:
+(Circle One):
+In the business section of a oity?
+b.In the residential section of a city?
+C.
+In open countryside?
+d. Flying near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+B. Other WITH Na OBSTRUCTiON TE THE
+SOUTH
+FOR
+200 y00.

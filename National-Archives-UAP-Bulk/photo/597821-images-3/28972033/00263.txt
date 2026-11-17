@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:02:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8173934, "source_ctime_ns": 1793379344291032925, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972033/00263.jpg", "source_mtime_ns": 1785700834000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972033/00263.jpg", "source_sha256": "9e26dd6ad6f7a67322228561943427bc5508211401269267891c207be20b53ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 868, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+8 October 1957
+3. DATE-TIME GROUP
+Local
+S PHOTOS
+08/17172
+Seattle,
+Washington
+4. TYPE OF OBSERVATION
+4 Ground- Visual
+• Air Visual
+SOURCE
+• Ground-Roder
+• Air-Intercept Roder
+• Yos
+xa No
+7. LENGTH OP.OBSERVATION
+Military
+• NUMBER OF OBJECTS
+9. COURSE
+O.
+25 to 30 seconds
+two
+BRIEF SUMMARY OF SIGHTING
+Two round white objects the size of
+a dime at arm's length. Objects were
+seen appearing from the NW, banking
+away to the Sw, flying a short
+crossing course & banking away to the
+NW to SW to NW
+11. COMMENTS
+Unidentified.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+•
+Probably Astronomica
+Possibly Astronomica
+Other UNIDENTIFIED
+Insufficient Dato for Evaluatior
+Unknown
+rear of airliner moving from NW to
+SE.
+ATIC FORM 329 (REV 26 SEP 52)

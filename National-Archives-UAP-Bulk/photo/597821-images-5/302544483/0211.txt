@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:42:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1704546, "source_ctime_ns": 1793389851076602500, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544483/0211.jp2", "source_mtime_ns": 1785808224000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544483/0211.jp2", "source_sha256": "3cdf0cdc430186923f8d1040c3b89aa81e3345aa921018b2e54617500c9af4ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 589, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+• DATE - TIME GROUP
+5. September 65 07/03001
+3. SOURCE
+Civilians
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+25 minutes
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+North
+8. PHOTOS
+• Yes
+17 No
+PHYSICAL EVIDENCE
+• Yes
+* No
+FORM
+FTD SEP 63 0-329 (TDE)
+2. LOCATION
+Indianapolis, Indiana (3)
+10. CONCLUSION
+A/C
+Evaluation tenative. Pending receipt
+form 164
+& drawing
+11. BRIEF SUMMARY AND ANALYSIS
+Observer sighted a very bright red object with approx 10
+separate lights.
+The object moved to the north, paused for
+about 10 seconds, then continued on out of sight.

@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:43:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1780191, "source_ctime_ns": 1793356039118700787, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0020.jpg", "source_mtime_ns": 1785564590000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0020.jpg", "source_sha256": "f62044e9106953f52f14a23776c4fa699172358934ab1c3cec96f10e41e7ad54"}
+
+===== PAGE 1 =====
+{"alpha_words": 266, "chars": 1738, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Flights 29 through 39: They were made from Alamogordo, New Mexico during
+November and December, 1947 to test ballast controls and to develop a
+launching technique satisfactory for high winds. The period of data re-
+ception by radio was too short in all of these flights to permit much evalua-
+tion of the altitude controls. On three flights (55, 35 and 39) a Fergusen
+neteorograph was added to the train to reoord flight pressure; of ll balloons
+released, only these three were not recovered.
+On seven flights the pressure signals reoeived by radiosonde were lost
+while the balloon was still rising; Flight 38 was a shrouded neoprene
+balloon which burst as it became full; and Flight 39 was a polyethylene
+balloon which burst at or near its ceiling following a very rapid rise.
+(This was the first balloon to burst using a short external appendix with
+stiffeners.)
+On the other two flights (30 and 35) a very short period of level flight
+was recorded before the balloon-borne radio transmitter passed out of range.
+Besides these two, several other .001" polyethylene balloons probably
+were maintained at constant or near-constant levels for several hours, as
+can be seen from their points of recovery (Figure 13). One balloon was
+seen descending 18 hours after release.
+Points of Recovery
+for
+Wintertime Flights
+Figure 13
+On Flights 29 through 33 only a fixed ballast leak was used, set for
+flows of from 300 to 600 grams per hour. Other flights used automatic
+ballast controls. Although these fixed leaks seemed to be sufficient to keep
+the balloons aloft, there was no clear evidence as to what amount would be
+needed for most efficient operation. The need for a system of ballast
+metering was indicated in this series of flights.
+-19-

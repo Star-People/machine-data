@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:01:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7789678, "source_ctime_ns": 1793354458585300143, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989209-001-0016.jpg", "source_mtime_ns": 1785564288000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989209-001-0016.jpg", "source_sha256": "7d2fec464245f662574878f844d57e65b4094fe4eb29434b52cd2e2133ec227c"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 222, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+DON BERLINER
+1202 5. WASHINGTON ST.
+ALEXANDRIA, VA 22314
+0000
+U.S
+POSTAGE
+HLEXHNDRIA.VA
+NOV
+AMOUNT
+52 00
+$0.75
+000453
+FRST CLASS
+IST LT JIM McANDREW
+AF HO (LT. McANDREN)
+170 LURE BLVD.
+SUITE 400
+BOLLING AFB, DC 20332-5113

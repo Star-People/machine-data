@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:56:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6468261, "source_ctime_ns": 1793364586638763140, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0073.jpg", "source_mtime_ns": 1785685196000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0073.jpg", "source_sha256": "5a3e0c798ae96b6f04f4dbeb2df9fe7b55679a80f5803a193ee15c1d92e6e36b"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 35, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "contrast-vision"}
+OUr
+1
+NOV1951 -
+CI DIV
+OSt
+12 (ca)

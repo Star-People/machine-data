@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:24:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 921563, "source_ctime_ns": 1793388812532765059, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532945/1185.jp2", "source_mtime_ns": 1785808029000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532945/1185.jp2", "source_sha256": "bece4af446785d286479c9e7fa60b6170016c95410d0e96c887a110ef08ba9f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 597, "method": "ocr", "page": 1, "variant": "plain-vision"}
+_INCOMING
+MESSAGE
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+AF IN: 43146 (18 May 64) L/rff
+ACTION: NIN-7
+INFO: DIA-15, XOP-1, XOPX-4, SAF-OS -3, ARMY-2, NAVY-2, CMC-8,
+CJCS-35, NSA-7, OSD-15 (100)
+SMB A017
+ZCZCHQA944ZCQJA572
+00 RUEAHQ
+DE RUWSJ 232 18/0535Z
+ZNR
+0 180510Z
+FM OSV NOVEMBER
+TO ZEN/COMWESTAREA
+RUWSPG/CTF 31
+RUWSP G/ COMWESTSEAFR ON
+RUWGALB/ CINCNORAD
+RUEAHQ/CSAF USAF
+RUHPDCOMASWF ORP AC
+RCCSC/CANAIRDEF
+RCWNM/ CANCOMARP AC
+BT
+UNCLAU
+MERINT NRUU SALELLITE 30N 140W 180445Z ALT 45HDEG 232T. 180450Z
+ALT 50 DEG 010T.
+BT
+NOTE: Adv copy to XOPX, NIN, DIA
+XMITT to CIA

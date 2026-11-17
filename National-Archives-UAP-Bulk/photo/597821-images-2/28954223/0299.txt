@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:53:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5703652, "source_ctime_ns": 1793374989607116839, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954223/0299.jpg", "source_mtime_ns": 1785696859000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954223/0299.jpg", "source_sha256": "ea848640f3930f58472620773a254c5ec48ec68022d2f6dd378d487818e69a0d"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 611, "method": "ocr", "page": 1, "variant": "plain-vision"}
+"AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FIED C
+AIR INTELLIGENCE INFORMATION REPORT
+UNCLASSIFIED
+- 36°
+PUSAN
+130°
+WIKD
+5857
+1955 1
+130°
+WULD
+1956I
+1 6 0000
+34°
+INCLFZ
+NOVE: THIS DOC
+31 AND 9 AS AMENDED
+IT MAY NOT BE REPRODLY
+68 AG - 2267
+© ITAZUKE
+FUKUOKA
+USAF FLIGHT CHARDON GRADED AT 3 YEAR
+SCALE
+1: 1,000,000
+DECLASSIFIED AFTER 12 YEAR
+DOD DIR 5200.10
+- DEFENSE OF THE UN
+THE MEANING OF THE ESPIONAGE AC
+50 U.S. S.C.-
+ION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+EVE OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DILECTOR OF
+UNCLASSIFIED
+30
+S;

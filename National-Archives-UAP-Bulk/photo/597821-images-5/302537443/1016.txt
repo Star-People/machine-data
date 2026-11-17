@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:25:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1001075, "source_ctime_ns": 1793389168267042641, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537443/1016.jp2", "source_mtime_ns": 1785808243000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537443/1016.jp2", "source_sha256": "48df06252054c84a8fafd1f2c8cd2e8a2683227f77b8d98cfb5b5ff3447dc5be"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 369, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Mrs Hunt/SAFOICC/72842/2 Jun 65
+2 Jeen 65
+Dear Hr.
+We bave received the three color alides which you
+forvarded to the Air Force for analyals. We bave had
+prints made fros the alides; After completion of the
+photo analysis, you will be advised of the conclusions
+resched,
+Your alides are returned herewith.
+Sincerely,
+JOHN P.
+SPAULDING
+it Colonel
+USAT
+Chis?,
+Califoraia

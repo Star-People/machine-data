@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:41:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1682312, "source_ctime_ns": 1793389830327528359, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544343/0087.jp2", "source_mtime_ns": 1785808144000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544343/0087.jp2", "source_sha256": "00a0713b442e10674d2d42a8d830d976392aa126d76a095ac5d162d237e09e38"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 615, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN : 37363 (6 Sep 65) F/crg
+ACTION : NIN-7
+INFO: XOP-1, XOPX-8, SAFOS-3, DIA-1 (21)
+SMB A017QC493ZCYJX357
+PP RUEAHQ
+DE RUCODUB 1 2491830
+ZNR VUUUU
+P 061730Z
+FM SAULT STE MARIE
+AFS MICH
+TO RUWGALE/ADC
+RUCDAH/30 AIRDIV TRUAX FLD WISC
+RUCDOU/DUADS DULUTH INTL APRT
+RUCOSQ/WRIGHT PATTERSON AFB OHIO
+RUEABL/HOCOMO USAF
+RUEAHQ/SEC AF
+UNCLAS
+753 OOP 086012/65. FOR OIN, DUOIN,
+FOREIGN TECHNOLOGY DIV, AFCIN, SAFOI.
+1 CIRCULAR SHAPED
+2 LARGER THAN A BASKET BALL
+3 BRIGHT BLUE WITH RED TAIL
+4 ONE
+5 N/A
+AFHQ 565 0-309C
+UNCLASSIFIED
+Pg 1 of 3

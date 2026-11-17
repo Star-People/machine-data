@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:04:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8626904, "source_ctime_ns": 1793384734525017542, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990953/0657.jpg", "source_mtime_ns": 1785748452000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990953/0657.jpg", "source_sha256": "6e9a71be081fb38591507bb3e8adf5a5372192eb4bc194ef342eb1863582f8f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 484, "method": "ocr", "page": 1, "variant": "plain-vision"}
+227 DEG 19 K
+220 DEG Q% K
+200 DEG 20 K
+260 DEG 15 K
+278 DEG 10 K
+(3) HIGH SCATTERED
+(4) 12 MILES
+(5) CIRUS CLOUD
+(6) NO
+H. NONE
+I. NONE
+J. NONE
+K. FAL WILLIS N. MORRISON, NORAD INTELL OFFICER. CITY POLICEMAN
+AS WITH MP
+•AT THE TIME AND VERIFIED
+THESE OBSERVATIONS.
+L. NONE
+M. OBSERVER STATED THIS OBJECT WAS SIMILAR IN APPEARANCE AND SIGHTED
+IN THE SAME AVEA AS IN PREVIOUS OBJECT SIGHTED AND REPORTED ON
+10 DEC 60. REFERENCE MSG DUOIN 23 DATED 15 DEC 60.
+BT
+16/2219Z JAN RJEDDU
+NNNN

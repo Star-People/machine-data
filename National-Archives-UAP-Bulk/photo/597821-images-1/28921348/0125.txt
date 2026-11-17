@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:51:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5357033, "source_ctime_ns": 1793368534080184470, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0125.jpg", "source_mtime_ns": 1785688700000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0125.jpg", "source_sha256": "bdf568a7c6073e470883729f5840097e4609953e19a30dc4721b05c5fe81d6ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 563, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+3291
+Oct
+3292 Det
+3013
+Oct
+3094
+8
+3295
+1.1
+329%
+15
+3291
+27
+3298
+23
+OCTOBER 1954 SIGHTINGS
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+LOCATION
+SOURCE
+EVALUATION
+Italy (Italian Newspaper Accounts of UPO Activity, IR-+40-54, Oct 54)
+France French Newspaper,
+"France-Soir, 14 Oct 54)
+Cherry Valley, New York (Satellite 1 Jun 57
+Pacoima, California
+(Flying Saucer - 1960 Aug)
+Cincinnati, Ohio
+(Cincinnati Post
+Bangkok, Thailand
+(New York Journal - 17 Oct 54)
+Rocky Mountain States
+(World of Flying Saucers
+Greenwich, Connecticut
+(Greenwich, Conn Times, 29 Oct 54)

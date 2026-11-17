@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:29:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1691128, "source_ctime_ns": 1793391043201223641, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555157/0225.jp2", "source_mtime_ns": 1785808471000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555157/0225.jp2", "source_sha256": "213da4bb231147615315d95758d76d43be20a8fa96a223ac298a871e9421b4e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 537, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Duluth yunna 23 Ciug. le%
+FED (IDEER) / h
+Wright¿Patterson AFB, Ohio 45433
+29 August 1965
+OFFICIAL FILE COT
+DETR
+Office of Record
+Duluth, Minnesota
+55804
+Dear
+Reference your unidentified observation of 23 August 1966.
+The information which we have received is not sufficient
+for evaluation.
+Request you and your wife complete the
+attached FTD Forms 164 and return them in the envelope
+provided.
+We wish to thank you for reporting your observation to
+the Air Force.
+Sincerely,
+RECTOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book

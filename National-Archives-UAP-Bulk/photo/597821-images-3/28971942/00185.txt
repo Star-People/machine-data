@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:02:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8243065, "source_ctime_ns": 1793379314259888015, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971942/00185.jpg", "source_mtime_ns": 1785700631000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971942/00185.jpg", "source_sha256": "dd72395ea50d499b7c7fe5bad9b60bb7d96a2806b07472cf5c03a5f3e73174ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 283, "method": "ocr", "page": 1, "variant": "plain-vision"}
+One day in October 1957 witness saw a strange flying object
+in Dolinsk. There was a tremendous sound and witness felt the
+house shakeing. He leaped out and saw a light high above in the
+western skies, but it disappeared shortly afterwards.
+Witness
+was unable to identify the object.

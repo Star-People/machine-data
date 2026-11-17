@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:57:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6636331, "source_ctime_ns": 1793378561960918011, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968404/1333.jpg", "source_mtime_ns": 1785696503000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968404/1333.jpg", "source_sha256": "24d901c549b437c18a0b0cae8bc397ec4283a41bd8356efd37aa9691a59aebbe"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 538, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1 1-
+11:0750
+Multi
+BAFA 36
+3 4 pra
+AWPHC07 WPC043 YDA028 WYAC32 WMA017APAD23
+RR RJEDEN RJEDWP RJEPHO RUPGU
+ACTION INFOR.
+DE RJWFAP 31
+R 1817CEZ
+FM COMDRBONNG 28 ELLSWORTH AFB SDAK
+1956 "
+- 2000
+08:25
+TO RJEDEN/CONDR ADC ENT AFD COLO SPRINGS COLO
+RJWPGU/COMDR 29TH AIRDIY MALSTRON AFB MONT
+RJEDWP/CODR AIR TECHNICAL INTELLIGZNCE CENTER WRIGHTPATTERSON AFB OHIO
+RJEPHO/DIR OF INTELLIGENCE HO USAF WASH DC
+INFO RJEDMH/CINCSAC OFFUTT AFB NEBR
+RJUPRH/CONDR 15AF MARCH AFB CALIF
+/UNCLAS/DOI 23569. SUBJECT IS UFOB. IN COMPLIANCE WITH AIR FORCE

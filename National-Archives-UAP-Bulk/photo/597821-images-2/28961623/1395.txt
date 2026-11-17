@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:46:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3750964, "source_ctime_ns": 1793376661350612354, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961623/1395.jpg", "source_mtime_ns": 1785696690000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961623/1395.jpg", "source_sha256": "8407dd9ceff6f11af829ed0ea8def2e478d94dfbd992f90a4db7233aab5e9040"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 759, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Numerous reports of unidentified flying objects are being received from
+widely scattered places in Iran. Reports have come from the Persian
+Gulf area, Tehran, Gorgon and Tabris. No conclusive details as to
+description, airodynamic features, etc. can be obtained; the descrip-
+tions being given by observers all indicate free play of ideas of
+individual cases.
+In the Tabriz area there have been several reports of "flying saucers"
+recover of one unit caused considerable excitement. USAF MAAG officers
+identified object as a type balloon used to drop crusade for Freedom
+leaflets. Other reports from Tabriz area when sifted down indicated
+other leaflet balloons have been seen and are the cause of numerous
+spectacular reports of unidentified flying objects.

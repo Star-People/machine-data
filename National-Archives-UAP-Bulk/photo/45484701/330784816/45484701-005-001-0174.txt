@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:00:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7380678, "source_ctime_ns": 1793363273844165760, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0174.jpg", "source_mtime_ns": 1785684647000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0174.jpg", "source_sha256": "c8f90853f8cb979e3ae04f33d2b7c431d45b1951e7faebbd1e7b9c6a1c7639c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 105, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+ÖSsYUJ
+eth Districe ÜSI
+ISO
+AG 10
+28 APR 1950
+100
+28 APR 050
+arpn
+Declassification Authority: NND 923007

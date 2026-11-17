@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:57:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6776643, "source_ctime_ns": 1793387969601140537, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999547/1452.jpg", "source_mtime_ns": 1785748052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999547/1452.jpg", "source_sha256": "4528613525c8c1cd971f1d205ebb595e2cb26f10b4a85705134107b4971967c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1184, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+17 October 1962
+3. DATE-TIME GROUP
+Local.
+GM T
+17/11192
+S.
+PHOTOS
+• Yes
+XX No
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Donaldsville,
+4. TYPE OF OBSERVATION
+*KGround- Vi sual
+• Air Visual
+SOURCE
+Louisiana
+• Ground-Radar
+• Air-Intercept Radar
+Coast Guard
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+100
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aircraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomicol
+Other_
+Possible Missile
+Insufficient Date for Evaluation
+Unknown
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+Merint rpt of celestial phenomena appear-
+ing in the Last coming up from the hori-
+zon. Brilliant white glow, circular il
+shape. Obj then desceneed
+to 30 dgr
+elevation & appeared to make a ragged
+circular course leaving huge white
+vapor trails. Disappeared to the
+South on incline of 50 dgr at great
+speed.
+Missile launch schedule did
+not have launch at this time;
+however, this rpt does not
+contain all launches. Sight-
+ing made fm Louisiana in
+direction of Eglin, Patrick
+and Cape Canaveral. Since
+obj sighted was characteres
+tic of a missile launch obs
+ATIC FORM 329 (REV 26 SEP 52)

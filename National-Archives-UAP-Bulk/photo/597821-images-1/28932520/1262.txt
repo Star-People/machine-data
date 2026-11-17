@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:54:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5814030, "source_ctime_ns": 1793369693511252708, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932520/1262.jpg", "source_mtime_ns": 1785688829000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932520/1262.jpg", "source_sha256": "894c49efc9f6232d32366abebd22529846da87527e296d2816634ab9bbef36cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 747, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 4
+EEI Project "SIGN"
+Relative to the observer
+1. Name of observer:
+2. Address of observer:
+Granta Pass, Oregon
+3. Occupation:
+Fisherman
+4. Place of business:
+Same as address of observer
+5. and 6.
+Unknown
+7. Reliability of observer:
+a. Source
+(l) Neighbors:
+Very good
+8. Notes relative to observer on:
+a. Sightings in general: Unknown
+B. How attention mas drawn to object:
+(2) Glint of light
+9. Witnesses:
+Same as observer.
+10g Comments of interregator re intelligence and character of person
+Interregate,
+is about 19 years old, of good character, enjoys a good
+reputation for honesty and reliability, and is of average intelligence
+He did not exercise any curiosity as to what he saw, assuming it was
+some new type of airbonre equipment.
+200

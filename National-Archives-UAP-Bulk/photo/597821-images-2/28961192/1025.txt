@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:35:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3489524, "source_ctime_ns": 1793376553307188881, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961192/1025.jpg", "source_mtime_ns": 1785696648000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961192/1025.jpg", "source_sha256": "ef597ca9ea6f6c128f493f0d1399311fce69e5f416c29818d6404e7aaab02b1d"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 413, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FM COMDR 4622S AISS ENT ( A COLO
+TO JEPHO/HQ USAF WASH DC
+INFO/JEDMP/COMDR ATIC WPAFE CHIO
+ZEN/CONDR ADG ENT AFB COLO
+JEPLG/CONDT TAC LANGLEY AFD VA
+JESKE/COMDR 35TH AD DODBINS AFD VA
+/UN C LA S S I F I E D/AÏSOP 137 PD REF YOUR MESSAGE 102226Z
+CONCERNING UFOB REPORTED NORTHUEST OF ATLANTA CMM GA PD INITIAL
+INVESTIGATION REVEALS THAT SIGHTING PROBABLY CONNECTED WITH PROJECT
+MOBY DICK PD END
+11/01502 FEB JEDEN

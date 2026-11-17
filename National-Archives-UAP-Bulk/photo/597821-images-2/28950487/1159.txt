@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:36:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3834357, "source_ctime_ns": 1793374156758300795, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950487/1159.jpg", "source_mtime_ns": 1785696610000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950487/1159.jpg", "source_sha256": "2ec1f4d76c82cd076289607201648bc7b016b024b85b05ffecb93c675c39507b"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 877, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+PROJECT 10073 RECORD CARD
+LOCA
+15 Oct 52
+3. DATE-TIME GROUP
+Local 15/2300 I
+GMT
+S. PHOTOS
+• Yes
+xox.
+7. LENGTH OF OBSERVATION
+10. BRIER SUMMARY OF SIGHTING
+ASHIYA AB
+TYFE OF
+CBDERVATION
+O Gound- V. sua!
+•O Air Visual
+SOURCE
+JAP AN
+XXXiround-Radar
+Air
+or Radar
+Radar operator
+1. NUMBER OF OBJECTS
+COURSE
+5
+Generally east
+1. COMMENTS
+12. CONCLUSIONS
+ja
+10
+a
+Wes Balloon
+Probably Balicon
+Possibly Balloon
+Was Airerate
+Probably Aircraft
+Passibly Aireraft
+Was Astronomical
+Probabiy Astrenomical
+Possibly Astronomicel
+Other
+Insufficient Data for Ev
+Unkno un
+Probably propogation, na
+function or interference
+e. Racken pusanel absen
+Target similar to light a/c painted on
+radar scope at Ashiya Air Base. As many as
+five targets appeared at one time, traveling
+50.70 mph at 200.500 feet altitude. Sightings
+lasted for three hours, no visual contact.
+ATIC PORM 320 (REV 26 SEP 52)

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T07:34:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3316105, "source_ctime_ns": 1793384280096024799, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989801/0991.jpg", "source_mtime_ns": 1785748145000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989801/0991.jpg", "source_sha256": "b3ae3713bc7085251ac75dcab2365fec6ed9ff2f508b41eeefdcaae9cc2f36c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 69, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+521002 429202 N1
+SAW A T. 33, FALLIA
+SToPIO
+MINDOO
+CRASHEr
+LATL
+Note
