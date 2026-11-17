@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T22:45:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7367925, "source_ctime_ns": 1793376926334904328, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962270/0467.jpg", "source_mtime_ns": 1785696442000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962270/0467.jpg", "source_sha256": "02d7d2399e45cfa8713e83c94a1a45105c791d5b93fc49979de5d73ce90b8fb7"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 77, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/
+
+fot Wek Cook. chk
+
+'
+,
+
+|
+STRIKE B
+
+ANA rea ss
+ANMERICZY
+
+ME Ow OO ees
+'

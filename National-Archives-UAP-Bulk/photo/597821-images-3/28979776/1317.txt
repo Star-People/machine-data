@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T22:43:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7182544, "source_ctime_ns": 1793381300764408987, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979776/1317.jpg", "source_mtime_ns": 1785700679000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979776/1317.jpg", "source_sha256": "398b7d0e785cdf9d1426ae98dd00e1faa25fb7698d1e7f3d6ab60c32ffc502d0"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 723, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UFO OPS 9865.
+Ae (1) LIGHTS
+@) QUARTER
+(3) GREEN AND RED, ALTERNATING
+ch) 1 AND 2
+(5) 2 MILES SEPARATION, STATIONARY
+(6) LIGHTS GREEN AND RED
+(7) WA
+(8) WA
+(9) HRI FPS-6 INDICATED TWO OBJECTS AT 10,800 FEET 2 MILES
+
+!
+-—
+
+PAGE T¥O RJWZGU 2H :
+APART AND LATER CLIMBED TO 14,20@ FEET. FPS 2@ INDICATED ONE OBJECT,
+THEN TWO VERY CLOSE TOGETHER.
+Be (1) ADJACENT RADAR SITE
+(2) 20 FEET ABOVE HORIZON, WEST ON VISUAL. ON GROUND ELECTRONIC
+AZIMUTH 273 DEGREES, RANGE 1@2 MILES, HEIGHT 10,800 FEET
+(3) SAME AS B(2).
+(4) STATIONARY, POSSIBLE 19-29 KNOT ORBIT.
+(5) FADED ~ |
+(6) 55 MINUTES ON GROUND-ELECTRONIC
+Ce (1) GROUND-VISUAL, GROUND ELECTRONIC, HRI FPS-6, SEARCH-FPS-20.
+(2) NONE
+
+(3) WA
+D. ct) 18092 7 sep ss [JOP S = 9° °7

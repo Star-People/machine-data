@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T22:44:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7268970, "source_ctime_ns": 1793362030405514570, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782121/45484701-002-001-0001.jpg", "source_mtime_ns": 1785685167000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782121/45484701-002-001-0001.jpg", "source_sha256": "be2ecc7695caea37f76bec008adbb7d250ca6cd19f50bdb0fc9a78e8b600ee03"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 1126, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INSPECTOR GENERAL, USAF
+OFFICE OF SPECIAL INVESTIGATIONS
+
+OSI DISTRICT FILES, 1949-67
+
+OSI FILE DESIGNATION DISTRICT NO. LOCATION
+
+24-18 5-1
+24-185-2
+24-1853
+24-1854
+24-1855
+
+24-185-6
+24-185=7
+24-1858
+24-185-9
+24-185-10
+24-185=11
+
+24-185-12
+24-185-13
+24-185-14
+24-185-15
+24-185~16
+24-185=17
+24-185-18
+
+24-185-19
+24-185+20
+24-185-21
+24-185=22
+24-185-23
+24-185-24
+24-185-25
+
+24-185-27"
+
+WESTOVER AFB, MASS.
+NEW YORK, N.Y.
+HARRISBURG, PA.
+BOLLING AFB, WASH., D.C.
+WRIGHT-PATTERSON AFB,
+DAYTON, OHIO
+ROBINS AFB, ROBINS FIELD, GA.
+MacDILL AFB, TAMPA, FLA.
+MAXWELL AFB, ALA,
+BARKSDALE AFB, LA.
+KELLY AFB, KELLY FIELD, TEX.
+TINKER AFB, OKLAHOMA CITY,
+OKLA.
+SCOTT AFB, ILL.
+OFFUTT AFB, OMAHA, NEB.
+LOWRY AFB, DENVER, COLO.
+GREAT FALLS AFB, MONT.
+HILL AFB, HILL FIELD, UTAH
+KIRTLAND AFB, NEW MEX.
+USAF SPECIALIZED DEPOT,
+MAYWOOD, CALIF.
+FAIRFIELD-SUISUN AFB, CALIF.
+McCHORD AFB, WASH.
+LANGLEY AFB, LANGLEY FIELD, VA.
+GRIFFISS AFB, ROME, N.Y.
+CARSWELL AFB, FT. WORTH, TEX.
+CHICAGO, ILL.
+SELFRIDGE AFB, MICH.
+RAMEY AFB, PUERTO RICO
+
+*No records for 26th District Office of Special Investigations.
+
+Declassification Authority: NND 923007

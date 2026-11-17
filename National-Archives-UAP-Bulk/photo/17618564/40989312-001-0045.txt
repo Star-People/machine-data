@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T22:19:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1745026, "source_ctime_ns": 1793356279066469621, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0045.jpg", "source_mtime_ns": 1785564658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0045.jpg", "source_sha256": "3f01e06013775b7562f93363c6a8d5ec3a44a9d1c8c26a38eca597d0b07c6f18"}
+
+===== PAGE 1 =====
+{"alpha_words": 563, "chars": 3307, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“One loose end left over from the war was finally wrapped up in 1946. I was in uniform,
+a Lieutenant Colonel with a lot of decorations, because I'd been overseas a long time. |
+asked Colonel Marcellus Duffy and a colleague, Major Peterson, to be witnesses for me
+at Columbus Circle when I took the oath of American citizenship. I hadn’t passed any
+exams or anything, but I had to become a citizen because I knew too damn much to get
+out of uniform. I think it would have been awkward if I had remained a British subject,
+and I had no objections to becoming an American now that the war was over.
+
+“The three of us went in—a full Colonel, a Lieutenant Colonel, and a Major. I had put
+on every medal and decoration that I could legitimately wear to impress the court and to
+get to be a citizen with a minimum of fuss. The judge took one look at us and said, ‘Wait
+a minute.’ He took us into his chambers, because in open court it would have caused too
+much of a stir to perform the ceremony. ‘Now, which of you wants to become a citizen?’
+I told him that I did. The judge looked into his little book, and announced that it was
+impossible, because I could not be an Air Force officer unless I was a citizen. I replied,
+“Well, I am, and I want to be legitimized.’ He did it forthwith right there in his office.
+
+“In 1946, I had the privilege of meeting Dr. Albert Einstein. I was a little kid professor
+during Einstein’s time, and I met him through Von Neumann after WWII. Van Neumann
+was a good friend and associate with whom I was working on computer weather predic-
+tion. I only saw Einstein once or twice, but it was a great privilege to meet him. He had
+been talking not only to me, but to other people about how a sailboat made way against
+the wind. He got it from one guy, then he asked me, “Do you sail?” I replied that I did,
+and went through the whole thing again. It was extraordinary to me that such a brilliant
+man was interested in a simple thing like that. He lived in the ethereal values of math-
+ematics, and this was such a simple thing that he never bothered to understand it. I think
+later on he actually sailed. It took quite a while to help him understand it, but we talked
+vectors and things, and then he understood it completely. He was just like a little kid, full
+of glee at finally understanding sailing.
+
+“After the war, I went back to my job at New York University. The University was in the
+process of demobilization, getting the campus out of the meteorological training program
+I'd begun for the military. It had taken over almost the whole campus, and it was now
+time to get back to normal. Gardner Emmons was still there, as was Raymond Montgom-
+ery. The old place was still going, but we had to retrench and retread. I had been
+chairman of the department I had started, and when I got back, I found that dramatic
+changes had occurred.
+
+“The structure that Vannevar Bush of the Office of Scientific Research and Development
+had put together to weld the universities in with the war effort had worked magnificently.
+People like Jerome Hunsaker of MIT contributed to this achievement. It was a great
+
+tribute to Hunsaker and a lot of other good people, because anybody would be honored to
+work with him. I'd known Hunsaker up at MIT. He was the fellow who was first to hear
+
+sa

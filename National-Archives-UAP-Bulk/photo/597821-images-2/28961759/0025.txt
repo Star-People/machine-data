@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T22:40:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6354424, "source_ctime_ns": 1793376688937228541, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961759/0025.jpg", "source_mtime_ns": 1785696663000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961759/0025.jpg", "source_sha256": "fc986d9a8d0fc748caa42dd58f84137d82335183a06df9d1d820ce5164812524"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 770, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+.
+“
+PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12, CONCLUSIONS
+QO Was Balloon |
+18 April 1955 St_Johns, Newfoundland |9 Prebably Balloon
+i ats 12 Possibly Balloon
+3. DATE-TIME GROUR 4. TYPE OF OSSERVATION
+a Local : MGround- Vi sual 0 Ground-Radar bg Wisuihy auverdth
+j GMT 19/0140Z 0 Air- Visual O Air-Intercept Radar O Possibly Airceaft
+iE 5. PHOTOS 6. SOURCE QO Was Astronomical
+0 Yes O Probably Astronomical
+tt i Civilian 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 0, Other
+0 Insufficient Data for Evaluation
+Q Unknown
+one ;
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Light moving west to east, External light fastened to
+
+C-124 engine to facilitate °
+observation from interior,
+A/C sighting.
+
+ATIC FORM 329 (REV 26 SEP 52)

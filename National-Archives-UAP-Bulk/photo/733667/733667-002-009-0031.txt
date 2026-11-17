@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T22:20:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1755385, "source_ctime_ns": 1793394380950351092, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0031.jpg", "source_mtime_ns": 1785567363000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0031.jpg", "source_sha256": "e442d46282a761aee86905880efceb60397d261186178240c9be31dab5ba5c88"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 504, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+U. S. POSTAL SERVICE DEPT., OFFICE OR [| APPROVAL
+ROUTING SLIP ROOM NO. Fj stenarure
+TO: {_] COMMENT
+1 (_] SEE ME
+[AS REQUESTED
+. _] INFORMATION
+[_] READ AND RETURN
+4 [_] READ AND FILE
+[_] NECESSARY ACTION
+L_] INVESTIGATE
+: [_] RECOMMENDATION
+[_] PREPARE REPLY
+5 - :
+=ROM= i EXTENSION
+GYEL Pit AAS SE if ROOM NO.
+DATE eee ay Ae ty A
+REMARKS: =
+4 ey ee,
+
+A a ae, 7 £€Le2. Jt, gel AS a
+hapaetet tv. Ae Firnrte 7 t
+
+AGO 2 OL a a ii a
+
+ITEM 0-13 (Additional Remarks on Reverse)
+Aug. 1976 (Formerly Form 18)

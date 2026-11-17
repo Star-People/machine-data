@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T22:35:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5516429, "source_ctime_ns": 1793355083952397885, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0019.jpg", "source_mtime_ns": 1785564390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0019.jpg", "source_sha256": "47c71929e656ce1f36b00e1d08befa16d79e38744490cb1def9d1d71c2bdcfd3"}
+
+===== PAGE 1 =====
+{"alpha_words": 274, "chars": 1724, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+to downwind weather. For captive balloon operations below 3000 feet
+it may be the best month, since inversions can persist all day.
+Predominate float winds are westerly.
+
+February: Had the worst cancellation rate in the seven year
+survey. Westerly float winds begin to decrease in speed, and there
+increasing probability of sporadic easterly flow.
+
+March: Exhibits the strongest jet stream activity and in turn
+
+longest climb outs. It demonstrated the worst cancellation record,
+
+along with December, in the one year study. Surface winds are poor, but
+
+the highest percentage of winter easterlies occur in this month.
+
+April: Shows the maximum surface winds at sunrise and the most cloud
+coverage, but a warm tropopause. Float winds improve sharply in the
+second half of the month.
+
+May: One of the best months of the year, except for surface winds.
+There were only five cancellations in seven years. It has the lightest
+float winds swtiching from westerly to easterly direction and a warm,
+shallow tropopause.
+
+June: Marks the end of the jet stream season, a cooling tropopause and
+the shortest climb out trajectories. It is the best month for day long
+absence of clouds, but the low level jet in the last ten days is at max
+imum activity. Float winds are easterly.
+
+July: Has minimum jet stream activity and shear, and climb outs com-
+pletely within the White Sands Missile Range restricted areas negate launch
+cloudiness. Maximum thunderstorm activity make afternoons and evenings
+prohibitive for launches and recoveries, but there is a well defined min-
+
+imum from 0800 to 1200 MST. Float winds are very strong, but this aids in
+
+drifting out for landings in drier western Arizona, July sees the coldest
+
+tropopause, 4

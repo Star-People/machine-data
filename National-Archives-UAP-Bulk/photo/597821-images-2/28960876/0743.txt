@@ -1,0 +1,85 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T22:24:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3422769, "source_ctime_ns": 1793376476099300008, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960876/0743.jpg", "source_mtime_ns": 1785696610000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960876/0743.jpg", "source_sha256": "96371fa59f21f97358d912e3b9126b6b5d1752bf4b1adc95394a821c91f097bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 823, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+‘¢
+
+Ao genuery 2000.
+
+2. DATE-TIME GROUP
+
+2. LOCATION
+
+|. Between Virginia & Kansas.
+4. TYPE OF OBSERVATION
+
+0 Ground- Visual
+Sire Visual
+
+O Ground-Radar
+
+CO) Air-Intercept Radar
+
+ESS SY [pa eB Ua 2 a a
+Cie 6 ae aa
+‘5. PHOTOS ¥ sett
+O Yes
+Oko
+
+7. LENGTH OF OBSERVATION
+
+unknown
+
+6. SOURCE
+
+Civilian
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+one unknown
+
+3
+
+Gna Geo cou eee
+
+~
+nN
+
+-™~
+
+- CONCLUSIONS
+
+Was Balloon
+Probably Bal’oon
+Possibly Balloon
+
+Was Aircraft
+Probobly Aircraft
+Possibly Aircraft
+
+Was Astranomical
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Dato for Evaluation
+Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Dark object leaving contrail reported
+by civil airline pilot.
+
+No report in file.
+
+11. COMMENTS
+
+Very little info to
+
+go on.
+
+ATIC FORM 329 (REV 26 SEP 52)
