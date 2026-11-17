@@ -1,0 +1,86 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:36:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3943345, "source_ctime_ns": 1793371815145186751, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939862/01058.jpg", "source_mtime_ns": 1785688873000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939862/01058.jpg", "source_sha256": "87ac05170b522a24a9b81cfa3ed616ae68e4c84132c5c4e8f9b48c4f9d98ccd3"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 1143, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+MaNamaa
+11
+11
+16
+16
+13
+19
+21
+21
+22
+22
+23
+30
+31
+~ Oct
+IOCATION
+Ellington AFB, Texas
+Columbus, Ohio
+White Sands, New Mexico
+White Sands, New Mexico
+White Sands, Lew Mexico
+Kadena, Okinawa
+Terre Haute, Indiana
+Paris, Illinois
+St Croix Falls, Wisconsin
+Neubiburg, Germany
+Minneapolis, Minnesota
+Lowell, Massachusetts
+Whidbey Island, Washington
+Anchorage, Alaska
+33.43N 123.16E (Yellow Sea)
+lenoir City, Tennessee
+62N 15W (Atlantic)
+Battle Creek, Michigan
+North Truro, Massachusetts
+Horth Truro, Massachusetts
+Buena Vista, Colorado
+Four Corners, Colorado
+Point Barrow, Alaska
+Gonzales, Texas
+OCTOBER 1951 SIGHTIEGS
+OBSERVER
+EVALUATION
+Military
+Graduate Physicist
+Military
+Military
+Military
+Military (RADAR)
+Astro (VENUS)
+UNIDENTIFIED
+Astro (METEOR)
+Astro (IETEOR)
+Astro (METEOR)
+UNIDENTIFISD
+UNIDENTIFIED
+Insufficient Data
+Balloon
+Maltiple(Ground & Air) UNIDENTIFIED
+Insufficient Data
+Military(Air & Cround) Astro (VENUS)
+A/C
+Military Air V&R
+A/C
+Insufficient Data
+Dr.
+Insufficient Data
+Balloon
+Military
+(RADAR)
+Military
+(RADAR)
+Military
+Insufficient Data
+Insufficient Data
+Astro (MEIEOR)
+Astro (METEOR)
+Other
+(SEARCHLIGHT)
+Other
+(TUMBLEWEED)

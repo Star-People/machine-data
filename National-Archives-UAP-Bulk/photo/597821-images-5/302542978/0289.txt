@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:20:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 344371, "source_ctime_ns": 1793389696265588884, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542978/0289.jp2", "source_mtime_ns": 1785808516000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542978/0289.jp2", "source_sha256": "d571ef2d8f7f35dbbb69222b6f8e10eef26577c29c368f46fe0983921c673486"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1016, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+23 August 65 23/0745Z
+SOURCE
+Civilian
+1. NUMBER OF OBJECTS
+Che
+5. LENGTH OF OBSERVATION
+33 Minutes
+4. TYPE OF OBSERVATION
+Ground- Air-Visual
+7. COURSE
+Stationary
+8. PHOTOS
+[] Yes
+XXNo
+9. PHYSICAL EVIDENCE
+I Yes
+2. LOCATION
+Borata, Columbia
+10. CONCLUSION
+Astro (JUPITER)
+Planet JUPITER at 15 der elevation 065 der azimuth. This places
+that astro body in the approximate position of the object.
+11. BRIEF SUMMARY AND ANALYSIS
+Radio operator at Airport sighted object that changed positior
+constantly outlined by steady lie t in Fast. Changed shape from
+elongated to half rour to square and finally moon-shaped.
+Believed to he 70 miles away at 1,000 ft. Clouds covered obiect
+after 23 minutes. Lights was steady. Lost from view 10 minules
+later. Air Vital of object in that direction identified as
+a star 4 minutes after disappearance. Area over which object
+assumed to be by round observer is a swann.
+FORM
+F-TD SEP 63 0-329 (TDE)
+Previous editions of this form may he uaed.

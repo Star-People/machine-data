@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:05:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17600900, "source_ctime_ns": 1793356572729172211, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0187.tif", "source_mtime_ns": 1785564724000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0187.tif", "source_sha256": "621ec97fce34e70146fec5e4d4f64c7e11b80d0d56763f772d706a2b10ed3cdc"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 595, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #53 -- near Lake Meade, Nevada -- 28 June 1947
+There appears to be nothing astronomical about this incident.
+According to the observer, the objects had a speed of 285
+MPH and were moving on a course of 120°. Now, since the plane was
+moving at 285 MPI on a course of 300°, it is possible that the ob-
+served motion of the objeots was only apparent (since 1800 plus 1200
+equal 300°), and we oan conjecture that a cluster of balloons (cosmic
+ray apparatus perhaps) was observed, the motion of which was merely
+a reflection of the motion of the plane.
+Declassification Authority: NND 57565

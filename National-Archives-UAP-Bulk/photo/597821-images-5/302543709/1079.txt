@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:22:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 984078, "source_ctime_ns": 1793389758887964461, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543709/1079.jp2", "source_mtime_ns": 1785808643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543709/1079.jp2", "source_sha256": "73f10e3a9427fdc6abd834b24afa3ebcc3bbb9f476cad9731ca49f776ab88478"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 43, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Ne
+
+(750 a)
+
+o
+
+Looking 2°" ue
+
+Heh UE Fe

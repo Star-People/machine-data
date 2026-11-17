@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:41:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5704465, "source_ctime_ns": 1793378763065349823, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969099/0591.jpg", "source_mtime_ns": 1785700655000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969099/0591.jpg", "source_sha256": "4224c959afbeca2145c0f6623a09bd401586a9a85379c5148964a5ffffd3715a"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 424, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DE RI EPV 360
+P 14.42
+• cAc
+TO ADEKZC/CINCLANTFLT
+1 C ALEKL/CONAIRLANT
+ROTFL/COMBATCRULANT
+REANZL/COMOPDEVFOR
+RBECLE/COMS UBLANT
+KOLOM/COMEASTSEAFRIN
+RJEDNF/COMDR ATIC WPAFE OHIO
+RJEDEN/COMNAVFORCONAD
+RJEPHO/DIR OF INT HQ USAF WASHDC
+RJEDEN/4502 AIR INT SQDN
+NAVY GRNC
+Вт
+COMDR ATIC WPAFB 130815Z AND COMNAVFORCONAD 132233Z EOTH PASEP X
+REPLY• DIRECT INFMATION TO GNO
+CFN 130815Z 132233Z
+14/ 16042 MAR RBEPW
+15 MAR 57 07 39

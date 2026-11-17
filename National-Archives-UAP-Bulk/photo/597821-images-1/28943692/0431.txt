@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:36:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3881522, "source_ctime_ns": 1793372697870015387, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943692/0431.jpg", "source_mtime_ns": 1785688532000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943692/0431.jpg", "source_sha256": "fcc3b6ceb8b78a1fd8220125748dbbcfa4b1fd092836f72fd3dbd970e1a34b94"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 234, "method": "ocr", "page": 1, "variant": "clean-vision"}
+4° CONT'D
+2% OCCUPATION: STUDENT
+A7
+RADAR DIVISION,
+25. LAST SCHOOL
+ATENDED -
+CAR DU/SIN
+2. YEAR OF LAST ATIENDANCE
+AT THIS SCHoOL - 1952
+NAMES OF PERSON'S I
+DISCUSS EP
+THIS
+WITH BRE
+THOCE RECORDED IN CLASS OF
+FURTHER COMMEnS. -
+NEVE

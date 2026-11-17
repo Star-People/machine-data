@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:52:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8662310, "source_ctime_ns": 1793387747051022906, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999094/1048.jpg", "source_mtime_ns": 1785748520000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999094/1048.jpg", "source_sha256": "fdc304ee59e7fa19b9165b918ea6fd9941ca3f30357da15f4e4c665132ed89ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 602, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIRED MESSAGE
+AF IN : 45456 (16 Oct 621)N C 0 MING
+PS 2 of 4
+PAGE TWO RUWGDR 48
+8. NONE HEARD.
+9. OBJECT WAS ILLUMINATED.
+B. COURSE.
+1. JUST HAPPENDED TO SEE I - SHAPE.
+2. FROM SW O NE. 150 FEE DESCINDING
+3. DISAPPEARED BEHIND TREES.
+4. STRAIGHT LINE, NO MANEUVERING.
+5. SEE ITEM B3.
+6. FIVE SECONDS,
+7. VISUAL.
+8. NONE.
+9% N/ A
+D. TIME.
+1. 15 SEPTEMBER, 07150
+0115L.
+2. MOONLIT NIGHT.
+E. NEAR LA MONE, MISSOURI.
+F. A2C
+340 CIVIL ENGINEERING SQUADRON, CARPENER,
+RELIABILITY UNKNOWN.
+G, WEATHER, WINDS.
+1. FEW SMALL CLOUDS, COOL AND WINDS UNKNOWN.

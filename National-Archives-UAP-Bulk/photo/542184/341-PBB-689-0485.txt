@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:00:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13812829, "source_ctime_ns": 1793367012250174126, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0485.jpg", "source_mtime_ns": 1785565637000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0485.jpg", "source_sha256": "715b12d608d28cc3a995f20521a7553d2371e4f53ee09a4891a6f8cef11635ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 33, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+My,
+Yin, wi"
+: iI | \\
+/’ Pp \ ‘

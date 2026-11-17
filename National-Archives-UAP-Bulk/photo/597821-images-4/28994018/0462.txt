@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:53:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9171821, "source_ctime_ns": 1793385731490809966, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994018/0462.jpg", "source_mtime_ns": 1785748394000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994018/0462.jpg", "source_sha256": "298e693f9b45830a276b116ae5c492ab94237be5ca50d4f56cd135f70e679f35"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 251, "method": "ocr", "page": 1, "variant": "plain-vision"}
+4 Cyprias Gardens
+Ang. 9, 1961
+(st torna)
+vinente
+Pool
+TaiP
+on orange Palle
+* Parking lot
+This complete siting lastil
+for a period of about 45-60 pene
+Frank you for reading
+This letter. I am hoping to
+receive an ansever if you
+can spare the time.
+Mra

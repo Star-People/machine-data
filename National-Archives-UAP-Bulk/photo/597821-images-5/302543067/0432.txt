@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:23:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 999976, "source_ctime_ns": 1793389703377245833, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543067/0432.jp2", "source_mtime_ns": 1785808117000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543067/0432.jp2", "source_sha256": "a3b317cd0031645c68995367dcd21586f0d6566bff3a9d27ebef20aeeb0dfddb"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 244, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Dear Me Poe
+Than you for the froject Blue Bo
+as been of great interest To me.
+- hope m/ information will de of use t
+v. My mother helped me to answer
+long That I did na Tunder
+Pe That the UFo I saw wasn
+Saucer a traugn it looked!
+re one.
+Frorr

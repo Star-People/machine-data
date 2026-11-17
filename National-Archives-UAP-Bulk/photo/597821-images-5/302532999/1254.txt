@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:21:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 914724, "source_ctime_ns": 1793388816170598437, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532999/1254.jp2", "source_mtime_ns": 1785808231000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532999/1254.jp2", "source_sha256": "e2d1d0c3ebc17949949c89b2ce26ecdce6eb95f842a915d6b122b21f5ce28dea"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 459, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EXTRACT LANSING CITY POLICE LOG
+The following reports of UFO's were extracted from the Lansing
+City Police Log by TSgt David N Moody and William Powers on
+13 June 1964.
+21 May 64, at 0302 am,
+report of Landing.
+Heard noise from elephants in Logan Shopping Center.
+2. 21 May 64, at 955 pm,
+, 15 yrs
+old saw Flying Saucer at Prospect and Clifford. Bright with
+15 foot diameter.
+23 May 64, Saturday at 0300 amy
+23 May 64, Saturday at 1238 am,
+reported UFO.
+etc.

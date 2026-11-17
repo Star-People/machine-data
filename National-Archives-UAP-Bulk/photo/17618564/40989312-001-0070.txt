@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:24:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1209625, "source_ctime_ns": 1793356281166204270, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0070.jpg", "source_mtime_ns": 1785564659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0070.jpg", "source_sha256": "f391c69d65a8579c030aff4a2d7cd20150a41a146653953628e40486551fc2f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 361, "chars": 2205, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Chapter Seventeen
+"Our New Age" and Computerizing Newspapers
+Margin Quote:
+"In 1958 I wrote a comic strip on science every Sunday for fifteen years. I decided to
+do it right after Spunik, when I was disturbed abowt kids knowing very little abow
+science. Rather than fight my own kids reading the funnies, which is o stupid thing to do,
+I decided to put something good into the comics, something that was more fun and that
+might give a little subliminal educationiại
+"I wore out three artists in fifteen years, since it was really just a two-man team, me and
+the artist, with no staff. I treated the strip as a hobby, but the deadlines often got me
+down. The syndicate tried to put me into dailies, which I did for about a year. After that
+I just quit, the pressure wasn't worth it, so it became a weekly effort for the Sunday
+funnies.
+Ạ¿Even though I wanted to treat Qur New Age as a hobby, its success really got out of
+hand, I think that happened because I was so active in science, and was able to relate it to
+everyday life in a way that was interesting to adults and children alike. It was read all
+over the world, but it was never put together in book form. When I got busy on a
+sculpture project in 1973, I decided to stop writing the strip. In a way, I regret having
+done this, because it was a very useful and pleasant activity for me. A lot of other strips
+tried to compete with Our New Age but none were ever as successful.
+"His greatest contribution may be the comic strip. When you contemplate the number of
+children he touched with it, who may have loter gone into science or simply understood
+scientific principles better, you realize it had to be a very, very powerful thing. It was an
+important contributioniẠạ
+Fred Spilhaus
+Director
+American Geophysical Union
+"I don't think there are any science-fact comic strips now being published. There are
+extremes in science fiction, from the very high-quality imaginative writing of Arthur C.
+Clarke, down to absolute rubbish-it is that way in all fiction."
+Margin Quote:
+"I enjoy looking at some science fiction. When I wrote my comic strip, I carefully kept
+it away from having a taint of science fiction, although I would be speculative abow

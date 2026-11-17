@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:33:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2523060, "source_ctime_ns": 1793358184275509176, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-056-0006.tif", "source_mtime_ns": 1785681016000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-056-0006.tif", "source_sha256": "081c3a47ea53e133a32234129abc0797ea4936937958dc717aa7ad609e99cc23"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 886, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Ho CADF, INT, Subject: Unidentified Flying Object Report
+AISOP (27 Sep 54)
+3rd Ind
+DETACHMENT 2, 4602D AIR INTELLIGENCE SERVICE SQUADRON (ADC), Crandview
+Air Force Base, Grandview, Missouri
+TO: Commander, 4602d AISS, Ent Air Force Base, Colorade Springs, Colorado
+2nd indorsement complied with.
+2 Incls:
+1. UPOB rept
+w/drawing
+2. AF Form 112
+MILTON BELLOVIN
+Captain,
+USAF
+Officer-In-Charge
+AISOP (27 Sep 54)
+uth Ind
+MEADQUARTERS, 4602D AIR INTELLIGENCE SERVICE SQUADRON (ADC), Ent AiT
+Force Base, Colorado Springa, Colorado
+10: Commander, Air Technical Intelligence Center, Wilght¿«Patterson Air
+Force Base, Dayton, Ohio
+This headquarters is unable to arrive at a logical solution for the
+Inclosed UTOB report and is, therefore, forwarding the entire report for
+further evaluation and analysis.
+2 Inels:
+n/s
+JOHN M WHITE OR
+Colonel, USAF
+Commander

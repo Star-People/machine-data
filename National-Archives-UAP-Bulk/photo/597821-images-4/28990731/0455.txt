@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:46:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6977478, "source_ctime_ns": 1793384636353816925, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990731/0455.jpg", "source_mtime_ns": 1785748454000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990731/0455.jpg", "source_sha256": "fc990cb80f5584f81ee678cd6ac3079daad5c5c6c30f3bc3be64cd31bb78f3aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 696, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+AF IN: 31092 (29 DEC 6d) COMpagN of 2 Pages
+UNCLAS/CIRVIS EVALUAZION/ PAN AMERICA 704, BOEING 707 ENROUTE SYDNEY TO
+NANDI. AT 29/1000Z AT 23 DEGREES SOUTH, 173 DEGREES EADT. OBJECT WAS
+OBSERVED AT APPROXIMATELY 35 DEGREES ALTITUDE TRAVELING NNE
+TO WW, SPEED UNDETERMINED, OF MAGNITUDE COMPARABLE TO VENUS.
+OBJECT DISAPPEARED AT APPROXIMATELY 15 DEGREES ALTITUDE, INTENSITY
+DID NOT APPEAR TO VARY AS WOULD A METEORITE BURNING UP AS IT
+TRAVERSED EARTH ATMOSPHERE. IT DISAPPEARED FROM VIEW AS BEYOND A CLOUD
+DECK. REQUEST DISTRIBUTE TO INTERSTED AUTHORITIES. 29/1142Z
+EVALUAZION BELIEVED TO BE US SATALITE.
+29/1258Z DEC RJHPKA

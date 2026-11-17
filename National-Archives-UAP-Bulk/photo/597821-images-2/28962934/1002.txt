@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:45:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6937207, "source_ctime_ns": 1793377197957975295, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962934/1002.jpg", "source_mtime_ns": 1785696781000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962934/1002.jpg", "source_sha256": "4baf554d547f4eff0a1e7270ee7c3302780f3ec33bded05b206ed392364076db"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 892, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE 3
+a July 1955
+3. DATE-TIME GROUP
+Local
+GM T
+5. PHOTOS
+24/02092 hl 55
+• Yes
+LANo
+7. LENGTH OF OBSERVATION
+UFOB INDEX CARD
+AISS UPOB-236-55
+2. LOCATION
+12. CONCLUSIONS
+Van Nuye, California
+4. TYPE OF OBSERVATION
+& Ground-Visual
+• Air Vi sual
+SOURCE
+Was Balloon
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+• Air-Intercept Radar
+000
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Civilian (G0C)
+8. NUMBER OF OBJECTS
+Possibly Astronomical
+9. COURSE
+Other.
+Insufficient Data for Evaluation
+Unknown
+Ten to Fifteen Seconda
+One (1)
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+One (1), eliptical, silver object, the sise
+nickel at arma length, was seen to
+travel southerly #faster than a Jet".
+DIVUGHT, SIGATING PENDS TO RULE OUT METEOR)
+Concur with the Reporting Officer that
+there in not sufficient data for eval-
+nation.
+AISOP Form 5 (15 Oet 54)

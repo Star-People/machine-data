@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:31:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1757425, "source_ctime_ns": 1793388620368693422, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530404/0264.jp2", "source_mtime_ns": 1785808029000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530404/0264.jp2", "source_sha256": "1d6cbc9222759e1028508ea13e07c0f808546724a33254d8f8f6e2297e95565e"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 966, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+20 Sep 63
+3. DATE-TIME GROUP
+Local
+GHT.
+21/03432
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Pacific (Off Coast of Oregon)
+TYPE OF OBSERVATION
+F Ground-Visual
+• Air Visuol
+• Ground-Radar
+• Air-Intercept Rador
+SOURCE
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircrait
+Was Astronomical
+Probably Astronomical
+Possibly Astranomicol
+Orhor Sate
+ECHO
+Insufficient Data for
+Unknown
+Evaivation
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+10 minutes
+10. BRIEF SUMMARY OF SIGHTING
+one
+Round red obj glowing brightly passing
+directly overhead. Believed to be Satellite.
+Sighted at 270 deg azimuth 30 deg elevation.
+Had appearance of lst mag star. Heading East.
+Passed overhead. In sight 19 mins.
+East
+11. COMMENTS
+ECHO over Porland at 21/03487 North
+of city heading SE. ECHO at 76 deg
+elevation. With Picket Vessel off coast
+ECHO would appear sooner. Obj evaluated
+as ECHO.
+ATIC FORM 339 (REV 26 SEP 32)

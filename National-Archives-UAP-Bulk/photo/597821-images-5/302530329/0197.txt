@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:31:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1757141, "source_ctime_ns": 1793388612923691398, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530329/0197.jp2", "source_mtime_ns": 1785808233000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530329/0197.jp2", "source_sha256": "621a33e17281e237b77568be5c4117248c2ad01c99e1d27ca9166e2fdab83bb0"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 836, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+12 Sep 63
+3. DATE-TIME GROUP
+Local
+GM T.
+12/0730-05002
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+0 minutes., 15 minutes
+10. BRIEF SUMMARY OF SIGHTING
+Round white obj in sight for about 30 mins.
+Seconds observation for 15 minutes. Initial
+observation at So deg elevation. Disappearance
+at 35 deg elevation. Moved from S to SW. Lost
+behind clouds.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Bloomington, Illinois
+TYPE OF OBSERVATION
+• Ground-Visual
+• Air Vi suol
+6. SOURCE
+• Ground-Radar
+• Air-Intercapt Radar
+civilian
+3. NUMBER OF OBJECTS | 9. COURSE
+one
+SW
+11.
+COMMENTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+a
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical Jupiter
+C3
+Probably Astronomica
+Possibly Astronomical
+Other
+Insufficient Data for Eval
+Unknown
+Jupiter.
+ATIC FORM 329 (REV 26 SEP 52)

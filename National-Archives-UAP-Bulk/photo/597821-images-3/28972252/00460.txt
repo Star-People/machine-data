@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:50:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8269207, "source_ctime_ns": 1793379420078806369, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972252/00460.jpg", "source_mtime_ns": 1785701005000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972252/00460.jpg", "source_sha256": "52ad5f8e83630845b07698a0b2607ce4f62f3f7f04b6deea9faf182b3560d5e0"}
+
+===== PAGE 1 =====
+{"alpha_words": 163, "chars": 1100, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5B
+HEADQUARTERS
+AIR FORCE MISSILE DEVELOPMENT CENTER
+AIR RESEARCH AND DEVELOPMENT COMMAND
+UNITED
+STATES AIR FORCE
+Holloman Air Force Base, New Mexico
+ADDRESS
+REPLY TO
+COMMANDER, AFMDC, ATTN:
+HDOO
+1 Aug. 1958
+SUBJECT: Unidentified Flying Object
+TO:
+Commander
+Air Research and Development Command
+Attn: Chief, Intelligence
+Andrews Air Force Base
+Washington 25, D. C.
+1. Attached as Inclosure 1 is an envelope containing a 35 mm
+Kodachrome slide and 1/2 a sheet of paper concerning the analysis of
+this slide. Inclosure 2 is a local press release on the same subject.
+Inclosure 3 is an 8 x 10 black and white enlargement of the color slide.
+We at Holloman do not consider this to be a UFO but rather
+a cloud that is lighted by the sun in an unusual fashion. Personal contact
+with the people who took this picture left us with the impression that they
+were unusually biased about UFO's and could not accept the scientific
+evaluation of their cloud.
+3. After your review and analysis please forward this corres-
+pondence to ASTIA.
+FOR THE COMMANDER:
+3 Incls
+a/s
+DWIGHT N. HILLIS
+Major, USAF
+U F O Officer

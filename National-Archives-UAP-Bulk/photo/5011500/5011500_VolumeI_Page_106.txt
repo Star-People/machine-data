@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:20:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 524421, "source_ctime_ns": 1793365593015268501, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_106.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_106.jpg", "source_sha256": "218aba2bb9dcd8e22c290ae4c45d9488b92024fe69c5863e4fd5ef72b0d80d60"}
+
+===== PAGE 1 =====
+{"alpha_words": 199, "chars": 1265, "method": "ocr", "page": 1, "variant": "plain-vision"}
+31:18:21
+31:18:43
+31:18:49
+31:19:19
+31:19:27
+31:19:29
+31:19:51
+31:20:20
+31:20:30
+31:20:31
+31:20:50
+31:20:51
+31:21:01
+31:33:21
+P
+CC
+CC
+CC
+P
+C
+CC
+P
+CC
+P
+CC
+P
+CC
+CC
+CONFIDENTIAL
+105
+Roger.
+The first indication of the problem with
+the reticle was the fact that the reticle of the
+•.. photometer would never be RED. We'd always
+have it GREEN. We'd have the scale full-down,
+all the lights out and the mobile star would stay
+GREEN. We couldn't - we couldn't calibrate the
+star.
+Understand. You could not calibrate.
+Stand by, Gemini VII.
+Gemini VII, CSQ. Would you now repeat the report
+you gave to the RKV after the test?
+Roger. Stand by.
+SO, this is Gemini VII. While Jim's getting
+that out, it's a little warm in here and dry.
+The ambient temperature is right at 81 with a
+dew point of 57 in most of the place. We're just
+a little warm.
+Understand.
+CSQ, this is Gemini VII.
+Go ahead.
+I'm going to answer 4, 6 and 9, the sequences to
+the photometer check.
+The motor was running for
+Number 4. It appears here that we reported that
+the reticle was RED for Number 6. We'll check
+that. We went back and checked it again and it
+waS GREEN.
+Roger.
+Number 9 was the calibrate of the data... day.
+The reticle was RED.
+Roger. Copy.
+HAWAII
+Gemini VII, Hawaii CAP COM.
+CONFIDENTIAL

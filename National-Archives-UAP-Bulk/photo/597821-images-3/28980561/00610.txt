@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:43:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6021280, "source_ctime_ns": 1793381523625044578, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980561/00610.jpg", "source_mtime_ns": 1785700916000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980561/00610.jpg", "source_sha256": "996a71c758d0403f0f036e1855e2619907a7de8de660b3bed0ef0591bf2e3b91"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 930, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+14 October 1958
+3. DATE-TIME GROUP
+Local
+GM T_
+14/0640Z
+5. PHOTOS
+• Yes
+ROKNo
+7. LENGTH OF OBSERVATION
+2-3
+secon
+one
+10. BRIEF SUMMARY OF SIGHTING
+Cylindrical, bluish-white obj, size
+of a match head, very brilliant. f
+trace of green
+tight when extinguished
+Small sparks were projected fm main
+trail of light.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+2 Mi E of Calhoun,
+La.
+4. TYPE OF OBSERVATION
+XR. Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6.
+SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+to S
+11.
+COMMENTS
+Probab
+ATTN: Archives Branch
+Maxwoll AFB, Alabama
+Aerospace Studies Inst
+ATIC FORM 329 (REV 26 SEP 52)
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+000
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+us Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomicol
+•
+•
+•
+Other
+Insufficient Data for Evaluation
+Unknown
+of a meteor
+RETURN TO:
+19.58
+14-31 0C1
+<<43.6012-1

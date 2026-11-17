@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:39:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4423808, "source_ctime_ns": 1793358509721718200, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-020-0001.tif", "source_mtime_ns": 1785681114000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-020-0001.tif", "source_sha256": "b00069219114b719b8c83309cc110b054f645acac2b5cba5cd137cbb2fc980b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 720, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+1 REPORT NO,
+AISS-UP08-102-55
+2 DATE RECD HQ 4602D AISS 3 DATE/TIME RECD
+IN OPS
+5 DAY TIRE 38P 3 1CHT ING
+19/04062-Max 55
+6 LOCATION OF SIGHTING
+Con Transisco, California
+8 MEANS RECD 9 INITIAL ACTION
+11 INVES ASSIGNED BYvestigation Authorized
+DATE INVES ASSIGNED
+1/A
+1/A
+(14 DATE IR RECD AT HQ
+15 DATE IP APPROVED
+B/A
+$17 AISOP FORM 5 FILED
+31 May 1955
+18 COMMENTS
+! 4 LOGGED BY
+4/10 Deitudder
+7 GEOREF
+TO INVES UNIT
+I/A
+13 ASSIGNING OFFICER
+N/A
+16 DATE IR SENT TO ATIC
+Explanation of D/I, 20th ADir indicates a natural airora?a phenomenon. Possibly ;
+the after-burer of a jet aircraft.
+19 CONCLUSIONS
+Possibly Aircrafti Jet Afterburner
+AISOP FORM 7 (2 APR 55)

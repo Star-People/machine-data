@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:02:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14647416, "source_ctime_ns": 1793357696093065944, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1548-545391-0010.tif", "source_mtime_ns": 1785564956000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1548-545391-0010.tif", "source_sha256": "96d0b47b8186445b2bd3de668b60a5255a3f33200de14b682a911ad00ff87b61"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 138, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MEsF REED
+
+OQ)
+
+RADIOSONDE MODULATOR
+AND TRANSMITTER WITH
+LIGHT ATTACHED.
+
+DAY PHOTOGRAPH
+
+Tock FH
+
+Declassification Authority: NND 57565

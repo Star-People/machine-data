@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:26:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1413186, "source_ctime_ns": 1793388732367225450, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531597/1344.jp2", "source_mtime_ns": 1785808431000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531597/1344.jp2", "source_sha256": "3f9f9e83de0d7081b1e8971b2d6ff90a5f56138f5b947a5613524fb67d48f905"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 837, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3 Feb 64
+3. DATE-TIME GROUP
+Local 18/13522
+GM T
+PHOTOS
+D Yes
+32 No
+7. LENGTH OF OBSERYATION
+B.5 seconds
+PROJECT 10073 RECORD CARD
+2. LOCATION
+47.30N
+170.10W
+4. TYPE OF OBSERYATION
+• Ground- Visual
+# Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+military
+8. NUMBER OF OBJECTS
+one
+9. COURSE
+180 deg
+10. BRIEF SUMMARY OF SIGHTING
+Object moving tarough 60 deg arc in 3.5 seconds.
+11. COMMENTS
+Meteor observation.
+Appeared to be closer and pm speed lesa than
+meteor. No indication of breaking up. No visible
+means
+dorizon. laion on object. Elevation at 65 deg above
+12. CONCLUSIONS
+Was Balioon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical Meteor
+Probabiy Astranomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+ATIC FORM 329 (REV 26 SEP 52)

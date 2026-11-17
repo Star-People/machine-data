@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:41:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5649046, "source_ctime_ns": 1793362923610830934, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0103.jpg", "source_mtime_ns": 1785685044000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0103.jpg", "source_sha256": "0de7c7dc20f44fce4bbb3e2af15dd97a20b6442ea6b5965ce46b1a9688d3160d"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 107, "method": "ocr", "page": 1, "variant": "clean-vision"}
+RECEIVED
+JAN 19 13 37 54
+MESSAGE CENTER BRANCH
+A. C. OF S., C-2. DA
+Declassification Authority: NND 923007

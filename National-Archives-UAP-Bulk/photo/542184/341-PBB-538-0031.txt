@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:03:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16274035, "source_ctime_ns": 1793366195848781014, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0031.jpg", "source_mtime_ns": 1785565497000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0031.jpg", "source_sha256": "032fb7904d4dc9450fb0680badeaa1526391c4f791d7466ded513076d74d3829"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 27, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+ee
+
+te
+
+Sena Deeks nee Ee

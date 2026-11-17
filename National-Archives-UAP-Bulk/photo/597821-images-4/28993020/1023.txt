@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:38:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4196212, "source_ctime_ns": 1793385379842556754, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993020/1023.jpg", "source_mtime_ns": 1785748102000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993020/1023.jpg", "source_sha256": "a814c7a4852ffb9a07ebb0ffd1e3dc9da3b7b9eade06bf63054333e46a30b4fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 808, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 25, D.C.
+REPLY TO
+AFCIN-1D2/Maj Schifferer/Jm/55986
+29 August 1961
+SUBJECT:
+(U) Transmittal of Australian Report - (Australia-87-1)
+AFSC (SCS-41)
+Andrews AFB
+Washingtion 25, D. C.
+Request the attached report be forwarded to FTD, Wright-Patterson
+AFB, Ohio.
+FOR THE CHIEF OF STAFF:
+ROBERT G. PROTHERTON
+Lt. Colonel, USAF
+International Liaison Division
+Assistant Chief of Staff,
+Intelligence
+1 Atch.
+Ltr fr Emb of Australia dtd
+24 Aug 61, orig (C) w/1 atch
+Ltr fr Dept. of Defence, Aust.
+128.1.21 (U)
+Ist Ind (SCFTR)
+Hq AFSC Andrews AFB 25, DC
+TO: FTD
+Forwarded.
+FOR THE COMMANDER
+1 SEP 1961
+Classificatio
+JR.
+- Colonel, USAF
+Director of Foreign
+Technical Analysis
+05.
+1 Atch
+n/c.
+FER
+THIS INDORSEMENT STANDING ALONE IS UNCLASSIFIED.

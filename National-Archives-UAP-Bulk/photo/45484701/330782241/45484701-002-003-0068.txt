@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:53:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9131934, "source_ctime_ns": 1793362123685729548, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0068.jpg", "source_mtime_ns": 1785684713000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0068.jpg", "source_sha256": "a6e2658f3232a8ce22fdf7460225a6a68dc29b112be53a35e3d777095d84678a"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 685, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ONFIDENTIAL
+There were no instruments attached to the baloons released by
+the Knoxville Weather Station.
+AT CHATRANOOGA,
+TONN
+On 21 September 1949 a check of the Winds Aloft Reports of the
+Weather Records Processing Center, Federal Building, Chattanooga, Tennessee,
+revealed the following:
+AT ROANOKE VA.
+1 Se
+49 (Baloon)
+Altitude (feet) 0400
+hr ss
+Direction
+2000
+W
+4000
+6000
+8000
+10000
+TISW
+Knots Per 4y
+20
+30
+39
+40
+36
+2000
+4000
+6000
+8000
+10000
+18000
+2000
+4000
+6000
+8000
+10000
+18000
+2000
+4000
+6000
+8000
+10000
+18000
+AT SPARTANBURG, B. C. (Balloon)
+0400 hrs
+(1 Sep 49)
+Direction
+2000 feet
+4000 feet
+6000
+8000
+10000
+WSW
+1000 hrs
+No Record
+CONFI
+AL
+Declassification Authority: NND 923007

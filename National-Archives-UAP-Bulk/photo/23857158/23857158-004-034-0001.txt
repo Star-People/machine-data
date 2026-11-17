@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:00:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12363318, "source_ctime_ns": 1793358732592546010, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-034-0001.tif", "source_mtime_ns": 1785681185000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-034-0001.tif", "source_sha256": "9d9cdef461fc63e44330ed72a35fcac1fc9c3bf0dc64ddbbe3183e4ff9094430"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 395, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+R 1723202
+COMDR 4602D AISS ENT AFB COLO
+142300Z
+UNCL
+DEFERRED
+COMEASTSEAFRON
+Lake Oxeechobee & Florida
+TMar55
+COMEADE
+SOMCADE
+. COMDE, 35TH AIR DIV
+220
+UNCLASSIFIED (ASIOP
+PD)
+RE UR MSG?@ 1815A MAR 55 CMM REF
+FLARES NOR LAKE OKEECHOBER CMM POSITIVE IDENT AS USAF NIGHT PHOTO MSN PD
+END
+ROBERT BRONSTEIN CAPT USAF
+OPN
+L1:98
+UNCL
+AY L JONES MAJ USAF
+ADJUTANT

@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:25:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1259417, "source_ctime_ns": 1793390142447417613, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546966/1139.jp2", "source_mtime_ns": 1785808420000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546966/1139.jp2", "source_sha256": "f7d6f8f18ea6a20fe4194ec842b3d005d6064bc51a0439c90a84881203b7cac3"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 498, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+31 January 66. 31/
+SOURCE
+Military
+1. NUMBER OF OBJECTS
+One
+S. LENGTH OF OBSERVATION
+N/A
+6. TYPE OF OBSERVATION
+Ground-Visual
+COURSE
+258 22KT
+8. PHOTOS
+• Yes
+X No
+9. PHYSICAL EVIDENCE
+1) Yas
+A NO
+FORM
+FTD SEP 63 0-329 (TDE)
+LOCATION
+PROJECT 10073 RECORD
+50-8N 31.1V (Atlantie)
+10. CONCLUSION
+Other (CONTRAILS)
+BRIEF SUMMARY AND AHALYSIS
+Observed a bright white flying object brail covering 15 deg
+of are.
+Appeared on horizon at 290 deg and disappeared
+over horizon at 140 deg.

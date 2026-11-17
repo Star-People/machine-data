@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T08:47:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7464011, "source_ctime_ns": 1793363337998535011, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0046.jpg", "source_mtime_ns": 1785684909000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0046.jpg", "source_sha256": "6624efbb38c68948df51f7d2bad43710b6762c740b90995536a8a7cbb3ebdf40"}
+
+===== PAGE 1 =====
+{"alpha_words": 311, "chars": 1844, "method": "ocr", "page": 1, "variant": "plain-vision"}
+"Police summoned a doctor who took Mrs. Hodges to his office and X-rayed her.
+He did not find any broken bones and sent her home.
+"Her husband did not know of any of this until he arrived home from work.
+"'We had a little excitement around here today', she told Hodges, in a wifelf
+fashion.
+'A meteor fell through the roof.'
+"The Hodges home is one of the oldest houses in the Sylacauga area. It is
+a rambling wooden house set among groves of old trees.
+"One witness to the explosion said that before it exploded, the meteor
+appeared to be a plane on fire.
+"'It was a blaze of fire with a lot of smoke', said Miss Lois Hore, 22, a
+waitress at the DeSoto Grill near Sylacauga.
+"She was standing outside waiting for a bus with two other women.
+"'One of them said to look at the plane on fire', Miss Hope said. 'We looked
+and there it was.'
+"Just at that moment, she said, it blew ur in a blinding flash and a lot of
+noise.
+"It appeared to come out of the southeast.
+"Several other persons in Sylacauga thought it was a burning plane also, and
+a search with some 30 or 40 airplanes got under way shortly to look for the crash.
+"There were variances in the descriptions of the smoke from the explosions.
+"In Sylacauga, it appeared black.
+iIn Birmingham and in other places at a distance, it appeared white.
+"There was immediate re-action to the meteorite story from over the nation.
+"Experts agreed unanimously that Mrs. Hodges was the first person known to
+have been struck by a meteorite.
+"Dr. W. A. Glenn, amateur astronomer and registrar at Birmingham-Southern
+College, said he never had heard of it before.
+"Dr. William Caulder, head of the astronomy department at Agnes Scott College
+at Atlanta, said that the injury of Mrs. Hodges was the first that he knew of that
+could be attributed to a meteor.
+11
+Declassification Authority: NND 923007
