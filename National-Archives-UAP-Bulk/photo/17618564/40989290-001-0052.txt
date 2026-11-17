@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:03:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1152003, "source_ctime_ns": 1793355923376405481, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0052.jpg", "source_mtime_ns": 1785564559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0052.jpg", "source_sha256": "eb3b89d2f0af81171e4c8c6471be0af4883a7eafaa0216616c4082acd449e089"}
+
+===== PAGE 1 =====
+{"alpha_words": 237, "chars": 1476, "method": "ocr", "page": 1, "variant": "plain-vision"}
+39
+until all relevant data had been gathered; and his own studies
+of supersonic windblast, in particular, were still incomplete.
+Nor was he overly impressed with the stated advantages of the
+escape capsule. In answer to the much-discussed comfort factor,
+he stated that "you can't build a weapon around a rocking chair
+just because a rocking chair is comfortable, "4 and he has
+pointed out that the capsule also has its own disadvantages.
+These include the larger target area offered by a capsule when
+used in combat; the difference in cost, with capsules likely
+to be at least five times more expensive than improved super-
+sonic ejection seats; and a great many technical complications,
+especially for low-altitude escape, which match or exceed the
+complications involved in firing the experimental Convair seat.
+There are things that can go wrong with the capsule
+itself after separation from the aircraft, so that it would
+still be wise to have a pressure suit handy,and ideally
+(in Colonel Stapp's words) to build inạan escape system for
+an escape system.→ 5r
+In this connection he has observed that
+the one recorded case in the United States Air Force of attempted
+capsular escape, in the X-2, was unsuccessful: the pilot
+managed to detach the capsule from the aircraft but the main
+capsule parachute failed to open, and the pilot was for some
+reason unable to abandon the capsule itself before impact, 66
+By contrast, supersonic survival with an open escape system has

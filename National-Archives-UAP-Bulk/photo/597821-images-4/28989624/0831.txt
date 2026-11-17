@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:16:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3238297, "source_ctime_ns": 1793384236993065844, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989624/0831.jpg", "source_mtime_ns": 1785748132000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989624/0831.jpg", "source_sha256": "6b6f278808fb3545d2c2ba69b63c6e12bfd8422d3d6a7d881d1eec63a94acb71"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 830, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+9 Oct 60ł
+3. DATE-TIME GROUP
+Local
+GMT
+5. PHOTOS
+09/0820z
+/ PROJECT 10073 RECORD CARD
+2. LOCATION
+Deberry, Texas
+4. TYPE OF OBSERYATION
+• Ground-Visual
+Di Ground-Radar
+D Air- Visual
+T. SOURCE
+El Air-Intercept Redar
+Civilion
+8. NUMBER OF OBJECTS
+9. COURSE
+one
+12. CONCLUSIONS
+D
+D
+a
+D
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Prebobly Aireroft
+Pessibly Aireroft
+Was Astronomicol
+Probably Astronomicol Meteor
+Possibly Astronomical
+Other
+Insufficient Date for Evaluation
+Unknown
+CONe
+7. LENGTH OF OBSERVATION
+1-2 sec
+10. BRIEF SUMMARY OF SIGHTING
+Rocket shaped object (long and thin), size
+and shape of six inch ruler, bluish-green,
+very bright. When it disappeared, it left a
+trail of reddish sparks.
+11. COMMENTS
+Description and duration are characteristie
+of a large meteor.
+ATIC PORM 329 (RZY 26 SEP 32)

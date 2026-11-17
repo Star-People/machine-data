@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:20:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4041050, "source_ctime_ns": 1793385232195637609, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992380/0448.jpg", "source_mtime_ns": 1785747992000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992380/0448.jpg", "source_sha256": "e0c3ec747e4590b9214bf1d8aee96a1e8c4414a3219c88cc66cb47a5aed236fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 856, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2 May 61
+3. DATE-TIME GROUP
+Local
+1958
+GM T
+0307587
+S. PHOTOS
+• Yes
+EL No
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+3400N
+4. TYPE OF OBSERVATION
+& Ground-Visual
+• Air Visual
+6. SOURCE
+17400W( FAUFIC)
+• Ground-Radar
+• Air-Intercept Radar
+Military
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Bailoon
+Possibly Balloon
+Was Aircraft
+Probabiy Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Echo I
+Insufficient Data for Evalu
+Unknown
+ll min
+1
+NE
+10.
+BRIEF SUMMARY OF SIGHTING Single bright light sightedCOMMENTS Space Track was queried to
+45° above horizon, bearing 120° true. Course
+determine if the objt sighted was a
+NE. Speed five° per minute. Disappeared
+satellite. They reported the objt
+below horizon at 08092 bearing 020° true.
+was the satellite Echo I.

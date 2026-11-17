@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:21:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4107046, "source_ctime_ns": 1793371619253744871, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939146/00324.jpg", "source_mtime_ns": 1785688810000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939146/00324.jpg", "source_sha256": "be7c280fd2dd1e5fe951fcf1b371e1768976bc357455843e441d84397523c77d"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 821, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+8 March 1951
+3. DATE-TIME GROUP
+Locol
+1740
+GM T
+08/08402
+PHOTOS
+• Yes
+ECHO
+7. LENGTH OF OBSERVATION
+9 minutes
+10. BRIEF SUMMARY OF SIGHTING
+No Case in File.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+45.09N 140.47E (Far East)
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air- Visual
+XXGround-Rodor
+D Air-Intercept Radar
+6. SOURCE
+Military
+6. NUMBER OF OBJECTS
+One
+Report from Project Card indicated that obj
+on course of 035 degrees. Report from FEAF.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+KWas Aircroft
+Probably Aircrof
+• Possibly Aircrat
+9. COURSE
+S & L Manuvers
+D
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Othor
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+Evaluated as Soviet A/C track by
+FEAF. Not UFO.
+CHRO ONLY.
+ATIC FORM 329 (REV 26 SEP 52)
+NO CASE IN FILE
+2-35

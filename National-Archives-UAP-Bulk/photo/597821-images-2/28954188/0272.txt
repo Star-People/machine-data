@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:20:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4031498, "source_ctime_ns": 1793374982738761755, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954188/0272.jpg", "source_mtime_ns": 1785696701000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954188/0272.jpg", "source_sha256": "603a3f0375a14eff644f6d614ce50bf091876ca94853e2310b8b79119e785223"}
+
+===== PAGE 1 =====
+{"alpha_words": 212, "chars": 1309, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 7
+34. Whot were the weather conditions at the time you saw the object?
+34.1 CLOUDS (Circle One)
+a Clear sky
+Hazy
+c. Scattered clouds
+d. Thick or heavy clouds
+•. Don't remember
+34.2 WIND (Circle One)
+a. No wind
+Slight breeze
+c. Strong wind
+d. Don't remember
+34.3 WEATHER (Circle One)
+Dry
+b. Fog, mist, or light rain
+c. Moderate or heavy ruin
+d. Snow
+e. Don't remember
+34.4 TEMPERATURE (Circle One)
+a. Cold
+b. Cool
+C. Warm
+d. Hot
+e. Don't remember
+35. When did you report to some official that you had seen the object?
+3/ST
+MARCH
+1953 PHOENIX - CAA - CONTROL
+Day
+Month
+TOWER
+36. Was onyone else with you at the time you saw the object?
+(Circle One)
+36.1 IF you answered YES, did they see the object too?
+(Circle One)
+No
+No
+36.2 Please list their nomes and addresses:
+TOM- REMP - DRILLING SUPT. STANSBURY INC.
+BAKERSFIELD CALIF.
+37. Was this the first time that you had seen on object or objects like this?
+(Circle One)
+Yes
+No
+37.1 IF you answered NO, then when, where, and under what circumstonces did you see other ones?
+38. In your opinion what do you think the object was and what might have caused it?
+IT COULD HAVE BEEN A RADAR FOIL WEATHER
+BALLON TRACKING DEVICE AND WE WERE CLOSE TO
+IT MAKING IT APPEAP VERY FAST. ALTASUGH I
+UHDERSTAND A JET PiLOT SPITED AN OBJECT AT ABST
+THE
+SAME TIME NEAR THERE.

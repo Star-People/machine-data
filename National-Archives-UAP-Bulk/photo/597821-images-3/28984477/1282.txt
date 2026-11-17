@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:26:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5069414, "source_ctime_ns": 1793382546721467496, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984477/1282.jpg", "source_mtime_ns": 1785700862000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984477/1282.jpg", "source_sha256": "19b316fbd2aaa56bade94741489ec68c47eeb71ec0f21662ef01c443279ac034"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 483, "method": "ocr", "page": 1, "variant": "plain-vision"}
+15 Sарб7
+FRANPARK, PA
+FOI-3d/MaJ Tacker/nho/72
+30 October 1959
+Dear Mr.
+This is to acknowledge your letter of 9 October 1959
+requesting details on the Frick Park, Pittsburgh UFO found
+on 15 September 1959.
+For your information, I am inclosing a copy of the ATIC
+report on this matter.
+Sincerely,
+Inclosure
+LAWRENCE J. TACKER
+Major, USAR
+Public Information Division
+Office of Information
+Mr .*
+Secretary, WICAP
+Washington O,
+., N. W.
+0275
+Comeback 0I-3d-
+Reader OI-1
+100 001 20 12 00

@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:16:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2102646, "source_ctime_ns": 1793360183867160607, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-028-0003.tif", "source_mtime_ns": 1785681652000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-028-0003.tif", "source_sha256": "43876bec71ee38003970b45f14437fed12ef027f4212b10ebe4d0cbf95060034"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 729, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AISOP
+Comdr, 4602d AISS
+Long Distance Telephone Call
+AISOP
+7 May 56
+1100 hours
+AISS Log #1
+S/Sgt DeRudder/4542
+MEMORANDUM FOR RECORD:
+Telephone conversation between S/Sgt Deludder, this headuarters, and S/Sgt
+Pahl, Flight 2-D.
+2. The undersigned called Flight 2-D to authorize the investigation of a UFOB
+sighted at Cklahoma City, Oklahoma, at 07/Oul0Z May 56. The investigation will
+involve no IDY due to the proximity of the sighting. AF Form 112 is to be submitted.
+It was requested that Fit 2-D place the date-time group of the jump on
+their It Msgs indicating that a parachute jump had been performed by their unit.
+Ponald 10. Nihudder
+Ronald D. DeRudder, S/Sgt, USAF
+AIC, UFOB Program

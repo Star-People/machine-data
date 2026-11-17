@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:35:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6799736, "source_ctime_ns": 1793381136050101124, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979370/0969.jpg", "source_mtime_ns": 1785700614000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979370/0969.jpg", "source_sha256": "832dc956fb0cceff54d028d4c17f692254c6d862d1bbe71660f3edebb91a03e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 269, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NO CASE (INFORMATION ONLY)
+SOURCE: SAUCER NEWS, Oct, Nov 1958
+3 Aug 58
+New Jersey
+...Persons in widely scattered parts of northern New Jersey reported last Aug.
+3rd that they had seen a bright glowing ball circling just beneath the moon on
+the previous Friday night...

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:14:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1754698, "source_ctime_ns": 1793388995740301519, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535297/00221.jp2", "source_mtime_ns": 1785808085000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535297/00221.jp2", "source_sha256": "b7aeecf1eda6f80efe0508bda206e3b71cace91b4fd048f86ee2f9a1b0a86feb"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 574, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+August 1964
+1. SOURCE
+0100
+01vi lion
+NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERYATION
+15 Minutes
+TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+Southeast
+8. PHOTOS
+2. LOCATION
+nsfield Center, Connecticut
+10. CONCLUSION
+SATELLITE
+BRIEF SUMMARY AND ANALYSIS
+Object was a very bright white and sharply outlined. It
+disappeared over the horizon it went behind a tree und
+reappeared.
+Had no sound. The second time observer sighted
+object it appeared to jump or wiggle across the sky.
+PHYSICAL EVIDENCE
+O Yes
+FOR+
+FTD SEP 63 0-329 (TDE) Previous editio
+i be used.

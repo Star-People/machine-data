@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:34:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6629772, "source_ctime_ns": 1793376779376626101, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961961/0198.jpg", "source_mtime_ns": 1785696746000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961961/0198.jpg", "source_sha256": "d10a65c4a03d15c468a4cfc527bcf2500d2607f860f3aae816054e559f3afa43"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 887, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+He nay 1955
+3. DATE-TIME GROUP
+Local
+GM T
+12/03357 May 1955
+5. PHOTOS
+O Yes
+7 No
+7. LENGTH OF OBSERVATION
+2. LOCATION
+Oklahoma
+I. TYPE OF OBSERVATION
+2 Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+6. NUMBER OF SECT T/S COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unk no wn
+1 Seconds
+10.
+BRIEF SUMMARY OF SICHTING
+Cas (1)
+Due North
+11. COMMENTS
+Procably Astronmical
+One (1) round, ball-shaped object, yellow-
+Description of sighting strongly sug-
+red, with blue streaks behind, was observed
+gests meteor activity.
+to streak across the sky from south to north
+with practically no change in azimuth. Speed
+was estimated at 100-150 MPH..
+AISOP Form 5 (15 Oet 54)

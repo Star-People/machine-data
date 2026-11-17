@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:40:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8257576, "source_ctime_ns": 1793383625515140601, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987456/1096.jpg", "source_mtime_ns": 1785747948000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987456/1096.jpg", "source_sha256": "0e30dab5e50a6700e18f55fff521ffeb42ea7c039a98bde95b118ced37b6ac43"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 684, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Place of observation:
+REPORT FORM FOR UNIDENTIFIED OBJECTS
+Information marked * is vital
+Claremant, N.H.
+Date: June 27, 1960
+* Time: 10:30 pm.
+(Cive Tine Standard and whether a.m.orp.m
+» Accuracy of Mine given above:
+Direction in which obJect was First seen:
+{TO N, or SE,
+or Www. etc.)
+Direction in which object was last seen: NNE
+* Length of time object was seen: several minute (about 2 - 3)
+* Apparent direction in which object travelled: NE
+(N-S; SW-NE, W-N, etc,)
+Did it change direction? No.
+General impression of speed:
+Slow. (about that of a plane).
+ald shape (11 any): Oblong to round
+(If just like a acar, say
+"star-lice")
+? Brightness and color: Reddieh to orange-colored

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:59:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 939453, "source_ctime_ns": 1793355914779272932, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989289-001-0021.jpg", "source_mtime_ns": 1785564557000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989289-001-0021.jpg", "source_sha256": "283b1cb6b896ccf9d458152417bead316fef96817003a5c0d47e56cde25792fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1279, "method": "ocr", "page": 1, "variant": "plain-vision"}
+15
+the Air Force Missile Test Center, Patrick Air Force Base,
+Florida.
+Although the Department of the Air Force displayed
+strong signs of indecision in regard to consolidation,
+Air Materiel Command proceeded on thé "premise that all
+air-to-air, air-to-surface, and surface-to-air missile
+50
+test programs" would be conducted at Holloman.
+Regarding
+Holloman as a permanent Air Force guided missile test center,
+the Command "planned to conduct all initial firings of
+surface-to-surface missiles" at the New Mexico installation,
+feeling that in the primary stages of testing,ạthe ac-
+cumulation of accurate missile flight test data is more
+practical from an overland range than from an overwater
+range. #51
+Previous testing programs at Holloman had been
+"highly satisfactory," providing both the Air Force and the
+contractor with "a wealth of test data, as well as having
+resulted in the accumulation of a large amount of oper-
+ational experience in the launching of guided missiles."
+These results had been obtained despite the utilization
+of the range by both the Air Force and the Ordnance Depart-
+ment, mainly because firings had been "closely coordinated
+and "extremely good relations" existed at the "working level."
+For these reasons the Command believed that any attempt to

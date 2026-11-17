@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:06:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1664706, "source_ctime_ns": 1793390808094910431, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553623/0356.jp2", "source_mtime_ns": 1785808514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553623/0356.jp2", "source_sha256": "e5878761d506a8782a6a4adc66314ff84892d6ee2bda47636704331e65e75afa"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 284, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LIST of ATTOUNENTS
+1. DRAWINE y ARRANGION A HARAS
+2. PRAWING A DAMe SANO AROA
+3.
+9 PHOTOGRAPAS (6 TO BOS ROTUMO)
+4. 2 MAPS OL PRESQUE/SCO AROSA
+PROVIDUSEY FORWARDEO BY AIRCRAFT
+1 FULL CAST - EAST HOLE
+1 PARTIAL CAST W. AOLE S SURAOUNZING SANDO
+5 SAND SAMPLES FROM ÈÉW OMAP SAND AREAS

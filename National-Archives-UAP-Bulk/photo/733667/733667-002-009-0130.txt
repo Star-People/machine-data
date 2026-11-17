@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:56:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 521774, "source_ctime_ns": 1793394397911591495, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0130.jpg", "source_mtime_ns": 1785567364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0130.jpg", "source_sha256": "9253ba27897e9087a5dd91b7266ef2ace434e33573ca6a4553396e6625e78934"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 83, "method": "ocr", "page": 1, "variant": "clean-vision"}
+PM
+946
+> M:=
+1009
+FAA
+701 Cst. BoX 14ł
+Anchorage, Alaska.
+98513
+@ USPS 1985
+ISA
+14

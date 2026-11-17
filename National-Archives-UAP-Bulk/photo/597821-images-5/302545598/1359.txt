@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:04:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1412589, "source_ctime_ns": 1793390016444182935, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545598/1359.jp2", "source_mtime_ns": 1785808236000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545598/1359.jp2", "source_sha256": "1c26d4c979e4fb9b4fae3298ece6c43b6c6b32f9fc4f6410d2ebb3559b43802b"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 940, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE - TIME GROUP
+2. LOCATION
+20 Cctober 65
+SOURCE
+21/01502
+Civilian& Military
+1. NUMBER OF OBJECTS
+eme
+5. LENGTH OF OBSERVATION
+10 min to 1 Hour
+6. TYPE OF OBSERVATION
+Ground-Visual
+7. COURSE
+Stationary
+8. PHOTOS
+I Y. Not Submitted
+• No
+9. PHYSICAL EVIDENCE
+• Yes
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous aditions of thie form t
+Baker, Oregon
+10. CONCLUSION
+Astro (CAPELLA)
+Capella in position of reported object.
+11. BRIEF SUMMARY AND ANALYSIS
+All bbservers stated the object was round, red, whits and
+blus-green and resembled a star.
+Seemed larger than a normal
+star or planet. Slight blinking or twinkling like a normal
+star through a haze layer. Short white tall,
+intermittently.
+Object was 50 deg elevation and 15 deg azimuth.
+Remained
+in a fixed position relative to stars in the constellation of
+Caseppia and Great Bear.
+In approx 1 hours time object moved
+15 to 20 deg III.
+Photos were taken but not submitted.

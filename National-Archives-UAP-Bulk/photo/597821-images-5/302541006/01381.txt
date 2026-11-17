@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:02:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1021511, "source_ctime_ns": 1793389450003295953, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541006/01381.jp2", "source_mtime_ns": 1785808209000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541006/01381.jp2", "source_sha256": "97a0ba1de56a64fb85aee9c28731f3c8f5e023649a5243cbc85e6d9fd1fb0b16"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 770, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- INCOMING
+MESSAGE
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED
+An IN : 50672 (6 Aug 65)
+1, GROUND-VISUAL
+2. NO OPTICAL AIDS
+3. N/A
+PAGE 3 RUMUDAA 1926 UNCLAS
+D. TIME AND DATE OF SIGHTING:
+1. ZULU TIME-DATE: 0430Z; 2 ALG 65.
+2. LIGHT CONDITIONS: NIGHT
+E. LOCATION OF OBSERVER: 034 DEGREES 47" N 102 DEGREES 27' W.
+APPROXIMATELY 3 MILES SW OF HEREFORD, TEXAS ON U.S. HIGHNAY 60,
+F. IDENTIFYING INFORMATION ON OBSERVER:
+1. CIVILIAN - MRS U
+, AGE 44,'
+CLOVIS, NEW MEXICO, HOUSEWIFE. ESTIMATE OF RELIABILITY: NOT
+RELIABLE.
+G. WEATHER AND WINDS - ALOFT CONOITIONS AT THE TIME AND PLACE OF
+SIGHTINGS:
+1. OBSERVERS'S ACCOUNT OF WEATHER CONDITIONS: CLEAR
+2. REPORT FROM AWS:
+ALTITUDE
+WIND DIRECTION
+VELOCITY (KTS)
+SURFACE
+100 DEGREES
+4
+6, 229'
+360
+19
+pg 3 of 5

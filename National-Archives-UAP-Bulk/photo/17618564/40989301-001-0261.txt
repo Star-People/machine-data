@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:00:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 991302, "source_ctime_ns": 1793356085867251517, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0261.jpg", "source_mtime_ns": 1785564602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0261.jpg", "source_sha256": "5b242d6481bb12a9d4548932890fbc4414a2bc5d370e7c478f94f4f023864893"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1385, "method": "ocr", "page": 1, "variant": "plain-vision"}
+GLOSSARY
+Altitude Sensitivity:
+Balloon Inflation:
+Ceiling:
+Equipment Load:
+Floor:
+Free Lift:
+Gross Lift:
+Gross Load:
+Pressure Altitude:
+Pressure Height:
+The altitude gained by a balloon when its
+load is reduced by one kilogram.
+Gas inflation to be given the balloon in
+terms of initial lift of the balloon
+(equals weight of equipment load plus free
+lift plus allowance for gas losses before
+launching).
+The locus of pressure altitudes at which a
+non-extensible balloon will float when gas
+losses are slightly over-compensated for
+by ballast losses.
+Weight of all equipment, rigging, and ballast
+hung from the balloon shrouds not including
+balloon or its integral parts.
+The locus of altitudes at which a balloon will
+float when lift losses are exactly compensated
+for on a demand basis by ballast dropping.
+In practice, this is determined by the opera-
+tion of the automatic ballast release and
+is some altitude below the ceiling.
+Net lift of the balloon with the equipment
+load attached.
+Lift of all of the gas in the balloon at re-
+lease (equals weight of the balloon, equip-
+ment load plus the free lift).
+Load on the gas at release (balloon plus
+equipment load weight).
+The altitude at which a non-extensible bal-
+loon becomes fully inflated.
+The height above mean sea level as determined
+from pressure measurements used in this work
+with the N. A. C. A. Standard Atmosphere.
+-79-

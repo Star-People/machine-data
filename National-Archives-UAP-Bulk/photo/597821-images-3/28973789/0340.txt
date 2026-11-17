@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T17:40:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8248139, "source_ctime_ns": 1793379888829871549, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973789/0340.jpg", "source_mtime_ns": 1785700713000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973789/0340.jpg", "source_sha256": "5c68fcb8812288a3e76f4fd0391f7785b6126fde80b53a21f1262915f0e966ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 648, "method": "ocr", "page": 1, "variant": "plain-vision"}
+.. .
+· 5?
+WPC% 58 YDD041 XYCØ 69PTAØ268XA0 285WD C2 55EWDK0 37
+PP RJWPJE RJWPSE RJEPHQ RJEDDN RJEDWP
+DE REWDKW 1
+P 0715002
+FM COMARFC 2347THÍ
+TO RJEDDN/COMDR AIR DEF COMMAND
+RJWPJE/COM 27 AIR DIVISION DEF
+RJEDWP/COM AIR TECH INTEL CEN
+RJEPHQ/DIR OF INTEL HQ USAF
+INFO RJWPSB/COM 4AF
+AF GRNC
+ET
+UNCLAS FROM DO-K 0078 ATIN: INTELLIGENCE OFFICER, HAMILTON AFB CALIF
+UFOB THE FOLLOWING THREE REPORTS ARE SUBMITTED
+ACCORDANCE VITH PARA 7D AF RES 290-2, 12 AUGUST 1954. ITEMS 7D (7)
+(E) THROUGH (12) ARE EQUALLY APPLICAPLE TO EACH REPORT.
+(1)
+(A) TWO LARGE WHITE BRIGHT LIGHTS
+(E) DIME
+(C) WHITE.
+(D) ONE, WITH TWO LIGHTS.
+(E) NONE.
+(F) APPEARED OBLONG.

@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:32:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6353563, "source_ctime_ns": 1793363173178458521, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0169.jpg", "source_mtime_ns": 1785684747000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0169.jpg", "source_sha256": "edc217d8751f43e2b68f225b0529c72df15bd223658a3d4f93527f61443aacb5"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 490, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFI
+5D-24-21GG
+UNTDENTIFIED AERIAL OBJECT
+Gineinnati, Ohio
+UNDEVELOPED LEAD
+DISTRICT OFFICE NO. 24, CHIGAGO, ILLINOIS
+AT WARREN, MINNESOTA
+Will interview Mr. WALTER C. SIREK, Operator of a Service
+Station on a main highway in Warren, Minnesota and obtain from
+him the unidentified serial object about which Mr. MARTIN
+PETERSON wrote to the Air Force.
+Will forward this object to
+District office No. 5, Wright-Patterson Air Force Base, Dayton,
+Ohio.
+Declassification Authority: NND 923007

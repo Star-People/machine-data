@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T18:32:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6529286, "source_ctime_ns": 1793361968196703939, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0087.jpg", "source_mtime_ns": 1785685166000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0087.jpg", "source_sha256": "343101a4e5c9b93b03a59a00cccd083c50c0bd2c06ed90cee44da24f6f917524"}
+
+===== PAGE 1 =====
+{"alpha_words": 306, "chars": 1964, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Statement taken by:
+DONALD C. HILDRETH
+Special Agent, OSI
+STATEMENT
+MoChord Air Force Base, Washington
+28 December 1948
+Statement of
+ALBERT R. ANDREWS
+Sgt
+(Name & Grade)
+AF-37368334
+(ASN)
+635th Aireraft Control and Warning Squadron,
+MoChord AFB, Washington.
+(Organization)
+My name is Sgt AIBERT R. ANDREWS. I was born on the 26th day of June
+1917, at Buffalo, Missouri. I enlisted in the United States Air Force on
+the 9th day of September 1947, at Buffalo, Missouri.
+I make the following statement after having heard the 24th Article of
+War, which was read and explained to me by DONALD C. HILDRETH, whom I know to
+be a Special Agent, Office of Special Investigations. No force, threats, or
+promises have been used to induce me to make this statement and I realize that
+anything I say may be used for or against me in a court of law.
+On October 30, 1948, I, Sgt ALBERT ANDREWS, went on duty as Controller
+at Pacific Beach, Washington, at 0800 hours, and was relieved by Sgt BULLOCK
+at 1600 hours. At somewhere around 1500 hours I received a call from Control
+Station telling me that they were sending an aircraft to our station. We
+picked him up on our Radar and then Capt. PIPES took over as Senior Controller.
+I think that Capt. PIPES gave him a new Vector at about or near 1600 hours
+to bring the plane back over our station.
+To the best of my knowledge, no unidentiried objects were picked up on
+our Radar moving at a great speed.
+I have read the foregoing statement, which consists of this one page,
+know the contents thereof and swear the same to be true to the best of my
+knowledge and belief. Before executing oath I have been given the opportunity
+to make any modifications, additions or corrections that I desire.
+FURTHER DEPONENT SAYETH NOT.
+allut P:andreus
+Let. A.F. 373683541.
+Sworn to and subscribed before me
+this 28th day of December 1948
+Lulle
+J. E. KUTTLER
+Captain, USAF
+Summary Court Officer
+INCLOSURE #1
+Declassification Authority: NND 923007
