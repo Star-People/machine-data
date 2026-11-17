@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:35:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 815297, "source_ctime_ns": 1793394303245092933, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-004-0038.jpg", "source_mtime_ns": 1785567351000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-004-0038.jpg", "source_sha256": "3108be275482f7e5622742ea358eb5dfcb1a20944a6c71615dade348e1e761fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 195, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Marilyn Huff
+The Huff Group
+15802 Springdale St., #103 :
+Huntington Beach, CA 92649
+ANA. CA
+PM
+(0)
+1987
+FAR
+701 C St. Box 14.
+Enchorage Alasta
+99513
+NEXT D&›
+EXPRE E
+CONTACT YOUH POST E F
+USA
+22

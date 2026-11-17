@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:48:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6184430, "source_ctime_ns": 1793354670495372090, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0100.jpg", "source_mtime_ns": 1785564322000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0100.jpg", "source_sha256": "3f93b15016a95c118b5f46e5c6075c1a5ddbd78d2357176f9b405da94d0f466c"}
+
+===== PAGE 1 =====
+{"alpha_words": 364, "chars": 2160, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Do you know who wrote that letter?
+Yes, sir, Colonel Adams' handwriting.
+How do you recognize the handwriting?
+I recognize it.
+- show you Prosecution Exhibit 16 for Identification (TC shows document
+which had been marked Prosecution Exhibit 15 for Identification to witness);
+do you know what this is?
+He wrote this when he was going on emergency leave.
+Who wrote it?
+Colonel Adams; he was on his way to Albuquerque to catch a plane.
+How did you receive this letter?
+At my apartment; it was slipped under the door next morning.
+Who left it there?
+A. Colonel Adams did - it was in his handwriting.
+& Lieutenant Goodnough, going back to January 1956 to this incident; are you
+sure you're telling the court the truth today?
+I'm positive, sir.
+DC :
+I object again, sir; he's gone over that incident several times and I
+think it's just purely repetitious.
+TC: I withdraw the question.
+IO: Do you withdraw the question?
+TO: Yes, sir, I withdraw the question.
+Pres:
+May I repeat that there is no rush to break up at four o'clock if he
+wants to continue.
+IO: I think it would be wiser under the circumstances to let the prosecution
+present their direct testimony today
+and then we can close.
+Pres: Time is ample, say until they finish - it's immaterial.
+Questions continued by the prosecution (TC):
+Lieutenant Goodnough, in your own words I'd like for you to tell the court
+how you went to Sheppard Air Force Base Hospital - the circumstances. Would
+you tell the court in your own words, on or about the ist or 2nd of August 1950.
+On or about the 28th, 29th of July I was on leave and I was called and told
+to report in from leave Sunday night, to report in at 0700 Monday morning so...
+IC: Talk up if you would, please; I appreciate that you.. it is difficult, but
+I would appreciate it if you could please talk up...please.
+Response continued by the witness:
+I was told to report in from leave at 0700 Monday morning for a physical
+examination; I didn't...I wasn't told about a TDY or anything and I came out
+Monday morning, received orders and it was TPA which...I left then and went
+home to make arrangements to leave and about ten o'clock my husband came home
+86

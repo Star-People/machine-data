@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:36:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 993717, "source_ctime_ns": 1793393501627405104, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578104/0630.jp2", "source_mtime_ns": 1785808690000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578104/0630.jp2", "source_sha256": "4f62b2ffd8dd634189e4dac45419d45b13e951a9c005766beae0283bd79c0822"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 791, "method": "ocr", "page": 1, "variant": "plain-vision"}
+12 Gil: 8
+I DPT (UPO) It Col Quintanilla/70916/mhs/12 Nov 68
+UFO Observation, 12 July 1968, Omaha, Nebraska
+Dr J Allen Hynek
+Reference our letter of 30 September 1968, with regerds to the
+unidentified flying object sighting of 12 July 1968 from Omaha,
+Nebraska. To date we have not received the results of your in-
+vestigation. If you did not actually investigate it in any
+form please notify us so that we can take the appropriate action.
+If you did contact the observers, please comply with our requests,
+as stated in our letter of 30 September 1968.
+Request your
+compliance,
+with contents of this letter, on or before
+25 November 1963.
+IDPT (UPO) OFFICIAL FILE
+ACTOR QUINTANILLA, Jr, It Colonel, USAF
+/Chief, Aerial Phenomena Branch
+Aerospace
+Technologies Division
+Production Directorate

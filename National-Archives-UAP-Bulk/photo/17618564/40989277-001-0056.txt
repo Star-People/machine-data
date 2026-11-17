@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:34:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 738553, "source_ctime_ns": 1793355830112529055, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0056.jpg", "source_mtime_ns": 1785564535000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0056.jpg", "source_sha256": "d8a120fd41df6b47fd4cffe043285cc6fc90846adde1e01686f7ea7e8e38654e"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 770, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON, DC
+Office of the Secretary
+5 July 1995
+MEMORANDUM FOR AF/XOX
+FROM: SAF/AAZD
+SUBJE: ROSWELL REPORT
+Attached are three copies of the narrative portions of the "Roswell Report" that you
+requested on 5 July 1995. The entire report with attachments is presently in the process of being
+published by the Government Printing Office and should be available sometime this summer. I
+have added your office to the distribution list for the published report. If additional information is
+required I may be reached at (703) 604-4788.
+Somes Mil
+JAMES MCANDREW, IST LI, OSAFR
+SAF/AAZD
+Attachments:
+1. Report of the Air Force Research Regarding the
+"Roswell Incident" (3 copies)
+2. Attachment 32, Synopsis of Balloon Research
+Findings (3 copies)

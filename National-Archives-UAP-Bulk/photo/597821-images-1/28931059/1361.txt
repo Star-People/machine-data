@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:06:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5001833, "source_ctime_ns": 1793369241357416218, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1361.jpg", "source_mtime_ns": 1785688780000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1361.jpg", "source_sha256": "ed9996d5144c99aa99f63a3ea7a0fc41b7b58678711383da6f8b23f1b44e0311"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 498, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ROUTINE
+MULTIPLE
+ADORESS
+FROM:
+TELETYPE MESSAGE
+AIR SERVICE COMMAND TELETYPE NETWORK
+DATE 2 August 16
+TO
+PAT AT
+PATSKET,
+NATAD AIR
+STATION
+FUN. MCCOY
+CHIE OF INTELLE ICE
+NAME, RANK AND TITLE OF AUTHEN
+ICATING OFFICER
+CLASS:
+TELETYPE NO:
+NCIAXC-6-1
+REVUEST
+ORATIN
+CONCENDIC THE FLIT
+IMBER ON SIX FOUR, FROM LOTTIE FELO,
+DEPARTURE TE
+DEBTS IT OF ARRIVAL
+ME LOCKHEAD CONSTITUTION,
+: TINS OF
+2ED, COURSE CLOT. RAPIX TO
+HICAL INTELI ICE DIVISION
+C. G. OR C. O
+OFFIC
+SUPPLY
+BUISCAL A
+OTHERS
+COORDINATION

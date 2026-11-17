@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:01:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9631915, "source_ctime_ns": 1793385759363181842, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994079/0514.jpg", "source_mtime_ns": 1785748254000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994079/0514.jpg", "source_sha256": "5b840751d7ac5a64f6ad5629b9580f60778c9a4e87bf91edf75c3aa98e144167"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 580, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJWFDS 27
+A. GROUND-VISUAL.
+B. NO OPTICAL AIDS.
+C. N/A
+4. TIME AND DATE OF SIGHTING.
+A. 2940Z, 14 AUG 6ł
+B. NIGHT
+5. LOCATION OF OBSERVER: 32 DEG 15 MIN NORTH, 121DEG 3% MIN
+WEST, WEBE AFB, 2 MILES WEST OF BIG SPRING, TEXAS.
+6. IDENTIFYING INFORMATION OF OBSERVER.
+A. N/A
+B. USAF, RICHARD T. DAHLEM, SSCT, 3562TH CIVIL ENGINERRING
+GROUP, GOOD.
+7. WEATHER AND WINDS.
+A. EXCELLENT, CLEAR, NO MOON, MANY STARS VISIBLE.
+B. 0255C, CLEAR, 15 PLUS 69/57 WIND 140 DEG AT 5 KNOTS,
+ALT 30.07. 2355C, CLEAR, 15 PLUS 69/57, 140 DEG AT 7 KNOTS,
+ALT. 32.27.
+C. NONE
+D. CLEAR
+E. NONE

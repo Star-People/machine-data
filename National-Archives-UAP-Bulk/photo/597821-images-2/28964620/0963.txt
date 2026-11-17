@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:52:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3676155, "source_ctime_ns": 1793377620392367615, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964620/0963.jpg", "source_mtime_ns": 1785696564000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964620/0963.jpg", "source_sha256": "0001278bf3d99799af6b698c693ceb6d9d66bb43f3624e0068099220bb38718b"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 969, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+21 January 1956
+3. DATE-TIME GROUP
+Local _
+GMT 21/0804Z
+5. PHOTOS
+• Yes
+EXNo
+7. LENGTH OF OBSERYATION
+8 seconds
+PROJECT 10073 RECORD CARD
+2. LOCATION
+at sea 215 Mi SE of Burmuda
+4. TYPE OF OBSERVATION
+XX Graund- Vi sual
+• Ground-Radar
+• Air- Visual
+• Air-Intercept Radr
+6. SOURCE
+Civ ships officer
+8. NUMBER OF OBJECTS
+9. COURSE
+one
+North
+COMMENTS
+12. CONCLUSIONS
+•
+Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probabiy Aircraft
+•
+Possibly Aircraft
+•
+Was Astronomical
+Probably Astronomical
+EXPossibly Astronomical (METEck)
+, Other
+•
+Insufficient Data for Evaluation
+Unknown
+flame. Its length was about five
+times
+the diameter of object. Object
+traveled at high rate of speed and
+constant until it disappeared. No
+change in speed.
+change
+passage of object into atmos-
+pheric conditions conducive to
+distortion, such as an inversion
+Also burning appeared to be in
+two phases, initial glow and
+then burning with tail.
+ATIC FORM 329 (REV 26 SEP 52)

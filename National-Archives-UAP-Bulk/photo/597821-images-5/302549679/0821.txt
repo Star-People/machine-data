@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:45:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1477404, "source_ctime_ns": 1793390407230682399, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549679/0821.jp2", "source_mtime_ns": 1785808230000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549679/0821.jp2", "source_sha256": "03cdc07e96b91bf0ba2c37c6c99420083383d599900e8c4c4e0c01f7fced6737"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 315, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 54362 (19 Apr 66)
+Page 5 of 5
+VISIBLY SHAKEN BY THE SIGHTING. THIS IS AN INTER IM
+REPORT. AFTER THE INVESTIGATOR INTERVIEWS MRS GROVES
+PERSONALLY, THE FINAL DETAILED REPORT WILL BE SUBMITTED.
+FORM
+AFHQ JAN 65 0-309C
+UNCLASSIFIED

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:43:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1376763, "source_ctime_ns": 1793392016316455747, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563329/0727.jp2", "source_mtime_ns": 1785808454000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563329/0727.jp2", "source_sha256": "90730742fe9243ed5e4b86300478b39bd973c63206b36504b770dae4a9cfd3e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 743, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PHOTO ANALYSIS REPORT NR_68-3
+Bar 1967
+PAGE L OF _1
+DATE OF REPORT 12 Jan 68
+_ PAGES
+SUBJECT
+LOCATION
+UNIDENTIFIED FLYING OBJECTS
+Yonkers, New York
+DATE
+2u hagat?
+PHOTOGRAPHY
+AF
+P NRS
+QUALITY
+8mm movie film
+1. PURPOSE: This report is written to fulfill a request, Work Order Number 67-112, submitted
+by Major H. Quintanilla, Jr., TDEr/UFO, to determine the identity of the unidentified objects
+which appear in the attached movie film.
+2. ANALYSIS: Lack of image definition precludes identification of the above referenced
+objects.
+PHOTO ANALYSIS BY:
+APPROVED BY :
+ROBERT D. MYERS
+buyer
+Intelligence Résearch Specialist
+WILLIAM L. TURNER
+Major, USAF
+Chief, Photo
+Analysis Branch
+Nit
+WILBER PRICE JR.
+Chief, Photo Exploifatibn Division
+reth
+132

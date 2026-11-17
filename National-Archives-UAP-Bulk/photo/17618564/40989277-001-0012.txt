@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:34:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 607681, "source_ctime_ns": 1793355827639255799, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0012.jpg", "source_mtime_ns": 1785564535000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0012.jpg", "source_sha256": "0a445ba8d8a7480ef3b0df0010a29f54ca17676352bfee2faf9fccada60302c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 681, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON, DC
+Office of the Secretary
+23 September 1996
+SAF/AAZD
+1720 Air Force Pentagon
+Washington, D.C. 20330-1720
+Jon A. Maguire
+C/O Schiffer Publications
+FAX (610) 593-2002
+Dear Mr Maguire
+I have recently reviewed your book, Gear Up, and would like to ask you a few questions
+regarding post-war Army Air Forces and U.S. Air Force uniforms. I am currently conducting
+research for a report for the Secretary that touches upon uniform issues. I may be reached at
+(703) 604-4788. Congratulations on Gear Up- a catchy title, and a well done, beautifully
+printed, reference tool!
+Sincerely
+JAMES McANDREW, Capt, USAFR
+Declassification and Review Officer

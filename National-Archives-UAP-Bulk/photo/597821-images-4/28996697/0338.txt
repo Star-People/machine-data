@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:56:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4027763, "source_ctime_ns": 1793386594428948462, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996697/0338.jpg", "source_mtime_ns": 1785748440000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996697/0338.jpg", "source_sha256": "e4acf2de742d0a47ebc9c7b6d64d561f3253e8a20d09b2e105482f2da0f610ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 426, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NNNNWPA239CZCSQE842ZCWYC827
+15 APR62 18 132
+RR RJEDSO
+DE RJWFKS 8A
+ZNR
+АСТЮМ /
+2
+R 161723Z
+FM TECHTNGCEN KEESLER AFB MISS
+TO RJEDSQ/FTD WPAFB OHIO
+INFO RJEZHQ/HQ USAF WASH DC
+RJEZFF/AFSC ANDREWS AFB MD
+RJWFBS/ATC RANDOLPH AFB TEX
+ВТ
+UNCLAS OS
+YOUR HQ FTD 8-4-138 AND OUR OS757. HQ USAF INFO FOR AFCIN,
+AFSC INFO FOR SCFTA. AT ATC FOR ATXPP-W. REQUEST DISPSITION
+INSTRUCTIONS OF BALOON REMNANTS.
++ X24
+16/1733Z APR RJWFKS
+INNN

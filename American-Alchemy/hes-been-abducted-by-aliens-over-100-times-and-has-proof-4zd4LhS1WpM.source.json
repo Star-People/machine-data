@@ -1,0 +1,13 @@
+{
+  "backend": "mlx",
+  "created_at": "2026-11-17T06:34:19Z",
+  "model": "large-v3",
+  "schema": "ufo-files-archive-media-transcripts/v1",
+  "source_bytes": 1594195499,
+  "source_ctime_ns": 1794894463064248782,
+  "source_file": "originals/American-Alchemy/videos/hes-been-abducted-by-aliens-over-100-times-and-has-proof-4zd4LhS1WpM.mp4",
+  "source_mtime": 1794894343,
+  "source_mtime_ns": 1794894343757571220,
+  "source_rel": "American-Alchemy/videos/hes-been-abducted-by-aliens-over-100-times-and-has-proof-4zd4LhS1WpM.mp4",
+  "transcript_path": "American-Alchemy/hes-been-abducted-by-aliens-over-100-times-and-has-proof-4zd4LhS1WpM.tsv"
+}

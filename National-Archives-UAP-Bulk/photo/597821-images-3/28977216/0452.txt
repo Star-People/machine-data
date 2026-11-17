@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:51:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3557189, "source_ctime_ns": 1793380615110587347, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0452.jpg", "source_mtime_ns": 1785701059000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0452.jpg", "source_sha256": "730e9d0240d72a62b5e1d6f3341b8bccdbab988ccf81abe71ccfa07161c92c42"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 987, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- 16 -
+This expression replaces that given on H. A. C. 1404.
+Differences (O-C) between the normal points and this
+expression are given in Table I, and the fit is within the
+uncertainties.
+The acceleration is then
+₫P
+dN
+= -3.82 × 10-7 - 0.87 10-7 sin (.0153N) + 0.078 10-7
+sin (. 0119N)
+Table II lists values of this acceleration.
+TABLE II
+Acceleration of 1958 Alpha
+(8 × 10 "
+in days/Rev)
+N
+Obs.
+Theo.
+N
+Obs.
+Theo.
+50
+100
+150
+200
+250
+-3.8
+-4.4
+-4.09
+-4.6
+-4.4
+-4.77ł
+-4.70
+-3.8
+-3.95
+-3.25 -3.17
+350
+- 3.2
+-3.78ł
+400
+-3.8
+-4.95
+450
+- 4,4
+-5.5ššŚ
+500
+-4,7
+-4.6
+-5.31
+-4.40
+550
+600
+-3.7
+- 3.50
+300
+-3.0 -3.06
+Lundquist has kindly made available a numerical inte-
+gration of the equations of motion--drag included--starting
+with initial conditions specified by the writer. A value
+of acceleration some 5.8 times the observed value was
+obtained, through choice of parameters. By adjusting the
+mean value to the observed mean, the column of theoretical
+accelerations in Table II is obtained.

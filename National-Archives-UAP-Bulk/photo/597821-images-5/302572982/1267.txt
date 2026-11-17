@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:33:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 588296, "source_ctime_ns": 1793393022085726102, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572982/1267.jp2", "source_mtime_ns": 1785808173000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572982/1267.jp2", "source_sha256": "4d53ef73ff4a6ef5598408afaf7961f5e66a8392ed2d705340547a3021dcdd75"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 458, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PHOJECT 10273 RECORD
+TIME GROUP
+07 05/0110źšŚš
+2. LOCATION
+Frenklin, indiane
+URCE
+vilian
+4. NUMBER OF OBJECTS
+10. CONCLUSION
+Other: (UNRELIAPLE REFORT)
+The observer has a similar sighting on 30 November 1966.
+11. BRIEF SUMMARY AND ANALYSIS
+SEE CASE FILE
+S. LENGTH OF OBSERVATION
+20 Minutes
+6. TYPE OF OBSERVATION
+Cround-Visual
+7. COURSE
+NW
+8. PHOTOS
+DONO
+. PHYSICAL EVIDENCE
+• Yes
+ZON°
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous aditions of this form may be used.

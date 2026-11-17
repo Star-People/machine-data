@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:01:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4317088, "source_ctime_ns": 1793371536086931730, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938713/1402.jpg", "source_mtime_ns": 1785689009000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938713/1402.jpg", "source_sha256": "b4bd548118c19ccd5a03c866f761ee8d1395230c29ac23bbe05722ab6370f118"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 314, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Winds over Knoxville are not available. Following are winds aloft for Nashville
+for 12th and 13th Oct 1950:
+
+1500Z 12 Oct 1500Z 13 Oct
+2000 Ft 350/20 - 60/02
+1,000 350/33 350/09
+6000 340/45 * 360/11
+8000 340/48 360/11
+10000 330/50 340/11
+
+Attached are RAOBS for Nashville for 1500Z on izth and 13th October 1950.

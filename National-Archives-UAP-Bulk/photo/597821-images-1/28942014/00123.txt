@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:54:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3925126, "source_ctime_ns": 1793372242013428635, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942014/00123.jpg", "source_mtime_ns": 1785688536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942014/00123.jpg", "source_sha256": "6ddd9d68abdac4036987749a24040f90d1bb9c94b475781dd85151de964f2f7a"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 770, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+10 lay 52
+DATE-TIME GROUP
+Locol.
+2030
+GM: T
+S. PHOTOS
+10,1830łąć
+• Yes
+LENGTH OF OBSERVATION
+1. TYFE OF OBSERVATION
+D Ground• Visuai
+• Air- Visua!
+© Ground- Radar
+D Air-Intercept Radar
+6. SOURCE
+Group of people including
+British scientist
+NUNBER OF OBJECTS
+9. COURSE
+1
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Belloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+DEX Insufficient Data for Evaluation
+Unknown
+10. BRIEF SUMMARY OF SIGHTING
+"Luminous" color. Circular shaped.
+11. COMMENTS
+Object rose sharply from level of the
+sea. It appeared to wave back and fort!
+before fading out of sight directly
+overhead.
+ATIC FORM 329 (REV 26 SEP 52)

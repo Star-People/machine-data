@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:42:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4067520, "source_ctime_ns": 1793375853862456681, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958016/1037.jpg", "source_mtime_ns": 1785696406000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958016/1037.jpg", "source_sha256": "2a4d27288c56ede310ecdee804edba1e2af661f5f11b7a22b5f6ba35b8bb7381"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 481, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE JEPNL A04
+INOPOLIS, MD PHONE
+CIVI
+AGE 28
+HOUSE WIFE, GOCD
+BANMOPOLIS MD.. NO
+MILITARY- COMMANDER
+NAVAL AIR FACILITIES STATION US•
+NAVAL ACADEMY, OPERATIONS OFFICER ANNOPOLIS, MD. GOOD
+7. WEATHER AND WINDS ALOFT CONDITIONS AT TIME AND PLACE OF SHGHTING
+A. CLEAR SKY, SLIGHT FREEZE, DRY WEATHER TEYD 50 DEGREES
+3. SURFACE 240 DEGS 14 KTS
+2S: DEGS 17 XTS.
+...
+WOP DEGS 3S KTS
+16,00 300 DEGS 44 KTS
+20,022 30. DIGS 40 KTS
+29
+73 XTS
+263
+290 SS KTS
+50,122
+C. NONE
+DO 15 MILES

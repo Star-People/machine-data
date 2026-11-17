@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:53:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7442208, "source_ctime_ns": 1793383495239981828, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987132/0808.jpg", "source_mtime_ns": 1785748226000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987132/0808.jpg", "source_sha256": "40ed047c32dc07985f8b6f3bf9454e67c4f3e78d87b4decd416a26d7238c2a55"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 1037, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+2 Jun 60
+3. DATE-TIME GROUP
+Local
+GM T
+03/02202
+5. PHOTOS
+• Yos
+LS No
+7. LENGTH OF OBSERVATION
+Salt Lake City, Utah
+• TYPE OF OBSERVATION
+X Ground-Visual
+• Air Visual
+SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+• Ground-Radar
+• Air-Intercept Radar
+5 min
+two
+10. BRIEF SUMMARY OF SIGHTING
+Observation 1/2 hr before sunset in mountains.
+Object appeared as cigar shaped with length
+5 times width. Object reflected ainlight.
+Appeared white luminous with 2 visible in
+trail formation, changing position gradually
+to right echelon formation. First seen 060 az
+and disappeared over mountain at 135 az. Very
+slow movement. Viewed from motorcycle.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+a
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+•
+Probably Astronomical
+Possibly Astronomical
+Other Reflection
+Insufficient Date for Evaluation
+Unknown
+SE
+11. COMMENTS
+Sighting possesses all characteristics
+of reflection from inversion.
+ATIC FORM 329 (REV 26 SEP 52)

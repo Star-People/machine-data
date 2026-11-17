@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:59:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8814420, "source_ctime_ns": 1793376685795505683, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961748/0019.jpg", "source_mtime_ns": 1785696792000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961748/0019.jpg", "source_sha256": "3b344b3e84296cca7dff11fb0a4d28c27735e3127b823ea1bd85ce6da7982143"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 413, "method": "ocr", "page": 1, "variant": "plain-vision"}
+C. CEILING NONE 25200 SCTD
+• VISIBILITY 15
+• CLOUD COVER SCATTERED
+PAGE FOUR JESYO 01B
+• THUNDERSTORMS NONE
+• ATLANTA CAA ADVISED THAT ATLANTA WEATHER BUREAU
+RELEASED WEATHER BALLOONS AT APPROXIMATELY
+183ØEST•
+D. NONE KNOWN
+12. NUMEROUS AIR TRAFFIC BOTH CIVILIAN AND
+ILITARY IN ATLANTA AREA•
+11. OPERATIONS OFFICE, MAXWELL FLIGHT SERVICE CENTER
+MAXWELL AFB, ALABANA
+12 NONE
+SIGNED GOLINSKY END
+19/16552 APR JESYO

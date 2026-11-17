@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:05:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16672822, "source_ctime_ns": 1793355727782640498, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0167.jpg", "source_mtime_ns": 1785564511000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0167.jpg", "source_sha256": "6d0082357f09a3a27f405787bb57630540a7bb9c399308646c95a7a08a8c6699"}
+
+===== PAGE 1 =====
+{"alpha_words": 761, "chars": 5027, "method": "ocr", "page": 1, "variant": "plain-vision"}
+320
+excess lifting gas at the ceiling altitude of the balloon.
+Second, modifications in
+the balloon end fittings (Figure 1) reduced the installation time; the cost of the
+fittings dropped from $3,500 to $500. Changes in the valve wire and inflation
+tube installations appreciably simplified fabrication and resulted in a better end
+product as well.
+2.3 Production Improvements
+A cost analysis of earlier scrim balloons disclosed that fabrication labor
+accounts for approximately three-quarters of the total cost of a scrim balloon.
+Two procedures requiring many man hours of labor are gore-cutting and sealing.
+To determine the actual cost reduction afforded by the design simplifications and
+procedural changes evolving from our laboratory investigation, we fabricated two
+balloons.
+First, all the gores for the test balloons were cut simultaneously, with a
+Wolfe cutter.
+Second, the gore-sealing speed was increased from eight to twenty
+feet per minute.
+The acceptability of both changes was supported by numerous
+preproduction tests. In addition, newly developed equipment for inspecting and
+splicing balloon material and for automatically dispensing material was used.
+Seal-tape splices and the use of larger rolls of sealing tape contributed to further
+reductions in production time.
+The net result of all of the improvements was a
+30 percent reduction in the overall cost of a balloon exactly the same size (1.6
+million cubic feet) as one manufactured just one year earlier.
+Figure 2 shows the first of the two experimental scrim balloons during per-
+haps the most critical phase of a dynamic launching. This balloon was launched
+from the AFCRL R&D Test Facility, Holloman Air Force Base, New Mexico, and
+carried a payload of 4, 000 pounds to an altitude of 74, 000 feet. The performance
+was excellent.
+3. RESULTS OF THE COST REDUCTION PROGRAM TO DATE
+The curves in Figure 3 illustrate the cost reductions achieved, based on
+comparative costs of the 3.2 million-cubic-foot balloons first designed and pro-
+cured for Project Stargazer at a cost of $54, 000 per balloon.
+The progression is
+downward to the AFCRL-sponsored, Johns Hopkins University program, and sub-
+sequently to the Coronascope and US Weather Bureau programs, at a cost of
+$33, 000 each. In all of these balloons the scrim material used was the woven one
+designated GT-12. If the nonwoven GT-50 had been used, a further cost reduction
+of approximately two thousand dollars could have been expected. The broken line
+321
+indicates the most pessimistic cost outlook of the next phase in cost reduction:
+the use of a scrim layer.
+4. SCRIM LOOM
+Aside from the actual cost reduction, perhaps the most important effect of
+the work described was the application of nonwoven scrim to balloon design. This
+opened the way not only to further cost reductions, but to significant improvements.
+Use of the nonwoven scrim was expedited by Korn's innovation of a simple loom.
+The first loom model was made inhouse, and a prototype (Figure 4) then manufac-
+tured under contract. This machine can best be described as a rotating-drum
+loom. It dispenses diagonal threads from the large rotating drum and longitudinal
+threads from a thread beam passing through the center of the drum. Notable
+advantages are: (1) elimination of the need for the flocking agent (Figure 5) used
+on nonwoven scrim material for thread stability during handling and shipping; (2)
+the thread layer permits tailoring threads to conform to the optimum gore rein-
+forcement.
+For the first time the balloon designer will have an optimum material
+-one that has uniform longitudinal strength along the gore and can be varied in
+transverse strength as required.
+Figure 6 illustrates three possible variations in thread pattern relative to the
+balloon gore that is finally cut from the basic scrim balloon fabric. Gores cut
+from the GT-12 rectangular-thread material lose numerous longitudinal threads.
+This requires changing the design to enlarge the width of the gores both top and
+bottom so as to ensure sufficient strength in the end sections. Gores cut from the
+GT-50 nonwoven thread material also lose many of the longitudinal threads. In
+the third version shown the longitudinal threads have been so tailored that a large
+end section is no longer necessary. Another innovation, not illustrated, has to do
+with spacing the diagonal threads from top to bottom of the gore to conform to the
+stress distribution in the balloon. The spacing of the longitudinal threads can
+easily be controlled by selective spacing of the longitudinal feeds. The speeds of
+the laminator and of the thread-dispensing drum, as well as the number of spools
+in the drum, can be controlled to produce desired variations in the spacing and
+angle of the diagonal threads. These features will be incorporated in the thread
+loom now under construction.
+5. BALLOON RECOVERY
+The recovery and reuse of scrim balloons are being investigated as a possibility
+for further cost reduction. The most promising technique features the tandem

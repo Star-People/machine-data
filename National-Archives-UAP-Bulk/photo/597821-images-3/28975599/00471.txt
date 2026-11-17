@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:07:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5087151, "source_ctime_ns": 1793380370075545076, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975599/00471.jpg", "source_mtime_ns": 1785700874000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975599/00471.jpg", "source_sha256": "1b0faa6d3b82b2fba204fec3da1be4499b4ed63001d5f820eab2d321662cf4f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 948, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2 December 1957
+3. DATE-TIME GROUP
+Locel
+N/A
+GM T.
+5. PHOTOS
+OY• Physical
+aNo
+Specimen
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+15 Mi W of Russellville, Ala
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireratt
+Possibly
+Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Original: Farmer & Sheriff
+8. NUMBER OF OBJECTS
+9. COURSE
+Insufficient Data for Evaluation
+Unknown
+N/A
+one
+10. BRIEF SUMMARY OF SIGHTING
+Report of a hole or path 40 ft long,
+3 ft wide with burnt metal particles
+from Sheriff (in turn) - to 3rd Army
+Iq - to G2, Ft McPherson, Atlanta, Ga.
+to Maj McCoy, Robbins AFB, Ga. - to
+UFO Project Officer - NPAFB (ATIC)
+N/A
+11. COMMENTS
+Further inquiries indicated that
+object was an aircraft tip tank
+accidently dropped.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:58:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4156603, "source_ctime_ns": 1793374219132810393, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950801/0007.jpg", "source_mtime_ns": 1785696549000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950801/0007.jpg", "source_sha256": "e0a43297c86d3008afb37939e151bd903b8a1f10addad31765121859bf938234"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 852, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. LIATE
+16 Oct 52
+3. DATE-TIME GROUP
+Local
+GM T
+5. PHOTOS
+• Yes
+D No
+7.
+LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2., LOCATION..
+Korea
+TYPE OF OBSERVATION
+• Ground- Visual
+Kir. Visual
+6. SOURCE
+AF Pilots
+• Ground• Radar
+• Air-Intercept Rodar
+NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+K Probobly Balloon
+Possibly Balloon
+Wos Aircroft
+o
+o
+o
+•
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+10. BRIEF SUMMARY OF SIGHTING
+letallic silver color. Round silver
+object was observed over the battle line.
+Was observed to change speed and hover.
+SHG
+ATIC FORM 329 (REV 26 SEP 52)
+sane area.
+N
+11. COMMENTS
+Does her been ete are
+K243.6012-1
+16-30 0c1
+1952
+RETURN TO:
+Dizector
+Aerospace Studies Inst
+ATTN: Archives Branch
+Maxwell AFB, Alabama

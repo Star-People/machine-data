@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:00:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9155245, "source_ctime_ns": 1793379387878805558, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972181/00396.jpg", "source_mtime_ns": 1785700780000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972181/00396.jpg", "source_sha256": "bbcfe24a22b6830427eb69b4ed432d865555bd308cf87a092e007da21b5a9280"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 446, "method": "ocr", "page": 1, "variant": "plain-vision"}
+4 NA?
+5. DISAPPEARED INTO THE HORIZON
+VEBY DRIES how long i
+right
+3. 1. NAKEDNEYE
+2. N/A
+3. N/A
+4. 1. 14/0CT 57108332 0833-8 = 0033 local
+2. NIGHT
+50
+COC OBSERVING TOWER GRID MQ 5505
+5. 1.
+DIAMOND
+7. 1. 650g SCATTERED
+2. SC00-340 DEGREES 10
+KNOTS
+3. NONE
+4. 15 MILES
+5. 3/10
+6. NONE
+3. N/A
+• OREGON PHONE NO.
+VAGE THREE RJWPDM 12A
+9. WA
+10. NA
+11. NONE ROWELL A. WADE CAPT USAF SENIOR CONTROLLER 25TH AIR DIVISION
+12. NONE
+BT
+14/1121Z OCT RJWPDM

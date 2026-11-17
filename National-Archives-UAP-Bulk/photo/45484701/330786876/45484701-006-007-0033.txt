@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:01:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10354951, "source_ctime_ns": 1793364290996428342, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0033.jpg", "source_mtime_ns": 1785685102000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0033.jpg", "source_sha256": "890f5b9156d2223b4c037856ab696e19a61d41a48a8c4df63bc5ccb2e4e0e3db"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 1141, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DELATIS :
+This investigation was conducted by S/A JACK B. WILLIANS.
+Photograph of Unidentified Object:
+Date of photograph: 21 October 1949.
+Exact time of photograph: 2180 hours.
+Place of photograph: 1600 block, West Second Street, Roswell, New Mexico.
+Camera mounted on tripod and pointed approximately 230° (true).
+Cameraman's attention was attracted to object by its brightness.
+There was one object.
+Appeared to be a white light atop water tower or telephone post.
+The color appeared a very bright white.
+No shape was distinguished.
+Altitude:
+Above the horizon approximately 30° clockwise from north, object
+appeared about 7:30 o'clook.
+Distance from cameraman: Unknown.
+Description of flight was southeast to northwest, if any. (Doubtful whether
+moved.)
+Remained visible approximately 20 to 30 minutes (that he knows of).
+Speed: Unknown,
+No sound or odor was detected.
+No trail was observed.
+Luminosity appeared small and very bright,
+No projections were noted.
+No maneuver was noted,
+Cameraman departed area prior to object's disappearance,
+No clouds were observed,
+Weather conditions were clear.
+Declassification Authority: NND 923007

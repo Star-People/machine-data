@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:52:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3687794, "source_ctime_ns": 1793371979738796590, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940677/0356.jpg", "source_mtime_ns": 1785688892000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940677/0356.jpg", "source_sha256": "c9b449ccdcda4bbac5bf2404716f818f836b79c45f2a521516c13e29c59195c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 829, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECUR.
+CLASSIFICATION (I/ any)
+DISPOSITION FORM
+FILE NO.
+TO
+SUBJECT (Unclassified)
+Transmittal of Correspondence Con-
+cerning Unidentified Flying Objects
+FROM
+Dept of the AF
+DATE 16 APR 1952
+COMMENT NO. 1
+Hg USAF - AFOIN-V/TC
+Capt Fournet/ 55894
+Chief, Air Technical
+Intelligence Center,
+wright-Patterson AFB,
+Chio
+Reference is made to Disposition Form, Headquarters USAP, dated 27 March 1952,
+transmitting a letter al inclosures received from Mr. Charles Karlik, Flushing,
+New York. A second letter with additional data has been received and is forwarded
+herewith for your inforaation and retention.
+1 Incl
+Ltr fr Mr Karlik
+dtd 29 Mar 52
+w/incls
+00.65.
+W. M. OTTINGER
+It. Colonel, USAF
+Executive, Evalnatton Division
+Directorete of Intelligence
+NIME foot 18 96 Replaces DA AGO Form 897, 1 Oct 47, which may be used.
+15--54501-2

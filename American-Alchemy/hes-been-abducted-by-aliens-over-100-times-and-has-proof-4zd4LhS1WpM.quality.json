@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-11-17T06:34:19Z",
+  "input_segments": 2114,
+  "kept_segments": 2114,
+  "removed_repeated_filler_segments": 0,
+  "long_gaps": [
+    {
+      "start": 2330600,
+      "end": 2341640,
+      "duration_ms": 11040
+    },
+    {
+      "start": 4724360,
+      "end": 4747040,
+      "duration_ms": 22680
+    },
+    {
+      "start": 10465600,
+      "end": 10488820,
+      "duration_ms": 23220
+    }
+  ],
+  "removed_repeated_filler": [],
+  "removed_empty_segments": 0,
+  "empty_segments": []
+}

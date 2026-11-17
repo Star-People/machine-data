@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:05:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17555482, "source_ctime_ns": 1793355492556303858, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0074.jpg", "source_mtime_ns": 1785564464000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0074.jpg", "source_sha256": "d1ae7d0d5e902e780ff088ab2bb159183af4bda03ab39087a574422f6023df69"}
+
+===== PAGE 1 =====
+{"alpha_words": 574, "chars": 3731, "method": "ocr", "page": 1, "variant": "plain-vision"}
+138
+limit stops between the cross-elevation and elevation gimbals, a second offset guide
+telescope, an inertial element, the magnetic or gravitational field of the earth, or a
+combination of two or more of these sources. Pendulum motion of the gondola
+limits the accuracy obtainable from the gravitation field, whereas the magnetic
+field is variable with geographic position. Hence, an inertial element, such as the
+floated rate integrating gyroscope, torqued by signals from the limit stops or from
+the offset telescope, is a more effective source of the third control signal. Indeed,
+it maybe advantageous touse an orthogonal pair of rate integrating gyros on the instru
+ment ring to provide primary control of the elevation and cross-elevation gimbals.
+This is especially true if one wishes to select a number of different celestial targets
+by remote control. Of late, the floated gyroscopes have become available on the
+surplus market at a fraction of the original cost; thus, the chief remaining deterrent
+is the complexity of the power supplies and the control circuitry.
+Figure 4.
+The Polariscope Gimbal System
+[University of Arizona photograph]
+139
+With floated gyroscopes and torque motors, accuracy of control of a few seconds
+of arc is now being reported. The accuracy of control is limited by the sensor and
+by the perturbations. With a photoelectric guide telescope the former limit is set by
+the photon noise; that is, the random arrival of quanta at the photodetector. For a
+4-inch objective telescope trained on a first magnitude star, the photon noise limit
+is of the order of 3 millisec of arc, assuming an integration time of 0.05 sec and
+average transmission and sensitivity. This limit is well beyond that currently
+required. The limit set by perturbations is not.
+I have already mentioned the perturbation due to gimbal restraint, the forcing
+of the azimuth gimbal. Another perturbation is presented by the friction in the
+gimbal bearings. The bearing friction can be ameliorated by using floated bearings
+such as oil pad, pneumatic, or mercury bearings, by using flexure members, or by
+using dynamic bearings such as a triple race bearing, the intermediate race of
+which is continuously driven.
+Inertial and viscous reaction in the motive element can be avoided by the proper
+choice of motors and by proper design of the power amplifier.
+Geared servo-
+motors should be avoided, not only because of backlash, but also because of the
+reflected rotor inertia and back EMF. As the gondola oscillates, the rotors must
+be correspondingly accelerated and decelerated, necessitating inertial and viscous
+reactions which perturb the instrument. The viscous reaction can be minimized
+by designing the output stage of the power amplifier as a high impedance driver;
+the inertial reaction can be eliminated only by direct coupling the rotor to the
+gimbal. Hence, the torque motor is superior in this regard to the geared servo-
+motor.
+To avoid perturbations with translational motion of the balloon, the gimbals
+must all be carefully balanced. Furthermore, film transport mechanisms, and
+so on, must be carefully engineered to maintain balance throughout the flight and
+to provide counter-motion to negate inertial reactions when components are
+accelerated and decelerated.
+Though I have used three specific systems to illustrate the principles of
+orientation of the balloon-borne instrument, it must be appreciated that the varia-
+tions are legion. The choices of gimbals, motors and sensors can be made only
+by careful evaluation of the scientific objectives of the mission. It must be recog-
+nized that even the more ideal components do not combine all the desired character-
+istics; hence, compromises must be made.

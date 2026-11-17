@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:49:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6218387, "source_ctime_ns": 1793381699529550432, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981334/01295.jpg", "source_mtime_ns": 1785700997000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981334/01295.jpg", "source_sha256": "6dac50f2c9cee4955764188bd75227a42e45184d5f4c408393324590969972a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 757, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3. DATE-TIME GROUP
+box 195g
+Local _
+1000 EST
+GM T.
+2.00%
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
++ TOWL.
+New York
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+| 8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircrat!
+Probably Aircraf
+Was Astronomical
+W1
+Other
+Insufficient Data for Evaluation
+Unknown
+• No
+7. LENGTH OF OBSERVATION
+10. secs
+10. BRIEF SUMMARY OF SIGHTING
+A dull spot of light appeared on a
+photograph.
+9. COURSE
+None
+11. COMMENTS
+Analysis of the film leads to
+conclusion that the image is due
+to reflections within the lens.
+This is indicated by the addi-
+tional image in another location
+ATIC FORM 329 (REV 26 SEP 52)

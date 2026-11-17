@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T06:03:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4634680, "source_ctime_ns": 1793369029443496344, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930297/0647.jpg", "source_mtime_ns": 1785689019000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930297/0647.jpg", "source_sha256": "1c2f836c857f7f28032748c8eed5260567d09c1fb390ade5a0a8bea2e0e1679a"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 618, "method": "ocr", "page": 1, "variant": "plain-vision"}
+What ah force
+Commanding General,
+Air Materiel Command,
+Att; NOLA
+Fright-Patterson Air Force Bace
+Dayton, Ohio.
+Gentlemen
+A New York
+May 1948
+I am in receipt of a letter fron Colonelại R. Clingerman,
+Chief, Tech. Intelligence Div., requesting photorraphs of
+meteorite trails.
+Foclosed is a series of four photos taken in the vicinity
+of Pampa, Texas, of a meteorite trail on 20 May 1944.
+These
+photos were made from 40 to 50 seconds after the
+meteor's flight at about 15 second intervals. The time
+Interval was checked by actual rehearsal.
+I hope these photos will be of help to you in your
+research.
+Sincerely yours,

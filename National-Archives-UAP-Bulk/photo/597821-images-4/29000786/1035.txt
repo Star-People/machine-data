@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:43:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4606676, "source_ctime_ns": 1793388301863847795, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000786/1035.jpg", "source_mtime_ns": 1785748489000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000786/1035.jpg", "source_sha256": "6f9a972137face94240947a77a1689a983e992815876fdbe4039cd96a02ba059"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 863, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+8 May 1963
+3. DATE-TIME GROUP
+Local
+GM T.
+09/0016z
+PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+58.15N
+TYPE OF OBSERVATION
+169120W (PHIEC)
+• Ground-Visual
+›KAir Visual
+• Ground-Radar
+A Air-Intercept Radar
+6. SOURCE
+Military
+8. NUMBER OF OBJECTS
+minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Radar contact followed by visual
+contact with silver
+object with sun
+reflecting
+from
+fuselage. Obj heading
+west at 60,000 feet.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aircrat
+Possibly Aircraf
+Was Astronomical
+•
+Probably Astronomical
+Possibly Astronomical
+•
+Other
+Insufficient Data for Evaluation
+Unk no wn
+9. COURSE
+West
+11. COMMENTS
+Crew debrief indicated that the
+object was an unidentified bomber
+type a/c, silver in color w/foue
+contrails blending into one.
+ATIC FORM 329 (REV 26 SEP 52)

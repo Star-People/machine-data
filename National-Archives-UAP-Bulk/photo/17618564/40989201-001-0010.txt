@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:38:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 931702, "source_ctime_ns": 1793354380621732366, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989201-001-0010.jpg", "source_mtime_ns": 1785564275000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989201-001-0010.jpg", "source_sha256": "c3bf44619bb0fdb68b9a8c117e76b2cee13edbd25291abbf3c68395e31ba5e3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 35, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "contrast-vision"}
+3 - ea
+SX7 - .
+Prents
+(bor derleẾẾ

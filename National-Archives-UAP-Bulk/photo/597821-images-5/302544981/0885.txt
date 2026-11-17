@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:46:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1700962, "source_ctime_ns": 1793389939914965702, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544981/0885.jp2", "source_mtime_ns": 1785808595000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544981/0885.jp2", "source_sha256": "e3cf6c3a83c5dd715de97de0c14acf8d4d7f52f6df0e4a28da50e50d9c7953e6"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 983, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+. STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF. IN: 50153 (5 Aug 65) G/jck
+ACTION: NIN-7
+INFO: XOP1, XOPX-8, SAFOS-3, DIA-1 (21)
+SMB C201 PTTU JAZ RUWTABA2223 2172129-UUUU--
+ZNR VUUUU
+P 2172 122 ZEX,
+FM 2854 AB GP TINKER AFB OKLA
+TO RUMFVA/ENT AFB COLO
+RUNTFLA/29 AIR DIV RICHARDS GEBAUR AFB MO
+RUCIFDA/WRIGHT PATTERSON AFB OHIO
+RUEBHQA/USAF WASH DC
+RUEBHQA/SAF WASH DC
+PG1 OF 3
+RUEBHQA.
+UNCLAS 85294 5 AUG 1965. FINAL SECTION OF 2.
+FOR: WRIGHT-PATTERON AFB (FOREIGN TECHNOLOGY DIV); USAF CAFCIN);
+SAF (SAFOI). SUBJ: REPORTING OF UFOS.
+WEATHER BALLOON AT Ø5152 HOURS, 2 AUG 1965. WEATHER BALLOONS
+WOULD HAVE TRAVELED SOUTH, CHANGING AT DIFFERENT ALTITUDES TO
+SOUTHEAST AND SOUTHWEST FROM THE POINT OF RELEASE. FAA AND
+WILL ROGERS FIELD REPORTED NO AIRCRAFT IN THE AIR DURING THIS
+TIME PERIOD, TINKER AFB FLIGHT OPERATIONS REPORTED 5 AIRCRAFT
+WERE IN THE AREA DURING THIS TIME PERIOD; HOWEVER, NONE OF THE
+AIRCRAFT REPORTED ANY UNUSUAL SIGHTINGS.

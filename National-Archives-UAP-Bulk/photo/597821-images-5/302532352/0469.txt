@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T05:41:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1014108, "source_ctime_ns": 1793388778793296046, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532352/0469.jp2", "source_mtime_ns": 1785808490000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532352/0469.jp2", "source_sha256": "fb0e8f2c6d7e9c6153bb5e29bc927c1b309d872e4c4ae82ece32cd3c28e30b58"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 460, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+REPLY TO
+ATTH oF: TDEW/UFO (Isgt Moody ext 69216)
+suBJEcT: Request for Radar Analysis (29 Apr 64, S Minot AFB)
+To: IDEED/ Mr Bryant
+Request analysis of the attached unidentified flying object
+report, 29 Apr 54, 0250-03302, South of Minot AFB.
+11 Sep 64
+Major,
+Chief, Aedal Phenomena Branch
+1 Atch
+a/s
+YOU: THE NUCLEUS OF SECURITY!

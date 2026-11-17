@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:44:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4752451, "source_ctime_ns": 1793386622129016499, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996804/0439.jpg", "source_mtime_ns": 1785748022000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996804/0439.jpg", "source_sha256": "c990ac031cb31c38e8f4a750ab9820e21abacdeda3f7c0e870b133f11bba6447"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 600, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRISHT-PATTERSON AIR FORCE BASE, OHIO
+TTw or. TD-E/Lt Col Friend/Vw/69216
+sueFer: Request for Photo Analysis
+25 June 1962
+ro: TD-D4a
+It is requested that an analysis be made of the attached photo-
+maghie prints and negatives to determine the nature of the images.
+It is requested that the negative and prints be forwarded to
+TD-E upon completion of the analysis in order that they may be re-
+turned to the witness.
+EDWARD H. WINT
+Colonel, USAF
+Deputy for Science
+and Components
+2 Atchs
+1. 3 ltrs
+2. negative:

@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:42:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3946936, "source_ctime_ns": 1793377413402815304, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963606/0102.jpg", "source_mtime_ns": 1785696475000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963606/0102.jpg", "source_sha256": "e65b8f39051b19507b3de55e50f9c7f0d6c5daebf361a5a6bc52011cc2ba8457"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 699, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+& Sep 55
+3. DATE-TIME GROUP
+Local _
+GM T
+09/04552
+5. PHOTOS
+• Yes
+XO No
+7. LENGTH OF OBSERVATION
+3 min
+10. BRIEF SUMMARY OF SIGHTING
+Cigar shaped. 25' long, bright orange, no
+sound, faded from view.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Cedar Rapids, Iowa
+4. TYPE OF OBSERVATION
+a Ground- Visual
+• Ground-Radar
+O Al~ Visuol
+8. SOURCE
+• Air-Intercept Radar
+civilian
+4. NUMBER OF OBJECTS
+9. COURSE
+1
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+1. COMMENTS
+4602d evaluated: Possible a/c.
+ATIC FORM 329 (REY 25 SEP 52)

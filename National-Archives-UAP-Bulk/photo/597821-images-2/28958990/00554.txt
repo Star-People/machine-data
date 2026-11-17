@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:43:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4362730, "source_ctime_ns": 1793376054372243298, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958990/00554.jpg", "source_mtime_ns": 1785696621000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958990/00554.jpg", "source_sha256": "29b4db629f5e231186931aa3a012bc5563c719071006b577c5e45e2fadd601d4"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 799, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+13 July 1954
+3. DATE-TIME GROUP
+Local
+GM T.
+14/0045
+5.
+PHOTOS
+• Yes
+á No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Newburg, New York
+4. TYPE OF OBSERVATION
+I Ground-Visual
+D Air Visuol
+SOURCE
+• Ground-Radar
+D Air-Intercept Radar
+Civiliar
+8. NUMBER OF OBJECTS
+3 minutes
+1
+0. BRIEF SUMMARY OF SIGHTING
+Similar to flourescent lamp - cigar shape.
+Straight line of flight, slow movement. Very
+high. Speed of recon a/c. Sun was setting.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Prob1biy Astronomica
+Possibly Astronomica
+9. COURSE
+•
+Other
+Insufficient Data for Evaluation
+Unknown
+Not reported
+11. COMMENTS
+(o information presented conflicts with
+e/c analysis)
+ATIC FORM 329 (REV 26 SEP 52)

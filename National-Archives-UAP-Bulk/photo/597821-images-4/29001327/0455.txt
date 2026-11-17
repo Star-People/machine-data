@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:46:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5458010, "source_ctime_ns": 1793388495583167327, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29001327/0455.jpg", "source_mtime_ns": 1785747994000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29001327/0455.jpg", "source_sha256": "626b9045d3776198b73bda16838f5a10fe27d16db9688cdfb17b015747a5e49b"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 487, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Rike'S DANTON 1, IT
+Dear Customer:
+We want to express our thanks for the purchases you have
+made at Rike's.
+Accounts are due and payable before the next billing. Since
+there is a balance due on your account, we'd like to remind
+you to send us a remittance at this time.
+Please use this envelope to send your payment now.
+Rike's Credit Department
+Balance of Account: 31.08
+If payment has been made within the last few
+days, please accept this as our "thank you".
+Detach Here And Enclose.

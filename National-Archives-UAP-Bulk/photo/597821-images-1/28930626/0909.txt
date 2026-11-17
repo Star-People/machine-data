@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T04:47:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5640021, "source_ctime_ns": 1793369103089798029, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930626/0909.jpg", "source_mtime_ns": 1785688642000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930626/0909.jpg", "source_sha256": "45453ca3e5792a954355fa0e0e746beff45c07d13a758f35a19903a7042b8bc8"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1493, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JEROME C. HUNSAKER, SC. D., CHAIRMAN
+ALEXANDER WETMORE, PH. D., VICE CHAIRMAN
+HON, JOHN R. ALISON
+MAJ, GEN, EDWARD M, POWERS, U.
+DETLEV W. BRONK, PH. D.
+VICE ADM, JOHN D. PRICE, U. S. N.
+KAIL T. COMPTON, PH. D.
+ARTHUR E. RAYMOND, M. S.
+ED/ARD U. CONDON. PH. D.
+FRANCIS W. REICHELDERFER, Sc. D.
+JAMES H, DOOLITTLE, SC. D,
+HON, DELOS W, RENTZEL
+RALD M. HAZEN, B. S
+GEN, HOYT S. VANDENBERG, U.S. AF.
+WILIAM LITTLEWOOD, M, E.
+THEODORE P. WRIGHT, SC. D.
+RAR ADM, THEODORE C. LONNQUEST. U.S. M,
+LANGLEY AERO
+NAUTICAL LABORATORI
+LANGLEY FIELD, YA
+AMES AERONAUTICAL LABORATORY
+MOFFETT FIELD, CALIF.
+LEWIS FLIGHT PROPULSION LABORATORY
+CLEVELAND AIRPORT, CLEVELAND 11, OHIO
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+1724 F STREET, NORTHWEST
+WASHINGTON 25, D. C.
+[ 3515
+TELEPHONES: EXECUTIVE
+3516
+3517
+July 18, 1949
+Mr.
+Vice President & Chief Engineer
+Springfield, Illinois
+Dear Mr.
+Thank you for your letter of June 9 furnish-
+ing information to the Government on objects observed
+traversing the night sky. This Committee has not
+been involved in the analysis of observations of this
+type. The United States Air Force has, however,
+been concerned and active in such analyses and is
+cognizant of the related defense aspects and we
+are therefore forwarding your letter to the Chief of
+Staff, USAF, for appropriate action.
+The Committee is appreciative of your interest
+in the national defense.
+Very truly yours,
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+P. G. Robinson
+Assistant Director for Research
