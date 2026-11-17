@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:51:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3428823, "source_ctime_ns": 1793365564819617224, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0014.tif", "source_mtime_ns": 1785565389000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0014.tif", "source_sha256": "4c85f0fba3187380be0e3634ee9a8042cf83d678c493eb52cb9bfeff6f5298c5"}
+
+===== PAGE 1 =====
+{"alpha_words": 273, "chars": 1751, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Albino -- 5
+Sophisticated switching centers are located in fairly isolated
+areas. And there are many of them. In fact, according to SAGE
+authorities, the communications system of the 21ST NORAD REGION is
+probably the most redundant and survivable part of the entire complex.
+SAGE also maintains its own power plant, and a very large one
+indeed, twenty-four hours a day. Though a great deal of commercial
+power is used, wherever this is the case a back-up system exists. Thus,
+the SAGE power plant can operate on its own in the event commercial
+power resources either are destroyed or power production falls low.
+A word about the individual squadrons. At each radar squadron
+is a large search radar which is capable of detecting aircraft at
+altitudes from quite low to very high. This radar rotates through a
+360 degree cycle and searches the entire area of sky within its range.
+Co-located with the search radar is a height-finder radar which
+is capable of determing exactly how high an object is after its
+detection by the search radar. Though the search radar defines an
+object longitudinally and latitudinally, in order to run an intercept,
+it is necessary for the height-finding radar to determine whether the
+aircraft is, say, at five or fifty-thousand feet.
+Too, at each site is a series of radio transmitters through
+which ground-control operators either talk to the interceptor pilots
+or send coded electronic instructions to unmanned missiles which can
+be guided electronically from the ground to the target. These transmitt
+are also tied to the SAGE computer and the two subordinate computers.
+This allows the weapons controller to control both interceptors and
+missiles electronically anywhere within the 21ST NORAD REGION area.
+-- MORE --

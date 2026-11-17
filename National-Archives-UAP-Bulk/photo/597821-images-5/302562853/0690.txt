@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:47:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1741477, "source_ctime_ns": 1793391950644982278, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562853/0690.jp2", "source_mtime_ns": 1785808003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562853/0690.jp2", "source_sha256": "172536f7e1252a340ffdca9b4954b04822da0f6e51e6c65a50a14a3f9d1894d4"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 767, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRAMCH
+INCOMIMO MESSAGE
+AF IN : 15262 (21 Mar 67) R/jja
+Pg 1. of 3
+ACTION: RDC- INFO: XOP-1, XOPX-2, SAFOS-3, NIN-7, DIA/JCS-1 (19) ADV CY DIA
+SMB D270ERTTU JAW RUWMFVA5647 0801900-UUUU--RUEDHQA.
+ZNR UUUUU
+R 211858Z
+FM 4600 ABWG ENT AFB COLO
+TO RUEDHQA/OSAF WASH DC
+RUEDHQA/CSAF
+RUEDF1F/FTD WPAFB OHIO
+RUWTEMA/10AF RICHARDS-GEBAUR AFB VO
+ZE N/ AD C
+ZE N/CINCNOR AD
+ZEN/UNIVERSITY OF COLORADO BOULDER COLO
+BT
+UNCLAS WGOOT-B 00208 MAR 67.
+FOR: OSAF (SAF-OI); CSAF (AFROC); DTD (TDETR); NORAD
+(NOOP-A); ADC (ADOCP) AND (ADCIO-P); UNIVERSITY OF
+COLORADO (OR CONDON), UFO, UNIDENTIFIED FLYING OBJECT
+REPORT. FORMAT FOLLOWS PARA 11, AFR 89-17.
+A. (1) UNKNOWN
+(2) PEA
+(3) SOFT DIM ORANGE
+AFHO JAMBS 0-309C
+UNCLASSIFIED

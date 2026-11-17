@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:08:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6918437, "source_ctime_ns": 1793377173597087284, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962878/0962.jpg", "source_mtime_ns": 1785696645000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962878/0962.jpg", "source_sha256": "de1fcd5894e37fedbb7e72be5060dffb070ddc1bb89334994395494089896426"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1056, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+20 Jul 55
+3. DATE-TIME GROUP
+Local
+21/01552
+CM T
+5. PHOTOS
+• Yes
+• No
+7. LENGTH OF.OBSERVATION
+15 seconds
+10. BRIEF SUMMARY OF SIGHTING
+One round, silver obj, size of silver dollar
+held at arms length clearly seen to be spin-
+ning while moving at a high rate of speed
+from SW to NE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Lincoln, Nebraska
+TYPE OF OBSERVATION
+R Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+civilian
+8. NUMBER OF OBJECTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+goo
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+COURSE
+SW to NE
+11. COMMENTS
+Check was made with COC weather at ADC
+with negative results. Observers possibly
+saw reflection of sun off a highly polished
+a/c. The non-technical background of
+observers would make it difficult to
+recognized such a phenomenon and the re-
+flection could account for the large
+appearance of the obj.
+ATIC FORM 329 (REV 26 SEP 52)

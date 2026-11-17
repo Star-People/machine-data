@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:10:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7370510, "source_ctime_ns": 1793388348767113904, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000942/0070.jpg", "source_mtime_ns": 1785748071000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000942/0070.jpg", "source_sha256": "70a223889fea627a9df716264b1688ac8a667952aa84108b47a2648b6b6bff0a"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 741, "method": "ocr", "page": 1, "variant": "plain-vision"}
+из 63
+Mrs. Huhh/nan/SAFOICC/72842/31 Aug 65
+SEP - 1 1965
+Dear Miss
+This is in reply to your report of an serial object which
+you observed some time ago.
+Due to the time, lapse between your obeervation and your
+report, ve are unable to investigate your report.
+I an enclosing the report on Froject Blue Book which depicts
+the status of the UPO project to date. I hope this information
+will be of interest to you.
+Sincerely,
+JOEM P. SPAULDING
+Lt Colonel, USAF
+Chief, Civil Branch
+Community Relations Division
+Office of Informatbon
+1 Atch
+Blue Book Report
+SMO
+dietow, Hew York
+COOPDINATED By (Office Symbol, Name, Grade, Date)
+SAFETEC
+SAF-OT @
+1003630
+[Coora CF - SAFOI-2
+Comebk cy
+- SAFOI -2
+Reader cy - SAFOI-1
+Activity cy - SAFOI-2
+Stayback

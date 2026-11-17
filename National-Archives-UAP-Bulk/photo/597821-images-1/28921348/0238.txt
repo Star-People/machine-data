@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:06:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6219718, "source_ctime_ns": 1793368570635316870, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0238.jpg", "source_mtime_ns": 1785688704000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0238.jpg", "source_sha256": "8d8072c156cfab71b2815390608c02277fa0cf28f89bbd9cbaab5e0c6308cd14"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 597, "method": "ocr", "page": 1, "variant": "plain-vision"}
+16 - 31 JULY 1960 SICHTINGS
+DATE
+LOCATION
+5S/N
+G
+6801
+xent
+Riv
+Lorain, Ohio
+Dayton. Ohio
+6875 29
+687629
+6877 31
+6878 31
+Cincinneti. Ohio
+Los Angeles, California
+Arnola, California
+EVALUATION
+Insufficient Data
+Aircraft
+Insufficient Data
+Belloon
+As
+tro
+H
+nsuf
+As
+tro
+Astro
+Astro
+UNID
+Astro
+Astro
+Astro
+Astro
+Astro
+Astro
+Astro
+Astro
+Astro
+Astro
+Astro
+As
+tro
+tro
+tro
+Aircraft
+Other (MISSILE)
+Astro (OCCULATION GAMMA
+& VIRGO)
+Balloon
+Astro METEOR
+AStro (METEOR)
+DATE
+687922
+LOCATION
+Kennebunkport, Maine
+Atlanta, Georgia
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+Newsclipping
+* (Ltr)
+EVALUATION

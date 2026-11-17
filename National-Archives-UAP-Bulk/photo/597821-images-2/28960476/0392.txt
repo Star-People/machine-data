@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:50:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3185299, "source_ctime_ns": 1793376391597767809, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960476/0392.jpg", "source_mtime_ns": 1785696976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960476/0392.jpg", "source_sha256": "a573c2fd96847e93223ddd48fdb65a16f4d1bcd19d6d5ea1b06a2f03ab9e9747"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 832, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+| 30 NOV 54
+3. DATE-TIME GROUP
+Local
+5.
+GM T
+PHOTOS
+30/18502 1900Z
+DY•s
+ATIC
+• No
+7. LENGTH OF OBSERYATION
+PROJECT 10073 RECORD CARD
+2 LOCATION SYLACAUGA, ALBAMA
+12. CONCLUSIONS
+GEORGIA, MISSISSIPPI, FLA, S CAROLEGA Wos Balloon
+Probably Balloon
+4. TYPE OF OBSERYATION
+Possibiy Balloon
+@ Ground-Visual
+Ö Air Visual
+• Ground- Roder
+• Air-Intercept Radar
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+SOURCE
+Was Astronomical Meteorite
+Probably Astronomical
+MILITARY & GIVILIAN
+0. NUMBER OF OBJECTS
+ONE
+Possibly Astronomical
+9. COURSE
+Other
+Insufficient Data for Evaluation
+Unk no w
+10. BRIEF SUMMARY OF SIGHTING
+Obj observed by hundreds of persons in the
+Ala, Miss, Georgia and Fla area. Refer to
+case file for complete details.
+11. COMMENTS
+Obj was definitely a meteorite.
+9 1b obj recovered.
+ATIC FORM 329 (RRY 26 8XP 52)

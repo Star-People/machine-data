@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:37:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 812652, "source_ctime_ns": 1793393376157942060, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302576710/00686.jp2", "source_mtime_ns": 1785808488000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302576710/00686.jp2", "source_sha256": "91e657d5261d873bafcd6fdb07a8ff7cd5007d180689e280805804a10b9d9333"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 37, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "clean-vision"}
+MONDAY, JUNE 10, 1968
+HIGH
+HIGH
+LOWI

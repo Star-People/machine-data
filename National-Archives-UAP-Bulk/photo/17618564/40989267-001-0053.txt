@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:22:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18098447, "source_ctime_ns": 1793355471296815961, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0053.jpg", "source_mtime_ns": 1785564461000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0053.jpg", "source_sha256": "77b2dda905b765cd87ee921b3a27739a035ad1cee7e5e555ec04ece662b81b42"}
+
+===== PAGE 1 =====
+{"alpha_words": 405, "chars": 2832, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Figure 3. Photograph of Model DFS-2B Direct-Flow Particle Sampler
+balloon floats at a constant level. The length of the sampling period (set into the
+programmer) varies from 15 minutes to 4 hours, depending upon the operating alti-
+tude. Normally such a range is sufficient to allow the processing of a volume
+equivalent to 1000 standard ft?.
+Direct-Flow Samplers are presently being flown in research flights by our
+group at Minneapolis and, operationally, to monitor radioactive debris in the strato-
+sphere by the U. S. Air Force at San Angelo, Texas, and by the Australan govern-
+ment at Mildura, Australia.
+All of the operational sampling equipment with which we are familiar, including
+the Direct-Flow Sampler as just one example, employ blowers driven by dc electric
+motors to move air through the sampling system. At altitudes below 80,000 ft the
+performance of the motor-blower system has been reasonably good. At altitudes
+above 80,000 ft, however, the problems of motor burnup and decreasing blower
+efficiency begin to appear. Above 110,000 ft, these problems become so acute that
+the motor-blower combination is extremely ineffective.
+Even at lower altitudes, motor-blower systems tend to contaminate the local
+ambient air with oil vapors, and carbon dust from the motor brushes. Also, the
+electric storage batteries, required to operate the motors, frequently boil off sign-
+ificant quantities of electrolyte during a sampling mission, thus adding to the con-
+tamination. Another disadvantage of this system is the relatively high weight of
+these storage batteries.
+To overcome these difficulties, and to provide a balloon-borne sampling capa-
+bility at altitudes above 100,000 ft, a new air-moving device has been developed in
+our laboratories under contract to the AEC. This device is an air-ejector pump.
+Earlier, ejectors have been used in such diverse applications as ventilating mine
+shafts and providing thrust augmentation for jet aircraft. The air-ejector pump
+has several very desirable characteristics: it is light-weight, mechanically simple,
+highly reliable, gives off no contaminating by-products, and has a high volume
+capability.
+A preliminary theoretical evaluation of the operation of jet-ejector pumps at
+reduced pressures indicated that this device should substantially exceed the per-
+formance of motor-blower air-moving systems at altitudes from 80,000 to 150,000
+ft.
+On the basis of these evaluations, a program was initiated to develop an ejector-
+powered aerosol sampler, capable of operation at altitudes to 150,000 ft, sampling
+rates to 1000 ft3 per minute, and total-sample capacity of 100,000 ft ambient air.
+The first unit developed, an air-ejector-powered filter sampler, is shown schema
+tically in Figure 4.
+In principle, the operation of the air-ejector pump is exceedingly simple. The

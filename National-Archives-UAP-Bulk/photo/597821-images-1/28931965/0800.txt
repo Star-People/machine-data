@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:04:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5751585, "source_ctime_ns": 1793369529664657039, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0800.jpg", "source_mtime_ns": 1785688676000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0800.jpg", "source_sha256": "748acf08c7cf82009940d064cfa63fd3ea8cc0c46eaa89aabce773da9c2a9e0e"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 490, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10IAXD¿
+ICIAXO-3/TO/e3
+4 November 1918
+Fargo, Forth Daketa
+Dear Sir:
+Your letter of October 24, 1943 addressed to major
+D. G. vones, Comanting officer, 17889 Fighter Scuadron,
+Hector /lald, Pargo, Jorth Dakota, has been fomerded to
+thia Headquarters for nocessary action.
+Tour promptress in reporting tada incident la appre
+elated and the information contained in your report will
+he made a matter of record,
+Sincerely yours,
+Colonel, U012
+Tech -Nelligence Division
+Intelligence Department

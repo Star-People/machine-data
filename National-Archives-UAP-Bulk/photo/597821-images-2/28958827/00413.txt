@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:53:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3977363, "source_ctime_ns": 1793376016680794951, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958827/00413.jpg", "source_mtime_ns": 1785696450000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958827/00413.jpg", "source_sha256": "f8264505ec071b243cc83092c14d1d33ae349fb4fdc6116332c4818e662a1d78"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 662, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LINE
+NO.
+BOMB RELEASE
+TIME (GMT -
+to Second)
+EXPOS-
+URE NO.
+GZ
+NO.
+AIMING POINT
+(M-C or II & V Grid Coordinates)
+DIRECT
+N
+OFFSET
+BOMBING
+DATA FOR IBDA
+TARGET CHART
+REFERENCE
+NUMBER
+BOMBING
+ALT SET
+IN COM-
+PUTER
+ACFT
+TRUE
+HEAD-
+ING
+OFFSET VALUE
+E - W
+TRUE
+SPEED
+(Knota)
+STOP
+WATCH
+ATF
+(Seconda)
+TYPE
+BOMB
+AND
+CAPSULE
+PRE-SETI
+BURST
+ALT
+(Faet)
+AIMING
+(Check 1)
+Y
+ESTIMATED
+CIRCULAR
+ERROR
+FEET
+A ZI-
+MUTH
+AB
+O-15 CAMERA DATA CARD
+MODIFIED TO INDICATE
+'Light No
+Check "No" or "Yes
+INDICATION
+BOMB RELEASE
+OFFSET
+MEMORY POINT
+(Wind Determ.)
+BOMB BURST
+TRACKING
+NO
+YES
+REMARKS CONCERNING BOMBING BY THIS AIRCRAFT
+LIGHT
+NO.
+REMARKS CONCERNING BOMBING BY OTHER AIRCRAFT

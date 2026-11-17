@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:36:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 787871, "source_ctime_ns": 1793391272378437579, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557129/0667.jp2", "source_mtime_ns": 1785808253000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557129/0667.jp2", "source_sha256": "52877e3f44b84c476470018f587fffb5e5cfc8d334e4ec5e4d744ab789f51939"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 791, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+15 Oet. 66 16/01152
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+onc
+5.
+LENGTH OF OBSERVATION
+10 minutes
+6. TYPE OF OBSERVATION
+Ground Visual
+7. COURSE
+Northward
+8. PHOTOS
+D) Yes
+AL No
+19.
+PHYSICAL EVIDENCE
+I Yes
+A No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous editions of this form may ba used
+2. LOCATION
+Campbellsvil.:,
+nentucky
+multiple
+10. CONCLUSION
+6 13
+Satellite (Echo
+At 2013 EV ScholI was over 96W-40N on a north-
+erly heading.
+11. BRIEF SUMMARY AND ANALYSIS
+Observers watched a star like object traveling toward
+the north.
+It seened to travel at a very slow rate of
+speed, and took about 10-15 minutes to travel across the
+It made no sound, just looking like a slow møv-
+ing star.
+The description is consistent with that of a satellite
+observation.

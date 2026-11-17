@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:38:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 988804, "source_ctime_ns": 1793389116203449629, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536555/0207.jp2", "source_mtime_ns": 1785808206000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536555/0207.jp2", "source_sha256": "f1a26ceb9ec2851d0bfda336c2b0f1ce3f48ac7f9da84b6f7d1b97d902915008"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 281, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case, Information Only
+Source:
+FSIC Bulletin, Vol 2, # 1
+11 November 1964
+Akron, Ohio
+kron Area ... November 11, 1964.
+A huge pure white
+bject with a thick trail was seen in the NW sky
+at 9:50 P.M.
+Robert Noland, a physical education teacher saw the extremely
+brilliant "fall*.

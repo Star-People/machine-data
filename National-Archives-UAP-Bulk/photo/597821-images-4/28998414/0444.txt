@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:12:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8036336, "source_ctime_ns": 1793387231997589320, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998414/0444.jpg", "source_mtime_ns": 1785748219000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998414/0444.jpg", "source_sha256": "8c6b21eb66d886cdc59b4c06e7d8856696b3542246ab590cfd2a32d743023a16"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 632, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE
+Jul 62
+3. DATE-TIME GROUP
+2215
+Local
+›M T
+5. PHOTOS
+10 01152
+• Yes
+O No
+7. LENGTH OF OBSERVATION
+BRIEF SUMMARY OF SIGHTING
+ATIC FORM 329 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+i scons in
+TYPE OF OBSERVATION
+D Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+vilian
+8. NUMBER OF OBJECTS 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+•
+Was Aircraft
+Probably Aircraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+• Other.
+Insufficient Data for Eval
+Unknown
+11. COMMENTS
+ble
+in
+would
+the
+sighting
+condi
+factors
+indica
+cho was

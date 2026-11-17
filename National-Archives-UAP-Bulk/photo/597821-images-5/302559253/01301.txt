@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:47:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1747119, "source_ctime_ns": 1793391527359325297, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559253/01301.jp2", "source_mtime_ns": 1785808121000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559253/01301.jp2", "source_sha256": "087cf4b16f20d1bc58a4ebae54a85183298ba8bc67a3f2eb3f75ba174ecbc9c0"}
+
+===== PAGE 1 =====
+{"alpha_words": 201, "chars": 1528, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(2) Light conditions.
+(use on of the following temo: High, day,
+dawn, dusk) Both objects sighted in darkness.
+e. Location of Observer(s). Exact latitude and longitude of cach observer,
+and/or geographical position. A position with reference to a known landmark
+also should be given in electricalreports, such as "2mi N of Deeville; "3mi
+SW of Blue LakeiỊạ
+Typographical errors or "garbling" often results in electrically
+transmitted messages, making location plots difficult or impossible.
+EXAMPLE:
+- 89 45N, 192 71W for 39 45N, 102 21W.
+let object- 6 mi so of Elizabeth, Colo.
+2nd obiect- at home in Elizabeth, Colo.
+f. Identifying Information on Observer(s):
+(1) Civilian - Name, age, mailing adore
+reliability.Mrs. Bs.
+and
+occupation, colo:
+estimate of
+Elizabeth,
+(2) Military - Name, grade, organization, duty, and estimate of
+reliability.
+• NA
+Weather and winds
+Aloft conditions at time and place of sightings:
+Clear, no cloud cover
+(1) Observer(s) account of weather conditions.
+Clear as a bell. No wind, no clouds.
+(2) Report from nearest AWS or U.S. Weather Bureau Office of wind
+10,000', 16,000',
+diection and velocity in degrees and hots staircace 16 Deo 66] wind at 220 true no
+20,000', 30,000', 50,000', and 80,000' if available.
+at 8 Kts
+22 Dec 66 wind at 180 true at 2 Kts
+(3) Ceiling.
+18 Dec 66/ High scattered-22 Dec 66 4000 scattered.
+(4) Visibility. 18 Dec 66/60 mi.
+22 Dec 66/20 mi.
+(5) Amount of cloud cover. 18 Dec 66/.3
+_22 Dec 66/.6
+(6) Thunderstorms in area ad quadrant in which located.
+Both dates-None

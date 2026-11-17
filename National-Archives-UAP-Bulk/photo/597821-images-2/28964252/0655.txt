@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:53:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3876694, "source_ctime_ns": 1793377551928398690, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964252/0655.jpg", "source_mtime_ns": 1785696762000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964252/0655.jpg", "source_sha256": "0eae45c1d8f2b18e50d7cd111c3d67ea111e12e081b891a2d353ef37be9d21bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1006, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HQ 0Ø7
+PP RJEDWP
+PP RJAPAD RJEDWP RJEDEN
+16 DEC 1955
+DE RJEPHQ 148
+UNCLASSIFIED
+08 05 -7
+PI
+FM HED USAF WASH D C
+T0 RJAPAD/COMFEAF TOKYO JAPAN
+INFO RJEDWP/AIR TECHNICAL INTEL CENTER WRIGHT-PATTERSON AFB OHIO
+RJEDEN/CINCONAD ENT AFB COLO
+ВГ
+INECOM ТІОМ
+1-01N-4
+2 - 4E4
+3-
+/ FROM AFOIN¿2A1 53453 YOUR
+INDICATIONS
+MESSAGES NO.
+53 AND 56 PASSED TO AFOIN-4 (ATIC) FOR INFO AND EVALUATION. AFOIN 4
+HAS REQUESTED CLARIFICATION YOUR MESSAGE WHICH STATES QUOTE AT
+THE TIME OF INCIDENT THE MOON WAS AT 191 DEGREES FROM THE POSITION
+OF THE AIRCRAFT END QUOTE
+AFOIN-4 QUERRIES QUOTE SHOULD NOT THIS AZIMUTH LOCATION READ 291
+DEGREES. A POSITION OF 191 DEGREES WOULD LOCATE THE MOON IN SSE
+DIRECTION AT TIMEOF SETTING WHEREAS A POSITION OF 291 DEGREES WOULD
+ESTABLISH THE CORRECT APPROXIMATE LOCATION IN THE WEST AT SETTING
+END QUOTE. REQUEST YOUR COMMENT BE ADDRESSED TO AFOIN-4 (ATIC)
+WITH INFO AT ADC AND THIS HEADQUARTERS.
+PARAPHRASE
+15/2350Z DEC RJEPHQ
+CATEGO
+• PROR TO
+Y REMOVE
+TIME GROUP
+UNCLASSIFIED
+55-21827-2

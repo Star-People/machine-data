@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:52:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3724775, "source_ctime_ns": 1793372154522302201, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941587/1159.jpg", "source_mtime_ns": 1785688640000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941587/1159.jpg", "source_sha256": "19ad6b348c21da102d20a160805c69069b4b345d0f63aaabadfe95d4c1473b7f"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1092, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TO ZEN/CG ADC ENT AFB COLO SPGS COLO
+JEDWP/CHIEF AIR TECH
+"TEL CTR WRIGHT PATT AFE OH
+INFO JEPHQ/CIR INTEL DCS/O USAF WASHDC
+UNCLASSIFIED
+D/4692D AISS 527. FOLLOWING RPT OF UNIDENTIFIED
+FLYING OBJECT:
+(1) SWEPT WING, NO FUSELAGE, 19 TIMES LARGER THAN JET FTR, SPEED
+250 MPH, NO SOUND, COURSE 315 DEGREES, COLOR DARK W/LUMINOUS GLOW,
+FLIGHT STRAIGHT AND LEVEL, DISAPPEARED BEHIND ROOF LINE.
+(2) 2915 HRS MST - 5 TO 10 SEC.
+(3) VISUAL, GROUND.
+(4) IN BACK YARD OF 313 S CASCADE, COLORADO SPRINGS, COLO. OBJECT TO
+RIGHT AND ABOVE OBSERVER, APPROX 5,00 FT.
+(5) •MR
+OWNER OF
+• COLO
+SPRINGS, COLO, PROBABLY RELIABLE, NO TECHNICAL EXPERIENCE, OBJ SIGHTED
+THROUGH BARE TREE BRANCHES WHICH ARE GRAYISH-WHITE IN APPEARANCE•
+2730
+(6) 2030 MST 6500 THIN BROKEN, EST 15,000 OVERCAST, VISIBILITY 15
+PLUS: SEA LEVEL PRESSURE 1012.2, TEMP 27 DEG F, DEW PT 12, WIND SW
+5 MPH, ALTIMETER 29.73. OBSERVER STATED HE SAW STARS AT TIME WHICH
+WOULD HAVE BEEN POSSIBLE. WEATHER CAVU AT 0032 HRS.
+(7) NONE
+(8) NONE
+(9) NONE
+24/23172 APR JEDEN
+DOWNGRADED AT S YEAR INTERVALS
+DECLASSUFIED AFTER 12 YEARS
+DOD DIR 8200.10

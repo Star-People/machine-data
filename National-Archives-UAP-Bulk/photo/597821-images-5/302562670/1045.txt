@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:41:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1285013, "source_ctime_ns": 1793391944428081367, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562670/1045.jp2", "source_mtime_ns": 1785808702000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562670/1045.jp2", "source_sha256": "ccbacba235d4bf7304f25d8cb48c659d44acf7544c459b4b37b773e83a37d87d"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 944, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+MEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT PATTERSON AIR FORCE BASE. OHIO 49433
+ANT 1 Lt. G. D. Myers
+ATTN OF:
+SUBJECT
+DO Report for the Period
+0715
+0715 hours 26 March
+hours 25 Mar 01967
+1967.
+TO: TDX
+1. [50oL 24Mch 6] hours, reported to ASO for briefing.
+2. 1525L 24Mch
+hours, received Command Post and TIC briefing.
+3. 1'800L 2100L.
+_ hours, completed security check of Command Area.
+4. Collected the following TOP SECRET messages from the Communi-
+cations Center and enclosed TOP SECRET data (messages and related
+receipts) in TOP SECRET Message Envelopes.
+CITE NUMBER
+5. Delivered following messages including TOP SECRET to the
+FID Communications Center, or Base Communications Center,
+Bldg 262 (copies attached).
+CITE NUMBER
+CLASSIFICATION
+6. Authorized the following long distance telephone calls.
+PERSON MAKING CALL
+PERSON BEING CALLED
+L MyersSDC
+cMsty Alderson
+PHONE #
+667-6439
+DESTINATION
+Huma

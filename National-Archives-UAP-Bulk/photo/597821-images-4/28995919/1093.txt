@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:53:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4005990, "source_ctime_ns": 1793386383373017278, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995919/1093.jpg", "source_mtime_ns": 1785748265000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995919/1093.jpg", "source_sha256": "478f6dc52481b141c2e92c894766d8dbcf13d51f93d9a62a45c435df6ad75d6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 848, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10 January 1962
+Dear Mra.
+Your recent letter concerning an unidentified flying object has
+been received.
+From the information furnished, it is not possible to state whet
+the object was. I have enclosed three copies of our standard question-
+naire.
+Request you complete one of these and have other withesses complete
+the remaining copies.
+If possible, try to determine what your local police were able to
+learn as a result of your call.
+You might also determine if the fire
+and smoke near the factory was a result of your observation.
+Your interest in reporting this sighting is appreciated. Please
+forward the completed questionnaires in the enclosed pre-addressed
+envelopes. No postage is required.
+Sincerely,
+WILLIAM T. COLEMAN, JR.
+Major, USAF
+UFO Project Information Officer
+Publie Information Division
+Office of Information
+Bartlett, Illinois

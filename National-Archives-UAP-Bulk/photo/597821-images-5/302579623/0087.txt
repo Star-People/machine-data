@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:42:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1412839, "source_ctime_ns": 1793393657285482456, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302579623/0087.jp2", "source_mtime_ns": 1785808453000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302579623/0087.jp2", "source_sha256": "b5b3377f710741069f48c202f9e06bcf74a96f2a13de60cc3d8d0c49d56d0bf8"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 801, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+GROUP
+2. LOCATION
+ONTO
+3. sO
+D. CONCLUSION
+INSUFFICIENT DATA FOR EVALUATION
+NUMBER OF OBJECTS
+ONE
+5. LENTH OF OBSERVATION
+ONE HOUR
+6. TYPE OF OBSERVATION
+GROUND-VISUAL
+7. COURSE
+ARY IN WEST
+0. PHOTOS
+• Yes
+9 No
+9. PHYSICAL EVIDENCE
+11. BRIEF SUMMARY AND ANALYSIS
+The observer reported to the Duty Officer that he and
+two other witnesses had sighted a light, about the
+intensity of Jupiter, that changed colors between white,
+green and red. The light gradually disappeared below
+the horizon in the West after an hour.
+COMMENTS: AF Forms 117 were sent to observer and
+witnesses. None were returned within 30 days.
+Description is consistent with star planet but carried
+as Insufficient data since 117 not returned.
+• No
+FORM
+FTD SEP 63 0-329 (TDE) PRY.
+ona of this fora may be usad.

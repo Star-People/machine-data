@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:07:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6654907, "source_ctime_ns": 1793383801612388562, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987923/0077.jpg", "source_mtime_ns": 1785748077000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987923/0077.jpg", "source_sha256": "67bbbc686ed012aa433cd809edeb092bd94031efbcb538531975a2f6c2f2c318"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 893, "method": "ocr", "page": 1, "variant": "plain-vision"}
+01-3d/1t col tacker/kd/72201
+22 July 1960
+Dear Mr.
+Mrs -
+r reported to the United States Air Force
+the fact that you sighted an unidentified flying object
+on Thursday night 21 July 1960 at 9!30 p.m. near Hyattaville,
+Maryland.
+Your report contains insufficient information for a
+valid conclusion. Therefore, request you complete the
+attached Air Force Questionaire in regard to the sighting
+and forward the completed paper to the Aerospace Technical
+Intelligence Center, Wright-Patterson Air Force Base, Ohio
+for analysis and/or evaluation.
+For your information I am inclosing latest Department of
+Defense Press Release on this subject dated 21 July 1960.
+It plainly states the Air Force position on unidentified
+flying objects.
+Sincerely,
+Inc 1s
+LAWRENCE J. PACKER
+It. Col. USAF
+Public Information Division
+Office of Information
+% Mrs. 3
+West Hyattaville, Maryland
+01-3d comeback
+oi-1 reader

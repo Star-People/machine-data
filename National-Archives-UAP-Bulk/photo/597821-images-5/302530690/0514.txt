@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:48:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1752683, "source_ctime_ns": 1793388648352795494, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530690/0514.jp2", "source_mtime_ns": 1785808062000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530690/0514.jp2", "source_sha256": "e82c6add6dede0a69f41420c5a43a317afbe5cfcd5af8cb482af96d4a7a4ab2d"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 967, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+9 Oct 1953
+DATE-TIME GROUP
+Locol
+GHT
+10/01032
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Kansas City Mo
+TYPE OF OBSERYATION
+@ Ground-Visuai
+• Air Visual
+D Ground-Rodar
+• Air-Intercept Rader
+3. SOURCE
+•Yes
+11 No
+1. LENGTH OF OSSERVATION
+Civilian
+3. NUMBER OF OBJECTS | 9% COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bailoon
+Was Aircraft
+Probabiy Aireraft
+Possibly Aircraft
+Was Astronomical
+Probabiy Astronomica
+Possibly Astronomico
+Othar
+Insufficiant Data for Evaluation
+Unk no um
+3 - L Seconda
+SM
+10. BRIER SUMMARY OF SIGHTING
+11. COMMENTS
+Small, dull green object size of star observed
+Conflicting statements in that object
+in flight. Described as Arc from N - S.
+disappeared when building blocked view,
+Disappeared when house blocked view. Went
+and when last observed was heading
+straight up when last seen.
+straight up. Possible meteor (Duration)
+or searchlight (Manuevers). Insufficient
+data for analysis.
+ATIC FORM 329 (REV 26 SEP S2)

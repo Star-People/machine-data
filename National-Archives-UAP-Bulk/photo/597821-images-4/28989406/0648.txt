@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T01:50:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3221164, "source_ctime_ns": 1793384192527562835, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989406/0648.jpg", "source_mtime_ns": 1785748527000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989406/0648.jpg", "source_sha256": "5d1406431077c99ea1a9ed4696cbc5ae9d3d653d04084441c6a6a15f7560ce9e"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 485, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NANN
+RECEIVED
+28 SEp60 09 V9
+ATIC
+ZCZCSQP#04CZCSQB976ZCWYA898
+CO RJEDSQ
+DE RJAISA 10A
+O 281320Z ZEX
+FM DET 5 8 WEA GP SHEPPARD AFB TEX
+TO RJEZHO/HQ USAF CINIBI
+RJEDSQ/ATIC AFCIN 4A WRIGHT PATTERSON AFB OHIO
+10 60
+RJEXDH/ SPACE TRACK HANSCOM FLD MASS
+INFO RJEDAA/HQ AWS AWSSS SCOTT AFB ILL
+AFGRNC
+BT
+UNCLASS FR DET 5, 8WGC 28-J-2.
+MOON DUST SIGHTED BY LCL POLICE TO HAVE LANDED IN FLD TEN
+MILES SSW SHEPPARD AFB, TEXAS AT 28/1025Z. SEARCH WILL BEGIN
+AT DAYBREAK.
+BT
+28/1341Z SEP RJWFSA

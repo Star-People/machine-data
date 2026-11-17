@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:21:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16240216, "source_ctime_ns": 1793356405246388896, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0005.tif", "source_mtime_ns": 1785564699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0005.tif", "source_sha256": "84a2f0da37c90aee02eb4734ae6973cd96388b19b307dac6a3af322cec0c9dbf"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 785, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECRET,
+Air Materiel Command Aero-Medical Laboratory (Dr. Paul M. Fitts -
+212 Incidents considered)
+There are sufficient psychological explanations for the reports of
+unidentified flying objects to provide plausible explanations for re-
+ports not otherwise explainable. These errors in identifying real
+stimuli result chiefly from inability to estimate speed, distance, and
+size•
+All of the remaining 34 incidents are treated in detail in this
+report. These incidents form no pattern in regard to area of sighting,
+type of object, or manner of performance. There are indications, how-
+ever, that some sightings were influenced by earlier reports, and
+probably would not have been considered unusual or reported had there
+been no publicity.
+SECRET
+Declassification Authority: NND 57565

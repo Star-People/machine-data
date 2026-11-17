@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:09:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7092729, "source_ctime_ns": 1793383301451790046, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986687/0411.jpg", "source_mtime_ns": 1785747979000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986687/0411.jpg", "source_sha256": "bfa58e7a3c07015b249799467cb6cd343266ca8b72fc9c87e26cc6dd5ef28ef6"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 713, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+22 Apr 60
+3. DATE-TIME GROUP
+Local _
+GMT 22/1315Z
+5. PHOTOS
+• Y•s
+F No
+7. LENGTH OF OBSERVATION
+2 sec
+10. BRIEF SUMMARY OF SIGHTING
+White ball of light with a flame training,
+size of the head of a thumbtack.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Orleans, Francè
+4. TYPE OF OBSERVATION
+Di Ground-Visual
+• Air Visual
+SOURCE
+Military
+8. NUMBER OF OBJECTS
+or
+• Ground-Radar
+• Air-Intercept Radar
+9. COURSE
+Descending
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical Meteor
+Possibly Astronomical
+000
+Other
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+Probably a meteor.
+ATIC FORM 329 (REV 26 BEP 53)

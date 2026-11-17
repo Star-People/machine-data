@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:16:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9933321, "source_ctime_ns": 1793364061563185677, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0036.jpg", "source_mtime_ns": 1785684579000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0036.jpg", "source_sha256": "13b132094307df7ff80f99bd1edb2f754eee60261382dc29354f26d9c4513b73"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 97, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+ПИСТУ22ІLЕD
+A YI
+Ya
+eNer
+DI
+SASU
+TO SONO
+CHOTIACAL JAINTE
+Declassification Authority: NND 923007

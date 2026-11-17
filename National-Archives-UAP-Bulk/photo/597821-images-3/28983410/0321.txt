@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:01:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5264965, "source_ctime_ns": 1793382348938399817, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983410/0321.jpg", "source_mtime_ns": 1785700924000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983410/0321.jpg", "source_sha256": "75180c914a41bceb602bf6febaf3421edc8cc8aa82f700a94eaa428075d04d3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 685, "method": "ocr", "page": 1, "variant": "plain-vision"}
+P. 1217152
+FM COMDR 649TH RADAR SQUADRON
+TO RJEZHQ/ASST CHIEF OF STAFF INTELLIGENCE HQ USAF
+RJEZHQ/OIS HQ USAF
+RJWFAL/COMDR ADC ENT AFB
+RJEZSN/COMDR 26TH ADIV
+RJEDSR/COMDR ATIC WRIGHT PATTERSON AFB
+INFO RJEZSN/COMDR 100STH AISS ENT AFB
+RJEDAM/COMDR WAADS
+BT
+/UNCLAS/FROM RDR-OPS 897.
+REASON FOR CLASSIFICATION OF UNIDENTIFIED FLYING OBJECT REPORT
+FROM 649TH RADAR SQUADRON (SAGE) DATED 9 JUNE 1959. THIS MESSAGE
+WAS CLASSIFIED IN ACCORDANCE WITH AFR 208-2, PARAGRAPH 18 (C› (D)
+TO PREVENT POSSIBLE COMPROMISE HEIGHT CAPABILITY OF OUR RADAR AND
+TO PREVENT POSSIBLE COMPROMISE OF ALTITUDE CAPABILITY OF USAF
+AIRCRAFT IF THEY WERE THE TARGETS OBSERVED.
+BT
+10/1732Z JUN RJEDAML
+NANN
+07 33
