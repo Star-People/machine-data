@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:04:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 993019, "source_ctime_ns": 1793392311728075421, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302566991/0752.jp2", "source_mtime_ns": 1785808667000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302566991/0752.jp2", "source_sha256": "1b66f5a440bf16ddebc937ce0b3c9f5ea65773decef6a238e2ff4a5d53148377"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 62, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "clean-vision"}
+Jupiter?
+Disappeared
+Venus
+Unidentified
+Object
+only i seegh/:

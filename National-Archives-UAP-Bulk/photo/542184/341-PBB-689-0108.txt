@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:43:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12449365, "source_ctime_ns": 1793366704202162810, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0108.jpg", "source_mtime_ns": 1785565578000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0108.jpg", "source_sha256": "395ec9b4fde3bc2672a222cb5234434287d6f60a56b39c0f107c6fc82659186b"}
+
+===== PAGE 1 =====
+{"alpha_words": 14, "chars": 86, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee
+—
+=,
+,
+~~,
+“ee
+ting *
+Se}
+a
+Were
+‘Pte,
+ieee
+ee,
+aiid
+geo
+Pall
+—
+—
+ee
+—
+al
+—
+a
+a
+Fi

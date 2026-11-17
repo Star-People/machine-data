@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:39:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8512931, "source_ctime_ns": 1793362262920951050, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0016.jpg", "source_mtime_ns": 1785685169000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0016.jpg", "source_sha256": "b8997cd279e3efd92ec266617ccfd3f343057c353dccbec64ffd148d029a2dcb"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-vision"}
+On 2l July 1949, investigation of the Pineville News, revealed that
+ROBERT
+SILLS, Jr., Pressman and Compositor, was instigator of the hoax along
+rith two other individuals, newspaper emp.oyees
+concerning the operations of
+the flying discs in the vicinity of Pineville, La. Mr. SILLS advised the wri-
+ter that the story as printed in the 15 July 1949 edition of the Pineville
+News was false and without foundation. The news used in this article was ficti-
+tious. Mr. SILLS further advised that the hoax was prepared purely in fun
+with no thought to cause anyone any trouble. Mr. SILLS would not name any of
+the other individuals involved and stated that he would take full responsibility
+for the entire misunderstanding.
+Closed
+Declassification Authority: NND 923007

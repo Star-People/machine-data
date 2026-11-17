@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:14:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3346221, "source_ctime_ns": 1793371144405141921, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936814/1129.jpg", "source_mtime_ns": 1785688902000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936814/1129.jpg", "source_sha256": "30bb075cd811593d4a70d0a441761054ed2e63811663590e8f5cac62188d8e07"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 924, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ANNUAL METEOR SHOWERS
+For the information of the casual observer the following
+data concerning the principal annual meteor showers are given.
+For leap years the dates should be one day earlier than those
+All dates are those of the evening on which the
+maximum is due, even though the shower appears after midnight
+and therefore on the next calendar date. For the average year
+the Perseids are the richest stream, followed in order by the
+Geminids and Orionids.
+The American Meteor Society is
+always glad to receive accurate hourly counts of meteors
+made by one person on any of the nights when annual streams
+are active, or, for that matter, on any clear night whatever.
+Duration
+in days
+Name
+Quadrantids
+Lyrids
+Date of
+Maximum
+Jan. 2
+April 21
+Hourly Number
+of all meteors on
+this date
+Geminids
+14
+Dec. 12
+23
+*Brilliant shower in 1933; return?
+1945 May 21
+Charles P. Olivier,
+Flower Observatory,
+Upper Darby, Pa.
+20:2
+9 1 3

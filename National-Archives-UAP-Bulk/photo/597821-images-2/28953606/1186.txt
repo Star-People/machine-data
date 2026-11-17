@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:16:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3748880, "source_ctime_ns": 1793374866656486666, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953606/1186.jpg", "source_mtime_ns": 1785696590000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953606/1186.jpg", "source_sha256": "1a1564a9ca9cadd686a339773fe2892e821d61844d1429ccb993eab858f6483a"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 235, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART 11
+APPHOVED 1 JUME 1948
+FROM (Agency
+UNCLASSIFIED
+AIR INTELLIGENCE INFORMATION REPORT
+T NO.
+PAGE
+N
+A OBJECT
+1950 I
+ANTENNA
+100 YDS
+• OBJECT
+2125 I
+W
+300
+YDS
+RANGE
+UNDETERMINED
+POINT OF OBSERVATION
+Inel #3
+PAGES
+E
+119.

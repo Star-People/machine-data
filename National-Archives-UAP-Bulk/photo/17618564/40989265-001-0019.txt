@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:44:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13934778, "source_ctime_ns": 1793355319298225677, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0019.jpg", "source_mtime_ns": 1785564434000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0019.jpg", "source_sha256": "bc9ec2bc3668272bb38bce60563914951bd10b985cfc2e0a414d1666f631349d"}
+
+===== PAGE 1 =====
+{"alpha_words": 258, "chars": 1681, "method": "ocr", "page": 1, "variant": "plain-vision"}
+This sequence of photographs was
+taken during the launch of a typical
+scientific experiment under the Skyhook
+program in 1972 and shows experimen-
+tal equipment for the balloon hanging
+from the launch truck boom, the balloon
+bubble being inflated with helium gas,
+immediately after being released from
+the anchor vehicle, and momentarily
+suspended over the launch vehicle just
+before picking up the payload. In the
+last photograph, the balloon has been
+launched and is ascending toward its
+float altitude.
+(NCAR/NSF Photo)
+In the foreground is the parachute which will return the pay-
+load of scientific instruments to the ground. The strato-
+spheric research balloon in the background will carry its
+cargo on a predetermined flight path above the earth.
+(INCAR/NSF Photo)
+An NCAR technician at the National Scientific Balloon Fa-
+cility removes the protective covering from the actual balloon
+train just prior to launch.
+(INCAR/NSF Photo)
+Four plastic Skyhook balloons, constructed for the ONR by
+General Mills, Inc., are prepared for an early morning launch.
+The Skyhooks appear only partially inflated because the gas
+expands as the balloons rise to the upper atmosphere.
+(U.S. Navy Photo)
+34
+Skyhook balloon 93 leaving the deck of the U.S.S. Norton
+Sound
+(U.S. Navy Photo)
+A giant spool holds a balloon down as the bubble-the portion
+of the balloon filled with helium for launching-expands and
+rises. On the ground, the balloons are only partially inflated.
+As they rise into a less dense atmosphere, the helium in the
+balloon expands sometimes to a size large enough to encom-
+pass a football stadium or two.
+(NCAR/NSF Photo)
+Preparation for balloon launch.
+35
+(Author Photo)

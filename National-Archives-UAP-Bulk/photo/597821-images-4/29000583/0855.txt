@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:23:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5205750, "source_ctime_ns": 1793388248775773476, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000583/0855.jpg", "source_mtime_ns": 1785748003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000583/0855.jpg", "source_sha256": "6912893f4c5b4108ed543842aa68fa286ea0e726d1df2ce27355bd85b66db7ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 574, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 24510 (8 Apr 63)
+A/ab
+ACTION: NIN-9
+INFO : XOP-1, XQPX-4, SAF-OS-3, DIA-20, DIA(CIIC)-2
+SM B B148
+ZCHQA841ZCECB401
+.....
+ZZ RUEAHQ
+DE RUDIC 263
+ZN R
+Z 082206Z
+FM COMBARFORLANT
+TO RUECW/CNO
+RUCKHC/ CINCLANTFLI
+RUEAHQ/HQ U!SAF
+RIWGALB/ CINCONAD
+RUEASN/26 NORAD REGION
+RUEGUH/ COMEASTSEAF RON
+INF O RUCKDT/ COMASWF ORLANT
+NAVY GRNC
+(40)
+UNCLAS
+LOCATING ONE UFO
+1. POSS SATELLITE
+2. 6226N 1024W
+3. 0821302
+4. CUS 160 SPD EST. 18000
+5. VISUAL
+6. ALT UNKNOWN
+BT NOTE
+: Adv cy de1 to DIA & NIN

@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:08:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1348353, "source_ctime_ns": 1793356037479864633, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0175.jpg", "source_mtime_ns": 1785564589000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0175.jpg", "source_sha256": "ba91daa72d0e3384391983055fe2f580561e149f9315123f5fb01dd3fddfe552"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1201, "method": "ocr", "page": 1, "variant": "plain-vision"}
+The temperature data obtained was of considerable value, especially
+to determine the effect of insulation of the battery pack. It was
+found on most flights where reasonable thermal insulation was applied
+that the temperature of the pack remained above 0°C after several
+hours of exposure at nighttime. The extreme observed was -10°C.
+Daytime flights had the added advantage of heating from the sun.
+The temperature of the lifting gas at the ground was ordinarily
+found to be somewhat below the temperature of the air. This is due
+to the extreme cooling encountered in the expansion of the compressed
+gas as it was fed from the tanks into the balloon. During the rising
+39o a a the finine love a diren a of about point hy
+less rapidly
+was common. A typical temperature trace is shown in Figure 35.
+30 -
+20 -
+HEIGHT - Thousands
+Air Temp
+Batt. Temp.
+Bell. Temp.-.-
+0800
+1000
+1200
+1400
+1600
+1800
+2000
+2200
+Figure 35. Typical temperature record.
+2400
+To permit the transmission of both temperature and pressure data by
+one radio channel, a pair of progremming switches have been de-
+signed and flight tested. The first is the temperature switch (Figure 36),
+Figure 36. Temperature programming switch.
+-75-

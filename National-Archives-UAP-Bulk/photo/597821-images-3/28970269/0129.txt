@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:18:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4073484, "source_ctime_ns": 1793378961899423638, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970269/0129.jpg", "source_mtime_ns": 1785700795000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970269/0129.jpg", "source_sha256": "62a3ba8ad902541ac18a92248056af83746df20fb238482c42c4f68e08e2af19"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 687, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DO HUINL
+C. NONE
+4•
+A. 14/2114Z
+B. N/A
+5. 635TH ACW SQ OPERATIONS
+6 .
+A. NA
+B. A/3C RAYMOND ROBERTSON, A/1C JAMES BOWEN 635TH ACW SQ
+7. A. CLEAR
+B. 10,000 FT
+16,000
+20,000
+30,000ł
+40,000
+50,000
+240 DEGS
+240 DEGS
+240 DEGS
+270 DEGS
+300 DEGS
+300 DEGS
+05 KNOTS
+10 KNOTS
+10 KNOTS
+10 KNOTS
+20 KNOTS
+20 KNOTS
+C. HIGH
+D. 15 PLUS
+E. 30 PER CENT
+8. SUSPECTED DEFLATED WX BALLOON
+9. RECORDERS LOG, SURVEILLANCE LOG, OPS B LOG AT 635TH ACW SQ.
+OPERATIONS
+10. DIVERTED ONE T-33 FROM MCCHORD AFB INSTRUMENT SCHOOL. NO SIGHTING
+MANDE.
+11. N/A
+12. RELATIVELY SLOW RATE OF DESCENT INDICATES THE POSSIBILITY OF A
+DEFLATED WX BALLOON. USCG IS INVESTIGATING AREA OF POSSIBLE
+LANDING.
+BT
+15/0236Z JUN RJWPDM

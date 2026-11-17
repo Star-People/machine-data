@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:26:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6012412, "source_ctime_ns": 1793378413624436164, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967907/0904.jpg", "source_mtime_ns": 1785696830000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967907/0904.jpg", "source_sha256": "febe7156efc798219fa3ef0e7418d0e1d41b57c8a6a3a13d8d32a7e1d703cd4d"}
+
+===== PAGE 1 =====
+{"alpha_words": 231, "chars": 1427, "method": "ocr", "page": 1, "variant": "plain-vision"}
+17 November 1956
+Now, to less professional things. The last three weeks have been a little
+the hectic side. A full-dress rehearsal, plus a command performance to the ic
+people on our mutual project, was given recently. It came aa a very pleasant
+surprise - but it was something that had been a prine objective since my tenure
+here. A multitude of itens vere covered with some of the top people. Will dia-
+cuss this in detail with you during ny visit to Poston.
+I should like to thank you in behalf of those members of the Air sciences
+Division who were tendered invitationa to witness the project in Vandalia.
+certainly enjoyed it, and there was some interesting discussions the naxt day on
+poasible applications of the instrument other than those considered during the
+"under-the-atars" forum.
+I have made payabia to your consultant account the sum of
+for four
+and one-half hours of contact services rendered on the 17th of October. We have
+Just received a detailed regort on the "I saghting" and I will send you a copy
+under separate cover for any commenta you fcel neceasary in light of the addition-
+al info. Your assumptions appear correct. Indications are that all the sigatings
+were not concurrent as to time. I will include a radar scope plot that ia pre-
+pared in rather rouga form. Some interesting things there, a lao.
+Expesting to see you on our mutual project on or about the 27th, I remain
+Sincerely yours,
+incla

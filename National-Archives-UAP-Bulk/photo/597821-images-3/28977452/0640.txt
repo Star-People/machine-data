@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:18:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4053939, "source_ctime_ns": 1793380647298997626, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977452/0640.jpg", "source_mtime_ns": 1785700635000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977452/0640.jpg", "source_sha256": "570caeefb52b0a432a8413f6dc2bd681088a8165e348ca866102bc844530de4f"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 574, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ADIO
+MCCONE LA RADIO
+6. IDENTIFVING IUFONMATION OF ALL CE
+• CIVILIAN UN REPORT TO
+B• MILITARY RONN
+7. WEATHER AND WINDS ALOFT AT C
+A. BOR COTD
+B. SURFACE 34 DEGRIE/5 KLOTS
+6.00 TET 347 DIGREES /30 KNOTS
+10000 FEET 800
+DIGREES/4 NOTS
+16020 FEET 270 DIGRRIS/6 KNOTS
+20000 FEET 270 DEGREIS/70 KNOTS
+30000 FEET 270 DIGRZES/14 KOTS
+50000 FEET 270 DEGRIRE/7 KNOTS
+BO00D FEET UNK DEGREES/UNK KOTS
+D. CEILING NONE
+-. VICIEIDLTY I MI
+I. CLOUD COVER SCATTERED
+F. THUNDERSTORUS HONE
+S. OEUECT OBERVED TO BI L
+DY PROF AT LEU DATO.
+ROUGE FROT OF
+11O.
+FIC.
+MIC CO
+IS TRUI
+ATTACH
+TELL AFE

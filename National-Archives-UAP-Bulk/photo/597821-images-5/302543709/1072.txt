@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:03:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 989326, "source_ctime_ns": 1793389758197700730, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543709/1072.jp2", "source_mtime_ns": 1785808643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543709/1072.jp2", "source_sha256": "0aa35be357ae678214a4c5aae62fa28e17d13df8d8340ab521db2cef8d26eb2c"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 413, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2 Senteber 1965 at 2300
+MOÒN 17.03.53Řš
+VENUS 13.03.37
+MARS
+14.21.20
+JUPITER 5.51.04
+SATURN 23.04.44
+105 .
+·13
++ c
+235 az 10 21ev
+Set
+Set
+Not Up
+140 ag 50 elev
+HOUSTON GAINS 20 Minutes astro time converting time
+to 1040PM. This elevates the MOON to 15 deg elevation
+on heading of 230 deg azimth and brings the Star
+ANTARES TO A position on the horizon at 240 des
+eminuth.
+ANTARES has a stellar magnitude of / 1.2

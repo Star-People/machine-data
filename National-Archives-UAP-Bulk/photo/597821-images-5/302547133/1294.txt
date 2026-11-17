@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:05:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1024038, "source_ctime_ns": 1793390160658415250, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547133/1294.jp2", "source_mtime_ns": 1785808232000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547133/1294.jp2", "source_sha256": "58365b95f14bbf346d2f8fcaf5da8a3b96781b11e3532efe9c330b5f21c569ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 486, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+DATE •
+TIME GROUP
+18 February 66
+18/1524
+- SOURCE
+Civilian
+NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+10 Seconds
+6.
+TYPE OF OBSERVATION
+Air-Visual
+COURSE
+2. LOCATION
+19.50N 170-0E (Pacific)
+10. CONCLUSION
+Astro (METHOR)
+BRIEF SUMMARY AND ANALYSIS
+Observer saw a lighted object entering the atmosphere and was
+visable for ten seconds.
+SSB
+PHOTOS
+• Yes
+9. PHYSICAL EVIDENCE
+i] Yes
+XX No
+FORM
+FTD SEP 63 0-329 (TDE) Proton
+(1 Witness)
+¡tiona of thia !=
+y so 1306.

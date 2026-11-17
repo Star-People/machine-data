@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:30:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6910063, "source_ctime_ns": 1793381298904696012, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979772/1314.jpg", "source_mtime_ns": 1785700993000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979772/1314.jpg", "source_sha256": "f950b6063661a58014270e0949571d5cb16273c3d74b54928cb7e2ee73114860"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 672, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/UNCLAS/ OPS CITE 890 UFO
+A 1.
+CIRCULAR
+PIME
+FLASHING RED GREEN AND VILOET
+-
+5. NONE
+BLINKING COLOR
+7. NONE
+8. DIDNT HEAR ANY SOUND
+9. NONE
+PAGE 2 DE RJWZGU 2G
+B 1. ITS BRIGHTNESS
+2. DEGREES ABOVE HORIZON AZIMUTH 170 DEGREES
+• DEGREES ABOVE HORIZON, AZIMUTH 180 DEGREES
+4. SEEM TO MOVE TO THE WEST, THEN AS THE APPEARED IT STARTED
+TO GAIN ALTITUDE. THIS OBJECT REMAINED IN THE POSITION OF
+5 DEGREES ABOVE THE HORZON FOR 30 TO 40 MINUTES,
+5. AS THE SUN ROSE IT GAINED ALTITUDE UNTIL IT DISAPPEARED.
+6. 1 HOUR AND 30 MINUTES.
+C 1. GOUND-VISUAL
+2. NONE
+3. N/A
+D 1. 0710332
+1033-6 = 043ª
+2. NIGHT AND EARLY DAWN
+E 1. 103 DEGREES 50' W 48 DEGREES 50' N. 29 M WEST OF CROSBY ND

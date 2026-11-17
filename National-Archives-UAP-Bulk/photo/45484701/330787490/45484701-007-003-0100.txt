@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:38:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8718830, "source_ctime_ns": 1793364671110923343, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0100.jpg", "source_mtime_ns": 1785684889000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0100.jpg", "source_sha256": "481d268acb4a63031f8be123eb3cce8e1f96887a196d743dfd8e23802fd6512f"}
+
+===== PAGE 1 =====
+{"alpha_words": 208, "chars": 1520, "method": "ocr", "page": 1, "variant": "plain-vision"}
++ 19D PSI 24-342
+10 December 1957
+*SUBJECT: Unidentified Flying Objects
+(a) Mr. GEORGE A. ROGERS, Civilian, 1185 Sharon Way, Reno,
+Nevada; Mortician, and Owner of Rogers Funeral Homes.
+(7)
+Weather and winds-aloft conditions at time and place of
+sighting:
+(a) Observer's account of weather conditions: Clear, with
+no cloud cover and no moon.
+(b) Report from nearest AWS or U. S. Weather Bureau Office
+of wind direction and velocity in degrees and knots:
+At 10,000 feet - 10 knots from 200 degrees
+At 11,000 feet - 10 knots from 200 degrees
+At 15,000 feet - 15 knots from 200 degrees
+(c) Ceiling: Not available
+(d) Visibility: Not available
+(e) Amount of cloud cover: See "7a" above
+(f) Thunderstorms in area and quadrant in which located: N/A
+(8) Any other unusual activity or condition, meteorological,
+astronomical, or otherwise, which might account for the sighting: None
+(9) Interception or identification action: None
+(10) Location of any air traffic in the area at the time of
+sighting: N/A
+Three individuals, Mr. TED BERRUM, Chief of Police, Mx. WILLIAM
+BRODHEAD, Captain or Detectives, and Mr. DALLAS SERVERS, Chier, ID Bureau,
+all Reno Police Department, Reno, Nevada, were interviewed, and all advised
+:hat Mr. ROGERS enjoys a sound and reliable reputation.
+No further investigation is contemplated by this office and the
+case is considered closed in the files of this District Office.
+ZUERNER
+Colonel, USAF
+District Commander
+ce: Dir OSI
+FOR OFFICIAL USE OF
+(AFR 190-16)
+Declassification Authority: NND 923007

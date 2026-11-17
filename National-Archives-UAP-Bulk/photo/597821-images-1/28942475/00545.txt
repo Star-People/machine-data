@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:27:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6280110, "source_ctime_ns": 1793372365605000409, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942475/00545.jpg", "source_mtime_ns": 1785689048000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942475/00545.jpg", "source_sha256": "70134af3e40002510b384c4e133611f303d05275019b33bb6c9196953853d0e0"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 479, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3. BRILLIANT LIGHT
+4. ONE
+5. NA
+6. NA.
+7. NONE
+DESCRIBED
+8. NONE
+DESCRIBED
+PAGE TWO JWPDM 11
+9. NONE DESCRIBED
+15. NONE DESCRIBED
+11. PULLED OUT OF CLOUDS ACROSS FACE OF MOON. * 1%
+12. BEHIND CLOUDS.
+13. NONE DESCRIBED
+Bo 1.
+2069-2100
+PACIFIC STANDARD TIME
+4 JUNE
+1952
+3. TEN MINUTES
+C. 1. VISUAL
+2. NA
+3. NA
+4. GROUND
+5. NONE
+D. 1. HOME, WALLA WALLA, WASHINGTON.
+A. 46 DEGREES 04 MINUTES 08 SECONDS NORTH.
+B. 118 DEGREES 20 MINUTES W24 SECONDS WEST.
+C. NONE:
+2. NOT DESIGNATED.

@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:25:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5800618, "source_ctime_ns": 1793369598003956611, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0997.jpg", "source_mtime_ns": 1785688684000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0997.jpg", "source_sha256": "8c557a57e4b67af0b04ff797cda75149637f317bd795ddf26d195f974506c5e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 98, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Se SSR ae a eeeitne et LOE! a '
+pe i cama Peek eee rs) ‘
+Me ee
+.
+‘ ay
+*
+
+ry
+j
+
+5
+=
+3
+ty)
+Ti
+ia
+e

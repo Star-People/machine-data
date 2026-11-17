@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:29:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6721770, "source_ctime_ns": 1793383878624033828, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988169/0289.jpg", "source_mtime_ns": 1785748364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988169/0289.jpg", "source_sha256": "6f432f3298223e13772f34a8dbc8a987752ba50773d417d080bce6fa7d897c97"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 430, "method": "ocr", "page": 1, "variant": "plain-vision"}
+August 13, 1960
+Commanding Officer
+Hanscom Air Force Base
+Bedford, Massachusetts
+Dear Sir;
+This letter refers to the telechone call that you received on
+12 August, 1960, concerning a probable U.F.O. sighting over the
+Quincy, Massachusetts area.
+Enclosed is a cony of the U.S. Air Force
+Technical Information Sheet, Form A.
+ould you please foreward this revort to the Air Technical Int-
+elligence Center. Thank-you.
+Sincerely your

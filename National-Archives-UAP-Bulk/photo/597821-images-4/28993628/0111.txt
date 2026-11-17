@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:37:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8466567, "source_ctime_ns": 1793385548961002949, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993628/0111.jpg", "source_mtime_ns": 1785748371000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993628/0111.jpg", "source_sha256": "41d056d077e2e6a03dd7e9dfd92a08a0a63bca9abcd6be17316a9952564f0ce0"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 901, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+25 Jul 61
+3. DATE-TIME GROUP
+Local.
+1150
+GM T
+2517502
+S. PHOTOS
+O Yes
+O:No
+7. LENGTH OF OBSERVATION
+CAV:
+8. NUMBER OF OBJECTS
+45 min
+10. BRIEF SUMMARY OF SIGHTINGBright orange obj
+shining thru clouds. Emitted smoke or vapor.
+Believed to be at 50,000', faded climbing to
+W. Hovered part of time.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Cameron,
+TYPE OF OSSERVATION
+Ck Ground- Visual
+• Air Visual
+SOURCE
+Louisiana
+• Ground-Radar
+• Air-Intercept Radar
+9. COURSE
+12. CONCLUSIONS
+Was Balloor
+Probably Balloon
+Possibly Bulloon
+Was Aircraft
+Probably Aireraft
+Possibly Airerait
+Was Astranomical
+Probobly Astranomical
+Possibly Astronomical
+•
+Oiner.
+Insufficient Date for Evaluation
+Unknown
+NW
+I1. coMMENTSHigh flying obft hovered over-
+head for aprox 45 min and da disappeare
+to NW climbing. Winds aloft to NV.
+Obje
+described as ping-pong ball with wings.
+Probably balloon.
+ATIC FORM 329 (REV 26 SEP 52)

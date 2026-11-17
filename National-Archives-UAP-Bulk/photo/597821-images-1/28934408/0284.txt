@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:27:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6155528, "source_ctime_ns": 1793370359551435465, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934408/0284.jpg", "source_mtime_ns": 1785688944000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934408/0284.jpg", "source_sha256": "713d71ea3aeee312ca05ce98bded3e12e64c6003f55f0c247bec59e2222c663f"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 722, "method": "ocr", "page": 1, "variant": "plain-vision"}
+QD51
+100 199 30
+02: 03
+CJB 33
+232
+EDCC47
+RR JEPAB
+INFOR
+FM JEDHI 5/CC CHANUTE AFB ILL (
+TO CC AIR MATERIEL COMMAND WRIGHT-PATTERSON AFB OHIO
+AF GRNC
+ATTN MCIAXO-3
+4/EL/1 DEPARTMENT OF THE AIR FORCE AIR INTELLIGENCE REQUIREMENTS
+MENORANDUM. NUMBER 4 CMA 15 FEBRUARY 1949 CHA UNCONVENTIONAL AIRCRAFT
+PERIOD DATE SIGHTED
+28 APRIL 1949 CMA TIME -1802 CHA WHERE -INDIANAPOLIS CHA INDIANA CMA
+ALTITUDE-3000-4002 FT NUMBER OF OBJECTS--UNKNOWN CHA APPEARANCE-
+ROUND CMA SHAPED LIKE BALLOONS DIRECTION OF FLIGHT¿340DEGREES CMA
+SPEED-S0-100 MPH CMA NAME OF OBSERVER CHA-MR •
+RELIABILITY OF
+OBSERVER---UNKNOWN CHA STAFF OD RECEIVED INCOMPLETE REPORT FROM OBSERVER
+OVER LONG-IDSTANCE PD END
+CCC... LAST LINE THIRD GPS SHD AD DISTANCE

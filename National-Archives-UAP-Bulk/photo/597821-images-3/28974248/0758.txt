@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:29:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6640080, "source_ctime_ns": 1793380020932958615, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974248/0758.jpg", "source_mtime_ns": 1785700830000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974248/0758.jpg", "source_sha256": "46d2586288f32f1163bf8adfaaac4986d468ca4fbc2671db0729021dcb699845"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 807, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+8 Hoo 57
+3. DATE-TIME GROUP
+08/2320Z Nov 57
+5. PHOTOS
+UFOB INDEX CARD
+AISS-UF0B-435-57
+2. LOCATION
+12. CONCLUSIONS
+Philaddiphia, Rise.
+Was Balloon
+Probably Balloon
+4. TYPE OF OBSERVATION
+Possibly Balloon
+• Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+000
+Mr lan
+1. NUMBER OF OBJECTS
+UNO
+•
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Uata for Evaluation
+Unknown
+• Yes
+7. LENGTH OF OBSERVATION
+Three minutes
+10. BRIEF SUMMARY OF SIGHTING
+Two bright orange cigar shaped objects seen
+flying wing to wing.
+Objects moved from N to
+S and were in sight for 3 najutes.
+9. COURSE
+N to S
+11. COMMENTS
+Description, duration, night path
+indicate that these were aircraft.
+AISOP Form 5 (15 Oet 54)

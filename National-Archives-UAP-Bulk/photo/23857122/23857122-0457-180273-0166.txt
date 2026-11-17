@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:46:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18556848, "source_ctime_ns": 1793356552689333382, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0166.tif", "source_mtime_ns": 1785564721000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0166.tif", "source_sha256": "6e1d812e67ca90c7005c8d3adc67c4cadcf73378dfb9bbe9827c045ac1dfd6e6"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 409, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Theident #73 - Boston,.
+massachusetts -- 4 August 1947
+There is nothing in the evidence given here to suggest
+that the object sighted was astronomical.
+The description suggests rather that the object may
+have been a highly distorted reflection image of the sun on a
+balloon or aireraft. The "deep gold" color ascribed to the object
+tends to indicate this interpretation.
+Declassification Authority: NND 57565

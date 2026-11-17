@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:14:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2301351, "source_ctime_ns": 1793356186791229578, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0216.jpg", "source_mtime_ns": 1785564631000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0216.jpg", "source_sha256": "40e0d2be6b1b34e8e5f462ea99fafa1a0e7c0670b212fbcc07e5665f2caa63c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 621, "chars": 3846, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TM 11-444
+Par. 36
+SIGNAL CORPS
+install new springs. If failure of contacts is due to faults in other
+parts of the equipment, correct these faults before Relay Unit
+BK-9- (*) is replaced on the control board.
+b. The adjustments of relays 1, 2, 4, and 6 are similar in that the
+clearance between the armature and the top of the support should
+be .002 to .003-inch. This is attained by moving the armature which
+is held by one screw in back of the support.
+c. Adjust the residual screw until it extends .002 to .003-inch
+below the armature. This is measured by placing a gauge between
+the armature and the pole piece.
+d. With a .013-inch gauge between the residual screw and the
+pole piece, and the armature pressed against the pole piece, bend
+the armature arm so it just touches the contact spring.
+With a .006-inch gauge between the residual screw and the
+pole piece, and the armature pressed against the pole piece, bend
+the heavy contact springs so that they just touch. This allows ap-
+proximately .010-inch of travel for the contacts when the gauge is
+removed.
+Adjust the tension of the contact springs on the relay so that
+the relay will operate when a resistance of 2,000 ohms is in series
+with the outpost.
+g. On relay 3, the two adjusting screws should have a gap of
+approximately .025-inch on each side of the vibrating reed contact.
+This adjustment will cause the motor to operate for approximately
+4 seconds after the film is cut. If the motor runs more than 4 sec-
+onds, turn each screw inward an equal amount until the desired
+4-second run is attained.
+h. Now adjust the inner spring contact so that there is a .010-
+inch clearance between the contacts when they are in normal
+position.
+i. Adjust relay 5 for a .002 to .003-inch clearance between the
+armature and the top of the support.
+Adjust the residual screw to extend .002 to .003-inch below
+the armature.
+k. The tension of the vibrating reed spring should be great
+enough to hold the stop against the back of the support.
+54
+TM 11-444
+Pars. 36-37
+SOUND RANGING SET GR-3-C
+l. The tension of the inner spring should hold the armature firm-
+ly against the stationary stop.
+m. Bend the stop spring so that there is a .025-inch gap between
+the contacts.
+n. The gap between the residual screw and the pole piece should
+be .020 to .030-inch, depending on the tension of the vibrating reed
+spring, and is attained by bending the armature.
+o. If the space on the film between the identification and record-
+ing lines exceeds 3 inches, the residual screw should be turned in
+slightly.
+p. On relay 6, the recording and timing lamp contacts should
+make simultaneously. If they do not, adjust them by bending until
+they do.
+For sufficient exposure of identification, adjust the tension of
+the thin contact springs on relay 4 with the rheostat turned fully
+clockwise.
+CAUTION.-IF THE TENSION OF THE SPRINGS ON
+THE RELAY IS TOO GREAT, THE IDENTIFICATION
+LAMPS WILL STAY LIGHTED, AND THE RELAY UNIT
+WILL CEASE OPERATION.
+37. SWITCHBOARD BD-62-(*).
+a. Keep the switchboard free from dirt and chemicals to prevent
+corrosion and short-circuiting of the drops, keys, and relays. Inspect
+all components periodically, and make necessary repairs with Tool
+Equipment TE-37.
+b. Adjust the bracket in back of the relays so there is a .002 to
+004-inch clearance between the armature and the top of the support.
+This will keep the armature from binding when the coil is energized.
+c. Adjust the residual screws in both relays so there is .002 to
+003-inch clearance between the armature and the pole piece when
+the residual screw is held firmly against the pole piece.
+d. With the armature in its normal position (the arm insula-
+tion resting against the contact spring) there should be a clearance
+of .013-inch between the residual screw and the pole piece. This is
+obtained by bending the relay arm.
+55

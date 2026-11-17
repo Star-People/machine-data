@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:10:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1670103, "source_ctime_ns": 1793388984861153919, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00710.jp2", "source_mtime_ns": 1785808581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00710.jp2", "source_sha256": "4827d59747728fa19e918427ea2233dabce6f31d85f67aec5bab4cf5950f8dd9"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 176, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+- arb?
+
+Pree taratto of Jara Hiae noe
+C20 Ate Borgtetars
+rMgates Air borce
+
+Uoastos
+Cannon ABT New Mextcn
+
+OFFICIAL BUSINESS
+
+ee ee we
+
+1
+;
+yf
+\/
+
+POSTAGE AND FEES PAID
+
+Peaf

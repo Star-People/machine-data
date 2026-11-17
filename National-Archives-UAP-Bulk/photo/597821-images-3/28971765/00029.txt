@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:31:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7063205, "source_ctime_ns": 1793379248229225696, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971765/00029.jpg", "source_mtime_ns": 1785700670000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971765/00029.jpg", "source_sha256": "9fdcc18facd64f2ed9319c7740aad3e1e8c59df1bec57e92a950fc286d78b9ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 408, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJEDFL 5P
+E. SEE ITEM II D.
+F. APPROXIMATELY TEN MINUTES.
+ITEM 111.
+A. GROUND VISUAL
+B. NO OPTICAL AIDS
+C. N/A
+ITEM IV.
+A. 24/02102.
+0210 - 6 = 2010.
+B. NIGHT
+ITEM V.
+C
+A. 39 DEGREES 45 MINUTES NORTH LATITUDE, 87 DEGREES 20 MINUTES
+WEST LONGITUDE.
+ITEM VI.
+CIVILIAN
+NO OCCUPATION AND
+AGE 22 ADDRESS MONTEZUMA OCCUPATION PACKAGE LIQUOR
+STORE PROPRIETOR•
+B. NA
+ITEM VII•
+A. CLEAR VISABILITY 15 PLUS

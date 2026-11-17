@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:23:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5305564, "source_ctime_ns": 1793381735236890721, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981432/01396.jpg", "source_mtime_ns": 1785700856000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981432/01396.jpg", "source_sha256": "2cb5e9044c8c3c7ac58e2a7817a2b3e2710745dbd4ba11fc04b75495a6dfdc18"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 785, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+ROUTING SLIP
+I NAME ORITITLE
+Col. Glaser
+ORGANIZATION AND LOCATION
+AFCIN-4E4
+Col
+AFCIN 45
+Maj. Tacker
+SAFIS-3
+EVER USE FOR APPROVALS, DISAPPROVALS
+CONCURENCES, OR SIMILAR ACTIONS
+5, 00a58
+CIRCULATE
+17/1/58
+3
+COORDINATION
+FILE
+INFORMATION
+NECESSAR
+ACTIO
+MORE ORD
+SEE ME
+SIGNATURE
+REMARKS
+1.
+Request you write a letter to d
+thanking him for the photographs which he gave
+to me. I promised him that these photographs would
+not be turned over to anyone in the industry and you
+might reassure him of this.
+2. The address is:
+3. I am not sure, but I think he is located in
+Anacostia.
+The general area is out South Capitol
+Street just beyond the District line.
+FROM NAME OR TITLE
+Major Robby! unl
+ORGANIZATION AND LOCATION
+AFCIN-4E4
+DATE
+9 Dec 53
+TELEPHONE
+6-9216
+# 6P0: 1958-0-10348

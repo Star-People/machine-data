@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:27:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6262771, "source_ctime_ns": 1793362591192313634, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783303/45484701-003-003-0037.jpg", "source_mtime_ns": 1785684975000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783303/45484701-003-003-0037.jpg", "source_sha256": "61e6a4b36d0cdabd8b22b08edcf42d827410668d2acd86c1911c4c6390c3c48f"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 80, "method": "ocr", "page": 1, "variant": "plain-vision"}
+U K TARSE
+NO ITIRCHTUA YE
+Caver
+шка
+avo0
+Declassification Authority: NND 923007

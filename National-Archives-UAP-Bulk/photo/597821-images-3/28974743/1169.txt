@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:29:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6563783, "source_ctime_ns": 1793380147813741604, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974743/1169.jpg", "source_mtime_ns": 1785701076000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974743/1169.jpg", "source_sha256": "3599034f136bfdfa147b4dc6e79870feb423b0c1b4d2e0904916c4d371441ae9"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 918, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+November 1957
+3. DATE-TIME GROUP
+Local
+GM T.
+5.
+PHOTOS
+1012
+• Yes
+20 No
+7. LENGTH OF.OBSERVATION
+8. NUMBER OF OBJECTS
+manutes
+three
+10. BRIEF SUMMARY OF SIGHTING
+Radar blip of three different objects,
+first blip split in two. Had high
+speed, and high altitude. The targets
+painted as
+a normal a/e should.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+not:
+sten
+4. TYPE OF OBSERVATION
+Germany
+• Ground- Visual
+D Ground-Radar
+• Air Visual
+SOURCE
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+a
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+D XOther...
+False
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+COMMENTS
+It is the opinion (which cannot
+be proven) that the targets
+observed were not 'real" targets,
+but were examples of the myriads
+of unexplained paintings on a
+radar scope.
+ATIC FORM 329 (RRV 26 SEP 52)

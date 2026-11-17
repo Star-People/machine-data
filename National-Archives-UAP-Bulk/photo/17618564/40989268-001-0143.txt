@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T14:44:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14655467, "source_ctime_ns": 1793355706369591865, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0143.jpg", "source_mtime_ns": 1785564506000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0143.jpg", "source_sha256": "eaaa58f2f7de2f279afdede82b2e45b6e424d10f47856109cf9f485c4738e42c"}
+
+===== PAGE 1 =====
+{"alpha_words": 220, "chars": 1579, "method": "ocr", "page": 1, "variant": "plain-vision"}
+272
+W. E. (1957) Some recent
+Muneasure, Pats of humemy from air aft up to heights of about 5o, or fet
+over southern England, Quart. J. Roy. Meteorol. Soc., 31:533.
+Murgatroyd, R. J., From a Draft Copy of Chapter 2 of a Forthcoming WMD
+Publication on the Atmosphere.
+Sissenwine, N. and Gutnick, M. (1960) Precipitable water along high altitude ray
+paths, Proceedings of the Infrared Information Symposia, IRIS, 5, No. 3.
+273
+XXIII. Balloon-Supported Platforms
+in Communications
+Charles A. Strom, Jr. and Cleo N. Lawrence
+Rome Air Development Center
+Rome, New York
+Abstract
+This paper considers some possible uses of balloons to enhance the line-of-
+sight distances over which microwave radio frequency communications can be
+used. Both tethered and free-floating balloons are discussed as supporting plat-
+forms for both active and passive radio repeater stations.
+The broad needs of
+microwave radio communications are outlined and the more serious problem areas
+of applying balloon techniques summarized.
+1. THE COMMUNICATIONS PROBLEM
+The microwave communication problems in need of solution are several. To
+begin with, more bandwidth is needed.
+This is available only by going to higher
+radio frequencies.
+This in turn places a premium on line-of-sight type radio
+transmission. Second, there is a simultaneous need for less interference and
+more privacy. And of course there is a standing need for anti-jam capability.
+This suggests the use of highly-directional antennas and, from size and weight
+considerations, again points to the use of higher frequencies. Third, economy in

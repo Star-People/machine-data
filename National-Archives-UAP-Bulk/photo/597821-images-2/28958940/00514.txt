@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:19:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4183415, "source_ctime_ns": 1793376043453794042, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958940/00514.jpg", "source_mtime_ns": 1785696444000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958940/00514.jpg", "source_sha256": "a0a375f22ba7829a44288d21bb8d047ae230b1847df9058f7b3311ee29baf9c0"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 386, "method": "ocr", "page": 1, "variant": "plain-vision"}
+STAT ON
+PAGE THREE JFLGN 28
+REPORTED NEITHER THE PRESENCE OF ANY UNUSUAL WEATHER PHINOMENA IN THE
+AREA OF SIGHT INING NOR THE RELEASE OF WEATHER BALLOONS WHICH COULD
+HAVE BEEN MISTAKEN FOR A FLYING OBJECT PD THIS OFFICE DOES NOT HAVE
+SUFFICIENT INFORMATION AT ITS DISPOSAL TO BE ABLE TO OFFER AN
+EXPLANATION OF THE SIGHTING WHICH WOULD PRECLUDE CONSIDERABLE DOUBT PD
+C9/1911Z JUL JFLGN

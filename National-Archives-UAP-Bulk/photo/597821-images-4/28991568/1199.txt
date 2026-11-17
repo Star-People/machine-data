@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:30:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6965277, "source_ctime_ns": 1793384995769899636, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991568/1199.jpg", "source_mtime_ns": 1785748506000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991568/1199.jpg", "source_sha256": "812f4f8c8869fab885980992351ff635d0023101c5ef872cce7151be1abcec56"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1062, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Memo (APCIN-4E), 19 Apr 61, Request for Review
+1st Ind (APCIN-4Ela/Mr. Bryant/ jc/74201)
+TO: AFCIN-4E (Maj Priend)
+9 May 61
+1. The report dated 14 Apr 61 from Anderson AFB has insufficient in-
+formation upon which to base an evaluation. For example, "Description
+of flight path and maneuvers of object" is indicated as "N/A", and range
+of the target is not given.
+2.
+Report dated 17 Feb 61 bas been avaluated and evaluation indicates
+that considering speed of target, a reentry body (or meteorite) 1s about
+the only possibility if the target was real.
+The abnormally large size
+of the blip is not consistent with that type of target, however.
+Anomolous propagation or equipment malfunction are other possibilities.
+Check should be made of cognizant agencies to determine if reentry body
+or meteorites were in area.
+3.-
+Evaluation of report from 864th ACW Sq., Yuma, Aris., dated 28 Peb 61,
+indicates chaff drop ia most plausible explanation.
+Check of Air Force
+activities for possible chaff exercise could be made.
+ROY L. JAMES
+Acting Chief
+AFCIN-4E1
+3 Atch
+n/c

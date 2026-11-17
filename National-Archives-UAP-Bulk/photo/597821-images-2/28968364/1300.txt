@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:28:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6447913, "source_ctime_ns": 1793378550320952940, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968364/1300.jpg", "source_mtime_ns": 1785696755000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968364/1300.jpg", "source_sha256": "ad4ff9eb18e88ac553f0a0ee63b5f9d748a4da72684ee1c9c3b75f40959b6923"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 575, "method": "ocr", "page": 1, "variant": "plain-vision"}
+12//15302
+59117.
+N1F21510802
+Witness
+0 4'50
+WPCØ10 YMCØØ9ZNGA195
+PP RJEDEN RJEDWF RJEPHQ
+DE RJEDNG 48
+P 142399Z
+FM COMDR 31ST AIR DIV DEF SNELLING AFS ST PAUL MINN
+TO RJEDEN/COMDR AIR DEF COMMAND ENT AFB COLORADO
+}¢E¢
+7-4x35
+RJEDWP/COMDR AIR TECH INTELLIGENCE CENTER WIRGHR PATTERSON AFB OHIO
+RJEPHQ/COMDR DIRECTOR OF INTELLIGENCE HEADQUARTERS USAF WASHINGTON DC
+BT
+/UNCLASSIFIED/ FROM OIN 11762
+UFOB IAW AFR 200-2
+1. A OBLONG
+B. BASKETBALL
+C. SILVER ON TOP AND BOTTOM CMA BLACK STRIPE IN CENTER
+D. ONE
+E. NOT APPLICABLE
+F. NOT APPLICABLE
+G. NOT APPLICABLE
+H. NOT APPLICABLE

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T15:39:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9371754, "source_ctime_ns": 1793385545185569945, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993618/0104.jpg", "source_mtime_ns": 1785748462000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993618/0104.jpg", "source_sha256": "d4276c30f10e89cf1fcd4e33279a026b43883fd6c13476ac286a0649fa1ec956"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 847, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR PORCE
+CTAFF MESSAGE BRANCH
+UNCLASSIFIEO MESSA TE
+AF IN
+ACTION
+INFO
+SMB A 107
+: CIN-17
+0OP-2, 00P-CP-1,
+SAFS - 3,
+(24)
+THIS MESSAGE IS A S CORRECTED COPY
+ZCZCHQB42SZCQJA92Ø
+PP RJEZHO
+ZNR ZEL RJWZJBK
+ВKA361
+PP RJEDSO RJEZHQ RJWFAL
+DE RJWZJBK 1
+ZNR
+P 252355Z
+FM 924ACWSQ WINSLOW AF SIN ARIZ
+TO RJWFAL/ADC ENT AFB COLO
+RJWZSB/28AIRDIV. HAMILTON AFB CALIF
+RJEDSQ/AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+ẠỊRJEZHO/HQ USAF WASHDC
+RJEZHQ/SECRETARY OF THE AIR FORCE WASHDC
+BT
+UNCLAS FROM 9040OP 0597. SUBJECT: UNIDENTIFIED FLYING
+OBJECTS (UFO). THE FOLLOWING REPORT IS SUBMITTED IN ACCORDANCE WITH
+PARA 15 AFR 200-2:
+A. DESCRIPTION OF THE OBJECT (S)
+(1) SAME CONFIGURATION AS A STAR, CIRCULAR, WITH NO CLEARLY
+DEFINED OUTLINE.
+(2) VARIED, FROM SIZE OF PINHEAD TO SIZE OF A NICKEL.
+(3) SILVERY WHITE
+(4) ONE
+(5) N/A
