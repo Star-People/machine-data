@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:47:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6838668, "source_ctime_ns": 1793381113275113883, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979323/0917.jpg", "source_mtime_ns": 1785700616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979323/0917.jpg", "source_sha256": "3b292d4237137e6ca77c271f6a7f0b5c1198ec8ff5d2f91029308d1e087ce879"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3. DAT
+S. PHOTOS
+7. LENOTH
+BRIEF
+09
+ang
+vers
+Te.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Collinsville, Illinois
+4. TYPE OF OBSERVATION
+INGround-Visual
+• Air Visual
+• Ground-Rader
+• Air-Intercept Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+-ona
+ING
+1ng faster than
+sound. Came down fm
+turned North, Green-
+With purple lights.
+der angle.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+000
+Was Aireraft
+Probably Aircratt
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+„Other
+Dixinsufficient Data for Evaluation
+Unknown
+11. COMMENTS
+Possible neteor except tha. the
+turn indicated would rule this
+out. Sighting through window
+with 2 second duration. Cose
+listed as insuificient data.
+ATIC FORM 329 (RKV :6 SEP $2)

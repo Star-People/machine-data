@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:01:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15560666, "source_ctime_ns": 1793355649977080864, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0088.jpg", "source_mtime_ns": 1785564496000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0088.jpg", "source_sha256": "5ac8321ebeb87c72090001c3c5ef81256714cb5368670e6c9854e1d026723392"}
+
+===== PAGE 1 =====
+{"alpha_words": 251, "chars": 1553, "method": "ocr", "page": 1, "variant": "plain-vision"}
+162
+163
+In Figure 6 are plotted the heat transfer coefficients of three different wire
+sizes.
+We see a relationship between size and transter coefficient similar to that
+for bead thermistors but not so pronounced. Note that the heat transfer coefficient
+decreases rapidly at the low-pressure end of the scale as the wire size approaches
+the mean free path length of the air molecules.
+5 MIL
+10 MIL
+15 MIL
+Figure 4. Heat Transfer Coefficient of Thermistor Beads vs Pressure
+5 MIL
+Figure 6. Heat Transfer Coefficient of Thin Wires
+15 MIL
+Figure 5 Reciprocal of Time Constants of Thermistor Beads vs Pressure
+In the following discussion, the influence of the heat conducted through the leads
+on the overall heat transfer coefficient will be considered. Figure 7 shows the heat
+transfer coefficient for the 5- and 15-mil bead thermistor, and the heat transfer for
+the same beads where the heat flux into the wire has been subtracted. This is com-
+puted with the assumption that the length of the leads is at least 5 mm. In Figures
+8 and 9 are shown the heat transfer coefficient and the reciprocal of the time con-
+stant, respectively, for a 15-mil bead with 4 leads, and with 2 leads. The lower
+curve of each set in Figure 8 gives the heat transfer coefficient for the bead without
+leads derived from the upper curve. That the two lower curves do not coincide is
+probably due to the interference of the leads close to the bead. It is obvious that
+the 4-lead bead has a better heat transfer characteristic and a shorter time con-
+stant than the 2-lead bead

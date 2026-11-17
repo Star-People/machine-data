@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:18:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4115564, "source_ctime_ns": 1793356357456527976, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989318-001-0164.jpg", "source_mtime_ns": 1785564683000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989318-001-0164.jpg", "source_sha256": "8821ecffe2c78b6ba3f044c39de4ef5627b574bc43b427f57e271aadf7d313aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 332, "chars": 2057, "method": "ocr", "page": 1, "variant": "plain-vision"}
+•SECRET
+Memo for AC/AS-2, Attn: General N. B. Harbold
+6.
+It should be pointed out that the units are inconspicuous in
+appearance, that they send out no noise or electromagnetic radiation to
+call attention to themselves, that their nature and purpose are not ob-
+¡Vious except after close examination by an expert, that they require
+no special siting or skilled attention, and that anyone of them can be
+represented legitimately as an apparatus for fundamental research on
+cosmic rays.
+70
+Without knowledge of the winds which disperse the radioactive
+gases from the scene of the explosion, the point of the explosion could
+not be located precisely. However, if units are stationed within a few
+hundred miles of any suspected point, it should be possible to locate
+the explosion within a few hundred miles (possibly less) from the trends
+of the counting rates of the various units.
+8. The best information on methods of constructing and using such
+monitor units is presently held by the Manhattan District. It is pro-
+bable that a world-wide monitor system of the type proposed here has
+been considered by the Manhattan District, and it may even have been
+instituted.
+If such a monitor system is not now in existence, it should be
+possible to set it up in time to use the third Bikini explosion for
+testing the system.
+The need for a proven monitor system of some kind
+will, according to some estimates, become acute within the next year
+Or SO •
+10. The Army Air Forces is already considering development of a
+piece of equipment similar to this for purposes of collection of technical
+intelligence and scientific investigation. If, as is suspected, the collection
+of this type of world-wide intelligence is deemed useful by our State, War,
+Navy and Air agencies, this office is prepared to initiate development of
+such a piece of universal and portable equipment applicable to ground, air
+or surface vessel use.
+CURTIS E. LOMAY
+Major General, USA
+Deputy Chief
+of Air Staff for
+Research and Development
+_ SECRET
+This document is part of an unclassified series

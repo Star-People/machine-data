@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:42:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4940631, "source_ctime_ns": 1793374529276046771, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952065/1207.jpg", "source_mtime_ns": 1785696951000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952065/1207.jpg", "source_sha256": "aae552a51dd3570761675ef067575d1229add1e72990e092df288efd6a02e5a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 869, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Greensboro, liorth Carolina
+3. <
+15 December 1952
+I. Description of Incident
+An AF-80 in flight over Greensboro sighted a spherical object with a bright
+silver color at about 0925 EST on 15 December 1952, It moved from a 12 o'clock
+high position to 6 o'clock high when the pilot lost contact with the unknown.
+Pilot was on a north heading at 25,000 feet traveling at 300 mph.
+II. Discussion of Incident
+Two aircraft from Shaw AFB were in the area at the time of sighting as was
+a balloon released from the weather station at Greensboro. The pilot probably
+could have recognized the aircraft but a silver, round, weather balloon might
+not be so easily recognized due to its small size. It appears that the latter
+explains the cause for this sighting.
+III. Conclusion
+Probably a balloon.
+)
+DOWNGRADED AT & YEAL
+DECLASSIFIED AFTER
+DOD DIR 5200.10
+153-3595
+26
+UNCLASSIFIED

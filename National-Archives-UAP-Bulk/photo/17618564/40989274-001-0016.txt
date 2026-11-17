@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:09:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1475827, "source_ctime_ns": 1793355801287813785, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0016.jpg", "source_mtime_ns": 1785564529000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0016.jpg", "source_sha256": "bd4315dc0ae00173e93e4ce46b313daabaf5209153e9945331fe202015d22412"}
+
+===== PAGE 1 =====
+{"alpha_words": 208, "chars": 1670, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Kind:Encapsulated PostScript Page # 51
+Roswell Report: Rosewell Rpt Images:66SledSetUp1B
+Kind: TIFF Page # 51
+Roswell Report:Rosewell Rpt Images:SBLogo
+Kind:Encapsulated PostScript Page # 52
+Roswell Report:Rosewell Rpt Images:74Time/StappB
+Kind: TIFF Page # 52
+Roswell Report:Rosewell Rpt Images:41BrokenDummy1
+Kind: TIFF Page # 53
+Roswell Report: Rosewell Rpt Images:41AFngrDt//1.2
+Kind: TIFF Page # 53
+Roswell Report:Rosewell Rpt Images:59FIlngDmyone1/B
+Kind: TIFF Page # 54
+Roswell Report:Rosewell Rpt Images:60FIIngDmytwo1B
+Kind: TIFF Page # 54
+Roswell Report:Rosewell Rpt Images:61llngDmythree1/B
+Kind: TIFF Page # 54
+Roswell Report:Rosewell Rpt Images:39Letter1
+Kind: TIFF Page # 54
+Roswell Report: Rosewell Rpt Images:42HngngDummies1
+Kind: TIFF Page # 55
+Roswell Report:Rosewell Rpt Images:43BIlnInsBg1
+Kind: TIFF Page # 56
+Roswell Report:Rosewell Rpt Images:19BIInDrpCvr1
+Kind: TIFF Page # 56
+Roswell Report: Rosewell Rpt Images: 18BlInDrpCvr1
+Kind: TIFF Page # 56
+Roswell Report: Rosewell Rpt Images:93SnrsBlInA/B
+Kind: TIFF Page # 57
+Roswell Report:Rosewell Rpt Images:SBLogo
+Kind: Encapsulated PostScript Page # 58
+Roswell Report:Rosewell Rpt Images:62LbbyCrd1/4B
+Kind: TIFF Page # 58
+Roswell Report: Rosewell Rpt Images:65MvPrmSIdStup1/4
+Kind: TIFF Page # 59
+Roswell Report: Rosewell Rpt Images:75MvPrmMilCivDmy1/4
+Kind: TIFF Page # 59
+Roswell Report: Rosewel Rpt Images:SBLogo
+Kind:Encapsulated PostScript Page # 59
+Roswell Report:Rosewell Rpt Images:BlInSzCmprsnArt
+Kind:Encapsulated PostScript Page # 60
+Roswell Report:Rosewell Rpt Images:68TargetBalloon1/3
+Kind: TIFF Page # 62
+Roswell Report:Rosewell Rpt Images:88Mss Nscn1/3
+Kind: TIFF Page # 63
+- 3 -

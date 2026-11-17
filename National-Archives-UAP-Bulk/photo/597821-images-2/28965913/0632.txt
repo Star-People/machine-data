@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:19:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4473790, "source_ctime_ns": 1793377904847694863, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965913/0632.jpg", "source_mtime_ns": 1785696499000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965913/0632.jpg", "source_sha256": "bc603bbe67c47c1de244f3a5e050cfee6a3a36868030f2ac7c0e0535149ba51b"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 783, "method": "ocr", "page": 1, "variant": "plain-vision"}
+39. Do you think you can estimte the speed of the object?
+(Circle One)
+Yes
+(No)
+IF you answered YES, then what speed would you estimate?
+40. Do you think you can estimate how for away from you the object was?
+(Circle One)
+Yes
+No
+IF you answered YES, then how far away would you say it was?
+41. Please give the following information about yourself:
+NAME
+20 miles
+Last Name
+ADDRESS
+Cincinra ti
+City
+TELEPHONE NUMBER
+Wh1t is your present job?
+Staff Meteoriogist at
+Age
+_31
+Sex
+male
+Please indicate any special educational training that you have had.
+a. Grade school
+b. High school
+c. College
+Physics & Math
+d. Post graduate Meteorolozy
+. e. Technical school
+(Type)
+f. Other special training
+42. Dote you completed this questionnaire:
+Page 8
+__ m.p.h.
+_feet.
+Zone
+Middle Name
+Ohio
+State

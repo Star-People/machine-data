@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:41:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4843934, "source_ctime_ns": 1793378715411396874, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28968980/0416.jpg", "source_mtime_ns": 1785700639000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28968980/0416.jpg", "source_sha256": "edeaf69659abda2415ca1f75a2b2e45d508f942f93fef25f9817b3df8339bac7"}
+
+===== PAGE 1 =====
+{"alpha_words": 163, "chars": 1172, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+13 February 1957
+3. DATE-TIME GROUP
+Local_1845
+GM T.
+14/02457
+3.
+PHOTOS
+• Yes
+9.NO
+7. LENGTH OF.OBSERVATION
+1)
+min 2) 3 sec
+BRIEF SUMMARY OF SIGHTING
+Two objects like a star
+size of star
+color white, red and green light -
+one object appeared to cross flight
+path
+• 2nd object had a tail.
+First
+object faded out, 2nd object had a
+blue flame.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Burbank
+California
+4. TYPE OF OBSERVATION
+E:Ground. Vi sual
+• Air Visual
+6. SOURCE
+• Ground-Rodar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+two
+12. CONCLUSIONS
+000
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireratt
+Possibly Aircraft
+•
+9. COURSE
+E to W
+reversing
+ax Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluations
+Unknown
+Ito E
+11.
+COMMENTS
+Object observed near Lockheed Air
+Terminal (one of the most congested
+air traffics on West Coast) red
+and green flashing lights and
+reversal of cours at high alt.
+Little doubt it was a/c. Scattered
+clouds in area, aso, this often
+gave odd appearances to high fly-
+ing a/c. Second object with tail
+evaluated as meteor.
+ATIC FORM 329 (REV 26 SEP S2)

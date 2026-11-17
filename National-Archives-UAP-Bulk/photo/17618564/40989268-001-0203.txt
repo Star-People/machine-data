@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:01:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16192540, "source_ctime_ns": 1793355760914944617, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0203.jpg", "source_mtime_ns": 1785564518000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0203.jpg", "source_sha256": "64425036087229d76d4e7a2411ffae78a7a7042126fdba40ae84b53507d674d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 185, "chars": 1357, "method": "ocr", "page": 1, "variant": "plain-vision"}
+393
+XXXII. Cosmic Ray Balloon Expedition
+to India, IQSY-EQEX
+R. Kubara
+National Center for Atmospheric Research
+Boulder, Colorado
+B. Stiller
+Nucleonics Division
+U. S. Naval Research Laboratory
+Washington, D. C.
+Since early 1963, the United States Committee for the International Quiet Sun
+Year (IQSY) of the National Academy of Sciences has studied the feasibility of send-
+ing a balloon expedition to the vicinity of the equator during this IQSY period, to
+conduct research in the field of cosmic radiation. The committee held several
+meetings with interested experimenters and found that there was strong interest
+in such an expedition.
+Informal discussions were held with Professor M. G. K. Menon, Director of
+the Cosmic Ray Laboratory, Tata Institute of Fundamental Research, Bombay,
+about the possibility of organizing a joint expedition. His group also expressed
+strong interest in such a venture and official sanction for the expedition was
+obtained from the Indian IQSY Committee.
+The program thus became a joint Indo-American IQSY activity. A proposal
+for funding the expedition was submitted to the National Science Foundation and
+has been approved. The authors, Robert Kubara, National Center for Atmospheric
+Research, and Bertram Stiller, U.S. Naval Research Laboratory, are serving,
+respectively, as Project Manager and Scientific Coordinator.

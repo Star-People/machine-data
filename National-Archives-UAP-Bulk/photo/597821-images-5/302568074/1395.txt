@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:12:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1756415, "source_ctime_ns": 1793392455637863795, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302568074/1395.jp2", "source_mtime_ns": 1785808043000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302568074/1395.jp2", "source_sha256": "752e6ff3f505552ff571df39ab62c370d4fe22fea946238c46bed7cb8d7b6aa4"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 940, "method": "ocr", "page": 1, "variant": "plain-vision"}
+y*z gul
+Proposed reply to letter from
+July 11, 1967 (SightingJui 487,67)
+Dear Mr.
+Reference your recent letter of July 11 in which you described
+the various unidentified flying objects which you have been observing
+since December 1966.
+At this late date, we would be unable to undertake a meaningful
+scientific investigation into your earlier observations.
+If you would like us to investigate your latter
+sightings of July 4 and 7, 1967 we will need additional information.
+Upon completion of the inclosed FTD Form 164, our analysts wil1
+undertake a detailed investigation into your observations.
+In the future, if you should observe anotherunidentified flying
+object, please contact the nearest military installation at the time
+of your observations. The UFO investigator at your nearest military
+installation 1s in a far better position to conduct an on-the-spot
+investigation.
+Thank you for reporting your observations to the Air Force.

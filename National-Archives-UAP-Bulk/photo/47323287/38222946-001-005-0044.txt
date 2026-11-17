@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:24:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5550201, "source_ctime_ns": 1793365573734079448, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0044.tif", "source_mtime_ns": 1785565390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0044.tif", "source_sha256": "5c48da43913f71e845548548d2eae585da449a2ff86cc1aed4dea3ac7eab3fd3"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 497, "method": "ocr", "page": 1, "variant": "plain-vision"}
+O1/T&gt. Campbell
+Request for Photograph
+14 July 70
+21st Air Division (0I)
+Hancock Field, Ny.
+A formal request has been recived by this office from a
+commercial photographer to photograph the site for use
+on post cards.
+Attached are copies of the 2 requests
+made by the AD/ART/PHOTO Service, Williamsport, Pe re-
+resented by Mr. RaLph E. Menne.
+Request application be
+made through command channels to the Ol, Secretary of the
+Air Force, Washington, D.C.
+ame K Keller
+Inter ation OFFicer Lt., USAP

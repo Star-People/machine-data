@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:35:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8272763, "source_ctime_ns": 1793385575250665081, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993681/0160.jpg", "source_mtime_ns": 1785748463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993681/0160.jpg", "source_sha256": "bb8aa32e6c46bdfa228c88719f9b43520117df061e61a0fa6645da2712e068f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 477, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR RJAPAAK 5
+50 M-090/25
+ISO TO 2 M
+80 M-
+FROM 2 M TO 40 M 29 DEGREES
+(3) NO CEILING
+(4) 5 MILES OR BETTER
+(5) NONE IN OBSERVATION AREA.
+(6) NONE
+(7) ISOTHERMAL TO 2 M, FROM 2 M TO 40 M, 2 DEGREES
+PER THOUSAND FEET.
+H. NONE
+I. NONE
+J. NONE. NO REPORTED RADAR OR RAPCON PLOTS.
+K. CAPT. THOMPSON N. A. 45791A, 5AF TO
+DUTY OFFICER RECEIVED REPORT FROM OBSERVERS
+OVER TELEPHONE FIRST HAND. NO CONCLUSIONS
+* DRAWN AS TO NATURE OF SIGHTED OBJECT.
+BT
+27/1745Z JUL RJAPAAK
+ANNN

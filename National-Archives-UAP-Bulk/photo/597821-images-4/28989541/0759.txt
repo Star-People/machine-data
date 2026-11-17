@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:15:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3396289, "source_ctime_ns": 1793384219008948117, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989541/0759.jpg", "source_mtime_ns": 1785748402000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989541/0759.jpg", "source_sha256": "b664b066b64bdfdd4959465c2c5f907dec457c533c003c22b130a634735c4daa"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1147, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. The following is a summary of an incident reported to have occured at
+Clear Lake, Maine on 5 October 1960.
+a. The original report stated that an UPO fell to the pround from a
+great heicht and made a hole ll inches in diameter in the cround.. Two days later
+Loring AFB, sent an ECD team to the scene of the incident. After closely looking
+the ground over, and probing for possible foreim obiects, nothine could be found
+to substantiate the originalx report. mexxxxxitaniaxalxuakixthakx After
+questioning the people at the scene, it was found thet no one actualy saw anything
+fail to the ground. One person said it sounded like dynamite going off, and he was
+the one who heard some items falling on the roof of a buildine. Other persons
+questioned stated that the noise sounded like gunshot reports.
+b. The investigators could not find a hole as reported, or any object
+that was not supposed to be there. An attemnt was not made to try to locate the
+source of the allezed explosion. This is not an AF responsibility. A rood possibility
+is that a hunter had fired a shoten in the direction of the buildings and the shot
+* landed on the buildings.

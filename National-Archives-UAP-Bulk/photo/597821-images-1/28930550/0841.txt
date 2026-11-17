@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:40:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4561901, "source_ctime_ns": 1793369084339238517, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930550/0841.jpg", "source_mtime_ns": 1785688920000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930550/0841.jpg", "source_sha256": "a4ce2cdcdb70bb54219f5bb6d8e27ee847bb808b9ff5f9a6cb9638690de3913d"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 640, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PTO Stenley Oliver was on duty at the Control Tower at Godman Fld when
+Col Hir's office informed the tower that an unidentified object (supposedly
+some 250 it to 300 it in diameter) wes sighted over Manaville, Ky. This
+wee approx at 1330 C3P. A PIC Oliver saw the object southwest of Godman Fla
+To him it resembled an ice cream come topped with red. Could not ascertein
+if it were moving or not.
+RELIABILITY: Witnosses:
+Orner
+Col, Mix, (CO). Coot Gerter, It Madar & H/Sgt
+3lackvol1
+NOTE:
+The report of alerting the P-5l aircraft contained in PFC Oliver's
+statenent and the witnesses corrourates material contained in the
+other reports.
+nef

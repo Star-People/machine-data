@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:46:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6430975, "source_ctime_ns": 1793355815057516047, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0075.jpg", "source_mtime_ns": 1785564532000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0075.jpg", "source_sha256": "c5d9b3f081f15d2af96b54ae133e6d86e48f5ebb700c28b6c53234ad9bc4d59e"}
+
+===== PAGE 1 =====
+{"alpha_words": 415, "chars": 2641, "method": "ocr", "page": 1, "variant": "plain-vision"}
+any abbreviations which will not appear as abbreviations on
+the title page of the printed work. The order and form of per-
+sonal names appearing on the title page are particularly cru-
+cial. The accuracy of the title page cannot be overemphasized.
+2. Copyright page.
+As with the title page, this must be a facsimile with all infor-
+mation exactly as it will appear in the published book.
+3. Series page (or series information wherever it is to appear in
+the published book, e.g., cover or spine).
+4. Table of contents.
+5. Preface/Introduction.
+6. Summary.
+The summary should indicate topics covered (including time
+span and geographical coverage), the major thrust of the work,
+and the disciplinary approach, e.g., "a sociological analysis.?
+7. Sample chapters.
+It is imperative that the chapters provided be fully indicative
+of the subjects) covered by the book. This information is cru-
+cial to accurate subject analysis. Introductory and concluding
+chapters are especially important:
+8. Author fact sheet/biography and advertising or jacket copy.
+IF THE FULL TEXT IS NOT AVAILABLE, THE CORE
+REQUIRED MATERIALS MUST STILL BE SUPPLIED.
+10
+If you are requesting CIP data for a reprint edition, or requesting
+CIP for a second printing of a title for which CIP data was not previ-
+ously obtained, you may send a copy of the original edition in place
+of a galley. However, the new title page and copyright page must
+also be included. (See Section IX. 2-3 for information about submitting reprint
+editions and second printings.)
+V. MAILING YOUR REQUEST FOR CIP DATA
+Before mailing your request, please review the CIP data sheet for
+completeness. Be sure that you have included all of the core required
+materials listed in Section IV.
+When packaging your request, first remove the instructions and
+the goldenrod copy of the CIP data sheet for your files and clip or
+band the data sheet to the top of the galley. Whenever submitting
+applications for multipart items, be sure to package them together.
+Use the bright orange CIP address label provided by the CIP Di-
+vision. This will speed the sorting of your CIP applications and gal-
+leys by Library of Congress mailroom staff. For planning purposes
+anticipate a one week transit time on each end, both to and from the
+Library of Congress, in addition to the 10 working days which we
+require for processing.
+The CIP Division has a telefax machine that will allow for the rapid
+transmission of cataloging data under certain circumstances. Please
+contact your Publisher Liaison for further details. Given the many
+pages which constitute a typical galley, applications cannot be accepted
+by fax.
+11

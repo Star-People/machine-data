@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:19:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4464659, "source_ctime_ns": 1793381673619243929, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981219/01199.jpg", "source_mtime_ns": 1785701013000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981219/01199.jpg", "source_sha256": "c613b170e3c6531f04af8065dd9f2b24f06c8a1523a7125f8a9e65377ab78c28"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 775, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3.
+2 De
+er
+DATE-TIME GROUP
+Local
+1958
+GM T.
+5. PHOTOS
+02/06342
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+29
+SW OT EIM
+4. TYPE OF OBSERVATION
+• Ground- Visual
+70 Ai- Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civil
+8. NUMBER OF OBJECTS 9% COURSE
+not given
+one
+10. BRIEF SUMMARY OF SIGHTING
+nound obJ, which deit a long white
+tau, falling vertically under Poleris
+which was due north of his position.
+Pilot believed obj was sputnik decay.
+11. COMMENTS
+Not decay, probably
+12. CONCLUSIONS
+Was Balloon
+Prabably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+_ Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+meteor
+ATIC FORM 329 (REV 26 SEP 52)

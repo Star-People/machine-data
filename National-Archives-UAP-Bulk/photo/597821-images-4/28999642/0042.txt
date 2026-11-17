@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:41:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4729820, "source_ctime_ns": 1793388005242555460, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999642/0042.jpg", "source_mtime_ns": 1785748202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999642/0042.jpg", "source_sha256": "202365d583c50f3da84a06b2c451e66a4bc04f468065fca286ab502364c623af"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 988, "method": "ocr", "page": 1, "variant": "plain-vision"}
+C
+/3520Z. OBJECT SIGHTED BY C-47 NO. 24269, A/C ALT WAS
+1202, HEADING 272, SPEED 162 KTS, HOME STATION OF FORBES.»
+SIGHTING WAS AT 27/35232, LIGHT CONDITIONS NISHT (DARK).
+MILITARY NAME UNKNOWN, GRADE UNKNOWN, ORGANIZATION - FORBES AFB
+DUTY - PILOT, ESTIMATE OF RELIABILITY UNKNOWN. OBSERVERS ACCOUNT
+OF WEATHER CONDITIONS - CLEAR. REPORT FROM NEAREST AWS IS
+SURFACE 292 DEG AT & KID, 6,230, 532 DEG AT 15 KIS, 13,833,
+320 DEG AT 40 KIS, 15,223, 323 DEG AT 40 KIS, 20,323, 292 DEG AT
+45 KTS, 32,232, 280 DEG AT 5% KTS, 52,220, 2CZ DEG AT 55 RTS,
+82,222, 32% DEG AT 12 KTS. CEILING UNLIMITED, VIS & TO 18 MILES
+AMOUNT OF CLOUD COVER NIL, TEMPERATURE GRADIENT 18 DEGREES SPREAD
+NO INTERCEPTION OF IDENTIFICATION WAS MADE, OPERATIONS INTELLIGENCE
+DUTY OFFICER AU COMMAND POST POSSIBLE JET EXHAUST, FIRING AT
+EGLIN AFB OR METOR. NO ADDITIONAL INFORMATION COULD BE OBTAINED
+DUE TO LACK OF RADIO CONTACT WITH PILOT BY THE TIME THIS REPORT
+WAS RICEIVED. A/C DESTINATION WAS PILOTS HOME STATION.

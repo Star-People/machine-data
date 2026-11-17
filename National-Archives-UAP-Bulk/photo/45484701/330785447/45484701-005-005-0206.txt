@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:28:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6803813, "source_ctime_ns": 1793363577890390238, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0206.jpg", "source_mtime_ns": 1785684630000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0206.jpg", "source_sha256": "679f776ae03c39f7b36791ca9df99602a01cbd648446be1c02a6baaf6517218c"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 97, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "clean-vision"}
+115 16/77
+NÍỮ ĐO
+JUL 1950
+100
+01 60
+UL 4850
+N
+s/šttı el\z
+Declassification Authority: NND 923007

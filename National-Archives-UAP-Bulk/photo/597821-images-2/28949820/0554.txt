@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:17:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4006856, "source_ctime_ns": 1793374023886484479, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949820/0554.jpg", "source_mtime_ns": 1785696651000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949820/0554.jpg", "source_sha256": "53517d54dc8ea04ccca9c234a9d2c456d2e12605a38ee4e380e96f2aa59eb5d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1143, "method": "ocr", "page": 1, "variant": "plain-vision"}
+8.1 What direction were you looking when the object disappeared?
+(Circle One):
+Northeast
+Southwest
+Southeast
+Northwest
+Circle one of the following to indicate how certain you are of
+answer to the above question and preceding question (8 and
+Certain
+b. Fairly certain
+c. lot very sure
+d. Just a guess
+9. Were you wearing eye glasses when you saw the object? (Circle One):
+Yes
+or
+NO
+10. How was the object seen?
+(Circle One):
+Through window glass
+Through theodolite
+Through windshield
+Through sunglasses
+Through binoculars
+Through open space
+Through telescope
+h. other Threugh Open Windon
+11. What do you remember about the weather conditions at the time you saw the screened)
+11.1 CLOUDS (Circle One)
+11.3 WEATHER (Circle One)
+30-
+Clear sky
+b.
+Hazy
+c. Scattered clouds
+de
+Thick or heavy clouds
+e. Don't remember
+a•
+b.
+c.
+DrY
+Fog, Mist, or light rain
+Moderate or heavy rain
+Snow
+e. Don't remember
+11.2 WIND (Circle One)
+11.4 TEMPERATURE (Circle One)
+a •
+b.
+C .
+C. a
+No wind
+Slight breeze
+Strong wind
+Don't remember
+b.
+e •
+Cold
+Cool
+windana
+War
+Ло 5
+Don't remember
+rera
+SECTION O
+12. Estimate how long you saw the object?
+Hours
+Minutes
+• Seconds

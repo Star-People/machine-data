@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:34:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7974746, "source_ctime_ns": 1793386037391091251, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994654/1041.jpg", "source_mtime_ns": 1785748183000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994654/1041.jpg", "source_sha256": "3a9e2694a2cc5f94bb403de4384720597b0d7e07fce40108ec0b2eb37b09c588"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO
+(8) N/A
+(9) 62000 FEET.
+RE: PAR 15B. DESCRIPTION Or COURSE OF OBJECT (S)
+(1) ABOVE AVERAGE ALTITUDE
+(2) 62200 FEET. 196 DEGREES AT 84 MILES
+(3) 6200ồẠồEET. 199 DEGREES AT 80 MILES
+(4) NORTH WEST THEN SOUTH
+(5) GRADUALLY SUUTH
+(6) 18 MINUTES
+REF PAR 15C. MANNER OF OBSERVATION
+(1) GROUND ELECTRONIC AN/MPS-14
+(2) RADAR RETURN
+(3) NA
+REF PAR 15D. TIME AND DATE OF SIGHTING
+192122Z
+(2) DUSK
+REF PAR 15E. LUCATION OF OBSERVERS
+(1) 4442 NORTH-7145 WEST.
+(2) 5 MILES EAST OF CLAREMONT NH
+REF PAR 15F. IDENTIFYING INFORMATION ON OBSERVERS
+(1) NA

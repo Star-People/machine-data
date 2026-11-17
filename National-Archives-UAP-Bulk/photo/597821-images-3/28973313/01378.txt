@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:38:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8553247, "source_ctime_ns": 1793379730211347053, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973313/01378.jpg", "source_mtime_ns": 1785700716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973313/01378.jpg", "source_sha256": "434470de87c9b0c676d3a796bbee32ea3f5a448b30b9b35db8a64d6530a304f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 715, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2 LOCATION
+1. DATE
+GA November 1957
+3. DATE-TIME
+GROUP
+Local
+/ 0145 2
+3. PHOTOS
+• Yes
+I No
+7. LENGTH OF OBSERVATION
+L TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+5. SOURCE
+Civilian
+NUMBER OF OBJECTS
+3 minutes
+2
+BRIEF SUMMARY OF SIGHTING
+e Oblong object, size of a baseball at
+arms length, red.
+Two objects, one behind the
+other, whizzing like electric razor. Slowly
+disappeared.
+• Ground- Radar
+• Air-Intercept Radar
+9. COURSE
+Stationary
+12. CONCLUSIONS
+Was Balloon
+Possibly Balloor
+Balicor
+Was Aircrat!
+Probably Aireraft
+Passibly Aircratt
+_Was Astronomicai ALRiRA
+Probably Astrenomica
+Possibly Astronomicai
+Other.
+Insufficient Date for Eveluo
+Unk no en
+ATIC PORM 329 (REV 26 SEP 52)

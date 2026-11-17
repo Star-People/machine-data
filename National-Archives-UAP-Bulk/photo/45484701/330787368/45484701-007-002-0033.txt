@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:50:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7550288, "source_ctime_ns": 1793364561882969439, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0033.jpg", "source_mtime_ns": 1785685193000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0033.jpg", "source_sha256": "cc919bd6050b429e31526fd314e9f6fd12eeba065a7d0b6e98e0bab513c101d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 498, "chars": 3068, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COI
+SECURI
+TON
+TEST OF THE ELECTRIC WIND HIPOTHESIS
+It is believed by the vriter that the electric wind in air and in oil
+leads to all the vell-documented results described herein. These results
+will be summarized and commared with the theoretical predictions.
+(See Par. 4.1.) The positively charged sphere in the Zanesville ex-
+periments moved less than the negatively charged weight. This is as expected
+because the electrostatic force on the positive weight was partly balanced
+by the kinetic reaotion from the olectric wind which presumably existed
+(Par. 7.5. and 7.6) because of the corona discharge at the wires.
+8.2. (See Par. 4.3.) The inequality in the motion of the weights in the
+Bendix exoeriment was less noticeable, probably because the suspension wires
+had larger diameter, thus discouraging borona and reducing the current.
+observed electric wind was caused by corona at the wires, which was more or
+less strong according as the wires were rough or dusty in different areas.
+8.3. (See Para 4.2.) The deflection of a susoended condenser when charged
+vas claimed. This is as expected if the leads or terminals sustain a corona.
+The "polarization" effect would seen to be evidence that one or the other
+lead or terminal had rough areas, sharp corners, or dust, resulting in corons
+at one or the other, and a thrust in one or the other direction.
+If the
+terminals have the same geometry, the force will, because of the lesser mobility
+of the positive ions, be directed toward the positive terminal; 11 the negative
+terminal is much rougher or sharper, it will be the seat of a corona of which
+the force might outweigh that at the positive terminal. The observed fluctu-
+ations in the effect are to be expected as the result of changing dust on the
+wires or terminals, which changes the dorona current; the deflections in the
+8.4. (See Par. 5.) The disc of the Brown Electrometer, shown in Fig. 5.., de-
+velops a torque in response to an apolied voltage.
+The field in the oil is
+strongest in the regions A. B. C. D. where the oil is in contact with the
+electrodes separating the pine sectors P from the marble sectors M. Positive
+ions formed at the electrodes as in a corona discharge will produce positive
+space charges at the regions A. D. while regions B. C, will have negative space
+charges. In the oil these will cause effects analogous to the electric wind
+In air. If the fields A. B. C. Dare equally strong the jon densities will be
+such as to give no net toroue to the disc. Ye will assume, on the other hand,
+that the surface of the pine sectors allows a leakage current; this will have
+the effect of reducing the field in the regions A. B. and will leave the regions
+C. D, dominant in the production of force. The positive ions at D will tend to
+rotate the disc clockwise while the negatives will tend to rotate it counter-
+clockvise. Since their mobilities differ there will be a net toroue in one or
+the other direction, as observed.
+If the chemistry of the oil or the insulating
+60
+-SEOUR
+AINFORMATTON
+18
+Declassification Authority: NND 923007

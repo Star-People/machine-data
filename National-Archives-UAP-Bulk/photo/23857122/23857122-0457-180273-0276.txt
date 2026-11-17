@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:02:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16823808, "source_ctime_ns": 1793356656226076851, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0276.tif", "source_mtime_ns": 1785564737000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0276.tif", "source_sha256": "beb58b7c7119d6d7bdff8f78e27bbad932e9f440d231f1471b74aa00efbb6591"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 389, "method": "ocr", "page": 1, "variant": "plain-vision"}
+D
+Incident #150 =- Swedish coast -- 1 Narch 1948
+The desoription given here is entirely too fragmentary
+for any conclusions to be drawn. The object sighted could have
+been a meteor, a rooket, or a guided missile. The fact that it
+left no trail in the sky argues against its having been a meteor.
+Note the similarity of this incident to 7149 and #133.
+Declassification Authority: NND 57565

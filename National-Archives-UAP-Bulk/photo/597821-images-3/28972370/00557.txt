@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:35:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8160170, "source_ctime_ns": 1793379462927747034, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972370/00557.jpg", "source_mtime_ns": 1785700791000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972370/00557.jpg", "source_sha256": "d49fbeaeccd3dd2e86436fdc1f4751ca71feebd2494a45012de324372079285c"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 902, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+22 October 1957
+3. DATE-TIME GROUP
+Local
+GMT.
+23/01502
+PHOTOS
+Haviland,
+Kansas
+4. TYPE OF OBSERVATION
+ND: Ground-Visual
+Binoculars
+1 Air Visua
+6. SOURCE
+D Ground-Radar
+• Air-Intercept Radar
+• Yes
+KOK No
+7. LENGTH OF.O3SERVATION
+Civilian
+8. NUMBER OF OBJECTS
+30 minutes
+three
+10. BRIEF SUMMARY OF SIGHTING
+So on to to ber it thare tel
+pure white to
+ing behind. No exhaust. No sound.
+Half moon shape with dome on top.
+Attracted by strong light jof object.
+No maneuvers.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+* Insufficient Data for Evaluatior
+Unknown
+9. COURSE
+North
+11.
+COMMENTS
+Possible balloon. Sighting possib
+astro except that motion rptd
+as north.
+Insufficient data for
+evaluation.
+ATIC FORM 329 (REV 26 SEP 52)

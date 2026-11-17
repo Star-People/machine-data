@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:51:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8101923, "source_ctime_ns": 1793364007870127961, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0145.jpg", "source_mtime_ns": 1785684968000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0145.jpg", "source_sha256": "a4daea95e0dc484d2188f1877e7eb2778e5abfc512cf4c9f203e67ecaecb0207"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 155, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“DNITED STATES AIR FORT
+THE INSPFCTOR GENES
+
+Jur 28 8 4° AM °SD
+
+OFFICE OF
+_ SPECIAL INVESTIGATION
+
+~S / ey
+
+Seema
+
+Declassification Authority: NND 923007

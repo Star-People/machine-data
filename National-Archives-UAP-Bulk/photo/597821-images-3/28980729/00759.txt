@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:24:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5538933, "source_ctime_ns": 1793381575149900818, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980729/00759.jpg", "source_mtime_ns": 1785700711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980729/00759.jpg", "source_sha256": "372f010dc69e149375f37abbebc069c57ace071dc7e6dbbe5c952f3e6641d34d"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 680, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJWFHW 28
+(B) 1. FAST MOVING LIGHT ABOVE CLOUDS
+2. EST 3Ø DEGREESTO 45DEGREES WHEN FIRST OBSERVED (SOUTHWEST)
+3. EST 3øDEGREES TO 45DEGREES WHEN CONTACT WAS LOST (VISUAL›;
+4. STRAIGHT COURSE FROM THE SOUTHWEST TO NORTHEAST
+5. FADED FROM VIEW - OBJECT WAS OBSERVED UNTIL IT APPEARED
+TO GO OUT OF THE HORIZON
+6. ABOUT ONE MINUTE (TO COMPLETE THE FLIGHT)
+(C) 1. GROUND - VISUAL
+2. NO OPTICAL AIDS
+3. N/A
+(D) 1. 0045Z 25 OCTOBER 1958
+* 2. NIGHT
+(E) N/A
+(F) MR AND MRS
+CMM 65 YRS OLD CMM WORKS FOR
+STATE OF OKLAHOMA CM
+•KLA CITY CMM OKLAHOMA
+(G) 1. FIVE FIVE BROKEN ONE FIVE VIS ALT 30-18
+2. OKLAHOMA CITY SECTOR WINDS ALOFT
+20,900 FT 250/20
+30,000 FT 360/40
+40,000 FT 260/60

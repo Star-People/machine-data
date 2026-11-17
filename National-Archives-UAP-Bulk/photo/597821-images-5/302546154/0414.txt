@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:08:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1042547, "source_ctime_ns": 1793390069364593436, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546154/0414.jp2", "source_mtime_ns": 1785808128000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546154/0414.jp2", "source_sha256": "02e0036e9008a0e31970269cb511ee9b0f3a963099e5edb165371872d3579cf0"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 1076, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 35360 (20 Nov 65)
+Pg 4 of 6
+F. IDENTIFYING INFORMATION OF OBSERVERS:
+(1) SST RAY WEBSTER, POLICE OFFICER, (BEDFORD POLICE DEPT),
+615 NIHSTREET, BEDFORD, VA.PHONE 536-9390
+(2) PATROLMAN KECK, BEDFORD POLICE, BEDFORDVA. PHONE: 586-1540.
+(3) DEPUTY SHERIFF, B. G. JONES, PT #1,BEDFORD, SHERIFF'S
+OFFICE, ROCKBRIDGE COUNTY, PHONEC 586-7718.
+PAGE FOUR RUZAAML 1 UNCLAS
+(4) S/SET WILLIAM A. CHICK, AF14564438, 606 SOUTH STREET,
+BEDFORD VA, AIRCRAGI CONTROL AND WARNING OPERATOR WITH EIGHT
+(8) YEARS OF EXPERIENCE IN RADAR OBSERVATIONS,
+(5) A/2C WILLIAM A. CUNNINGHAM, AF14742595, TH RADAR
+SQUADRON, BEDFORD AFS, BEDFORDVA. AIRCRAGICONTROL AND
+WARNING OPERATOR, EXPERIENCED IN RADAR OBSERVATIONS.
+G. WEATHER:
+(1) CLEAR, COLD, NO CLOUDS
+(2) OBTAINED FROM THE DUTY FORECASTER, DET. 41, 12TH
+WEATHER SQUADRON LOCATEDAT THE WASHINGTON AIR DEFENSE SECTOR,
+WIND VELOCITY IN DEGREES & KNOTS FROM SURFACE TO80,000 FEET:
+SURFACE
+280 DEGREES
+35 K
+5,022
+280 DEGREES
+45K
+AFHQ
+FORM
+JAN G5
+0-309 C
+UNCLASSIFIED

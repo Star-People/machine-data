@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:01:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15309186, "source_ctime_ns": 1793359435943876681, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-005-0004.tif", "source_mtime_ns": 1785681413000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-005-0004.tif", "source_sha256": "7ed6c65120a6f2a16761b8c271afd46f86f341db144f0d1421cb0e1721e5a2f3"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1091, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+SECURITY CLASSIFICATION (If any)
+DISPOSITION FORM
+FILE NO.
+AISOP
+TO
+OIC, Ft 1-C
+SUBJECT
+WSTA, FIt 1-0, 1 un 56
+FROM
+Comdr, 4602d AISS
+DATE
+COMMENT NO. 1
+8 June 1956
+Capt McEntee 4490 w
+*
+7. Operations Control
+b. Action Required
+(1)
+As suggested Lowry AFB, Colo., was contacted for possible correlation
+of balloon tracking in the Tuscon, Arizona area. Negative results.
+If your Flight has any further information such as balloon flight
+number, etc., or can ascertain balloon trackings through Vernallis
+NAAS request action be initiated. Request headquarters be informed
+of action taken.
+Comdr 4602d AISS
+ATTN: AISOB
+Very. Boke
+HENRI.C. BOBER, Capt, USAF
+Assistant Adjutant
+FROM
+DATE
+COMMENT NO. 2
+OIC, Flt 1-C
+15 Jun 56
+Capt Steffel/al/4101
+1. Vernallis NAAS contacted on 13 and 15 Jun 56. Information requested is
+being compiled and will be sent to Flt 1-C early next week for relay to Ho AISS.
+chard 5. Supe
+RICHARD S. STEPTEL, CapLain,
+Officer In Charge, Flight 1-0
+Iucl
+FORM
+DO 1 FEB SO 96
+REPLACES NME FORM 26
+18, WHICH MAY BE USKD
+1854801-8
+* u.s.

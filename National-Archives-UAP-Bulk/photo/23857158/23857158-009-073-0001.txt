@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T09:49:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7230944, "source_ctime_ns": 1793359668226419191, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-073-0001.tif", "source_mtime_ns": 1785681487000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-073-0001.tif", "source_sha256": "f71c40a40059500ad1828ec591021b8ecb00163bad7bc45f83b4cea25dc25bd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 902, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+3194₴
+1085
+EN0007 ENA156 YDA103 VYB081 VDD106KBA035
+PP RJEDEN RJEDWP RJEPHQ RJEPNB
+DE RJESKB 2D
+P 1316102
+FM COMDR 66ØTH ACWRON MACDILL AFB FLA
+TO RJEDEN/COMDR ADC
+ENT AFB COLORADO SPRINGS COLO
+ZWL/COMDR 35TH ADIV DOBBINS AFB GA
+RJEDWP/COMDR AIR TECH INT CNTR WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIR OF INT HQ USAF WASH 25 DC
+INFO RJEPNB/COMDR EADFR STEWART AFB NY
+.BT:
+UNCLASSIFIED/OPS 0601 PD ATTN: EADF-CIC.,UFOB PD
+A. DART
+B. SIZE OF DIME
+C. RED NOSE, YELLOW BODY AND GREEN TAIL
+D. ONE
+E. NONE
+NONE
+G. NONE
+H. NONE
+4602D AISS FOR REPT.., 492
+DATETIME GROUP. 04+5EDEC EDEC56
+MIAMI, FLORIDA
+164 Sent
+13 Dec
+send 164
+PAGE TWO RJWSKB 2D
+I STRANGE ILLUMINATION
+20.
+A. ILLUMINATION
+B. 10 DEGREE ELEVATION ON 330 AZIMUTH
+C. N/A
+D. NONE
+UNKNOWN
+UNKNOWN
+3..
+GROUND VISUAL
+BINOCULARS
+C.
+• UNKNOWN
+4«
+A..
+12/0445Z
+NIGHT
+5-
+XL 4641
+MIAMI, FLA. STUDENT UNIVER-
+SITY OF MIAMA.

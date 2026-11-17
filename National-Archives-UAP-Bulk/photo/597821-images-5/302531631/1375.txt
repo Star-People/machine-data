@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:09:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1407529, "source_ctime_ns": 1793388735199893906, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531631/1375.jp2", "source_mtime_ns": 1785808390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531631/1375.jp2", "source_sha256": "0611ea24a6327903522bdeda1fdbf7a7bd9398a3b2c9954ad1d574517e29f963"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 849, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFICO INESSACE
+INCOMING
+¡ OFFICE
+AF IN: 31037 (23 Feb 64) H0/1cb
+SAYS
+SATUS
+ACTION: NIN-7
+Dep RR
+SAEMA
+INFO: XOP-1, XOPX-O, SAF-O9-3
+ARMY-2, NAVY-2, CMC-8, JCS-35, DIA-25,
+DIA-CIIC-2,
+OSD-15, NSA-7, (11+)
+Dep PM
+Dep ICI
+SMB C22șîŘ
+Dep SMI
+S YTM
+CZCHQA42 1ZCCJA 923
+SAPRD
+SAMP
+00 RUEAHQ
+ME O
+DE RUFYAW 16 23/0336Z
+R ROTC
+SAFAA
+ZNR
+SAFGO
+SAFOI
+FM 62227/CUW2
+SAFIE
+SATLE
+TO RUFT QH/COMUSFORAZ LAJES FLD AZORES
+DSNG
+RUEAHQ/COFS USAF WASH DC
+RUWGALB/CINCNORAD ENT AFB COLO
+RUCSBRB/CINCSAC OFFUTT AFB NEBR
+BT
+UNCLAS CIRVIS MSG/Ø315Z PX 5645N 411ØW SIGHTED OBJECT AT 8 TO 1132
+O'CLOCK FM ACFT PX OBJECT GREEN TO VIOLET TO ORANGE. EXPLODED PRIOR
+TO HITTING CLD TOP EST 10000 FT TO 12000 FT FL 200 EXPLOSION
+BRIGHT ENOUGHT O LIGHT UP COCKPIT
+NOTE: ADVANCE COPY TO XOPX, NIN, & DIA.
+READDRESSED TO CIA.

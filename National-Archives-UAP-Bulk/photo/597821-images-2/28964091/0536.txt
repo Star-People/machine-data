@@ -1,0 +1,84 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:21:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5012192, "source_ctime_ns": 1793377521493746171, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964091/0536.jpg", "source_mtime_ns": 1785696720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964091/0536.jpg", "source_sha256": "8ae80b1ba9c7bac9a0bf42d44dbd3cf2431cc629cf006f13532e5be1c5ef8253"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1330, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+17
+17
+27
+31
+31
+DATE
+• 15
+•27
+DECEMBER 1955 SIGHTINGS
+OBSERVER
+IOCATION
+•Pueblo, Colorado
+Mcintosh, Minnesota
+Mariana, Florida
+Air (RADAR)
+•Kotzebue, Alaska
+' Chama, New Mexico
+' Colorado Springs, Colorado (CASE MISSING) Multi
+•Camp Pampino, California
+Lincolnville, Maine
+'Cincinnati, Ohio
+•Colorado Springs, Colorado
+•Caddo Lake, Louisiana
+•Arlington,
+Virginia
+Military
+Military (Air RADAR)
+•Charleston, W Va, Shaw AFB, S C (CASE MISSING) Vis Air
+Atlanta, Georgia
+•Mt Laguna, California
+Military (RADAR)
+• Red Oak, Iowa
+*Oklahoma City, Oklahoma
+'Olathe, Kansas
+*Lincoln, Rebras
+Multiple Reports
+Decatur, Nebrenka
+•Forrestville, Oblo
+•Caribou, Maim.
+•Riverside, Gallornia
+*Utica, New York
+• Denver, Colorado
+• Bergen Park, Volorado(CASE MISSING) Civilian
+›Charleston, South Carolina
+•Lyons, Nebra ma
+LOCATION
+Cambridge, Massachusetts
+Fiji Islands (CRIFO)
+AODITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+Letter
+EVALUATION
+Other (CONTRAIL)
+Aircraft
+Insufficient Data
+Astro (METEOR)
+Aircraft (HELO)
+Astro (METEOR)
+Astro (BETELGEUX)
+Astro (METEOR)
+Insufficient Data
+Astro (METEOR)
+Balloon
+Aircraft
+Insufficient Data
+Aircraft
+Aircraft (TEST VEHICLE
+Astro (METEOR)
+Astro (METEOR)
+Aircraft
+Insufficient Data
+UNIDENTIFIED
+Insufficient Data
+Astro (STARS/PLANETS)
+Aircraft
+Insufficient Data
+Insufficient Data
+EVALUATION
+Meteor Shower

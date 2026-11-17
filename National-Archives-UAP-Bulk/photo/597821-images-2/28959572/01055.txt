@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:32:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7475545, "source_ctime_ns": 1793376179820657361, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959572/01055.jpg", "source_mtime_ns": 1785696502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959572/01055.jpg", "source_sha256": "3b6ef6d21373af290d06640c6b343966f8e5f26de2e8491aa2431bed58cd7ad1"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 57, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+UNGLASSIFIED
+NITE LIGENCE INFORMATION REPOR
+UNCLASSIFIED

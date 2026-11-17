@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:26:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6061319, "source_ctime_ns": 1793364695993308580, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0150.jpg", "source_mtime_ns": 1785684893000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0150.jpg", "source_sha256": "7587e7ac7962841c54944e7726345f0c30fe7f5ac7c0027e7b71e2bc220d00c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 75, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IS O
+"AIG
+MANAGEMENT
+16 SEP1950
+unO
+Declassification Authority: NND 923007

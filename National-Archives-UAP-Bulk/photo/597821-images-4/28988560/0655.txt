@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:31:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7125514, "source_ctime_ns": 1793384016714556151, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988560/0655.jpg", "source_mtime_ns": 1785747956000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988560/0655.jpg", "source_sha256": "0c3faca3f51969695994d89891783223cc483c5c7214ddafca93ef9d1adb7f59"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 242, "method": "ocr", "page": 1, "variant": "clean-vision"}
+/17 MR R. SONDER AND MR. CREAIG MOLLY•
+/2/ N/A
+1. /1/ NOT REPORTED
+/2/ NOT AVAILABLE
+/ 3/ CLEAR
+/4/ 12 MILES
+/ 5/ UNKNOWN
+/6/ NONE
+PACE THREE RJEDSO 33F
+H. UNKNOWN
+I. NONE
+J• UNKNOWN
+<. OPERATIONS OFFICER. NONE
+L. UNKNOVN
+27/2233Z AUG RJEDSO

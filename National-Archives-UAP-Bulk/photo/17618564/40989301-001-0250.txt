@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T10:09:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1272625, "source_ctime_ns": 1793356084482475562, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0250.jpg", "source_mtime_ns": 1785564602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0250.jpg", "source_sha256": "53825ea556e6f222383dd80f8a040523f6822179d005c57d4b26382a4f72027f"}
+
+===== PAGE 1 =====
+{"alpha_words": 290, "chars": 1818, "method": "ocr", "page": 1, "variant": "plain-vision"}
+fuels usually give a coating which is too coarse
+grained and heavy. In smoking the drum a long
+rod is used as a rotating axis. The drum is ro-
+tated rapidly in the flame so as to prevent
+overheating and oxidizing of the foil. The car-
+bon should not be so thick as to obscure the
+metallic appearance of the aluminum foil.
+(e) Calibrate the barograph for pressure.
+strument is placed in a bell jar and the air
+evacuated. The pressure is kept constant at a
+number of pressures so that as the drum turns a
+step, record is made on the moked foil. Pressure
+recording starts at about 500 millibars so the
+first level in the calibration should be at that
+value. At each level the pressure should be kept
+constant for three to five minutes in order to
+obtain a measurable line. Great care and consid-
+erable practise are required to control the valves
+of the vacuum system so that the pressure does
+not ohange noticeably during each step.
+The pressure steps at which the barograph is cali-
+brated may be either at regular pressure intervals
+or at the pressure values corresponding to regular
+height intervals according to the standard at-
+mosphere figures. The recommended steps are
+listed below. If the balloon is not expected to
+go to the higher altitudes, the calibration may
+be stopped at correspondingly higher pressures.
+Pressure s
+500 mb
+400 mb
+300 mb
+200 mb
+150 mb
+100 mb
+50 mb
+10 mb
+Standard Atmosphere Heights
+mb corresponding to
+20,000 ft.
+30,000 it.
+40,000 ft.
+50,000 ft.
+60,000 ft.
+45.3 mb
+70,000 It.
+80,000 ft.
+17.5 mb
+10.9 mb
+90,000 ft.
+The temperature calibration may be made by recording
+two widely spaced temperatures, such as room tem-
+pera ture
+and the temperature of dry ice (-78°C).
+This calibration will be approximately a straight
+line and, therefore, two points are sufficient
+to plot the curve.
+-68-
