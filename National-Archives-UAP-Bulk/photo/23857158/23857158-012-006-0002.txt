@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:45:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20007396, "source_ctime_ns": 1793360014984818163, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-006-0002.tif", "source_mtime_ns": 1785681601000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-006-0002.tif", "source_sha256": "66bd55c6655aa43c427d3ebbf40db92c1a50e69b76a117d983df2becd2092fd8"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 745, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+EN0Ø04
+ENAØ72 YMA006 XYA138
+RR RJED ZFD RJWP
+YXA095 YMA005
+KFAØ42KFGØ35
+RR RJEDKF RJEDEN RJEDWP RJEPAG
+DE RJEDKF 1 GM
+R 041330Z
+FM COMDR 789TH AC&W SQDN OAFS OMAHA NEBR.
+TO RJEDKF/COMDR 2ØTH ADIV GAFB GRANDVIEW MO
+RJEDEN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR ATIC WP AFB OHIO
+RJEPAG/DIR OF INTELL HQ USAF WASH DC
+RJEDKF/COMDR CADF GRANDVIEW MO
+/UNCLASSIFIED/OPNS466THE FOL IS A UFOB REPT
+1 -
+A •
+B. PEA
+666262
+ONE
+N/A
+NONE
+NONE
+NONE
+NONE
+2
+A •
+CIRCULAR
+BRIGHT YELLOW WHITE LIGHT
+C•
+D.
+L •
+Ø41654 Z
+OPS
+3ØDEGREES FROM HORIZAN
+UNK
+IN ORBIT
+NONE
+21 MINUTES
+A. GROUND VISUAL
+B* N/A
+C. NA
+4
+A.
+310300Z AUG 56
+B. NIGHT
+5
+UNK
+A •
+MRS.
+NONE
+HOUSE WIFE
+UNLITIMITED
+NNE
+NONE
+1
+NONE
+NONE
+A •
+NONE
+Вт
+04/1545Z AUG RJEDKF

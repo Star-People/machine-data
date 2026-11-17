@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:50:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 86872688, "source_ctime_ns": 1793368247870401566, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179314USAF_002.TIF", "source_mtime_ns": 1785566010000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179314USAF_002.TIF", "source_sha256": "2839a32dbd298030bbfa4e230954d3a7a10b939203a1ef5f5daa175e31af1675"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 290, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+179314, USAF ~ SCIENTIFIC STUDY OF UMs ~ Attempted
+simulation of Case 539 Photo 2, made
+by holding a Plate, illuminated by flashlight
+
+end blurred by hand motion. Moon at left.
+(Plate #51)
+
+Se ee
+
+re
+
+Copied from 8x10 print rec'd 1/13/69
+from SAFOIL,.
+
+idled — UNIDENTIFIED FLYING OBJECTS

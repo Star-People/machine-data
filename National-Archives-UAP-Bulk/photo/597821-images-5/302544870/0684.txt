@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:10:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1757449, "source_ctime_ns": 1793389908661794614, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544870/0684.jp2", "source_mtime_ns": 1785808163000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544870/0684.jp2", "source_sha256": "2f56be3e13791064fcbd837a7f110901ffb15ba7049885d83393c556aa1e937f"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 421, "method": "ocr", "page": 1, "variant": "plain-vision"}
+A call was made on January 14, 1966, to Miss
+Chisholm, Minnesota. Reference to sighting of 25 September 65.
+Report remains in unsatisfactory condition oving to absence of
+quantitative data. Almost entirely possible that it was that of an
+aircraft. As,long as the witness insists that the lights traveled
+faster than that of an aircraft and made a extremely abrupt turn,
+The case must remain in the unidentified category.

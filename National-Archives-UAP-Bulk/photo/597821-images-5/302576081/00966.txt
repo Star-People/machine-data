@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:02:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 805472, "source_ctime_ns": 1793393339297855144, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302576081/00966.jp2", "source_mtime_ns": 1785808135000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302576081/00966.jp2", "source_sha256": "90483179ec57f3c19a944a459d94cf83ab81c914ce323642e657fead71963f7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 649, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO FOR THE RECORD
+9 July 1968
+Subj: UFO Sighting of 26 June 1968
+Avenue
+Dayton, Ohio 45406
+wanted to report a fireball to us which occurred on
+June 26 at 0205 hrs. The duration was 10 seconds and the course was
+N to S. He described the object as a bright white light that had
+a gigantic tail. He said that it was so bright that it lighted up the
+inside of the room and that he retained a retinal image of it for 5 to 10
+seconds after it disappeared. He was about 8 ft from the window. The win-
+dow has a blind that has a cord with a hoop at the bottom. M
+said that the light was about twice the size of the hoop. At no time
+did he hear any noise.

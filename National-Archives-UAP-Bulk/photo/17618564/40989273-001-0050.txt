@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:04:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1010307, "source_ctime_ns": 1793355799615957688, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989273-001-0050.jpg", "source_mtime_ns": 1785564529000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989273-001-0050.jpg", "source_sha256": "afa2182beaf43108a63112e937e7cb376c40814eb8117f335f440b9d4f8d7d74"}
+
+===== PAGE 1 =====
+{"alpha_words": 215, "chars": 1740, "method": "ocr", "page": 1, "variant": "plain-vision"}
+*
+GC Comments case 96-1227
+page 2, paragraph 2: Editorial "...in a cover-up and posessesses dark secrets ... descriptions of "bodies" ...
+Page 3, paragraph 1: Comment.. Tone too harsh
+page 8, paragraph 1: Comment. Tone too harsh, cautionary note about libel.
+page 11, paragraph 2: Editorial. "In the 1970s, ... throughout the 1990s."
+page 12, paragraph 12: Recommendation. Delete reference to Schiff's chief of staff.
+page 75, paragraph 1: Comment. tone too harsh on Dennis
+page 76, footnote: Recommendation. Friedman denied [has not honored repeated]
+page 88, paragraph 3: Amendment, libel concerns. Dennis was apparently inaccurate [at best mistaken]
+page 96, paragraph 4 in Aircraft Crashes and UFOs: Comment. tone down critical review, e.g. "distorted"
+page 97, paragraph 2, footnotes 136, 138, 139, 140: Amendment, policy. Publicly connecting the names
+of the individuals to the vivid details of the autopsy is too insensitive to the survivor's families and
+violates Air Force standards.
+page 99, paragraph 4: Editorial. "...Dennis' recitations of the account."
+page 101, paragraph 1: Editorial. "... involvement of [a] hospital and..."
+page 107, paragraph 3: Editorial. "The [pilot's] pilots' identities and purpose ..."
+page 118, figure 27: Mandatory Record. Need to keep privacy release statement from Captain Fulgham
+page 123, paragraph 1: Comment. Tone is too defensive.
+page 125, paragraph 1: Comment. Tone is too defensive.
+page 161, Appendix B: Mandatory Record. Need to have records that witnesses were informed that their
+statements were going to be published.
+page 187, Appendix C: Mandatory Record. Need either permission to reprint these transcripts or record of
+publicly available source and record of approval from JAG.

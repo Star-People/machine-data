@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:03:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 984096, "source_ctime_ns": 1793393847322164861, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302581270/0684.jp2", "source_mtime_ns": 1785808608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302581270/0684.jp2", "source_sha256": "accf6f6ecdb84140f3e64f3b3c08381d528528c58bd0f1175262b6eae08fa3a2"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 791, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073!
+DATE • TIME GROUP
+3 Dec 68
+SOURCE
+03/1020
+04/00202
+Civilian
+4. NUMBER OF OBJECTS
+On e
+5. LENGTH OF OBSERVATION
+10 Minutés
+TYPE OF OBSERVATION
+und-Visual
+COURSE
+Summary
+PHOTOS
+LOCATION
+Crecarield, Iova
+10. CONCLUSION
+Probable (AIRCRAFT)
+11. BRIEF SUMMARY AND ANALYSIS
+The observer sighted a light that seemed to be brighter than
+the plaret Venus.
+The light approached from the NE turned
+NW and disappeared rapidly.
+The observer stated that he
+would simply have dismissed this as an eirplane except for t
+intense brilliance of tho light fren such a small source.
+Also the bright light was not visible as it disappeared, but
+only a red light, like a tail light, could be seen.
+PHYSICAL EVIDENCE
+• Yes
+Li No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous editions of this form may be used.

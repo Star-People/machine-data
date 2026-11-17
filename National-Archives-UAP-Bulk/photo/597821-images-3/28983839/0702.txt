@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:16:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4333845, "source_ctime_ns": 1793382426480263758, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983839/0702.jpg", "source_mtime_ns": 1785700812000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983839/0702.jpg", "source_sha256": "7b6705a97142987bd52df26df42f8a263e8468fe26244dfdfed985cc94d8ad1f"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 930, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+50
+3. DATE-TIME GROUP
+Local
+2210
+14/01.10Z
+Jul 59
+GM T.
+5. PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERYATION
+e0 mins
+10. BRIEF SUMMARY OF SIGHTING
+Obj had a egnical protuberance in the
+central part &
+set of green lights,
+separated
+forming a Maltese cross with six lights in
+each arm, totaling 24 points of green light.
+The obj also emitted an orange colored jet fr
+its extremity. Twice as marge as Venus.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Brazil
+4. TYPE OF OBSERVATION
+-D-Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Rador
+• Air-Intercept Radar
+Unknown
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+D: Insufficient Data for Evaluation
+Unknowm
+not given
+COMMENTS
+Insufficient data. Translation
+of Brazilian newspaper clippings.
+ATIC PORM 329 (WEY 26 SXP 32)

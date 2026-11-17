@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:29:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6535231, "source_ctime_ns": 1793355138142301051, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0080.jpg", "source_mtime_ns": 1785564399000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0080.jpg", "source_sha256": "3cf64c8607d55c83996c756972d0f625240092156f10c3b6497699e1874cb763"}
+
+===== PAGE 1 =====
+{"alpha_words": 269, "chars": 1696, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RECOVERY REPORT
+Flight Number H75-26/1-60X
+Date:
+24 April 1975
+BALLOON
+Time arrived at balloon:__1500
+Was valve closed or open? Cinsed
+Was a Tenney Release still attached to the bottom of the balloon?
+-NO
+Did balloon destruct upon termination?
+Yes
+How was the balloon
+disposed of? Brought back to Holloman
+Location of balloon impact: 22 miles WSW Roswell, NV
+How far from nearest road? Two miles
+The nearest town? Roswell
+PACKAGE
+Time arrived at package:
+Was Contractor package running? No
+Was AFCRI instrumentation package running? Yes If so, how was it
+turned off? External Plugs
+Were any cameras running?
+No
+What other equipment was running?.
+Did impact switches
+fire?
+What was the condition of the switches? _Good
+Was Contractor's package damaged?
+_ Was AFCRI instrumentation
+package damaged?
+_ How far was equipment dragged? None
+Did let-down reel work?
+_ If not, how many feet reeled out?
+Did any batteries or motors short out?
+_ If so, which ones?
+Were they located on the gondola or package?
+Did antenna deploy? Yes
+_ Did the hoppers blow?
+Were any seals
+broken on samplers?
+Which ones?
+_ How muc
+ballast remained in the hoppers? 55 lhs & 24 1bs
+Which hopper? Both
+Mark level of remaining ballast:
+What was the condition of the
+parachutes? Good
+_ Did any parachute fail to operate properly?
+How many releases were still attached to the top of the parachute?
+INO
+Which ones fired? Primary
+Were all hot squibs shorted out?
+Yes
+Was there any property damage?
+No
+If so, what type câmage! -
+Time departed recovery site: 1100
+Remarks:
+List name and address of others that assisted in recovery.
+NAME ADDRESS
+Others:
+RECOVERY CREW
+R.G. BLANKENSHIP
+Crew Chief Signature
+SGT DEFOE
+SCT DIAZ DE LEON

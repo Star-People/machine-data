@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:44:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16563896, "source_ctime_ns": 1793356526876138234, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0138.tif", "source_mtime_ns": 1785564717000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0138.tif", "source_sha256": "c9100cdd0d0ed657383f7735ae00456cdd5ae3e9aef829e11a5b0f961fe64e68"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 358, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TRICTED
+Incident #222 --Furstenfeldbruck, vernany -- 23 November 1948
+The tactics described by this object, if correct, and
+the implied time in sight (long enough to call others to see it)
+argue stron ly against an astronomical interpretation for the in-
+cident•
+The object might have been a balloon with a light on it.
+Declassification Authority: NND 57565

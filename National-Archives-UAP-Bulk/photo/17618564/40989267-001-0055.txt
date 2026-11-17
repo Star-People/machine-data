@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:45:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20021221, "source_ctime_ns": 1793355473437849685, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0055.jpg", "source_mtime_ns": 1785564461000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0055.jpg", "source_sha256": "f871cbdb77c4fb1b3183b0687e1a9bca7e07411089acfa6954d7696738f5a222"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 545, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Total Volume Pumped - Thousands of Ambient Cubic Feet
+Operating Altitude - 110, 000 ft
+Power - 30 1b compressea 2
+Pump - RO-l air ejector
+Collector - IPC No.
+1478 filter
+200
+150
+100
+50
+PRIMARY: PRESSUE
+SAENE
+Sampling Time - Hours
+Figure 5. Sampler Characteristics, 110, 000 feet
+Total Volume Pumped - Thousands of Ambient Cubic Feet
+Operating Altitude - 130, 000 ft
+Power - 30 1b compressed Nz
+Pump - RO-1 air ejector
+Collector - IPC No. 1478 filter
+600
+500
+400
+300
+200
+100
+Sampling Time - Hours
+Figure 6. Sampler Characteristics, 130, 000 feet

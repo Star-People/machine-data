@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:34:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7513113, "source_ctime_ns": 1793383516457046552, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987182/0852.jpg", "source_mtime_ns": 1785747973000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987182/0852.jpg", "source_sha256": "89b61aa3e5e403c1eb2bfbd852ded5228697759818ef581d7646ea782e06bb25"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 863, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MULTIPLE
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+6 Jun 60
+3. DATE-TIME GROUP
+Local
+0130
+GM T
+G0630₴
+S.
+PHOTOS
+Beckley, West Virginia area
+4. TYPE OF OBSERYATION
+& Ground-Visual
+• Ground-Rader
+• Air Visual
+• Air-Intercept Radar
+• Yos
+6.
+SOURCE
+Civilian
+P No
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+3-5 sec
+one
+10. BRIEF SUMMARY OF SIGHTING
+creen
+ish-blue object,
+a
+rouna,
+about the size of
+basketball, emitted a grapefruit sized ball
+of fire from each side then simply disappeared.
+Accompanied by rumbling sound.
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Other-
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+SW
+n.
+COMMENTS
+Description fits that of a meteor classed
+as a
+"bolide."
+ATIC FORM 329 (REV 26 SEP 52)

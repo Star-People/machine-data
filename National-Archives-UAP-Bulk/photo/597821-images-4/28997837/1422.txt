@@ -1,0 +1,140 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:16:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4332520, "source_ctime_ns": 1793386938057504176, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997837/1422.jpg", "source_mtime_ns": 1785748157000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997837/1422.jpg", "source_sha256": "58f0040373325d13774a6a4898b866379c0c5bf0380ef35071976d684bb3f001"}
+
+===== PAGE 1 =====
+{"alpha_words": 518, "chars": 3610, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CRUISING ALTITUDES - FLIGHT LEVELS
+The following procedures apply to the operation of aircraft within the United States, excluding the Aleutian Islands
+west of 160°00' W and the State of Hawaii.
+They are also applicable within the airspace between the Continental
+United States and the adjacent ICAO Flight Information Regions (FIRs).
+ALTIMETER SETTING
+The vertical displacement of an aircraft shall be determined by reference to an altimeter set:
+(a) At or below 23,500 feet MSL, to the current altimeter setting reported by a station which is within 100 naut-
+ical miles, if possible. The altimeter of an aircraft without radio shall be set to the elevation of the airport of
+departure; or to an appropriate available setting. Vertical displacement determined by use of these settings
+are Cruising Altitudes and are expressed in feet above mean sea level.
+(b) At or above 24,000 feet MSL, to a standard setting of 29.92iại. Vertical displacements determined by that set-
+ting are.
+Ignt Leveis and are expressed in 3-digit figures; for example, Flight Level 265 represents an indic-
+ation of 25.500 feet on an altimeter set to 29.92ạồi. The use of Flight Levels below 24,000 feet MSL is not per
+missible.
+The lowest usable Flight Level, however, may be a figure which is numerically greater than 240,
+depending upon atmospheric conditions. For example, when the actual atmospheric pressure is 27.92ạỊại an air-
+craft at Flight Level 260 will be at an actual height of 24,000 feet MSL and, therefore, will be at the lowest
+usable Flight Level.
+DIRECTION OF FLIGHT
+When an aircraft is operated in level flight, the following Cruising Altitudes or Flight Levels, whichever is appro-
+priate, shall be observed in accordance with the magnetic course being flown.
+(a)
+Under Visual Flight Rules (VFR)
+At 3,000 feet or more above the surface.
+Below 29,000 feet
+Above 29,000 feet
+EVEN
+Thousands
+plus 500 feet
+ODD
+Thousands
+4000 foot
+intervals beginning at
+FL 320
+FL 300
+plus 500 feet
+,6Z
+4,500; 6,500;
+or
+Flight Leveis
+265, 285,
+etc.)
+(3,500; 5,500;
+Flight Levels
+255, 275
+etc.)
+(Flight Leveis
+320, 360,
+etc.)
+(Flight Levels
+300, 340,
+etc.)
+180
+(b)
+Under Instrument Flight Rules (IFR)
+Within Controlled Airspace, as authorized by an air traffic control facility, except that aircraft operatingạion
+topạồ in the absence of an authorized specific altitude shall be flown as specified above for Visual Flight Rules.
+Outside Controlled Airspace.
+Below 29,000 feet
+At 1nd above 29,000 feet
+EVEN
+ODD
+housands
+Thousands
+inclusive
+4000 foot
+intervals beginning at
+FL 310
+FL 290
+(2,000; 4,000;
+(1,000; 3,000;
+359°
+c081
+Flight Leveis
+260,
+230,
+etc.)
+Flight Levels
+250, 270
+etc.)
+(Flight Levels
+310, 350,
+etc.)
+(Flight Levels
+290, 330,
+etc.)
+The V.H.F. ot
+precipitation s
+range, but pro
+Omni (Directi
+miles (43 naut
+In flying the V
+pointer instru
+he is right or l
+knob, by whi
+selector indics
+which shows
+FROMỊi need
+the needle poi
+In operation, t
+tains it by kee
+the needle swi
+For example,
+to indicate 0
+"TO-FROM'
+cross-pointer
+will now find
+incorrect. So,
+to the "TO" :
+With the incr
+reception dist
+If you are usi
+a station un!-
+All continuot
+on the range
+hour.
+ẠỊThe
+approximatel
+cast consistir
+the station.
+The broadca
+reports throt
+upon receipt
+Flash Advisc
+ditions, such
+initial onset
+Pilots enrout
+the hour (w
+scheduled br
+Within ICAO Flight Information Regions (FIRs), including the Aleutian Islands west of 160°00'W, the State of
+awaii and the United States Possessions and Terri
+ries, Cruising Altitudes and Flight Levels shall be determined
+1 observed in accordance with the ICAO Regional Su
+applementary Procedures.

@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:26:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5959407, "source_ctime_ns": 1793383869676479379, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988141/0265.jpg", "source_mtime_ns": 1785748019000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988141/0265.jpg", "source_sha256": "ad3402e9cba56ee283de1d585ab29b3f02feb2de2edd383abf4b642ebf2e23a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 809, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+10 August 1960
+3. DATE-TIME GROUP
+Local 1600-1730 local
+GMT
+10/21002
+5. PHOTOS
+• Yes
+MIX No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Cleveland, Ohio
+4. TYPE OF OBSERVATION
+XX Ground. Vi sual
+• Air Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Rodor
+Civilian
+NUMBER OF OBJECTS | 9. COURSE
+not reported
+one
+10. BRIEF SUMMARY OF SIGHTING
+Letter to FBI with nesspaper
+article
+bbout UFO sighted by witness (see
+case) .
+varied
+11. COMMENTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+000
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evoluation
+Unknown
+Insufficient data for evalua-
+tion. No investigation made
+due to delay in receipt of
+report.
+ATIC FORM 329 (REV 26 SEP S2)

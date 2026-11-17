@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:05:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1351454, "source_ctime_ns": 1793355931012493309, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0012.jpg", "source_mtime_ns": 1785564562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0012.jpg", "source_sha256": "7999018922e3707f614c79136f18dee9da337013ed732de1df8b97ddbc868240"}
+
+===== PAGE 1 =====
+{"alpha_words": 225, "chars": 1430, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3
+Satellite Operations Branch. The new branch also received
+responsibility for Project 7850, but with the understanding that
+it would receive low priority until people and resources were made
+available. Thus the biodynamics program, at least in the form
+known up to now, is also on semi-active status. But there is no
+intention of abandoning it outright. The program has already pro-
+duced data that will be of value for a great many purposes, including
+biosatellite operations; and one other Air Force agency, the Aero
+Medical Laboratory at Wright Field, has promised to channel an
+ever growing amount of biodynamics work to the Holloman unit, espe-
+cially in the testing of escape systems and personal equipment.
+Aircraft Crash Forces
+One of the less exotic aspects of the biodynamics program--
+one which has received only a modest amount of research effort
+but which has yielded certain interesting results- has been that
+related to crash forces experienced in aircraft accidents. The
+study of aircraft crash forces has obviously much in common with
+the study of escape from aircraft. Moreover, the first aero-
+medical sled runs on the Holloman high-speed track to deal
+expressly with a topic other than escape from aircraft were con-
+cerned with aircraft crash forces. These runs began on 21 April
+1955 and lasted through 28 June, overlapping slightly with the
+earliest of the high-speed windblast runs by the sled Sonic Wind

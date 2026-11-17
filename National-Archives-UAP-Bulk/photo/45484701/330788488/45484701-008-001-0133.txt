@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:35:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7969548, "source_ctime_ns": 1793365253228107550, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0133.jpg", "source_mtime_ns": 1785684673000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0133.jpg", "source_sha256": "cb416f3cbe464d8426518f63b118c5bafacc990cee1bcf3e91faa3cc0ef65f08"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 865, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+ALASKAN AIR COMMAND
+The Inspector General
+Office of Special Investigations
+APO 942, c/o POSTMASTER, SEATTLE, WASHINGION
+AAISI-2 49(4)-13
+SUBJECT:
+METEOROLOGICAL PHENOMENON, 30 November 1950
+POSITIVE INTELLIGENCE (SCIENTIFIC)
+18 December 1950
+TO :
+Director of Special Investigations
+Headquarters USAF
+Washington 25, D. C.
+1. Transmitted herewith are three copies of report of investigation
+subject as above, file 49(4)-12, dated 5 December 1950.
+2. It is desired that leads at Mt Wilson and Palomar observatories
+in California as set forth in the report be developed.
+1 Incl
+Report of Investigation
+file 49(4)-12, dtd 5 Dec 50
+(trip)
+Eduriu A. Far
+EDWIN A. HARTLEY
+It Colonel, USAF
+Director
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DI
+BY Historian
+KURT K. KUNZE, Capt, USAF
+8 DEC 1975
+DATE
+UNCLASSIFIED
+R# 778
+Declassification Authority: NND 923007

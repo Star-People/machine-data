@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:32:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7073743, "source_ctime_ns": 1793384860733158195, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991225/0909.jpg", "source_mtime_ns": 1785748058000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991225/0909.jpg", "source_sha256": "64d7fc701b931ef1660ef2b4a535e7da7e115d0d9fc8b660fb984a2f4046d610"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 654, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INNN
+BØ55
+2CSQA199ZCJYE495
+REÇEIVED
+OP RJEDSQ
+DE RJEZHQ 808
+AT T1961 JAN 25
+02
+46
+8 2521507
+*M HQUSAF WASHDC
+ENFO ATIC WPAFB OHIO
+ENR
+Y 2522022
+EM COMEASTAREA
+TO RJWFALB/CINCNORAD
+RJEZHQ/COFS USAF
+R ВЕКНС/ COMAS DEF ORLANT
+R BEGUH/COMEASTSEAFRON
+RJESKB/32ND NORAD DIV
+INFO RBEPJD/COMDT COGARD
+RBEKDW/CCGD FIVE
+USCG GRNC
+ВТ
+UNCLAS X MERINT X NOTICE TO US COAST GUARD FROM GERMAN TANKER
+MARIE BOETTGER 2205-2210 GMT IN POSITION 24.15N 56.25W
+OBSERVED UNIDENTIFIED IRREGULAR FLYING GLOWING AND SMOKING
+OBJECT POSSIBLE ROCKET WHICH AFTER ENTERING THE ATMOSPHERE
+DISSOLVED LIKE A COMET FLYING DIRECTION NW TO SE
+ВТ
+25/0151Z JAN RJEZHQ
+TELEPHONEDE
+TO
+ПМЕ
+4x2a

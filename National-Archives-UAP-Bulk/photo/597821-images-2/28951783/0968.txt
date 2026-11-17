@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:25:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5864648, "source_ctime_ns": 1793374466471011523, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951783/0968.jpg", "source_mtime_ns": 1785696531000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951783/0968.jpg", "source_sha256": "23a057fb91839f2bff750edc326d4dc1295080d12ca2643037dc151e464b96eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 136, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+38°45'00"
+
+104°37'30°
+
+1035932
+
+SHEET 5061 Il NW
+A.M.S. SERIES VB77
+
+BOUNTAIN
+
+ig Johnson Res
+
+¥
+SA B
+; »
+’ ya
+|
+
+|
+
+>_
+=:
+
+i
+
+.
+
+1787

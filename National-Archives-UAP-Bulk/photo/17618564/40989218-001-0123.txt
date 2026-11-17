@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:26:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6046188, "source_ctime_ns": 1793354680421672502, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0123.jpg", "source_mtime_ns": 1785564323000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0123.jpg", "source_sha256": "5fd55b77c2d991ba84bb553c268aa0ed03fefd7944178921b4fd99dfd2260285"}
+
+===== PAGE 1 =====
+{"alpha_words": 305, "chars": 1812, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Asst TO: Let the record reflect all parties to the trial present when the
+court recessed are once again present.
+TC: The prosecution's next and last witness is Mr. Pittson of the OSI.
+Special Agent William II. Pittson, Office of Special Investigations,
+Detachment 1706, Walker Air Force Base, New Mexico, a witness for the prose-
+cution, was sworn and testified as follows:
+DIRECT EXAMINATTON
+Questions by the prosecution (TC):
+Would you please state your full name, organization, armed force, and
+station?
+A. William I. Pittson, Special Agent, OSI, United States Air Force, assigned
+to Detachment 1706, Walker Air Force Base, New Mexico.
+Court member (Col Macdonald): Could we have the air conditioning off, please?
+TO: Yes, sir.
+(Asst TC turns off air conditioner.)
+Questions continued by the prosecution (TC):
+Do you know the accused in this case?
+A. Yes, I do.
+Q. If he's in the courtroom, would you point him out and state his name?
+Colonel George F. Adams (the witness points to the accused in the court-
+room).
+I draw your attention to on or about the 28th of November 1956, did you
+have the occasion to see the accused, Colonel Adams?
+A. Yes, I did.
+Could you tell me where and at what place you seen him?
+At the OSI Office.
+At what station?
+Walker Air Force Ease, New Mexico.
+Did you interview Colonel Adams on 26 November 1956?
+Yes,
+I did.
+Prior to interviewing Colonel Adams, did you advise him of any rights?
+Yes, I did.
+Would you inform me of what those rights were?
+wa s
+advised of his rights in accordance with the 3lst Article of the
+Uniform Code of Military Justice.
+Do you know if the accused was aware of his right to remain silent?
+Yes, he was.
+Do you know if the accused
+was aware of
+the fact that in the event he
+made a statement, it could
+used as evidence
+in a court-
+martial?
+He was.
+109

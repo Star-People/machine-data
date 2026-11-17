@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:34:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7608367, "source_ctime_ns": 1793376976207289297, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962388/0564.jpg", "source_mtime_ns": 1785696813000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962388/0564.jpg", "source_sha256": "066368ac1f7c4e874496123e13d87a5779dd0f6742b1881c16bf2edd498113c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 426, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TVO BUEAY 2D
+(6) (A) NONE (E)
+DOVER AFL DELMARE PILOT
+5. 1ST LT 1737TH FERRY 30DN
+(7) (A) CLEAR PIFTEEN PI (E) 6,.00 150 DEG 10 KT
+10,000' 110 DES 10 KT
+16,00C' 100 DEG 15 KT
+20,0C0' 190 DES 15 KT
+30,000' 270 DES 40 KT
+(C) 12000 (D) 15 (E) SEVEN TENTHS (N) DISTANT VEST
+(3) NONE (9) NONE (1C) WX (11) FLIGET SERVICE OPFFATIONS OFFICER
+CAPT RICHARD F. WALKER NO COMMENTS (12) NONE
+PT
+16/0510Z JUN RJUFAM
+- 03 10 Ces 01
+NI

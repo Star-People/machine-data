@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:30:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6815192, "source_ctime_ns": 1793380018675197955, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974239/0752.jpg", "source_mtime_ns": 1785700795000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974239/0752.jpg", "source_sha256": "b3ad7c1f76d776ff391abc1823bb6cfbbc71f29514e47b0cce3b769ca04e71ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 837, "method": "ocr", "page": 1, "variant": "plain-vision"}
+. DATE
+& Nor S7
+3 Jan 55
+3. DATE-TIME GROUP
+08/15102 Nov 57
+5. PHOTOS
+UFOB INDEX CARD AISS-UFOB-534-57
+2. LOCATION
+12. CONCLUSIONS
+Merrick, LI, NY.
+Was Balloon
+Probably Balloon
+•
+4. TYPE OF OBSERVATION
+Possibly Balloon
+3 Ground-Visual
+• Ground-Radar
+Was Aircraft
+a
+Probably Aircraft
+• Air Visual
+• Air-Intercept Radar
+Possibly Aircraft
+SOURCE
+Was Astronomical
+Civilian
+Probably Astronomical
+Possibly Astronomical
+8. NUMBER OF OBJECTS
+OrherProb Optical
+Insufficient Data for Evaluation
+One
+Unknown
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+Instantaneous
+0. BRIEF SUMMARY OF SIGHTING
+One long bar, 3g feet long, bluish in
+color.
+Observer noted a swishing sound.
+Object was seen "instantaneoualyi
+9. COURSE
+Unknown
+11. COMMENTS
+Concur with Reporting Officer that
+this sighting i was probably caused by
+Optical Phenomena.
+AISOP Form 5 (15 Oct 54)

@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:19:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4746678, "source_ctime_ns": 1793359688811229088, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-009-0001.tif", "source_mtime_ns": 1785681493000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-009-0001.tif", "source_sha256": "f2c899eab536ba942eeb817cd707df3a9a04998cecf1de52c58d05722cc87664"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 713, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+46020 AISS UFOB LOG
+REPORT NUMBER
+AISS-IT703-69-56
+LOCATION OF SICHTING
+Chicago, Illinois
+MEANS RECD
+INVES UNIT
+DATE IR RECD HQ
+H/д
+DATE FORM 5
+15 Mar ch 1956
+DATE/TIME OF SICHTING
+15/02512 Mar 56
+RECD AISOP
+15 ar 56
+LOGGED BY
+S/Sgt Deludder
+ACTION TAKEN
+Telepbonically checked by 3-A (Used 16)11g)
+No formal investigation authorized
+DATE INVES ASSIGNED
+ASSIGNING OFFICER
+İN/A
+DATE IR APPROVED
+DATE IR TO ATIC
+127/A
+COMMENTS
+SY Mag sent to 3-A on 15 Mar 56 authorizing them to telephonically
+interview the observers of this sighting and complete ATIC Porms 16h
+with them. Results of analysis of retured 16h's as indicated below;
+GONGLUSIONS
+VAS Venus
+AISOP FORM 7 (2 APR 55)

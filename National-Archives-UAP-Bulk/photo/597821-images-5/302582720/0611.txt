@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:08:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1713329, "source_ctime_ns": 1793393991902843568, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582720/0611.jp2", "source_mtime_ns": 1785808698000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582720/0611.jp2", "source_sha256": "306cad2d58fbabc2171566841843b86ec8bf9ca02eb2b1c38f57d193226900e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ToPT (UrO) / La Carmon L. Harono
+Possible Identification of Smithsonian Report Nr 1735
+26 JUN 1969
+Mr. Herb Roth
+Suithsonian Moonwatch Team Director
+c/o United Airlines Plight Training Center
+Stapleton International Airport
+Denver, Colorado 80207
+Reference yomr report nr. 1735, latitude 340 27' North, longitude
+85° 52' Vest for 3 May 1967 from Emeat G. Cooper. Attached is a
+sighting that we received for 2 May 1969 at 2215 BDI (3/02152) fron
+the co-pilot of a B-52. It vas our conclusion that the co-pilot of
+the 3-52 had seen the decay of some satellite debris, probably from
+1967-51A (Explorer 34).
+It seens quite possible that this is what
+Captain Cooper also saw, but he appears to have made an error in
+computing the Greenwich Mean Time.
+COTOR QUIVANILIA, J2, LE Colonel, USAF
+Chief, Aerial Phenomena Office
+Aerospace Technologies Division
+Production Directorate
+1 Atch
+2 Way 69 Sighting

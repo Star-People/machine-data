@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T12:43:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12966800, "source_ctime_ns": 1793358612195076531, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-001-0001.tif", "source_mtime_ns": 1785681148000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-001-0001.tif", "source_sha256": "90dcd720c66758432a3f33aa58b0e8360428f0c0c3767b4b71003f4c1792c513"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 754, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+AISS-UF 0B-316-55
+LOUATION OF S1G7
+Moutain View, California
+MEANS RECO
+TT Mag
+INVES UNIT
+N/A
+DATE IR RECD HQ
+DATE/TLE OF SIGHING
+13/03552 Sep 55
+RECD HQ 4602D
+15 Sep 55
+LOGCHI BY
+A/10 HeRudder
+AOTTON
+No investigation authorized
+TATE INVES ASSIGNED
+DATE IR APPROVED
+N/A
+ASSIGNING OFFICER
+NA
+I DATE IR TO ATIC
+N,A
+DATE OF FORM 5
+23 Зер 55
+COMMENTS
+In connection with AISS-UF08-317 and UPOE-318 there is no doubt
+that this sighting waa astronomical in nature. Three observers
+on the ground saw an objeet with the deseription of a meteor. All
+these observations took place at the same time but at widely
+soattered points in California.
+CONCLUSIONS
+WAS ASTRONOMICAL
+AISOP FORM 7 (2 APR 55)

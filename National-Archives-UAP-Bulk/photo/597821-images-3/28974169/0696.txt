@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:31:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6872313, "source_ctime_ns": 1793380001531864461, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974169/0696.jpg", "source_mtime_ns": 1785701053000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974169/0696.jpg", "source_sha256": "eb83249e8a9d9e1f4d00340ac7b4df2905fa94d62f8a02fae67aac513f96c086"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 416, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AGE THREE RJEPNY O
+(7) WEATHER
+(A) THIN BROKEN CIRRUS, SMOKE
+"B) SURFACE (220
+DEG 9 KT
+6,050
+279
+DEG 25 KT
+18,099
+(28₽)
+DEG 35 KT
+16,809
+29฿
+DEG 35 KT
+20,000
+290 DEG 35 KT
+39,093 300 DEG 50 KT
+50,000 300 DEG 45 KT
+80,000 280 DEG 30 KT
+(C) NONE
+(D)
+MILES IN SMOKE
+(E) THIN BROKEN
+(F) NONE
+(g) NONE
+(9) NONE
+(10) LOCAL MILITARY & CIVILIAN TRAFFIC
+(11) SENIOR CONTROLLER 1/LT OWEN P LYNCH
+(12) NONE
+08/15422 NOV RJEPNY

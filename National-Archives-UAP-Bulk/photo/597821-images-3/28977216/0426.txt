@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:12:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3605886, "source_ctime_ns": 1793380609882795866, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0426.jpg", "source_mtime_ns": 1785701059000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0426.jpg", "source_sha256": "b33abbdfe23dcba8bdec48b2477c9c73d8ba568e3cdb0fb4b9631d8280768020"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 807, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+28 Feb 58
+3. DATE-TIME GROUP
+Local
+GMT_01/0030
+5. PHOTOS
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+Lake City-Powell
+4. TYPE OF OBSERYATION
+TaKGround- Visual
+• Air Visual
+6. SOURCE
+CL
+8. NUMBER OF OBJECTS
+few secs
+10. BRIEF SUMMARY OF SIGHTING
+Rnd, firey red obj w/firey tail
+about
+same size of obj,
+traveling at terrif
+speed & very high.
+Station,
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+On Probabiy Balloon
+Possibly Balloon
+Was Aircraft
+Probabiy Aireraft
+Possibly Aircraft
+Was Astronomical
+Meteor
+Probably Astronomical
+Possibly Astronomical
+Other.
+insufficient Data for Evaluation
+Unk no wn
+9. COURSE
+E
+to W
+COMMENTS
+Characteristics of meteor sight
+dc ing duration, description etc,
+constant with this analysis.
+ATIC FORM 329 (REV 26 SEP 52)

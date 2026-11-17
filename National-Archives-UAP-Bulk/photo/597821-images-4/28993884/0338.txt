@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:37:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8303875, "source_ctime_ns": 1793385666966143302, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993884/0338.jpg", "source_mtime_ns": 1785747825000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993884/0338.jpg", "source_sha256": "322af2a5764fba42a89847dab59d4b416658bea5154dffbcfe35436ba89a795b"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 68, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CHLA,
+Dept of the dis force
+71Q. U1.S. aur to ce
+Washengton 25, DC.

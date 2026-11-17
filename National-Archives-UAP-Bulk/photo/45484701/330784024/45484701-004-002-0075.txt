@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:32:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7007895, "source_ctime_ns": 1793362911365261243, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0075.jpg", "source_mtime_ns": 1785685042000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0075.jpg", "source_sha256": "5bf419279d7b63637f8f4810385666cd3fcf504a2a6e55115aa68dffbb38c5cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 91, "method": "ocr", "page": 1, "variant": "plain-vision"}
+12 A Va
+2 11.20
+HER 2
+80hr 1000
+ARE COUSI
+* DEC 1812
+Г КЛИКЕ' cabr navL
+BELOBE OL AERI
+OE!

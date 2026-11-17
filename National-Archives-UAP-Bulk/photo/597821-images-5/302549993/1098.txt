@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:05:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1419850, "source_ctime_ns": 1793390445364115848, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549993/1098.jp2", "source_mtime_ns": 1785808149000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549993/1098.jp2", "source_sha256": "4b6562b1f2c1dc228b51c7e6dd4305d68c53ced476cebcc26d1b2c45a411e654"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 755, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1/ DATE • TIME GROUP
+19 April 66
+20/02502
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+several minutes
+6. TYPE OF OBSERVATION
+Cround Visual
+7. COURSE
+2. LOCATION
+Dayton, Onio
+10. CONCLUSION
+Aircraft (possible)
+(Multiple)
+11. BRIEF SUMMARY AND ANALYSIS
+Observers noted brilliant color object about the size of a
+match head at arms length traveling to the NE. One observer
+said object had same intensity in brightness as aircraft.
+The object disappeared benind a building was reported in
+both cases.
+One observer reported observance of a red light.
+Description is consistent with that of an aircraft.
+8. PHOTOS
+• Yos
+C NO
+9. PHYSICAL EVIDENCE
+FORM
+FTD 02P 06 0-329 (TDE)
+Previou
+Itions of this form may be used.

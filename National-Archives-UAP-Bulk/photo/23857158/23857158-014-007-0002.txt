@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:12:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2359560, "source_ctime_ns": 1793360298890455698, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-014-007-0002.tif", "source_mtime_ns": 1785681683000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-014-007-0002.tif", "source_sha256": "308c33c881d2ba6e2bf539e602a2a4cacb78373db249ba6bc9da605e1b6b0178"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 938, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+688TH AC&0 SQUADRON (ADC)
+Amarillo Air Force Base, Texas
+OPS
+24 May 1956
+SUBJECT: Unidentified Flying Object Report
+TO:
+Commander
+Air Defense Command
+Ent Air Force Base
+Coloraao Springs, Colorado
+1. In accordance with paragraphs 905 and 906, chapter IX, of CONAD
+Manual 55-1, the following report of sighting of an unidentified flying
+object is hereby submitted:
+a. Description of object.
+(1) Round.
+4602D AISS UFOB REPT
+• (2) Pea.
+DATE-TIME GROUP ...
+Do May s6
+(3) Bright golden.
+Amarillo, Texas
+(4) One (1).
+(5) N/A.
+#Was Ballcou
+(6) Round.
+(7) N/A.
+(8) N/A.
+(9) N/A.
+b. Description of course of object.
+(1) Observer was watering law, when he saw a B-47 over-
+head and followed aircraft, and as aircraft made a
+perfectly round tum the object was sighted.
+(2) 45°
+angle at 300° to 345° azimuth.
+(3) Same as b(2).
+(4) Object noved about ½ to 1 foot from visual sight,
+then was stationary 20 minutes.

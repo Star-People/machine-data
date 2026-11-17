@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T13:18:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4714533, "source_ctime_ns": 1793373734232026933, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948408/0669.jpg", "source_mtime_ns": 1785696674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948408/0669.jpg", "source_sha256": "bac73e08f497b6873297c430317b02eaa7aa3021fe582a1856337b32149bda5b"}
+
+===== PAGE 1 =====
+{"alpha_words": 185, "chars": 1044, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACTION
+AUG 29 18 23
+4. Atiaa
+2. Aten
+152 3. C. feles
+TA 144
+VPB142
+YDA 185
+RECEIVED
+XYC 134
+XDB166
+CKB126
+JWPOG 82
+PP JEPHO JEDWP JEDEN 333
+DE JMPQG 12E
+P 2916282 ZNJ
+FN CG 29TH AIREIVDEF GREAT .ALLS AFB MONT
+TO JEPHQ/DIR INTEL HQ USAF WASH 25 DC
+JEDWP/AIR TECH INTEL CEN VTPGHT PATTERSON AFB OHIO
+JEDEN/CG ENT AFB COLO SPRINGS COLO
+JMPML/CG WADF HAMILTON AFB CALIF
+TTN CLN ATIAA-2C FLYOBRPT GFOID 6021 PD ITEM
+ONE CLN ROUND OR SLICHTY OBLONG PD TOO FAR TO EST SIZE PD BRIGHT SHINT
+ALUMINUM PD ON OBJ WHICH A SLIGHT HUMMING SOUND WAS SIGHTED PD THE
+OBJ DISAPPEARED ON A LEVEL FLIGHT AT A FAIRLY LOW ALT IN A S E DIR
+UNTIL OUT OF VISUAL RANGE PD ITEM TWO CIN 1241 HRS
+CMA 17 AUG 52 PD
+ITEM THREE CIN VISUAL PD ITEM FOUR CLN GOC OBSERVER POST AT BEBORGIA
+CMA MONTANA CMA EC-3923 PD ITEM FIVE CLN THE OBSERVER WAS MR
+OF THE GOC OBSERVER POST AT DEBORGIA IS CONSIDERED
+RELIABLE PD ITEM SIX CLN CLEAR AND A SLIGHT WIND PD ITEM SEVEN CLN
+PAGE TWO JMPOG 12E
+NONE PD ITEM EIGHT CLN NONE PD ITEM NINE CLN NONE PD ITEM TEN CLN
+NONE PD
+29/1728Z AUG JWPQG
