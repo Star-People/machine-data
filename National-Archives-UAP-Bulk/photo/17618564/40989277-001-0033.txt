@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:34:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1436010, "source_ctime_ns": 1793355828653263455, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0033.jpg", "source_mtime_ns": 1785564535000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0033.jpg", "source_sha256": "d215adededeea78bf87a9014229c3e705e095044bf2e3ac01a75456c53fbc4ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 267, "chars": 2154, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2
+It is also requested that based on a declassification review by this office, the distribution of
+the following USAF documents be changed from Unclassified Limited to Unclassified Unlimited
+and be made available to the public from NTIS.
+Publication
+1. Air Force Missile Development Center, MAN HIGH III, MDC-TR-60-16.
+2. Air Force Missile Development Center, M.4N-HIGH I, MDC-TR-59-24.
+3. Firestone. James R.. and Patterson, Jack H., Recovery of Parachute-Borne
+Packages by Helicopter, TDR 62-6.
+4. Gildenberg, Bernard G., Capacity and Fatigue Tests on Three Mil
+Polyethylene Balloons, HADC TN-55-4.
+5. Gildenberg, Bernard G., Crane Launch Techniques for Polyethylene
+Balloons, HADC TN 57-3.
+6. Gildenberg, Bernard G., Development of Shroud Inflation Techniques for
+Plastic Balloons, HADC TN-54-4.
+7. Gildenberg, Bernard G., Investigation of Inflation Techniques for
+Nonextensible Balloons, HADC TN 54-7.
+8. Gildenberg, Bernard G., Summary Report Project MOBY DICK: Covered
+Wagon Balloon Launcher Development and Test Results, HDT-21.
+9. Gildenberg, Bernard G., Techniques Developed for Heavy Load Non-
+Extensible Balloon Flights, Report No. HADC-TN-54-3.
+10. Greer, R.J., et al., Development of a Balloon-Borne Manned Vehicle,
+WADC TR-59-226.
+11. Madson, Raymond A., 1st Lt, High Altitude Balloon Dummy Drops, II.
+The Stabilized Dummy Drops, WADC TR 57-477 (II).
+12. Madson, Raymond A., 1st Lt., High Altitude Balloon Dummy Drops, Part
+I. The Unstabilized Dummy Drops, WADC TR 57-477.
+13. Simons, David G., Lt. Col. (MC), Strotosphere Balloon Techniques for
+Exposing Living Specimens to Primary Cosmic Ray Particles, MDC TR
+54-16.
+14. Stapp, John P., Maj., Human Tolerance to Linear Deceleration, Part I.
+Preliminary Survey of the Aft Facing Seated Position, Air Force Technical
+Report 5915.
+AD#
+Current Classif
+AD 259635 Unclass/Limited
+AD 215867 Unclass/Limite
+AD 276477 Unclass/Limited
+AD 66092 Unclass/Limited
+AD 123732 Unclass/Limited
+AD 39440 Unclass/Limited
+AD 67595
+Unclass/Limited
+AD 1124
+Unclass/Limited
+AD 30902
+Unclass/Limite
+AD 227244 Unclass/Limited
+AD 270880 Unclass/Limited
+AD 130965 Unclass/Limited
+AD 075812 Unclass/Limited
+?
+Unknown

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:50:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3247398, "source_ctime_ns": 1793359720137830641, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-028-0016.tif", "source_mtime_ns": 1785681502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-028-0016.tif", "source_sha256": "82d85b424553a14f6f722a010bd3de622436d6344327897cea0a9e7bf658474b"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 135, "method": "ocr", "page": 1, "variant": "clean-vision"}
+180
+S
+135
+SE
+Declassification Authority NND 923007
+90°
+Zenith
+2
+MIN
+10:50 PM
+10:45 PM
+30
+SEC.
+MIN.
+225
+SW
+270
+W
+90
+(EXAMPLE SHEET)
+315

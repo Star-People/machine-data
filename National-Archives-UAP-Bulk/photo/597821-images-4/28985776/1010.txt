@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:55:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4452123, "source_ctime_ns": 1793382890065565137, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985776/1010.jpg", "source_mtime_ns": 1785748282000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985776/1010.jpg", "source_sha256": "ced07294148941fbd7c295094af1a1b15242cfd445aebd85eb970b878b1e7eb0"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 351, "method": "ocr", "page": 1, "variant": "plain-vision"}
+40-1728
+DIRECTOR OF DEFENSE RESEARCH AND ENGINEERING
+WASHINGTON 25. D.C.
+MAR 9 1950
+Dear Mr. Dulles:
+for consideration.
+The attached corresponäence is passed to your office
+Sincerely yours,
+J. B. MACAULEY
+Deputy Director
+Inclosures - 2
+1. Ltr from Mr.
+2/24/60
+2•
+ee ODDR&E itr to
+3/9/60
+Honorable Allen W. Dulles
+Director, Central Intelligence
+Agency

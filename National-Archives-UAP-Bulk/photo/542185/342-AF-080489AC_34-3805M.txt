@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:06:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7374281, "source_ctime_ns": 1793367883459793043, "source_file": "National-Archives-UAP-Bulk/photo/542185/342-AF-080489AC_34-3805M.TIF", "source_mtime_ns": 1785565795000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542185/342-AF-080489AC_34-3805M.TIF", "source_sha256": "1e15a5325de54891664650ca1fd884ad57fb6d42f0e5481a38a4029dcb28d4ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 1, "chars": 11, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
++80489 AC.

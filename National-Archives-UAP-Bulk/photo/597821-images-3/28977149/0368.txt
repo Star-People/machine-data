@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:51:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3784767, "source_ctime_ns": 1793380602239079892, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977149/0368.jpg", "source_mtime_ns": 1785701044000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977149/0368.jpg", "source_sha256": "7776e1a399d2ed66a7813e4b0eb45deef93ec8c0b85cfdb5ac6a2088b70bd7fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 511, "method": "ocr", "page": 1, "variant": "plain-vision"}
+пним
+25 Fee 30
+BAllcoH
+234.54
+3-4xZc
+CHC11M SQC122 YDD283 TYD157 TDD127JMA232JMM003
+PP RJEPHO RJEDON RJEDSO
+DE RJERUM 2M
+2417002
+та.
+TO RJEDDN/COMDR ADC
+RJEPJM/COMDR 85TH ADIV
+DEDSO/COMDR AIR TECHNICAL INTELLIGENCE CENTER
+LEPHO/ASSISTANT CHIEF OF STAFF INTELLIGENCE HOS USAF
+WEPHO/OFFICE OF INFORMATION SERVICES HOS USAF
+UNCLASSIFIED/8100PS 0112. "UTO"
+(1) BALLOON
+SHAPESNOIE
+(2) 3' LONG, 2' DIAMETER
+(3)
+(4) ONE
+(5) N/A
+(6) SEE
+(7) NONE
+IED TRANSPARE
+(8) NO SOUND
+TRANSPARE
+FLICKERING LIGHT. RIMINED OF CAUDLE

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:33:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1392528, "source_ctime_ns": 1793388704142128956, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531237/1010.jp2", "source_mtime_ns": 1785808425000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531237/1010.jp2", "source_sha256": "f4faa58368d99096f754e50bbdff23e0489d9b26f55db94bf43e2b73a82c8a61"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 497, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+ST
+AF IN: 54189 (10Dec63)
+1. MERINT
+2. USS SAVAGE
+3. A. ONZ B. SPHERICALLY SHAPED OBJECT. ENTIRE
+OBJECT PULSATED WHITE. NO RED OR GREEN LIGHTS VISIBLE.
+4. 4020N 17402W
+5. 10/05402
+5. MEDIUM
+7. EASTERLY
+8. VERY FAST
+9. SIGHTED BY TWO OBSERVERS- OOD AND LOOKOUT
+10. SEAS MODERATE-CLOUD COVERAGE 3/10 WIND 8 KTS.
+11. EVALUATION UNKOWN.
+NOTE: Advance copies to XOPA, NIN, DIA
+Readdressed to CIA Form 1392 #170
+Page 2 of 2

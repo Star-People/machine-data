@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:31:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1011776, "source_ctime_ns": 1793390177377654807, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547308/1319.jp2", "source_mtime_ns": 1785808411000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547308/1319.jp2", "source_sha256": "3e66aaec4e63e4487dbab6d08ca5c9daad3a2d03ed13f50d94cf9ecd9c6f211a"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 686, "method": "ocr", "page": 1, "variant": "plain-vision"}
+L L
+6 0u
+SEP 7 1967
+IDET/UPO (Maj Quintanilla/70916/nhs/7 Sep 67)
+Uro Observation and Photograph
+Rochester, New York 14613
+Reference your recent correspondence concerning the status of
+your photograph which you submitted to our office for analysis.
+I regret the delay; however, at times a backlog does occur. We
+do not have our own photography experts but must depend on another
+section here at Wright-Patterson Air Force Base. Your negative
+has been submitted to the photo analysts and we should be hearing
+from them in a couple of weeks. We will then return your negative
+with our analysis.
+IDET/UFO OFFICIAL FILE CY
+MES C. MANANT, COlonel, USAF
+Director of Technology and Subsystems

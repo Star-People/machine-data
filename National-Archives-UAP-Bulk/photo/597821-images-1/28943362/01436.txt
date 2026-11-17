@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:55:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4370752, "source_ctime_ns": 1793372597943491586, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943362/01436.jpg", "source_mtime_ns": 1785688919000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943362/01436.jpg", "source_sha256": "3fdb7897e4bb30f9bb735a1c4a68ee3314ee1a0a6ee7ccd65885b6ab9bfbb1a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 970, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Adams of erig
+Requirements
+1. 2 color duplicates and 1 black & white print (exclusive of portion
+with sound track whish is spliced to the end of the film).
+2. Request the original be handled with utmost care (it is already in
+fairly poor condition, and we are very anxious that it suiter no furmer
+damage).
+3. Request the original be cleaned as carefully as possible prior to
+duplication.
+4. Request utmost effort in controlling duplication to extent that resulting
+copies will be as identical to original as possible in image and color
+reproduction.
+5. The loose (unspliced) portion of 17 frames belongs at the end of the
+footage having a deep blue background and no sound track. The last
+frame of this loose portion is immediately adjacent to the splice with
+6. Can the stripped sprocket holes in the loose portion of the original
+(see 5) be repaired in any way - sufficiently to make it possible to
+run this part along with the remainder of film without malrunction?

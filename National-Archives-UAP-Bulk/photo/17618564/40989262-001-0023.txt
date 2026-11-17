@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:00:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5584871, "source_ctime_ns": 1793355101914693852, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0023.jpg", "source_mtime_ns": 1785564394000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0023.jpg", "source_sha256": "1b3c6462f702251ae425c839ebeff68558d0460ce3a732b52f9b76e77f8ec344"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 361, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+SAFFORD
++ 34OJANUARY (2.5)
++23ODECEMBER
+DECEMBER (1:2)
++7 OAPRIL (3.2)
+MARCH (1.7)
+-160(2.9
+FEBRUARY
+120K WSMR INTERCEPTS
+FROM
+SAFFORD, ARIZ. AIRPORT
+ROCKETSONDE, RADIOSONDE DATA
+JAN 1960 - DEC 1969
+1000 FPM
+( ) = AVERAGE FLOAT HOURS
+50
+MILE
+AREA
+JAN
+MAR
+APR
+DEC
+PERCENTAGE OF HITS & NO. OF CASES
+85
+54.12
+31.31
+50.46
+56.57
+67.70
+69.14
+CHAFB
+NAUTICAL MILES
+43.

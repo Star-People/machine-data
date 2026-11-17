@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:54:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4276034, "source_ctime_ns": 1793377771802306280, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965327/0135.jpg", "source_mtime_ns": 1785696576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965327/0135.jpg", "source_sha256": "7ed57ea476748869b056432a0054c89aea76bed686000ac45bc178d0e3feb0f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 174, "chars": 989, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WBEN-TV.
+• •7
+Miller:
+Did this at any time appear to be green?
+No. At no time was it green.
+Miller:
+Mr. Ryan, have you had any phone calls about this?
+A good number of them, yes, and letters also.
+Miller:
+Didn't someone call you and talk, that *** (garbled) in
+the Air Force or whatever, and say that your experience and
+this object that you saw corresponds very definitely to other
+reports?
+That's right. That's what they said.
+Mrs. Miller: And you don't think it can be a jet; and you don't think it
+can be a rocket! and you don't think it's an airplane. What
+do you think it
+Neil:
+I don't know.
+I wish somebody would come up with the answer.
+Neff:
+I think they ought to take an all-out effort to find out
+what these things are. If this is a government proJect,
+chink everybody's for 100 per cent security, but if it's not
+a government project or something of our own, I think that
+possibly they should find out what they are if it's possible.
+(Mr. & Mrs. Miller thank their guests)
+END

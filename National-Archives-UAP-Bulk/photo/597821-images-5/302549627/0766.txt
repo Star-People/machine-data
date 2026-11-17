@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:34:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1459929, "source_ctime_ns": 1793390400230520734, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549627/0766.jp2", "source_mtime_ns": 1785808349000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549627/0766.jp2", "source_sha256": "9f5f30f9e581c63f412b019a65bf7c78037543014313a06d85e18d312ed8f56f"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1107, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(2)) Light conditions•
+(Use one of the following termas Night,
+day, dam, dusk .
+NIGHT
+Location of Observer (a). Exact latitude and longitude of each observor,
+and/or geographical position. A position with reference to a known landmark:
+also should be fiven in electrical reports, such as W2mi. N of Deeville; #3n'
+SW of Blue Lake." Typographical errors or "garbing" often result in electricall]
+tranamitted messages, making location plots diffioult or imposaible.
+EXAMPLE: 89 45N, 192 71W for 39 45N, 102 21W.
+5350 CODY ARVADA
+1. Identifying Information on Observer (s):
+l Civilian--Name
+(2)
+reliability•
+GOOD
+Military--Name, grade, organization, duty, and estimate of
+&. Weather and Winds--Aloft Conditions at Time and Place of Sightings:
+(1) Observer (s) account of weather conditions.
+(2) Report fron nearest AWS or U.S. Weather Bureau Office of wind
+direction and relocity in degrees and knots at surface, 6,000', 10,000г, 16,000',
+20,000', 30,000t, 50,000%, and 80,000% 1f arailable.
+(3) Ceiling.
+• (4) Visibility.
+(5) Amount of oloud cover.
+(6) Thunderstorms in area and quadrant in which loostede.
+3

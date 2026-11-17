@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:01:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5657161, "source_ctime_ns": 1793380336080960290, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975429/00326.jpg", "source_mtime_ns": 1785700841000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975429/00326.jpg", "source_sha256": "ca52bc30172c98ea8dbfc9443ddd63e481df64039900a77365c7cad6770d10e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 542, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5 LOCATION OF OBSERVER
+A EJKK 2S02
+PAGE THREE RJWFDN 8L
+6 IDENTIFICATION OF OBSERVER
+A CIVILIAN
+B MILITARY N/A
+WEATHER AND WINDS
+A OBSERVERS ACCOUNT OF WEATHER CLEAR AND CALM
+B WINDS FROM US WEATHER BUREAU
+6000
+32@/5
+18020
+16020
+340/5
+23000
+3000>
+50000
+340/5
+350 / 50
+. 340/80
+320/50
+C CEILING
+NONE
+D VISIBILITY 42 PLUS
+E CLOUD COVER FEW CLOUDS IN NORTY
+F THUNDERSTORMS NA
+UNUSUAL CONDITIONS N/A
+INTERCEPTORS N/A
+AIR TRAFFIC IN AREA NONE
+12
+11
+SENIOR DIRECTOR 132TH AA ACW DET
+12 EXISTING PHYSICAL EVIDENCE NONE
+• RANCHER
+30/29592 NOV RJWFDN

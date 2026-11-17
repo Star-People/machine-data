@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:01:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5652075, "source_ctime_ns": 1793380501096096035, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976362/01122.jpg", "source_mtime_ns": 1785701047000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976362/01122.jpg", "source_sha256": "32b78fa09a8110dbf5beb367b9a12fccb3c5703f2e17c8d1369d5f13b4fe8cab"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 767, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2 Jan 58
+3. DATE-TIME GROUP
+Local_evening
+GM T.
+5. PHOTOS
+• Yes
+É No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2 LOCATION
+Huntsville,
+Alabama
+4. TYPE OF OBSERVATION
+YEKGround-Visual
+• Air Vi sual
+• Ground-Radar
+• Air-Intercept Radar
+T. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+2 secs
+on e
+10. BRIEF SUMMARY OF SIGHTING
+very
+bright,
+white ball, brighter
+and larger than Venus. White at the
+beginning and turning greenish toward
+the end, No breakup observed,
+9. COURSE
+NW
+11. COMMENTS
+Confirmed as a meteor.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Airerar
+Possibly Aircrat
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Insufficient Data for Evaluation
+Unknown
+ATIC FORM 329 (REY 26 SEP 52)

@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:44:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1553048, "source_ctime_ns": 1793394316128946820, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0072.jpg", "source_mtime_ns": 1785567353000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0072.jpg", "source_sha256": "b0bc450a966e5aa6fb4f8db42fd7a5d2531e75ef5d6e6ed68ed25c2e4afb419d"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 480, "method": "ocr", "page": 1, "variant": "plain-vision"}
+THOMAS E. WOOD, Ph.D.
+1717-A ADDISON STREET
+BERKELEY, CALIFORNIA 94703
+415/548-4619
+February 25,1987
+FAA
+701 C Sheet
+Box 14
+Anchorage, AL 99513
+Dear People:
+Please sand the #90? fee package of materials on
+the reported UfO sighting by the JAL pilot of the
+747 cargo jet, Whink the San Francisco Chronice,
+Rebuary 25, 1987, said was availeble free-p. change fun
+your offia.
+Please send also an itemyed list of the additional
+materials which can be purchases.
+Sincerely,
+Ahmes toął

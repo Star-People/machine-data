@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:40:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1061422, "source_ctime_ns": 1793390597985902959, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302551484/1305.jp2", "source_mtime_ns": 1785808599000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302551484/1305.jp2", "source_sha256": "2608ea6504f9d042db2a0596b45044b47fcc7d1350be05d7333f13a7c831b600"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 389, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE • TIME GROUP
+3 June 66
+3. SOURCE
+Military
+4. NUMBER OF OBJECTS
+One
+LENGTH OF OBSERVATION
+15 seconds
+6. TYPE OF OBSERVATION
+Ground Visual
+7. COURSE
+SE
+8. PHOTOS
+cros
+Ex NE
+9. PHYSICAL EVIDENCE
+1 Yes
+= No
+FORM
+FTD SEP 63 0-329 (TDE)
+PROJECT 100/3 RECORD
+2. LOCATION
+Claremont, California
+10. CONCLUSION
+(other)
+INSUFFICIENT DATA FOR EVALUATION
+11. BRIEF SUMMARY AND ANALYSIS
+SEE CASE

@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:31:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 998372, "source_ctime_ns": 1793389439943038482, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540851/01253.jp2", "source_mtime_ns": 1785808615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540851/01253.jp2", "source_sha256": "253cd9cf1e01c72f4c2fde51eb3c5059560fd21073cc196c55eeba15886abd11"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 242, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+NO CASE (INFORMATION ONLY)
+EYALUATION:
+FOALAR
+21 July 1965
+HINCHAM, MASCACHUSETTS
+EMME I SATALITE: - Mid-point of transit = 9:30 PE 507
+greetful, sumitted,
+aymone
+5.
+rowl er
+TICAL Investigator
+Several local newspapers carried these sightings

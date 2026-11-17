@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T02:50:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3352445, "source_ctime_ns": 1793379120994443679, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971133/0895.jpg", "source_mtime_ns": 1785700964000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971133/0895.jpg", "source_sha256": "5795433f71e8e9f0a6f3b58f978f749b55d2dc934df918c2a196730ebe552adb"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1078, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+L DATE
+2. LOCATION
+12
+rust 1957
+3. DATE-TIME GROUP
+Local
+GM T
+12/1627Z
+5. PHOTOS
+NW of Victoria,
+TYPE OF OBSERVATION
+OX Ground-Vi sual
+• Air Vi sual
+6. SOURCE
+Texas
+• Ground-Radar
+• Air
+opt Radar
+• Yes
+7. LENGTH OF.OBSERVATION
+Civilian
+& NUMBER OF OBJECTS
+Or
+4-5 seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+Silver object, shape of isosceles
+triangie, base approx 1/2 to l/3 as
+long as legs of triaagle, Could be
+covered by golf ball held at arms'
+length. Small vapor trail. Atta drawn
+by its high speed, which source des-
+cribed as twice as fast as F-100 seriégs
+a/c.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unk no wm
+9. COURSE
+SE
+COMMENTS
+Probably a/c with illusion of
+greater speed due to effects of
+trying to observe fast moving
+objects through a sky half
+covered with clouds and early
+morning sun's slant rays inter
+playing between a/c and clouds,
+ATIC PORM 329 (REV 26 SEP 52)

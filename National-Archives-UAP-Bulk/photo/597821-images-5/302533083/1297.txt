@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:30:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 912468, "source_ctime_ns": 1793388820079122735, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533083/1297.jp2", "source_mtime_ns": 1785808675000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533083/1297.jp2", "source_sha256": "d5e4080f4e208a1691eb39d0c85ef5d45c9d24967ea9956a0aa9795e2341b63f"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 797, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+23, 24 May 64
+3. DATE-TIME GROUP
+Locol 23/2005 Local
+24/2257 Local
+GM T
+5.
+PHOTOS
+• Yes
+I NO
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Budd Lake, New Jersey
+4. TYPE OF OBSERVATION
+k Ground- Visual
+• Air Visual
+SOURCE
+civilian
+8. NUMBER OF OBJECTS
+not reported
+one
+Letter
+BRIEF SUMMARY OF SIGHTING
+to President from citizen requesting
+information regarding two observations.
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+•
+Possibly Astronomical
+EX Orher..
+ECHO I
+Insufficient Data for Evaluation
+•
+Unknown
+9. COURSE
+SE
+11. COMMENTS
+Letter not in file. Evaluation from
+SAFOI as Echo I observations.
+ATIC FORM 329 (REV 26 SEP 52)

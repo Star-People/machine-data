@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:00:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5388807, "source_ctime_ns": 1793368614253307535, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0377.jpg", "source_mtime_ns": 1785688708000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0377.jpg", "source_sha256": "124a127f5d2d65a301e77cc08b4627e9cef3f9676bf2e5137ef4b45a4de023b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 407, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10402
+DATE
+April
+April
+April
+3
+4
+10Ó100
+1 - 7 APRIL 1966 SIGHINGS
+ADDITIONAL REPORTED SICHTINGS (NOT CASES)
+SOURCE
+LOCATION
+Decatur, Illinois
+Topeka, Kansas
+Elwood, New Jersey
+Kalamasu, Michigan
+Corvallis, Oregon
+Aberdeen, Maryland
+North Attleboro, Massachusetts
+Assonet, Massachusetts
+Daniels
+Park, Denver, Colorado
+Uruguay
+Griffiss AFB, New York
+EVALUATION
+(Form 164 )
+Itr
+Ltr
+(Phone)
+Civilian
+IR (C-124)

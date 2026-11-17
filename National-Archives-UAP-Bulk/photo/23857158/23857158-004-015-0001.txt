@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:16:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13028080, "source_ctime_ns": 1793358659981646290, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-015-0001.tif", "source_mtime_ns": 1785681163000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-015-0001.tif", "source_sha256": "7f7e0c71c2258815cda8b2193eb754e08363d9baa5d440c5bf0b9528049e1366"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 568, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+DATE/TIE OF SIGHTING
+AISS-0F0B-411-55
+12/03502 Dec 5ł
+LOCATION OF SIGHTING
+Camp Pomponio, California
+MEANS RECD
+I ACTION
+TT Mag
+Investigation authorized
+INVES UNIT
+DATE INVES ASSIGNED
+Det 1
+12 Dec 55
+DATE IR RECD HQ
+DATE IR APPROVED
+NA
+I RECD HQ 4602D
+12 Dec 55
+LOGGED BY
+S/Sgt DeRudder
+ASSIGNING OFFICER
+Lt McEntee
+DATE IR TO ATIC
+N/A
+DATE OF FORM 5
+13 Dec 55
+COMMENTS
+Investigation authorized to Det 1, 13 Dec 55. Results of inves-
+tigation as indicated below:
+CONCLUSIONS
+AISOP FORM 7 (2 APR 55)

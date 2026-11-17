@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:03:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6489789, "source_ctime_ns": 1793369599134978313, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/1000.jpg", "source_mtime_ns": 1785688685000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/1000.jpg", "source_sha256": "16fcf5a2febff77f3a2833d694b44cad62ea2c15bae50126a7fd38ed3a966b6d"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 558, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS FIFTH ARMY
+1660 Fast Hyde Park Blvd
+Chicago 15, Illinois
+25 October 1948
+ALFGE -I
+SUBJECT:
+"Reported Flying Disch
+TO:
+Commanding General
+Air Materiel Command
+Wright-Pattersm AFB
+Dayton, Ohio
+ATIN:
+MOI
+1. Attached herewith is a copy of a newspaper cliphing from the
+Minneapolis Morning Tribune dated 21 October 1948, on so called "flying
+discs."
+2. No further investigation is being conducted by this Headquarters.
+FOR THE COMMANDING GENERAL:
+Inel
+As stated above
+PRENTICE G. MORGAN
+Major, GSC
+Chief, Intelligence Division
+Office of AC of S, G-2

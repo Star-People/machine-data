@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:29:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 709308, "source_ctime_ns": 1793392752598711596, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570461/0031.jp2", "source_mtime_ns": 1785808052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570461/0031.jp2", "source_sha256": "469fd242dc8f3fb4877e129fc50eb78cba761b13e9924e161736eb1c33c5c62c"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 732, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE - TIME GROUP
+2. Sep 67
+3. SOURCE
+Civilian
+NUMBER OF OBJECTS
+22/1000Z
+2. LOCATION
+Route 48 near Lebañon Ohio
+3
+10. CONCLUSION
+Astro (VENUS) Port.
+Venus was on an azimuth of 88 deg, elevation of 20 deg at
+time of sighting.
+11. BRIEF SUMMARY AND ANALYSIS
+Object was an extremely large bright light with streamers
+running down from object. Object appeared to be 8'10' in
+diameter from where person stood. Object was stationary.
+Object did not disappear while observer was watching.
+1
+S. LENGTH OF OBSERVATION
+20 minutes
+6. TYPE OF OBSERVATION
+Ground Vsual
+COURSE
+East (Stationary)
+8.
+PHOTOS
+• Yes
+* No
+9. PHYSICAL EVIDENCE
+17 Yes
+* No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous aditions of this form may he usad.

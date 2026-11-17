@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:04:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6810788, "source_ctime_ns": 1793383731382180067, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987727/1342.jpg", "source_mtime_ns": 1785748097000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987727/1342.jpg", "source_sha256": "16dce144a6af483d257d20ae0addf0ce3df4ed51a3e7442b32c83392b812d4ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 392, "method": "ocr", "page": 1, "variant": "plain-vision"}
+16000-360DEGREES-3KNOTS
+20000-320DEGREES-4KNOTS
+30000-240DEGREES-10KNOTS
+50000-260DEGREES-15KNOTS
+(3) CLEAR
+(4) VISIBILITY UNLIMITED 15 MILES
+(5) NONE
+(6) NONE
+(7) 87 DEGREES
+H. NONE
+I. NONE
+J. NONE
+K. CWO
+DUTY CONTROLLER KANSAS CITY AIR DEFENSE SECTOR
+MISSOURI. REMARKS: I BELIEVE THESE WERE
+POSSIBILY THE SAME OBJECTS REPORTED IN MY OWN SIGHTING REPORT•
+L. NONE
+BT
+12/1920Z JUL RJWFKF
+NANN

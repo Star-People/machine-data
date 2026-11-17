@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T03:06:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7263540, "source_ctime_ns": 1793358536197362729, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-040-0002.tif", "source_mtime_ns": 1785681121000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-040-0002.tif", "source_sha256": "ae25823dcd8b7a200a826f879038f6ba7ead77953180d5dfbd1d167a665ed1bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1157, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AGR 209
+COMM
+RGR GA
+O0 20/135.
+COME
+IN AISS
+COME I PLS
+ENO 818
+ENA165HYDC146 YYD094 XYA320 XDB136JBA072JBFØ21
+MM JWPJB JEDEN JEDWP JEPHQ
+DE JWPJB 4F
+M 201645Z
+FM COMDR 75ØTH ACWRON BORON CALIF
+TO JEDEN/COMDR ADC ENT AFB COLORADO
+JWPJB/COMDR 27TH ADD NORTON AFB CALIF
+JEDWP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+JEPHQ/COMDR DIRECTOR OF INTEL HEAD USAF WASH 25 D. C.
+/UNCLASSIFIED/750TH OPR 2080 PD ATTN UFOB
+• A ROUND
+7. A LIGHT BREEZE COOL STARS BRIGHT.
+GRAPEFRUIT
+B NOT AVAILABLE
+REDISH LIGHT
+D NINE
+2 FRONT-3,2,2
+F
+NONE
+G NONE
+H NONE
+C CLEAR
+D. CLEAR
+E NO CLOUDS
+F N/A
+I NONE
+2:
+• A
+INTERFERENCE ON T. V. LOST VOICE & PICTURE
+8. N/A
+B: 260-070
+C
+060-070
+D
+LEVEL FLIGHT
+E
+S FADE-ONE FLARED/ 2 ALONG SIDE DISAPEARED
+9. NA
+19-15 MIN
+3 .
+GROUND VISUAL
+B
+NAKED EYE
+C N/A
+4. A
+18MAY 55-0415Z -04307
+10. 15 MIN AFTER CITING 2 OR MORE A/C
+JECT PASSED OVER HEAD- ALT UNK
+11. WND LT EDDIE V DECK DUTY
+DIRECTOR NO COMENTS
+5. MOJAVE, CALIF 8 MI SOUTH 1MI WEST-1/4 1/2 MI NORTH
+IN A
+A MRAND MRS
+*BORON CALIF. LABORER BORAX MINE HOUSEWIFE
+N/A
+AYM A
+6. A
+BT
+34
+*63
+MOJAVE, CALIF. BUSINESS MAN.
+JOJAVE CALIF. MINER
+20/173ØZ MAY JWPJB
