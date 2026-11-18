@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T22:49:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5170261, "source_ctime_ns": 1793382348632062812, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983410/0320.jpg", "source_mtime_ns": 1785700924000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983410/0320.jpg", "source_sha256": "1ae5c32347bcd78c68057ba34c661e7aba0a555af0b9ae6f6735e0832b74ca7a"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 82, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ZOZCSQPHS62CZUSAC 4735 ZCSRABIDO
+PP RJEDSQ
+
+ZOY RJEDSR
+
+RCBSBZCAMA394
+
+PP RJEDSR

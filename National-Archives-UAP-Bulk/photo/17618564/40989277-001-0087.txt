@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T23:18:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1051634, "source_ctime_ns": 1793355832106523626, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0087.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0087.jpg", "source_sha256": "e993eee3b3882ea1563d60ba680e98291bdf6751e0a89abdf70f8bd52c476ef2"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1403, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON, DC
+
+Office of the Secretary
+20 April 1996
+
+SAF/AAZD
+1720 Air Force Pentagon
+Washington, D.C. 20330-1720
+
+Mr George J. Schwaderer
+590 Issac Prugh #170
+Kettering, OH 45429
+
+Dear Mr Schwaderer
+
+I’ve enclosed two trip reports from the identifications of the aircraft crash victims at
+Walker AFB, NM. Also the Autopsy Protocol and Clinical Record Cover Sheet of one of the
+victims. I’ve also included a copy of an article from American Funeral Director and Omni. The
+Omni article describes the two “strange doctors” and it best describes this so called “incident.” I
+included the article from American Funeral Director to illustrate the degree of exceptance this
+hoax has achieved.
+
+While the mortician, see photograph, claims these events occurred in 1947, Air Force
+records indicate that he was most likely describing one or both of these aircraft crashes. It’s our
+position that this is a shameless exploitation of deceased Air Force members and it should be
+stopped. Any help you can provide would be greatly appreciated. Thanks.
+
+Sincerely
+
+JAMES McANDREW, Capt, USAFR
+Declass and Review Officer
+
+Attachment:
+
+1. American Funeral Director, pp. 2, 24-25, 38-39,
+46-47, November 1994.
+
+. Trip report, Walker AFB, NM, June 1956.
+
+. Trip report, Walker AFB, NM, October 1955.
+
+. Clinical record Cover Sheet.
+
+. Autopsy Protocol.
+
+. Omni Magazine, Fall 1995.
+
+Nun BWN

@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T23:12:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 548413, "source_ctime_ns": 1793355882261424334, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989284-001-0010.jpg", "source_mtime_ns": 1785564550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989284-001-0010.jpg", "source_sha256": "3fec6c578170d702d0aefee8d4d057d173a071a2e50f4e68e70b80bc6154d051"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 628, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Engineering Division Memorandum Report
+No. KCREXD-695-66M
+18 September 1950
+
+tracked Mitchell cameras (Focal length - 40inches) and a telescopic camera
+located on Mule Peak (Focal length 300 inches) were used for an historical
+film record of the series of events. Unfortunately the ground haze caused
+the pictures taken from Mule Peak to be somewhat blurred.
+
+The time and communications group supplied continuous time signals to
+all stations so as to synchronize all instrumentation data. The operations
+group coordinated and guided the entire organization including the tele-
+metering receiving station located at Tula Peak.

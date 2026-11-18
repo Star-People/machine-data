@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T23:15:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 908493, "source_ctime_ns": 1793388800452482219, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532718/0981.jp2", "source_mtime_ns": 1785808673000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532718/0981.jp2", "source_sha256": "f10e4abffa3a8f141c9e261be646639787ae0de4f10ba571b9351d2552f4b516"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 373, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ne 8
+
+INCOMING:” DEPARTMENT OF SHE At FORCE
+
+MESSAGE STAFF MESSAGE BRANCH UNCLASSIFIED |
+
+ae,
+
+AF IN : 24302 (6 May 64) pg 2 of 2
+
+a. JANAP 146D
+
+1. CIRVIS REPORT
+
+2. V43205
+
+3. POSSIBLE SATELLITE
+
+4. 43.10N 174v
+
+6. UNKNOWN
+
+7. 060 DEG T
+
+8. UNKNOWN
+
+9, INTENSITY FIRST MAGITUDE STAR.
+EVALUATION UNKNOWN
+
+BT
+NOTE: RETRANSMITTED TO CIA.
+ADV CY DEL TO NIN, XOPX, AND DIA.

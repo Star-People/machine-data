@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T23:17:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1008534, "source_ctime_ns": 1793391640542393524, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560529/1027.jp2", "source_mtime_ns": 1785808175000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560529/1027.jp2", "source_sha256": "89872dd2237a7a048685e2d3e31ec4a6a43fdee03dfb185f4b048cea87e1c2ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 510, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING FAESSAGE
+
+AFIN: 10778 (14 Feb 67)
+
+De SINGLE
+
+6. HIGH SPEED ABOUT TWICE THAT OF F-182 OVER HORIZONTAL DISTANCE
+> MILES
+
+PAGE 2 RUWMBD A7582
+
+T. NONE
+
+8 NONE
+
+9. RESEMBLED A STAR
+
+PART B.
+
+1. HOBBY 1S STAR WATCHING
+
+2. 845 DEGREES ABOVE HORIZ. EST ALT 5M.
+
+3 SAME AS PRECEDING.
+
+4, CHANGED DIRECTION 9@DEGREES L, CLIMBED ANO REVERSED COURSE
+D5» SLOWLY FADED
+
+6 15 SECS
+
+PART C,
+
+1, VISUAL
+
+2 NONE
+
+3. N/A
+
+PART D,
+
+1. 87592 98 FEB/67

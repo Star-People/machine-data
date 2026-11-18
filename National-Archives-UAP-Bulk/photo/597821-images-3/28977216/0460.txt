@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T22:38:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3616556, "source_ctime_ns": 1793380616676215161, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0460.jpg", "source_mtime_ns": 1785701060000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0460.jpg", "source_sha256": "ddaba9a9264dbee5bbede7108273cb27c23e1e0cf74d99652635d7ad59594272"}
+
+===== PAGE 1 =====
+{"alpha_words": 298, "chars": 2108, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAYAL Pate
+
+7
+
+CHAPTER IV
+
+“-r-
+
+a}
+
+ANG DISTRIBUTION OF SATELLITE PREDICTIONS
+
+a
+tA
+3
+
+R. M. Adams*
+
+The indigidual sections of this Chapter discuss in
+detail the various ephemerides, or computer programs, used
+by the Smithsonian Astropnysical Observatory for the ana-
+lysis of incoming observational data.
+
+The sub-satellite program, developed by Dr. L. G. Jacchia,
+
+is a computer program used internally to rapidly analyze
+incoming observations and to derive the basic information
+for the computation of search ephemerides. The program was
+devised by Dr. Jacchia and originally Beceaeaea for the
+
+IBM type 650 computer by R. E. Briggs. It was later trans-
+lated for use with an IBM type 704 Calculator by C. T. Apple.
+
+Ephemeris 5, described by John Gaustad, produces sa-
+sellibe predictions of a nature which are useful for Moon-
+watch and other observing teams and, in addition, are also
+of interest to the general public. These predictions are
+easily obtained and can be distributed readily. Normal
+operat@mg procedure consists of mailing these predictions
+to Moonwatch teams, astronomical observatories, and otner
+groups of anterested observers on a reguiar basis. The
+predictions are normally accompanied by the orbital elements
+
+used in making the predictions. These predictions are also
+teed for constructing the charts described by Fairman and
+Veis.
+
+Epnemeris 4, discussed by Charles Moore and Don Lautman,
+is designed to produce precise predictions for the twelve
+photographic tracking stations established throughout the
+
+world by the Smithsonian Astrophysical Observatory. These
+predictions are sent in coded form by telecommunication
+hannels on a day by day basis.
+
+GO
+i
+
+Ephnemeris 3, discussed by R. Briggs, is designed to
+produce a sequence of predictions for particular stations
+in the nature of time, azimuth, altitude, height, and dis-
+tance for the latitude crossing, and time, altitude, and
+distance for the meridian crossing. Alt shou gh it was ori-
+
+* Chief, Computations and Analysis Section, Optical Sa-
+tellite Tracking Program, Smithsonian Astrophysical
+Observatory
+
++
+
+xs
+
+fe

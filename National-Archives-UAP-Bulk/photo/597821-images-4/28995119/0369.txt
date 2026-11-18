@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T22:44:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4356937, "source_ctime_ns": 1793386179809397378, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995119/0369.jpg", "source_mtime_ns": 1785748056000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995119/0369.jpg", "source_sha256": "819e602541f4871751bcc21012cbc67e4f5e2821ed4a0992c27af716d82cb38f"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 611, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+REPLY TO
+
+ATTN OF: TD-E/Major Friend
+susyect: UFO Sighting : <8 OCT 196%
+
+: Hq USAF (SAFOI-3c - Major Coleman)
+
+1. Attached is a copy of a letter reporting the sighting of a UFO by
+two individuals.
+
+2. The letter does not contain sufficient data for a valid conclusion.
+Therefore, request your office forward a questionnaire to each of the
+witnesses indicated in the letter.
+
+_/ EDWARD H. WYNN 1 Atch
+‘ Colonel, USAF Ltr w/lst Ind fm DCAS (DFC).
+Deputy for Science
+And Components

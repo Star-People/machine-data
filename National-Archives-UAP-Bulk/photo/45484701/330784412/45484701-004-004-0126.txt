@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T22:56:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5916844, "source_ctime_ns": 1793363085306874704, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0126.jpg", "source_mtime_ns": 1785684807000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0126.jpg", "source_sha256": "251bd7900d866e5aa27d41f8b89f8287f48d97268b7a10fe6a7f3586302ac4af"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 150, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+< POST ey oa eee
+
+yr peer rey row B praise ere Ay i rT pat “ie 2 8 nly F 4 Al.
+wy ‘ou 2 ye — be S ve Bre om 4
+
+Declassification Authority: NND 923007
