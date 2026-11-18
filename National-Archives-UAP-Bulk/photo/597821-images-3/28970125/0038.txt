@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T01:23:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5115270, "source_ctime_ns": 1793378941764847003, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970125/0038.jpg", "source_mtime_ns": 1785700708000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970125/0038.jpg", "source_sha256": "61f16b95c3934d5e3c20353ba142c6175c686b283caef69dea2f9f296222d3cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 102, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+veer
+
+<laes
+
+a ee Te ee
+
+Dy 9h eth eleet
+
+sch Sebamed oth 0 9PM Nadas PALA MAA aah at RIE
+
+City ceed

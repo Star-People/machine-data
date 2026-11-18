@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T01:20:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4454267, "source_ctime_ns": 1793377924904126639, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966010/0711.jpg", "source_mtime_ns": 1785696405000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966010/0711.jpg", "source_sha256": "fc71a853ff40834b2e155b2710d63842dfc546ea84d1622e6e904877a1626ba4"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 463, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MOR 4/2614 ADW. CHARE INTL APRT ILL
+
+JUNCLAS S IF I E D/WEOCT 2129 PD UFCE IN ACCORDANCE WITH
+Ge ane
+
+AFR 262-2 Ch7 CMA DTD 12 A7& 54 ChM FOLLOWING REPCRT Is SsUEMITTED
+
+14. Aw STAR SHAPED
+BE. EASKET TALL
+C. ELUE GREEN
+
+PAGE TWC RJEDHR 2H
+I. SWAYS AND HOVERS
+2e Ae SAW CBJECT NEAR AIRPORT
+EB. LOE WEST
+C. NONE STILL IN SIGHT
+D. FAST AND ¢LCW
+e NZA
+Fe 5S HR AND S&S MIN
+Se Ae GROUND VISUAL
+Ee N/A
+C. NSA
+
+E. NIGH
+
+FROME a PNA NTI TIEN NT SDAP ES St TEGAN SIRI A «

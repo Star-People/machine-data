@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T01:13:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1772984, "source_ctime_ns": 1793359274667199425, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-019-0002.tif", "source_mtime_ns": 1785681363000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-019-0002.tif", "source_sha256": "fd007835686ad319529cd69e00f9216f799329a41c98b4925c91cde9e1c9dd92"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 437, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+_ Declassification Authority NND 923007
+
+Ponbrook, Ponnaylvania
+
+hia organizabion appreciates your cooperation in vepsrting
+the Unidentified Flying Objects; howerer additional information
+4s needed for analysis of this sighting.
+
+fhe inolosed ATIC Form No. 134 is Inclosed for your ¢onreniencs
+in supplying this squadron with the needed information. Again our
+thanks for your cooperation.
+
+Simerely,
+4
+
+RAY L JONBS
+Major, Uss¥
+Adjutant

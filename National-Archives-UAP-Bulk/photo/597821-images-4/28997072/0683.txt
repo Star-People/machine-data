@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T01:16:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3884308, "source_ctime_ns": 1793386701668460677, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997072/0683.jpg", "source_mtime_ns": 1785748127000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997072/0683.jpg", "source_sha256": "3a2d81dc642791b6dae197c8696c5b890c737129226d3395a1db3f5329449d6e"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 788, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee
+
+PROJECT 10073 RECORD CARD
+
+1, DATE 2. LOCATION 12, CONCLUSIONS
+ors Xs nye ae er, a ae QD Was Balioon
+Mey 1962 Athens County, Ohio OD Probably Balloon
+3. DATE-TimE GROUP 4. TYPE OF OBSERVATION 0 Possibly Balloon
+P O Wos Aircraft”
+Local 0D Ground-Yisual 0 Ground-Rador fi Probebly Alrcroft
+Fae fe eae 0 Air Vi suol O Air-Intercept Radar 0 Possibly Aircraft
+5. PHOTOS é. SOURCE 0 Was Astronomical
+GOYes Physical O Probably Astronomical
+a No Specimen Civilien Q Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE CX Other Chatt -
+0 Insufficient Data for Evaluation
+a
+10, SRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Physical specimens of tinfoil forwarded fa Physical specimen of chaff.
+herrifs office. Picked up in farmers fields.
+
+ATIC FORM 329 (REV
+
+26 SRP 52)

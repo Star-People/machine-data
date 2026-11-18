@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T01:18:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4036293, "source_ctime_ns": 1793386500911412344, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996383/0053.jpg", "source_mtime_ns": 1785747913000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996383/0053.jpg", "source_sha256": "ab686ef2df76e8e787a37b4ab4bf37d55adf7f81b017a1738d10d942dc1f0364"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1167, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEARBORN OBSERVATORY
+
+NORTHWESTERN UNIVERSITY
+EVANSTON, ILLINOIS
+
+23 May 1962
+
+Colonel Robert J. Friend
+ATIC P. O. Box 9252
+Wright-Patterson Air Force Base
+Dayton, Ohio
+
+Dear Bob:
+
+You remember the Florida case of Jamary 25, 1962
+and the fact that I called one of the amateur astrono-
+mers down there who had made the sighting. He promised
+to send me the dsta and he finally now has gotten around
+to it. I enclose his letter which I think should be
+filed with the other data in the case. You will note
+that he sends a photograph which looks for all the world
+to me like lights of a plane. However, the plane would
+have to be quite low down and there didn't seem to be
+any plane arcund at the time or any noise, Further, it
+covered most or the sky in 15 to 20 seconds. The photo-
+graph, incidencally, is of the second observation on
+March 6, 1962.
+
+In view of the reliability of the observers and the
+photographic evidence and the excellent reporting, I
+think we should look at this case quite seriously. Let's
+put this on the agenda for a joint discussion at our next
+meeting, Let me lmow when you plan to be here.
+
+Cordially,
+y ais U/ 7 ‘7
+
+J, Allen Hynek
+Director

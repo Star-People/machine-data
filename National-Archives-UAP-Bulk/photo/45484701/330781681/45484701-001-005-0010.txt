@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T01:25:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5484795, "source_ctime_ns": 1793361869225010518, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0010.jpg", "source_mtime_ns": 1785684786000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0010.jpg", "source_sha256": "7b6360381f16d59b46220dbd86cfbd2cd98f28617b01d2df5971879c81b3f690"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 1014, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ltr Hq AA and GM Ctr, AKBAAB 52.1, 6 May 9, subj: Unconventional
+Aircraft
+
+a. Adiabatic chart for period in question: None available
+
+3. Local Flight Schedules of Commercial, Private and Military
+Aircraft Flying in Vicinity at time: None
+
+he Possible Releases of Testing Devices in Vicinity sent aloft
+by Ordnance, Navy, Air Force, Weather Units, Research Organizations or any
+other: White Sands troving Ground and Biggs Air Force Basewere contacted.
+No releases of any testing devices were released by any agency prior to
+time of sighting.
+
+oy “id Ubject Contact the Harth: Object did not contact the
+earth.
+
+Photographs or Sketches: Sketches are attached hereto.
+
+Ts Signed Statements: Signed statements were received and are
+being retained at this headquarters
+
+oe Obtain Fragments or Physical Evidénce where possible: Not
+possible.
+
+FOR THE COMMANDING GENERAL:
+
+J. W. ROSS
+Colonel, A. G.D.
+4 Incls. Adjutant General
+1. O/Lay (quint)
+2. Sketch (quint)
+3.. Sketch (quint)
+
+Declassification Authority: NND 923007

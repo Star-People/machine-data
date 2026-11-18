@@ -1,0 +1,99 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T01:10:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1711282, "source_ctime_ns": 1793356186510297847, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0214.jpg", "source_mtime_ns": 1785564631000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0214.jpg", "source_sha256": "2b24622386f6a5aee4e45fbe84f07167b8a7e89145d3e626146b7c92736d63c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 404, "chars": 2738, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+rM 11-444
+aie SIGNAL CORPS
+
+Section IV
+
+MAINTENANCE
+Paragraph
+
+(General 30
+Care and cleaning © ......-------------------- 31
+SETGRLITS) cose ce 32
+Relays n-ne 33
+Microphone T-21-(*) _--—--------------——- 34
+Control Board BD-85-(*) -...........________-__—___-— 35
+Relay Unit BK-9-(*) ——------------_____----_-_----— 36
+Switchboard) IG 2: (* )) me 37
+
+30. GENERAL.
+
+All repairs should be made by thoroughly competent personnel.
+Don’t use acid-core solder or soldering flux. Always use rosin-core
+solder.
+
+31. CARE AND CLEANING.
+
+a. Batteries.
+
+(1) Storage batteries——For maintenance of the storage batteries,
+see TM 11-430.
+
+(2) Dry batteries—Inspect all dry batteries at least twice a
+month. This inspection should include t sing for voltage and exam-
+ining for mechanical defects, such as swelling, in order to prevent
+damage caused by leakage of electrolyte.
+
+b. Vacuum Tubes.
+
+Check all vacuum tubes at least once every 2 months by compar-
+ing their performance with the performance of fresh tubes.
+
+50
+
+LO aba
+
+AUR cA Ta ic.
+
+TM 11-444
+Pars. 31-33
+SGUND RANGING SET GR-3-C
+
+c. Photographic Equipment.
+
+(1) Clean all photographic equipment thoroughly at the end
+of each “day” of operation.
+
+(2) Drain the developer tray and fill it with 12 ounces of clean
+water.
+
+(3) Run the camera for about 4 minute.
+
+(4) Drain the tray again. This is done to clean the developer
+roller arid developer tray of all chemicals. During the cleaning
+operation remove the recording paper magazine, or place the cutter
+switch at ON, so that recording paper is not wasted.
+
+(5) Repeat the above operation until the drained solution is
+fairly clean.
+
+(6) Disassemble and clean the camera thoroughly at regular
+intervals; otherwise, the accumulation of dirt and bits of paper will
+seriously affect its operation.
+
+(7) Lubricate the camera periodically by placing a few drops of
+light oil in the oil holes located directly beneath the recording
+paper magazine. A small amount of oil should also be placed on
+the exposed shafts of the gear box and on the bearings of the fixing
+tray roller.
+
+32. CIRCUITS.
+
+If a circuit becomes defective, first inspect the wiring for loose
+connections. Check moving parts, capacitors, and coils. If no defect
+can be found in the individual parts, check the circuit step by step
+by means of Test Set I-56-C until the defect is found.
+
+33. RELAYS.
+
+Inspect the relays at least once a month. The adjustment or re-
+placement of springs should be performed by personnel specially
+trained in relay adjustment and care. Standard adjustments are
+given in the paragraphs following.
+
+51
+
+LPM SUR ON LN, AEN RNIN SRL Ge NS Ea RMB PE PT ML NEEM A VEE AE EIR A NY TEN UMAR LTTE EVENS ELEN WPA NORRIE NSS ASA RSENS RN AS IR GILT TN MENS PAL
