@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T00:14:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 374343, "source_ctime_ns": 1793355834966410316, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0127.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0127.jpg", "source_sha256": "660d52f154fba7175c5e502b1b173dbdc2f12db9bf735f5cb5e4a9877064d192"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 346, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SAF/AAZD
+1720 Air Force Pentagon
+Washington, D.C. 20330
+
+FAX COVER SHEET
+
+DATE: 23 SEPT 96 TIME: 0930
+
+TO: Schiffer Publications FAX: (610) 593-2002
+
+FROM: Capt James McAndrew PHONE: (703) 604-4788
+FAX: (703) 604-5533
+
+RE: Jon A. Maguire
+
+CC:
+
+Number of pages including cover sheet:2
+
+Message
+Please forward to mr Maguire.
+Thanks.
+Capt McAndrew

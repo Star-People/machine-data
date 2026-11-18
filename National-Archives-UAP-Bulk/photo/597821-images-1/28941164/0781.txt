@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T00:30:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3734403, "source_ctime_ns": 1793372071206500761, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941164/0781.jpg", "source_mtime_ns": 1785688642000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941164/0781.jpg", "source_sha256": "87d475a06f6f004dc3b215037b1b28e6db508fa9c43d69e8ad074d0611c749cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 730, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+\
+
+PROJECT 10073 RECORD CARD
+
+1% DATE gee S
+
+2. LOCATION
+
+7 Apr 52 St. Louis, Missourl
+ENED rape ong PY ow : A SAS
+3, DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Leecel : 1800_cst & Ground- Vi sual DO Ground-Radar
+GMT... ag 24500 D Air- Vi suol D Air-Intercept Radar
+5& PHOTOS 6. SOURCE
+0 Yes
+&% No
+7. LENGTH OF OBSERVATION 8.. NUMBER OF OBJECTS | 9 COURSE
+. 5 minutes 1
+
+O”o aoo oas
+
+~
+rr
+
+a00
+
+- CONCLUSIONS
+
+Was Balloon
+Probobly Balloon
+Possibly Balloon
+
+Wos Aircraft
+Probably Aircroft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Data for Evaluation
+nknown :
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Shiny color. Faded away at rapid rate.
+
+11. COMMENTS
+
+ATIC FORM 329 (REV 26 SEP $2)

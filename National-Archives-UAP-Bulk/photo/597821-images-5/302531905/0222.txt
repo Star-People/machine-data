@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T01:03:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1006095, "source_ctime_ns": 1793388753017903398, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531905/0222.jp2", "source_mtime_ns": 1785808275000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531905/0222.jp2", "source_sha256": "cfea5b8954c1999f10a544fad0592ecc41e3a3e9296ca265b82a76131af959b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 198, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+OFFICE OF THE SECRETARY
+
+MEMORANDUM
+
+LA Barks -
+Ciet Zk Ae po alee
+ee ery Jeuee, By Se
+
+tebe ag eer ae oe A (te ee
+
+a Z
+
+es Avi PN i ae. as ie ONY Oe ee
+
+Lr Seen OT
+aS,

@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T01:05:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1196371, "source_ctime_ns": 1793356137170117417, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0082.jpg", "source_mtime_ns": 1785564617000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0082.jpg", "source_sha256": "dae3c42e08a5b7efcfd2de3db55859d5aff174bfaa4a38e9f63f605ebd7ba225"}
+
+===== PAGE 1 =====
+{"alpha_words": 277, "chars": 1675, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+I am having a meeting today of all Group Commanders and their
+A-i's and A~3's with the idea in mind of coming to some immediate
+conclusion on stopping accidents and of standardizing our reporting
+on various A-l forms, The group figures, our figures and SAC's
+figures are at wide variance in a great many specialties. For
+example, SAC's figures on Navigators show a great many more Navi-
+gators than we have. Probably a large percentage of this variance
+is‘’due to some of the bases reporting grounded Navigators, some
+Navigators who are away at school, some Navigators whose MOS has
+been changed to that of pilot, etc. I am sure that by a complete
+standardization of reports we can all get together on our figures,
+
+I promised Hutchinson an explanation of why AMC complained to
+
+Sac that we were not picking up our P-51's when we were notified,
+The confusion in that line results from the fact that AMC gives SAC
+a seventy-two (72) nour notification of readiness before a test
+flight is flown on the pianes, If the test flight shows something
+radically wrong with the plane that will require several days to
+repair the crew is generally sent back to ita nome base and no
+further notification of readiness is ever given. That is happening
+in a fairly large percentage of the cases and we are attempting to
+correct it by leaving an officer at the depot to ride herd on those
+
+airplanes.
+
+Jennings and Catton got away today for a visit to Kwajelein
+and Guam and should come back with some very necessary information.
+I hope they settle on the date proposition very soon in Washington,
+
+Sincerely,
+1 Inel. ROGER M. RAMEY
+Cy ltr to Gen Rawlings Brigadier General, USAF
+Commanding

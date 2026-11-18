@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T01:01:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 986941, "source_ctime_ns": 1793390658317966021, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552164/0412.jp2", "source_mtime_ns": 1785808656000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552164/0412.jp2", "source_sha256": "64532fd2c6153f690bdaefd2aea1074c4bf687f196e1a5bbf157ef6c56998221"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 676, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP
+19 June 66 20/01552Z
+
+2. LOCATION
+
+Kettering, Ohio {Multiple )
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+
+One
+
+10. CONCLUSION
+Satellite
+
+Echo II was passing over the area at this time.
+
+5. LENGTH OF OBSERVATION
+
+10 minutes
+
+6. TYPE OF OBSERVATION
+
+Ground visual
+
+7. COURSE
+
+Variable
+
+8. PHOTOS
+
+O Yes
+& No
+
+9. PHYSICAL EVIDENCE
+
+O Yas
+mM No
+
+11, BRIEF SUMMARY AND ANALYSIS
+
+Observers noted object which was brighter than an evening
+star, being white to pink in color. The size was about
+the size of Venus. Air Force plane was alse viewed during
+the sighting.
+
+FORM
+FTD sep 63 0-329 (TDE) Pravioun editions of thle form mar he uned.

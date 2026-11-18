@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T00:21:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1353963, "source_ctime_ns": 1793390013952094851, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545572/1340.jp2", "source_mtime_ns": 1785808384000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545572/1340.jp2", "source_sha256": "673e2707277116ef289062249a8a5e5a0df787c66af7d120be2a3fee4ffc72bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 843, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+BALLOON:
+dis Wallops Island, NASA, is conducting a s*ries of tests, using
+
+blimp-like ballonns in an experimental project. Balloons are
+manufactured by the &.. Schjeldahl Co (Schell-dah1) o¢ Northfield,
+winnesota. ‘The balloons are blimp shaped, 13.7 to 15.5 feet long,
+Tour inches in dianeter, netalized mylar plastic, and the balloon has
+3 inflated fins off the tai1, Balloon can drift for several hundred
+miles, depending on winds. Balloons have serial nhumabers, and DR=
+Design Release Mumbers,
+
+2. The G.T. Schjeldahl Co also manufactures another type balloon.
+This balloon is approximately two meters in diameter(sphere),
+megalized mylar plastic, and hag 3" nigh projection noEne, Spikes,
+reflectors for radar tracking, Used to measure wind velocity before
+
+& launch, Have suppiiea 1500 of these balloons to the Marshall Gaaxe
+
+Center.

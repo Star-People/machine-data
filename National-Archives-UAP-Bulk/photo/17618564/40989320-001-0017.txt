@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T00:24:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1696889, "source_ctime_ns": 1793356371669855172, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0017.jpg", "source_mtime_ns": 1785564689000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0017.jpg", "source_sha256": "bedc180e66e53ef9929a04cfa09e5518ee08d036aa55e05eac0b02e9a799365d"}
+
+===== PAGE 1 =====
+{"alpha_words": 357, "chars": 2344, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+APPENDIX C
+NOISE REDUCING ACOUSTICAL ARRAY
+
+1. INTRODUCTION
+
+a. The Noise Reducing Acoustial Array is essentially a
+network of pipes coupling an infra-sonic microphone to the atmo-
+sphere through a large number of openings which are distributed
+over an area. The microphone will then register average pressure
+fluctuations over the area, instead of fluctuations at a point. In
+this way "noise" due to atmospheric turbulence is reduced. The ©
+noise reduction should not be accompanied by signal attenuation,
+if maximum sensitivity is to be maintained. If signal attenuation
+does occur, the loss can be compensated for by increase in ampli- -
+fier gain but the system must be so designed that attenuation does
+not vary with frequency. The array described below was so designed
+that no attenuation occurs throughout the desired frequency range.
+
+b. For practical reasons, it was decided to use as small
+an array as possible, and the arrangement shown in Figure 1 was
+chosen. This array consists of four sub-arrays, each of which is
+coupled to the atmosphere through 16 openings (acoustical resist-
+ances) and to a center section containing the microphone through a
+series resistance. The maximum dimension of each sub—array is
+taken to be approximately one tenth wavelength at the upper end of
+the desired frequency range. This permits use of an equivalent eleoc-
+trical circuit in which all quantities are lumped constants. The
+equivalent circuit is shown in Figure 2 in which the parallel resis-
+tance of all openings in each sub-array is designated by the single
+resistance R]}. This equivalent circuit is seen to be a two section
+RC filter, and by suitable choice of the quantities R1, Re, Cl, and
+Co is given a "cut-off" frequency of 2.5 cps, (i.e., output is dow
+2 db at 1.25 cps, 6 db at 2.5 cps, 15 db at 5 cps, and drops at a
+rate of 12 db per octave at higher frequencies.)
+
+2. THEORY
+
+a. Evaluation of the Network Parameters
+
+In order to obtain numerical values for the constants
+of Figure 2, it is necessary to develop a general theory of the
+electrical analogy for sound transmission in a conduit. In this de-
+velopment, the following notation is used:
+
+e density
+
+frequency
+
+27
+
+specific heat at constant pressure
+thermal conductivity
+
+to eos:
+
+K)1/2 - 4.06¢1/2 for air at 20°C
+re 2 aa, he s7fl/ 2 for air at 20°C
+
+ie
+
+1 Appendix C

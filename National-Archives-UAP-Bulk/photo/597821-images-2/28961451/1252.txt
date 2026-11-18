@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T00:28:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3526221, "source_ctime_ns": 1793376627946208380, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961451/1252.jpg", "source_mtime_ns": 1785696779000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961451/1252.jpg", "source_sha256": "3c96fc49f29d103bb292ae2fe1354645214d865c0737c034ac2872f95c77a2f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 826, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+9 March 1955
+
+2. LOCATION
+
+__Anderson AFB, Guam _
+
+3. DATE-TIME GROUP
+
+4. TYPE OF OBSERVATION
+
+Local “UK Ground: Vi sual 03) Ground-Radar
+OMT O5/1435Z | 0 Air Visual CQ) Air-Intercept Radar
+5. PHOTOS “|6. SOURCE
+
+0 Yes
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS 9. COURSE
+30 minutes 3) | Northeast
+
+10. BRIEF SUMMARY OF SIGHTING
+String of five lights.
+
+gradually.
+
+color from off-white to light amber,
+In train, equally spaced. Ascended
+
+12, CONCLUSIONS
+
+f1% Wos Balloon
+9 Probubly Balloon
+Possibly Balloon
+Was Aircraft
+Probobly Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+, Other__.
+Insufficient Data for Evaluation
+Unknown
+
+OG. UnyD Bue
+
+11. COMMENTS
+
+Ranging in
+as balloons,
+
+Objects definitely identified
+
+ATIC FORM 329 (REV 26 SEP 52)

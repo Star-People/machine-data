@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T00:20:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1230279, "source_ctime_ns": 1793364617963798414, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0004.jpg", "source_mtime_ns": 1785684880000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0004.jpg", "source_sha256": "490136d992943e0570e3abf9bcc32006534081f6841cb968243494bbd6cfec92"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 381, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NOTICE NOTICE NOTICE
+
+men greresmt ”
+C ma vont ae ed
+
+THIS DEVICE CONSISTS OF A FOIL COVERED
+RADAR REFLECTER KGTE ATTACHED TO HYPROGEN
+
+b> fig he Tr Protons if “ a
+wo de Lal) RU 3 SER BAL LOON, ie HAS Bah Uo fb
+
+THe UNITED STATES ATR Fc saa TO OBTAIN 2
+
+Rm TAN 5
+
+Cr REA
+
+OLOGICAL WIND DATA, THIS DEVICE i
+ANGEROUS AND TS OF NO FUR THER USE
+
+Declassification Authority: NND 923007
