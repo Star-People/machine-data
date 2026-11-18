@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:16:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4207727, "source_ctime_ns": 1793385394982805891, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993084/1082.jpg", "source_mtime_ns": 1785748074000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993084/1082.jpg", "source_sha256": "ef26c8a44339f72edc7aa262eae221d95ed98de5f8a80750bfbc8e1a2c771b17"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 739, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE THREE RJWZSBA 3
+169 DEGREES TRUE, 2 14 K, MCCLELLAN AFBe
+DC3) 266630Z (2) NIGHT
+E 3945N 12733
+Fe. (F) CAPT J J VALOVICH, 964 AEW&C SQDNe SEVEN YEARS SERVICE
+QUALIFIED SKILLED INTERCEPT DIRECTOR. CONSIDERED RELIABLE.
+G (4) VISIBILITY AND CEILING UNLIMITED. BROKEN TO OVERCAST
+DECK AT 5,920 TO 6,000 FT.
+G6 ¢2) 6,@29 FT WINDS 293/10K
+18,200 FT 272/16K
+29,929 FT 24/2 /15K
+32,929 FT 2495/3 5K
+59,929 FT 249 /25K
+(3) BROKEN TO OVERCAST AT 5,522 TO 6,209 FT
+(4) 15 PLUS AT 15,922 FT.
+(5) NONE (6) NONE (7) WEAK INVERSION AT 13,220 TO 14,002 FT.
+STRONG INVERSION AT 21,929 FT TO 22,099 FT.
+He NONE
+I. NONE
+Je NO TRAFFIC REPORTED IN AREA
+Ke INTELLIGENCE OF
+
+L. TRACK OVERLAY IS BEING FORWARDED TO ATIC ON THIS DATE.
+
+7/2302 JUN RJWZSBA
+
+hg

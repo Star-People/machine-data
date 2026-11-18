@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:21:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5055459, "source_ctime_ns": 1793377564582254454, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964312/0713.jpg", "source_mtime_ns": 1785696456000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964312/0713.jpg", "source_sha256": "f0f81d7e0d07997352ce0dab2fb6dcfbbba2b16d6bdd8c82b2b195fa81179e63"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1045, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AIRCRAFT'S POWER PLANT is --t fans which draw air
+through top of model (left), expel ‘i vest Jouvers in its belly
+(right). When louvers tilt backward. niane soes forward. When
+they tilt forward, plane goes backward; when open, plane hovers.
+
+oo ye
+
+we
+
+AIRCRAFT
+WITH NO WINGS
+
+A cigar-shaped object without wings or tail
+droned through the air last week inside a hangar
+in Cedar Rapids, Iowa. It was the Aerodyne, a
+revolutionary model aircraft designed by Alex-
+ander Lippisch, German aeronautics expert who
+now works for the Collins Radio Company. The
+Aerodyne is driven by fans which blast air past
+louvers in the belly with enough force to keep it
+airborne, By tilting the louvers the Aerodyne can
+be moved forward, backward or made to hover.
+
+Since the wings of conventional planes heat
+up and cause drag at supersonic speeds, Lippisch
+thinks the wingless Aerodyne foreshadows the
+design of future jet-age aircraft. Suspecting that
+he may be right, the Office of Naval Research has
+given hima sizable sum to further his research.
+
+- Valse

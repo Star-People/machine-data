@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:14:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3894702, "source_ctime_ns": 1793386769459696284, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997310/0911.jpg", "source_mtime_ns": 1785748031000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997310/0911.jpg", "source_sha256": "6b91ef38358c247812247e80101246063bc3c190be6030d649bd6e204f5b88b8"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 684, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ui
+AF IN : 41136 (23 May 62) Pg 4 of 4 Pgs
+PAGE FOUR RJWFFD 344
+GU RON EAR LEESVILLE, La. AN INTERVIEW wiTH QD
+@P vio SPOKE FoR QRS WELL, DISCLOSED THAT THEIR
+SIGHTING WAS ALSO THE RESULT o, Ses RADIO CALL. THE
+
+DESCRIPTION OF THE OBJECT WHICH THEY SAW (LARGER AND BRIGHTER THAN
+THE LARGEST AND BRIGHTEST STAR) AND ITS COURSE (NORTHWEST) INDICATE
+THAT IT PROBABLY WAS A DIFFERENT OBJECT THAN THAT SIGHTED BY
+
+GRE. THE SIZE AND FLIGHTLINE (STRAIGHT TOWARD THE
+NORTHWEST) INDICATE THAT IT COULD HAVE BEEN A JET WITH THE AFTER-
+SURNER ON.
+
+ALL REFERENCES TO BOISE, LA IN PREVIOUS MSG SHOULD BE CHANGED
+TO READ BOYCE, LA.
+
+BT
+22/2385Z NAY RJWFFD
+NOTE : 5-576 is AF IN 38065 (20 May 62).

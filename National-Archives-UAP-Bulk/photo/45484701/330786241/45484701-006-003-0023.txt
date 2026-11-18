@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:40:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10195731, "source_ctime_ns": 1793363885199014896, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786241/45484701-006-003-0023.jpg", "source_mtime_ns": 1785684661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786241/45484701-006-003-0023.jpg", "source_sha256": "fca2ba6e9dd254924194ae0af166a8ed82253ca4cbcfa1cca1d8248a276e6b1c"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 658, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+scanning blister from an airplane,
+
+6. On 31 October 1919, the writer observed the astradome in a
+C-7 type aireraft and it was determined that the object received from
+RICE was identical with aforementioned astradone,
+
+7e On 31 October 1949, capt EDWIN Ww. SAAR, AO 869 575, Supervisor
+of Aircraft Maintenance, Hq Squadron, 1701st Maintenance Group, Great
+Vallis. Air Force Base, was contacted and requested to furnish instructions
+for disposition of the remains of the C+\7 astradome, Capt SAAR advised
+that it should be destroyed as he had no further use for it nor would
+any other Air Force agency have need of it,
+
+Declassification Authority: NND 923007

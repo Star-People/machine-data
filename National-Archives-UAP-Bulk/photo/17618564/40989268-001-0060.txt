@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:45:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16402141, "source_ctime_ns": 1793355621897036461, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0060.jpg", "source_mtime_ns": 1785564491000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0060.jpg", "source_sha256": "522b6ba5110ce902628682d8158f9336310e3b8f01cd0f9a880587110bb83834"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 904, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Figure 7. Completion of Inflation
+
+Figure 10. Series #110 Unit on Navy Fighter Aircraft
+
+SQUIB OPERATED TAIL LID EJECTOR
+AND DRAG CHUTE RELEASE DRAG CHUTE
+BALLOON
+
+PAYLOAD PACK
+HEADER
+
+MAIN CHUTE
+
+Figure 8. Balloon and Payload Ascend to Design Altitude. Parachute and MOUS LUGS
+gas bottle descend. HOSE FOR BALLOON INFLATION
+
+HELIUM VALVES
+BOTTLE FILL NECK
+
+SUMMARY OF AIR LAUNCHED BALLOON TESTING BY ANDERSON, GREENWOOD & CO.
+7 es 7 a Pe Pn 1a Ge DUAL CIRCUIT CENTRAL PROGRAMMER
+
+TORAGE
+Devi Hp pare Peele man , Totel BATTERIES FOR PROGRAMMING PRESSURE BOTTLE FOR HELIUM STORAG
+ice i aunc titude velopmenta i Successful Air
+Nomenclature AND SQUIB OPERATION
+
+(Ibs .) = ‘ Launchings Launches
+Experimental | Develop
+Unit concept
+
+Series 1A Advance State
+em LAUNCHING AND STORAGE CANISTER
+ea aaa
+
+Hurricane
+Marker
+Ee GE
+
+Eas
+
+Figure 9, Summary of Units Tested
+
+Figure 11. Cross Section of Series #110 Unit

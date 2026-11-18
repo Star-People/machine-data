@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:06:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1525283, "source_ctime_ns": 1793355973258811841, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0077.jpg", "source_mtime_ns": 1785564572000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0077.jpg", "source_sha256": "2cbf502bdf91dc8b9c2b665fd4b9d5742eb871bc10b92ea7c4a837d9a5e3daaf"}
+
+===== PAGE 1 =====
+{"alpha_words": 287, "chars": 1872, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+66
+
+During the second part of 1952, in fact, Stapp did conduct two wind-
+blast experiments on the Edwards long track that closely resembled some he
+later conducted at Holloman. Chimpanzee subjects were exposed to wind
+pressure while traveling at high velocity in a rocket-propelled cab origi-
+nally constructed for the X-3 seat ejection program at Edwards. On the
+second run a rocket broke loose and ruined the cab, but the experiments were
+briefly resumed in the early spring of 1953, They attained speeds up to
+(roughly) 800 miles an hour without producing damage to the subjects from
+windblaste” However, they did not continue at Edwards, essentially because
+Colonel Stapp had decided that the Holloman track was better fitted for the
+research program that lay ahead, It was one-third as long, which was a
+handicap especially in attaining the required velocities for windblast
+experimentation, But its water brake was actually of larger dimensions
+than the one at Edwards, permitting the attainment of very high decele-~
+ration levels, and the instrumentation facilities available at Holloman were
+generally superior. In addition, the Holloman track at that time was still
+less heavily used than the Edwards long track, so that scheduling and other
+such arrangements should prove easier.
+
+Even after his own move to Holloman, Stapp had to wait more than a
+half year before the first aeromedical track run took place. Among other
+things, he had to wait for a special test sled, dubbed Sonic Wind Number 1,
+that was being constructed by the Northrop Corporation, It was actually a
+two-stage vehicle, consisting of "a test sled weighing 2,000 pounds carrying
+the subject and instrumentation, pushed by a propulsion sled on which solid
+
+5
+
+6
+fuel rockets are mounted." As described further by Colonel Stappes
+
+The chrome~molybdenum steel tubing test sled is of sufficient

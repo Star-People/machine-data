@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:14:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3838301, "source_ctime_ns": 1793374101310919754, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950225/0918.jpg", "source_mtime_ns": 1785696991000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950225/0918.jpg", "source_sha256": "17ac1e4e99e151744c2d7366b7e5309583fc7dde4afc1976922f6c6c74d9463b"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 622, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AIR TECHNICAL INTELLIGENCE CENTER
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+
+27 October 1952
+
+— Miss.
+
+Dear irs. Ga
+
+Your recent report of unidentified aerial phenomena has been
+received by the Air Technical Intelligence Center. Inclosed is a
+‘questionnaire, which, when completed by you and returned in the
+inclosed,; self-addressed envelope, will aid in standardizing the
+data and will provide a complete record of the occurrence,
+
+Your interest in reporting the matter and your public spirited
+@esire to be of service are greatly appreciated.
+
+ied =
+
+2 -— ROBERT z. KENNEDY
+
+Major, USAF
+Air Adjutant General
+
+NX
+
+Os -6/4€-

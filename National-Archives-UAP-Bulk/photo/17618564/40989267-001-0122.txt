@@ -1,0 +1,94 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:44:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14736243, "source_ctime_ns": 1793355538130767451, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0122.jpg", "source_mtime_ns": 1785564473000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0122.jpg", "source_sha256": "34bd4f222aaab7ba23867748bbcea3297cf3394759da56a82ee339de1743c5de"}
+
+===== PAGE 1 =====
+{"alpha_words": 349, "chars": 2449, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Tela oy Me Onlin ec
+
+Crew (2 men) §00:-lbs
+Fuel and Oil (full capacity) 4,150 lbs
+Net Cargo Capacity 81,300 lbs
+
+Range (zero wind) 975 miles
+
+$.2.6).CAP TIVE HOT AIR BALLOONS
+
+The foregoing discussions of operations with hot air balloons have been directed
+to free balloons, either manned or unmanned. A special case is the tethered or
+captive balloon,
+
+The unique features of ready, low-cost inflation at remote sites recommend
+this balloon for a number of uses. In some cases fuel systems are carried on board,
+while, for long periods of operation, a fuel line may be connected to a ground supply,
+
+to extend flight duration indefinitely.
+
+These balloons need to be aerodynamically shaped to minimize drag, and slightly
+pressurized to maintain shape. They may be unmanned or carry a non-pilot who
+
+wishes to use an aerial observation post. A test bed model is now being constructed.
+
+This particular model is 80 ft long and is scheduled to be flown in a captive state in
+late 1963.
+
+4. SUMMARY OF PRESENT CAPABILITIES
+
+Some of the programs and applications presented for consideration in this paper
+have not yet been physically demonstrated, and the full value of this remarkable
+
+concept has not yet been assayed, The calculations presented here and in other
+
+technical studies suggest successful extrapolation to heavy load systems, re-entry
+
+retrieval of Saturn C-5 first stage boosters (130 tons) and many unique, specialized
+applications of the modern Montgolfier balloons. At this time, the following ''state
+
+of the art'' has been demonstrated.
+
+1, Hundreds of hours of manned flight time have been successfully completed
+
+in single and multi-place balloons,
+2. Loads of 2000 lbs have been carried with complete corroboration of design
+calculations,
+3. Flare support systems have flown successfully.
+Mid-air recovery has been successfully demonstrated with small payloads.
+do. Raven Industries, Inc. and Minneapolis-Honeywell Co. are presently con-
+ducting a funded research program for NASA on the PARAVULCOON recovery sys-
+Weta
+6, A hot air captive test bed is being fabricated at the present time,
+
+(BTU)
+
+-
+x
+WW
+ae
+
+INITIAL
+
+REQUIRED
+
+ue eae ——-—
+PARAMETERS
+
+A. ROC. -MODEL ATMOSPHERE
+BALLOON AVERAGE INTERNAL
+TEMPERATURE (Tp) 2502 hy
+
+<<< ——— + —
+
+20 30 40 50 60
+
+igo, «= 200. B08
+BALLOON DIAMETER (FEET)
+
+Figure 17. Required Initial Heat Vs Balloon Diameter
+
+SEA LEVEL
+
+10,000 FEET
+20,000 FEET
+30,000 FEET
+
+40,000 FEET
+
+rat lies —_+

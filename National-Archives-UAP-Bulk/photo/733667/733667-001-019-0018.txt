@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T08:39:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 555657, "source_ctime_ns": 1793394225841212010, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-019-0018.jpg", "source_mtime_ns": 1785567340000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-019-0018.jpg", "source_sha256": "7657183e69fef48473fa6aded24bd7c1d0435ff40e9b5051f57f7a0de36aca7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 810, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCURRELATED RADAR SIGNALS
+
+An "uncorrelated primary and beacon(secondary) return on a radar
+
+screen occurs when the radar energy that is sent up toward the aircraft
+(primary signal) returns off the surface of the aircraft at a slightly
+different moment than the beacon (secondary) transponder signal and the
+two do not match up as being at the same place or same computer radar
+cell.
+
+Nw :
+™N
+
+c SAME AIRCRAFT
+
+=} \ (Crossing Cell) V4
+~— , y
+= ia — —
+
+S| | Up Ze WTI
+
+at, ee //, ty
+
+Senay rig
+
+z (Beacon)
+
+H (Transponder)
+
+AA
+
+--RADAR COMPUTER CELL, 1/4 MILE-- RADAR CELL
+
+Drawing by Paul Steucke
+March 5, 1987
+
+ly y—
+
+PRIMARY
+RADAR
+RETURN
+(Skin~
+b Surface)
+ONY
+WH, 4
+XH =PRIMARY RADAR RETURN
+‘Sf, FAA
+Ke
+<4 «RADAR
+
+SE
+x’ =SECONDARY RADAR RETURN
+
+‘@CORRELATED RETURN
+. (Combined Return)
+
+=UNCORRELATED RETURN

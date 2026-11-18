@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:15:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4009507, "source_ctime_ns": 1793386609665429709, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996765/0396.jpg", "source_mtime_ns": 1785748249000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996765/0396.jpg", "source_sha256": "7c3d738817fd0647ddeec26d17f261248961fd67be0714980d3e2f9a0b0f98bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 522, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TEL: 635-8911 ; HEADQUARTERS
+ext: 2257 AIR DEFENSE COMMAND
+UNITED STATES AIR FORCE
+REPLY TO ENT AIR FORCE BASE, COLORADO
+ATTN OF: ADCIO-P
+susecr, Request for Information F- SEP 1962
+
+Secretary of the Air Force (SAFOI-3C)
+Wash 25 DC
+
+In accordance with paragraph 8, AFR 200-2, Subject:
+Unidentified Flying Objects, the attached correspondence
+is forwarded for your action.
+
+FOR THE COMMANDER
+
+KATHLEEN M, BERRY ag 1 Atch
+Li. Colonel, USAF Ltr from Louis Trifon, dtd
+Executive Officer 31 Aug 62
+
+Directorate of Information

@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:18:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4592326, "source_ctime_ns": 1793382774238194229, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985429/0693.jpg", "source_mtime_ns": 1785748513000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985429/0693.jpg", "source_sha256": "a2c4e8ff37e291d2173a697e4794232b74f4047bafde6f2242566b70ce3eb16c"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 952, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Sy a To bial
+
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+2. LOCATION
+100 NM North of
+
+18 Nov 59 Anderson AFB, Guam
+“3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Local Q Ground- Visual CO! Ground-Radar
+GMT J 8/0850zZ. DYAir- Vi sual {) Air-Intercept Radar
+“5. PHOTOS 6. SOURCE
+O Yes
+No Military
+
+7. LENGTH OF OBSERVATION
+
+2 secs
+
+8. NUMBER OF OBJECTS
+
+One
+
+9. COURSE
+
+Q
+WIS
+
+DOO onfy ano aog
+
+~
+to
+
+» CONCLUSIONS
+
+Wes Balloon
+Probably Balloon
+Passidly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Data for Evaluction
+Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Circular blue-green obj, tapering at trailing
+‘fedge. Tail changed colors to orangeeyellow.
+Size of half dollar. Tail persisted 10-15
+mins after passage. No sound.
+
+11, COMMENTS
+
+Description, flight path, and duration
+are typical of a class of meteor called
+
+‘fireball;
+
+~ ATIS FORM 329 (REY 25 SEP 52)

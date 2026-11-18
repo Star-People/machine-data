@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:16:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4302916, "source_ctime_ns": 1793354405192047771, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0008.jpg", "source_mtime_ns": 1785564279000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0008.jpg", "source_sha256": "9cecf02ac3f01edde96190339185b54efc944bff69a252a16297086395910382"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 535, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Company/
+Organization
+
+ONTAR Corp.
+
+Ala line:
+
+. Rockwell Int.
+
+U. So. Florida
+
+Salem State College
+
+ONTAR Corp.
+
+Cooperative Research and
+Development Agreements (CRDAs)
+
+Product
+
+PC-LOWTRAN 7
+
+Global Spectral
+Climate Model —
+
+Integrated
+GPS/INS System
+
+PC-HITRAN
+
+Internships
+
+PC-MODTRAN
+
+Use
+
+Atmospheric
+Transimission Code
+
+Effect of Anthropogenic
+Change on Environment
+
+Mineral/Petroleum Exploration
+
+High Resolution
+Optical Transmission
+Spectrum/Atmosphere
+
+Simulation Laboratory
+(Simlab) Training
+
+Atmospheric
+Transmission Code
