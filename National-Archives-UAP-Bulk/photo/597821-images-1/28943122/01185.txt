@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T12:20:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4864272, "source_ctime_ns": 1793372526595410037, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943122/01185.jpg", "source_mtime_ns": 1785688930000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943122/01185.jpg", "source_sha256": "2ce64249c5e78c98527d919eaa104b47771312abbfb7395986dad18329087b02"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 442, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee ‘x: ¢ _ DEPARTMENT OF THE AIR FORCK
+Be teste gabe STAFF MESSAGE DIVISION =
+INCOMING UNCLASSIFIED MESSAGE
+
+EMERGENCY
+ODEPT_OF ASMY MSG
+. FROM: FLT SVC CNTR OLMSTED AFB PA
+
+™) : SECDEF WASH DC |
+CGAIRDEFCOM ENT AFB COLC
+‘WR : NONE CIRVIS = 25 Jun 52 (DTG 2526232)
+
+. Text of message on following page.
+
+ACTION: ON | hie
+
+AF IN : 25500 (25 Jun 52) .- DA IN. 552850 SDM/ee
+
+toan st O-309d
+
+THIS FORM MAY BE USED te—03739-1 we U.S ~o-e27442 |

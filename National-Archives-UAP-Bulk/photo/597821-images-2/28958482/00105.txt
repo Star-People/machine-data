@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T12:07:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2969831, "source_ctime_ns": 1793375953603696990, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958482/00105.jpg", "source_mtime_ns": 1785696461000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958482/00105.jpg", "source_sha256": "9d9ff4e464aabd3cf4a62df900bb325bc5c5fc7e78711f5fe8da1a8e8b048600"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 381, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO OF JESYQ 9 1B
+
+19093 FT 2& DEGREES 22 KNOTS
+1@9e FT 272 DEGREES 22 KNOTS
+2296G FT 289 DEGREES 25 KNOTS
+5390H FT 2% DEGREES 3 KNOTS
+DeLee FT 320 DEGREES 3@ KNOTS
+89999 FT 5353 DEGREES 23 KNOTS
+C. CLEAR
+
+De 1B MILES
+E, NONE
+‘F, NONE
+8, NONE
+9. NONE
+19. NONE
+11 NONE
+
+12. OPERATIONS OFFICE MAXWELL FLIGHT SERVICE CENTER MAXWELL AFB ALA
+SIGNED GOLINSKY END,
+
+08539Z JUN JESYQ

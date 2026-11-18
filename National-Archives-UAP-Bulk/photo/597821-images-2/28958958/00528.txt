@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T12:21:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5004703, "source_ctime_ns": 1793376047242062896, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958958/00528.jpg", "source_mtime_ns": 1785696940000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958958/00528.jpg", "source_sha256": "9c42854d9bbd52b87781e63450afa55ebf36dad94bf8fac16a5f2c3f00c0c649"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 397, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RAL21
+
+1 On 5y 1§ 2p IZ of
+TYB : ‘ Ps =e ‘i “4 rie Ba fs AoE te,
+JTE141 hao ty Qe 8 pid
+JEO AT75
+
+EMER GENC Y JEXFT JEDWP 220
+DE JEOC 503
+Y 191259Z
+
+Fol COMDR 6836 AB WG GOOSE BAY LABR
+
+TO JEXFT/COMDR 64TH AD PEPPERRELL AFB NF
+
+JEDWP/COMDR WRIGHT PAPPERSON AFB OHIP
+
+ATTNs DUTY CONTROLLER 64 TH AD ATTNs ATIC COMDR WRIGHT PATTERSON
+GBOIN 36499 URMSG ADOI 394 NEG INFO THIS STA.
+
+‘8/1393Z JUL JEOC
