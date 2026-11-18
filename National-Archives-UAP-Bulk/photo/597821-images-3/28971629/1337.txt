@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T06:14:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4441871, "source_ctime_ns": 1793379223385313387, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971629/1337.jpg", "source_mtime_ns": 1785700776000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971629/1337.jpg", "source_sha256": "f5daecb77adcafedd54b1414ca3ae9092fada043586d7d8c0c92cc37bec9292a"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 145, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pes
+The.
+
+Pore Ee art
+
+WL Keg Aapeled by SOURCE tees ore O71 —|
+
+UTE | Ble wer MID Jews hp
+
+—
+
+Fle Dem J bye t(b |
+
+Ae ceed HE Mlle Ts
+
+yr aro.

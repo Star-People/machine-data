@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T07:03:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1045578, "source_ctime_ns": 1793390571312443884, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302551175/0974.jp2", "source_mtime_ns": 1785808482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302551175/0974.jp2", "source_sha256": "a4afb235b97599ea2cd796d87ff09666387ce81ac7f6223dfd886e4b5a4dc771"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 592, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+VIII WEATHER INFORMATION: Wichita Municipal Airport
+
+A.
+
+oe
+
+4
+{
+
+i
+
+Wind direction (degrees) / Velocity (knots)
+
+First: 190 degrees 8 knots
+Second: 180 degrees 9 knots Surf ace
+6000!
+10000'
+16000'
+20000!
+. Cal 30000!
+woo : 50000!
+ase : | 80000!
+Ceiling Clear
+Visibility 15 miles
+
+Amount of cloud cover None
+
+Thunderstorms & quadrant None
+
+Vertical temperature gradient 82 degrees
+
+Unusual activity or conditions:
+NOTHING
+
+Interception or identification action taken: N/A
+
+Air traffic or balloon releases: |
+Location Municipal Airport (3' diameter)
+
+Altitude oe
+Direction of flight Variable

@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T06:40:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9828590, "source_ctime_ns": 1793367364615544372, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0253.jpg", "source_mtime_ns": 1785565704000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0253.jpg", "source_sha256": "7c447b3ca253796021e4405e582862b2e190f5c4d73597fed0dc7557e18f94fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 14, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+dente ee
+
+my

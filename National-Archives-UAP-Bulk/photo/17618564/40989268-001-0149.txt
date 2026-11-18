@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T06:44:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15295660, "source_ctime_ns": 1793355711851819520, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0149.jpg", "source_mtime_ns": 1785564507000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0149.jpg", "source_sha256": "915e0050bd62c8aef9faf738dfec10238975a7784959e532a1ecafd76642f3cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 291, "chars": 1897, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RIBBON
+
+BALLOON
+
+FLAP VALVE
+
+Figure 3. Float Mechanism of Neoprene Balloon
+
+2. TELEMETRY SYSTEM
+
+The telemetry scheme of the system was patterned after the radiosonde, due
+to the availability of the Rawin Set AN/GMD-1A, which uses a PDM-AM modulation
+(Clark, 1961) . However, due to the broad bandwidth of the data, a pulse rate of
+3000 pps was used instead of the 240 pps maximum of the radiosonde. A block dia-
+gram of the telemetry system is shown in Figure 6. The electrometer tube of the
+microphone was followed by one stage of gain and the modulation circuit, a voltage-
+controlled blocking oscillator. The output of the RF stage was thus pulse- modulated
+by the blocking oscillator at a rate proportional to the voltage of the microphone
+CLroui:
+
+A block diagram of the receiving system is shown in Figure 7. The output of
+
+this system was suitable for standard chart recorders. It was necessary to modify
+
+the GMD receiver due to the higher carrier rate. The overall frequency response
+
+285
+
+of the system is shown in Figure 8 with the 3-db points of the system at 0.14 and
+200 cps.
+
+IN FEET
+
+RANGE OF AVAILABLE
+CORD LENGTHS
+LOAD =6 POUNDS
+
+STANDARD ATMOSPHERE
+
+CORD LENGTH
+
+50 60 70
+FLOAT ALTITUDE IN THOUSANDS OF FEET
+
+Figure 4. Float Altitude of Neoprene Balloon vs Valve Cord Length
+
+The modulation characteristic of the entire system is shown in Figure 9.
+Quite large percentages of deviation of the subcarrier were tolerated without loss
+
+of linearity, hence a large range of pressure fluctuations was sensed with good
+fidelity.
+
+3. FLIGHT INSTRUMENT
+
+The configuration of the flight instrument is shown in Figure 10. The instru-
+ment was divided into three compartments containing the parachute, the battery,
+and the electronics. The upper compartment contained the battery, the lower half
+
+was occupied by the electronics, and the parachute was contained in the cell on
+the side,

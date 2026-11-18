@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T06:35:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8321124, "source_ctime_ns": 1793384963332628956, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991482/1129.jpg", "source_mtime_ns": 1785748100000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991482/1129.jpg", "source_sha256": "70b7b468164011b43c9798c3dcef20173ced6cd873defb723f72c7015904ad19"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 661, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+
+INCOMIWG
+
+AF IN : 23050 (18 Feb 61) V/cgd
+ACTION: CIN-14 — | |
+INFO. Be! OOP-2, _DoP-oP-1, SAFS-3_ (23)
+
+ple
+pear RJEZHQ
+
+DE RBEJC 199
+
+ZNR
+
+Y 181048Z.
+
+FM CONCAR IBSEAFRON
+TO -RBEKHC/ CINCLANTFLT
+RJWF ALB/ CINCNORAD
+RJEZHQ/COFS USAF
+RSEPW/CNO
+
+NAVY. GRNC
+
+ar. % Be
+
+UNCLAS. FOL RCVD FROM ACFT IN FLT VIA FAA SAN JUAN INTL AIRPORT.
+301 ‘DC4 MIAMI YANKEE ROUTE AT 181013Z 9.000 FT EST IDAHO AT |
+181941Z VERY BRIGHT OBJECT MUCH HIGHER ALT MOVING TOWARD HIM
+
+139 DEG OR STANDING STILL
+
+83T
+
+CFN 501 DC4 181913Z 9.002 181941Z 139
+
+(18/1843Z
+
+NCTE: Advance copy del to CIN (1811282 Feb 61).

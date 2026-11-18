@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T06:30:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7079360, "source_ctime_ns": 1793383774874909418, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987834/1437.jpg", "source_mtime_ns": 1785748033000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987834/1437.jpg", "source_sha256": "3bb0c2cea11eaa654f8c90fff605f103a6e8624fa9527ea3aabd90835f5e0a45"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1089, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eens ‘PROJECT 10073 RECORD CARD
+
+Bright moving object. When viewed through
+binoculars and a 60 power telescope there
+appeared to be something rotating pendulum- like
+around the object; further there appeared tc
+be aprox 15 pleces of debris following in the
+wake of the object. This debris would disappear
+at the same time as the object. Object would
+disappear when directly overhead.
+
+1. DATE - 2 LOCATION 12. CONCLUSIONS
+16-20 Jul 60 o Wes Belloon
+- West Babylon, New York Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+Locel 2030EDT CL Ground-Vi sual D Ground-Reder O Wes Alveraft 4
+Binoculars & telescope S peas Aivak
+—__GMT— 0 Air Visu © Alr-Intercep? Rader eee eee
+leer y 6. SOURCE 0 poe Coegenee :
+0 Yes Oo robably Astronomico
+G1 No Civilian O Pessibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE O Other
+O Insufficient Data for Evaluation
+15 min one SE-N 0 Unknown
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+It is concluded that the objects of thes
+sightings were probably weather balloons.
+
+ATIC FORM 329 (REV 26 SEP $2)

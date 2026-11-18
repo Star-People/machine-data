@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T06:21:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5781087, "source_ctime_ns": 1793388405975687447, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29001087/0206.jpg", "source_mtime_ns": 1785747946000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29001087/0206.jpg", "source_sha256": "cff7757c03e094ad37d1de190134659f781d11070cd0e69e2bf58f1cd6ab79a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 672, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+NNN INCOMING
+AF IN : 58003 (13 Jun 63) L/tre
+
+ACTION: NIN~-9
+
+INFO : X0P-1, XOPX-4, SAF-0S-3, ARMY-2, NAVY-2, OMC-8, JCS-35,
+DIA-25, DIA/CLIC-2, CIA-11, NSA-7, OSD-15 (125)
+
+SMB A199
+: A96 1ZCECAS22 st
+
+OO RUEAHQ
+
+DE RUHPJ 72
+
+ZR
+
+O EQUPTZ
+
+FM OSV VICTOR
+
+TO RUHP3/CINCPACFLT
+
+RUMPHH/ CTF THREE TWO
+
+R UWGALB/ CINCNOR AD
+
+RYEAHO/COFS SAF
+
+RUWSJ/CGMYEST AREA
+
+INFO RUECJD/COMDT COGARD
+
+ZEN/CCGD FOURTEEN
+
+USCG GRNC |
+
+BT
+
+UNCLAS
+
+MERINT CHAUTAUQUA NRUD UNKNOWN OBJECT, ROUND BRIGHT WHITE WITH xED
+1/4.QE 131845Z SHIFTED LOW ASCENDING RAPIDLY
+
+UNKNOWN NONE
+NOTE: ADV CY DEL TO XOPX, NIN AND DIA.
+BT |

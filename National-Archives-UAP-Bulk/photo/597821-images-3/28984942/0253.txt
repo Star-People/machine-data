@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T06:19:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5635686, "source_ctime_ns": 1793382650551040909, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984942/0253.jpg", "source_mtime_ns": 1785700621000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984942/0253.jpg", "source_sha256": "53c48b5c2b8c680a0ee8db803fa963d0a910afeec20e0c9e11f3a53d16d26dcd"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 1057, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION
+9 Oct 59 S of Miami in Biscayne Bay, Fla.
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Local XGround- Vi sual O Ground-Rador
+CMT 10/0318Z QD Air Visual DO Air-Intercept Radar
+“S. PHOTOS 3. SOURCE
+0 Yes
+EXNo Merint Rpt
+
+7. LENGTH OF OBSERVATION
+
+20 secs
+
+oo
+by
+
+NUMBER OF OBJECTS | 9. COURSE
+
+one SE
+
+12. CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircroft
+Possibly Aircraft
+
+Was Astronomical. :
+Probably Astronomical
+Possibly Astronomical
+
+Oo0 oaa aao
+
+GX Other Missile
+O Insufficient Data for Evaluction
+O Unknown
+
+10. SRIEF SUMMARY OF SIGHTING
+
+Obj believed to be at 40-50,000 ft w/
+white aura heading Se & disappearing into
+2 cloud bank obeerved fm the yacht "Inter.
+mezzo". Speed estimated at 1,000 mph.
+
+11. COMMENTS
+
+Characterstics of missile sighting
+present. No data svaiadable for confire
+mation,however the location, direction,
+of flight & speed of the obj tend to sut
+stantiate this conclusion. Case carried
+&S a missile sighting.
+
+ATIC FORM 329 (REV 26 SEP $2)
