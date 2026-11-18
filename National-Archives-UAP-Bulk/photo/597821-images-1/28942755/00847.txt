@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T21:37:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3201311, "source_ctime_ns": 1793372442801809312, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942755/00847.jpg", "source_mtime_ns": 1785688848000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942755/00847.jpg", "source_sha256": "7fac371a5e3002bbada13d013ea61d2d2ca9f28485f58001f33ddfd84274fe39"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 154, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a&
+
+7 daly 1952.
+
+Capt George L. Colby, Chief Reporting Unit
+
+S/sct Miintegne.
+
++
+
+—_
+
+MST on
+of a
+ooo: fi
+sigh
+between
+he press and other publications,

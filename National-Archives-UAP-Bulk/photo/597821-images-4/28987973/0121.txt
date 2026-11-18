@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T21:55:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6819890, "source_ctime_ns": 1793383817841751672, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987973/0121.jpg", "source_mtime_ns": 1785748345000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987973/0121.jpg", "source_sha256": "3090c011b573b137795a5a95e6926ce0431d3d8f4a198c157c4c07a94a23e08f"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 435, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJWFFD 22A
+
+PART 2e SUPPLEMENTAL INFORMATION TO UFO REPORT SUBMITTED ON 27
+
+JULY 1988, CITE: TFW/DO/INTEL 71-6596 REFERENCE ATR 280-25
+
+PARAGRAPH 456(2)~- ADD T
+
+INDICATED+
+
+ALTITUDES | TEMPARATURE
+SURFACE PLUS 35C
+
+1 208 PLUS 18C
+
+2a 002 Minus #9C
+5x 00 MINUS 68C
+aT
+
+33/26 137 AUG RJWFFOD
+
+HE FOLLOWING TEMPERATURES FoR THE ALTITUDES
+
+ALTITUDES TEMPERATURE
+
+6 22 PLUS 18C
+18893 MINUS @1C
+
+30 020 MINUS 31C
+OL NOT AVALLABLE

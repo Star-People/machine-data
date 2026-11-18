@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T21:30:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1189280, "source_ctime_ns": 1793356031035930755, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0091.jpg", "source_mtime_ns": 1785564588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0091.jpg", "source_sha256": "ec7f9f0c2a29e137f63af5ad56450a6bdb4e8a7e269fc9897d6ea1a2d6382031"}
+
+===== PAGE 1 =====
+{"alpha_words": 194, "chars": 1269, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+19.
+
+ed GY.
+
+Rip Assembly Cannon
+
+In all,115 service flights were made under this contract from
+variovs government installations throughont the country. A
+summary of these flights is listed in Table I (see end of text).
+
+Meteorological Analysis
+
+As one phase of this project, New York University agreed to prepare
+analyses of winds and temperatures in the troposphere for dates and
+localaties specified by Watson Laboratories.
+
+The vertical distribution of temperature from the ground up to
+heights of about 15 km at the time of any particular experiment
+
+was estimated from the routine radiosonde ascents which were
+nearest in respect to both time and space, to the site of the
+experiment. If the time of the experiment was within three hours
+of one of the twice-daily, standard hours of radiosonde observa-
+tion, the temperature distribution given by such observation was
+assumed to have existed (within the limits of error in the method
+of measurement) at the time of the experiment. If the time differ-
+ence was greater than three hours, a linear interpolation was made
+between radiosonde observations preceding and following the time
+
+of the experiment. Interpolation in space was accomplished
+qrdinarily by assuming a linear horizontal variation of temperature.

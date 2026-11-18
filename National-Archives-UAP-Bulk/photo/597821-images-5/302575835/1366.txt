@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T22:22:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1257759, "source_ctime_ns": 1793393292419688840, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302575835/1366.jp2", "source_mtime_ns": 1785808207000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302575835/1366.jp2", "source_sha256": "2f3bf1b82e939cda39cabfcc81438938c0f6505d92b01d6fe81d1a9c4f82aad4"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 866, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+YDPT (UFO) OFFICIAL FILE CY
+
+TDP? (UFO)r+ col Quintanilla/70916/mhs/29 May 68
+UFO Observation, 20 April 1968 97 wnvinss
+
+Cincinnati, Ohio 45227
+
+1. Reference your unidentified observation of 20 April 1963,
+thich you reported to the Air Force at Wright-Patterson AS,
+Onio.
+
+<, Analysis indicates that you were probably observing the
+planet Jupiter. At 7:45 pm on the 20th of April, Jupiter was
+due south at an angular elevation of approximately 65 degrees.
+At 3:30 pm 1t was in the southwest at approximately 65 degrees
+elevation. On 20 April, Jupiter had a stellar magnitude of -1.3
+and was the brightest star-like object in the sky at the time of
+your cbservation.
+
+3. Once again, thank you for reporting your observation to the Air
+Force.
+
+R QUINTANILLA, Jr, Lt Colonel, USAF
+fChief, Aerial Phenomena Office
+
+Aerospace Technologtea Division
+Production Directorate
