@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:31:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6304916, "source_ctime_ns": 1793361915864138389, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0142.jpg", "source_mtime_ns": 1785684795000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0142.jpg", "source_sha256": "b69c8f6f501fc65bf48019a2eca5c02b59599865be8e162bc704a7466186b157"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 78, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+é
+
+vA
+
+BTOMwS 13
+
+CABS »
+
+&% DEC 1975
+
+Declassification Authority: NND 923007

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:36:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7271544, "source_ctime_ns": 1793376702696471035, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961791/0057.jpg", "source_mtime_ns": 1785696994000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961791/0057.jpg", "source_sha256": "ebdad03177f85af38d7f915f2dc348448e322150797f848a6347c976b784a5d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 161, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+; ARS “4
+’ ms o
+? /
+‘ mm?
+'
+‘
+- a
+é | ata
+ww ~ ae we BP | es
+wo
+. » *
+
+SOE, Se yet Pant eee 5 Sa Lek ae as
+&
+
+Fiarobis ris
+
+f
+fea
+°
+ORAM B48 LD st ct rv.
+2
+: {

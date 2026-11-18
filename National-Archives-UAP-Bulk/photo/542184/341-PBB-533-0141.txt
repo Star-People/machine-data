@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:26:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5078278, "source_ctime_ns": 1793366037942014141, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-533-0141.jpg", "source_mtime_ns": 1785565470000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-533-0141.jpg", "source_sha256": "b3342e45b7ccc1c1d95730fc46c02956a8b0393a8fce8b82fe893be4a344e258"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 74, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ent tiniest it abe Sint cet. SG | SOS ME oy ee eens Geko atresia re oe a

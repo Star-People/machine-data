@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:22:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4256472, "source_ctime_ns": 1793359638034348461, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-053-0001.tif", "source_mtime_ns": 1785681478000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-053-0001.tif", "source_sha256": "9d9d58c285be1ab628ec959f7644be7a1244743b36b436d28cef61a819494882"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 537, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+b602D AISS UFOB LOG
+
+REPORT NUMBER
+
+DATE/TIME OF SIGHTING
+
+RECD ATSOP
+
+ATSS-UFOB~220=36 08/0002 May 56 10 May 56
+LOCATION OF SIGHTING [LOGGED BY
+Crestivew, Florida | 8/Set Delndder
+
+MEANS RECD
+iT Msg
+
+ACTION TAKEN
+
+No investigation authorized
+
+INVES UNIT
+H/A
+
+DATE. INVES ASSIGNED
+n/A
+
+TASSIGNED BY
+iNn/a
+
+DATE IR RECD HQ
+w/a
+
+jDATE TR APPROVED
+in/a
+
+DATE iR TO ATIC
+N/A
+
+{DATE ATSOP FORM 5
+{12 May 56
+
+i
+
+~ [coments
+|Aireraft in area
+
+\
+
+CONCLUSIONS
+
+POSSIBLE ATRORAFE
+
+- AISOP FORM 7 (2 AFR 55)

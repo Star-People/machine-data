@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:10:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1488584, "source_ctime_ns": 1793356288936021966, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0150.jpg", "source_mtime_ns": 1785564661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0150.jpg", "source_sha256": "a20f6064b7d29582c0215f79f7726b6a87025591c05784ba99587265fbf30636"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 894, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“> . . 6) 4 ee
+
+esky rae DEPARTMENT OF THE AIR FORCE hw rs
+- WASHINGTON 25, 0. C. ~
+CASUALTY REPORT- —~.
+WE, tte j DATE OF PREPARATION 9 April 1951
+NAME Sager, Edward Mo SERVICE NUMBER
+2 19 OLF A
+PLACE OF CASUALTY DATE OF CASUALTY
+| _Carewell Air Force Base Hospital, Texas 19 Mar 1951
+t CAUSE OF CASUALTY ENEMY ACTION
+. Acute coronary occlusion ; YES NO
+ORGANIZATION ARM OR SERVICE
+USAF -: MC
+HOME ADDRESS (Number, street, city, zone, county and state) ' COMPONENT
+Fort Worth, Tarrant County, Texas: USAF - Ratired
+NET OF KIN Mrs, Lois B. Sager, wife, 1712 Carlton Street, DATE OF BIRTH
+Fort Worth, Texas 1 dan 1
+BENEFICIARY (iName, relationship and eddress} PRIOR SERVICE
+42) YES ono
+wt DATE ENTRY CURRENT
+SERVICE yp
+, AERONAUTICAL RATING
+"ON FLYING PAY STATUS |
+0 Yes ONO
+REMARKS
+
+% Retired 30 September 1949.
+
+454,
+
+wD AGO bie 52-L, 045, 0335-1, AND 0470.1 WHICH ARE OBSOLETE IN THE AIR. E

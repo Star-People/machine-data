@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:06:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1275152, "source_ctime_ns": 1793355959643251317, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0014.jpg", "source_mtime_ns": 1785564569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0014.jpg", "source_sha256": "6e38e7e0a6d8640c048ddc69d91c21c12dd124c356a4d537688c730846041187"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1626, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+operational techniques, bioelectronic measuring
+
+techniques, and extraction of the maximum amount
+
+of post-mission information.
+
+Specifically, the new project consisted of the following
+tasks
+
+Task 68920, Biological Specimen Support, relating
+
+to vivarium development and physiological base=
+
+line studies on different categories of test ani-
+mals 3
+
+Task 68921, Altered Environments for Biological
+Specimens, which sought to "establish tolerance
+and performance data on biological specimens
+exposed to unusual environments" and to "provide
+subjects conditioned to specific physiological,
+handling, and restraint requirements;"
+
+Task 68922, Post-Mission Analyses of Biological
+Specimens 3
+
+Task 68923, Operations Techniques; and
+
+Task 68924, Space Vehicle Test, which sought
+
+to "test space vehicle system and subject compati-
+
+bility to insure the physiology of the subjects
+
+are [sic] not exceeded."
+
+Within a year the project had dropped Task 68923, which
+was combined with Task 68924, and added Task 68925, Biophysical
+Measurements [or Bio-Blectronics], and Task. 68926, Biological
+Dosimetry of Ionizing Space Radiations, This last task was
+not, strictly speaking, a revival of the basic cosmic-ray
+research previously performed under Project 7851. It had to
+do with the development of measurement systems, and it thus
+typified the over-all reorientation of the laboratory mission
+toward primary emphasis on biosatellite support rather than
+on research per se. However, the difficulty of making clear~
+cut distinctions between test-support and research functions
+
+is shown by the fact that one of the contractual studies

@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:28:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5818073, "source_ctime_ns": 1793355819351627941, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0086.jpg", "source_mtime_ns": 1785564532000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0086.jpg", "source_sha256": "cf38e48cb9745d4649be3a154bb74bd759c8b71f0379f5dbe9e413a975556737"}
+
+===== PAGE 1 =====
+{"alpha_words": 235, "chars": 1563, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+records. Therefore, a multipart item could correctly have an ISBN
+for each volume, but only one LCCN, if it was cataloged as a set.
+
+For further information concerning the ISBN, contact:
+
+Standard Book Numbering Agency
+R.R. Bowker
+
+121 Chanlon Road
+
+New Providence, N.J. 07974
+
+(908) 665-6770
+
+MUL YOUR Cl? PUBLISHER MiAlsON
+
+The creation of a CIP record is a cooperative effort between CIP
+Division staff and the Library’s catalogers. Your CIP Publisher Liaison
+serves as the link between you, the publisher, and the catalogers. Each
+CIP Publisher Liaison is responsible for those publishers whose names
+fall into a particular portion of the alphabet. (See the list of liaisons, which
+has been inserted in this publication. ) These publisher block assignments
+must change from time to time to accommodate the fact that new
+publishers are constantly joining the CIP program, old publishers con-
+
+solidate or change imprints, and CIP staff changes.
+
+The Publisher Liaisons are responsible for answering your gener-
+al questions about the CIP program, processing and mailing your
+CIP data as soon as the cataloging is completed, contacting you if
+insufficient materials were received, seeing that your reported changes
+are appropriately processed and that revised CIP data is supplied,
+and providing you with forms, labels, etc. While your CIP Publisher
+Liaison will be your primary contact person, there may be times when
+your questions will have to be referred to one of the technical assis-
+tants, CIP management, or other divisions of the Library of Congress.

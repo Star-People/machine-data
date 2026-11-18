@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T11:03:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 981798, "source_ctime_ns": 1793392805817504220, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302571213/1044.jp2", "source_mtime_ns": 1785808612000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302571213/1044.jp2", "source_sha256": "2d906ef722f2edce881c9ec59f757563dedcc636460b105ac2328f8f286f5062"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 157, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Sooty my
+wy Daath Ade dedi,
+
+*Y
+slates Hegde Cle ey anfAs is
+PARISH GHEE DEF
+
+3 M : U CALCAS
+
+4 p, ood
+
+er i ne a
+
+LUNICATION GFFICER
+
+ee
+Pee
+
+ot 0
+
++a (LF

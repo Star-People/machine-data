@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:20:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4072340, "source_ctime_ns": 1793377540519974991, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964203/0604.jpg", "source_mtime_ns": 1785696888000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964203/0604.jpg", "source_sha256": "39b0b9eb5fb4ef108d330187ef1e2f68138e69245f5d69569ffed061c1ac092b"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 841, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+wa
+
+PROJECT 10073 RECORD CARD
+
+1, DATE. f 2 LOCATION 12. CONCLUSIONS
+O Was Balloon
+1ZN 55 4 St Loula, Missouri QO Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+22) Ground- Vi sual O Ground-Radar a Misbauly Asvcial
+7/02 O Air Visual O Air-intercept Radar D1 Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes O Probably Astronomical
+(X No civitan O Possibly Astronomical
+7. LENGTH OP OBSERVATION ®. NUMBER OF OBJECTS | 9. COURSE D OthdyNIDE
+O Insufficient Data for Evaluation
+: Unknown
+45 seconds a eee NE
+10, BRIEF SU Y OF SIGHTING Vi. COMMENTS
+ound ana ‘tiat, dark on bottom side, silver UNIDENTIFIED (Birds?7)
+
+colored on top side, 3 abreast, four deep.
+No sound. Initial observation at 75 deg elev
+in NE, disappearing over horizon in NE.
+
+45 second observation.
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T11:00:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 697225, "source_ctime_ns": 1793355831485565692, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0078.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0078.jpg", "source_sha256": "5e2b973347fd49977ce0ec462e2abb426d506706c60748c9f6671ebf9aab6e6d"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 810, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1 February 1996
+
+MEMORANDUM FOR COMMANDING OFFICER NAVAL MEDIA CENTER
+
+FROM: SAF/AAZD
+1720 Air Force Pentagon
+Washington, DC 20330-1720
+
+SUBJECT: REQUEST FOR FILM TRANSFER
+
+It is requested that your facility transfer three 16mm films of historic Air Force scientific
+projects to BetaCamSP format. These films will be included in a production currently being
+developed by Air Force TV. The purpose of this production is to brief the Secretary of the Air
+Force.
+
+The cooperation of your organization will assist us in completing this production since the
+Air Force no longer posses the capability to transfer film. I have provided blank BataCam tapes
+for the transfer.
+
+If you require any additional information, I may be reached at (703) 604-4788. Thank you
+for your assistance.
+
+JAMES McANDREW
+Captain, USAFR

@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:16:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3500173, "source_ctime_ns": 1793355937591716939, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0005.jpg", "source_mtime_ns": 1785564563000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0005.jpg", "source_sha256": "fd00cfab263b68aa9b03a3dfbd7b1613358f17af08a9fdc86bd1a4a70c1285a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 704, "chars": 4782, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ACKNOWLEDGMENTS
+
+The six separate studies that make up this volume, describing different aspects of
+the work of the Air Force Missile Development Center’s Aeromedical Field Laboratory,
+were neither produced on order for the Laboratory nor written by any members of its
+staff. They were produced as part of the Center’s over-all historical program, and the
+Historical Branch bears full responsibility for all statements of fact or interpretation un-
+less otherwise cited. Nevertheless, the volume would not have been possible without the
+wholehearted cooperation of the Aeromedical Field Laboratory staff, who made their en-
+tire files available to the Historical Branch and patiently answered innumerable questions
+concerning their work. Officers, enlisted personnel, and civilian employees all gave help,
+so that it would be almost impossible to thank each individual separately. In fact thanks
+are due not only to the present Laboratory staff but also to many who have since left--
+notably including Colonel John Paul Stapp, who headed the Aeromedical Field Laboratory
+until he departed in April 1958 for Wright Air Development Center to take charge of the
+Aero Medical Laboratory.
+
+Help was also received from other members of the Aero Medical Laboratory at
+Wright Field; from the staffs of the Navy’s Aviation Medical Acceleration Laboratory
+and the Air Force School of Aviation Medicine; and from the Directorate of Life Sciences
+at Headquarters, Air Research and Development Command. Scientists (and fellow mili-
+tary historians) at these other installations gave access to office records and submitted
+to more interviewing, both on joint projects in which they participated along with the
+Aeromedical Field Laboratory and on work of their own which must be taken into account
+in order to place the efforts of the Aeromedical Field Laboratory in true perspective. Two
+private organizations--Winzen Research, Incorporated of Minneapolis and the Convair
+(San Diego) Division of General Dynamics Corporation--have also supplied valuable da-
+ta, as well as various illustrated materials, on the part that they played in bio-medical
+research and development efforts. The Winzen staff was of course primarily concerned
+with their participation in the Aeromedical Field Laboratory’s Project Man-High. In the
+case of Convair, Dr. Robert Armstrong, of the Aviation, Space, and Radiation Medicine
+unit, made available information on the experimental Convair “B” ejection seat.
+
+Then, too, many individuals assigned to the Air Force Missile Development Center
+in units other than the Aeromedical Field Laboratory gave important assistance to the
+preparation of this volume. An obvious example is Captain Joseph W. Kittinger, Man-
+High test pilot, who was actually assigned to the Center’s Flight Test Division until his
+recent transfer to Wright Field. Naturally, much help was received from members of the
+Balloon Branch, which has given support to an impressive array of aeromedical research
+projects, and especially from its present Chief, Major Lawrence M. Bogard; from Major
+Milton M. Hopkins, Jr., who served the Branch in several different capacities; and from
+Mr. Bernard D. Gildenberg, who is head of the Balloon Control Section.
+
+Others who supplied information include Major Hubert S. Williams, Commander of
+the 6580th Field Maintenance Squadron and a support pilot in Project Man-High; Mr.
+Ellis Bilbo, Chief, Plans and Programs Office, Directorate of Advanced Technology, and
+Mr. Charles S. Bagley, research scientist in the same Directorate; Master Sergeant Henry
+V. Carson, of the Center’s Special Parachute Section; Dr. Knox T. Millsaps, Chief Scientist,
+and Lieutenant Colonel Harry L. Gephart, Executive, Office of the Chief Scientist, two
+former professors who have repeatedly delivered small lectures on unfamiliar details of
+scientific techniques and terminology. Lieutenant Colonel John W. McCurdy, who as
+Information Services Officer is practically an ex officio member of the Aeromedical Field
+Laboratory, supplied needed information and other assistance as well; so did Lieutenant
+Joseph G. Martin and Mr. George Meeter, of the same Office of Information Services.
+Technical Sergeant James W. Carter and his co-workers in the Center’s Duplicating Ser-
+vices Section supplied no research data but deserve special credit for the quality of ser-
+vice they rendered when the different sections of this volume were originally published,
+during the course of 1958, in the form of separate monographs.
+
+. Last but certainly not least, other members of the Historical Branch have had an
+important part in preparing this volume. Dr. James S. Hanrahan, Center Historian, con-
+tributed many useful suggestions and has actually written certain passages of the finished
+
+Vv

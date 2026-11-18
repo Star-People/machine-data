@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:38:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7971354, "source_ctime_ns": 1793364673562730871, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0105.jpg", "source_mtime_ns": 1785684890000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0105.jpg", "source_sha256": "ec84b3f2c858bacc5c459ba11c56be7e9fd81e126e673e7239ab30c4f350b277"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 113, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Wa) . a Se , r y re d f f ? ’ v
+
+ap
+
+fm,
+ay
+
+a Nba ‘or 6Z AON 1&6
+
+4
+
+NI
+
+Declassification Authority: NND 923007

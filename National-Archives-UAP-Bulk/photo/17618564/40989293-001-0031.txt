@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:16:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2062874, "source_ctime_ns": 1793355941353804796, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0031.jpg", "source_mtime_ns": 1785564564000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0031.jpg", "source_sha256": "a862e31463d8206bf918315b63166303b950a2ea823fb35b7ca0885751ee8f63"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1225, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MAJOR ACHIEVEMENTS IN SPACE BIOLOGY
+
+PHOTO PANEL
+CAMERA
+
+FIRE THERMOSTAT
+EXTINGUISHER
+
+a ADJUSTABLE LIGHT
+
+LIGHT
+
+CHEMICALLY
+TREATED AIR
+
+ELECTRICAL
+
+CONTROL PANEL
+SPOT PHOTOMETER 8
+
+BATTERY PACK
+
+|
+OXYGEN CONTROL
+PANEL ~
+
+COLD AIR
+SUPPLY
+EMERGENCY
+OXYGEN
+CONTROL
+‘ A
+_—— RADIO HF
+RADIO VHF RECEIVER
+ae = |
+KEY
+7 ___— DRINKING
+es —— WATER SUPPLY
+
+EMERGENCY a
+
+OXYGEN t
+SUPPLY BOTTLE
+FLOOR
+
+| Bangi __- 24VOLT
+\ y _——— COMMUNICATIONS
+OXYGEN BATTERY
+CONVERTER .
+t2 VOLT Sy = Vb
+EMERGENCY \% 24 vid aa ~——~ FLOOR
+BATTERY
+
+383428 -- Schematic artist’s drawing of the USAF-Winzen Research Inc. MAN-
+HIGH gondola showing location of internal instruments and components. Pilot
+normally breathes the oxygen-helium capsule atmosphere. Equivalent cabin altitude
+can be selected on the panel. The MAN-HIGH capsule is a minimum weight vehicle
+for one-man flights to altitudes in excess of 100,000 feet and for durations in ex-
+cess of 24 hours permitting night and day observations and studies of human fac-
+tors in space medicine. The Winzen Research MAN-HIGH capsule is the first true
+space cabin and will serve as a research vehicle for the study of requirements for
+manned space flight.
+(Drawing and Caption by Winzen Research)
+
+20
