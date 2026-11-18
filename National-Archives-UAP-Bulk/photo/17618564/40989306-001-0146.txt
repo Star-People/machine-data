@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T05:06:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2462088, "source_ctime_ns": 1793356176681140781, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0146.jpg", "source_mtime_ns": 1785564628000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0146.jpg", "source_sha256": "aa3d4e7bdda1961718621a9142066ee3fdb3bc7e381ac3c155ca1777fb11407a"}
+
+===== PAGE 1 =====
+{"alpha_words": 251, "chars": 1900, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+J
+
+OS it-947
+
+ML-247
+
+Figure 48.  Theodolite ML-247.
+
+Status: Standard. Stock No.: 7A1747-247.
+Reference: TNL 11-423.
+
+Theodolite ML-247 is a portable, right -angle-
+telescope type surveying instrument provided with
+a compass and with an auxiliary object lens which
+widens the field and is particularly useful in mak-
+ing night observations. The theodolite is used to
+follow and measure the movement of a pilot balloon
+as it rises through the atmosphere and is carried
+horizontally by the air flow. Readings of the azi-
+muth and clevation of the balloon are taken at
+regular intervals to determine the speed and diree-
+tion of the wind at various levels. Theodolite
+ML-247 is usually mounted on Tripod ML-78-(*):
+for fixed installation, it may be mounted on Theod-
+olite Mount ML-180; the tripod and mount are
+not included with the equipment.
+
+Note. Theodolite ML-247 is identieal to Theodolite
+ML-47-R.
+
+TECHNICAL CHARACTERISTICS
+TELESCOPE (main)
+TYPE: Right-angle, with prism.
+POWER: Approximately 20 diameters.
+FIELD: Approximately 2°.
+
+CONFIDENT.
+
+MODIFIED HANDLING AUTHORED
+
+WYEPIECE: Tnverting, adjustable, with eross hairs.
+FOCUS: Adjustable,
+TELESCOPE (auxiliary),
+POWER: Approximately 4 diameters (in combination
+with evepicee of main telescope),
+FIELD: Approximately 10°,
+SCALES
+ELEVATION: Graduated in whole degrees, vernier
+reading to .1°.
+AZIMUTH: Graduated ino whole degrees, vernier
+reading to .1°: range, 360°,
+SIGHTS: Fixed, for sighting vertical angles up to 45°:
+extension, for sighting vertical angles up to 85°.
+ILLUMINATION: 3 ineandescent lamp assemblies: cur-
+rent supplied by 2 Batteries BA-30.
+ACCESSORY EQUIPMENT: Tripod MEL-78-().
+Theodolite Mount = MT-
+180.
+
+PRINCIPAL COMPONENTS
+
+Theodolite ML-47-(*) (any model exeept ME-47-R)
+Compass ML-197
+Teleseope ME-116
+
+WEIGHTS AND VOLUMES
+Ierport
+Unpacked — packed
+
+Total weight (Ib) 41.2 85.9
+Total volume (eu ft) 1.8 3.9
+
+4l

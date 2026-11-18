@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T05:26:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7015056, "source_ctime_ns": 1793363520804769469, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0082.jpg", "source_mtime_ns": 1785684623000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0082.jpg", "source_sha256": "fba2f687d4a6e0ef380e677c64440a7657f0f7917a3576c9ed47d89264eadacd"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 578, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INCIDENT OF 8 MARCH 1949:
+
+This incident was reported by an AESS Inspector on duty at Los Alamos.
+The object appeared to be an aliptical, rather stubby, aluminum body sur-
+rounded or covered with billowy flame. There may have been projections
+similar to stubby control surface and wings, but the observer could not
+be sure of this. The observer described the object as looking rather like
+the part of a war time German airplane from the cockpit aft. It disappeared
+behind the clouds. The path was slightly descending; there was no noise,
+
+Declassification Authority: NND 923007

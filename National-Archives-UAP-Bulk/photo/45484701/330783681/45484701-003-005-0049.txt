@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T05:23:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6374463, "source_ctime_ns": 1793362760875961326, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0049.jpg", "source_mtime_ns": 1785684552000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0049.jpg", "source_sha256": "a83268b78297d0f64f81ad93cfd18d9cb0b4b8bed483a7daf1d9410305197364"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 83, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘eda wie ones,
+
+pee wes | t ey
+
+~.
+
+Pe web
+
+Declassification Authority: NND 923007

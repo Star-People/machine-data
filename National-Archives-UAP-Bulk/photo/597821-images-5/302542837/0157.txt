@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T05:58:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 941509, "source_ctime_ns": 1793389684956083306, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542837/0157.jp2", "source_mtime_ns": 1785808704000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542837/0157.jp2", "source_sha256": "49b1c2f19184da379329e225ea2001c0c9f1df8ef971285766ce01edd6bbb275"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 502, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPi;AR? MENT OF THE AIR FORCE
+
+STAFF MESSAGE BRANCH UNCLASSIFIED
+
+ZCZCVQD251ZCYJE 58
+
+DE RUCDDU 135 2521545
+
+AF IN 3; 12860 (20 Aug 65) H/mb Peel of 4
+ACTION: NIN-7
+INFO : XOP-1, XOPX-8, SAFOS-3, DIA-1 (21)
+
+FM DUADS DULUTH INTL APRT MINN
+
+TO RUWGALE/ ADC
+
+RUCDAH/ SOADIV TRUAX FLD WIS
+
+RUCDSQ/ FOREIGN TECH DIV
+RUEAHQ/ 4Q USAF
+
+WRIGHT PATTERSON AFB OHIO
+
+UNCLAS DUOIN 88898 AUG 65
+
+S@TH OIN, SUBJ: UFO.
+
+DISCRIPTION OF OBJECTS
+
+BIGGER THAN A STAR
+
+DISCERNABLE FEATURES: NONE
+
+TRAIL OF EXHAUST: NONE

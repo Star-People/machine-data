@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T05:43:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17713923, "source_ctime_ns": 1793355491505400945, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0073%201.jpg", "source_mtime_ns": 1785564464000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0073%201.jpg", "source_sha256": "f13c3cf7a0ba934e83958efb809bf048e7b97eb1f3d16c1a669214ca31e70aa2"}
+
+===== PAGE 1 =====
+{"alpha_words": 293, "chars": 1927, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Figure 2, The Stratos LS
+‘ cope I Syste
+[General Mills photograph] aa
+
+_7MAGNETIC CLUTCH
+
+A PEALE -COLLPLING
+
+TELESGORE
+MOUNTING RING
+
+MOTOR
+“MAGNETIC CLUTCH
+
+Figure 3. The Stratoscope I Elevation Shaft and Drive System
+
+float altitude the half amplitude of the motion has been measured to be of the order
+of 0.1 degree or 2 X 10 4 radians. The angular subtense of the moon is 2 X 10°
+sec of arc. Hence, if a photographic exposure of the moon were to require 10
+seconds, a major fraction of the pendulum period, the maximum resolution at the
+limb of the moon would be 4 sec of arc, or some twelve-fold less than that obtain-
+able on the ground.
+
+A second difficulty is forced oscillation of the azimuth gimbal [| Nidey, 1963].
+The amplitude of the oscillation varies as the tangent of the altitude of the target:
+at 45° a 0.1° half angle pendulum motion would require an equal forced oscillation
+of the telescope. A third gimbal decouples the telescope from the pendulum motion;
+hence, obviates both the image rotation and the forcing. The third axle is usually
+normal to the elevation axis, making the telescope ring a cross-elevation gimbal.
+This gimbal arrangement is illustrated by the University of Arizona's Polariscope
+shown in Figure 3. One of the chief advantages of this gimbal system is that the
+
+brocddelevation axie is always normal to the axis of the telegcope, and the elevation
+
+axis, nearly so. Thus, the control gain about these two axes Can be adjusted to
+
+nearly the optimum value in spite of a large difference in the longitudinal and
+
+transverse moments of inertia of the instrument. Control signals for these two
+
+axes may readily be derived from a photoelectric guide telescope [ Nidey, 1961]
+mounted collinearly with the instrument.
+
+A single photoelectric guide telescope can produce only two inc
+Thus the control signal for the third gimbal must be derived from
+
+jependent control
+
+signals, however

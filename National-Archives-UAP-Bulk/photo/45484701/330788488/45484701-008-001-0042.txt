@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T05:28:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7798343, "source_ctime_ns": 1793365202440286675, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0042.jpg", "source_mtime_ns": 1785684665000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0042.jpg", "source_sha256": "7c67be82c4cacec02102f3539ef919823f18c00bb5ee8ffdb284dbeedf7900d4"}
+
+===== PAGE 1 =====
+{"alpha_words": 328, "chars": 2176, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| DISPOSITION FORM | |
+
+SECURITY INFORMATION
+
+SUBJECT Comments on Incident of False Targets at Ladd
+AFB January 22 and 23rd,
+
+AAOID Operations Analysis 4 February 1952
+Attn: .Capt. T. J. Flanagan
+
+1. From the evidence presented by the various participants it may be con-
+cluded that the cause existed in the atmosphere and not from interference, As
+Mr, Bangs indicated the possibility is remote that F-] signals reflected from
+Mt. McKinley caused a target indication at F-2, The detection and tracking of
+such spurious targets by the F-94's (x-band radar with high prf compared to
+CPS~6B) plus the fact that they have been so detected at other times and places
+indicates that interference from F-1 was not the cause,
+
+2. Considering that the target provided sufficient return to provide long
+range detection and good tracking by the F-9 but disappeared after the F-94
+flew near the target location would indicate the possibility that a "blob" of
+atmosphere temporarily was in a condition to provide radar reflection and passage
+of the jet dispersed the "blob", It is doubtful that this "blob" could be one
+
+of high moisture since the ground radar measured speeds of 1500 to 2400 knots,
+It might be an fjonized "blob",
+
+3. It is recommended that the following actions be taken,
+
+a. That since this is a phenomenon which is observed periodically,
+pilots and RO's provide reports on each occurrence reporting altitude, initial
+range af detection, quality of tracking, weather and visibility, condition of
+Aurora Borealis, Also, when the opportunity is present it is recommended that
+instead of closing on the target that the pilot fly around the target and determine
+
+_ Whether it appears from all directions around the area, |
+
+See me OS ee
+
+be That the information concerning the subject incident be transmitted
+to laboratories specializing in propagation studies for comment.
+
+Ce That if the phenomenon is found to occur sufficiently often, a
+requirement be established for an investigation to determine the cause,
+
+A CERTIFIED TRUE COPY:
+
+/s/ arvid G, Wedin
+/t/ Arvid G. Wedin
+Operations Analysis
+
+‘
+
+SSS
+Seen a Ns eS a ee a SE As Ra
+
+Declassification Authority: NND 923007

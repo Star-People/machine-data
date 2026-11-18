@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T06:03:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1651097, "source_ctime_ns": 1793388981607058983, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00675.jp2", "source_mtime_ns": 1785808580000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00675.jp2", "source_sha256": "a0be46942f860835f9e9c5c3cb0431b2f6b74a470124bf8c3116e605d5a24a9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 637, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a _f
+
+RADIATION ({ONITOR’S DATA SHEET
+
+NET’s Home Station Larson Air Force Base, Wash. Date 21 Auzust 1964
+Beginning Time of Survey 1618 Hours Ending Time of Survey 1632 Hours
+Approximate Temperature Wind Velocity and Direction
+
+General Type of Terrain (Desert, mountanious, swamp, etc.)
+
+Surface Composition (Clay, bare sand, concrete, etc)
+
+Surface Condition (Wet, dry, dusty, etc)
+
+SURVEY DATA
+
+LOCATION OF POINT TIME BETA READING GAMMA READING ALPHA READING REMARKS
+
+canter 1629 None iione None
+
+Footrorint lilke
+
+-moression -
+
+1 ofeiock from
+
+Lcenter 1032 None None None
+
+Meter’s) Used Ser. No. Survey Data Taken By:
+
+Verified By:

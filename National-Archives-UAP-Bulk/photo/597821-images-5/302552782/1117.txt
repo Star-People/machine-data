@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T05:58:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 970881, "source_ctime_ns": 1793390713354198011, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552782/1117.jp2", "source_mtime_ns": 1785808515000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552782/1117.jp2", "source_sha256": "8ad4aa26f7c5723a2e2d5e8691242227e79862ccc678fe35389221c22d5d81c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 315, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page
+
+This sighting was within 3 miles of University Airport, (Don Scott Field).
+Dublin International on V-12, V-279 Airways is located at this position, Sighting
+appears to be either airways traffic or local treffic at the University Airport.
+Both the Army Guard and Civilians use this airport quite extensively.

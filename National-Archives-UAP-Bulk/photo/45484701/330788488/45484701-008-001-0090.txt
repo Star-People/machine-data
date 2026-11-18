@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T05:36:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9667116, "source_ctime_ns": 1793365229062716974, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0090.jpg", "source_mtime_ns": 1785684668000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0090.jpg", "source_sha256": "36a769d017a562135a947ceeaf792ea23b8bafe5801ef72f0c5e1ab220ae5c12"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 546, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+«J ARTERS
+ALASKAN ALK COMMAND ®
+The Inspector General
+uffice of special investigations
+aPU 942, c/o rUSTMASTER, SEATTLE, WaSHINGTON
+
+AALSI@2 49(4)-21
+
+SUBJMUT: UNUSUaL SIGHTING, 26 FEBRUARY 1951,
+Lill Ab, ALASEM
+POSLTLVa INTLLLIGENCE
+
+birector of Special investigations
+Headquarters USAF
+Washington <5, UD. U.
+
+Forwarded for your information is Report of Investigation regarding
+Subject, file 24-38, dated 7 March 1951.
+
+Wr
+
+inel EDWIN A. HaRTLEY
+iipt of inv Lt Colonel, USaF
+dtd 7 Mar 51 Director
+
+(trip)
+
+Declassification Authority: NND 923007

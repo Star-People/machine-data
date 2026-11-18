@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T06:02:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1463566, "source_ctime_ns": 1793390459660462611, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550111/1224.jp2", "source_mtime_ns": 1785808550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550111/1224.jp2", "source_sha256": "2a7c3a3eedcad6a9b27609eb9a48b9ba14ae904e247cd12800ffeb5e810c0391"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 529, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5 og |
+FTD (TDEW)
+Wright-Patterson AFB, Ohio 45433
+11 May 1966
+
+"Sareneorn, New York. 11787 ©
+
+Dear Mrs.
+
+Reference your recent observation which you reported to
+Suffolk County AFB, New York. I want to personally thank
+you for your careful observation of 22 April 1966. Observa-—
+tions such as yours, are appreciated since they clear up
+‘many unidentified flying object sis sacha
+
+. LT wish to thank you for reporting your observation to the -
+Air Force.
+
+Sincerely, .
+
+< QUINTANILLA, Jr, Major, USAF —
+Chief, Project Blue Book

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T05:22:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6308095, "source_ctime_ns": 1793363145598977791, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0101.jpg", "source_mtime_ns": 1785684742000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0101.jpg", "source_sha256": "a1f1c7ab4775dc367b1210debd211704519f72af74321addd0e358450e09553e"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 773, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5D 2421-146 28 June 1954
+
+SUBJECT: Sighting of Unidentifgied Aerial Object
+on 18 May 1954 overfOceanside, California
+SPECIAL INQUIRY /
+
+Comnander
+
+Air Technical Intelligence Center
+Wright-Patterson Air Force Base
+Ohio
+
+ATTN; ATIAAC
+
+1. Transmitted herewith for your information are two (2) copies
+of Spot Intelligence Report, dated 10 June 1954, from the 18th OSI
+District, Cheli Air Force Depot, Maywood, California.
+
+2. Your attention is invited to the provisions of AFR l24-l,
+
+which prohibit the release of investigative information to unauthor-
+ized persons,
+
+/
+
+1 Incl (in dup) ROBERTS Py’ JOHNSON, JR.
+Spot Intell Rpt, dtd 10 Jun 54 Colonel, USAF
+District Comnander
+
+ec: (Dir OSI w/o incl
+
+KURT K. KUNZE, Capt, USAF
+Historian
+
+Declassification Authority: NND 923007
