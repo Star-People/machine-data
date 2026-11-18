@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T09:34:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5746412, "source_ctime_ns": 1793355812241274863, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0067.jpg", "source_mtime_ns": 1785564531000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0067.jpg", "source_sha256": "49930bef021c240ff912759f7eab49d8419b84eabf37829a1f3575cac2cb3bdc"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 69, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CIP PUBLISHERS MANUAL
+
+CATALOGING
+IN
+
+CONGitso PUBLICATION
+DIVISION

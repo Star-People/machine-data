@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T09:21:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3696635, "source_ctime_ns": 1793371532489392234, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938713/1386.jpg", "source_mtime_ns": 1785689009000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938713/1386.jpg", "source_sha256": "7142c1ea3c02e2fb99ff217a93cb572980a4defac841c76cc87095d0362f313b"}
+
+===== PAGE 1 =====
+{"alpha_words": 415, "chars": 2502, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+Both nights were clear and oold with maximum ground cooling to be
+expected. The Weather Bureau Station at Oak Ridge has low level tempera-
+ture records up to 1500 ft (Wiresonde) for a period of approximately one
+year. The records indicate that on similer nights the inversions start
+at the ground at sundown and reach a depth of 500-600 feet during the
+night. There are no records for the nights of 29 and 30 Novembere Such
+ground inversions are ideal for ducting which has the effect of increase
+ing the number end intensity of permanent echoes and extending the ground
+clutter. :
+
+There are still the following questions to be answered in order to
+differentiate these unusual sightings from others at different radar loca-
+tions on similer nights:
+
+1. What are the “echoes” and why are they so sharp in outline?
+
+2. Why do they appeer at sundown and disappear around 2300 local
+time ?
+
+3. Why do they have a movement of 6 to 8 mph?
+
+4. Why are they concentrated in the Oak Ridge sector of the scope
+and not in all sectors?
+
+Suggested Answers:
+
+1. The targets are thought to be high tension power lines, water
+towers, smoke stacks and similar objects which will give a sharp
+outline.
+
+2. The radiative cooling starts at sundown and after a very shallow
+inversion is formed the beam is bent or refracted just enough
+to bring in the distant ground targets and as the inversion con-
+tinues to increase in depth the beam is further bent so that the
+number of targets increase in a direction closer and closer to
+the station and at the optimum beam binding point the returns
+become so numerous that it appears as a complete blank of the
+scope and at this point we might say the ground clutter area
+has been extended due to the "ducting." After 2500 the inversion
+has become deep enough (400-500 ft) so that the bending of the
+beam will be such that it will again pick up only distant targets.
+If a close check is kept on the scope it is felt that the fade
+out of targets will be similar to the fade in except in the
+opposite sense, i.e., the ground clutter should break up into
+numerous individual targets and then the individual targets
+should disappear, a few at each antenna revolution.
+
+S$. It is proposed that the reported movemént is only an apparent
+movement caused by different targets being picked up by suces-
+sive, relatively slow, revolutions of the radar antenna. This
+would also explain the erratic Ciscothane and speed of movement
+of the targets. NCLASSIFIED
+
+. omamaniartg |

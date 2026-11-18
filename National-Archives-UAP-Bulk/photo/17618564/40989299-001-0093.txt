@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T09:12:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1632130, "source_ctime_ns": 1793356031252208149, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0093.jpg", "source_mtime_ns": 1785564588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0093.jpg", "source_sha256": "db91409010feefafab16877742916bd65eedf6214563ebaebb897d3bbd142deb"}
+
+===== PAGE 1 =====
+{"alpha_words": 347, "chars": 2350, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+21.
+
+given point in a cross-section through the atmosphere was
+misleading.
+
+In order to avoid the suggestion of greater precision than was
+warranted by the charaeter of the information available, it
+
+was decided, during the autumn of 1917 to present the meteorological
+diagnoses in a different form. Since that time, graphs (in lieu
+
+of cross-sections) have been constructed to show the vertical
+distributions of the estimated ranges, that is to say, the estimated
+extremes of temperature and wind on the whole or over a part of
+
+the area involved in each experiment.
+
+Since August, 1950, the principal task has been the preparation
+
+of diagnoses of conditions existing during experiments being con-
+ducted regularly in eastern Colorado, western Nebraska and western
+Kansas by the Industrial Research Institute of the University of
+Denver. The design of these experiments necessitates a particularly
+careful study of the available weather data and the exercise of
+
+a considerable amount of synoptic meteorological judgment in the
+preparation of the wind and temperature diagnoses.
+
+F. Flights Utilizing the Constant Level Balloon System
+
+After completion of the balloon control and telemetering development
+phases of the project, the balloon systems were utilized under
+Contracts AF 19(122)-l5 and AF 28(099)-10, between this University
+and the Air Force Cambridge Research Laboratories. A brief review
+of these projects is as follows:
+
+1. High Altitude Balloon Trajectory Study (Contract AF 19(122)-l5)
+
+Under the terms of this contract the Research Division was
+commissioned to launch and track constant level balloon
+systems in order to study vind conditions at the 200 mb
+level of the atmosphere. Flights were to remain afloat
+until they had traveled approximately 1000 miles.
+
+In order to track the balloon systems, the AM-1 trans-
+mitter was operated at 176 kc, using the radio compass
+from an aircraft to "home in" on the balloon and position
+it at specified time intervals. Information on pressure
+altitude, ballast flow data and balloon, free air and
+transmitter battery pack temperatures was transmitted
+throngh the AM-1 to receivers mounted in the aircraft
+and recorded on brvsh recorders for analysis at New
+
+York University.
+
+A total of 22 flights (two of which crossed the Atlantic
+Ocean and were recovered in Norway and Algeria) were

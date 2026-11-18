@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T09:10:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1189060, "source_ctime_ns": 1793356371497639621, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0015.jpg", "source_mtime_ns": 1785564688000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0015.jpg", "source_sha256": "72653861d9ee18b55f4b02117f8670644cc3b7629a43df952c3688869fb1e191"}
+
+===== PAGE 1 =====
+{"alpha_words": 29, "chars": 232, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8 XIQN3ddv
+
+2 Sls
+
+ALL RESISTORS 1/2 WATT
+
+CONFIDENTIAL
+
+AMPLIFIER +62V
+8} GAK6
+
+CENTRAL STATION GHANNEL AMPLIFIER
+CONFIDENTIAL
+
+This document is part of an unclassified series
+
+ae ay
+. 6
+
+250K 250K IMEG
+
+IMEG
+
+—>
+oe
+
+4
+os
+oe
+
+120K

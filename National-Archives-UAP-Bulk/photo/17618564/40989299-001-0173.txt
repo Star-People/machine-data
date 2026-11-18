@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:05:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1169071, "source_ctime_ns": 1793356037317593265, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0173.jpg", "source_mtime_ns": 1785564589000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0173.jpg", "source_sha256": "50e10ab8c3a3e684f5ccd5a3cf89ee1b96bfbe8773c540deccbfd4a184b54c7c"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 881, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+of the motor-driven units was observed; current practice is
+to provide adequate temperature insulation.
+
+(4) Barograph
+
+As a secondary pressure unit, a clock-driven barograph has been
+included on many flights. The instrument (shown in Figure 33)
+
+Figure 33. Smoked drum barogreph.
+
+will provide up to 40 hours of pressure data if recovered.
+About 70% of all those units flown to date have been recovered.
+The performance specifications are as follows:
+
+(a) Rotation: one revolution every 12 hours
+
+(b) Duration: 36 hours running time
+
+(c) Pressure range: 500 to 5 mb.
+
+(d) Accuracy: £5 mb.
+
+(e) Readability: 1.0 mb. or approximately .22 mm on the drum
+(f) Weight: 1000 grams
+
+(g) Time acouracy: 10%
+
+(h) Temperature compensation between 30°C and -70°C
+
+Instruments have been built by Lange Laboratories to meet
+these requirements (the time accuracy figure is questionable)
+
+_273-

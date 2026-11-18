@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T09:19:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3077643, "source_ctime_ns": 1793376392382988970, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960476/0396.jpg", "source_mtime_ns": 1785696976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960476/0396.jpg", "source_sha256": "13d2fbe76cfe8d52bf6b9c108f2aabd1e9d617ee216142fb1bde424536b67394"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 654, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+A TWX, reference attachment #5 was prepared and forwarded to AFOIN-X on
+7 December 1954.
+{ ,
+
+CONULUSIONS :
+
+Final evaluation, conducted by Dr. Robinson, is contained herein as
+Attachment #6. The mteroite was photographed by ATIRT-1 on 6 December 1954.
+The three photographs are included in this file as Attachment #7. The
+following organizations and individuals received copies of the photo's as
+
+indicated:
+
+1 set contains three photographs.
+Hq USAF - AFOIN-¥ 2 sets
+ATIAE-5 1 set
+Dr. Taylor C&N Lab, WADC 1 set
+Dr. Hynek 2 sets
+Dr. Robinson - 2 sets
+4602nd AISS 2 sets
+
+See other side of this file for additional information pertaining to this
+
+case.

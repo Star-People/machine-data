@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T09:38:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6898615, "source_ctime_ns": 1793384900181481966, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991323/0994.jpg", "source_mtime_ns": 1785747940000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991323/0994.jpg", "source_sha256": "49c7f91f1aad1009c4eae348f3e3b1c18b3cbb93d44665430cc595cf697d9fec"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 499, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJKDDJ 28
+(8) NONE. 3 |
+Be (1) NORMAL OBSERVATION OF SKY CONDITIONS.
+(2) 22 DEGREES HORIZONAL NORTHEAST.
+(3) SAME AS TWO. | C
+(4) NZA
+(5) INSTANTANEOUSLY TO THE NORTHEAST.
+(6) 15 SECONDS
+Ce (£1) GROUND-VISUAL
+(2) NONE
+(3) NAA | (
+De (1) 06/95272
+(2.) NIGHT
+E. 168 DEGREE @@ MINUTES WEST 65 DEGREES 32 MINUTES NORTH (
+
+CAPE PRINCE OF WALES, ALASKAe
+Feo (2) MM ACE 352, CAPE PRINCE OF WALES, ALASKA
+WEATHER OBSERVER/RELI ABLE. 3 (
+Ge (1) FAIR 2
+(2) UNAVAILABLE
+(3) 1209 FEET C
+(4) ONE MILE.

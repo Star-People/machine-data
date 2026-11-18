@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T09:23:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4069140, "source_ctime_ns": 1793377691845092210, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964968/1268.jpg", "source_mtime_ns": 1785696873000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964968/1268.jpg", "source_sha256": "2d5bb814eaed6629a869a5581efa6582359c250192e4c40c5791f9fbcbc7580a"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 309, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ithe kg noe : \
+« bo APPENDICES a eg ube
+t Page 6
+32. In the fotlewing sketch, imagine ch h dine sh Place an “A” h irved
+line eo show how high che odject b heh (skyline) when you fi it. Place.
+a “'B’’ on the Layphioe! fe line to show how high che oblect was above the horizon (skye
+
+line) when you fest saw.

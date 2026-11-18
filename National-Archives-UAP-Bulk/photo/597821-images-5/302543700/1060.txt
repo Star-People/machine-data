@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T10:04:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1003940, "source_ctime_ns": 1793389757045952400, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543700/1060.jp2", "source_mtime_ns": 1785808021000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543700/1060.jp2", "source_sha256": "2fae1dcd059685c87318a0ecffd03d61434879d02156caed1f13e45d9cd98a02"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1230, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND :
+UNITED STATES AIR FORCE i ee
+WRIGHT-PATTERSON AIR FORCE BASE, OHIC ae
+
+TDEW/UFO
+UFO Sighting, Tonopah AFS, Nev
+TDEED
+Request radar analysis on the attached UFO sighting at
+Tonopah AFS, Nevada.
+|
+|
+“HECTOR QUINTANILLA, Jr 1 Atch
+Major, USAF Msg fm 3635 FLYTNGWG,
+Chief, Aerial Phenomena STEAD AFB, NEV, CITE:
+OP 17128 SEPT 65.
+Memo, TDEW/UFO, UFO Sighting, Tonopah AFS, Nev
+lst Ind (TDEED/Mr. Bryant/pkj/74201) 24 Sep 65
+
+TO: TDEW/UFO
+
+The description of the flight path and maneuvers during the 3 hour and
+
+15 minutes the observations were made is insufficient to allow a meaningful
+evaluation to be made. However, the description as ''stoped, started,
+
+and made right hand climbs" infers movements not compatible with aircraft
+targets. A possible explanation for this radar sighting could be a
+so-called "bubble" in the atmosphere which could cause a radar reflection,
+and conceivably might cause a visual observation as well. Such a "bubble"
+would fall in the category of weather phenomenon, as suggested by personnel
+at the Winnemucca radar site.
+
+- VEGA 1 Atch
+Olonel, USAF n/c
+Acting Director
+Electronics Directorate
+Deputy for Technology
+
+and Subsystems

@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T09:41:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7339324, "source_ctime_ns": 1793383599640750079, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987387/1033.jpg", "source_mtime_ns": 1785748025000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987387/1033.jpg", "source_sha256": "05d1fb11b5b4d6621b5885039ffebd6c84a18c224475d918e5b6946d13eecd7a"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 351, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+September 14, 1960
+
+We have not been able to determine the nature of
+
+your recent observation, and are therefore forwarding
+your report tos |
+
+Aly Teehnical Intelligence Center
+3 — Air. Force Base,
+Ohio
+
+Any further correspondence regarding this matter
+should be sent to them)
+
+Thank you for your time and anverest,
+Respectf illy,
+
+ecs ATIC | /
+
+———

@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T09:34:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5996800, "source_ctime_ns": 1793370481869512577, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934684/0543.jpg", "source_mtime_ns": 1785688608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934684/0543.jpg", "source_sha256": "c30668ceb1fe9af4610b332053617bb9fb2dcec431876af8f820245626a4ef7b"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 872, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+IEADQUARTERS 2D ARWORLD DIVISION CINCLASSIFIED
+Office of the AC of S, Ge
+Camp Hood, Texas
+
+AG 52.1 AKDCB 15 June 199
+SUBJECT: Aerial Phenomena
+TO: Commanding General
+
+Fourth Army
+
+Fort San Houston, Texas
+Attn: AC of S, G2
+
+le. References.
+
+a. Ltr and inclosure Hae Fourth Army, AG 452.1 axaDB, April 1919,
+Subject, "Unconventional aircraft."
+
+be Ltr Hqe Fourth army AG 452.1 AKiDB, 22 April 199,
+Subject, "Aerial Phenomena.”
+
+2. Facilities presently available at Camp Hood are deemed inadequate
+to procure additional information regarding certain aerial phenomena sighted
+in this areae
+
+: 3- Request that technical personnel equipped with soientific apparatus
+q be made available for accomplishment of the mission.
+
+FOR THE COMJANDING GENSRALs
+
+/s/ He Re Hurst
+
+Capt, AGD
+Asst Adj Gen
+GR4 :
+Don: A Pp, R
+Din: Sin ae ¥. ARTA
+UNCbASSIFIED
+Y
+
+‘ De sil i Tee eS eve |
+f BY *
