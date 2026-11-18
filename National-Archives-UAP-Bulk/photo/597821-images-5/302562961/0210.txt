@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T03:07:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1466545, "source_ctime_ns": 1793391965649338570, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562961/0210.jp2", "source_mtime_ns": 1785808610000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562961/0210.jp2", "source_sha256": "f11a031fa03e848b732a3502884f8b4502d7e22f6bb88642b6c9fc75019d9bed"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 648, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED a Sg
+
+DEPARTMENT OF THE AIR FORCE
+. STAPF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN: 70208 (13 Mar 67) : Pg 30f4
+
+ITEM CED |
+
+(1) MANISTEE COAST GUARD STATION, MANISTEE MICHIGAN
+
+ITEM CF) , | ie
+
+(1) MILITARY = HOLMES, JAMES €. 331853, USCG | |
+ROSS, DAVIE G 358998, USCG
+
+PAGE 3 RUCIRTHO390 UNCLAS
+
+ITEMCG) |
+
+(1) CLEAR = 15 MILES VISIBILITY
+
+(2) ALTITUDE AZIMUTH SPEED —‘TEMP(C. DEGREES)
+
+5 360 15 PLUS 1 |
+10 290 30. MINUS 4
+13. 290 45 = MINUS 18 =
+20 290 60 MINUS 26
+25 280 70 MINUS 37
+30 280 100 MINUS 57
+35 290 150 MINUS 57
+40 290 #0. 830 MINUS 58 | og
+50 290 80 MINUS 59 |
+(3) CLEAR
+(4) 15 MILES
+
+AFHO 2%. 0-309¢ UNCLASSIFIED | |

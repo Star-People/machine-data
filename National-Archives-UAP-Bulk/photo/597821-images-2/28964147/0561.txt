@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T03:24:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4917745, "source_ctime_ns": 1793377528595691040, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964147/0561.jpg", "source_mtime_ns": 1785696943000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964147/0561.jpg", "source_sha256": "f7112d567cf259ff91320f2cf5bff2cf249f22b2eb96330a5d999057599717cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 723, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+j i
+
+1. DATE 2 LOCATION
+2 Nov 55 Elmira, New York
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+.Local 4 Ground- Vi sual D Ground-Radar
+: GM __ 02/2002 D Air Visual D Air-Intercept Radar
+a PRoTes b. SOURCE
+O Yes
+X) No biviltan (GOC)
+
+7. LENGTH OF OBSERVATION
+
+2 min
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+1 N to 8
+
+_
+
+a:
+
+ooG oaGg goo ooo
+
+CONCLUSIONS
+
+Was Balloon
+Probobly Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircrof?
+Possibly Aircroft
+
+Was Astronomical
+Probobly Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Data for Evaluation
+
+10. BRIEF SUMMARY OF SIGHTING
+
+nor maneuvers.
+
+Circular, glowing, dark red Light, no sound,
+
+11, COMMENTS
+
+Possible A/C
+
+ATIC FORM 329 (REV 26 SEP 52)

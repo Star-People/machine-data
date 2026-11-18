@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T03:13:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2613721, "source_ctime_ns": 1793356183523467995, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0193.jpg", "source_mtime_ns": 1785564630000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0193.jpg", "source_sha256": "de2509b1dcb645becb27d282ee80bce893af69ffb6249d2e732afe346c6fffe7"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1293, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TM‘11-444 TM 11-444
+Pars. 2-3
+SIGNAL CORPS SOUND RANGING SET GR-3-C
+
+8 Dimensions Unit Weight
+2 (in inches) (pounds)
+o 4 Switchboard BD-62-(*) 814 x 8 34 x 323% 274
+Relay Unit BK-9-(*)
+(includes one spare) 4144x8 x 4Y% 6
+Protector AR-8 16 x 12 diam. 13
+Microphone T-21-(*) 16 x 6 diam. 24
+Microphone Shelters BE-66-A 21 diam. 4
+Protector AR-4 7% x 3Y%x 3 1
+Bag (for microphone) BG-97 13x SP xe2 1
+Outpost Unit BE-51 244x34%4x7 6
+Outpost Connecting Box BE-71 444x2x1% 1
+2 Telephones EE-8-(*) 344 x 7% x9 4
+Tool Set TE-6 6 cu. ft. 108
+Tool Equipment TE-37 4x2 diam. 75
+2 Test Set EE-65-(*). (See note) 8 x 10 x6 14
+Test Set 1-56-C ll x 134% x9% 26
+Chest CH-40-(*) 11 « 2514 x 471% 35
+iL Chest CH-44-(*) 1534 x 1444 x 25% 46
+@ Chest CH-45-(*) 134 x 154 x 48% 57
+nN Chest CH-46-(*) 13% x 1214x364 34
+NI Chest CH-47-(*) 16% x 1214 x 38% 37
+JEN Chest CH-48-(*) 17% x 1434 x 4344 53
+Chest BC-5 28% x 18% x 12 35
+Cover (for oscillograph assem-
+= bly) BG-74 18x 18x4 8.5
+
+. |
+i
+
+Note: Test Sets EE-65-A (3F4065A) through EE-65-D (3F-
+4065D) may be issued.
+
+3. PACKING OF MAJOR COMPONENTS.
+
+All units of the equipment can be packed in chests for conven-
+
+Figure 3.—Oscillograph Equipment iE-14-(*)—side view with
+a ient transportation so that ordinary handling will not affect per-
+
+covers removed
+
+9.

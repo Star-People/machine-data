@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T03:10:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1717993, "source_ctime_ns": 1793389236346831494, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538247/00368.jp2", "source_mtime_ns": 1785808362000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538247/00368.jp2", "source_sha256": "301500ceaa7dfa48d9be8067eea79617cb71dc047d541978803f95cc9d45f1ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 174, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Fe 15, Ee EL ELE eae
+
+COMBINATION ACTUATOR SHOCK STRUT
+
+PIN-TYPE UNIVERSAL
+
+TWO-WAY ACTUATOR PISTON
+
+SHOCK STRUT
+
+FIGURE 69
+VARIABLE PIVOT AXIS SYSTEM FOR CONCEPT L-17
+
+101

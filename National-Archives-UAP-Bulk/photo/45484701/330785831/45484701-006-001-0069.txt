@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T03:46:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10067934, "source_ctime_ns": 1793363692160542467, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0069.jpg", "source_mtime_ns": 1785684857000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0069.jpg", "source_sha256": "e8c1f42446667107e0502d18c7fccd39fb78773913d090a7179c8bd6ee4f8b0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 543, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+de In regard to paragraphs 4 and 5 of your letter, no requirement
+exists for reporting information concerning unidentified flying objects
+received through news media, However, it is suggested that newspaper
+clippings pertaining to these incidents be retained in your files for
+possible future reference and in event of investigation being requested
+by the ATIC or thie office.
+
+‘ Th TP perce
+i vile Wags ORE
+
+JAMES #, BREWSTER, JR.
+
+Colonel, USAF
+Executive, Special Investigations
+The Inspector General
+
+Declassification Authority: NND 923007

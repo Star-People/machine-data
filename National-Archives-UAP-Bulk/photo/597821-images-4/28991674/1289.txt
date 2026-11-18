@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T03:37:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7262542, "source_ctime_ns": 1793385037484197413, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991674/1289.jpg", "source_mtime_ns": 1785748521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991674/1289.jpg", "source_sha256": "0fb2f04fa653f7ab99119c62e211801bd15a073d76a3af93a10b4b7e47298a3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 885, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+: QO Was Balloon
+2 Mar 61 3 mi W of St. Albans, West Virging® frebebly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION Pessibly Belleon
+Local 1915 & Ground- Vi sual 0 Ground-Reder 4 Bicbeuay bares
+GMT___O 0015Z O Air Vi sual O Air-Intercept Radar 0 Possibly Aircroft
+5. PHOTOS 6. SOURCE ty Wes dutnenied
+O Yes BEB Probably Astronomical
+CXNo Civilian 0D Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+O Insufficient Dete for Evaluotion
+GO Unknown
+di5 sec 1 S-N
+
+10. BRIEF SUMMARY OF SIGHTING Blue-white, oblong objt |" COMMENTSOD 5+ was probably a meteor
+aprox 100' in length. Aprox 2 mi above sea passing through earth's atmosphere
+level. It maintained position in sky 2 mi as | and in process of burning up. | :
+it passed overhead. Faded into N.
+
+ATIC FORM 329 (REV 26 SEP 52)

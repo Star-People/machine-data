@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T04:02:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1062524, "source_ctime_ns": 1793389365426892955, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539705/00119.jp2", "source_mtime_ns": 1785808059000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539705/00119.jp2", "source_sha256": "841698ebd16ba1f934453f5ab3d28255fe23fd8eef5bd25338bd2b5cb8c3881c"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 376, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NO CASE: Information Only __ Jul 65
+SOURCE: APRO Bulletin, Sep-Oct 65 Between Uruquay and Brazil
+
+Several families travelling by bus be-
+tween Bivera and Vichadero, on the,
+frontier between Uruquay and Brazil,
+saw a luminous object which colors}
+changed from blue to green to orange. |
+It hovered at a height of 500 meters for |
+
+about ten minutes, then left at high)
+speed,

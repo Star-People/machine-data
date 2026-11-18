@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T03:26:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5228898, "source_ctime_ns": 1793355079662459796, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0007.jpg", "source_mtime_ns": 1785564390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0007.jpg", "source_sha256": "1ef3998d05ddc8b91ab9877744c8393dae6e130f35205109476e289310b1b337"}
+
+===== PAGE 1 =====
+{"alpha_words": 182, "chars": 1236, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+unexpected gusts, and drainage from the mountains can amplify a light
+gradient wind.
+
+A survey of flight cancellations by AFGL at Holloman AFB, kept
+spradically over seven years domonstrated the following break down
+by cause:
+
+Cause No Cases
+Surface Winds 65
+¢
+
+Jet Stream les:
+
+Minimum Temperature on
+Climb Out 14
+
++
+Cloud Coverage 76
+The cloud coverage figure includes downwind stations and is also
+biased by requirements for almost clear conditions on certain target
+missions. However, it does indicate that surface winds are not nec-
+
+essarily on over riding factor. Nominating an average of 6 knots with
+
+gusts to 9, at 60 feet (roughly the centroid of the gas bubble during
+
+inflation) as the limiting launch wind, 63% of 128 work days during the
+
+last year were acceptable.
+
+Very generally, White Sands Missile Range is halfway between a
+national surface wind minimum running through the Western New Mexico,
+Arizona, Nevada and California desert regions, and a maximum ranging
+from south central Texas into Kansas.
+
+Jet stream activity is less than average. The region is 400 miles
+west of the national maximum, but receives occasional visitations from
+
+the subtropical jet, which compensates for conspicuous absence in summer.
