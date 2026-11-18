@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T04:59:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1045139, "source_ctime_ns": 1793389393422059983, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540063/00343.jp2", "source_mtime_ns": 1785808203000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540063/00343.jp2", "source_sha256": "ad0b5c105ef4346ea640085bd4b25dabb8b99f9910ce49d210833d827aa55c3a"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1079, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+15 July 1965
+
+)
+
+MEMO TO: TDEW (Major H. Quintanilla)
+
+FROM: TDFCC (Meteor) Wind data received by phone from 3WW
+(Mr. Hayes) in support of a balloon sighted drifting from
+the vicinity of Harrisburg, Pa. to Dayton, Ohio, 12-13 July
+1965.
+
+1. The mean flow for these two days in the region from
+Harrisburg to Dayton at 50,000 to 55,000 feet was from the
+Northwest between 280 degrees and 310 degrees at 30 knots.
+These data were obtained from inspection of analyzed data
+at the 100 millibar pressure level.
+
+2. The mean flow obtained from the next higher pressure
+
+level, 50 millibars, is represented of the 55,000 to 70,000
+layer:
+a. Oni12 July the flow was from the northeast |
+030 degrees at about 10 knots,
+b. On13 July the flow veered to be more oe the
+east, 070 degrees, at 10 knots, |
+3. The levels immediately above this layer would retain
+the same general direction but would have higher speeds. A
+
+speed of 50 knots or better could be maintained from 80-120,000
+
+feet. Generally, the balloon speed along its trajectory is
+
+considerably less than any.one reported speed,

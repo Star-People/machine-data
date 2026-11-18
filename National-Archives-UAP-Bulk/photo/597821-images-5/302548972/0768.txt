@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T05:01:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1438256, "source_ctime_ns": 1793390312276173711, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548972/0768.jp2", "source_mtime_ns": 1785808699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548972/0768.jp2", "source_sha256": "8d63b0c29038b45a25cf34a69343408203c90af285802fefac23ce7c9a1fce13"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 717, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+en
+
+1. ‘DATE - TIME GROUP :
+15 Aprii 66 16/0410-0
+
+‘2. LOCATION
+
+'L,0Z Houston, Texas
+
+3. SOURCE
+
+Civilian
+
+10, CONCLUSION
+
+BALLOON & toot .
+
+4 NUMBER OF OBJECTS
+
+One
+
+a
+
+5. LENGTH OF OBSERVATION
+
+bh. = 20 Minutes
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+All observers viewed a red object slowly.moving to the SW.
+
+6. TYPE OF CBSERVATION
+
+Ground=Visual
+
+Newspaper clippings prove that objects was a balloon launched
+by Rice University students. Object was two weather balloons
+
+7. COURSE
+
+Si
+2%
+
+rigged with railroad flares and an aluminum foil reflector.
+
+8 PHOTOS
+
+O Yes
+
+EXNo
+
+9. PHYSICAL EVIDENCE
+
+0 Yes
+
+BIXNo
+
+FORM ; j
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.
+
+eee Oe oe

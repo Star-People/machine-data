@@ -1,0 +1,284 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T04:46:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12882314, "source_ctime_ns": 1793354443910144015, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0076.jpg", "source_mtime_ns": 1785564285000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0076.jpg", "source_sha256": "05c0c41602ae6c627d43dbb21253c52e8e64bd06c39b0fed72fb84b06d5af21f"}
+
+===== PAGE 1 =====
+{"alpha_words": 1382, "chars": 9449, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i
+
+“Space is the new high ground of
+military strategy. Although most Air
+Force.operations now take place within
+severa, miles of the earth’s surface,
+space is playing an expanding, crucial
+role in fulfilling the Air Force mission.
+Most Air Force satellites operate in the
+ionosphere and magnetosphere, which
+stretches out to about 10 earth radii.
+Particles and radiation from the sun are
+transported through interplanetary
+space tc ihese regions, creating the
+earth’s geomagnetic storms, radiation
+belts, and the northern and southern
+auroras. These effects disrupt Air Force
+early warning, target detection, and
+communications systems. Understand-
+ing the physics of these regions is thus
+critical for the design of future Air
+Force systems and for space weather
+forecasting for Air Force operations.
+
+Programs in space physics at the
+Air Force Geophysics Laboratory are
+at the forefront of our scientific know-
+
+' ledge of the complex domain in which
+
+SEACE AND IONOSPHERIC PHYSICS
+
+the earth is embedded in the solar/
+magnetospheric environment. These
+programs include solar emissions, in-
+terplanetary characteristics, high-lat-
+itude electrical effects, in-flight per-
+formance of advanced microelectronic
+devices, and spacecraft-environmental
+interactions. Active space experi-
+ments—determining the effects of
+chemicals, charged particle beams,
+waves, and high-power radio signals on
+the space environment—are an area of
+growing importance in AFGL’s space
+physics program.
+
+The sun is a thermonuclear reac-
+tor. Clues to its internal workings, such
+as the transfer of energy from the core
+to the surface, the heating of gases to
+more than a million degrees, and the
+creation and destruction of magnetic
+fields, may be found in sunspots, solar
+flares, and surface granules. Our solar
+physicists located at the National Solar
+Observatory, Sacramento Peak, New
+Mexico, observe these effects with elec-
+tro-optical techniques they have devel-
+oped to remove atmospheric blurring
+from ground observations. They can
+produce images five times sharp. ¢ than
+conventional techniques and ~ival those
+produced by space-based telescopes.
+AFGL had an astronaut payload spec-
+jalist co-investigator on NASA’s
+Spacelab 2 mission. He will fly on
+Sunlab, which will perform on-orbit
+solar research.
+
+During magnetospheric substorms,
+large fluxes of energetic particles are in-
+jected into the high-latitude regions.
+These substorms greatly enhance ioni-
+zation in, and poleward of, the auroral
+zones, an area called the ‘‘polar cap.”
+This results in in* sierence to Air Force
+
+radio communications and radar sys-
+tems operating in the arctic regions.
+Substorm prediction is the goal of re-
+search into high-latitude electrical ef-
+fects to improve frequency manage-
+ment and cut signal loss and fading in
+Air Force communications systems.
+
+The results of active space-envi-
+ronment perturbation experiments pro-
+vide essential inputs to surveillance,
+discrimination, and offensive capabili-
+ties for systems being developed for the
+Air Force, the Strategic Defense Initi-
+ative Organization, and other agencies
+of the Department of Defense. Charged
+and neutral particle beam experiments
+have been conducted from rockets and
+satellites to determine beam propaga-
+tion characteristics, as well as the ef-
+fects of beam generation and propaga-
+tion on the host vehicle. Previously
+unknown wave-particle interactions
+have been discovered, and the role of
+particle beam characteristics important
+to the successful generation of environ-
+mental disturbances is being establish-
+ed.
+
+The new microelectronic technolo-
+gies are extremely vulnerable to space
+radiation. Ways must be found to
+shield them without compromising
+their size and weight advantages in
+spaceborne systems. AFGL has de-
+signed space radiation tests of these
+devices on the Combined Release and
+Radiation Effects Satellite.
+
+The Laboratory has developed a
+computer code called POLAR (Poten-
+tial of a Large Object in the Auroral
+Region) to predict the electrical effects
+of the highly charged polar space envi-
+ronment on spacecraft. These effects
+can range from electrical noise in cir-
+cuits to system failure in extreme cases.
+To date, POLAR has been used by
+Lockheed, RCA, and NASA to counter
+charging on a variety of spacecraft. It
+will become a computer-aided design
+tool for future NASA and Strategic
+Defense Initiative systems.
+
+Electrical charging is just one of
+many different spacecraft/environmen-
+tal interactions that can adversely af-
+fect the performance of Air Force sys-
+tems in the harsh environment of space.
+Space physicists at AFGL are devel-
+oping a shuttle-based, free-flying re-
+usable diagnostic platform called Inter-
+actions Measurement Payload for Shut-
+
+tle (IMPS). Sensors to measure space
+plasma, waves, fields, particles, and at-
+mosphere composition make up the di-
+agnostic complement, which is used to
+specify the effects of the environment
+on the design and fabrication of
+developing space technologies and ac-
+tive space experiments.
+
+The magnetosphericsystem is highly
+coupled to the transition region below,
+the ionosphere. Because of the higher
+atmospheric density, a large fraction of
+the solar-magnetospheric energy is ab-
+sorbed in this region, where a signifi-
+cant number of atmospheric atoms and
+molecules are changed into electron-
+ically conducting ions and electrons.
+The ionosphere begins about 50 miles
+above the earth and extends upward
+beyond 300 miles in altitude, gradually
+merging with the magnetosphere. The
+combined action of solar ultraviolet ra-
+diation and atmospheric density
+changes produces a layer of maximum
+ionization at an altitude of about 220
+miles.
+
+The ionosphere modifies the path
+of propagating radio waves. The chem-
+ical composition and electron density
+distribution of the ionosphere are high-
+ly variable, changing according to the
+time of day, season, latitude, and solar
+activity. These changes affect ion-
+ospheric radio propagation. In addi-
+tion, the ionosphere sometimes breaks
+up into an irregular structure, resulting
+in “‘scintillations,’’ or rapid variations
+in radio and radar signal strength.
+
+Ionospheric physics programs at
+AFGL focus on exploiting the advan-
+tages of the ionosphere, for example,
+contributing to the design of the Over-
+the-Horizon Backscatter Radar system,
+and minimizing the effects of scintilla-
+tion and other disruptions to Air Force
+communications and radar systems.
+
+AFGL has obtained the first day-
+time images of the aurora and the ion-
+ospheric airglow from space using ul-
+traviolet techniques. Based on several
+satellite flights, ultraviolet imagers
+and cameras are being developed to
+measure ionospheric emissions on
+flights of the Defense Meteorological
+Satellite. The ultraviolet imager will
+provide the measurements needed for
+making electron density profile maps.
+This remote sensing technique also will
+rely on AFGL theoretical developments
+
+to supply electron density profiles and
+auroral disturbance locations in real
+time to Air Force radar and communi-
+catiuiis systems.
+
+Ultraviolet measurements of mis-
+sile plume signatures are also under-
+tuken for the Strategic Defense Initi-
+ative Organization. These wavelengths
+appear to offer great advantages for
+very high resolution space-based ac-
+quisition, surveillance, and tracking of
+missiles during their launch phase. In
+addition, sensors have been built to
+measure the ultraviolet background
+radiation against which the targets
+must be viewed. Such information is
+essential to the design of future Air
+Force surveillance systems.
+
+To acquire data on the processes
+that generate and structure the global
+ionosphere, AFGL operates an Air-
+borne Ionospheric Observatory, a con-
+verted NKC-'35 tanker equipped for
+research on the ionosphere, the aurora,
+and the precipitation of energetic par-
+ticles. It has flown to research locations
+in Greenland, the South Pacific, Alas-
+ka, and Brazil. Larg. seale ionospheric
+processes occurring in th> auroral oval
+and the polar cap affect high-frequency
+Air Force systems. Medium- and small-
+scale processes that give rise to polar
+cap auroras and ionization patches af-
+fect radio propagation, radar perfor-
+mance, and various military satellite
+communication systems. The goal of
+these efforts is to predict when and
+where ionospheric irregularities will oc-
+cur, so that operational Air Force sys-
+tems may take appropriate action to
+avoid the disruptions or mitigate their
+
+23JUL 1983 (DAY 204 19:17
+A 1493
+
+effects. Modifying the ionospnere to in- —
+duce irregularities arutux.«y and alter
+the capability of propaga. | ..ystemsds
+also being explored.
+
+Studies of the low ., ionosphere
+(the D-Regign) are also veing initiated.
+Signals from very low frequency (VLF}
+transmittersypropagate tO great dis-
+tances in the waveguide formed by the
+earth and lower ionosphere. Since these
+VLF signals continue to propagate rel-
+atively well even when the ionosphere 1s
+severely disturbed, the Air Force relies
+upon them for survivable communica-
+tions. Our ability to predict the range,
+or coverage area, of these VLF systems
+depends upon the accuracy with which
+we can model the conductivity of the
+lower ionosphere. Some recent advan-
+ces in our ability to measure the con-
+ductivity, which involve a combined °
+chemical release and mass spectrometry
+experiment, will enable us to verify the
+model and provide significantly more
+reliable estimates of system perfor-
+mance.

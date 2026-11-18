@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T04:14:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4003718, "source_ctime_ns": 1793359710529605678, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-019-0001.tif", "source_mtime_ns": 1785681500000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-019-0001.tif", "source_sha256": "356dcbba4e20e98c24d88db50e1eeb22968f74dfd4b3ef0ac19964de5fc83f16"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 516, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+L602D AISS UFOB LOG
+
+{REPORT NUMBER DATE/TIME OF SIGHTING RECD ATSOP
+
+| ATS Sa POB@W12 7255 08/01392 May 56 10 May 56
+LOCATION OF SIGHTING LOGGED BY
+Rochester, Indiana S/Sgt DeRudder
+
+(MEANS RECD ACTION TAKEN
+
+2? Msg Uo investigation authori,ed
+
+SENVES UNIT - DATE INVES ASSTGNED NASSIGNED BY
+N/a, N/A N/A
+
+{DATE TR RECD HQ DATE IR APPROVZD DAvk IR TO ATIC
+YA a w/a
+
+{PATE AISOP FORM 5
+IL May 86
+
+ }COMMENTS
+
+| Conenr
+
+CONCLUSIONS
+| OTSERs WAS BEACON
+
+AISOP FORM 7 (2 APR 55)

@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T04:12:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3119559, "source_ctime_ns": 1793376075222859787, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959103/00645.jpg", "source_mtime_ns": 1785696659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959103/00645.jpg", "source_sha256": "b684982d914e65b16ab772ca52eeb87b164a9404a71b7d17777aebc941407098"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 813, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION
+25 July 1954 Lake Eris
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Local 1912 -41 Ground-Vi sual O Ground-Radar
+al a 7
+GMT 26/00122 O Air Visual OD Air-Intercept Radar
+S. PHOTOS 6. SOURCE
+O Yes
+TKNo Civilian
+
+s
+
+LENGTH OF OBSERVATION
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+a
+
+008 o0o0 opo0 ooD
+
+_~
+NO
+.
+
+CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other UNIDENTIFIED
+Insufficient Data for Evaluation
+Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Cylindrical, 20; long and 20" diameter.
+, Object was traveling et high rate of
+speed on water at lake Brie. Object was black.
+
+11, COMMENTS
+
+Investigation proved negative,
+
+ATIC FORM 329 (REV 26 SEP 52)

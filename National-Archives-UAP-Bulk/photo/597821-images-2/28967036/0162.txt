@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T04:25:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5797180, "source_ctime_ns": 1793378173249164259, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967036/0162.jpg", "source_mtime_ns": 1785696911000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967036/0162.jpg", "source_sha256": "7069f28257867e34751feb7ceea7d76d23ef5eab6012e92e2973a87ed77894fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 303, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+No Case (Information Only) 17 August 1956
+Middlebury, Connecticut
+
+1956ynug017-llpn-lilddlebury,Conne-A pb ot
+-A Dig,bright,flashing red 1!
+in Western sky about 15 seconds,disappeared about notes
+_ ty poe lower on Horizon & off to —_ for 5 sede |
+nen it disappeared for goods (NOT a plane-light)... ae

@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T04:59:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1134601, "source_ctime_ns": 1793356361039507407, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0011.jpg", "source_mtime_ns": 1785564685000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0011.jpg", "source_sha256": "ed46e46ba44c2d2b2fe6d4c50f1fc876fce9b6addbb68cbd88f23ac12ec5776c"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1437, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+IV. DEVELOPMENT Of TEST PROGRAM
+
+In accordance with the directive of 16 September 1947, to utilize to
+the maximum existing personnel and facilities, inquiry was made of all
+departments of the National Military Establishment, and of various other
+agencies of the government, as to the extent to which each agency was
+prepared to participate in FITZWILLIAM (Secret). Through a series of
+conferonces held under the sponsorship of the Special Weapons Group,
+DCS/Materiel, Headquarters, USAF, it was determined that contributions
+could be made as follows:
+
+Scientific
+
+Field Department onc ; Type of Contribution
+Nuclear 1. Air Force Air Materiel Command Furnish aircraft filter
+
+units, ground dust
+
+sampling units, jloniza-
+tion chambers and wrap-
+around Geiger counters.
+
+2e Air Force Alr Weather Service (a) Operate ground
+radioactivity measure-
+ment instruments; :
+(b) Operate aircraft
+filter detection
+systaum.
+
+3e Arny Signal Corps Furnish ground dust
+Sampling units and
+wrap-around counters.
+
+he Navy Naval Research Lab. (a) Furnish ground
+dust sampling units
+and radioloyvical
+counters, and opcrate
+certain ground radio-
+logical stations.
+(b) Test balloonborne
+radiological counter
+methods.
+
+Acoustic 5e Air Force Air Materlol Command Test balloonborme
+acoustic detection
+instrument.
+
+6- Amny Siynal Corps Test ground acoustic
+-f dutection instrununts
+in a sixestation nut=
+~~ work covering northern
+hemlsphore.
+
+D4
+i
+a
+"r
+ce
+
+regen

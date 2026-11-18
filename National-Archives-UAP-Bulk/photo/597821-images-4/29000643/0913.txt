@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T04:18:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4594946, "source_ctime_ns": 1793388266152473991, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000643/0913.jpg", "source_mtime_ns": 1785747903000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000643/0913.jpg", "source_sha256": "570fdf2c3ce04a956f04be6cae920b9734cf33d823463f487c874aa1db8e8e66"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 705, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+9
+
+AF IN: 35476 (16 Apr 63) Page ? of
+
+mw
+
+——RURPAVUINCPAC CAMP” H M”SHITH HAWAII coe eacrti
+RUHAFS/C INCUSARPAC FT SHADTER HAWAII
+
+RUHPB/C INCPACFLT PEARL HARBOR HAWAII
+RUAUAZ/COMUSJAPAN FUCHU AS JAPAN/
+RUAMCR/COMUSKOREA SEOUL KOREA
+RUAGFL/COMUSTDC TAIPEI TAIWAN
+RUCSBR/CINCSAC OFFUTT AFB NEBR
+BT
+~UNCLAS/HADOC-D 2712
+CURVIS/ USNS COSSATOT TA 77 REPORTS POSITION 24 DEGREES 43 MIN NORTK
+166 DEGCEES 22 MIN 2. AT 169632. SIGHTED GLOWINGOBJECT 28 DEGREES ABOVE
+HORIZON, TRAVELING TO THE EAST VERY FAST. RESEMBLED
+BRIGHT STAR. NO EVALUATION.
+_=&Br
+16/8918Z APR RUHLKH
+‘NOTE: ADVANCE COPY TO: XOPX, NIN & DIA
+
+ee ee od ee ee

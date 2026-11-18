@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T04:29:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6660954, "source_ctime_ns": 1793387143985489800, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998248/0300.jpg", "source_mtime_ns": 1785748560000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998248/0300.jpg", "source_sha256": "0235089bef047b657df33604197f7f20400a1b0dc85e85b75f48ad74e9b5b503"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 758, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/& July
+
+October 5, 1962
+
+Dear Mr <a
+
+Your letter of July 16, 1962 to
+Cape Canaveral has been referred to this
+office. I regret the delay, however your
+letter was directed to several offices
+before finally reaching the office of
+orimary interest.
+
+Our records indicate that Echo I,
+which is still in orbit, would have been
+north of Madrid moving in a southeasterly
+direction at 17 minutes after midnight on
+13 July, 1962. It should have been at an
+elevation of 82 degrees, which would put it
+in the line of sight you have indicated
+with reference to Ursae Majoris.
+
+May we express our appreciation
+for your interest and promptness in reporting
+your sighting.
+
+Sincerely,
+
+we J. LOOKADOO
+
+Lt. Colonel, USAF
+Public Information Div
+Ooffiee of Information
+
+6 Z

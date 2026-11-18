@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T04:32:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7043387, "source_ctime_ns": 1793361715058948558, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0111.jpg", "source_mtime_ns": 1785684760000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0111.jpg", "source_sha256": "1836cc9204c93ad2c9e5f17cb0e0cd5c607e7c5b27e1ba8dae3436bec5d44ed0"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 268, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+On 19 May 1949, Fourth Army furnished copy of plan for report-
+ing phenomena which was issued ], May 191,9, Sightings using
+procedures outlined in new reporting plan were made on 6, 7,
+and $ May 199, and are reported in detail.
+
+Declassification Authority: NND 923007
