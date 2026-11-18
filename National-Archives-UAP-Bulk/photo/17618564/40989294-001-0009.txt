@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T11:07:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1436220, "source_ctime_ns": 1793355959221730928, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0009.jpg", "source_mtime_ns": 1785564569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0009.jpg", "source_sha256": "bf37b65d498b3891c6b9feec67fdea425d1d86380bc3bcf16f920e384ca19988"}
+
+===== PAGE 1 =====
+{"alpha_words": 273, "chars": 1943, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+of the Aeromedical Field Laboratory, but mainly in the areas
+of biodynamics for which the laboratory was uniquely equipped
+by virtue of test facilities located at Holloman, and to the
+extent that funds and manpower were available after meeting
+the requirements of still higher-priority functions. The
+latter included testing of personal equipment, capsule and
+escape systems, and the like for "biological adequacy;" and
+
+a broad range of operational support, including biological
+specimen support, for the nation's biosatellite program.” The
+laboratory acquired a considerably longer mission statement
+which did not once use the word "research" and in general
+
+stressed technical geryiceai
+
+Develops improved techniques for human fac-
+tors track testing procedures and instrumentation.
+Is responsible for determining human physiological
+tolerances to abrupt accelerations. Develops
+methods and procedures for testing biosatellite
+capsules and components. Maintains adequately
+conditioned series of biological specimens for all
+track, chamber, and biosatellite test operations.
+Provides pre- and post-test clinical evaluation
+of test specimens. Coordinates and directs the
+biosatellite test programs.
+
+In due course, the over-all mission of the Air Force
+Missile Development Center was also revised by higher head-=
+
+quarters to include the statements
+
+Maintain an aeromedical field laboratory suitable
+for research and testing in biodynamics, bio-=
+astronautics and related fields, and conduct
+tests in these areas. Provide prelaunch assis~
+tance, recovery and post flight examination and
+
+* To be sure, the reference to "determining human physio-
+logical tolerances" could be taken in practice to mean
+research, while the test and vivarium functions cited in
+
+the mission statement would normally have research data as
+their end objective even if the ultimate research responsi-~
+bility were vested in some other military or civilian agency.

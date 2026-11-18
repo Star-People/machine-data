@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T11:27:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5504562, "source_ctime_ns": 1793354342314012915, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989196-001-0023.jpg", "source_mtime_ns": 1785564268000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989196-001-0023.jpg", "source_sha256": "06487d415cdb8f2957f7c75642c586a20f84969e1a11c0ba33a795147556c565"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 88, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SAAaaaREAheemaEtaIaeeE arcane ace caeeee eee a ricnt tachi tiene tortures)
+
+i \ 3 r a a

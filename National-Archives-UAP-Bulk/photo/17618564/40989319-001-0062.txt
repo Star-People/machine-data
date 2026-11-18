@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T11:08:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1473254, "source_ctime_ns": 1793356364931175357, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0062.jpg", "source_mtime_ns": 1785564686000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0062.jpg", "source_sha256": "09589329a2415a728fe8a04bc76bb3d1c19068322a039f117b472dcbb3f2bc3d"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 71, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Figure 4
+
+View Showing Internal Construction of Microphone-Transmitter

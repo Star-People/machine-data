@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T11:33:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6591443, "source_ctime_ns": 1793377258761388561, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963084/1125.jpg", "source_mtime_ns": 1785696673000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963084/1125.jpg", "source_sha256": "99a49086c9773a1d926e23bc0e3b04b11b6b96aa9793983536da2ca8a19a1f50"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 630, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEARBORN OBSERVATORY
+NORTHWESTERN UNIVERSITY
+
+EVANSTON, ILLINOIS 6020!
+
+10 Mareh 1965
+
+Major Hector Quintanilia
+Foreign Technology Division
+Box 9494
+
+Wright-Patterson Air Force Base
+Tayton, Onio
+
+hear Majors
+
+Snelosed is a letter which Dr. Hynek received quite some time ago, but
+wnieh I have just resurrected from the mound on the desk. Ona note
+attacned to the letter, Dr. Hynek suggests tnat it might have been a
+weather balloon, but he can come to no conclusions as duration, apparent
+size, ete. not given.
+
+Also enclosed is a copy of the letter which I sent to Mrs, qual
+
+Happy identifying!
+
+Sincerely,
+
+Ta
+
+Kathy #oss
+ae |

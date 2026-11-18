@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T11:57:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 640079, "source_ctime_ns": 1793355854799513099, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0144.jpg", "source_mtime_ns": 1785564542000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0144.jpg", "source_sha256": "be91f88b37db7e80e2640056d0c6330898642ecc7fb6fd53d8886b5b30e06c33"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 680, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFB
+AFCRC
+AFMDC
+ARCS
+ARDC
+Cmdr.
+pes/
+pes/o
+DD
+
+DF
+
+Ha.
+HADC
+
+HAFB
+
+HIV
+
+HVAR
+Incl,
+Ind. p-
+Ltr.
+
+NCOIC
+
+GLOSSARY
+
+Air Force Base
+
+Air Force Cambridge Research Center
+
+Air Force Missile Development Center
+
+Air Resupply and Communication Service
+
+Air Research and Development Command
+
+Commander
+
+Deputy Chief of Staff for
+
+Deputy Chief of Staff, Operations
+
+Department of Defense
+
+Disposition Form
+
+Fiscal Year
+
+Geceertene
+
+Holloman Air Development Center (re-
+designated Air Force Missile
+Development Center as of 1 September
+1957)
+
+Holloman Air Force Base
+
+Hypersonic Test Vehicle
+
+High-velocity aircraft rocket
+
+Inclosure
+
+Indorsement
+
+Letter
+
+Noncommissioned Officer in Charge

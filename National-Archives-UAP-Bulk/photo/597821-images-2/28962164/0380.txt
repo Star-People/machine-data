@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T11:32:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6320447, "source_ctime_ns": 1793376873435682590, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962164/0380.jpg", "source_mtime_ns": 1785696432000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962164/0380.jpg", "source_sha256": "46d226b4bd831fa1ee16a5d62385d1f0f3e67ae4fad00d8838615c49f2002393"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 119, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SPecimen
+
+Pray St CAL
+or
+AcExAWwDRIA, J [VES aT
+SIGHT Inge
+fe 6°
+ve Fo. Der. LMmMEedDIATELY
+
+FOL Low In& eas rec oes.
