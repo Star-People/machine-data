@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:38:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9090524, "source_ctime_ns": 1793383295940112709, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986670/0400.jpg", "source_mtime_ns": 1785748059000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986670/0400.jpg", "source_sha256": "87522eb02a66d56ea872ffb1640aa4b3310fe74d17251932a610fca3a661290e"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 146, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+_——™
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION y) /
+
+INCOMING
+20737: (20 Apr 60). ae le aie
+
+UNCLASSIFIED —
+
+ee
+
+DTG +: 2004262 APR 60

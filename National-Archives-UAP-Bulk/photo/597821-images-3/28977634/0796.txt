@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:13:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3636966, "source_ctime_ns": 1793380665985402519, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977634/0796.jpg", "source_mtime_ns": 1785700851000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977634/0796.jpg", "source_sha256": "425e6e6f182228f78a660ef654f8e9c3b6be10bebe28325d74f315a5e4dbac52"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 708, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECO
+
+RD CARD
+
+1, DATE
+
+1h ‘Vou ewe ore
+
+2. LOZATION
+
+re |
+
+3: DATE-TIME GROUP
+
+4. TYPE OF OBSERVATION
+
+- CONCLUSIONS
+
+O Was Balloon
+O Probably Balloon
+0 Possibly Balloon
+
+; QO Was Aircraft
+< , bs ; o Ra
+Local Cl Ground- Vi sual Ground-Redor Geierababls-Alreratt
+ne (YT 1 (i977 abl. H
+OMT 02/021524 0 Air Visval O Air-Intercept Radar QO Possibly Aircraft
+3. PHOTO 6. SOURCE G Was Astronomical i@creor
+QO Yes QO Prabably Astronomical
+No Civilian QO Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE (O° Other
+’ OQ Insoufficient Data for Evaluation
+‘ é O Unknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+fells 63 os r{o} ele th itn
+
+ATIC FORM 229 (REV 25 SEP 52)

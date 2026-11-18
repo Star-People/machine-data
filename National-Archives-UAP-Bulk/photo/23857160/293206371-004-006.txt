@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:17:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4156870, "source_ctime_ns": 1793361451221072745, "source_file": "National-Archives-UAP-Bulk/photo/23857160/293206371-004-006.jpg", "source_mtime_ns": 1785565353000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857160/293206371-004-006.jpg", "source_sha256": "d7c0252b6efd84cb1feebdc04705041fba2b2117ab106caf7440ec160905a8c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 14, "chars": 101, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+K UMS, GOLL~1
+7 DSul \{Ss
+
+RETURN TO
+
+USAF Historical Archives
+ASI(ASHAF-A)
+
+Maxwell AFB, Ala 36112

@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:14:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3750367, "source_ctime_ns": 1793380617872323866, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0466.jpg", "source_mtime_ns": 1785701060000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0466.jpg", "source_sha256": "348d8ae4fac8fc336e0264fc588366f119acc1ea01efad7449238bc5913213e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 309, "chars": 2119, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Predictions for Photographic Satellite
+Tracking Stations -- APO Ephemeris 4
+
+by
+
+Charles H. Moore* and Don’ Ac. Lautman**
+
+hemeris 4 is the computer program for predic
+
+ipl ting
+satellite positions for the Baker-Nunn camera Etat ons
+
+The present formulation- utilizes the currently best set
+of elements available, accounting for the drag by means
+of 2 polynomial in the mean motion, and including only
+Secular perturbations. The prediction subroutine is a
+
+mum erical integration which includes the effects of oblate-
+12@8S and drag exactly. In the case of satellites whicti
+
+are high Soouee so that drag can be neglected, a complete A
+
+first-order perturbation theory including periodic per-
+
+3
+
+4
+
+turba tions | can be used. ‘
+
+9
+
+The basic requirements demanded of predictions in- m
+
+tended for camera stations are: aL predictions must be EA
+limited to observable passes and (2 predictions must b
+
+made for the point of culmination. The optimum approach ‘
+would be to integrate the equation of motion for the sa-
+
+fae tellite, obtaining these predictions, as well as other data, rs
+
+ve method
+
+directly. However, a quicker, though less accura :
+is discussed here, which has been developed in an attempt
+to obtain predictions as soon as possible.
+This program for the IBM EDPM 704 employs the orbital 3
+elements of the satellite and transforms them by graphical 4
+(trigonometric) means into specific predictions. The ac- :
+suracy of the predictions is well within the accuracy of ;
+the orbital elements employed, and is probably the best that %
+can be gotten without See ae more sopnisticated methods, ia
+and is fitted to the requirements of the Baker-Nunn tracking
+cameras. &
+The input to the computer consists basically of the
+coordinates of the stations (latitude, longitude and height 4
+above sea level) and the or rbital elements. The latter in- ;
+clude the time at which the satellite is at the ascending $
+:
+. Physical Science Aide, Optical Satellite Tracking Program,
+7 Smithsonian Astrophysical Cboservatory
+tf * Mathematician, Optical Satellite Tracking Program, Smith-
+ia Sonian Astrophysical Observatory

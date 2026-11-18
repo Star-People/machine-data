@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:23:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6046051, "source_ctime_ns": 1793377305779290959, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963218/1230.jpg", "source_mtime_ns": 1785696465000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963218/1230.jpg", "source_sha256": "6161c12896be09e816ea44406109066798524cbc9e78ea26cdd7f7490705bef7"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 751, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ation 1 oleae as ee OS LUCA ea oe (2 ee ee oie et
+
+ee eye es
+
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS |
+. 0D Was Balloon
+18 Aug 55 Alhambra, Calif O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION QO Possibly Belleon
+OG Was Aircraft
+Local Et Ground- Vi sual O Ground-Radar C2 Probably Aircraft
+out_19/03302 0 Air Visual © Air-Intercept Rader |7 Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes QO Probably Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE Other
+2 min l BX sufficient Deta for Evaluation
+
+O Unknown
+
+10. BRIE# SUMMARY OF SIGHTING
+
+Round, red - straight up headed Hast and faded
+
+away.
+
+11. COMMENTS
+
+Insufficient data for evaluation.
+
+ATIC FORM 329 (REV 26 SEP 52)

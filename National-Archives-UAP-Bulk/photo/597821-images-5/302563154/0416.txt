@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:10:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1787875, "source_ctime_ns": 1793391989629774837, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563154/0416.jp2", "source_mtime_ns": 1785808011000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563154/0416.jp2", "source_sha256": "a1642fe8d69ad07be1390ab1e4ba3cd7a2a133c48a0fa9ea11707d4f15b0eb0e"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 557, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ce UNCLASSIFIED
+
+AFIN: 29292 pg 20f 4
+
+(5) NONE
+
+(6) NOE
+
+(7) NONE
+
+PAGE 2 RUW.OBA0689 UNCLAS
+
+(8) NOE
+
+(9) RED DRIPPING LIKE FIRE
+
+B DESCRIPTION OF COURSE OF OB.ECT
+
+(1) HAPPENED TO SEE
+
+(2) 45 DEGREES NW
+
+(3) 45 DEGREES SE
+
+(4) OBJECT PROCEEDED FROM 45 DEGREES IN NW TO 60 DEGREES AT HIGHEST PT,
+THENCE PROCEEDED TO SE AT 45 DEGREES DISAPPEARED,
+(5) FADED INTO DISTANCE
+
+(6) h-5 MINITES
+
+C. MANNER OF OBSERVATION
+
+(1) SROUND TO AIR
+
+(2) VISUAL ONLY
+
+(3) NA
+
+R TIME AND DATE OF SIGHTING
+
+(1) 16/04007-15/2100MST
+
+AFHOQ ines 0-309C UNCLASSIFIED
+
+-
+‘
+‘
+a 2

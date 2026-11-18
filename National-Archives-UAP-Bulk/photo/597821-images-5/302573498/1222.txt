@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T03:02:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 798062, "source_ctime_ns": 1793393064474918551, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302573498/1222.jp2", "source_mtime_ns": 1785808240000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302573498/1222.jp2", "source_sha256": "8655ecb5d17d51e1d6b3aae8c19cf80cbf9b3aee7f7aa79987fe97a0d84d1b96"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 105, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee ee eee eee purr cmadad DBC CTH na nie w mee ARETE RA NASER NAN EN a NN NRT ET INE wi a ao
+
+Peak tees

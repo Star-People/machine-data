@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:43:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15545268, "source_ctime_ns": 1793357826184333753, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0007.tif", "source_mtime_ns": 1785564979000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0007.tif", "source_sha256": "d121d991ab0c7542db81ed9d4e939fcf981aa84565263325428b5e5171be99f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 857, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+912TH AIRCRAFT CONTROL AND WARNING SQUADRON
+Ramore, Ontario, Canada
+
+18 August 1953
+STAT ER BN
+
+At about 2230 hours, 16 August 1953, I was called to view a certain
+object in the sky. My first thought was that it was the moon, but I changed
+my mind after viewing it for a few seconds. The object was stationary for
+a minute and disappeared for a few seconds. Then it reappeared for 30 or
+4O seconds and disappeared. The (Molject was bright orange in color and siiped
+like a piece of pie cut. The sky condition was clear. I saw no clouds
+and no stars. The distance I estimated was around 3 to 5 miles and low,
+
+Pd PULLS (i/o Se
+
+MICHAEL T. PILCH
+AF 13 311 689
+A/1c, 912th AC&W Sqaxdron
+
+Subscribed and sworn to before me this 18th day of August 1953.
+
+Abnrott/ byl ferg
+HAROLD E. SCLBERG
+CWO, USAF
+Adjutant
+
+Declassification Authority: NND 57565

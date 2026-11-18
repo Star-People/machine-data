@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:41:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11769478, "source_ctime_ns": 1793358959906019520, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-082-0001.tif", "source_mtime_ns": 1785681278000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-082-0001.tif", "source_sha256": "bd2466be61c4cecab2eb04f41b209010e2aafbead1a856312f5f87af1678debf"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 679, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+)602D AISS UFOB LOG —
+
+Council Bluffs, Nebraska
+
+| REPORT NO. 1 RECD EQ L602D
+_ | ATSS-0FOB-390-55 08/132 Nov 55 7 Nov 55
+. LOCATION OF SIGEPING
+
+LOGGED BY
+
+S/Sgt DeRudder
+
+ACTION
+
+. TT Msg No investigation authorized
+} INVES UNIT DATE INVES ASSIGNED ASSIGNING OFFICER
+N/A T/A N/A
+
+DATE IR RECD HQ
+
+: N/A
+
+DATE IR APPROVED
+
+H/A
+
+DATE IR TO ATIC
+
+N/A
+
+DATE OF FORM 5
+
+“7 Nev 95
+
+: COMMENTS
+
+_| Due to the sound of the object (like a jet) and the speed of the
+| object, this headquarters is of the opinion that the sighting was
+eavsed (possibly) by an aircraft, probably of jet tyne.
+
+CONCLUSIONS
+
+POSSIBLY ATRCRAFT
+
+AISOP FORM 7 (2 APR 55)

@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:18:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4422888, "source_ctime_ns": 1793382381945892437, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983565/0454.jpg", "source_mtime_ns": 1785700705000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983565/0454.jpg", "source_sha256": "4bcc92ed346402cc8077917653a382d6d526ece2325d213ae1416bea8622ccb5"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 609, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RECORD CARD
+
+PROJECT 10073
+
+Local JP RUE roe cated Ne es oa Ral ea
+—-— GMT.
+5. PHOTOS
+ti BES 2
+7. LENGTH OF OBSERVATION
+
+10, BRIEF SUMMARY OF SIGHTING
+
+2. LOCATION
+
+_ [4 TYPE OF OBSERVATION.
+
+0 Ground- Vi sual 0 Ground-Radar
+
+0 Air Visual
+
+“| 6. SOURCE
+
+|8. NUMBER OF O3JECTS | 9. CouRSE
+
+11. COMMENTS
+
+t
+
+O Air-Intercept Radar ||
+
+12. CONCLUSIONS
+Was Balloon
+
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Wes Astronomical
+
+Probably Astronomical
+Possibly Astronomical
+
+Ole raceme een ke cilare 3
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 25 SEP $2)

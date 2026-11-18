@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:29:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7419817, "source_ctime_ns": 1793385082201843784, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991778/1384.jpg", "source_mtime_ns": 1785748280000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991778/1384.jpg", "source_sha256": "b3ee1d99cefe900a2fdcbc9a6cb94cea9a9a7dd7b3e242e7a7814d6f63b02879"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1023, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a , ees DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISiON
+OPdIn MESSAGS
+
+ap oe (4a Mar 61 ;
+ACTION: nt Aa sien (POO MING
+INFO : SAFS-3, 00P-2, OOP-CP-1, DSD-4 (25)
+
+NNNNSMD A 863
+ZCHQA9B5ZCQJA5 10
+
+PP RJEZHQ
+
+ZNR ZOV ZFH 1
+
+ZCSUB842ZCSBAI52. CN
+
+PP RJWZBH RJWFAL RJEDSQ RJEMVB RJEZBH RJEZHQ RBWPPG
+
+DE RJWZSBA 5
+
+ZNR
+
+P R 9902002
+
+FM 552 AEW C WING MCCLELLAN AFB CALIF
+
+TO RJWFAL/AIR DEFENSE COMMAND ENT AFB COLO
+
+RJWZSB/28 AIR DIV HAMILTON AFB CALIF
+
+RJEDSQ/ATIC WRIGHT PATTERSON AFB OHIO
+
+RJEZHQ/COFS WASHINGTON DC
+
+RJEZHQ/OSAF WASHINGTON DC
+
+RJEDSQ/COSMATIC WRIGHT PATTERSON AFB OHIO
+
+RJEZBH/ PROJECT SPACE TRACK L G HANSCOM FLD BEDFORD MASS
+RJWFAL/CINCNORAD ENT AFB COLO
+
+RBWPPG/COMWESTSEAFRON SAN FRANCISCO CALIF
+
+RJEMVB/CANAIRDEF ST HUBERT MONTREAL CAN i
+INFO RJWZBH/SAN FRANCISCO AIR DEFENSE SECTOR BEALE AFB CALIF
+AF GRNC
+
+BT
+
+UNCLASSIFIED/520IN 0448.
+FOR COFS PASS TO AFCIN AND AFCIN=1B1, FOR OSAF PASS TO SAFIS
+
+FOR COSMATIC PASS TO AFCIN-4A. THE FOLLOWING MOON DUST
+
+REPORT IS SUBMITTED IN AFR 200-2 FORMAT, 0

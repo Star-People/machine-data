@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:38:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9397883, "source_ctime_ns": 1793362227055764792, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0276.jpg", "source_mtime_ns": 1785684729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0276.jpg", "source_sha256": "62ae4f36bffd8b1fba096824ca280eaade289f4a5a40325272d6a637c7f2d17f"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1365, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OFFICE OF THE BASE OPERATIONS OFFICER
+5415th Technical Training Wing
+and
+Lowry Air Force Base
+Denver, Colorado BY/vph
+
+25 August 1949
+
+SUBJECT: Report of Aircraft
+
+TOs Voumanding General
+Lowry Air Foree Base
+Denver, Colorade
+ATTN: Wing Intelligence Officer
+
+1. The following report of aircraft other than those based ‘ Lowry
+Air Poree Base which were flying in the vicinity of Denver between the
+hours of 1500 MST and 1730 M3T (exact time not determined) 20 August 1949
+was obtained from Mr. Ted Holmes, CAA Controller at Stapleton Airport:
+
+United 617 Continental 66 Cessna 79V ‘estern 8]
+106 26 S727V
+101 4% 22A
+629 23 §3293
+618 286 914
+607 226 71V
+27
+21V
+
+Beach 334 Air Foree 208 Navion 92x ®liok 933
+668 O7K
+Stingon 917C Loekheed 501 Piper O79
+
+2. The following is @ report of pilots flying scheduled flights in
+the vicinity of Denver between the naar of 1500 MST and 1730 MS"
+29 August 1949 im aireraft based at Lowry Air Force Base:
+
+Cunniff, D. D. lst Lt TehxoS 942 Student
+Merz, G. CG. Ma jor Pu G eS 942 Reserve
+Christensen, K, L. lst Lt T+6=2263 Yermanent Party
+Van Allen, B. L. Lt Gol TG—2263 Reserve
+thitaker, N. Colonel Conde 78514 University
+Student
+Hammon, C. C. Captain Gu47~8314 Student
+Wileox, F. H. Captain Gud 7 S223 University
+i Student
+Hanlen, J. W Captain Jud, 78223 University
+Student
+
+nebeRPEA RENCE
+
+Declassification Authority: NND 923007

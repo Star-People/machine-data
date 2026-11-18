@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:45:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18975248, "source_ctime_ns": 1793358005216289009, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1770-594314-0003.tif", "source_mtime_ns": 1785565010000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1770-594314-0003.tif", "source_sha256": "83a9f3e14a0531311991e20fcd562b2b9496d83b8cb4996c543640cabb4807be"}
+
+===== PAGE 1 =====
+{"alpha_words": 202, "chars": 1399, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Report of Radar sighting of unidentified object by SCR-584 Rawin
+Crew, 0305 13 October 1953.
+
+ce. Ceiling. Unlimited.
+
+d. Visibility. 12 MM
+
+@. Cloud Cover. None
+
+f. Thunderstorms in Area. None.
+
+8. Any other unusual activity or condition Meteorological,
+Astronomical or otherwise which might account for sighting. N.
+
+9e Existance of physical evidence of sighting such as Mate-
+¥ials and photographs, N.
+
+10. Interception of identification action taken N/A
+
+ll. Location of Air Traffic in area at time of sighting.
+No local Air Traffic. No aircraft using R.B.S. site.
+
+12. Position, title and comments of preparing officer. Navi~
+gator, investigating officer. after interviewing observers of sigh-
+ting, questioning rader technicians and operators of the RBS site
+and base radar operators, it has been established that sightings
+Similar to these have been made many times during recent years. These
+sightings are made often at the RBS site and they have called in ram
+dar experts and none can definitely find a cause for this apparent
+appearance of objects on the radar scopes. It is the conclusion of
+radar experts that this is a phenomena of microwaves transmission and
+reception, probable aided by meteorological md astronomical activity.
+
+ist It, USAF
+Investigating Officer
+
+TADS ALT CME SRE
+
+_UsAF opm mo pe
+By \WO. Ge" AM BS 23;
+
+PETC"
+
+resem scsmmate,
+
+Declassification Authority: NND 57565

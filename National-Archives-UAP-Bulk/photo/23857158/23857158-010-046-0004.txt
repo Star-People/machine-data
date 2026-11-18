@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:11:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2252704, "source_ctime_ns": 1793359766222790864, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-046-0004.tif", "source_mtime_ns": 1785681514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-046-0004.tif", "source_sha256": "4f74b5778fbfe5295efc9ac6f675a4e296b0e8da7c7579b59a14037bdf871d0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 615, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+' 1 November 1956
+
+Odebolt ir
+Towa . :
+
+Thank you for your letter of 23 October 1956 returning the com
+pleted aTIc Form No. 164,
+
+We are very Sorry we cannot Send your GOC Station a copy of
+the ATIC Form, Current Air Forse policy limits the use of these
+forms for investigative purposes only,
+
+- Also, we have found that we are very often abla to obtain an
+analysis from the information contained in the initial report
+Yecelved at this office, .
+
+Wa greatly appreciate your cooperation in the Solution of this
+
+7 Sincerely,
+
+CHARLES w. conszy
+Captain, USap
+Assistant Adjutant

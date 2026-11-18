@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T02:10:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1750979, "source_ctime_ns": 1793391457224782717, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558791/00843.jp2", "source_mtime_ns": 1785808613000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558791/00843.jp2", "source_sha256": "f8d3655b88a4518bf95068cf9b59da7d430787b321ae349fdfe5f38ba7bcbefb"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 631, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a a
+UNCLASSIFIED
+1 DEPARTMENT OF THE AIR FORGE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AFIN: 29786 (6 Dec 66) pg 30f 4
+| MARSHALL; AGE THIRTY-FIVE; “QM cHIPPEVA OUTFITTERS, A
+4 SPCRTING GOODS STORE; TELEPHONE MR HOME TELEPHON SSS
+HOME DRESS ggg DULUTH umNesoTa.
+| 7. WEATHER AND WIND-ALOFT CONDITIONS AT TIME AND PLACE OF sIGurincs:
+PAGE 3 RUCIHMA@65 UNCLAS
+4 A. CLEAR.
+4 B. AWS ACCOUNT OF WINDs
+
+(1) 320/2.
+
+(2) 230/10.
+
+(3) 320/25.
+
+(4) 320/25.
+
+(5) 310/25.
+
+(6) 320/65.
+
+(7) 320/25.
+
+(3) UNKNOWN.
+
+D, FIFTEEN MILES,N
+
+E. NONE. |
+
+F. NONE.
+
+G. ELEVEN DEGREES INVERSICN FROM SURFACE TO FIVE THOUSAND
+
+AFHQ i.e 0-309C UNCLASSIFIED
