@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T23:47:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4899666, "source_ctime_ns": 1793378974697887459, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970335/0185.jpg", "source_mtime_ns": 1785700782000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970335/0185.jpg", "source_sha256": "024e8781d9f25f8f461a4fbc2dac4ffcc552377a1947e1e76b3b937dc37b06c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 31, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+43 Co’ NG
+L2SENA
+
+RJWFDN
+
+Cae

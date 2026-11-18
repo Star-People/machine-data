@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T23:33:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2214033, "source_ctime_ns": 1793365563543696314, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0006.tif", "source_mtime_ns": 1785565389000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0006.tif", "source_sha256": "07c2a8ea715c164840590579d83d89d0fa1dee63eb4ee75e560f345bdeb88c58"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 354, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pina
+
+CG
+2 December 1970
+
+UFO Report
+
+Z2ist Air Div (OT)
+
+i, Reference telecon between TSgt Owens thie station and your
+agency on 1 December 1970,
+
+2. Attached herewith is a letter from Mr Enrico Grimaldi concerning
+a UFO sighting of 21 November 1970, forwarded for your action.
+
+/ JAMES L. ADAMS, Major, USAF 1 Atch a/s
+Commander
+
+FOR OFFICIAL USE ONLY

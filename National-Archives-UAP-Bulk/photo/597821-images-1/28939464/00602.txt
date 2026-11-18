@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T23:43:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4361699, "source_ctime_ns": 1793371690384606293, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939464/00602.jpg", "source_mtime_ns": 1785688658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939464/00602.jpg", "source_sha256": "98c3841b0634a983400071bf010cf14981798f4ae8fe3b6fb53a62818bbd5283"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 339, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+EXTRACT FROM STATUS REPORT # 1
+
+DATE: 26 Aug 51
+- TIME (Local): 1658
+LOCATION: San Antonio, Texas
+LSNGTH OF TIME OBSERVED: 10 Sec.
+SCUND: Mone 3
+SPEED: Very. high
+ALTITUDE: Very high
+HEADIG: 315°
+SOURCE: Retired army Officer
+ACTION OR COMMENTS: No investigation
+DESCRIPTION OF INCIDENT: Large object resembling a delta wing aircraft
+
+“NT

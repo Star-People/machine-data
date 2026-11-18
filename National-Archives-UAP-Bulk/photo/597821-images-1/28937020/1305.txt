@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T23:34:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2859900, "source_ctime_ns": 1793371185102598499, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937020/1305.jpg", "source_mtime_ns": 1785689046000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937020/1305.jpg", "source_sha256": "9b2d41cd81518e611a4df6c5963d41d64830fc1bfb3651b375fa4a8b8bd01695"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 47, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+(his Cae Luckie Torr (2) 8°x 10"
+— phebepegh-

@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T23:18:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 799279, "source_ctime_ns": 1793391224161093157, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556424/0079.jp2", "source_mtime_ns": 1785808439000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556424/0079.jp2", "source_sha256": "8e5f593b9d526c84b17ce76d7fa3078f379023908353775e3e09f5b1d7868d5b"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 301, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OFFIC
+
+ud,
+
+“Reference Your unidentified observation: of 4 Oatober 1966...
+
+information which we have received is not sufficient for
+evaluation: n Request you complete the attached FID Form 164
+and secs it in the envelope. PE bak Ratt
+
+_ We: wish: re thank you for reporting your Bbeervaticn to. the

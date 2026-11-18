@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T23:34:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3485859, "source_ctime_ns": 1793371673820243115, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939405/00545.jpg", "source_mtime_ns": 1785688761000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939405/00545.jpg", "source_sha256": "901adf812a6bd3e195aaedbc73a31df6f0f687427f7f0734818ce49eae7eb696"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 394, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+EXTRACT FROM STATUS REPORT 5
+
+DATE: 25 Aug 51
+TIME (Local): 2158
+LOCATION: Alouquerque, N. i.
+
+LENGTH OF TIME OBSERVED: 30 Sec,
+
+SOUND: Hone
+
+SPZED: 300-400 mph
+
+ALTITUDE: 1000!
+
+HEADING : 160° |
+
+SOURCE: Sandia Base guard arm wife
+
+ACTION OR COMMENTS: No onclusions - Investigation closed,
+
+DESCRIPTION OF INCIDENT: Dark flying wing type a/c with about 1 1/2 times the wing
+; span of a B-36,

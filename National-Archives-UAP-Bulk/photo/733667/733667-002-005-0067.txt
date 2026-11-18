@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T23:16:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 415427, "source_ctime_ns": 1793394315518800645, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0067.jpg", "source_mtime_ns": 1785567353000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0067.jpg", "source_sha256": "e9f11dab3a85eb5a16002691ec7d45ac219877cae996c2fe14e4588daf5ad4ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 237, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Richard E. (Dick) Brown
+Resident Minister - Pastor
+
+CHURCH OF SEQUOIAS
+P.O. Box 153
+Sequoia Nat'] ah we 93262
+(209) 565-3
+
+Residence:
+
+Serving Sequoia and 2817 E. Michigan
+
+| Park Fresno, CA 93703
+Kings Canyon Nat'l Parks (209) 224-5048

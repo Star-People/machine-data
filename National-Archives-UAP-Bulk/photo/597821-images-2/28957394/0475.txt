@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T23:40:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4044548, "source_ctime_ns": 1793375722434766000, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957394/0475.jpg", "source_mtime_ns": 1785696542000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957394/0475.jpg", "source_sha256": "e4abe02427e0fb4e7dd4cb91b31abb76b7e94afce3823efd3b17bf0b01d723f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 230, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+—
+
+PP JEPHQ JEDEN JEDST JEDW 444
+DE JEPTR 716
+
+P 2524757
+
+FM COMDR SAMPSON AFB Ny
+
+TO JEPHO/DI2 OF INTELLIGENCE Ha USAT
+
+JEDWP/AIR TECH INTELLIGINCE CEN WRIGHT-PATTERSON AF?
+
+JESENSGOMDR “ENT AFR COLORADO
+
+be
+
+2TNEGS COLOPADO
+
+a

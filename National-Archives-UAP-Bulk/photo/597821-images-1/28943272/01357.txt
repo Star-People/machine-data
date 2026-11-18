@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-17T23:51:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5765232, "source_ctime_ns": 1793372577005527540, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943272/01357.jpg", "source_mtime_ns": 1785688888000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943272/01357.jpg", "source_sha256": "cc19cfd172a4d0a8eebc477ca6f902ad5fe79f75fc7b8fd3381975075b8eeb6f"}
+
+===== PAGE 1 =====
+{"alpha_words": 210, "chars": 1480, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+;
+
+ATIC Test Form 334 (13 Aug 52)
+
++
+Cee OL Re ee ( PROJECT 10073 WORKSHEET ;
+I. GENERAL
+iY. DATS 2, LOCATION 7 ; 3. Fitts oe gas
+4 6) ow 5S 2~ es cade, } wt et FA * oa ea Zebrat foe
+3 [Onaked Eye
+i_l Binoculars | }
+C) telescope
+[1 Thaodolitea
+“5. WAS OBJECT OBSERVED BY GROUND RADAR? C) fes (io }
+LI By Ons Set
+Cl By Two Sets
+(“| By Three Sets
+6, WAS OBJECT OBSERVED FROM THE ALK? OlYos |. (jo
+: . : —_ A/C’ Observed Object
+[_]Interception Attempted
+: CINo Intorcopt Attoupted
+(Ys wills AIRCRAFT SCRAMBLED TO INTERCEPT? - LJ Yes (bie
+| __A/C Scrambled
+| C) Visual Contact Made
+(“jA/I Contact Made
+[“INo Contact Made
+t) Yes CjNo ,
+=} Normal
+[Violent :
+OS. IF OBJncr WAS A "LIGHT", WAS IT: L) Bliniing
+ae Standy
+TO. LENGTH OF Time IN SIGHT: (TI-15 Seconda
+| (41-5 Minutes
+; |] Over 10 Minutes ;
+11. REPORTING AGENCY (Unit Number and Wailing Address) és :
+: II. ASTRONOMICAL DATA t
+{2. WHAT ASTRONOMLCAL ACTIVITY WAS NOTED?
+/ ae eee
+13. DID OBJECT APPEAR TO ARCH DOWNAARD? "| Yes P-jio i
+pip OB TECY HAVE A TAIL? “Tl Yeo jNo | |
+ri5. DID OBJECT APPEAR TO DISINTEGRATE? y Yas -\No |
+| (YS. PIE OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (Nata From Air Almanac)
+_  CNi ght |
+Ci Sunrise
+{' Sunset
+III, AIRCRAFT DATA _
+17. Were AIRCRAFT NOTcD IN ARMA? Tyies LJNo
+J One-Aircraft
+: 24toro Than One Aircraft me |
+rig. WAS ANY SOUND HeaRD? “1 Yes is {1Ko |
+29, Weite VHRR INDICATES OF HIGH PACKEROURT NOTSE™ * Vou [=lHo |
+20. Wad Whe OBIRCT VikweD ABOVE L650 ELAVALTON?” ~~ “7 Yes LJNo_: |
