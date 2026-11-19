@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T21:17:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7002871, "source_ctime_ns": 1793384937292076401, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991418/1074.jpg", "source_mtime_ns": 1785748400000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991418/1074.jpg", "source_sha256": "bf8ca43f2881185103b4be0722c5f99e11501e784bd57422d9bfda5693168944"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 604, "method": "ocr", "page": 1, "variant": "plain-psm3"}
++
+“Heats RBar iog lore -
+
+pe 1, August 1961
+Your recent letter furnishing informtion on a UFO sighting
+
+is appreciated. In order that we my heve more complete informtion,
+I am forwarding @ cory of the ATIC questionnaire with the request
+
+that you complete it as fully as possible and forward directly to:
+
+Hq Aerospace Technical Intelligence Center
+Wright-Patterson Air Force Base, Ohio
+Attention: Aerial Phenomena Investigations
+
+Your interest in this matter is greatly appreciated.
+Sincerely,
+
+WILLIAM T, COLEMAN, JR.
+Major, USAF
+
+UFO Project Officer
+
+Publis Information Division
+Office of Informtion

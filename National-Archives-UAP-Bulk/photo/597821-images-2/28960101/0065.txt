@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T20:57:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3411133, "source_ctime_ns": 1793376303396481883, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960101/0065.jpg", "source_mtime_ns": 1785696926000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960101/0065.jpg", "source_sha256": "a7d9216f1e9ed9c5d49a7d297dc741e2d2e69c53c1c2f9160afd5e9d2e9383d2"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 699, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1 DATE 2. LOCATION 12. CONCLUSIONS
+re as Capo 4 os ; QO Wes Balloon
+DR 4 November 1954 St Lawrence Alaska G Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION QO Possibly Balloon _
+; O Wos Aircraft
+Local O.. Ground: Vi sual 0 Ground-Rader Q Probably Aircraft
+GMT on a oe 0 Air Vi suai D Air-intercapt Radar 0 Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+0 Yes O Probobly Astronomical
+fs tas UNKNOUN heen O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8 NUMBER OF OBJECTS 9. COURSE O Other
+O Insufficient Dota for Evaluation
++ 0 Unknown
+10. BRIE# SUMMARY OF SIGHTING Tl. COMMENTS
+|
+ot IR~S5004-78~54, 4 (C) ATIC#205296
+
+ATIC FORM 329 (REV 26 SEP 52)

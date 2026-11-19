@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T21:04:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4502478, "source_ctime_ns": 1793382605201567884, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984744/0099.jpg", "source_mtime_ns": 1785700868000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984744/0099.jpg", "source_sha256": "47b6ea5855dce9372fff2ca444930692c938bcf54e27119cf06bba4d875159e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 453, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+This is physically possible and probably under appropriate atmospheric
+conditions.
+5. No specific uFog report was submitted by this squadron
+1]
+although a11 information obtained was forwaréd by voice communication to the
+25th Air Division for inclusion in their report.
+The Intelligence Section at 25th Air Division has compiled additional
+
+information on this incident. If you desire further information, it is
+
+suggested that that office be queried.

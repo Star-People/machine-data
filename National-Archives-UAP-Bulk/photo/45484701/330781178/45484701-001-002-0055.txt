@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T21:15:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6663604, "source_ctime_ns": 1793361693006512765, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0055.jpg", "source_mtime_ns": 1785684756000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0055.jpg", "source_sha256": "4a7ab0c2ff407da24e874b96e59f38b32e74c5139cc5cc9f7f25b35fe47d2684"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 380, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5D=2ly-21P
+PROJECT "GRUDGE"
+
+UNDEVELOPED LEADS
+
+DISTRICT OFFICE NO. 12, SCOTT AFR
+
+AT ST. LOUIS, MISSOURI
+
+Will interview Mr. ROBERT VAUGHN, 5219 Alabama, St. Louis,
+Missouri, regarding his observation of an unidentified aerial
+object on 13 May. Will complete the inclosed “Guide to
+Investigation" and return same to District Office No. 5.
+
+Declassification Authority: NND 923007

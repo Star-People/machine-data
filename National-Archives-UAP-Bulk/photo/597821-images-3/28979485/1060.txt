@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T21:24:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8597951, "source_ctime_ns": 1793381170461549072, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979485/1060.jpg", "source_mtime_ns": 1785700919000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979485/1060.jpg", "source_sha256": "66c63f991030c7188806c9423e2e99dab40d4889ee9d6e617425d719d5ec4214"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 1088, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: DEPARTMENT OF THE AIR FORCE
+nat See, STAFF MESSAGE DIVISION
+g UNCLASSIFIED MESSAGE
+
+INCOMING
+
+/
+
+PAGE THREE RJEDFu 17C
+ABOUT 60 FEET IN DIAMETER. IT WAS VISIBLE APPROXIMATELY TEN MINUTES,
+
+HOWEVER, IT COULD HAVE BEEN THERE LONGER. (C) (1) GROUND VISUAL
+(2) 8 X 30 FIELD. THESE ARE MILITARY TYPE JAPAFESE FIELD GLASSES
+WITH METRIC READINGS ON ONE GLASS TO AID ARTILLERY SPOTTING. (3)
+N/A. (D) (1) 0005 TO @215Z (2) IT WAS DAYLIGHT, GOOD VISIBILITY.
+(E) 29150 CUNNINGHAM, WARREN, MICH. LOCATED GETWEEN EIGHT MILE
+
+AND NINE MILE ROADS AND RUNNING PARALLEL TO RYAN ROAD. (F) (1)
+CIVILIAN, MR. Qi, WARREN, MICHIGAN.
+PHONE QI OCCUPATION: BUSINESS MACHINE REPAIR AND SALES
+AND ADVERTISING. (G) (1) UNKNOWN (2) WIND VELOCITY UNKNOWN, VERY
+LITTLE (3) UNKNOWN (4) CLEAR (5) UNKNOWN (H) NONE, MILD TEMPERATURE
+(I) NONE (J) ALTITUDE ESTIMATED AT APPROXIMATELY 200 TO 500 MILES.
+FOUR AIRCRAFT NEARBY IN FLIGHT ESTIMATED TO BE AT ABOUT TwO
+
+AND ONE-HALF MILES. (K) NO COMMENT (L) NO PHOTOS.
+
+BT
+
+20/1654Z AUG RJEDFJ
+ACTION: CIN
+INFO : OOP, SAFIS
+
+AF IN: 15807 (20 Aug 1958) Page 3 of 3 pages DB/jry

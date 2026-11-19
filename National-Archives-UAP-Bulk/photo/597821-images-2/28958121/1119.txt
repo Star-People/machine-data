@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T21:01:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3977807, "source_ctime_ns": 1793375873434768714, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958121/1119.jpg", "source_mtime_ns": 1785696738000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958121/1119.jpg", "source_sha256": "38b42ed48c05cbae854583461ac97736212691ca371f78c6b9d93119a775ab26"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 697, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/
+
+PROJECT 10073 RECORD
+
+- * ae
+1. DATE - TIME GROUP 2. LOCATION
+
+ggkoz Salisbury Beach, Massachusetts
+3. SOURCE 10. CONCLUSION
+civilian
+
+4. NUMBER OF OBJECTS
+one i!
+
+.
+
+PROBABLY AIRCRAFT
+
+5. LENGTH OF OBSERVATION
+14 min
+
+]13. GRIEF SUMMARY AND ANALYSIS
+
+Round light. White then changing to green. Sound similar
+to a/c engines, only mffled. ATIC 183860 (A) rpt filed in
+
+6. TYPE OF OBSERVATION
+ground visual
+
+|| ATIC Repositéry..
+
+7. COURSE
+S to N
+
+Rpting officer stated that quite frequently a/c pass over that.
+area in a traffic airway. Object probably aircraft.
+
+8. PHOTOS
+
+O Yes
+all
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+O Ne
+
+FORM ,
+FTD ser 63 0-329 (TDE) previous editions of this form may be used.

@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T20:47:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1196177, "source_ctime_ns": 1793356368402329633, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0095.jpg", "source_mtime_ns": 1785564687000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0095.jpg", "source_sha256": "69ab372de5efafe300f88fbb912ba32a338417fe02bbe0bdeaa513551c635e05"}
+
+===== PAGE 1 =====
+{"alpha_words": 183, "chars": 1451, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SECRET
+
+PROFESSIONAL PERSONNEL LIST
+
+CIVILIAN
+Dr. Samuel H. Amderson, Chief, General Engineering Branch;
+Project Director
+
+' Mr. Morris Keiser, Associate Chief, General Engineering Branch;
+Consultant and Field Physicist
+
+Mr. George D. Lukes, Chief, Wave Propagation Section, General
+Engineering Branch; Project Chief
+
+Dr. Craig M. Crenshaw, Associate Chief, Wave Propagation Section,
+General Fngineering Branch; Associate Project Chief
+
+Dr. Fred B. Daniels, Chief, Equipment Development Unit; Chief,
+Equipment Design
+
+Dr. Ralph Simon, Chief, Sound Section; Technical Consultant and
+Field Physicist
+
+Mr. Normand Stulman, EByeteleny Project Supervisor, Office of
+Chief Signal Officer
+
+Mr. Kenneth C. Burger, Assistant Chief, Sound Section; Technical
+Consultant and Field Physicist
+
+Mr. Arthur Eckstein, Physicist; Field Physicist
+
+Mr. Alphonse B. Ezmunt, Physicist; Maintenance Engineer
+MILITARY ;
+
+Captain John M. Brittain, Supervisor, Military Operations
+Captain Glenn T. Lutton, OIC 9563d TSU (Germany)
+
+- Captain W. E. Varney, alternate OIC, 9563d TSU (Germany)
+
+lst Lt. Daniel Overton, Executive Officer, Wave Propagation
+Section, General Mngineering Branch, ESL
+
+lst Lt. Nelson A. Lecklikner, OIC, 9589th TSU (Hawaii)
+
+1st Lt. Robert W. Ryan, OIC, 9613th TSU (Japan)
+
+lst Lt. Arthur H. Burdick, OIC, 9635th TSU (Alaska)
+
+lst Lt. Robert F. Comstock, OIC, 9657th TSU (Fort Lewis, Washington)
+
+SECRET
+
+This document is part of an unclassified series

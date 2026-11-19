@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T21:05:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4612846, "source_ctime_ns": 1793388226867226506, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000499/0782.jpg", "source_mtime_ns": 1785748136000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000499/0782.jpg", "source_sha256": "56c3130cfb6dedf48e744b93c89e2c6bb721769dd533bc9a81a59e984dd5e1e0"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 956, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+a 1. DATE 2. LOCATION
+q 31 March 1963 Dayton, Ohio
+a : 3. OATE-TIME GROUP 4. TYPE OF OBSERVATION
+Local 2000 X@ Ground- Vi sual OD Ground-Rador
+GMT__ 01/01002 Apr O Air Visual D Air-intercept Rador
+5. PHOTOS ; 6. SOURCE
+0 Yes
+X&K No Civilian
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE
+not reported one NE
+
+_
+w
+.
+
+CONCLUSIONS
+
+Wos Balloon
+Probably Bailoon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircroft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+3X Other_a
+0 insufficient Deta for Evaluction
+DO Unknown
+
+ooqa ago ooo
+
+10. BRIEF SUMMARY OF SIGHTING
+Starlike object observed at dusk,
+Suration not reported. Object observed
+in NE. No flight path indicated,
+
+‘Object flashed or flickered, Gave
+appearance of being solid,
+
+1. ENTS
+Satellite ECHO I over Dayton
+
+COMM
+
+north of city at 64 dgr eleva-
+tion heading NE at 1954. Case
+evaluated as ECHO I.
+
+ATIC FORM 329 (REV 26 SEP $2)

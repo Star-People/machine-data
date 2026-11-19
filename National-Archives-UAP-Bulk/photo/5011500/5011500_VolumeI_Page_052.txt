@@ -1,0 +1,100 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T20:42:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 504019, "source_ctime_ns": 1793365590977269266, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_052.jpg", "source_mtime_ns": 1785565396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_052.jpg", "source_sha256": "0b5705239d2fcc4e3e0769c32344b17cd7e83a4be0d05f24503e989e6bdeb89b"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1130, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+04:59:33
+05:05:19
+05:05:22
+
+05:05:24
+
+05:05:27
+05:05:30
+
+05:19:31
+
+05:19:37
+05:19:40
+
+05:19:46
+
+05:19:50
+
+05:20:14
+
+05:20:26
+05:21:16
+05:21:19
+
+05:el:e2l
+
+05:21:31
+
+05:21:37
+
+cc
+
+CC
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+CC
+
+Cc
+
+cc
+
+CONFIDENTIAL er
+
+Roger.
+Gemini VII, RKV CAP COM.
+This is VII. Go ahead.
+
+Roger. Will you place the adapter C-Band switch
+to CONTINUOUS?
+
+Roger.
+
+TANANARIVE
+Gemini VII, Gemini VII, Houston CAP COM. How do
+you read? Over.
+
+This is VII. Read you loud and clear, Houston.
+
+Roger. We would like your adapter C-Band to
+COMMAND.
+
+Adapter C-Band is on COMMAND.
+
+Roger. And how does a Medical Data Pass on the
+Command Pilot next pass over the States sound to
+you? Will that be too soon?
+
+Gemini VII, Gemini VII. We would like a Medical
+Data Pass on the Command Pilot next pass over
+Texas. How does this sound? Over.
+
+This is VII. Say again, Houston.
+
+Gemini VII, Gemini VII, Houston. Over.
+
+This is VII. Go ahead.
+
+Roger. I would like your adapter C-Band back to
+CONTINUOUS until a lapsed time of 05 plus 25. Over.
+
+Roger. C-Band is on CONTINUOUS until 05 plus 25.
+
+Roger. Then you can go back to COMMAND.
+
+CONFIDENTIAL

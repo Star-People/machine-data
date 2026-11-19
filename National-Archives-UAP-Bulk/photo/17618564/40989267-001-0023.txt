@@ -1,0 +1,124 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T20:31:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14658482, "source_ctime_ns": 1793355441294370034, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0023.jpg", "source_mtime_ns": 1785564456000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0023.jpg", "source_sha256": "577f649bbfc963349934754f6defebb36726f974ec9cdcf1d5bc542386ed855f"}
+
+===== PAGE 1 =====
+{"alpha_words": 492, "chars": 3362, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+36
+
+would be much the same shape except that the upper balloon is subjected toa
+Super-pressure. The super-pressure is represented by the height of helium in
+the lower balloon. Figure 7 presents the total material load in the double-balloon
+design. The striking difference in these curves is the reduction in film load in the
+upper balloon. These results are for the same sigma in both the lower and upper
+balloons, but with such a reduction in material one would use a considerably re-
+duced sigma. I conclude that from purely load-carrying considerations, the fully
+inflated double-balloon system would be heavy compared to other designs.
+
+Figure 8 summarizes some of the weight information for these natural- shape
+
+balloon designs. These data are for a Sigma of 0.2. The bottom curve compares
+
+the weight-to-payload ratio for balloons with zero load at the top--increasing to an
+
+abscissa value of 1/2 where one half the payload is at the top of the balloon, and
+
+decreasing to an abscissa value of - 1/2 where one half the payload is supported by
+a second balloon, Again, it is seen that the double-balloon system is heavy. The
+upper curve compares the weight-to-payload ratio for balloons with various values
+
+of super-pressure. One method for obtaining super-pressure would be to hang a
+
+duct below the bottom of the balloon. If the duct length were equal to the Rete of
+
+the balloon, the abscissa value would be 1. It is seen that balloons with negative
+
+values of the abscissa, that is, sub-pressure, are heavy. The minimum weight for
+
+a balloon occurs when the duct length is approximately one half the height of the
+balloon.
+
+The foregoing have all had the circumferential stress specified as zero. When
+
+considering non-zero circumferential stress, I have found that the variety of
+
+balloons becomes so great that it is not practical to attempt to give generalized
+
+balloon designs. For that reason I have investigated a balloon which is designed
+
+to tiff 40° pounds"to'7 0 O00 feet. . One andone half mil Mylar material was used
+
+with a super-pressure of 5 millibars.
+
+his’ results in a sigma or 0,94 (Figure 9),
+These
+
+two curves are for a balloon with zero circumferential stress and one with a
+circumferential stress of 5 pounds per inch. Both of these balloons are wider than
+the corresponding spherical balloon,
+
+balloon.
+
+Figure 10 presents the stresses in the
+
+In this case, I have chosen to present actual stresses rather than total
+
+film loads. As one might expect, introduction of a circumferential stress results
+
+in a reduction in the corresponding meridional stress. The two balloons have con-
+
+stant circumferential stresses of zero and 5 pounds per inch, respectively.
+
+WEIGHT / PAYLOAD
+
+WEIGHT / PAYLOAD
+
+(Se)
+~]
+
+a 30- Tc =5LB/IN
+1
+0.80 HPs
+! | fi i
+Outs 5 0 | Z 3 =20
+SUPERPRESSURE / BALLOON HEIGHT r
+HEIGHT AT ZERO i
+SUPERPRESSURE Fe
+WwW
+ga Lg
+10+
+0.9
+: —| T i
+)
+| 0 72 @) 10 20
+- RADIUS (FT)
+LOAD AT gy | Beton
+OF BALLOON
+DESIGN FOR 40 LB TO 70K
+SURE
+IAL STRESS |.5-MIL MYLAR,5MB SUPERPRES
+ZERO CIRCUMFERENT dale
+= =0.2
+‘isure 9. Effect of
+i Wei Balloons Fig 7
+een Leet Circumferential Stress
+Te =
+2 20F To=5LB / IN
+~ MERIDIONAL
+iL |
+eal
+~ I5-
+Y
+(op)
+lJ
+a
+% 10} yy
+CIRCUMFERENTIAL
+i K ! l
+As) 10 20 30 40 50
+
+GORE LENGTH (FT)
+
+DESIGN FOR 40 LB TO 70 K
+1.5-MIL MYLAR, 5 MB SUPERPRESSURE
+2==0.24
+
+Figure 10. Comparison of Stresses

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T21:00:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3853990, "source_ctime_ns": 1793372159041120478, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941613/1179.jpg", "source_mtime_ns": 1785688538000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941613/1179.jpg", "source_sha256": "b003fb89efbb8a84b46e5ccc46992307811681dd7a82e94a6b1f8ad0eb95a7ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 830, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+“W OATE 2. LOCATION i 12, CONCLUSIONS
+27 Apr 52 Royal Oak, Michigan 0 Wos Balloon
+rn O Probably Balloon
+‘3. DATE-TINE GROUP 4. TYPE OF OBSERVATION ?
+° , oO w ire
+UD sei ae ate a __4100 CST... EXGround- Visual D Ground-Rador oO tie ay
+GMT. wt th FOO. 0 Air- Visual O Air-Intercopt Radar C1 Possibly Aircraft
+(——a- 6. SOURCE QO Was Astronomical
+OQ Yes 0 Probably Astronomical
+No Civilian + male 0 Possibly Astronomico!
+7. LENGTH OF OBSERVATION 8. NUMDER OF OBJECTS | 9. COURSE SERS AREA RE 8
+. EE Insufficient Dota for Evaluation
+1 GQ Unknown
+10. BRIEF SUMMARY OF SIGHTING : 1. COMMENTS ;
+White color. "Paper plate” sbape. Source was only observer. Object
+Stationary. "turned sideways” white. Obsered.
+‘ Went into “" house get binoculars
+
+ond when he came out it was gone.
+
+ATIC FORM 329 (REV 26 SEP 52)

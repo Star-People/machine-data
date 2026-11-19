@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T21:18:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7188281, "source_ctime_ns": 1793367907760402339, "source_file": "National-Archives-UAP-Bulk/photo/542185/342-AF-093085AC_34-3862M.TIF", "source_mtime_ns": 1785565800000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542185/342-AF-093085AC_34-3862M.TIF", "source_sha256": "e9018597a079f0ac9494c9512a3cc1f50b05a2421f938b8437f760afb2b1ff7b"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 30, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+ASS ed \ ei?
+
+‘ 4 6 a
+Beek
+4
