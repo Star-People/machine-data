@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:52:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1705182, "source_ctime_ns": 1793391061163257048, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555250/0402.jp2", "source_mtime_ns": 1785808640000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555250/0402.jp2", "source_sha256": "d69d33f06d265ee1e31dc8b95bb9e00e53df4dd7ee1e13c376e81e2b6cbe831e"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 123, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CALCULATION OF FREQUENCY OF CENTER LIGHT BASED
+UPON THE ASSUMPTION THAT IT was AN
+AERO-ELECTROMAGNETIC PHENOMENON
+
+D-2 mw

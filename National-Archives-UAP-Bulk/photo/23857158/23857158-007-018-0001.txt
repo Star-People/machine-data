@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:04:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4749424, "source_ctime_ns": 1793359273848672807, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-018-0001.tif", "source_mtime_ns": 1785681363000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-018-0001.tif", "source_sha256": "e9dea68846ce1d7973cf6ca4ada13b6651a274937a2fba70cbf8f70202ff7e47"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 801, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+602D AISS UFOB LCG
+
+hh REPORT NO. 2 DATE/TIME OF SIGHTING 3 RECD HQ )602D
+
+_[25s—070B-168-55 | ob/23202 ume 1935 6 dune 1955
+
+_}.4 LOCATION OF SIGHTING .
+| Steelton, Pomsylvania
+
+IS MEANS RECD 16 ACTION
+‘BP Mag | No Investigation Authorized:
+7] INVES UNIT 8 DATE INVES ASSIGNED 9 ASSIGNING OFFICER
+t/k NS N/A
+710 DATE IR R&CD HQ $11 DATE IR APPROVED 12 DATE IR TO ATIC
+| t/a N/A : 1/A
+13 AITSOP FORM }
+& dhimea 1955
+
+Uy COMMENTS
+
+Que to the time of sighting, the description of the sighting, the
+
+‘possibility of the object being a balloon, and the improbabili ty
+
+> o2 forther investigation uncovering data of significant valua, no
+‘| further investigation authorized bythis hkedquarters (\Go2d AISS)»
+
+15 CONCLUSIONS
+|Possitly Balloon
+
+AISOP Fits 7 (2Ark 35)

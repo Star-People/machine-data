@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:11:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6979478, "source_ctime_ns": 1793384695863832814, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990869/0576.jpg", "source_mtime_ns": 1785748023000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990869/0576.jpg", "source_sha256": "d1f5f8c08b82e4e243845f60d4e4304992d895ed1fabcf349dcd79858be2096b"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 532, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT Of THE AIR FORCE
+
+STAFF MESSAGE DIVISION ( J 4 Sw
+UNCLASSIFIED MESSAGE LA i wl”
+
+INCOMING
+A/dq
+
+AF IN : 41263 (10 Jan 61)
+ACTION: CIN=14 poe
+
+INFO =: OOP-CP-1, SAFS53, 00P-2 (21) maou
+SMD A 151
+CZ CHQD728ZCBJA381
+
+“v9 99977 RJEZHO
+
+DE RBEJGD 17
+
+ZNR
+
+Z 101856Z
+
+FM USS FRANKLIN D ROOSEVELT
+TO RBEKHC/CINCLANTFLT
+
+RJWFALB/C INCNORAD
+RJESKB/S2ND NORAD REGION
+RJEZHO/HQ USAF
+
+RBEPW/CNO
+
+RBE GUH/ COME ASTSEAFRON
+“INFO RBEPC/COMCARDIV FOUR
+ZEN/COMFLETRAGRU GTMO
+RJESNO/CAPE CANAVERAL
+
+RBE JGC/COMNAVB GTMO
+
+BT
+
+— mee ee sar

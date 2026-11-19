@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:06:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5244744, "source_ctime_ns": 1793370063352833577, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933649/1032.jpg", "source_mtime_ns": 1785688646000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933649/1032.jpg", "source_sha256": "b91a667b739801fbf0f9bb821f5659c36ef09db2942c9eed2aec98895ff6ce48"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 535, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Basie: Ltr fr 174th Diat OST, KAFB, to CO, XAPB dtd 1 Apr L9, Subj:
+“Tnkneem (Aerial Phenemena)"
+
+3 lst Ind COMM: >
+WRADQUARTERS, Kirtland AP Base, Kirtland Field, HN. Mex., 6 Avril 1919
+
+TO : Cwamranding General, ANC, Wright-Patterson AF Base, Davon, Chie.
+Porwarded for your information in conneotion with the renert
+of investigation forwarded from this Headquarters on Li Deo L3 by lst
+
+Tad te lsther same subjedt as above,
+
+FOR THE COMMANDING OFFICER:
+
+OLIVER M. NOLAND
+
+Linmol: w/o (2 cys w/a) Captain, USar
+Adjutant
+"7 a ADr ae

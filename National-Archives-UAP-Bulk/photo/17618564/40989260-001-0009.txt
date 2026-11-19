@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:10:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6333829, "source_ctime_ns": 1793355073079933459, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0009.jpg", "source_mtime_ns": 1785564388000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0009.jpg", "source_sha256": "71e4e83f03d276cda5a7588fc4ac204bcd5472979f225d8f46607f389b2d5f5a"}
+
+===== PAGE 1 =====
+{"alpha_words": 181, "chars": 1301, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Date Float Altitude Float Duration Payload Impact Area
+May 22, 1974 91K 20%Hr s 6 mi, E of Stallion, NM
+May 24, 1973 90K 84Hrs 45 mi. NE of HOB
+May 25, 1972 89K 4Hrs 25 mi, NE of PIO
+I5,. 1935 87K 7Hrs 9 mi, NNE of DMN
+4, 1963 87K 6Hrs 9 mi. SE of San Antonio, NM
+13, 1974 84K 6Hrs 16 mi, NE of HMN
+May 19, 1962 83K 7+sHrs 51 mi. NE of Alamogordo, NO
+May .16, 1977 ; 82K SHrs 18 mi. W of ROW
+May 6, 1977 80K SHrs 40 mi. NW of ROW
+
+May 14, 1965 75K 4>Hrs 25 mi. NNE of HAFB
+May \6, (487 1aK SVeHes IS Mi WE DEA
+Jun’ 14, 1985 129.1K 11gHrs 18 mi. WSW. of AHX
+
+Jun 6, 1966 124K 114Hrs 7 mi. E of Coolidge, AZ
+Jun 26, 1974 120K SHrs 11 mi. NW of CZG
+
+Jun 4, 1969 | 113K OLHr s 40 mi. S of GBN
+
+Jun 21, 1965. 112K 22Hrs 25 mi, WNW of ABQ
+
+Jun 17, 1970 109K OHrs 25 mi. W of CZG
+
+Jun 27, 1969 109K 8Hrs 35-2; SE of C7ZG
+
+Jun 30, 1964 108K 6sHr s 20 mi, SE of Coolidge, AZ
+Jun 13, 1980 108K lliHrs 30 mi. N of TCS
+
+Jun 19, 1969 ~ 106K 4Hrs 15 mi. NNW of HMN
+
+Juw (1%, 1G iosk Yhes ISui, S cf TES
+
+Jun 6, 1967 104K SHrs 8 mi, WNW of TCS
+
+Jun 24, 1983 103K 13Hrs 13 mi. SSE of PHX
+
+Jun 1, 1967 103K SHrs 38 mi. NW of ROW
+
+Jun 21, 1979 103K 10Hrs 28 mi. NNW of SVC
+
+Jun 29, 1976 102K SsHrs 39 mi. WNW of SVC
+
+Jun 12, 1962 102K SHrs 5 mi. E of San Antonio, TX.
+
+Jun 29, 1971 101K 64Hrs 7 mi, NE of Florence, AZ

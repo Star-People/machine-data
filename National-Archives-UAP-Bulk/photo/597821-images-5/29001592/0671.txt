@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:08:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5737349, "source_ctime_ns": 1793388576035106017, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001592/0671.jpg", "source_mtime_ns": 1785807996000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001592/0671.jpg", "source_sha256": "7b4b08b022f09187aa470bcead084ffc6934400867652223cbd591c5fd73afac"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 535, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+December 11, 1963 «=
+
+Dear Mr. Aes
+“mds 48 in response to your recent letter in
+
+which you report the sighting of an Unidentified
+Flying Object on July 1, 1 36
+
+We are inclosing an official questionnaire
+"7.3. Air Force Technical Information" sheet, which
+we request you execute and return to this office.
+We-wikl then attempt to evaluate your sighting and
+advise you of the results.
+
+Sincerely,
+
+MASTON M. JACKS
+Major, USAF
+
+Publie Information Division
+
+Office of Information
+
+1 Attachment
+FID Form 164
+
+Mr. ;
+Glen Ellyn, Illinois |

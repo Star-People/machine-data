@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:01:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4225345, "source_ctime_ns": 1793377687662415721, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964935/1250.jpg", "source_mtime_ns": 1785696436000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964935/1250.jpg", "source_sha256": "b25dbb3b8f2573e40a46a57c2dbc829591dc0c1f756b94113b291e5c1e5df882"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 815, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4602d Air Intelligencé Service Sq, een AISOP, subj: Request for
+Balloon Trackings
+
+CRZD P-6641(9 Jul 56) . 3d Ind
+
+HQ, AF CAMBRIDGE RESEARCH CENTER, Air Research and Veep
+Command, L.G. Hanscom Field, Bedford, Wa eed chueatee
+13 December 1956
+
+ee TO: Commander, 4602d Air Intelligence Service Squadron (ADC)
+be Ent Air Force Base, Colorado ae Colorado
+rae ATTN: AISOP.
+
+Reference is made to paragraph 2 of ist Ind. and paragraph
+2a of 2nd Ind. Records available indicate that flight I-2 was east of 80°
+W. Longitude and that flight I-5 had terminated before 25/1800Z
+February 1956. Therefore, it appears that neither of these flights account
+for the report mentioned in the basic letter.
+
+eS FOR THE COMMANDER:
+
+RICHARD H. BRAUN
+
+Major, USAF
+
+Chief, Atmospheric Devices Laboratory
+' Geophysics Research Directorate

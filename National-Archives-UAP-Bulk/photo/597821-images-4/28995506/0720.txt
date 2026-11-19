@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:57:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3458171, "source_ctime_ns": 1793386276589813481, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995506/0720.jpg", "source_mtime_ns": 1785747904000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995506/0720.jpg", "source_sha256": "eb9362b28d4af232acd3c9611ee8de47206611fb92c94094c276e66e72a8de42"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 875, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+7 PROJECT 10073 RECORD CARD
+4 1. DATE, 2. LOCATION 12, CONCLUSIONS
+q reed Ae P ..  |Q Wes Bell
+q ll Nov 61 Catalina Island, California o Probobly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION G. FOsermy Eero
+5 Unknown Vv: 7 O Was Aircraft
+Local 0 Grovnd- Vi sual 0 Ground-Reder OQ Probably Aircroft
+Ges D Air Vi sual DO Air-Intercept Radar 0D Possibly Aircraft
+5. PHOTOS Physical cviaence 6. SOURCE QO Was Astronomico!
+a O Yes Q Probably Astronomicol
+e. D No Militexy QO Possibly Astronomical
+4 7. LENGTH OF OBSERYATION 8. NUMBER OF OBJECTS | 9. COURSE 5 Other _Drope Scnie
+O Insufficient Dato for Evaluation
+N/A 1 N/A O Unknown
+4 10,. BRIEF SUMMARY OF SIGHTINGCD Jt observed coming 11, COMMENTS Drop Sonde recovered -ienvified
+: down by parachute. FAecovered and turned over 2s belonging to U. S. Navy.
+3 to Air Force for identification.
+
+ATIC FORM 329 (REV 26 SEP $2)

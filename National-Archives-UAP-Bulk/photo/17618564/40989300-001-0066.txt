@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:47:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1063633, "source_ctime_ns": 1793356042261187218, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0066.jpg", "source_mtime_ns": 1785564591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0066.jpg", "source_sha256": "95a75d84670e384a80222b28949508ac9bc2303fc841ba14f1977daa5df0f0cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 890, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Flight 104: Released from Alamogordo, New Mexico, 1123 MST, Feburary 5, 1949
+Recovered at Hale Center, Texas
+
+Qn this flight a stepwise floating level was achieved by the dropping of
+weight from the 20-foot, .001" polyethylene balloon. From the height-time
+curve (Figure 53) the climb from 35,000 feet MSL to 47,000 MSL can be seen.
+A time clock was used to start the rapid flow of ballast after about one hour
+at the first level. Following the exhaustion of all ballast, the ballast
+reservoir itself was released to cause the final rise of the balloon.
+
+By the use of this technique, atmospheric sampling of any kind may be
+conducted with two or more levels sampled on @ single flight. Without using
+any control to keep the balloon constantly at a given altitude for a long
+
+time, the sampling steps should not be expected to be much longer than one
+hour apiece.
+
+TIME (M.ST.)
+
+Figure 53

@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:03:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4588166, "source_ctime_ns": 1793359233998919994, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-063-0001.tif", "source_mtime_ns": 1785681351000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-063-0001.tif", "source_sha256": "9f374ca7574d9374466219321440921de4d3a21bc62b00f767c4703d6bd9dd3d"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 657, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+pee aoroy
+
+h602D AISS UFOB LOG
+
+‘| REPORT NO.
+
+ ATSS=@UF 0B=332—55
+
+DATE/TOE OF SIGHTING
+
+Sunrise at 0534 local
+09/Night Sep 55
+
+RECD EQ 602D
+
+28 Sep 55
+
+. Cincinatti, Ohio
+
+TIOCATION OF SIGHTING
+
+LOGGED BY
+
+ A/LC De®udder
+
+MEANS RisoD
+
+ACTION
+
+No investigation authorized
+
+RY Form 112
+INVES UIT DATE INVES ASSIGNED ASSIGNING OFFICER.
+NA N/A N/A
+
+DATE IR RECD HQ
+
+w/A
+
+DATE IR APPROVED
+
+Hk
+
+DATE IR TO ATIC
+
+w/a
+
+} DATE OF FORM 5
+
+| 23 Sap 55
+
+COMMENTS
+
+Gapella, a star of
+‘at the time of the
+
+the first magnitude, was high
+sighting o
+
+in the north east
+
+CONCLUSIONS
+
+| POSSIBLY ASTRONOMICAL
+
+AISOP FORM 7 (2 APR 55)

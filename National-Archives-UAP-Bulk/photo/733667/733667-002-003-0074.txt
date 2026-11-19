@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:42:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 747503, "source_ctime_ns": 1793394296296826170, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0074.jpg", "source_mtime_ns": 1785567350000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0074.jpg", "source_sha256": "53894be63bbc54b616a4af875da03c1540b172df84f13e738bd4f83a98e9922a"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 520, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Clarksburg W.Va.
+March 5, 1°87
+To Whom it may C ncern:
+Iwas fortunate enough to hear Paul Larvy
+on the radio on this date.
+Re stated that there was o very large object
+sighted in flight, in the North Pacific area.
+and anyone that may be interested in the revort,
+can get the information by requesting it.
+T would like to hear from you as to what I
+
+need to do to receive it,
+
+Thank you very much
+
+John As. Kovach
+
+Y/
+
+law Waar ayv Va aaa aa.
+
+MR JOHN KOVACH
+BOX 392 Z RT 2
+CLARKSBURG, WV 26301
+
+MiWAAAAAAS PAP AAAIA “,

@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:05:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5050127, "source_ctime_ns": 1793386107891642884, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994869/0137.jpg", "source_mtime_ns": 1785747822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994869/0137.jpg", "source_sha256": "e5969625d6cdaecc02ef41d28c07db84c4f4cae2bcbee9acbcf35b2679b8aa65"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 699, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+oO 7G
+Di
+yep ol
+
+7
+
+2. LOCATION
+
+Aa el: wae S a ae
+r ING ct
+ADU wil WNW Os
+
+. DATE-TIME GROU
+
+B32
+& >
+
+Local
+
+ABOTOS
+fh 0 Mag
+
+GMT__
+
+4. TYPE OF OBSERVATION
+O Ground- Vi sual
+=}: Air Vi sual
+
+O Ground-Radar
+
+O Air-Intercept Radar
+
+5. PHOTOS
+O Yes
+‘O-No
+
+6. SOURCE
+
+i rr See ed
+
+ae eres
+
++ LENGTH OF OBSERVATION
+
+9. NUMBER OF OBJECTS | 9. COURSE
+
+O00 oo ooo 900 5
+
+CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probobly Aircroft
+Possibly Aircraft
+
+Was Astronomical Me Tou,
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Data for Evaluation
+
+. BRIEF SUMMARY OF SIGHTING
+
+“111, COMMENTS "”
+
+ae a ee
+
+ATIC FORM 329 (REV 26 SEP 52)
