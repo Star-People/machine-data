@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T10:47:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1428350, "source_ctime_ns": 1793394311030289622, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0042.jpg", "source_mtime_ns": 1785567352000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0042.jpg", "source_sha256": "7c5f9fa34e618f4afd67a3c9db7d271aafe5f9ccc9ed6bc1f6715d7ea724a9a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE: 1
+
+S. 826 Lincoln Place
+Spokane, WA. 99204
+Feb. 24, 1987
+
+Paul Steucke
+
+Federal Aviation Administration
+701 Cc. St.
+
+Office AALD5
+
+Anchorage, Alaska 99513
+
+Mr. Steucke:
+
+Please send me a price breakdown on the information the FAA has
+available concerning the recent UFO sighting by a Japan Air Lines
+flight crew.
+
+I understand that the total package is $194, but that parts of the
+package can be purchased individually. It is the price of each of
+these options that I am interested in.
+
+Thank you for your time.
+
+Sincerely,
+
+Randall McCarthy

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T11:08:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6849940, "source_ctime_ns": 1793356196320507094, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989307-001-0086.jpg", "source_mtime_ns": 1785564634000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989307-001-0086.jpg", "source_sha256": "92941a53718db05bb00961e64d7000fedd6898c3bf1e35b7cef225aff1eea262"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 196, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+‘
+
+bocag
+
+Rene ve ne |
+
+{
+
+BY ARMY
+
+AND DEFENSE CLAS
+AUTHORITY: Para 3-LO0>
+DATE: 11 August (0
+DECLASSIEY-On :
+
+DECLASSIFIED -
+sey WIIG? E78
+y
+
+This document is part of an unclassified series

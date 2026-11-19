@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T11:21:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16978761, "source_ctime_ns": 1793355037892949465, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0039.jpg", "source_mtime_ns": 1785564382000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0039.jpg", "source_sha256": "dbbf0ffe75a87081cf1a462e7161b2567e9e31bf281331516d26ba0cdbf42174"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 95, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+44, L 656 Fs 2330-835 8166 PraEerF™® 2330- SYHO34tSO
+
+M-7 trailer with Heavy Load Launch Arms

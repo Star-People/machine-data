@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T10:47:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1547447, "source_ctime_ns": 1793355973551872185, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0080.jpg", "source_mtime_ns": 1785564572000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0080.jpg", "source_sha256": "532a7f8b4a048c996287b17ab7d8395a3f1251579b917c6ceb4fd3effc904a98"}
+
+===== PAGE 1 =====
+{"alpha_words": 278, "chars": 1870, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+69
+
+was exposed to an estimated maximum of 5.) pounds per square inch of wind
+pressure, but he suffered no ill effects except temporary and quite minor
+blood blisters apparently caused by wind-blown grains of sand that penes::
+trated his clothing. It was, he later said, the "easiest" of all the
+twenty-eight sled runs he had made so far either at Edwards or at Holloman.”
+
+The next aeromedical activity on the Holloman track was another static
+test of the tumbling seat, followed by a full-scale tumbling-seat experi-
+ment on 1h; September, ‘Twelve rocket units were used for propulsion as
+against six on the one previous non-static tumbling-seat test, and maximum
+velocity was 761 feet per second, An anesthetized chimpanzee was spun at
+the rate of 105 revolutions per minute while being exposed to sudden wind»
+blast (through the opening windshield)and to braking deceleration that
+averaged twenty-five g and reached a peak of forty-five gz yet the subject
+came through very meen This type of experimentation supplemented
+research done elsewhere on the effects of pure tumbling, for instance on
+a spinning turntable, but with its fixed axis of rotation the tumbling
+seat did not wholly simulate free-fall tumbling as encountered during escape
+from aircraft. For this and other reasons--including the hope of simply
+eliminating rapid tumbling by means of stabilizing devices--the Aeromedical
+Field Laboratory did not continue its tumbling-seat experiments, but instead
+continued work on deceleration and windblast both separately and in combi-~
+nation with each other.”
+
+The month of September also saw the first testing on the Holloman track,
+with a chimpanzee subject, of a new device for producing abrupt windblast-~
+a windshield that covld be jettisoned explosively at a given point during
+
+the run. Unfortunately, the jettisonable-windshield technique inflicted

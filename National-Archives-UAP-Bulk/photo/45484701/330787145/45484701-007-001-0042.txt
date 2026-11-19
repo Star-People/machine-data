@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T11:14:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8732794, "source_ctime_ns": 1793364451890309798, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0042.jpg", "source_mtime_ns": 1785684561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0042.jpg", "source_sha256": "55568b282d570d37593f27e8bac10adc09c853d9b3adf1820e55ea5c46ad4704"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 361, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+@
+
+Ltr 18D CI 24-0, S: RICHARD MILLER, GAYNE MYER, Solar Cross Foundation;
+to FRI-LA, dtd 7 Jul 59
+
++ The above is transmitted for information purposes only. ‘This office
+contemplates no further inguiry.
+
+Ro. PF. P. DUNNENGION, JR.
+A Colonel, USAF
+District Commander Atch
+Telegram dtd 10 Jun 59
+
+bepy to: Dir OSI, w/Ateb
+
+Declassification Authority: NND 923007

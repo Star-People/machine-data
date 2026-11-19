@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T11:10:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7224224, "source_ctime_ns": 1793383384866356142, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986886/0587.jpg", "source_mtime_ns": 1785748339000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986886/0587.jpg", "source_sha256": "cbd93dc54562cef510b9c08d9710ada61e8ffa2d4e5758be8cb1766719939fbc"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 958, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+, PROJECT 10073 RECORD CARD .
+
+_. DATE 2. LOCATION 12. CONCLUSIONS
+17 May 60 SW of Albans, West Virginia OQ Was Balloon
+QO Probably Balloon
+3. DATE-TIME GROUP | 4. TYPE OF OBSERVATION 0 Possibly Balloon
+Locet __/ Qf Ground- Vi sual © Ground-Radar QO Was Aircraft
+Binoculars Q Probably Aircroft
+our 1900302 May 60 O Air Visual D Air-Intercept Radar 0 Possibly Aircraft :
+“5. PHOTOS| 6. SOURCE 0 Was Astronomical
+O Yes 0 Probably Astronomicol
+No Civilian 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE c Other
+Insufficient Data for Evaluation
+ks min one W 0 nown
+
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Red or orange object came over horizon moving | Report does not contain sufficient infor-
+B to W at about 500-600 feet. Faded into dark- | mation for analysis. The object is pro
+ness. a star or planet, however without the
+location and total movement it cannot be
+determined which one.
+
+ATIC FORM 329 (REV 26 SEP 52)

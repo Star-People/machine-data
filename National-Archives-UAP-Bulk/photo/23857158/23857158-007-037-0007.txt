@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T10:51:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3261636, "source_ctime_ns": 1793359329775334856, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-037-0007.tif", "source_mtime_ns": 1785681380000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-037-0007.tif", "source_sha256": "ccab9aa63c72fe48a9dd286b5b0e8f90ef188bfe502190365ee02fbfd9a063f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1225, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+ATSOP Long Distance Telephone Call
+. 0915 hours
+
+| AISS=51
+MEMORANDUM FOR RECORD:
+
+a 1. Telephone conversation between A/IC DeRudder, Headquarters, and
+1/Lt DS, Jameson, Flight 2-D.
+
+2, Ib was requested that the investigating officer of the UFOB sighting
+of Bryan AFB, Texas submit the following information on the above mentioned
+sighting: .
+
+a. A complete record of the tracking of the rawinsonde balloon
+
+'. mentioned in the Preparing Officer's cenelusions on the cause of sighting.
+
+_ be The release time of the balloon as well as the intervals of
+time on the tracking of the balloon, .
+
+c. The possibility of any other balloons released in the immediate
+area near the time of sighting.
+
+3. The undersigned was informed that the release time and tracking
+times of the balloon were not available, but the altitude, azimuth, and
+quadrant plottings were available and were taken by the undersigned,
+
+. h, Lt. Jameson stated that he would cheek the possibility of other
+balloon releases in the area and would submit the information to this
+Headquarters ne later than 1700 hours, this date, if any significant data
+is uncovered,
+
+Ronald DeRudder, A/C, USAF
+Operations Control (UFOB)
+
+&
