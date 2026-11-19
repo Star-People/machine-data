@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T12:40:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1245960, "source_ctime_ns": 1793393036421895296, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302573112/1391.jp2", "source_mtime_ns": 1785808573000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302573112/1391.jp2", "source_sha256": "32a2e63bcf3be338c0d19132c15f1bad7723f1c6ee548681f1d272e586a62e2a"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 447, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+BTAG/EAD (#5992D/SSgt Dunham) 27 Mar 68
+
+Request for Weather Data
+
+FTD (TDPTR+)
+
+Wright-Patterson AFB, Ohio 45433
+
+1. Requested surface and upper-air wind data required to complete the
+evaluation of a reported UFO pean at Valley Station, Kentucky are
+atLaehen,
+
+26 Data sources were ETAC surface and upper-air history files,
+
+FOR THE COMMANDER
+
+JOHN T. MoCABE, Lt Colonel, USAF 1 Atch
+Chief, Environmental Applications Division 1 Wind Data Sheet

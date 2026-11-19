@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T12:42:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1708505, "source_ctime_ns": 1793389986034204355, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545350/1126.jp2", "source_mtime_ns": 1785808299000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545350/1126.jp2", "source_sha256": "0fc406500d58f434830380bd1510773c5af751b981a234f01a101f44a4765f26"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 19, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+OP
+
+poate Re
+
+are

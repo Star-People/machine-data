@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:06:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8199524, "source_ctime_ns": 1793365138088522257, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0018.jpg", "source_mtime_ns": 1785684779000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0018.jpg", "source_sha256": "d1b47d20cfcf5279fa441fb2eb3778b0efdab614d67d9dcd6a8f68bf22cf94f3"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 59, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+ma
+
+4
+
+snes? ‘ | y
+
+Declassification Authority: NND 923007

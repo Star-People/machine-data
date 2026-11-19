@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:00:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6220160, "source_ctime_ns": 1793361818456646553, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0016.jpg", "source_mtime_ns": 1785685071000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0016.jpg", "source_sha256": "f6898978350816b1762db2e08826f51428cb68c8cc64d8e08860e5db8a7e1175"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1039, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+IN REPLY REFER TO:
+
+DEPARTMENT OF THE AIR FORCE
+
+HEADQUARTERS UNITED STATES AIR FORCE 5D-0S I/JMB/dj
+WASHINGTON
+
+THE INSPECTOR GENERAL, USAF
+STH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WRIGHT-PATTERSON AIR FORCE BASE, DAYTON, OHIO
+
+15 April 1949
+
+Colonel William E. Carpenter
+
+Deputy Director of Special Investigations
+Office of The Inspector General
+Washington 25, D. C.
+
+Dear Colonel Carpenter:
+
+SUBJECT: PROJECT "GRUDGE"
+SPECIAL INQUIRY
+
+In accordance with your oral request, inclosed are several
+copies of the form used by this office in conducting investigations
+of the captioned matter.
+
+This office has been conducting investigations of these
+incidents at the specific request of the Technical Intelligence
+Division, Air Materiel Command, Wright-Patterson Air Force Base,
+which division has supplied the inclosed forms.
+
+Yours very truly,
+tot sie Pag Pe AS
+LIne d: JEROME M,. BRAUN
+
+Guide to Inv. forms Acting District Commander
+
+ed ecmencintnmnanntin pi shpie Wey seen)
+
+WF-O-5 OCT 48 15M
+
+Declassification Authority: NND 923007

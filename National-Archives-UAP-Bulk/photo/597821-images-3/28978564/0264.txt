@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:08:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8711958, "source_ctime_ns": 1793380833580608422, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978564/0264.jpg", "source_mtime_ns": 1785700927000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978564/0264.jpg", "source_sha256": "ae5b32bf94c13a4ea546be140e3e3c77e1e0d9d640bb1fb32d3eb68ba50e7479"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 725, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+* 16,000 FEET . E280 DEGREES/S@ KNOTS. eg a e
+
+20,000 FEET £290 DEGREES/35 KNOTS
+30,000 FEET £299 DEGREES/5® KNOTS 6
+59,000 FEET £290 DEGREES/6@ KNOTS ®
+63,000 FEET UNKN DEGREES UNKN
+
+| Cz CEILING 12099 SCTD/HI SCTD
+
+De VISIBILITY 15 MI NOE « Scpered C /oud =) e
+
+Ee CLOUD COVER SCTD
+
+Fé THUNDERSTORMS NEGATIVE - a
+& NONE 3 ®
+5 NONE |
+76. MEMPHIS LY TRAFFIC WAS ONE DC-7 SOUTHBOUND val
+‘OVER MEMPHIS AT 05072 _ | ae ®
+
+11. OPERATIONS OFFICE, MAXWELL FLIGHT SERVICE CENTER, MAXWELL AFB ALAc
+
+12. NONE . : .
+REMARKS: NO OTHER REPORTS RECEIVED. THIS REPORT FORWARDED TO THIS °
+
+PAGE FOUR ROEMBJ 268 ®
+FLIGHT SERVICE CENTER BY MEMPHIS ARTCe NO FURTHER INFO AVAILABLEs e
+SIGNED ROSS ENDe
+BT = e
+26/9654Z JUN ROEMBJ a
+chines
+-@
+)

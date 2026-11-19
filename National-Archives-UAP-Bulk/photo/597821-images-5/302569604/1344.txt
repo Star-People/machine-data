@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:21:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1396491, "source_ctime_ns": 1793392662909485678, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569604/1344.jp2", "source_mtime_ns": 1785808201000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569604/1344.jp2", "source_sha256": "99dd091f4210a92802997610912f15c7cde25a07d5188764f7af669cc0fe78e3"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 590, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNIVERSITY OF COLORADO
+BOULDER, COLORADO 680302
+
+202 Woodbury Hall 27 March 1968
+
+DEPARTMENT OF PHYSICS ANDO ASTROPHYSICS
+
+Major Hector Quintanilla, Jr.
+Chief, Aerial Phenomena Office
+Aerospace Technologies Division
+Production Directorate
+Department of the Air Force
+Wright-Patterson Air Force Base
+Ohio 45433
+
+Dear Hector:
+
+Did you get the photograph that the observer,
+in reoorting the McGuire AFB sighting of 27 January
+1968, said he had taken (and would send you) in connection
+with another UFO sighting?
+
+Regards,
+Sincerely yours,
+
+botr
+
+Robert J. Low j
+Project Coordinator
+UFO Study

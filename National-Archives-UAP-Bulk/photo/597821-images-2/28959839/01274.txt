@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T12:46:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3374522, "source_ctime_ns": 1793376234616266536, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959839/01274.jpg", "source_mtime_ns": 1785696950000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959839/01274.jpg", "source_sha256": "6c98b150e5f9ecf2d710d582f0e8865d3f2d1af3455e14d369fb614c39f58cd9"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 873, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1.
+
+DATE - TIME GROUP
+ll October 1954
+1.2/00307
+
+2. LOCATION
+
+Marloboro, Maryland
+
+be
+
+SOURCE
+
+Civilian
+
+oo
+
+NUMBER OF OBJECTS
+1
+
+10. CONCLUSION
+
+Balloon
+
+5.
+
+LENGTH OF OBSERVATION
+
+10 Minutes
+
+6.
+
+TYPE OF OBSERVATION
+
+pay
+Groung Visual
+
+7.
+
+COURSE
+Nw
+
+8.
+
+PHOTOS
+
+0D Yes
+TEX No
+
+9,
+
+PHYSICAL EVIDENCE
+
+~tr Yes
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Object size of baseball. Yellow, changing to red. Speed
+estimated at 5 mph, altitude 6-10,000 ft. No sound. Small
+red tail. Motion upward and to NW,
+
+Speed of 5 mph of object thid size at this altitude would be
+difficult to note. Some inconsistancy on this point with a
+duration of 10 minutes. No report on manner of disappearance,
+however the general description and flight characteristics ere
+in accord with a balloon obsefvation,
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.

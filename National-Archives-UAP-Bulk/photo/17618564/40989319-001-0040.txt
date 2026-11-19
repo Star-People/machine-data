@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:21:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1125567, "source_ctime_ns": 1793356363523801269, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0040.jpg", "source_mtime_ns": 1785564686000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0040.jpg", "source_sha256": "680ea6787aa3512e6a8ce364b241e48f96fc9cfea4af2da23dafa0c974f362e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 236, "chars": 1491, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+uninflated balloon at a point about 15 feet fram the upper end and so
+that an inflation tube leading to the upper portion of the balloon
+passes between them, The remainder of the balloon and the flight
+
+train is laid out on the ground in a downwind direction, Gas is then
+run through the inflation tube into the upper portion of the balloon
+
+to form a bubble, which is protected by the windshield. When everything
+is ready, two men simltaneously remove the shot bags and the balloon
+rises freely in the uir and passes over the train of equipment (see
+Figure 14). The person holding the bottom piece of equipment must get
+directly beneath the balloon before releasing it.
+
+In some cases, the bailoon shot bags are placed on a plate
+form scale and the lift of the balloon is determined by weighing; but
+experience has shown that the proper amount of gas can be determined just
+as satisfactorily from the pressure and temperature of the gas in the
+helium cylinders.
+
+v. GROUND RECEIVING EQUIPMENT
+Three types cf ground recording equipment were used in the Pacific
+Area:
+
+1. A standard T-21 microphone, modified to have frequency
+characteristics similar to those of the airborne microphone, and a two
+channel- Brush recorder;
+
+2. A standard GR-8 Signai-Corps recorder (see TM 11-2568)
+with T-21 microphones used in arrays so that the azimth and elevation
+angles of arriving signals could be determined;
+
+3. A recording altimeter,
+
+The recording altimeter, which was borrowed from the United
+
+17

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T12:39:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1018597, "source_ctime_ns": 1793388756582858038, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531972/0275.jp2", "source_mtime_ns": 1785808549000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531972/0275.jp2", "source_sha256": "de59858f1c8450b00a076fb4a4d17f415be1da68283b0f99c1316c654f66ea09"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 938, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eee eee
+
+PROJECT 10073 RECORD C*" J
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+Baltimore x 0 Was Balloon
+4 Apr 64, peer Q Probably Bolloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+0315 f 0 Was Aircraft
+Local 3 xs Ground- Vi sual O Graund-Radar Q Probably Aircr oft
+cmt__04/08152Z D Air Viaval D Air-intercept Rodar |9 Possibly Aircroft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes QO Probably Astronomical
+@M No Civilian O Possibly Astronomical
+
+7. LENGTH OF OBSERVATION
+
+1 + hours
+
+6. NUMBER OP OBJECTS | 9. COURSE
+
+Multiple Stationary
+
+00
+
+Other_Psychological Cau
+
+Insufficient Data for Evaluation
+nown
+
+BCE
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Strange patterns on Television set.
+Observer assumed them to be verious
+forms of flying saucers etc...
+
+1. COMMENTS
+
+Electronic interference on set most
+likely cause of unusual patterns.
+Inagination of witness aistorting
+these patterns into saucers.
+
+ATIC FORM 329 (REV 26 SEP 52)

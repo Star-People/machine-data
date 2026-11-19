@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:21:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1368865, "source_ctime_ns": 1793356137097212864, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0081.jpg", "source_mtime_ns": 1785564617000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0081.jpg", "source_sha256": "a614b385a8b80ecf0fdc99801984eba66b3310e0d0fa11bdd608dcb19446e188"}
+
+===== PAGE 1 =====
+{"alpha_words": 312, "chars": 1964, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS EIGHTH AIR FORCE
+OFFICE OF THE COMMANDING GENERAL
+FORT WORTH, TEXAS
+
+9 December 1947
+
+Major General Clements McMullen
+Strategic Air Command
+
+Andrews Field
+
+Washington 20, D. CS.
+
+Dear General McMullen:
+
+I have intended to mention to you several times since General
+Rawling's visit that we considered his visit most instructive and
+although we thought we were doing fairly well in a comparative cost
+analysis we found (at least I did in particular) that we didn't
+know too much about the subject... I was unable to explain without
+considerable after-study several things that I knew at the time
+were wrong as you will note from the inclosed letter to General
+Rawlings. He asked me to send him what the actual story was when
+I found it out.
+
+As I told you in our telephone conversation yesterday, the
+B-29 airplane situation is apparently very bad since they are now
+a month behind in their supply and no immediate solution seems
+forthcoming.
+
+Hutchinson called after you called yesterday and stated that
+in the telephone conversation with Roswell they found out a great
+many things other than morning reports that would have to be
+changed and that USAF had agreed to our solution. Certainly glad
+that they decided to do so because the change would have been
+almost. disastrous and physical compliance with their original
+order would have been extremely difficult. lihat, of course, we
+should have done was to have Air Forces delay their original order
+for uso
+
+General, I would sure be interested in knowing what General
+Kenney worked out with General McNerney on the gasoline situation.
+I certainly am worried about that because I am very mucn afraid
+that if the situation continues that we are leading into an epi-
+sode of either grounding planes or fires in the air, or both.
+Incidentally, we are submitting some projects now toward revision
+of aqua systems in order to meet the possibility of being supplied
+
+with various octane rating gasolines.

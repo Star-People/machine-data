@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T12:50:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4604614, "source_ctime_ns": 1793378655125204554, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968741/0221.jpg", "source_mtime_ns": 1785696504000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968741/0221.jpg", "source_sha256": "a06546a8c16ca5935273c705e6dc3e460099b3bbb9ed31d00a3db2095cfe1e97"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 905, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pat as PROJECT 10073 RECORD CARD i
+1. DATE 2. LOCATION 12, CONCLUSIONS
+QO Was Bolloon
+31 December 1956 Denver, Colorado a probenly alleen
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION btn ep aaa
+Local — XX Ground- Vi suol D Ground-Radar o Probably Aircraft
+cut__01/0640Z Jan 57_ DO Air Visual D Air-Intercept Radar QO Possibly Aircraft
+5. PHOTOS. —- 6. SOURCE G. Wan Aahenomieal
+xX es O Probably Astronomicol
+O No military O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 0 , Other
+XR Insufficient Data for Evaluation
+(a) nknown
+2 hrs 25 mins two straight up
+10. BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+Objs round, swe of pea. Color white, Photos not received. Sighting
+one bright obj, one dark obj in probably astro, However, case
+upper right. Obj was thought to be listed as insufficient data die
+an a/c. Photos were taken. to lack of photos.
+
+ATIC FORM 329 (REV 26 SEP 52)
