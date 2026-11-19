@@ -1,0 +1,286 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T00:05:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 953999, "source_ctime_ns": 1793355793613888485, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0025.jpg", "source_mtime_ns": 1785564527000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0025.jpg", "source_sha256": "e9b396130bdf7a99068be12b9e2885a5a68f76a30c52d2f2e76ae96ee0b025b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 192, "chars": 1849, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HISTAFHISTORY (DK),
+
+,
+,
+'
+
+’
+
+AU/HO,
+
+55 LEMAY PLAZA SOUTH,
+MAXWELL AFB,
+
+AL,
+
+36112-6335,
+
+5
+
+HISTAFHISTORY (DK),
+
+12 FTW/HO,
+
+1 WASHINGTON CIRCLE,
+SUITE 01,
+
+RANDOLPH AFB,
+
+TX,
+78150-4563,
+5
+
+HISTAFHISTORY (DK),
+
+14 FTW/HO,
+
+555 7TH STREET,
+ROOM 126,
+COLUMBUS AFB,
+MS,
+
+39710-5000,
+
+S)
+
+HISTAFHISTORY (DK),
+
+17 TRW/HO,
+
+184 FORT LANCASTER AVE,
+SUITE I,
+
+GOODFELLOW AFB,
+
+TX,
+
+76908-4431,
+
+5
+
+HISTAFHISTORY (DK),
+
+37 TRW/HO,
+
+1820 ORVILLE WRIGHT PLZ,
+SUITE 2,
+
+LACKLAND AFB,
+
+TX,
+
+78236-5557,
+
+5
+
+HISTAFHISTORY (DK),
+
+47 FTW/HO,
+
+598 4TH STREET,
+SUITE 2,
+LAUGHLIN AFB,
+TX,
+
+78843-5202,
+
+5
+
+HISTAFHISTORY (DK),
+
+‘
+’
+,
+
+‘
+
+56 FW/HO,
+
+7383 N LITCHFIELD ROAD,
+LUKE AFB,
+
+AZ,
+
+85309-1534,
+
+5
+
+HISTAFHISTORY (DK),
+
+’
+,
+'
+‘
+:
+
+58 SOW/HO,
+
+4249 HERCULES WAY SE,
+KIRTLAND AFB,
+
+NM,
+
+87117-5004,
+
+5
+
+HISTAFHISTORY (DK),
+
+71 FTW/HO,
+
+346 SAWYER STREET,
+SUITE 3,
+
+VANCE AFB,
+
+OK,
+
+73705-5118,
+
+5
+
+HISTAFHISTORY (DK),
+
+81 TRW/HO,
+
+720 CHAPPIE JAMES,
+SUITE 201,
+
+KEESLER AFB, .
+MS,
+
+39534-2604,
+
+5
+
+HISTAFHISTORY (DK),
+
+82 TRW/HO, ,
+419 G AVENUE,
+
+SUITE 06,
+
+SHEPPARD AFB,
+
+TX,
+
+76311-2946,
+
+5
+
+HISTAFHISTORY (DK),
+
+97 AMW/HO,
+
+100 INEZ BLVD,
+ALTUS AFB,
+
+OK,
+
+73523-5047
+
+5
+
+HISTAFHISTORY-3
+
+HISTAFHISTORY (DK),
+
+,
+’
+
+'
+
+325 FW/HO,
+
+500 MINNESOTA AVENUE,
+SUITE 1,
+
+TYNDALL AFB,
+
+FL,
+
+32403-5426
+
+bs)
+
+HISTAFHISTORY (DK),
+
+,
+U
+
+,
+
+USAF SEC POLICE MUSEUM,
+343 TTS/SPM,
+
+1350 FEMOYER ST,
+LACKLAND AFB,
+
+TX,
+
+78236-5429,
+
+1
+
+HISTAFHISTORY (DK),
+
+HSTRY TRADITIONS MUSEUM,
+37 LG/LGMH,
+
+2051 GEORGE AVE,
+LACKLAND AFB,
+
+TX,
+
+78236-5218,
+
+1
+
+HISTAFHISTORY (DK),
+
+,
+
+USAF ENLISTED,
+HERITAGE HALL,
+USAF SNCOA/EHH,
+550 MCDONALD ST,
+GUNTER ANNEX,
+MAXWELL AFB,
+
+AL,
+
+36114-3107,
+
+1
+
+HISTAFHISTORY (DK),
+
+HQ AFMC/HO,
+
+4375 CHIDLAW RD,
+SUITE 6,
+WRGT-PTRSN AFB,
+OH,
+
+45433-5006,
+
+17
+
+HISTAFHISTORY (DK),
+
+ASC/HO,
+
+2275, D ST,
+SUITE 2,
+WRGT-PTRSN AFB,
+OH,
+
+45433-7219,
+
+25
+
+\\0

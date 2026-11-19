@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T00:21:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3652755, "source_ctime_ns": 1793371790636732904, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939743/00958.jpg", "source_mtime_ns": 1785688771000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939743/00958.jpg", "source_sha256": "b2b1a09d0899a88613d56e8b880e74cf611fba0e097350a86935dcd46dd0b223"}
+
+===== PAGE 1 =====
+{"alpha_words": 180, "chars": 1160, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+two rows, wnile the fourth shows all spots lined up in
+
+a single row. All negatives snow evidence of camera
+motion during exposure, since the spovs all are similarly
+blurred on the same nesative, and the blur shape is dif-
+ferent for each negative.
+
+4. To resolve che formations and detect internal
+motion of the spots, each necative was examined on a large
+comparator microscope. The rectangular coordinates of
+each spot, rélative to a convenient origin of coordinates,
+were read and then plotted on coordinate oaper. It is
+emphasized here that the resulting plot is erect, but a
+mirror imags from left to right, of the actual object
+
+photographed.
+
+h. Little significance, other than brichtness
+variations, can be found from the negatives separately.
+When the charts were superimposed, however, it was readily
+apparent that the two rows of spots behaved differently.
+One row shows only slignt variation from a precise "vy"
+forszation throughout, whereas the other row avpears to
+pass from above the first row, through it to a position
+below. The spacings of this second row vary irregularly
+
+r
+
+in che 35 frames plotsed, wnile the first row holds a
+
+;
+|
+|
+}

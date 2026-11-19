@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T00:12:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1617920, "source_ctime_ns": 1793389255525769034, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538528/00527.jp2", "source_mtime_ns": 1785808111000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538528/00527.jp2", "source_sha256": "92f8f1ca2bdcff4fcce779f2850f978cf5c9e5ca8c03f47304a99a1719058ad4"}
+
+===== PAGE 1 =====
+{"alpha_words": 299, "chars": 2004, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ltr., 5FICO, 23 Apr 65, subj: (U) UFO Report
+2nd Ind. (TDEED/Capt Dunlap/pkj/74236) 7 May 65
+
+TO: TDEW/UFO
+
+1. (QPEvaluation of the Misawa AB, Japan, UFO Report indicates that the
+probable cause was anomalous propagation. Radar echoes obtained from re-
+gions of the atmosphere where no apparent reflecting source exists, com-
+monly referred to as “angels,'' can usually be attributed to various causes;
+i.e., birds, insects, and meteorological effects. In this instance, the
+reported factors (range of target, speed, and no visual sighting) tend to
+support anomalous propagation.
+
+2. Anomalous propagation occurs when the radiated radar beam is bent,
+by reflection or refraction, to the ground. The echoes return to the radar
+by the same path. The radar actually sees the ground or some object on the
+ground as a target. An apparent moving target is observed if the beam
+illuminates a moving object or even when the beam illuminates a stationary
+object on the ground if the reflecting portion of the atmosphere is itself
+in motion. It has been reported that at a range of 50 miles a horizontal
+reflecting layer rising 3 meters per second could cause an apparent echo to
+move at 300 miles per hour. This appears to be the only likely technical
+explanation for the target speeds observed in this report.
+
+ae @ tack of tangible evidence does allow the existence of other plausible
+causes. It is possible that spurious signals from airborne, shipborne or
+ground-based sources accidentally or intentionally caused the appearance of
+the seemingly nonexistent targets. However, as pointed out in Det 4, FTD
+letter (U) "Supplement to UFO Report," 4 May 1965, it is unlikely that two
+radars operating at different frequencies would observe a false target,
+electronicaily generated, in the same position. Consideration of the avaii-
+able evidence, however, tends to support anomalous propagation as the cause.
+
+FRANK L. AYRES 1 Atch
+Colonel, USAF n/c
+Electronics Directorate
+Deputy for Technology
+
+and Subsystems

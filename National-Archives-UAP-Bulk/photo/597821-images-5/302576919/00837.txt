@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T00:05:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 799343, "source_ctime_ns": 1793393384728648057, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302576919/00837.jp2", "source_mtime_ns": 1785808582000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302576919/00837.jp2", "source_sha256": "c58ee9b7d23538db296faec3fa1a05796880e997b8792e0c79193e6ca0ea1950"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 557, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+iM
+
+iDPT (UFO)
+
+UFO Report of 21 June 1963
+
+venue
+Flushing, Queens, New York 11355
+
+Reference your recent UFO sighting which you reported to the Air
+Force... The information we have received is not. sufficient for a
+scientific investigation... Request you complete the attached Photo-
+Data sheet: and return it in the self-adcressed envelope. Than you
+for reporting your observation to the Air Force.
+
+2
+Pee ts QUINTANILLA, Jr., Lt Colonel, USAF 1 Atch
+Chief, Aerial Phenomena Branch Photo-Data Sheet
+Asrospace Technologies Division
+Production Directorate

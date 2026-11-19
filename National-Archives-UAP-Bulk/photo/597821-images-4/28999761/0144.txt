@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T23:44:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4673340, "source_ctime_ns": 1793388035918522035, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999761/0144.jpg", "source_mtime_ns": 1785748457000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999761/0144.jpg", "source_sha256": "1a0196f572a1a184b49915a2c20c83b1b4848ad6e2a4c5d6d9c8f378418044dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 597, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Wi. aoe ee ee
+
+Sag eee DaBeIDT OF THE AIR FORGE
+STAPF MESSAGE BRANCH
+
+UNCLASSIFIED MESSAG?
+
+INCOMING
+
+AF IN : 16385 (7 Nov 62) page 2 of 2
+
+RUECW/CNO WASHINGT ON DC
+
+RUE CW/SECNUV WASHINGT ON DC
+
+AF GRNC
+
+BT
+
+UNCLASXUFO SIGHT ING T10154 REPORTS SIGHTING WHAT APPEARED TO BE
+A FLARE AT PSN 2Q0N 179W REQD CK IF ANY SHIPS OR PLANES IN THAT
+AREA. ACFT WAS GIVEN RE@ INFOR RE ACFT BY WAKE ARTC AND SHIP
+INFO FROM SAR FLAN ALFA BY IFSS. QUERY MADE. TO ANOTHER ACFT ON
+SAME ROUTE ZDZD DID NOT OBSERVE FLARE. LACAILLE IFSS 08/1749Z.
+NM SVALUAT ION. A |
+
+BT
+
+28/1945Z
+
+NOTE: Adv cy to DIA, CIN, & OOP-CP

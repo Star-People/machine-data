@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T23:40:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4166022, "source_ctime_ns": 1793381489668595435, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980390/00477.jpg", "source_mtime_ns": 1785701052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980390/00477.jpg", "source_sha256": "173f99e9234c92a3e5ccd37103ec6769ddfbfe49b465ee6d1390c46f3f61e2c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 132, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+COMPhFTELY
+INCANDESCENT wittl
+BRIGHTEST Pewr Aree
+
+oe
+
+Ra’
+
+~
+
+APPROX (MATE SIZE AS
+RErP6RTED BY AT LEAT
+Two oF THE WITNESSES
+
+£3)

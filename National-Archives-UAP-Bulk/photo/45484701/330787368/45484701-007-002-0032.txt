@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-18T23:52:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5825590, "source_ctime_ns": 1793364561351758461, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0032.jpg", "source_mtime_ns": 1785685193000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0032.jpg", "source_sha256": "f0002719a50039410b2002d225c9bdb903ce502a370cf74bcab929e550ddac69"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 115, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Fig. 4,
+
+The ion clouds near two parallel opnositely charged
+
+wires in air
+
+Declassification Authority: NND 923007
