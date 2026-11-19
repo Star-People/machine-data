@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:19:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9670723, "source_ctime_ns": 1793383412387838536, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986955/0647.jpg", "source_mtime_ns": 1785748192000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986955/0647.jpg", "source_sha256": "cc9995e1539c316026a56274aa201d35bbb6eab7c9eced6e10b94261487aceba"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION
+25 May 1960 Orlando, Florida
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Local Gf Ground- Vi sual O Ground-Radar
+omt___.26/03302 60 O Air Visuel O Air-intereept Rodar
+5. PHOTOS ‘ G. SOURCE
+QO Yes
+om Civilian
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE
+2 min
+
+one 280°
+
+Do00 ooo goo ooo.
+
+CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aireraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomicol
+Possibly Astronomical
+
+Other
+insufficient Data for Evaluation
+nknown
+
+10, BRIEF SUMMARY OF SIGHTING
+
+Round object looked like star, white, first
+‘seen at 270°, 60° elev disappeared at 40°
+
+elev, 285° heading. Constant speed, viewed with
+naked eye. Believed to be satellite.
+
+11. COMMENTS
+
+Could not be satellite due to direction
+of flight. Possibly high flying a/c.
+
+| ATIC FORM 329 (REV 26 SEP $2)

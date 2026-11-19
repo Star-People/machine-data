@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:24:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13467112, "source_ctime_ns": 1793355457787224392, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0039.jpg", "source_mtime_ns": 1785564458000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0039.jpg", "source_sha256": "23c27c75cd9f177a70f6b762ad10c5df4c3f684e298b083f55865a6ed113f17c"}
+
+===== PAGE 1 =====
+{"alpha_words": 218, "chars": 1559, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1,’ INTRODUCTION
+
+Heavy-load balloons represent near-ideal vehicles for basic research and
+developmental testing above the principal part of the earth's atmosphere. Many
+possible applications require or would be greatly expedited by a simple control sys-
+tem for orienting and stabilizing the instrument gondola about the vertical axis.
+
+One experiment of this nature is the Aerospace Photographic Reconnaissance Exper-
+iments (APRE) being conducted by Honeywell Aeronautical Division as prime con-
+tractor to the Reconnaissance Laboratory, Aeronautical Systems Division, USAF,
+under Contract AF 33(657)-7171.
+
+In this application, as in many other potential experiments, an AZ On tenic
+tation system was required to control the orientation of a large gondola to + 0.1
+degree of geographic reference with minimum rate disturbance during the stabili-
+zation mode.
+
+A stabilization mechanization utilizing cold nitrogen gas as the propellant was
+selected because of its inherent simplicity and reliability and the minimum con-
+straints placed on over-all vehicle design. In the past, azimuthal stabilization of
+large gondolas has been obtained by employing the inertia-wheel approach in which
+a large portion of the gondola load (for example, batteries) or added weights are mounted
+so as to present a large inertia against which force can be exerted by the payload to
+
+maintain the desired reference. The payload is pivoted below the inertia load with
+
+[ q : > se oT) 2 Yece = O6-
+(Author's manuscript received for publication 31 December 1963)
+
+SSS IEE
+
+eas

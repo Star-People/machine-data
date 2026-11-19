@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:16:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8885284, "source_ctime_ns": 1793363512902906706, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0065.jpg", "source_mtime_ns": 1785684622000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0065.jpg", "source_sha256": "db6b35c08e0374b1af8f38b9deca9f30fec2e27576917dcde77bf2b6050ff7f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 73, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Scetch of Object Sighted
+
+fal Ma
+
+Declassification Authority: NND 923007

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:42:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 688749, "source_ctime_ns": 1793392754389592922, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570469/0082.jp2", "source_mtime_ns": 1785807986000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570469/0082.jp2", "source_sha256": "d696cc66ac9430bdb2e69fe7d3ce9681d73111f31c3fe997aa8de473245a75c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 519, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AFIN: 40142 Pg 2 of 3
+
+C4) 8-18
+(5) V SHAPED
+PACE 2 RUWMFVA1795 UNCLAS
+(6) NO
+(1) N/A
+(8> NO SOUND
+69) NONE
+Bo €1) JUST LOCK ING UP
+(2) FROM NORTH - HIGH AND FAST OR LGW AND FAST
+<3) OVER HORIZCN TO SOUTH
+C4) DESCENDING FLIGHT FRQN NTO S
+5) OVER HORIZON
+(6) ABOUT A MINUTE
+¢1) GROUND V!SUAL
+(2) NO
+(3) NWA
+0, €1) 2399 LOCAL 85982 23 SEP
+(2) NIGHT
+7) CAMPUS CF COLO STATE UNIV FT COLLINS
+
+*. (1) SEI CCL NS, COO 89521,
+
+AFHO 345. 0-300C UNCLASSIFIED |

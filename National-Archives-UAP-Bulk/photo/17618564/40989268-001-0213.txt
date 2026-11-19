@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:25:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16743131, "source_ctime_ns": 1793355769914395025, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0213.jpg", "source_mtime_ns": 1785564519000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0213.jpg", "source_sha256": "b38f4601b37d8a06cb57256a22b79f8115dccc3ca107585e3255ee6d68bc5fb3"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1076, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Py
+
+ie
+
+M1 —FLAT MIRROR - AZIMUTHAL MOUNTING OPERATED BY P1 AND P2
+M2 — PARABOLIC MIRROR OF 20", FOCAL LENGTH 60"
+
+M3 —CASSEGRAIN MIRROR
+
+A —SPECTROPHOTOMETER WITH BIREFRINGENT FILTER
+
+C —ADDITIONAL TELESCOPE FOR GUIDING
+
+OO = CV Erie Ce
+
+Figure 3. Balloon-Borne Telescope for Detection of Water Vapor in the
+Atmosphere of Planets
+
+Figure 4, Balloon for Astronomical Observations Used for
+Flight of 30 May 1954 by Audouin Dollfus
+
+b) A calibration of the IR spectrometer telescope for water-vapor measure-
+ments when the H,O band at 1.4 microns is desaturated, and a measurement of
+the total amount of water vapor in the earth's stratosphere above 40,000 feet of at
+least 0.005 er /em?, This high value assumes that, at the mean temperature of -60°C
+of the stratosphere, the layers of air must be close to saturation in a large fraction
+of the stratosphere.
+
+c) Preliminary measurements of the 1.4-micron band of water vapor on
+Venus; the result was marginal because an unexpected delay of half an hour at
+
+launch meant that the planet was not high enough above the horizon.

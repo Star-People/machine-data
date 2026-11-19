@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:46:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1125251, "source_ctime_ns": 1793355830389978474, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0062.jpg", "source_mtime_ns": 1785564535000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0062.jpg", "source_sha256": "4cc84178c6ed23e76f1a3d9b91c751ade7eebeacb72f946a3646160a538d26ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 217, "chars": 1379, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON, DC
+
+28 June 1995
+
+SAF/AAZD
+1720 Air Force Pentagon
+Washington, D.C. 20330-1720
+
+Mrs. Mildred Crary
+3010 New Mexico Ave
+Washington, D.C. 20016
+
+Dear Mrs. Crary
+
+Please accept my sincerest apology for taking so long to return the items you generously loaned
+to me. As we discussed, the small balloon photos are at the printer and I expect them to be
+returned very soon. The publication of the report I helped write last July is due to be released
+sometime this summer. I think you will be pleased by the representation of your husband and his
+work. Without your assistance the report and the publication would have been much more
+difficult, if not impossible, to research and write. I thank you and the Air Force thanks you.
+
+As soon as the book is ready for distribution I will send you a copy and I would appreciate your
+comments. I have also sent two photos of your husband; one with Doc Ewing and one that was
+taken at Watson Laboratories in Red Bank, NJ. I personally enjoyed my association with you and
+look forward to meeting with you in the future. Thanks again for all your help!
+
+Sincerely /
+
+S McANDREW, Ist Lt, USAFR
+/AAZD Declas and Review Officer
+
+Attachments:
+
+1. Typed journal of A.P. Crary
+
+2. Chase Studios portrait of A..P. Crary
+
+3. 29 3x5 photos taken at White Sands Proving Ground

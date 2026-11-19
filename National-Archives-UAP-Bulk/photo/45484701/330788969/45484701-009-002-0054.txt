@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:39:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22892887, "source_ctime_ns": 1793365524170907390, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0054.jpg", "source_mtime_ns": 1785684824000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0054.jpg", "source_sha256": "6a66c9b5be3dd201d5defdc108fa6267ec40628cf87489d5a390011c25a9ebe7"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 198, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2h—93 "Grey GOOSE"
+Photos No. 2,3,
+
+Tailassembly and part
+of disc.
+
+Fuselage showing cockpit
+and part of disc.
+
+Dise showing tripod mounting
+and brake drum.
+
+Declassification Authority: NND 923007

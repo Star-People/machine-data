@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:42:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 323656, "source_ctime_ns": 1793356291807681226, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0182.jpg", "source_mtime_ns": 1785564662000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0182.jpg", "source_sha256": "1f19ec25b688bae9f19ac9eeb08e099807c958ddf98232440cbdc64869e863a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 259, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NAME: POWELL, ERNEST O. SSAN:
+
+RANK: SSGT SERVICE #: 39255667
+
+BRANCH: USAF
+
+DATE OF BIRTH: 9/3/14
+
+PLACE OF BIRTH: HOBART, OK
+
+CAREER FIELD: COOK
+
+ROSWELL DATA: OCT 47 - 509TH AIRDROME GROUP/ NOV 48-
+
+DECEASED - DATE/PLACE:
+
+LAST KNOWN ADDRESS:
+
+NOTES:
+
+ID:

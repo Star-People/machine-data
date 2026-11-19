@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:53:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1977965, "source_ctime_ns": 1793356059365471329, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0182.jpg", "source_mtime_ns": 1785564595000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0182.jpg", "source_sha256": "20d8d9176db9fb50201ca72926a584ef920d5fb20349abae3e86c4164a9fbff4"}
+
+===== PAGE 1 =====
+{"alpha_words": 371, "chars": 2426, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+B. FHASE II.
+
+(1) ‘The type balloon to be used in this phase of the project
+will be a 15 to 40 ft. diameter plastic balloon, hydrogen
+filled. Radio equipment weighing approximately 25 lbs.,
+will be suspended approximately 100 ft. below the
+balloon. ‘The balloon will be towed to high altitude
+levels (above 20,000 feet) by three auxilliary lifting
+balloons fastened together with a 4 1b. weight. All
+equipment attached to the balloon will be equipped with
+parachute device so that upon sepearatior. from the balloon,
+the attached equipment will float down towards the earth
+rather than become a freely falling body. Upon attaining
+the desired altitude, the auxilliary lifting balloons
+will be released from the main balloon.
+
+(2) It is anticipated that a maximum of ten flights will be
+required in this phase of operation, 2 to 5 releases to
+be made from Allentown, Pa. and 2 to 5 releases tobe
+made from Lakehurst, N. J. Release will be made during
+weather conditions in which the sky is free of clouds
+and the visibility at least three miles at all altitudes
+up to 20,000 feet.
+
+(3) ‘The range of flight during this phase of operation will
+be between 30,000 and 60,000 feet. A period of six hours
+will be. the maximum duration of flight.
+
+(4) New York University will provide an operator for tracking
+of the balloon during period of flight and will furnish
+information on its position to the N.Y. Air Traffic
+Control Center during period of flight.
+
+(5) New York University will file a Notice to Airmen at
+least twelve (12) hours in advance of balloon release and
+a second notice will be filed at time of release with
+either the Allentown, Pa. or Lakehurst, N.J. Communica-
+tions Stations.
+
+(6) Destruction of the balloon will be predetermined to be
+effected over water where hazards are not present. Aerial
+convoy will not be effected during this phase of operation
+inasmuch as balloon flights will be conducted in excess
+of 20,000 feet.
+
+3. ‘The War Department member requests that balloon operations along
+the lines of Phase II be presented to the Washington Subcommittee for
+clearance with all other Regional Airspace Subcommittees, in consideration
+of War Department plans to continue the Phase II type of operation from
+White Sands, New Mexico, upon completion of the 12 proposed releases
+described herein. The type of balloon releases proposed out of White Sands,
+N. Mex., will involve flight through other regions.

@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:18:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9260779, "source_ctime_ns": 1793364961597420692, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788077/45484701-007-007-0008.jpg", "source_mtime_ns": 1785684950000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788077/45484701-007-007-0008.jpg", "source_sha256": "e39f62bb8a1ae3d2d5af6f4b694f18e6ef008f8bed4708e70e177e7761dc8453"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 76, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ai 13 ini 8 LNNOS
+
+sg TL 92 930 Loe
+
+Declassification Authority: NND 923007

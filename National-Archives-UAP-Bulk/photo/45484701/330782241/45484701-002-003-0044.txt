@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:12:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8333973, "source_ctime_ns": 1793362111571429801, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0044.jpg", "source_mtime_ns": 1785684711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0044.jpg", "source_sha256": "082655b70e4916db7b78106408bea1eee7045dd1c4961b7e65d302d809d1286e"}
+
+===== PAGE 1 =====
+{"alpha_words": 274, "chars": 1840, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+o “ 0 et oe o & 6 % on we 8 ee vee
+
+Rocketscience 7 Page 16
+
+Limits of Ejection Velocity
+
+‘hen we consider the heat content of & fuel and oxygen comb-
+ination as measured by a calorimeter and the relation between heat
+and energy, we know that 1 B.T.U. is equal to 778 ft..lbs., J ft.lb.
+The energy of the system is equal td
+
+E =.¢mve (4)
+OF Ga
+Considering one ound of vrovellant:
+B/Is) 1$¥v°/¢ (6)
+Vtheoreticas i4ege/J (7)
+However, since ‘e do not exverience parfect efficiencies, we must
+state the above cavation 33 -<=5-
+where ” 5 in vractice. varics from 9.46 to 0.80.
+
+Criteria for Rating Rocket Motors
+
+In an airviane motor, the tirist decreases with - 4ncreasing
+velocity and ‘1th tecreasing fens iy (altitude). . A180, airvlane
+motors vropell ith constant sveed. However, in the rocket motor.
+the thrust is a constan* iniependant of the velocity; the rocket
+motor. propells an accelercting body of decreasing mass. The goat ‘of
+the conventional airplane motor is, thus, to exert a force through a
+distance while the goal of tas rozket notor is to exert a force
+during ea *ime interval. ™rerefore, in a rocket motor, the impulse 1s
+the significant parameter. Specific Impulse is defined as thrust
+per unit weight-rate of flow:
+
+: | Lan™ Ft/me ae : (9)
+where F ie-the thrust or fcrce, + +s the time and Mp is the total
+mass of the propellant. An exantle of the system is:Suppose we have
+two rockets, A and 3. The rocxet A weighs 100 lbs. and can su xDly
+
+1000 lbs. of thruat for 60 seconds;. rocket B also weighs 100 lbs.but
+can supdly 6000 ibs. of thrust for 10 seconds, thus:.
+X 10 geCs
+
+‘ee 10008 ® 60 Bes
+
+both rockets will verform alike, all other conditions being equal.
+You can see the disadvantages of the aerodynamic way or rating,
+
+H.P.f T X% v/375 Myo}
+
+where v is in miles per hour.
+
+Declassification Authority: NND 923007

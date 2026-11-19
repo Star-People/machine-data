@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:58:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4181888, "source_ctime_ns": 1793379216354296094, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971594/1307.jpg", "source_mtime_ns": 1785700880000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971594/1307.jpg", "source_sha256": "de04ae9702f37f03e971a6a85a0dcffe2b320a15b70650174403223e4db2ed45"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 890, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i ‘.
+: PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12, CONCLUSIONS
+0 Was Balloon
+10 September 1957 Portland, Oregon 0D Probably Balloon
+0 Possibly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+: DO Was Aircraft
+Local O3875 MX Ground-Vi sual O Ground-Radar 1 Probably Aircroft
+: GMT_10 LAGS Z, O Air Vi sual D Air-Intercep? Radar 0 Possibly Aircroft
+5. PHOTOS : 6. SOURCE G Was Astronomical
+O Yes : O Probably Astronomical
+MX Noe Civilian O Possibly Astronomical
+7. LENGTH OF.OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other.
+GO Insufficient Dota for Evaluation
+not given one West ibe as hat
+
+- |10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Oblong shaped object the color of an Probably a/c.
+
+electric light as seen through an
+
+: opaque white glass shade, traveling
+west at a speed fast enough to make
+; it appear dimmer as it passed out of
+a sight.
+
+ATIC FORM 329 (REV 26 SEP 52)

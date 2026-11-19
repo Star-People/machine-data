@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:09:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7018540, "source_ctime_ns": 1793384912062286511, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991359/1020.jpg", "source_mtime_ns": 1785748069000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991359/1020.jpg", "source_sha256": "6008429e063b764df5efadda5efad42a0ae896afd921f35635f5c666ac5581da"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 943, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ui | PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+8 Feb 61 23.34N 149.402 a ecbey baleen
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION pit lace smu, ec atbenat
+Locol ’ f:Ground- Vi sual O Ground-Radar a praveae aired
+GMT 08/19572 D Air Visual D Air-Intercept Radar | Possibly Aircraft
+“S. PHOTOS 6. SOURCE O Was Astronomical
+0 Yes QO Probably Astronomical
+fNe Ms litary O Possibly Astronomical
+7. LENOTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other 2ATECITE |
+O Insufficient Date for Evaluation
+o nown
+8 min 1 NE |
+10. BRIEF SUMMARY OF SIGHTINGBricht white objt with 1. COMMENTS Fcho data not available however
+appearance of lst mag star observed at 30° are characteristic of satellite observa-
+elev crossigg zenith on NE heading. Disappearefition are present. No conflicting info
+after eight min at 35° elev. Considered and case is listed as satellite (Echo I).
+possible satellite.
+ATIC FORM 320 (REV 26 SEP 52)
+‘ ®

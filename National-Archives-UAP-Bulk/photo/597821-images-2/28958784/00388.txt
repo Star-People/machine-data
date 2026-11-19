@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:54:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3324888, "source_ctime_ns": 1793376011082547635, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958784/00388.jpg", "source_mtime_ns": 1785696466000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958784/00388.jpg", "source_sha256": "52111472b028fe646f187a7cd5fbd455ccba2e05c32c933a158f41f91e4e5195"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 187, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Project Blue Book evaluated the sighting as an inversion reflection of the
+
+Planet Mars.
+An ATIC evaluation of this report was furnished to the British Air Ministry
+
+upon their request.

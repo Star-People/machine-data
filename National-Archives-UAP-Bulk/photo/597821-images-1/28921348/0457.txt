@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T17:10:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7299287, "source_ctime_ns": 1793368640969317621, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0457.jpg", "source_mtime_ns": 1785688711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0457.jpg", "source_sha256": "f4fd88d4b929129d67c44722b9f9ad74d32fecb84a4184c26b9285d6df5abbaf"}
+
+===== PAGE 1 =====
+{"alpha_words": 179, "chars": 1508, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+©
+
+i - 15 APRIL 1968 SIGHTINGS
+
+DATE LOCATION OBSERVER EVALUATION
+12299 Rpril Smithtown, New York ha Astro (METZOR)
+(2200 1 ‘Fairborn, Ohio Insufficient Data
+/2X 20] A, ‘Frankfort, Kentucky - ai Insufficient Data
+/AZBOLR 2 Foster, Kentucky Sa Aircraft. (W/ADVERTISING
+SIGN)
+(23035 “Cochrane, Wisconsin pe. Astro (MOOI)
+(2304 1, ‘Shenandoah, Iowa Astro (MARS)
+(2-305 5 ‘Lynbrook, New York =... Astro (GREEN MsT#OR)
+12300 613 ‘Reynoldsville, Pennsylvania Big Aircraft (W/ADI TRRTTS ING
+(250) § ‘Pottstown, Pennsylvania pa Other (UNRELIABLE REPORT
+/2XSB B San Inis Obispo, California ie Aircraft
+/A207 9 ‘St Louis, Missouri aE Balloon
+J23/0 9 ‘Dayton, Ohio ~ Astro (STARS/PLANGT
+123i, 10 ‘Chicago Ridge, Illinois -- Insufficient Data
+(AAA 12 “Warren, Ohio Astro (METZOR)
+j2313 12 “Bronx, New York al Insufficient Data
+\a3ig ie Littleton, Colorado : Insufficient Data
+JQAZi5 12 Cape Neddick, Maine - Aircraft
+[QAI 12 Noungstown, Ohio ad Insufficient Data
+)OAZI7 15 “Greenville, Ohio were Other (SATELLITE DECAY) |
+asig 15 West Carrolton, Ohio RP, Satellite
+ADDITIONAL REPORTED SIGHTINGS (NOT cas mS)
+DATE LOCATION SOURCE EVALUATION
+Aor ~vest New York, New Jersey Green 164
+Apr “Warren, Michigan Green 164
+Holloman AFB, New Mexico Memo
+133/95 ‘Thunderbold, Georgia Ltr 4
+‘Idyllwild Junctiot, River pata Calif Green 164
+O Ipswich, Massachusetts Data Sheet
+LO ‘Ipswich, Massachusetts Data Sheet
+LO “assachusetts Data, Sheet
+LZ milton, Massachusetts NICAP
+14. severly, Massachusetts NICAP
+1h sibany, California Ltr
