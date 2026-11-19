@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:34:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8518699, "source_ctime_ns": 1793362312838161955, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0117.jpg", "source_mtime_ns": 1785685177000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0117.jpg", "source_sha256": "1ed8db080383588ef6ba801a7bb2c45b1f13956bfe20d1469f012ec729fb5b2b"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 153, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNITED STATES AIR FOR”.
+THE INSPECTOR GEN
+
+du 26 4 23 PM 749
+
+say OFFICE OF
+PECIAL INVESTIGA] 1ON.
+
+Nee ott heed
+
+Declassification Authority: NND 923007

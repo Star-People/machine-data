@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:08:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4405518, "source_ctime_ns": 1793386112696659757, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994883/0152.jpg", "source_mtime_ns": 1785748236000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994883/0152.jpg", "source_sha256": "6933c64771fb7eb72942d0346c8dd74fc46217f4d3e2779c769c0439da1540ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 942, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+— ————DEPARTMENT-OF TRE-AIR FORCE
+
+( STAFF MESSAGE BRANCH (
+UNCLASSIFIED MESSAGE :
+
+INCOMING
+
+AF IN: 11270 (28 Sep 61) pg 2 of 2
+
+PAAGE TWO RJWZSBA 3
+
+APPROX TWO MINUTES, IT MOVED ON A MAG HDG OF 265 DEG FROM GEOREF
+DJLL191%2 TO DJKK1259 AT A MEASURED SPEED OF SIXTY KTS. THIS OBJECT
+WAS LOST IN THE SEA CLUTTER AT APPROX 1610Z.
+
+RADAR WAS APS-95 STABILIZED ON GEOREF DJHK3045. OBJECTS COULD ONLY
+BE PAINTED WITH IFF ON. WEATHER WAS CLEAR WITH NO TEMPERATURE
+INVERSION. ACFT ALT WAS 16020 FT. CHECK OF IFF EQPT INDICATES
+
+THAT IF SIGHTING WAS CAUSED BY INTERFERENCE, IT MUST HAVE COME
+FROM AN EXTERNAL SOURCE. ONLY KNOWN TRAFFIC IN AREA WAS SEVEN
+UNITS OF USN PHIBRGN FIVE (2 LSD, 3 APA, 2 AKA) WHICH WERE VISUALLY
+
+' SIGHTED BY ETHAN 43 AT 1824Z; SHIPS WERE AT GEOREF DJLK3220 EN
+ROUTE FROM FT LEWIS, WASH, TO SAN DIEGO CALIF, WHEN SIGHTED.
+
+BT
+
+27/2257Z SEP RJWZSBA
+
+NOTE: ADV CYS DEL TO OOP-CP & CIN (280040R), REF NOT IDENTIFIED IN SMB.

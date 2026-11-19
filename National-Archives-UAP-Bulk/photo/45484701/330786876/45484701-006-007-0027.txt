@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:39:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10534470, "source_ctime_ns": 1793364288069732338, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0027.jpg", "source_mtime_ns": 1785685102000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0027.jpg", "source_sha256": "ef9975559b78beeddbdb7788af1aed0c4f4344332ba9df7c7a5c2d970ba73421"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 108, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ry ee
+Fo been
+
+’ oes | “ee
+St la: ah se gues Ah pelle
+# F
+
+=
+
+or ea
+
+Declassification Authority: NND 923007

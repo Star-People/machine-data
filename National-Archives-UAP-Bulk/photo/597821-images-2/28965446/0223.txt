@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:07:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4317411, "source_ctime_ns": 1793377795912456096, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965446/0223.jpg", "source_mtime_ns": 1785696983000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965446/0223.jpg", "source_sha256": "1b1f3cb37daf5eabca104b391cd8add69ccb50780b5a2e613db451e7e2ce5618"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 313, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+U. S. Air Force Headquarters May 7, 1956
+Unidentified Flying Objects Project
+
+I am sure that if what we saw was a solid body, it would have appeared
+on Metropolitan area radar screense The viewing was from Old Bridge,
+New Jersey, about 50 miles from New York City.
+
+aw %
+
+Cail ts e ” i i ah .
+BRR
+
+JDW sep
+encle

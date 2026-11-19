@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:52:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 999419, "source_ctime_ns": 1793389119834297759, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536637/0262.jp2", "source_mtime_ns": 1785808582000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536637/0262.jp2", "source_sha256": "612b0d408d120adc5634bf1ba648af82ccae5100e502f01886d6327914f0df14"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 550, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INTC ANG DEPARTMENT OF THELAIR FORCE
+
+MESS AGE STARE AUSS 2 Ge BRANCH
+
+UNCLASSIFIED.
+
+mnquesuscnae 6 ner
+
+,
+
+NNNN
+
+AF IN : 39742 (18 Nov 64) pg 2 of 2
+
+ADVISED HAVING SIGHTED AN AERIAL EXPLOSION OVER THE MISSISSIPPI
+RIVER JUST NORTH OF PILOTTOWN. ESTIMATED ALTITUDE 3@ TO 35 THOUSAND
+FEET. THE EXPLOSION WAS ALSO OBSERVED FROM THE SS POLARLACHT, A
+VESSEL PROCEEDING UP RIVER IN THE VICINITY OF PILOTTOWN.
+
+2. AIR TRAFFIC CONTROL NEW ORLEANS HAS NO REPORTING A/c IN THIS
+
+AREA.
+
+BT NOTE: XMITTED TO CIA PER AFHQ 1392 #335
+ADV CY TO DIA, NIN AND XOPX

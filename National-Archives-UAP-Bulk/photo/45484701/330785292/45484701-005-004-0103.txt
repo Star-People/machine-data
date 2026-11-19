@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:35:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8991936, "source_ctime_ns": 1793363460065405233, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0103.jpg", "source_mtime_ns": 1785684656000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0103.jpg", "source_sha256": "8ca4fed5e74bfd5dc0f19c084065b266486bbf63caa3ca05bab7db27293444f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 482, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Sketch of object observed over Raceleand, Louisiana, on 18 November 1949,
+by Mr B.N. POISE, and other witnesses. This sketch shows object as observed
+in level flight and also as observed entering turning maneuver.
+
+FOR HO, OSt:
+
+Sketeh of object observed over Raceland, Louisiana, on 18 November 1949,
+by Mr E.N. FOLSE, ami other witnesses. This sketch shows object as observed
+in level flight and also as observed entering turning maneuver.
+
+Declassification Authority: NND 923007

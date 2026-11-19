@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:06:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3978419, "source_ctime_ns": 1793375843154841588, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957955/0991.jpg", "source_mtime_ns": 1785697008000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957955/0991.jpg", "source_sha256": "a762d5705f59d909d03d2ab7b8128d8f45d24d28e4ed353f13f67aa987c20bb5"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 243, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘Most interestinz of all, I believe was the fact of object's being
+seen in two places, Goodyexur 2nd Wauregan, towns eight miles apart, at
+just about the same time. This is e real indicetion of the thing's —
+
+speed,
+| Respectfully submitted;

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:49:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 716552, "source_ctime_ns": 1793394397329546105, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0125.jpg", "source_mtime_ns": 1785567364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0125.jpg", "source_sha256": "9e592ea8cd327813d088d7c6f7114be7dcb5809a7c016cd98ca8e8614528232f"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 225, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Thomas R. Gill, Esq.
+5045 Shoreham Place
+
+Suite #300
+San Diego,
+
+CA. 92122
+
+Z\00™
+fCoyr27r,~~ .
+<— iy 7
+—- ~ LA i ‘
+4 wo}
+aa) pa)
+
+9 MAR > ieee
+
+Federal Aviation Administration
+701 C. Street, Box 14
+
+Anchorage, Alaska 99513

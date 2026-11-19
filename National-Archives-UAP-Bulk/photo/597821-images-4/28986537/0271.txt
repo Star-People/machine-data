@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:22:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7547504, "source_ctime_ns": 1793383214367277433, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986537/0271.jpg", "source_mtime_ns": 1785748127000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986537/0271.jpg", "source_sha256": "c0747819380c49027796018e0cdf461d4e783f800e88554e06da8ef650b5e0a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 51, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MAAS H 3ut-)3—v2>
+do cAped. ft NIT ERS iP payrrwn

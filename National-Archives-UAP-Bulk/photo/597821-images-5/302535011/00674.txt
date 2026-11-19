@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:56:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1642563, "source_ctime_ns": 1793388981499554165, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00674.jp2", "source_mtime_ns": 1785808580000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535011/00674.jp2", "source_sha256": "16450fb8ba77bc7e29ce082c976a592ec51d287fed4f7ba6beb8615d83a14be5"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1031, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+J walk
+RADIATION « \ONITOR’S DATA SHEET
+
+NET’s Home Station Larson Air Force Base, Wash. Date 21 August 1964
+
+Ending Time of Survey __1632 Hours
+
+Beginning Time of Survey__ 1618 Hours
+
+Wind Velocity_ None and Direction __ None
+
+: Flat Farm Yard
+
+General Type of Terrain (Desert, mountanious, swamp, etc.) Used as a Horse rasture
+
+One-quarter to one-half inch deep powered
+
+Surface Composition (Clay, bare sand, concrete, etc) top soil over hardpan.
+
+Approximate Temperature _£O° I",
+
+Surface Condition (Wet, dry, dusty, etc) Dry and Dusty
+
+SURVEY DATA
+
+|
+
+j LOCATION OF POINT TIME BETA READING GAMMA READING ALPHA READING REMARKS
+s *
+
+‘ a
+
+geanter See reverse
+
+| |
+
+7 iiipressio L918 None cone None Side of : |
+
+LOSE OPCs
+
+|
+
+Ioressi Or ee
+
+~f nt le Pans
+~/ CLOCK 44 Ul
+
+center 1622 None None None
+Tmareecd
+2 o'ciock from
+center 2626 None None None
+Meters) Used Ser. No. Survey Data Taken By:
+men f H > - ~ ; wm) r
+ali/PDR 27 998 os Sgt Robert M. Johnston
+ban 2 m4
+PACwLS D102 API2AS1364
+
+Verified By:
+
+"FORM FC: 2700
+LAR jonas 15

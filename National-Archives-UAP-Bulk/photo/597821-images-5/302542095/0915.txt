@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:01:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1812091, "source_ctime_ns": 1793389594115869026, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542095/0915.jp2", "source_mtime_ns": 1785808202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542095/0915.jp2", "source_sha256": "3a704b0145b3f2e1ff21a0024f4bbb2d6ebb7757754a9d3ac83c00fa079c30cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 288, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(5) Less than 4/8
+(6) TRY to the south
+
+(7) Less than standard lapse rate up to 19500. Radiation
+inversion from 3000 to 6000, upper air inversion from 19500 to 21500.
+Greater than standard lapse rate above 21500,
+
+Pils A. HAHN Atch
+
+L
+Saptain, USAF Ltr, 13 Aug 65
+
+Flying Safety Officer

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:00:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1760821, "source_ctime_ns": 1793390306084983465, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548934/0157.jp2", "source_mtime_ns": 1785808090000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548934/0157.jp2", "source_sha256": "fd77b49d3f3f50a109e208be6e14942ba533c5fd5edb0adf441309d3e03f29cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 476, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+7
+
+FYD (TDEW)
+Wright-Patterson AFB, Ohio 45433
+21 June 1966
+
+Moorestown, New Jersey 03057
+
+Reference your unidentified observation of 31 March 1966. ‘The
+information in your letter was not sufficient for evaluation.
+Request you complete the attached FID Form 164 and return it -
+in the envelope provided.
+
+We wish to thank you for reporting your observation to the Air
+Force.
+
+Sincerely,
+
+me iy
+At’ i ih, oe
+
+HECTOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book tind

@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T16:16:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5895169, "source_ctime_ns": 1793354316245238821, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0077.jpg", "source_mtime_ns": 1785564264000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0077.jpg", "source_sha256": "d8612675a254ab66c86aacc4b311fc936142a68594066099d92993ee87360ade"}
+
+===== PAGE 1 =====
+{"alpha_words": 362, "chars": 2847, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+STANTON T. FRIEDMAN
+Nuclear Physicist/Consultant/President SCAT
+79 Pembroke Crescent, Fredericton, New Brunswick
+Canada, E3B 2V1, 506-457-0232
+
+Mr. Friedman has 35 years of professional experience including 15 in
+industry on the design, development, and testing of high performance
+systems including nuclear aircraft, fission and fusion rockets, and nuclear
+reactors and radioisotope systems for space and mobile applications. He
+also has 20 years experience as a freelance consultant, lecturer, author,
+and broadcaster with many media appearances across North America. He
+worked on the commissioning of the Pt. Lepreau Nuclear Power Plant, food
+irradiation, seed stimulation, nuclear waste characterization, waste heat
+recovery, and the use of accelerators for processing applications. He
+surveyed electron beam treatment of flue gas, actively worked on the radon
+problem and in planning for increased technology and R & D activities in
+New Brunswick, and is involved in educating the public re science issues.
+
+EDUCATION
+
+university of Chicago, Chicago, IL, BS 1955, MS 1956; Physics
+Rutgers University, New Brunswick, NJ, 1951-1953 Physics Major
+Linden High School, Linden, NJ, 1947-1951, Valedictorian, 1951
+EPA Training Course on Radon Diagnosis and Mitigation (9/86)
+
+RECENT CONFERENCES (Invited Presentor)
+
+- Annual Meeting, Canadian Radiation Protection Assoc., Saint John, New
+Brunswick, "Radon Exposures to Canadians" June 1990
+
+- Hearings of AECB on "Dry Cannister Storage at Pt. Lepreau of Spent
+Nuclear Fuel", Saint John, N.B., June 1990 (Wide Media Coverage)
+
+- Hearings, Premier's Round Table on Sustainable Development, Saint John,
+New Brunswick, late 1989
+
+- Air Pollution Control Assoc., Moncton, NB, March 1987 _
+
+- Presentation at DOE Hearings on "HLW Repository Site Selection" Lincoln
+and Calais, Maine, 1986
+
+- XvIth Annual Meeting of ESNA, Warsaw, Poland, September 1985
+
+- Conference on Radiation Hormesis, Oakland, CA, August, 1985
+
+- Annual Mtg., Can. Inst. of Food Sci. and Tech., Toronto, 6/85
+
+- Irradiation Processing of Food, Washington, DC, 3/85 IAEA
+
+- Plant Food Seminar, Fredericton, New Brunswick, March 1985
+
+- Growth of X-Ray Stimulated Crop Seeds, Winnipeg, Manitoba, 12/84
+
+- Xvth Ann. Mtg. of European Society of Nuclear Methods in Agriculture,
+Piacenza, Italy, 9/84 (Only North American Scientist)
+
+- Stored Product Insect Control, Winnipeg, Manitoba, May 1984
+
+EXPERIENCE
+
+11/86-1993 President, SCAT Science and Technology Inc., Fredericton, NB.
+Commercial Radon Monitoring & Research Grants from Canada
+Mortgage and Housing "Radon Exposures in Fredericton Area
+Houses and Wells" and "Radon Exposures to Canadians". "Future
+Technology Scenarios" for N.B. Innovation Centre.
+
+12/85-3/87 Neill and Gunter Limited, Fredericton, NB: Consultant
+“Survey of EB Treatment of Flue Gas" (for Environment Canada).

@@ -1,0 +1,215 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:42:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11664292, "source_ctime_ns": 1793354443095387923, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0075.jpg", "source_mtime_ns": 1785564285000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0075.jpg", "source_sha256": "9ac4cb5083fc66b4adcd5eedb5dd30efefebb12f6ae64520af06ea09fbadcd8b"}
+
+===== PAGE 1 =====
+{"alpha_words": 803, "chars": 5725, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFGL SUPPORTS
+
+Space Radiation Program
+(SPACERAD)
+
+Combined Release and Radiation
+Effects Satellite (CRRES)
+
+Defense Meteorological Satellite
+Program (DMSP)
+
+Defense Satellite Communications
+System (DSCS)
+
+Military Satellite Communications
+System (MILSTAR)
+
+Teal Ruby
+
+Strategic Defense Initiative (SDI)
+Anti-Satellite Weapon (ASAT)
+Space Shuttle Program
+
+Space Surveillance and Tracking
+System (SSTS)
+
+Defense Support Program (DSP)
+
+Air Force Satellite Communications
+System (AFSATCOM)
+
+Solar Electro-Optical Network
+(SEON)
+
+Over-the-Horizon Backscatter Radar
+System (OTH-B)
+
+North Warning System
+Project Forecast II
+
+Small Intercontinental Ballistic
+Missile Command, Control,
+Communication, and Intelligence
+System
+
+Boost Surveillance and Tracking
+System (BSTS)
+
+Nuclear Optical and Radar Systems
+Effects (NORSE)
+
+Space Based Surveillance System
+
+(SBSS)
+
+Infrared Search and Track System
+(IRST)
+
+Next Generation Weather Radar
+(NEXRAD)
+
+Battlefield Weather Observation and
+Forecast System (BWOFS)
+
+Automated Weather Distribution
+System (AWDS)
+
+Global Positioning System (GPS)
+Peacekeeper (MX)
+
+AIR FORCE GEOPHYSICS LABORATORY
+
+The Air Force Geophysics Labo-
+ratory (AFGL) is a world leader in geo-
+physics, the science of the earth in its
+solar-terrestrial environment. As tech-
+nology advances, systems become in-
+creasingly dependent on their environ-
+ments. Air Force systems, which oper-
+ate in space, the ionosphere, the atmos-
+phere, on earth and below it, are influ-
+enced by solar emissions, gravity,
+weather, and earthquakes. The mission
+of the Air Force Geophysics Laborato-
+ry is to understand these environmental
+forces so that it can define design par-
+ameters for Air Force systems. The Lab-
+oratory, located at Hanscom AFB,
+Massachusetts, reports to the Air Force
+Space Technology Center at Kirtland
+AFB, New Mexico, which is managed
+by the Space Division of Air Force Sys-
+tems Command, Los Angeles, Califor-
+nia.
+
+To carry out its mission, AFGL has
+developed an outstanding staff of 312
+scientists and engineers, a third of
+whom have doctoral degrees. They pub-
+lish about 190 journal articles a year
+and present papers at approximately
+150 professional meetings a year, at
+home and abroad. Laboratory scien-
+tists serve on committees of such inter-
+national organizations as the Inter-
+national Scientific Radio Union
+(URSI), the International Association
+of Geomagnetism and Aeronomy (IA-
+GA), the International Association for
+Meteorology and Atmospheric Physics
+(IAMAP), the International Union of
+Pure and Applied Physics (IUPAP), the
+Scientific Committee on Solar Ter-
+restrial Physics (SCOSTEP), and the
+International Union of Geodesy and
+Geophysics.
+
+The Laboratory has recently
+awarded over $300,000 in grants to uni-
+versities in the United Kingdom, Swe-
+den, the Netherlands, and Denmark. It
+has also signed agreements for joint
+programs with Brazil, the United
+Kingdom, and Norway.
+
+AFGL scientists have been invited
+to lecture in China, Japan, India, the
+Soviet Union, Czechoslovakia, and the
+United Kingdom. Leading European
+and Oriental scientists also come to
+
+AFGL through the Window on Science
+program sponsored by the Air Force
+Office of Scientific Research. The
+AFGL staff is thus in touch with geo-
+physics research world wide.
+
+In the United States, AFGL scien-
+tists have served on such important
+committees as the Fletcher Commission
+(the President’s Strategic Defense Initi-
+ative Committee), the OSD Working
+Group on Nuclear Disturbed Environ-
+ments, the IRIS Specialty Group on
+Targets, Backgrounds, and Discrimina-
+tion, the Military Space Systems Tech-
+nology Model, the Air Force/NASA
+Spacecraft Contamination Steering Com-
+mittee, and the Committee on Space-
+craft Environmental Interactions.
+
+The Laboratory has attracted some
+excellent young scientists through two
+postdoctoral programs, the National
+Research Council Post Doctoral Asso-
+ciateship and the AFGL Geophysics
+Scholar Program. Both provide for one-
+year appointments renewable for
+another year. In addition, AFGL par-
+ticlpates in the USAF Summer Faculty
+Research program and the Graduate
+Student Summer Support Program ad-
+ministered by the Air Force Office of
+Scientific Research.
+
+At AFGL, young scientists have an
+opportunity to. associate with older
+mentors, among whom are fellows of
+such professional societies as the Op-
+
+tical Society of America, the Royal As-
+tronomical Society, the American ‘As-
+sociation for the Advancement of
+Science, the Geological Society of
+America and members of prestigious
+academies, such as the New York Acad-
+emy of Science.
+
+AFGL scientists are supported by
+92 skilled laboratory technicians and
+173 other professional, administrative,
+and clerical personnel.
+
+Our research. facilities, described
+in more detail later, ‘includéa world
+class library,.a major nm. .v payload test
+facility, several 'arge vacuum chai.:bers
+for simulating conditions in outer sce
+and pre-flight calibration o} s7.%2
+and rocket instruments, and vo NKC-
+135 flying laboratories instrumen‘ed
+for ionospheric and infrared resea. .A.
+The Laboratory occupies 423,943 square
+feet of space at Hanscom AFB and at
+off-site locations in ‘Massachusetts and
+New Mexico. The total value of its
+facilities and equipment is $109 million.
+
+AFGL programs in geophysics, de-
+scribed in the following pages, cover
+*Space and iénespheric physics, optical
+and infrared physics, atmospheric sci-
+ences, and earth sciences. The products
+of this research are transitioned into the
+Air Force in a variety of usable forms
+such as military design standards,
+computer-aided design tools, data
+bases of geophysical effeets, computer
+models of the environment, feasiblity
+studies, and prototype hardware and
+software. . —

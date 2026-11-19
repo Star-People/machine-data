@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:33:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8291581, "source_ctime_ns": 1793386976944333163, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997957/0039.jpg", "source_mtime_ns": 1785748120000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997957/0039.jpg", "source_sha256": "4854bf059456a22e1936583f30b87c314734102b1f5d15229576981b81e912a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 499, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Od) ag al Re oe ae
+
+pegs eet pte
+Se ee cag ee eet oe ae b
+
+July 23, 1962
+
+é
+
+\
+Dear ee
+
+Regarding your recent letter pertaining to
+an unidentified serial sighting, please complete
+in detail and in duplicate the attached FTD Form
+164 and mail it back to mee This information
+will be used to analyze your sighting.
+
+The latest Department of Defense Fact Sheet
+is inclosed for your information, :
+
+Sincerely,
+
+WILLIAM J. LOCOKADCO
+
+Lt. Colonel, USAF
+
+Public Infcrmation Division
+Office of Information
