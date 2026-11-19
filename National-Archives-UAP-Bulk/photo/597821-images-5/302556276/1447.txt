@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T02:28:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1358200, "source_ctime_ns": 1793391209765999313, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556276/1447.jp2", "source_mtime_ns": 1785808304000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556276/1447.jp2", "source_sha256": "801b13719b05ac12c942f67bcb52325a55e6d8060f49f4abad11138dc5e63172"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 712, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+my Ee NRT eR tel We Rare Me en mo aah dia henna Ie!
+a 4 eR
+
+G.: Weather and Winds - Aloft Conditions at Time and Place of Sightings:
+
+1. Observer(s) account of weather conditions:
+Fairly clear, a few clouds
+
+2. Report from nearest AWS or U.S. Weather Bureau Office:
+SURFACE 2910
+
+6000 2825
+10000 2835 of
+20000 2845
+30000 3070
+50000 — 2Tho
+
+3. Ceiling:
+
+No ceiling, 40
+. Visibility:
+
+L5T
+
+5. Amount of cloud cover:
+Less that 5/10
+
+aS
+
+6. Thunderstorms in area and quadrant in which located:
+NOS None
+
+7. Vertical temperature gradient:
+There was a very strong inversion at 4500' on this day at this time.
+/
+
+-H. Any Other Unusual Activity or Condition:
+None.
+
+I. Interception or Identification Action Taken:
+None

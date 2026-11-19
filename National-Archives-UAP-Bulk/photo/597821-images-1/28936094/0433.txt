@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T02:47:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3951861, "source_ctime_ns": 1793370976239537123, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936094/0433.jpg", "source_mtime_ns": 1785688643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936094/0433.jpg", "source_sha256": "243967ee25d16bce12b611343fd68300ef93b14fe60c338020c996bb39d63b75"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 782, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. PROJECT 10073 RECORD
+“31. DATE - TIME GROUP | 2. LOCATION ‘ ie
+| 27 gu 49 27/22) Point arrow, Alaska Y/Y
+ot
+_ {3 SOURCE 10. CONCLUSION
+7) Civilian Astro (JUPITER)
+: i+ NUMBER OF GOJECTS
+' One
+| ;S. LENGTH OF OBSERVATION |11. BRIEF SUMMARY AND ANALYSIS
+q Six Hours Observers spotted a light in the sky while tracking a balloon.
+a ns The light moved from East to West at a rate of 3-4 deg
+a ee eee per minute. The lignt was in view for approx six hours.
+* Ground-Visual is
+q 2 Dr (astronomer) at Point Barrow with ONR stated opinion
+{ - a that the light was definitely a planet. AMC plotted the planet
+_ West as JUPITER.
+_ & PHOTOS |
+0 Yes \
+4 Ne = }
+| % PHYSICAL EVIDENCE
+C Yes
+yi Ne
+
+3 FOR!
+FTD sep 63 0-329 (TDS) Previous editions of this form may be used.
+
+ee ee or ern - - TT

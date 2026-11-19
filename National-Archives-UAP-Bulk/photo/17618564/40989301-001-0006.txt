@@ -1,0 +1,127 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T02:39:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2566594, "source_ctime_ns": 1793356061739648713, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0006.jpg", "source_mtime_ns": 1785564596000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0006.jpg", "source_sha256": "3f7de069c9d6bc70e90bd56580f0ba9aa22fa349f8061c551a587c9364232e62"}
+
+===== PAGE 1 =====
+{"alpha_words": 594, "chars": 3883, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Avensr 1948 MTHELSTAN F, SPILHAUS, Cc.
+
+‘apsule and linkage is of conventional design but in
+place of the commutator bar, a motor driven helix is
+employed. This system permits the determination of
+
+Fic. 4. Minimum Pressure switch (mercurial),
+
+re data without knowledge of the history of con-
+act sequence or of the ascent or descent of the balloon,
+S Is required in the conventional radiosonde.
+
+. Tracking of the balloon
+
+The balloons that have been flown by the writers
+sually have been tracked by theodolites. Airplanes
+‘ave also been used, to extend the observations. These
+wo methods require the balloon to be visible and not
+bscured by cloud cover. When available, ground
+idar has been used in tracking the balloons, with
+ood results,
+
+A series of SCR 658 radio direction-finders is also
+sed, arranged in a net along the expected trajectory
+f the balloon. In addition, aircraft equipped with
+iverted search radar have been employed to extend
+ie tracking net.
+
+- Flight results
+
+While the characteristics of various plastics were
+eing investigated, four preliminary flights were made
+ith clusters of ordinary meteorological balloons, from
+5 to 26 in number, to which two to four towing
+alloons were attached. The towing balloons were cut
+
+>v a baroswitch at a predetermined altitude. The
+der of the balloons were inflated so that they
+‘actly balanced the load hung from the cluster. To
+Tset diffusion, sand was dropped from an arrange-
+ent of tubes, 9 to 16 in number, each containing
+out 200 to 1500 grams of sand ballast. This ballast
+as dropped by a baroswitch mechanism on descent
+
+S. SCHNEIDER, AND C. B. MOORE 133
+only. Some of these flights were relatively successful
+as a beginning method but the dropping of discrete
+quantities of sand caused too great fluctuation of alti-
+tude and therefore was abandoned later. The first
+successful flight stayed at 51,000 ft, plus or minus 100
+ft, for 38 minutes; another remained between 30,000
+and 40,000 ft for 147 minutes. The latter shows the
+same characteristic time-altitude curve as the cosmic-
+ray clusters, although its altitude control is superior.
+It is not believed that much improved altitude control
+can be obtained, utilizing ordinary meteorological bal-
+loons. Flight termination was usually due to deteriora-
+tion of the balloon caused by the sun.
+
+In the first flight utilizing plastic balloons, a cluster
+of ten seven-foot diameter balloons* was used. The
+load on the cluster was 16.5 kilograms. An altitude
+control was used. Unfortunately, the maximum alti-
+tude reached was not as high as the predetermined
+altitude which was selected to seal the diaphragm of
+the automatic ballast valve. As a result, the cluster
+rose to ceiling and stayed at this altitude for a short
+while. Diffusion and leakage of helium produced a loss
+of lift at the rate of 125 feet per minute.
+
+The next flight was made with a single polyethylene
+balloon, 15 ft in diameter. To insure sealing-off, the
+ballast-release diaphragm was set to operate at an
+altitude of 12,000 ft, considerably below the calculated
+ceiling of the balloon. After a dawn release the balloon
+continued to ascend to 15,100 ft where it leveled off,
+then slowly descended to 9000 ft due to diffusion
+losses. At this altitude the ballast release began to
+Operate and thereafter the balloon maintained its
+altitude within +1300 ft fora period of 43 hours before
+the radio signal was lost. However, in the first two
+hours of this period, before the convection currents
+"Made by General Mills, Inc.
+
+_~ SUITABLE
+| LIGHT WEIGHT
+HOUSING TO
+PROTECT
+INSTRUMENT
+DURING FLIGHT
+
+ARM POSITIONED
+BY ATMOSPHERIC
+PRESSURE ACTING
+ON CAPSULES
+
+HELIX
+
+LOW DRAIN
+ELECTRIC
+MOTOR
+DRIVING HELIX AT
+ABOUT 2 RPM
+
+PLUG TO HAVE
+CONNECTIONS WIRED
+TO EACH CONTACT ARM,
+
+TO HELIX AND
+
+TO MOTOR
+
+Fic. 5. Olland-cycle pressure modulator.
+
+te
+
+Pes Pe emer bon AEs BSCS 5
+
+DUNT Ae Re AA
+
+fe
+
+§

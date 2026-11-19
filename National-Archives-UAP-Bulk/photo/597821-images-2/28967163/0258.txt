@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T02:56:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5158827, "source_ctime_ns": 1793378201915067801, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967163/0258.jpg", "source_mtime_ns": 1785696714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967163/0258.jpg", "source_sha256": "ea4cbc343ba241f46102aa918de3e1d9bfc8921282048b06aa9dd04f3f419d2d"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 865, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. PROJECT 10073 RECORD CARD
+
+1. OATE 2. LOCATION 12. CONCLUSIONS
+ne , : : , DO Wos Balloon
+25 August 1955 Farmington, New Hampshire O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+ocel id 0 Wes Aircroft
+.Locel , x0 Ground- Vi sual OD Ground-Rodor GQ Probebly Aircraft
+omT__28/0190Z 0 Air Visuol O Air-Intereept Reder |2 Possibly Aircreft
+5. ree Soe 6. SOURCE 0 Was Astronomico!
+O Yes 0D Probably Astronomical
+Gl Ne Civilian G Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE OD Other.
++O x Insufficient Date for Evaluation
+Oo nknown
+one hour one south
+10, BRIEF SUMMARY OF SIGHTING WW. COMMENTS
+
+One yellow round object, size of a Insufficient Data,
+
+weather balloon in the sky. Object
+moved south and was still visible
+after having been observed visually
+for one hour,
+
+ATIC FORM 329 (REV 26 SEP 52)

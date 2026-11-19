@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T02:45:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3797512, "source_ctime_ns": 1793371023434678464, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936255/0588.jpg", "source_mtime_ns": 1785688802000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936255/0588.jpg", "source_sha256": "ba8ea718ac0a74ca7f433d375e2a37435bff84b9789c09556052b74be133fd8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 735, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+EE Se am I a2
+
+- Page 3
+Essential Ele ats of Info
+
+Project "SIGN"
+
+136
+
+llie
+
+1L5e
+
+16.
+
+17e
+
+‘Support None Visible VNC ASSI
+
+ae Wings
+
+be Aerodynamic lift of fuselage
+
+Ce Vertical jet
+
+de Rotating evtblbee or cone
+
+ee dAerostatic lift (balloon or dirigible)
+Propulsion lone Visible
+
+&e Propeller or jet
+
+be Rotor
+
+ce Aerodynamic vanes (flapping or oscillating)
+(Katzliayer offect)
+
+de Visible exhaust or jet openings
+Control and stability None Visible
+ae Fine
+be Stabilizers (horizontal or vertical)
+(1) Size
+(2) Shape
+(3) Location
+Air ducts None Visible
+ae Slots
+be Duct openings
+Speed - M.PeHe Approximately 650 JIPH
+Sound None
+Q@e Continuous whine or buzz
+be Roar, whistle, whoosh
+
+ce Intermittent
+
+UNCLASSIFIED
+
+—<I_w
+
+8=3301-TC
