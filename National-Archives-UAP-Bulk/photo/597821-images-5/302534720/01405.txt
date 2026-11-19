@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T04:15:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1022757, "source_ctime_ns": 1793388939954799223, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534720/01405.jp2", "source_mtime_ns": 1785808459000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534720/01405.jp2", "source_sha256": "8ac4ae775384eaaf23b7d78cfaeb5f9a92c5f2898c1dae24621620a6476ab16f"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 465, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+fea
+“INCOM RAG
+
+hahaa San BEPARTAMHNIT OF THE AIR FORCE
+MESSAGE STAFF MESSAGE BRANCH UNCLASSIFIED
+24 CSAC | :
+RUCSOR/ CLAS AF IN : 27315 (25 Jul 64) Pg 2of 2
+Bl
+TUNCLAS/S25590-CO 9324
+1. SIRVIS
+3. BLUE FLARE ROCKET
+4, POSITION 41-27N;3 164-16W
+53. 25/3395Z
+5. NOT OSSERVED
+7. 292 DEG-RISING FROM HORIZON & FALLING OVER HORIZON BEARING 139 TRUE
+ay NOT U8SEZRVED
+
+NOTE:
+
+mw
+
+ADVANCE COPY DE
+
+LIVERED TO XOPX. NIN, DIA,
+
+THIS MESSAGE RETRANSMITTED TO CIA 1392 # 709,

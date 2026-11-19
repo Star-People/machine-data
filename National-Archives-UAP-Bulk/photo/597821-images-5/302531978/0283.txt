@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T03:27:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 993884, "source_ctime_ns": 1793388757095406461, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531978/0283.jp2", "source_mtime_ns": 1785808021000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531978/0283.jp2", "source_sha256": "a8c2d2e6e88052352066672c1d5997f05517a0600ee2c0f94f474f5a9f17fece"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 923, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| DEPARTMENT OF THE AIR FORCE
+AF IN : 45701 (11 Apr 64) STAFF MESSAGE BRANCH PAGE 3 of 5
+
+UNCLASSIFIED MESSAGE
+
+PAGE 9 RUWGSH 614 UNCLAS | N Cc 0 M | N G
+
+(3) N/A
+
+D. TIME AND DATE OF SIGHTING:
+
+(1) ZULU TIME DATE GROUP OF SIGHTING: 03422 29 APR S4
+
+(2) LIGHT CONDITIONS: NISAT-DARK
+
+KE, LOCATION OF OBSERVER: 34 DEGREES 25 MINUTES NORTH 125 DEGREES
+15 MINUTES WEST,SAT 1533 WESTCHESTER, CLOVIS, NEW MEXICO.
+
+F, IDENTIFYING INFORMATION ON OBSERVER:
+
+(1) CIVILIAN, NAME: MRO :
+(2) MAILING ADDRESS: gil B. CLOVIS, NEW MEXICO
+(3) OCCUPATION: HOUSEWIFE
+
+(4) AGE: NOT GIVEN, ESTIMATED AT 45.
+
+(5) ESTIMATE OF RELIABILITY: F-3
+
+G, WEATHER AND WINDS ALOFT aT TIME OF SIGHTING.
+
+(1) OBSERVER'S ACCOUNT OF WEATHER: CLEAR, STAR-LIGHT NIGHT.
+WITd NO CLOUDS.
+
+(2) REPORT OF WEATAER FROM CANNON AFB, NMEX.D
+
+WIND DIRECTION VELOCITY INDICATED ALT.
+
+164 DEGREES 5 KTS SURFACE (4294)
+
+20% DEGREES 15 KTS 5, u2Z
+
+273 DEGREES 15 KTS 14,200

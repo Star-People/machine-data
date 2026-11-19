@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T04:24:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3397948, "source_ctime_ns": 1793384197897021637, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989437/0674.jpg", "source_mtime_ns": 1785747943000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989437/0674.jpg", "source_sha256": "56ca384e2bab896f734a22582d0cbd03108bf5965b6a6b2a37fc3aea92942f00"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 200, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OBSERVED.
+
+PART 93 NOONE
+
+PAGE FOUR RJWFAL 323
+PART 113 FIRST LT SIZEMORE, ADC STAFF DUTY OFFICER, WHEN
+THIS REPORT WAS ULTIMATELY RECEIVED AT ADC.
+
+PART 123 NONE
+
+B2/2345Z2 SEP RJWFAL
+
+PU ete te ad
