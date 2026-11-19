@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:54:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16840897, "source_ctime_ns": 1793355653821546162, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0092.jpg", "source_mtime_ns": 1785564497000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0092.jpg", "source_sha256": "dd720e129b0a9ceb537585b249d0516683b05724327a34e938627d6552044133"}
+
+===== PAGE 1 =====
+{"alpha_words": 390, "chars": 2700, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+170
+
+of such an approach and to study some of the basic problems concerned with system
+adaptation to high-altitude balloon work. Breadboard models suitable for flight test-
+ing have been constructed from available VOR equipments and made compatible with
+proven Air Force balloon-borne high-frequency command receivers and data trans -
+mitters. Position information is obtained on a preset schedule or by command,
+using a modified standard certified VHF VOR receiver on the balloon for receiving
+bearings from VOR ground stations. Bearing information obtained by the receiver
+will be converted to Morse code letter groups for retransmission to balloon data
+control and tracking stations. The accuracy of such a system should easily be five
+miles or better. A nominal system accuracy of one degree produces an error of
+less than five miles at a distance of 260 miles from a VOR station. The first VOR
+system dates back to 1928 and was called at that time ''Very High Frequency Phase
+Comparison Radio Range''. The initial investigation was by Bell Telephone Labora-
+tories. The Civil Aeronautics Administration developed our present VOR system
+which is now operated and controlled by FAA. At present, there are approximately
+900 VOR stations across the United States, as shown by Figure 1, operating on 600
+channels in the 112- to 118-megacycle frequency band. New stations are being
+added periodically and constant improvements in station performance are being
+made by FAA to cope with the modern jet air age. The proposed balloon VOR system
+
+is composed of three major parts as indicated by Figure 2.
+
+NAUTICAL MILES
+
+Figure 1. VOR Station Distribution in 1965. Source: Short Distance Radio
+Navigation. Prepared by U. S. Air Coordinating Committee
+
+EIVING TRANSMITTING
+ANTENNA | ANTENNA
+
+\
+
+VOR TUNING EXISTING
+RECEIVER || CODING & [4 TRANSMITTER
+
+CONTROL
+
+CHANNEL & BEARING
+INFORMATION TO GROUND
+
+CONTROL STATION
+
+GROUND
+VOR
+
+or nONG
+
+Figure 2. VOR Balloon Locating System
+
+1) The ground VOR transmitter
+
+2) The airborne VOR receiver and the data transmitter which is almost always
+
+present in balloon instrumentation systems.
+
+; Hee BE
+3) Ground data monitoring and tracking stations - 1n our Case, facilities
+
+Chico, Holloman and potentially all FCC monitoring and tracking network
+
+stations.
+
+The ground VOR transm
+some
+show that by utilizing only six different VOR channels or frequencies out o
+
+itters are those now in operation by FAA. Our studies
+
+available i i States can be adequately covered by considering
+F) the entire Uni ted F
+
+ee
+only 260 nautical-mile-range circles about each available station o
+
+ibl
+selected. Figure 3 shows the very small area not fully covered by three possible

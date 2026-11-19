@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:20:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1758296, "source_ctime_ns": 1793391473591417373, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558904/00953.jp2", "source_mtime_ns": 1785808608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558904/00953.jp2", "source_sha256": "ca33128bbb5fa6152f4e3ad44716b0aeb2b3b5963e6755ec4478aca053bd7e29"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 233, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+12. 14k - Capt. Earl C. Ruby, Jr. 319 Bomb Wing (SAC) Intelligence
+
+Division Investigation continuing.
+
+13. 141 - unknown.
+
+FOR THE COMMANDER
+
+JOSEPH E, ZAINEY, Major, USAF
+Director of Information
+
+1 Atch:
+
+Ltr, MrsgQQMMMF 12 Dec 66

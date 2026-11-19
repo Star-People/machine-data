@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:08:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 489156, "source_ctime_ns": 1793356213114296009, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989309-001-0068.jpg", "source_mtime_ns": 1785564639000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989309-001-0068.jpg", "source_sha256": "b774b4dfe7c181da1704f285d295a35a28f4167102d58e865752f43d382509ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 401, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+However, the A:r Force would like to assure the public that,
+inasmuch ap the air defense of the United States tg un Air Force
+responsibility, it has continued and will continue tc receive and
+evaluate through normal military channels any substantial reports
+ef unusual norial phencment. ;
+
+Please call on me if I can be of further gervice.
+
+Sincerel,
+
+This d
+ocument is part of an unclassified series

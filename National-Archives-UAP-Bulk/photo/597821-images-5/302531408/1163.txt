@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:15:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1396120, "source_ctime_ns": 1793388718090768227, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531408/1163.jp2", "source_mtime_ns": 1785808271000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531408/1163.jp2", "source_sha256": "9947850a3c78769229c14b99e2fb68515273ca2e068c19a5925640f0b2d8633d"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 770, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+patuke Dat HEADQUARTERS
+Mes FR ATT =
+sili FOREIGN TECHNOLOGY DIVISION a
+AIR FORCE SYSTEMS COMMAND 1) ies
+UNITED STATES AIR FORCE ay tess \o
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO Vay a as Ls)
+REPLY TO Wg
+artw oF: TDX “NO
+SUBJECT: Extract from Duty Officers Report 10 Jan 64
+ta: TDEW
+
+The following, extracted from Maj Sullivan's OD Report dated 9 Jan 64,
+is quoted for your information:
+
+‘, Mrs. @pmcalled about sighting an unidentified object earlier
+in the week - she said she would call back with pertinent facts but
+failed to do so - The objects were seen either Sunday or Monday night.
+She lives about 10 miles North of Dayton. She said objects were highly
+illuminated and appeared to rendezvous."
+
+OHN C. McNEILL
+fajor, USAF
+Administrative Officer
+
+eee eo ge ae “o

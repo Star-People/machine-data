@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:39:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6981701, "source_ctime_ns": 1793385014080407512, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991601/1239.jpg", "source_mtime_ns": 1785748551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991601/1239.jpg", "source_sha256": "b8d8e2007ff6124b39651c3863872a271f3f32613f46788259be85a123d96f12"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 524, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+he No unusual metsorological or astronomical weather conditions
+reported,
+
+i. No interception action taken.
+
+je None
+
+k. James §. Patterson Captain USA Serial No. 041872340, Hqs.
+35th Arty Bde (AD) Fort George G, Meade, Maryland,
+
+(1) No possible reason or explanation for occurance,
+1. No physical evidence available,
+
+2. The foregoing information was compiled by Hqs. 35th Artillary
+Brigade (AD), Fort George G. Meade, Maryland.
+
+FOR THE COMMANDER:
+
+PARAS ST ACCS S Bam.
+RONALD N. HUCKS
+
+Capt, USAF
+
+Intelligence Officer

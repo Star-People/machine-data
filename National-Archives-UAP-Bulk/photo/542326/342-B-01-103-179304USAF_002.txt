@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:58:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 86086640, "source_ctime_ns": 1793368180659199754, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179304USAF_002.TIF", "source_mtime_ns": 1785565937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179304USAF_002.TIF", "source_sha256": "d3fa41932f7a50ae5829075e283c036b4204200a1ae3a10f0d968114d6eac9b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 368, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“9304 USAF « SCIENTIFIC STUDY OF Uir0s ~ Prame
+
+from the Vendenberg tracking filn.
+Rocket ls moving away and dow toward
+southern horizon. Only the bright exheust
+is visible. The UFO, identified as Venus,
+appears to move upward past recket. Width
+of field approx. 2. (Plate #42)
+
+Mtoe ee Sate
+
+Copied from 8xl0 print rec'd 1/13/69
+
+viled - UNIDENTIFIED FLYING OBJECTS

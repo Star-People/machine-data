@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:37:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6570214, "source_ctime_ns": 1793368540361550964, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0144.jpg", "source_mtime_ns": 1785688700000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0144.jpg", "source_sha256": "e260f137cb9b33f8e625e15a02cac8838b7dfc6718d53e8cb68f55256a2566e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 141, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Nov. ¥ ae Une Yess Feat ge tf hay Z. nuded ae ie
+Act .29 unclinmemee. 27.0 tlle
+/ tf donut a’ nil SFYO
+
+Ctrl 9 ~Froreth A UFO Sunmnax SIA /

@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:23:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3760342, "source_ctime_ns": 1793377553191354546, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964270/0661.jpg", "source_mtime_ns": 1785696562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964270/0661.jpg", "source_sha256": "bb5734159b216903ae1a6a984958bb7ccdee1fb240df10d36372dbd46cd252e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 800, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+:
+:
+
+EE, _ bon een
+
+a es ieee ne Pe ee rt re hae i ee
+
+PROJECT 10073 RECORD CARD
+
+0 Ne
+
+7. LENGTH OF OBSERVATION
+
+45 min.
+
+8. NUMBER OF OBJECTS
+
+au
+
+9. COURSE
+
+Possibly Astronomical
+
+Other.
+Insufficient Data for Evaluation
+nknown
+
+1. DATE 2 LOCATION 12. CONCLUSIONS
+: OQ Was Balloon
+25 Nov 55 Tamax,Til QO Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION : Bee) A Mody
+, QO Was Aircraft
+Prony *C Ground- Vi sual O Ground-Radar Q Probobly Aircraft
+GMT 25/2305z D Air Visual O Air-Intercept Radar |@ Possibly Aircraft
+5. PHOTOS SOURCE MX Was Astronomical Parhelia
+Obes not recvd civilian a Probably Astronomical
+Oo
+0
+Qa
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Round, white and yellow, glowing
+brightly, obj was descending, ball shape with
+
+V1. COMMENTS
+
+Poss Parhelia
+
+ATIC FORM 329 (REV 26 BEP $2)

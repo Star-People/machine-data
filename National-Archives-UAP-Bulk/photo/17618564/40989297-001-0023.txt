@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:08:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 451914, "source_ctime_ns": 1793355996368354132, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0023.jpg", "source_mtime_ns": 1785564577000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0023.jpg", "source_sha256": "6c0beaf2ef00db228e8e0f83a0c880da89bcc776ace643a9040e784d8facfed9"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 445, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. Two Photos of Project MOGUL “Balloon Trains”
+
+. Log Summary, NYU Constant Level Balloon Flights
+
+. List of Museums Contacted
+
+. Copy of Blueprint for “Pilot Balloon Target, ML-307C/AP Assembly”
+
+. Signed Sworn Statement of Newton, July 21, 1994
+
+. Photos of ML-307C/AP Device, With Vintage Neoprene Balloon and Debris
+. Synopsis of Balloon Research Findings by 1st Lt James McAndrew
+
+. “Mensuration Working Paper,” With Drawing and Photo
+
+23

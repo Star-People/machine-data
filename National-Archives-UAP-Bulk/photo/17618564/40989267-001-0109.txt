@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T13:53:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16316898, "source_ctime_ns": 1793355525469176855, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0109.jpg", "source_mtime_ns": 1785564471000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0109.jpg", "source_sha256": "2b35e9576d153868ab7ffcedcd02266928476685ea0ae856de1e67dca8770c5a"}
+
+===== PAGE 1 =====
+{"alpha_words": 366, "chars": 2540, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+inflation gas is a mixture of air and combustion products. Thus, the results of
+Equation 2 are in error to the extent that the molecular weight of the inflation mix-
+ture varies from the molecular weight of air. The difference is small and may be
+neglected.)
+
+Table 1 gives some comparisons of specific lift (1b /ft3) for hot air at various
+temperatures (above ambient), and for other lifting gases at several altitudes in an
+
+ARDC model atmosphere,
+
+TABLE 1. Specific lift of gases at various altitudes
+in an ARDC model atmosphere
+
+Level 5000 10,000 15,000 20,000 25,000 ft.
+
+Hot air (200°F) ‘ Ovi ctaks § sULZ0
+Hot air {200° F) 0151 Aig AK
+Hot air (300°F) ‘ .0167 .0149
+Coal gas (U. S.) , (0067 .0216
+Ammonia i 0169 00142
+Helium oo L 0295
+Hydrogen .0379 ,0319
+
+In Equation 2, Ty, is defined as the average absolute temperature within the bal-
+loon, In the case where fuel is carried on board and heat is generated in flight, there
+will be temperature gradients from the heat source to the outside of the balloon.
+These gradients will also vary along the height of the balloon. Figure 1 shows the
+results of measurements taken inside a static balloon in still air. It is interesting
+to note that the average internal temperature is about the same as the maximum
+Skin temperature which was measured at the crown of the balloon. Figure 2 pre-
+sents the specific lift of a hot air balloon at sea level as a function of balloon internal
+temperature when assuming ARDC model atmosphere ambient pressure and temper-
+ature. Figure 3 presents the Specific lift of a hot air balloon at sea level as a func-
+
+tion of ambient temperature when assuming a constant balloon internal temperature
+
+and ARDC model atmosphere ambient pressure. Figure 4 presents the specific lift
+
+as a function of altitude when assuming an ARDC model atmo-
+
+Sphere, and a constant temperature differential (Ty - Tete OR
+
+of a hot air balloon
+
+It is evident that a decrease in balloon internal temperature or an increase in
+
+ambient temperature causes a decrease in specific lift. Likewise, an increase in
+altitude decreases the specific lift. Both of these results follow from Equation 1.
+
+Apex Temeeeature Is Apreroximatecy
+E.ovuar To Tue Averace TEMPERATURE
+DifrerenTian
+
+X+ 140°
+
+x+110"
+
+KX 4100"
+
+°
+Ameient TEMPERATURE X : ,
+bd % 4 ¥ p % 5°
+(Acc Tempeeatores Are F°) 4 y Kilo
+
+(skin Je mMPERATURE)
+
+AVERAGE TEMPERATURE DirrEReNTIAL
+In Tuis ILLosTRATION is 140 F
+
+Fi 1. Internal and Skin Temperature Profile as Determined by Model Hot
+igure 1,
+
+Air Balloon Experiments
