@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T21:52:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1369995, "source_ctime_ns": 1793356368667534980, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0098.jpg", "source_mtime_ns": 1785564687000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0098.jpg", "source_sha256": "f988e98a25b59fa81b9f372224d424fe5f54a6fc91a1ff0b54da2d4b84686e6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 237, "chars": 1747, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SECTION II
+
+OPERATION CROSSROADS
+
+1. GENERAL CONSIDERATIONS
+
+Operation CROSSROADS afforded an opportunity for deter-
+mining the feasibility of sound ranging on atomic bomb detona-
+tions. To this end, infrasonic microphones were operated at vari-
+ous locations during CROSSROADS tests Able and Beker. Equipment
+used was of two types: stendard sound ranging microphones, re-
+sponding to the range from 5 cps to 25 cps and specially developed
+infrasonic microphones used in pairs, which, together, covered the
+range from 1 cycle per half hour to 1 cycle per second. The loca-
+tions selected were as follows:
+
+a. Stations at which special infrasonic microphones were
+employed:
+
+(1) Fort Monmouth, New Jersey
+
+b. Stations et which both special infrasonic microphones
+and standard sound ranging microphones were employed:
+
+(1) San Francisco, California
+(2) Nome, Aleska
+
+ec. Stetions at which only standard sound ranging micro-
+phones were employed:
+
+(1) Hawaii, T. H.
+(2) Manila, P. I.
+(3) Grafenwohr, Germany
+
+The specially developed infrasonic microphones were operated by per-
+sonnel from SCEL, and reguler sound ranging equipment was operated by
+various Field Artillery Observation Battalions.
+
+2. INSTRUMENTATION
+
+ae Speciel Infrasonic Equipment
+
+The special infrasonic microphones which were designed and
+constructed by personnel of Sound Section, General Engineering Branch,
+ESL, respond to pressure variations as low as 1 cycle per 30 minutes.
+Two such microphones are used to cover the range from 0.5 x 10-3 cps
+to approximately 1 cps, the “low frequency" microphone responding to
+frequencies from 0.5 x 1073 to 0.06 cps and the “high frequency" micro-
+phone to frequencies from 0.06 to 1 cps.
+
+This document is part of an unclassified series

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:13:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1047672, "source_ctime_ns": 1793356060800303328, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0200.jpg", "source_mtime_ns": 1785564595000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0200.jpg", "source_sha256": "49941dc582828dcd44004872832a3a3711a363d20196b88f5d088de0164ae064"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 688, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RATE OF RISE AND MAXIMUM ALTITUDE COMPUTATIONS
+
+“Flight Ko. - Date
+a a
+BALLOON INFLATION
+
+Desired Rate of Rise . . : . ft./min.
+
+Gross Load . | ° e
+ane
+
+Ts cuned Gross Lift (Gross Load # 10%) G
+
+ml G 2/3
+
+Free Lift - F = (qyz)"G’*. ee
+
+Equipment \Weight. . ° ° .
+
+Desired Balloon Infletion = Free Lift + Equipment Total . grams
+Allowance for Leakage © en/hr, hrs. waiting _e
+
+Actual Balloon Inflation . e e e e ° ? tt
+
+MAXIMUM ALTITUDE
+
+Balloon Volume. . . . . cu. ft.
+“I Helium ll. ke /‘mol
+Gas Litt/mol , . + «+ + _Hydrogen 12,0 kg/mol
+
+Molar Volume = Balloon volume x gas lift/mol
+ai gross load
+
+cu. ft.
+Meximm Altitude .  .  . ft. msel.
+Altitude Sensitivity ° . ° _ ft / kes
+
+: (57)

@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T22:12:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4385851, "source_ctime_ns": 1793378692588116887, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968872/0342.jpg", "source_mtime_ns": 1785696487000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968872/0342.jpg", "source_sha256": "64ab14d575e2811875181e5cd7ac83a6550c7362c343daf82edc375c12dbfc98"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 250, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+No Caso (Information Only) 5 January 1957
+Souix Falls, South Dakota
+
+1957, Jan,5=Souix Falls;South Dakota=-A red UFO seen over here today by
+tivo boys,members of Saucer-~Club., Was a'defined'object,
+4 about the size of an automobile,and it hovered!

@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T21:30:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11401864, "source_ctime_ns": 1793354435997572888, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0064.jpg", "source_mtime_ns": 1785564284000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0064.jpg", "source_sha256": "796c4679e90f740e78b27ac65881258647633ac54288f5d6d4e9862c926869ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 291, "chars": 2187, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Lasers & Imaging
+
+Chemical
+Oxygen-lodine
+Laser
+
+’
+
+Phillips Laboratory scientists and engineers are working on a ¥, ide
+variety of programs involving basic research and advanced de velopment.
+Their work includes laser devices; advanced imaging techniques; optic!
+systems; acquisition, pointing and tracking; and ground-based laser
+antisatellite systems.
+
+Lasers & Imaging Programs
+
+Diode Lasers — Semiconductor laser diodes and diode arrays are in
+advanced research and development at the Laboratory.
+
+Nonlinear Optics — This technology can potentially solve many
+problems associated with laser and imaging systems. Current researc}:
+directed toward using nonlinear optics to correct atmospheric distortions,
+and compensating for optical imperfections.
+
+Chemical Oxygen-Iodine Lasers — Scaling of chemical lasers to high-
+power level is important for strategic and tactical applications. This
+Directorate is looking at ways to improve laser periormance for varlous
+applications, including space-based scenarios.
+
+Optics Imaging Research —Additionally, this Directorate is the focus
+for all Air Force research in high resolution optical imaging. Conven-
+tional and nonconventional imaging technologies 2: pursued. The
+Directorate operates: ;
+
+- Air Force Maui Optical Station (Maui, Hawaii).— This station ¥.
+devoted to satellite and rocket tracking and imaging. Capabilities
+will expand from the existing 1.6-meter and two |.2-meter tele-
+scopes with the installation of a 4-meter-class telescope in the mic-
+
+1990s.
+« Malabar Test Facility (Melbourne, Florida) — This faciltty is used
+for space tracking and data collection.The site has some of the ‘inest
+
+acquisition, tracking and laser beam control hardware in the For °
+
+- Starfire Optical Range (Kirtland Air Force Base) — Currently
+operating a 1.3-meter telescope and a l-meter beam director, this
+site is used for research in ground-based imaging and solving
+atmospheric distortion problems. The installation of a 3.5-meter
+telescope at the Range will be completed in 1992.
+
+« Argus (also at Kirtland) — This is a specially modified NC-135
+aircraft that is used as a flying laboratory for space imaging work
+
+Dye
+Laser
+Coupling

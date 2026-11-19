@@ -1,0 +1,14 @@
+{
+  "document_id": "doc-dc3cdc68a8083491faa6dfbd",
+  "remaining_manual_review_count": 1,
+  "schema": "ufo-files-portuguese-review-queue/v1",
+  "segments": [
+    {
+      "reasons": [],
+      "review_status": "not-required",
+      "segment_id": "seg-ebe663dd99028d03348707d2",
+      "weight": 0
+    }
+  ],
+  "selection_method": "deterministic weighted sample: failures, handwriting/stamps, low OCR confidence, forms, abbreviations, important cases"
+}

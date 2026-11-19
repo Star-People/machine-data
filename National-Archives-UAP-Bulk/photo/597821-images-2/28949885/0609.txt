@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:27:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4272833, "source_ctime_ns": 1793374036030173982, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949885/0609.jpg", "source_mtime_ns": 1785696860000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949885/0609.jpg", "source_sha256": "74d4d2af04caa3dfac57d05091117be3110e8fe4a856a2f6d56529adba8e3c20"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 490, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS STRATEGIC AIR COMMAND L
+OFFUTT AIR FORCE BASS .
+OMAHA, NEBRASKA G ;
+vine 35D 8 OCT i195
+
+SUBJECT (Unclassified) FLYOBRPT
+
+TOs Chief,
+Air Technical Intelligence Center rm |
+Wright-Patterson Air Force Base | ;
+Ohio
+
+The attached Air Intelligence Information Reports are forwarded |
+as per instructions APL 200-5, dated 29 April 1952, subject, FLYCBRPT,
+
+FOR THE COMMAIDING GENERAL: |
+
+5 Incls MAJOR, USAP / :
+2. aces Asst 4dj Geu * |
+3 TRel48-52
+4e TRe149-52
+5. TR-150-52
+4
+. i

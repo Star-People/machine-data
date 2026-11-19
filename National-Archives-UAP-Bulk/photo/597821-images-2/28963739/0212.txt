@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T22:09:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4084267, "source_ctime_ns": 1793377438371024754, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963739/0212.jpg", "source_mtime_ns": 1785696918000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963739/0212.jpg", "source_sha256": "9817e5fced4b2605ca19c31db7ccdb4b914674e0420f16026525d34859ba7661"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 738, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+QO Was Balloon
+: 23 Sep 55 Leonape, Pa 0 Probably Balloon |
+| =| 3. DATE-TIME GROUP 4. TYPE OF OBSERVATION mi ressibiy belleen |
+3 OQ Was Aircroft
+. Locel %XGround- Vi sual O Ground-Rodar Q Probably Aircraft
+1 GMT_2 16302 O Air Visual O Air-Intercept Radar O Possibly Aircraft
+2 5. PHOTOS 6. SOURCE O Was Astronomical
+- |. O Yes Q Probably Astronomical
+q tf No civ QO Possibly Astronomical
+4 7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE oO er.
+e B Insufficient Data for Evaluation
+| | 3-5 min 1 unk
+» 110. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Dark obj, shaped like toy top. Had Possible balloon observation.
+
+rudder underneath.
+
+ATIC FORM 329 (REV 26 SEP 52)

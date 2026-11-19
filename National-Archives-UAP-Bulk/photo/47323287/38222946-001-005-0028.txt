@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T22:01:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2343477, "source_ctime_ns": 1793365567304010231, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0028.tif", "source_mtime_ns": 1785565389000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0028.tif", "source_sha256": "c289966bb3fe56e2f0542a7d3b666d19c12dfeac3e2cc5cc8a6b5519c45cf8af"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 721, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a a cemctnat Whee a ke lh lk A sl dN 8 a A Nab Bh A US al EL ed htt Balt aah oc bbe ibe td shape tate:
+
+Page Two
+
+Let us again emphasize three points — this information is urgently needed by CRIMETAC
+for effective planning of crime-control activities; any information that you give us is
+confidential and, when fully assembled, the total report can be of great value to you.
+
+If you have any questions or comments on the inventory form, or if you would like to
+discuss it, please call Fred B. Smith, Director, Community Services Center, SURC, at
+(1-315) 477-8644. Your prompt response, of possible within two weeks of receipt of
+this questionnaire, will be appreciated.
+
+Sincerely,
+
+Michael O. Sawyer )
+Chairman
+
+MOS:pac

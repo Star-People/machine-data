@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T22:12:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4384556, "source_ctime_ns": 1793378109882208933, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966809/1396.jpg", "source_mtime_ns": 1785696527000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966809/1396.jpg", "source_sha256": "cc35c434e67ef5932fae9d6e8afc30e8f2c0c5076fe4f167e69ed70baf4bb6c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 44, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+~ —
+2s 7
+
+ray “=
+
+‘ bag aeee
+Ae
+
+‘ fo dnee

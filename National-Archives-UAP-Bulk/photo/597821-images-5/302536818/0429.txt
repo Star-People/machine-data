@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:12:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1017898, "source_ctime_ns": 1793389130699533195, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536818/0429.jp2", "source_mtime_ns": 1785808020000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536818/0429.jp2", "source_sha256": "0d40304787ded52bfe9dc5e6722aae690f3192d91cb04d879391eea6a09fde76"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 523, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF IN: 10978 (5 Dec64) Page 3 of 6
+
+OBSERVER 23 TOWN OF BAKER - EAST SIDE NEXT TO
+LOGSDON*S SAND AND GRAVEL PITS.
+
+OBSERVER 33; TOWN OF BAKER - NORTH SIDE ~ RADAR
+SITE CANTONEMENT AREA.
+
+OBSERVER 4; SAME AS OBSERVER 1.
+F. IDENTIFYING INFORMATION ON OBSERVERS:
+
+1e MILITARY:
+
+PAGE 3 RUWHBSQ 5 UNCLAS
+
+HAROLD H. EVES TSGT
+
+821ST RADAR SQUADRON
+
+BAKER, OREGON 97814
+
+RADAR OPERATIONS CREW CHIEF
+
+RELIABILITY = GOOD
+
+(THROUGHOUT REPORT, KNOWN AS OBSERVER 1)
+
+CIVILIANS
+
+bs
+
+BAKER, OREGON 97814
+CITY POLICE
+
+RELIABILITY - GOOD

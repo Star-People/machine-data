@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:25:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3980808, "source_ctime_ns": 1793386846104755810, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997548/1148.jpg", "source_mtime_ns": 1785748174000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997548/1148.jpg", "source_sha256": "97c994f5cd1d69e6ded0e9357d43504b0230752a28d07b3644b866ddc1dcbe4c"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 320, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+No Case (Information Only) 22 May 1962
+4 Dorchester, Massachusetts
+
+liay 33--Switchborrd operator Lary A. Fortuna reported one circular
+4 shaped object with brillant yellow blinking lights around
+4 its outer edge and with one red and green beacon light that
+4 revolved over Dorchester, Massachusetts at 10:20 P.il.
+:
+|

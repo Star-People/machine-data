@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T22:04:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3713328, "source_ctime_ns": 1793377620991762765, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964620/0966.jpg", "source_mtime_ns": 1785696564000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964620/0966.jpg", "source_sha256": "87aa93a71595123d742e6cf57ad773a25eb8a28f78902ad33b9f400b733d211b"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 578, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+22725 FitL f 3
+
+“MEMO ROUTING SLIP |
+
+NEVER USE FOR: APPRQYALS, DISAPPROVALS,
+‘CONCURRENCES, OR SIMILAR ACTIONS
+
+; 1 1 NAME OR TITLE INITIALS CIRCULATE
+me APOIN-k :
+cag © ORGANIZATION. AND LOCATION ra a DATE COORDINATION
+re ws eser FILE
+3 NECESSARY
+ACTION
+NOTE. AND -
+RETURN
+4 “SEE ME
+SIGNATURE
+For rome + information end necessary action.
+Wo alee necessary.
+a how) _G Lergick,
+
+wl
+
+FROM NAME OR TITLE
+
+AFOIN-X
+
+"15/3/56
+
+ORGANIZATION AND LOCATION
+
+TELEPHONE
+
+71092
+
+. DD 295
+
+Replaces DA AGO Form 896, 1 Apr 48, and AFHQ
+Form 12, 10 Nov 47, which may be used.
+
+16—48487-4 Geo

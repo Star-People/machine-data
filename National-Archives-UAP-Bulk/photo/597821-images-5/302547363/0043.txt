@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:10:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 807357, "source_ctime_ns": 1793390182240269234, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547363/0043.jp2", "source_mtime_ns": 1785808578000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547363/0043.jp2", "source_sha256": "c1ecb7250bc201dc586c71980e15aa3167b17c6db5c2d4c22820da10eb340c3a"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 56, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Biflon, hb L
+
+(iF 0. Me akg tirrters
+Wag 5 eS Ce Zz Vas
