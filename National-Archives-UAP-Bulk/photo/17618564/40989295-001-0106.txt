@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T11:43:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1521180, "source_ctime_ns": 1793355976065988722, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0106.jpg", "source_mtime_ns": 1785564573000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0106.jpg", "source_sha256": "bf0656e192df1dfbd243492b450cfb32564cc95bac786404fa564404c6ede29c"}
+
+===== PAGE 1 =====
+{"alpha_words": 297, "chars": 1859, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+95
+
+sled slipper peans,8°* “provide aerodynamic sled drag dete e” and "study
+water entrance in braking scoops by means of pictures from a sled-borne
+em The slipper-beam studies were conducted in October and December
+1954, using the original MX-196) sled as test vehicle, and sought to
+compare “actual loads found on the sled during operation" with the calcu-
+lated loads. By means of strain gauges and accelerometers mounted on the
+sled, valuable information was obtained. Attempts to photograph waters
+brake action, on the other hand, were not very successful at this times
+
+Another Holloman contribution in the field of braking techniques was
+the concept of retractable water scoops that could be let down just prior
+to the braking phase, so as to reduce "high velocity air drag and inter-
+ference drag" during the course of the run, This and other "radical ideas"
+were incorporated in an experimental "wedge" (that is, wedge-shaped) sled
+that was designed and constructed at Holloman as an activity of Project
+6876, The principal design engineer for this sled was Mr, Charles Spere,
+who has been engaged in work related to the Holloman track since 1952.
+
+But the sled was not finished wntil after the period covered in the present
+volume, and its first checkout run took place only in the spring of 1957
+(when it was destined to have an unfortunate end).
+
+Still more sled engineering was devoted to the components test (or
+"T-beam") sled, and to a monorail vehicle that was designed and built at
+Holloman and had its inaugural run in May 1956, just after the track was
+extended for the first time. Another sled, especially for supersonic
+research tests, was ordered from Aircraft Armaments, Incorporated early in
+1956, according to specifications drawn up by the staff of Project 6876.
+
+This sled was designed to take full advantage of the impending track

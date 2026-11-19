@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T12:14:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8926465, "source_ctime_ns": 1793354548528154467, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0039.jpg", "source_mtime_ns": 1785564303000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0039.jpg", "source_sha256": "cd8f71d8a24de33ca3ce901854ba9126dcef4586cfc3df73d9ba7270fc98b6b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 313, "chars": 2184, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. In the case of : (Name of Accused)
+
+CHRONOLOGY SHEE TF
+
+2. Date of altcaed < commission | 3. Date record forwarded to 2
+of earliest offense tried: Judge Advocate General:
+
+16 December 1955
+
+CUMULATIVE”
+
+CHRONOLOGY DATA ELAPSED DAYS
+
+6. Accused arrested or confined by military authority of command in which trial held. 4
+
+7. Charges preferred (date of affidavit.)
+8. Article 32 investigation (date of report.)°
+9, Charges received by convening authority.
+f 10. Charges referred for trial.
+11. Sentence or acquittal.
+LESS DAYS:
+Accused sick, in hospital, or AWOL:
+Delay at request of defense:
+
+Total authorized deduction: 6
+
+12. Net elapsed days to sentence acquittal.
+13. Record received by convening authority (if other than GCM authority in Item 14)
+
+Action 7
+
+14. Record received by officer authorized to convene Gcu,*
+
+Action 2
+
+15. REMARKS: Delays for add between numbers:
+
+7-8 Delay was caused by accused's attempt to obtain Individual
+
+Defense Counsel. Some delay caused by non availability of
+witnesses.
+
+LO Mail delay.
+12 Mail delay.
+
+14: JLength of record. Mail delay. Non availability of Convening
+Authority.
+
+In a case forwarded to the Judge Advocate General, the staff judge advocate or legal officer is responsible for :
+completion of the Chronology Sheet. Trial counsel should report any authorized deductions and reasons for unusual |
+delay in the trial of the case.
+
+Or supervisory authority under Article 65c (Paragraph 94a(1), (2), MCM, 1951.)
+
+In comput ing days between two dates, disregard first day and count last day. The actual number of days in each month 3
+will be computed.
+
+Item 6 is not applicable when accused is not arrested or confined or when he is in confinement under a sentence of
+court-martial at time charges preferred. Item7 will be the zero date if Item6 is not applicable.
+
+May not be applicable to trial by special court-martial.
+
+Only this item may be deducted.
+
+If sentence, as approved by convening authority under Item13, does not involve BCD, Item 6 to 13 will be completed,
+and chronology signed, by such convening authority or his representative.
+
+ISAF ste 55 102 REPLACES 15AF FORM 102, 18 AUG 52 AIR FORCE - HQ ISAF, MARCH 6282

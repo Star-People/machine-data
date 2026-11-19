@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T11:54:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4024390, "source_ctime_ns": 1793376275245401630, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960008/01416.jpg", "source_mtime_ns": 1785696946000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960008/01416.jpg", "source_sha256": "beed3adb0040841201b1355eeda985ba75755573126acd5151e172ce96e68537"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 567, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUr 2. LOCATION
+
+8 OCT 54
+| 23 /23302 CEANA, VIRGINIA
+3, SOURCE 10, CONCLUSION
+
+wETHOR
+
+“MILTARY (NAVY)
+4. NUMBER OF OBJECTS
+
+4
+
+5. LENGTH OF OBSERVATION 11. BRIEF SUMMARY AND ANALYSIS
+
+10 SECONDS Solid trail of blue-white light, appeared to come from tail
+6. TYPE OF OBSERVATION pipe. No sound, straight and level flight, also obs from
+
+1 FOF-5 a/c.
+
+GROUND VISUAL, ATR VIS
+
+7. COURSE
+
+wy TOS
+
+oo
+
+PHOTOS
+
+O Yes
+@ No
+
+9, PHYSICAL EVIDENCE
+
+O Yes
+
+OG No
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.

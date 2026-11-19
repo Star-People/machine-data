@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T12:09:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7240463, "source_ctime_ns": 1793363069308074516, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0087.jpg", "source_mtime_ns": 1785684804000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0087.jpg", "source_sha256": "cc4abee08af28a516c68cb5f89ed5bb5c012ef481a1df4e7a555a503780139a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 59, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CK
+Oty
+
+Yso]eo| ee
+
+Declassification Authority: NND 923007

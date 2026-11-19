@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T12:07:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6936615, "source_ctime_ns": 1793377058340927580, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962587/0726.jpg", "source_mtime_ns": 1785696601000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962587/0726.jpg", "source_sha256": "c2e597ee1f8e89ad890717c1080bb6aec03e932a305c4526debb1396920d4337"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 788, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+one
+
+Downvard
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+iia Me OQ Wos Balloon
+Le gud: 3p 50 miles SHof Sacremento, Calif q, Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ee ee
+Local  Ground-Vi sual EXGround-Redor a Probebly. Aircraft
+GMT 01/19 LOZ, *¥ Air Visual D Air-Intercept Radar O Possibly Aircraft
+5. PHOTQS 6. SOURCE O Was Astronomical
+O Yes QO Probably Dermnartad
+" }{% No military O Possibly Astronomica
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+0D Insufficient Dota for Evaluation
+QO Unknown
+1 minute
+
+10, BRIEF SUMMARY OF SIGHTING
+
+Similar to sircraft at a distance. Silver
+fell straight down to the ground.
+
+V1. COMMENTS
+
+Possibly weather balloon which reached
+alt, burst and fell.
+
+\ ATIC FORM 329 (REV 26 SEP 52)

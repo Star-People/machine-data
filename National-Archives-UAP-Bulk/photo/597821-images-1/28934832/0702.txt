@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T11:59:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5029690, "source_ctime_ns": 1793370548511319153, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934832/0702.jpg", "source_mtime_ns": 1785688729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934832/0702.jpg", "source_sha256": "bbe8b4683a6e0c1e41823fb830ac9b524d854c1703d4fb3bcef9e9f83ea03195"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 566, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MCIAXS/GVT /amo
+
+MCTIAXS
+
+= Receipt of your letter, dated 13 May 1949, is respectfully
+aa acknowledged by this Headquarters. |
+Your reported sighting has been made a matter of record end
+incorporated into our present study of unidentified aerial phenomena.
+Should additional information be desired, contact with you will
+be made through the above address.
+
+anes Gh 5 arenes z ieee
+
+Your action in reporting this matter to the proper authorities
+
+is appreciated.
+
+Sincerely yours,
+
+W. Re CLINGE MAN
+
+} Colonel, USAF
+
+Chief, Analysis Division
+Intelligence Department

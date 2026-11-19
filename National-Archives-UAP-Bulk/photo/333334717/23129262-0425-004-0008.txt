@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T12:20:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15487842, "source_ctime_ns": 1793361522454493907, "source_file": "National-Archives-UAP-Bulk/photo/333334717/23129262-0425-004-0008.tif", "source_mtime_ns": 1785565373000000000, "source_rel": "National-Archives-UAP-Bulk/photo/333334717/23129262-0425-004-0008.tif", "source_sha256": "3525f37a05ec982aa32a3ebe8a1ac54935de08fafacd12adcbe7fb8ae33a61d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 270, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DECLASSIFIED Authority NW 45006
+
+DATE 2 Oct 1952
+INDEX: 976
+
+0: CO, MAFBs New York
+THRU: CG, 1 AF
+
+FROM: Con4AC
+
+SUMMARY: (Unclassified) Unidentified Flying Objects Reporting
+
+FILED: 000.7
+INDEXER: Jy
+REMARKS:
+DD 1 MAR 50 334. CROSS-REFERENCE SHEET Fen aw ote ae 971013
