@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T09:57:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3462580, "source_ctime_ns": 1793376152247500782, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959466/00956.jpg", "source_mtime_ns": 1785696562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959466/00956.jpg", "source_sha256": "e61877ca206f8bd75b3bff73c6c2846bd21ce7aaaeb069fa0d702939d59ec8f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 873, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+~
+
+. LENGTH OF OBSERVATION
+
+1. DATE 2. LOCATION 12
+
+2 September 1954 Machiato, Okinawa 8
+
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION =
+
+Local ; MX Ground- Vi sual 0 Ground-Radar S
+2/0231
+
+GMT 02/02312 O Air Visual O Air-Intercept Radar a
+
+5. PHOTOS 6 SOURCE o
+
+O Yes a
+
+Bi No Civilian & Military ss
+
+Oo
+
+Oo
+
+a
+
+8. NUMBER OF OBJECTS | 9 COURSE
+
+i
+
+- CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probobly Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+f
+Insufficient Dota for Evaluation
+Unknovm
+
+. BRIEF SUMMARY OF SIGHTING
+Round,
+
+SiLOWL
+
+=
+oS
+
+Brilliant Light. No sound Drifted
+.
+
+11. COMMENTS
+
+Probably balloon. Rpting officer
+states that a weather o2]
+launched in the area of the sivhting
+
+(Note: Extracted from ATIC Doc. #
+188349, $ Nov 54)
+
+ATIC FORM 329 (REV 26 SEP 52)

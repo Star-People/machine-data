@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T09:46:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 332161, "source_ctime_ns": 1793394370485079163, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0094.jpg", "source_mtime_ns": 1785567361000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0094.jpg", "source_sha256": "71a68dfeee6b52de2e2b04a35cfc4caa1afff5a536c1ee9bbc5d08658bfedaba"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 66, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+¢ UFO Seg thon
+
+Mrs D Moon
+
+6546 Cahuenga Terr
+Hollywood CA
+90068

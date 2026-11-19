@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T09:55:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1777627, "source_ctime_ns": 1793388677398098742, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530974/0774.jp2", "source_mtime_ns": 1785808118000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530974/0774.jp2", "source_sha256": "81f8f9fd9032ad8e44bf150e0faeace34f2f7b5eb11ce92bdd784981f08eba0c"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 871, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| \
+PROJECT 10073 RECORD CARD
+Jj. DATE 2. LOCATION 12% CONCLUSIONS
+4. Nisetiiena * mA O Was Balloon
+an N svemoer 1963 LO.00M 174, OOV 1 Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ee er
+Local 2 Ground-Vi sual DO Grownd-Rodor G Woes Aivcraft
+" : Q Probably Aircraft
+GMT 04/05452, 2 Air Visual D Aiz-Intercep? Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE 9 Wes Autronomical
+OG Yes 0 Probably Astronomical
+CKENe USS Falcout (Civilian) OD Possibly Astronomical
+7. LENGTH OF OBSERVATION $8, NUMBER OF OBJECTS | 9% COURSE. TQ Other d
+‘ EF Insufficient Dota for Evaluation
+ny ae : DB Unknown
+Not Given - NE
+10, BRIEF SUMMARY OF SIGHTING Ti. COMMENTS
+Object appecring as planet or bright star, Possible meteor, however, data
+Observed at 15 deg elev, Covered 60 deg are jinclosive, Case carricd as insufficient
+in 45 Seconds, data.
+
+ATIC FORM 329 (REV 25 SEP §2)

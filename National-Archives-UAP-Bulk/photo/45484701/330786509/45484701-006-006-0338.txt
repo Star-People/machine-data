@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T10:21:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10366619, "source_ctime_ns": 1793364253215256442, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0338.jpg", "source_mtime_ns": 1785684602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0338.jpg", "source_sha256": "0d381308de2e92d3244cc70e4bdfe0c88e2f27baa305d1597e83723885ed206b"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 154, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+le Exhibit “a’
+
+OT AREER IN A le A ONE CER
+
++ ADS ALA IBLERLS Lhe de
+
+teen ta a oe eh ne ee ie di, ee eee eee eee
+
+Declassification Authority: NND 923007

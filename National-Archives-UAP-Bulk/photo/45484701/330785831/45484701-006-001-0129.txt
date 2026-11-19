@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T09:30:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10669307, "source_ctime_ns": 1793363722708963360, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0129.jpg", "source_mtime_ns": 1785684862000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0129.jpg", "source_sha256": "1d5a2200bbb4f5e10da8380725ad5c58e98a836b005978ea9df56aef3ae39fe4"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 127, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+se Sie ot 3
+
+&
+
+‘eek wh 86 Ce
+
+2 ongurnartain’
+
+Pa
+
+ALE DIED LSI
+
+eM EPR ARON TERR ye”
+
+Declassification Authority: NND 923007

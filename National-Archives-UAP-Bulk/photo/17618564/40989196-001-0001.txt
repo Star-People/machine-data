@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T10:06:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5323354, "source_ctime_ns": 1793354332584412788, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989196-001-0001.jpg", "source_mtime_ns": 1785564267000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989196-001-0001.jpg", "source_sha256": "ebd0fdf42dddc1b7595c1727a25d1defeb4ec82bc2673e733ceeace20a124a6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 420, "chars": 2697, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Charles B. Moore
+1011 Cassity Street, N. W.
+P. O. Box 1333
+
+Socorro, NM 87801-1333
+505 835 0975
+
+October 3, 1994
+Henry J. Schuren
+One Debbie Drive
+Stanhope, NJ 07874
+
+Dear Mr. Schuren:
+
+My response to your request for a printout of all the balloon launches by the Air Force [Army]
+from the town of Alamogordo during July, 1947 is that I have no records of any such flights.
+Further, I have no knowledge of any flights ever being launched by the Army Air Force from the
+town. Enclosed for you, however, is a section of the Summary of Constant-Level Balloon Flights
+carried out by members of the New York University Balloon Group from various locations,
+including several from the Alamogordo Army Air Field in June, July and September, 1947.
+
+As to your wonder as to why the Air Force is resolutely sticking with the balloon explanation [for
+the debris found by W. W. Brazel, the rancher who made the original report], one viable answer is
+that it is and was the truth. The neoprene meteorological balloon and radar target clusters that we
+launched in early June, 1947 used new design radar targets which had not been flown previously
+in New Mexico although many AAF weather personnel knew about them. Our purpose in flying
+them was not for making meteorological measurements but rather was in support of a highly
+classified attempt to monitor Soviet nuclear tests at very great ranges. However, when the debris
+was shown to Army weather officers, they immediately and correctly identified as it being from
+Army meteorological equipment [although they did not know its source because neither the
+military personnel at Roswell nor at Fort Worth were cleared for or had a "need to know" about
+our operations].
+
+In early June, 1947, one of our service flights [possibly undocumented NYU Flight #4 ] was
+tracked to the Capitan Peak/Arabela area about 75 miles northeast of Alamogordo AAF before it
+was lost while still air borne, less than 20 miles from where the debris was recovered. In my
+opinion, this flight is a likely candidate for the source of this debris.
+
+To my knowledge, William Moore and Stanton Friedman have not "researched" these early
+classified flights. I have talked with both of them but they both appeared to have already reached
+firm conclusions about the incident and were not seriously interested in my information.
+
+If, in your forty plus years of researching this incident, you have uncovered any better evidence
+concerning the origin of the debris that initiated the Roswell AAF press release, I would
+appreciate your writing to tell me about it.
+
+Sincerely,
+If) CAB HE
+
+Charles B. Moore
+Professor, Emeritus, Atmospheric Physics
+New Mexico Institute of Mining and Technology

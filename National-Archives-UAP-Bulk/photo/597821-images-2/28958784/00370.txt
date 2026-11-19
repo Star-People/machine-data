@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T09:57:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3440605, "source_ctime_ns": 1793376007440722440, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958784/00370.jpg", "source_mtime_ns": 1785696466000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958784/00370.jpg", "source_sha256": "2d8f3482719f9e0ec7dba33dee347c66bee92ab3d44255bd87301e633379194f"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 543, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ENC/CO S6S@2ND ABG ERNES HARMON AFB NF
+
+JEXW/CO 6S619TH ABG MCANDREW AFB NF
+
+JEHC/CO SSLiTH ABG NARSARSSUAK AB GRNLD
+
+JEQSU/CO 6612TH ABG THULE AB GRNLD
+
+JEQC/CO 6$21ST ABG SONDRESTROM AB GRNLD
+
+JEDWP/CG ATIC ATIAA=-2C WRIGHT PATTERSON AFB OHIO
+
+M24 UFOB 6 UNIDENTIFIED VISUAL SIGHTED FGOM AIRCRAFT AT HKMH 52 3991992
+243 DEG Z 258 (19908 SIGHTED BY HOW ARD CIVIL AIRLINE PILOT MESSAGE
+AEGEIVED 1 THIS HQ AT 3981122 VECTOR FIGHTER NO INTERCETP MADE RADAR
+
+CNONE CLEAR/VIS 32/73/4B/3313/NNU 8 COMPLETE INFO WILL FOLLOY
+
+Sam
+
+33@153Z JUN JEOBP

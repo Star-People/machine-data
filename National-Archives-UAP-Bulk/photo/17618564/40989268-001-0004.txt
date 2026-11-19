@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T10:24:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12685061, "source_ctime_ns": 1793355565899395026, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0004.jpg", "source_mtime_ns": 1785564480000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0004.jpg", "source_sha256": "8a7c1003b7caf54529dbd31d163f5391f50899e029760fb028b261a415185add"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 915, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Contents
+
+TETHERED AEROLOGICAL BALLOON SYSTEM by S. D. Elliott, Jr.
+
+IMPROVEMENT IN BALLOON DESIGN THROUGH SCALE MODEL
+ANALYSIS by J. A. Winker
+
+POLYETHYLENE FILM WITH HI-SLIP ADDITIVE AS A BALLOON
+BARRIER MATERIAL by J. A. Haueter
+
+STATISTICAL IMPLICATIONS OF BALLOON MATERIALS
+DY its tay FLoumel
+
+BEHAVIOR OF POLYETHYLENE IN SIMULATED BALLOON
+ENVIRONMENT by W. B. Parsons
+
+A NEW HIGH-ALTITUDE PLASTIC BALLOON LAUNCH METHOD
+by F. X. Doherty
+
+A NEW POLYOLEFIN-FILM BALLOON MATERIAL by D. R. Williams
+BALLOON BURST DISCUSSION by N. Sissenwine
+
+BALLOON LAUNCHING FROM AIRPLANES AND HELICOPTERS
+by L. Slaughter
+
+ULTRA THIN FILM BALLOONS by D. W. Cox, Jr.
+
+HEAT TRANSFER CONSIDERATIONS OF INSTRUMENTATION
+PACKAGES AT HIGH ALTITUDES by A. Piacentini,
+K. Lindenfelser and D. Dube
+
+A NEW MATERIAL CAPABILITY FOR THE BALLOON FIELD
+by R. S. Ross
+
+APPLICATION OF A TETHERING SYSTEM TO A SPECIFIC
+REQUIREMENT by M. S. Kretow

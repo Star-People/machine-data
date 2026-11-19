@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T10:25:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15510871, "source_ctime_ns": 1793355652802583686, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0091.jpg", "source_mtime_ns": 1785564496000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0091.jpg", "source_sha256": "c7bbe033c320415b7c0125ef066cc7b44165c955e8a6694c2e90690d1bd66cef"}
+
+===== PAGE 1 =====
+{"alpha_words": 328, "chars": 2288, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Power Limit Pulse Power Maximum Radia-|Time Constant {Accuracy of
+Self Heating Limit tion Brror at 10mb Measuring
+Te .2°e at 10mb Equipment
+
+¢,= .2°C
+
+Thermistor Bead
+
+0.15" diameter | 5°10°© watt 0.28°C oer 1 part in
+
+Alum, coated 250
+
+ppg Pe aa 0), BOXG) 0.65 sec 1 part in
+
+Oe ameter ! e
+
+Alum, coated _ XVI. Balloon Locating System
+Thermistor Bead R. J. Cowie, Jr.
+0,05" diameter O,12°C 0.22 sec 1 part in Air Force Cambridge Research Laboratories
+Alum, coated 250 Bedford, Massachusetts
+
+Thermistor Bead* é
+0,05" diameter | 2,5°10 ° watt op 1
+4 Tungsten kads : sacle aig oh Lele ha
+Alum, coated ang
+It is my privilege to describe briefly a balloon-locating system that makes use of
+Rue anes sor hed existing navigational aids. For years, investigations have been made to develop
+0.10" diameter fo) 4
+Py Pde : : ‘ wever
+Alum, coated “aba Iae rf bbe Te balloon-borne navigational devices and systems. These investigations, ho ,
+were oriented toward a system that would provide accurate position information on
+imi rage
+oreaue ‘ a global basis. Many possibilities have existed for using systems of limited coverag
+. 0,12 sec ipart an c .
+ele dba 2000 but the utility of such a system that would cover the continental United States, where
+The system
+
+most balloons are flown, was masked by the more ambitious concept.
+
+ee, nomy, accuracy and reliability and in
+
+that appears to be optimum in terms of eco
+
+Figure 13. Temperature Elements compatibility with existing balloon equipment is VOR (VHF omnidirectional range).
+
+idely used by all types of commercial and mili-
+
+the United States and Canada. More-
+d. With slight modifica-
+Air Force
+
+As you know, the VOR system is w
+tary aircraft for navigational assistance within
+ing continuously extended and improve
+dapted for balloon use with existing
+The existing VOR network can provide
+
+methods, and provide
+
+over, the system is be
+tion, present VOR equipments can be a
+
+data-gathering and transmission facilities.
+eted without complex data reduction
+or to that of any balloon-locating system 1n
+
+Corporation and AFCRL has
+ove the feasibility
+
+position data easily interpr
+consistent accuracy with coverage Superl
+
+use today. The approach undertaken by Zenith Radio
+
+undergone limited flight testing on both balloons and aircraft to pr

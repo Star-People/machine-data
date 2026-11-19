@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T09:47:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 915403, "source_ctime_ns": 1793388792379813037, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532386/0682.jp2", "source_mtime_ns": 1785808187000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532386/0682.jp2", "source_sha256": "35ab39986f6f74be5810ea38ff727030f9df694344866d6b8a9ac2dafa0fd7a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 215, "chars": 1401, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEARBORN @BSERVATORY
+NORTHWESTERN UNIVERSITY
+EVANSTON, ILLINOIS 60201
+2 March 1965
+
+Major Hector Quintanilla
+Foreign Technology Division
+Box 9494 .
+
+Wright Patterson Air Force Base
+Dayton, Ohio
+
+Dear Major:
+
+This is in answer to your letter of 18 February 1965, in which you
+suggest that I make a visit to Albuquerque for scientific discussions
+with Dr. LaPaz and to visit the observatory at Las Cruces, New Mexico.
+Although you did not mention it specifically, since Socorro, New Mexico
+is between these two locations, I think it would be profitable if I
+looked into things there, particularly the circumstances under which
+
+the films were made, the local public reaction to them, and in particular,
+Zamora's present situation.
+
+Since I am not teaching classes this winter quarter, and will not until
+April 1, 1965, this is a propitious time to make the trip and I shall
+prepare to do so immediately. Would be kind enough to request the
+necessary authorizations from Mr. Sweeney. Since time is important,
+
+I will plan td leave this next week, even though formal approval has
+perhaps not come through by that time. ~.
+
+I can be reached in New Mexico either through Gigi et Albuquerque,
+or in care of Mr. main SURE Tes Cruces, New Mexico. Upon
+my return, or sooner if I deem it necessary, I will submit a report to
+you in detail concerning my findings.
+
+Sincerely yours,
+
+ME:
+
+J. Allen AY ate
+
+JAHskrf

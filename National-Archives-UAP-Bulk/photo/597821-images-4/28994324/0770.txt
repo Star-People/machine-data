@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T10:17:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8337278, "source_ctime_ns": 1793385895874275009, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994324/0770.jpg", "source_mtime_ns": 1785747933000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994324/0770.jpg", "source_sha256": "a996a0d5cafc4781ddf406dc8f07fb7dc5f5f6b19e83fc771cc5a6f1aa2615a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 697, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+APTS PM ARs. hanno
+: ' + tae
+
+“No Case (Information Only) 30 August 19d.
+Source: CUFOR News Bulletin #11, September 61 Evanston, Illinois
+
+EVANSTON, ILLINOIS = 30 Aug 611 Roderick Aguilliard was also watching Eeho I. |
+: The time was between 9:00 and 9:15 P.M. The
+metallic satellite had just passed zenith when he noticed a star-like object |
+about half the brightness of Echo moving on a parallel course to the satellite's
+left rear at a distance equal to twice the moon's diameter (about 1°). In the |
+estimated 45 seconds of observation, the object had closed the distance to about:
+49, going the same direction as Echo. |
+
+This case in undergoing further study. A follow-up may be expected,
