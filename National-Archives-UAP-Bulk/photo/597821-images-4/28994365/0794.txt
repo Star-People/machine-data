@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T04:46:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7865774, "source_ctime_ns": 1793385908363851871, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994365/0794.jpg", "source_mtime_ns": 1785747966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994365/0794.jpg", "source_sha256": "56b734d764a59af96e51bf1d182b0fe0663754abdcc5f7688d6770221b815379"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 986, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Og. tr yim "4 _
+TR ACESS SEUNG TR Se Horses aE Ie
+
+NOTICES
+
+When Government drawings, specifications, or other data are used for any purpose
+other than: in connection with a definitely related Government procurement operation,
+
+the United States Goverment thereby incurs no responsibility nor any obligation
+whatsoever; and the fact that the Government may have formulated, furnished, or in
+any way supplied the said drawings, specifications, or other data, is not to be
+regarded by {implication or otherwise as in any manner licensing the holder cr any
+other person or corporation, or conveying any rights or permission to manufacture,
+use, or sell any patented invention that may in any way be related thereto.
+
+Copies of WADD Technical Reports and Technical Notes and Materials Central
+Evaluation Reports should not be returned to the Wright Air Development Division
+unless return is required oy gecurity considerations, contractual ooligations oF
+
+notice on a specific document
+
+“

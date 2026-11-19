@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T05:15:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 766690, "source_ctime_ns": 1793391312021159131, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557707/1277.jp2", "source_mtime_ns": 1785807999000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557707/1277.jp2", "source_sha256": "df0b3350859efc343c5d7e6cddfecd73b58fea2fdf78832cc98ed98a087eb9f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 639, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+10.
+
+PHOTOGRAPHIC DATA
+
+Type and make of camera Exa 35mm
+
+Type, focal length, and make of lens Wirgar, f=135mm, 1:4.5 F.C
+Brand and type of film Eastman Kodak Co., Kodacolor-X
+
+Shutter speed used 1/50 sec.
+
+Lens opening used; that is, "f" stop 4.5
+
+Filters used None
+
+Was tripod or solid stand used No
+
+Was "panning" used No
+Exact direction camera was pointing with relation to true North, and
+its angle with respect to the ground. Bearing: 45
+Angle: 80°
+If supplemental information is unobteinable, the minimum camera data
+
+required are the type of camera, and the smallest and largest "f" stop
+and shutter speed readings of the camera.

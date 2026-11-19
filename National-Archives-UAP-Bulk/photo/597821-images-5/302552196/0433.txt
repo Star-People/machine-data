@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T05:18:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1022095, "source_ctime_ns": 1793390660785915817, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552196/0433.jp2", "source_mtime_ns": 1785808153000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552196/0433.jp2", "source_sha256": "995b342d0a3a71daee367230693554b46f0a35fad3711c924d48252984962bbc"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 702, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE + TIME GROUP 2. LOCATION
+
+19 dune 1966 20/03122Z 98.31W 34.00N (Oklahoma Area)
+13. SOURCE 10. CONCLUSION
+4
+1 Military & Civilian Possible (SATELLITS)
+‘4. NUMBER OF OBJECTS
+i One
+5. LENGTH OF OBSERVATION 11. BRIEF SUMMARY AND ANALYSIS
+f . . :
+i § Minutes Object appeared as a white light, about 3-5 feet in diameter.
+; Object did not, leave a contrail. o sound heard. Observers
+; SE Cr OBSERVATION reported the object looked something like the ECHO I Satellite,
+
+Air-Visual however, it moved at a faster rate of speed to then,
+"7. COURSE
+| south
+ig. PHOTOS
+; O Yes
+
+9, PHYSICAL EVIDENCE
+
+O You
+oC No
+FORM
+ETO sep 63 0-379 (TDE)  peavions editions of thie form mer be cand

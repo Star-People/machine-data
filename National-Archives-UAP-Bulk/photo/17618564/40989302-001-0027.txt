@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T05:14:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 609882, "source_ctime_ns": 1793356091458886021, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989302-001-0027.jpg", "source_mtime_ns": 1785564605000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989302-001-0027.jpg", "source_sha256": "b2822c76a116c24c259a5d50cea99750cfaddb0d16d333c2f41dcfa2d8b584e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 269, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+VA.
+
+% ®
+
+that a court-martial would be justified in concluding that the
+statements themselves were sufficient evidence of insubordination,
+regardless of the lack of other evidence that Colonel Mitchell
+intended to be insubordinate.
+
+Q.
+
+JOHN A. JO ON
+General Counsel
