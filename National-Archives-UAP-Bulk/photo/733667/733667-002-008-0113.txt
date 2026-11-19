@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T08:55:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1274499, "source_ctime_ns": 1793394372721414696, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0113.jpg", "source_mtime_ns": 1785567361000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0113.jpg", "source_sha256": "6f350473871d655f75c303d966fcf0785f8608212921ab82e633c1b0c8ff77c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 547, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MARCH 2,1987
+
+GUY A. PERRY
+
+478 VANDELL WAY
+
+CAMPBELL; CA.
+95009
+
+FEDERAL AVIATION ADMINISTRATION
+7O1l & Si.
+
+BOX 14
+
+ANCHORAGE s ALASKA 993513
+
+DEAR FAAS
+
+I UNDERSTAND THAT THERE IS INFORMATION AVAILABLE REGRADING
+
+THE NOVEMBER 1986 UFO SIGHTING BY THE JAPAN AIR LINES. 7
+
+AM VERY INTERESTED IN ANY AND ALL INFORMATION ON THIS SUBJECT.
+PLEASE FORWARD WHATEVER INFORMATION YOU HAVE AVAILABLE AT THIS
+TIME (PLEASE FIND A SELF ADDRESS STAMPED ENVELOPE INCLOSED).
+ITF THERE IS A CHARGE FOR THIS PLEASE ADVISE ME.
+
+THANKS IN ADVANCE.
+
+o
+
+GUY A. PERRY

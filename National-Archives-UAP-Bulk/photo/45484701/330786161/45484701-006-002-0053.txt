@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T08:41:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9793518, "source_ctime_ns": 1793363855352791782, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0053.jpg", "source_mtime_ns": 1785685028000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0053.jpg", "source_sha256": "40de495ba1cbce002b751d6db612713220e0bf1acd5bb300a71816069c9e0287"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 177, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ter m4 St ee ‘ale
+
+sis at Hen irtaneb ties eedey
+5 Bis aa ti r pick ema rpey a hove
+, & a, ye *
+
+HONVUS Ye W
+
+Gon 2D |
+| 11 WC Of AON 9a
+
+Declassification Authority: NND 923007

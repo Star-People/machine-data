@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T08:38:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8727308, "source_ctime_ns": 1793387369742190098, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998599/0609.jpg", "source_mtime_ns": 1785748311000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998599/0609.jpg", "source_sha256": "05790465469a7b0eab0a80d5da8f0c7039c57f9261018718124db16b90ef1857"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 623, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+SINGLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN : 20633 (13 Aug 62) B/dfe , Page 1 of 2
+INFO : CIN-14, ARMY-2, NAVY=-2, CMC-8, SAFS-3, JCS-35, OSD-15, CIA-1l,
+NSA-7, OOP-2, OOP-CP-1, DIA-10, DIA CIIc-3 (94)
+
+SMB 3 992
+
+LOZCHOA47S5Z0S 043588
+
+Gee YY RUEAHQ
+ZNR ZFD RUEASU
+ZLCBIBASBPCCIS2
+a, YY RUEAHQ
+
+DE RUCKYN 311
+
+ar a
+-_
+
+TO RUCKHC/CINCLANTFLT
+
+RUCKDT/ COM ASWF ORLANT
+
+RUVGH'W/ THIRTYSECOND ADDIV SAGE OKLAHOMA CITY AFSTA :
+RUYGALB/ CINCN ORAD | :
+INFO RUECW/SECNAV
+
+RUECU/ CNG
+
+RUCK DR/ COMSUBLANT
+
+RUEAHO/COFS USAF
+
+RUEGUH/ COM EASSEAFRON
+
+RUECID/COMDT COGARD
+
+RUCKKC/COMSIX

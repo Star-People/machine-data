@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T09:09:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4269605, "source_ctime_ns": 1793371631425197641, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939204/00376.jpg", "source_mtime_ns": 1785688553000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939204/00376.jpg", "source_sha256": "15e3bac76554636860088877e2b987c2c7d242724128ce8957401c1f77684110"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 433, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+18. Copy radio, DIG 3122002, Aug 51 = from CG 500lst Conp ig Ladd AFB
+Ate AUG Gamgite IS, trastir oe = -
+to C/S USAF, Wash. D.C. (S) T52-1,2028
+
+20. Copy letter, dta 14 Sep 51 = from USARAL
+to CINCAL (Clear) T52-,202T
+
+21. Copy report, dtd 17 Oct 51 = from Det #2, 703d CIC Det, USARAL
+JE SCF ANCPIAGE Abests to J=2 (C) T52-1,:2020
+22. Copy report, dtd 16 Nov 51 = frem G2, USARAL
+Sy) ocr <7 GoimT betas, 0 52 (Cc) T52-202V
+LAGS 04

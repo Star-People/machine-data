@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T09:04:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3260361, "source_ctime_ns": 1793376270278402526, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959984/01397.jpg", "source_mtime_ns": 1785696607000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959984/01397.jpg", "source_sha256": "a889680b9191ed68ed832d5f3917038809ef3cacb14a0dcefc9880da09af9ea4"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 754, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+TIME GROUP 2. LOCATION
+i 5) ‘Tn TVA CITT re)
+ae LONG BAC fly CALT#
+
+SOURCE 10. CONCLUSION
+CIEVILIAN INSUFFICIENT DATA FOR EVALUATION
+
+4. NUMBER OF OBJECTS
+
+ONn
+Wits
+
+5. LENGTH OF OBSERVATION 11, BRIEF SUMMARY AND ANALYSIS
+
+ONE SECOND Round and oblong, bright white, no sound, heading NE at
+15 - 20,000 ft. Made 270 deg right turn and rolled out heading
+6. TYPE OF OBSERVATION N and faded
+GROUND VISUAL
+; COMMENTS ;
+7, COURSE
+NE Probable error in duration. Obj could not perform detailed
+
+manuvers and then fade in one second. Other than duration
+
+8. PHOTOS obj resembles afe reprt. Insuff data for conclusion.
+
+wo Yos
+“1 No
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+O No
+
+FORM
+FID sep 63 0-329 (TDE) Previous editions of this form may be used.

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T09:05:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3674881, "source_ctime_ns": 1793382468112033508, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984026/0873.jpg", "source_mtime_ns": 1785700866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984026/0873.jpg", "source_sha256": "a24daf966eade580cec5cff39454c4a751ed70ea77982138390485604253973d"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 774, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+me
+
+DE eek
+
+So: \ : Ts
+SAFOL-34, .aj Tacker/mhb/72291
+
+21 December 1959
+
+This is to acknowledge and thank you for your recent letter
+addressed to the Aerospace Technical Intelligence Center, Wright-
+Patterson Air Force Base, Ohio, concerning a photograph in your
+possession.
+
+The Air Force is very much interested in receiving this
+print and negative which you indicate may be an Unidentified
+Flying Object.
+
+When you forward the photograph, please fill out the inclosed
+questionnaire and in addition provide us with the following infor-
+mation: time of day that photograph was taken, direction camera
+was pointed, plus all identifying features of the camera and lens.
+
+Sincerely;
+
+Inclosure LAWRENCE J. TACKER
+Major, USAF
+Public Information Division
+Office of Information

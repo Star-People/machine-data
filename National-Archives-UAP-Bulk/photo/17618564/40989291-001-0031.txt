@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T08:54:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1073022, "source_ctime_ns": 1793355927719551912, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0031.jpg", "source_mtime_ns": 1785564561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0031.jpg", "source_sha256": "5f38cc76cb502fdbc2d9cfd61619363db14bce12e250dfb1f087bae057941bf1"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1211, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+25
+
+Although the local base gave extensive support to the project,
+the principal project people were visitors toHolloman on tem-
+porary duty. *?
+
+The aeromedical Aerobee firings and the cosmic radiation
+balloon program both involved considerable temporary-duty
+travel betweenHolloman and the directing laboratory at Wright
+Field inOhio. This system was proving impractical in certain
+respects, for the preparations for rocket and balloon flights
+were elaborate and time-consuming andrequired more or less
+permanent laboratory facilities. Although the balloon program
+obtained launch and recovery services from the facilities and
+people of the Holloman Balloon Unit, the space biology project
+officers also needed decent accommodations for hamsters and
+fruit flies which the standard base support organization was
+poorly equipped to offer.
+
+For all these reasons it became necessary to create a
+special unit at Holloman--the Aeromedical Field Laboratory--
+under the original direction of Lieutenant James D. Telfer.
+This step was taken officially about the middle of 1951, and
+the first permanent building ever constructed expressly for
+use by the new unit appears to have been ready in October of
+
+that year. =

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T09:12:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4984776, "source_ctime_ns": 1793377739312698835, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965197/0011.jpg", "source_mtime_ns": 1785696482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965197/0011.jpg", "source_sha256": "18cfbf74683de9d7a0bafdb7f076fdb798ad7125b2fb7dd4af416396e785669e"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+ss : ee 0 Was Balloon
+2} March 1956 Sioux City, Lowa QO Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O) Roasitly Balloon
+Local 7 hGround- Visual O Grovnd-Radar B Probably, Aircraft
+Gut__22/05302Z 0 Air Vi sual O Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE D0 Was Astronomical ME tCOX
+O Yes i XProbably Astronomical
+XO No Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE DO , Other
+O Insufficient Data for Evaluation
+O Unknown
+few seconds one west
+10, BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+One round object size of an orange - |Probable meteor sighting.
+
+appearance of star, grey larger to
+the West.
+
+ATIC FORM 329 (REV 25 SP $2)
