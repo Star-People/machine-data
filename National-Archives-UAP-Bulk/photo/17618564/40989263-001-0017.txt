@@ -1,0 +1,198 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:40:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6984028, "source_ctime_ns": 1793355109613876491, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0017.jpg", "source_mtime_ns": 1785564395000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0017.jpg", "source_sha256": "93163017fb8ba496cd2d269654ff34e23dd57d7b396ebdc4ccc17bfb60d1a27f"}
+
+===== PAGE 1 =====
+{"alpha_words": 217, "chars": 1781, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/
+
+PROJECT NO..& TITLE
+ASH GAN Snooper II
+
+EXPERIMENTER r.
+York Univ/Ridle
+
+/Min
+
+LAUNCH CREW CHIEF
+MSgt Benton
+
+BALLOON NO.
+
+MANUFACTURER
+Winzen
+LENGTH (S)
+
+LTV_010
+
+April 75/100
+
+,ooper Intercomparison
+
+F OBJECTIVES: A. Intercompa
+
+er NO, sampling systems
+
+TEST COORDINATOR
+
+| 9. SCHEDULED LAUNCH:
+
+B. DATE/TIME
+
+fre
+a °
+il. BALLOO
+
+16
+
+N DATA
+
+F29651-75-90080
+
+CONTRACT
+Di AMETER (S)
+
+WB 216 EE
+VOLUME (S)
+
+859 X 10-
+
+VALVE & VALVE MOTOR S/N
+
+BX 0120 R 0024
+
+be SBA 460 eR UL ee
+
+BALLOON DESTRUCT jt. REFLECTIVE TAPES
+Valve & dual ripline
+
+#2057
+
+QUANTITY/TYPE/DIAMETER(S)/WEIGHT (S)
+
+}3. LENGTH (S) 4
+
+90 ft
+
+PACKAGE TYPE
+Ba eee
+
+Range Package II 4 #003
+
+§3. ANTENNA DEPLOY ANEROID ALT,
+
+6K ft MSL
+
+j5e RADIOSONDE
+
+; {_] STANDARD
+H
+
+~ BFREQUENCIES: COORDINATION WITH DET 1/DET 3:
+
+t3
+
+joe COMMAND RECEIVER A. PRIMARY (1)
+
+j (2) 15039.5 KHz B.
+
+8. TRANSMITTER ANTENNA LENGTH
+144 ft
+
+PRIMARY COMMANDS ARE:
+
+Ae PRIMARY
+
+cH1 Barocoder On
+
+CHS
+
+i cy2 Antenna drop/unlatch
+it
+
+CHS5
+
+5 CH3
+#10,
+
+Standby on/off CHE
+
+#CH1 Terminate CH 2
+
+BURST SWITCH
+
+XXX y es {_] No
+
+(AA EXTENDED
+
+BACK-UP 11177.5 KHz
+
+IRIG/SEQUENCED,
+
+BACK-UP COMMANDS ARE (NON) SEQUENCED,.
+
+lil, PARACHUTE DAT
+
+VAT
+
+4
+A
+
+J-ea Ringsail 63.1 £06 33 1b
+
+5. PLANNED DESCENT LOAD
+905 1b
+
+IV. INSTRUMENTATION DATA
+
+2. pea enh aaa Si: STVERs S/N)
+
+B-60#
+4 BURST/IMPACT SWITCH ARM ALT.
+
+10K £t MSL
+
+| OMEGASONDE
+
+DATE/TIME
+KH
+
+Letter from Maj. is,
+
+Kine
+
+Koehly dated
+US. 7 PRIMARY 22/2:
+
+TRANSMITTER A.
+
+B. BACK-uP 40.35 MHs
+
+£
+é
+
+12° 4%
+
+5. BACK-UP
+
+CHANNELS & FUNCTIONS:
+
+Shut down Valve Failsafe
+
+Barocoder Off Baliase
+
+CH8
+
+Latch valve open
+CHANNELS & FUNCTIONS:
+
+cH'9 Terminate
+
+Valve Failsafe cxH3 Ballast
+
+I te rs
+
+}
+a cect a lh a RE CR EOE Nn
+
+AFCRL oct 93 99 «=: PREVIOUS EDITIONS ARE OBSOLETE,
+
+AFSC-LG HANSCOM

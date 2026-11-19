@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:15:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3634127, "source_ctime_ns": 1793380617062671317, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0462.jpg", "source_mtime_ns": 1785701060000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0462.jpg", "source_sha256": "30ba6754cc05b1173541e4154241098feb709d363ba5b3f3904b2a02ff5f100d"}
+
+===== PAGE 1 =====
+{"alpha_words": 232, "chars": 1553, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+fadeepaanchaat eer
+
+> > o re ees Y /
+jon of Geographic
+“Pp oj ibe 63
+
+i
+Program for
+Sub-sate
+
+Iuigi G. Jacchia*
+
+The sub-satellite~point routine was devised for the
+double purpose of rapidly analyzing incom ning observations
+and of obtaining from them the basic results necessary to
+compute a search ephemeris. Osculating equatorial elements
+are assumed for a time Bo (either an ascending node or 2
+perigee crossing) and inStantaneous elements are derived
+
+re)
+
+from them for any time t, using empirical equations +
+
+(or oe = t, + ¢)n + ee are
+
+Cy
+Gea a - d,t dt oo dt
+i = constant
+q = constant
+
+4 ie 4 : \
+the time of perigee crossings, ~ the greene of perigee,
+i the orbital inclination, q the perigee distance, and
+
+Here tj is the time of ascending-node crossings, t+
+
+n the Tee of revolutions elapsed since ¢t,3 Ci; Co ;
+
+C2 d, are constants. The right astenafon of
+trie t oeeaice” node. Ms Ls ae only in crude form
+
+( Q..= Go + G6), Sinee 1t.18 quired only to know whether
+the observation was made on the Papeendine or the descending
+half of the orbit.
+
+Every observation consist of two spherical co-ordinates
+(right ascension and declination, or azimuth and altitude)
+referred to a time ¢ and to a set of station co-ordinates,
+which are fed into the machine program as input data First
+the machine computes the value of n at the node or perigee
+crossing immediately preceding t, then computes the nodal
+or anomalistic period for that value of n by differentiation
+Of sr. Or se. », and proceeds to compute from it the
+
+gS edie i nt ens
+
+packe7s e

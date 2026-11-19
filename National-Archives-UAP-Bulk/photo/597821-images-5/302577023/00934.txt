@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:03:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 835208, "source_ctime_ns": 1793393392288655079, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302577023/00934.jp2", "source_mtime_ns": 1785808058000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302577023/00934.jp2", "source_sha256": "aed309f6ae35c7fa527320497fdb06fcc5e87d09cf104b9388ebfcbb71f7a5b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 122, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oe tome - ae aie eg Ss ce Tete
+reel EL ope a on pet (EM, dow |
+Bees Acad Se ee fe Fo oh oa |
+
+cS .
+
+po
+
+2
+
+pe
+
+rs r (eee

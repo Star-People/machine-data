@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v4", "engine_mode": "embedded-text", "source_file": "War-Gov-PURSUE/release-07/documents/dow-uap-d164-flying-object-report-indiana-1954.pdf", "source_sha256": "54875a9017040b50fe42e4869e5d6ceefd4e78d88edd5a70c7aa5c75066d6fdf", "source_bytes": 952569, "source_mtime": 1792770476, "source_mtime_ns": 1792770476410467452, "source_ctime_ns": 1792770476434784267, "source_hash_basis": "archived-file", "created_utc": "2026-10-23T15:49:05.610356+00:00"}
+{"created_utc": "2026-11-19T15:01:37Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 952569, "source_ctime_ns": 1793472048028269687, "source_file": "War-Gov-PURSUE/release-07/documents/dow-uap-d164-flying-object-report-indiana-1954.pdf", "source_mtime_ns": 1793472047762893251, "source_rel": "War-Gov-PURSUE/release-07/documents/dow-uap-d164-flying-object-report-indiana-1954.pdf", "source_sha256": "54875a9017040b50fe42e4869e5d6ceefd4e78d88edd5a70c7aa5c75066d6fdf"}
 
 Authority:
     NND57597
@@ -141,7 +141,6 @@ Authority:
                    have seen a "Flying Saucer". Therupon, Mr Jones divulged
                    his experiences.
      FOR TI-IE; COMM !\NDER :
-
 
 
 DIST:                            ~.rt   i.   b

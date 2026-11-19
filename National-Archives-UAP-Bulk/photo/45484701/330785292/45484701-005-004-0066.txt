@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:42:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7512162, "source_ctime_ns": 1793363442977395336, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0066.jpg", "source_mtime_ns": 1785684654000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0066.jpg", "source_sha256": "3162584707068aed1effa455399a80fb0d5e27bf9a2a8268a2d05dc4046d3c0b"}
+
+===== PAGE 1 =====
+{"alpha_words": 255, "chars": 1753, "method": "ocr", "page": 1, "variant": "plain-psm3"}
++
+
+Ty
+
+Spot Intelligence Report, DO #9, 25 Nov 50, Subj: Report of Unconventional
+Aircraft
+
+6. McComb Radio reported object north of McComb on a westerly
+course.
+
+f. Monroe Radio reported object south of Monroe at 1650 hours.
+
+ge The CLARION-LEDGER, (Jackson, Mississippi), of 16 November
+
+oO atthe WP
+1950, carried the following account of a "flying saucer," reportedly
+signted by several persons:
+
+“FOLKS IN BROOKHAVEN SEE FLYING OBJECT"
+
+"Brookhaven - Several persons have reported to the
+Leader-Times of seeing another 'flying saucer' moving
+across Brookhaven about 5 psysm, Monday afternoon. Some
+described it as resembling an ‘air sock' or ‘air gleeve'
+towed by pilots in target practice,
+
+Other persons speculated that it was merely a vapor
+trail made visible by the setting sun in the late
+afternoon skies or left by a trail of smoke from a
+passing plane.
+
+A. C. Sample, owner of the Yellow Cab Co., said he and
+Tom Lofton drove out to U. S,. Highway 51 and watched
+the object for about 15 minutes. Sample said he
+thought it was a blimp or an airplane.
+
+J. A. Smith reported seeing what he described as a
+‘flying saucer' at about 5:15 p.m. Monday on North
+Jackson Street. He said several persons observed the
+strange object moving across the sky in a north
+westerly direction. He said it left a light pink
+fire in its path."
+
+h. The Vicksburg EVENING POST (Mississippi) carried the
+
+following account of a mystery object, sighted in sky by Major B. D,
+STELFHENS ¢
+
+"MYSTERY OBJECT SIGHTED IN sky"
+
+"Meridian, Mics., Nov 14- An unidentified object was
+sighted over Mississippi at an altitude of about
+$5,000 feet, according to Major B. D. Stephens,
+National Guard pilot who said he chased it for 65
+miles.
+
+Declassification Authority: NND 923007

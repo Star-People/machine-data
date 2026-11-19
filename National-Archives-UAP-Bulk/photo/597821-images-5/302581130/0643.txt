@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:04:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 849145, "source_ctime_ns": 1793393844031151112, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302581130/0643.jp2", "source_mtime_ns": 1785808512000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302581130/0643.jp2", "source_sha256": "0ff243fa2d85512f796e9305f2f23542540f31e6648d3562fdcf38b2be5ba617"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 75, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WEATHER MAP
+(ION WEATHER
+)AM.ES.T
+
+TUESDAY, NOVEMBER 19, 1968 «
+
+as
+
+% OS

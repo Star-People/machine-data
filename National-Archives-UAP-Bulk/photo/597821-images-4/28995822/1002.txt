@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:15:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3685300, "source_ctime_ns": 1793386350693269405, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995822/1002.jpg", "source_mtime_ns": 1785748198000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995822/1002.jpg", "source_sha256": "7ad83328e8668f30a7526bdc156cf26c7c247447be78ed4ce7305983eac6f16e"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 845, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+CHK262
+[i INCOMING
+AF IN : 36020 (15 Dec 61) N/dfe
+
+INFO : CIN-i4, OOP-2, OOP-CP-1, SAFS-3, DIA-2 (23)
+
+SMB C 245
+
+PKA958D217
+
+DO RJEZHQ RJWFAL » . ~) eS,
+™ r) * f “
+DE RJHPKH 17 } :
+ee eel
+fev. ry i
+
+ZNP
+
+O 152928Z
+
+FM 226 AIR DIV KUNIA FACILITY HAWAII
+TO RJHPKM/ PACAF HICKAM AFB HAWAII
+PBYUPG@/ COMHAWSEAFROM PEARL HARBOR HAWAII
+INFO RJEZHQ/ COFS USAF WASHINGTON DC
+>BEPW/ ONO WASHINGTON DC
+
+‘ PREPW/SECNAV WASHINGTON DC
+PJWFALB/CINCNORAD ENT AFB COLO
+RBHPA/CINCPAC CANP H M SMITH HAWAII
+PUHPFS/CINCUSARPAC FT SHAFTER HAWAII
+PBHPB/CINCPACFLT PEAPL HARBOR HAWAII
+PJAPAZ/ COMUSJAPAN FUCHU AS JAPAN
+PUAMCR/COMUSKOPEA SEOUL KOREA
+PUAGCEL/COMUSTDC TAIPEI TAIWAN
+PSHPHH/HAWSEAFRON KUNIA TUNNEL ANNEX
+PBYPD/ COMASWFORPAC FORD ISLAND HAWAII
+P.JIWXBR/ CINCSAC OFFUET AFB NEB
+
+BT

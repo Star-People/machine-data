@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:08:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1525067, "source_ctime_ns": 1793356183120358964, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0190.jpg", "source_mtime_ns": 1785564630000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0190.jpg", "source_sha256": "e39c2211278ad8b7219a5f3a08a9cae40a9bc8c93706208902ad1f054b997dd4"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1589, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee te ee MeN ee
+
+TM 11-444
+SIGNAL CORPS
+
+66 66660860)
+
+68
+
+SCL-2424A
+
+Figure 1.—Sound Ranging Set GR-3-C—recording equipment
+assembly.
+
+pn AR ee ey a al
+
+SOUND RANGING SET GH-3
+
+Section I
+DESCRIPTION
+
+Use and characteristics —...——---------------------—-—-
+Major components —_———_————_—__——-———---==-------e enn
+Packing of major components as
+Description of central station equipment
+Description of microphone equipment -.............
+Description of outpost equipment
+
+1. USE AND CHARACTERISTICS.
+
+a. Sound Ranging Set GR-3-C is designed to detect
+artillery fire or shell detonation and record the differer
+time of the sound wave at a maximum of eight micr
+tions. The microphones may be placed in various geo:
+figurations (line, arc, triangle, space array) at inter
+maximum of 2,00C yards. Either one of two outpost
+forward of the array of microphones at a distance suffic
+cept the sound wave and start operations of the recc
+ment before the sound reaches the microphones.
+
+b. The signal detected by each microphone is loc:
+and transmitted over wire lines to a central station w
+
+. corded photoghaphically by an oscillograph. The re
+
+identifying characteristics of the sound waves and is |
+ing the differences in times of arrival of the same sou
+ferent microphones. This is e:plained in detail in FM
+Artillery Field Manual, The Observation Battalion.
+
+c. The weights of the individual chests when pac
+portation are as follows:
+
+Chest Weight, pe
+CH-40-(*) 205 |
+CH-44-(*) 70
+CH-45-(*) 116
+CH-46-(*) 75
+CH-47-(*) 95
+CH-48-(*) 160
+
+(*) The asterisk within parenthesis denotes the
+fix letter.

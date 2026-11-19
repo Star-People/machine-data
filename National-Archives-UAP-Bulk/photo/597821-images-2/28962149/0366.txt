@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:48:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9272997, "source_ctime_ns": 1793376866370469271, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962149/0366.jpg", "source_mtime_ns": 1785696887000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962149/0366.jpg", "source_sha256": "50f87c7962acf2f127bc83a9df089889f005f622fc9c54e8d32fb28aa2ebebf9"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 21, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+oe
+
+Ca
+
+ivi
+
+TINIZT

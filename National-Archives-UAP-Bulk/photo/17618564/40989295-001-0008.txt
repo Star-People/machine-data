@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T15:08:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1468551, "source_ctime_ns": 1793355967043872097, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0008.jpg", "source_mtime_ns": 1785564571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0008.jpg", "source_sha256": "5bd3912608184eb9731376e824dc0f051e88ea248e3e81e8b320516546da9af6"}
+
+===== PAGE 1 =====
+{"alpha_words": 248, "chars": 1685, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+vil
+
+Chapter III, which deals with biomedical testing, presents a new
+version, with different emphasis, of events already covered in an
+earlier monograph entitled History of Research in Space Biology and
+Force Base, New Mexico, 1916-1958. In gathering the information, much
+help was received from Colonel John Paul Stapp, while he was still
+Chief of the Center's Aeromedical Field Laboratory, and from Major John
+D. Mosely, who is currently Chief of the Laboratory's Bioastronautics
+Branch.
+
+Chapter IV reflects consultation with members of the Track Test
+Division and, in addition, with Dr. Gerhard R, Eber, Chief of the Center's
+Scientific and Engineering Staff; Lieutenant Colonel Harry L. Gephart,
+Executive, Office of the Chief Scientist; and Major Robert S. Buchanan,
+who had formerly served in several capacities related to the Holloman
+track but was assigned to the Plans Office, Deputy Chief of Staff/
+Operations, at the time he was interviewed, Further information on Sleran
+and other forms of test instrumentation was obtained from Mr, Max I,
+Rothman, owner of KMAM-FM in Tularosa, New Mexico, and formerly an
+instrumentation specialist of the 6580th Test Squadron (Special),and from
+Mr, Orvie A, Steele and Mr, H. Clifford Zabriskie of the Communications
+and Electronics Section, Deputy Chief of Staff/Operations.
+
+The Historical Branch bears final responsibility for all statements
+of fact and opinion presented in this volume, but the assistance of all
+the persons mentioned is gratefully acknowledged, This is a broad history
+of research and development testing rather than a specialized technical
+
+report, However, it attempts to reconstruct the story of the Holloman

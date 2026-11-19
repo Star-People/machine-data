@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:54:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14674784, "source_ctime_ns": 1793355716218705507, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0154.jpg", "source_mtime_ns": 1785564508000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0154.jpg", "source_sha256": "ccee8bd67a95586458b5bb93243987a88149a71fc6bb05ef47525f2f5fbac1f3"}
+
+===== PAGE 1 =====
+{"alpha_words": 159, "chars": 1175, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+XXVI. Acoustic Detection of High-
+Altitude Turbulence x
+
+John W. Wescott
+
+MTI Radar Laboratory
+
+Institute of Science and Technology
+The University of Michigan
+
+Abstract
+
+The causes of low-frequency acoustic background noise that was monitored from
+instrumented balloons floating at about 60,000 feet were investigated. Tape-recorded
+samples of the noise were analyzed. Spectrograms, signatures, cross-correlations
+and probability-density curves were obtained. Examples are shown. The results
+indicate that clear-air turbulence is one of the principal sources of infrasound in
+the upper air. A theory for the power spectrum of the far-field noise radiated from
+the turbulence is cited, and the predicted spectrum is compared to experimental
+results.
+
+As the title of this paper implies, it is possible to detect the sound radiated
+by high-altitude turbulence--that is turbulence at jet-stream altitudes. Free-
+
+floating balloons and instruments described in the preceding paper were used to
+
+* The instrumented balloons and financial support for this work were provided
+y U.S. Army Electronics Research and Development Activity, White Sands Missile
+tange,
+
+:
+i
+}
+|
+!
+4
+a
+
+RE

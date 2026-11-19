@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:39:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6766905, "source_ctime_ns": 1793383707299424201, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987654/1279.jpg", "source_mtime_ns": 1785748495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987654/1279.jpg", "source_sha256": "26414e40e2f581385e8a7bc5931e2b0ac1afee170a8c75feefad6143fc150e1a"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 619, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+) STAFF MESSAGE DIVISION
+( ‘UNCLASSIFIED MESSAGE (
+
+INCOMING
+
+AF IN: 38442 (6 gui 60)
+0 0)2240Z
+
+FM NPOQR
+
+TO RBHP QPAPU
+RJHPKM/ PF EL
+
+RJHPKM/HGCQ
+
+. RBKHPQ/N2DZ
+
+RJAPAA/SRYK -
+INF 0 RBWPCDSOI
+RBEPWSSMW
+RBHPB/ YJXR
+
+NAVY @R4S
+
+BT
+
+UNCLAS UFO X CINCPACFLL INST 3820;3 X LAT 23-59N LONG 175-20E X STEADY
+WHITE LIGHT SIZE AND SHAPE OF FAINT STAR X BEARING APPROX @8@ TO 190T
+CMM COURUE APPROX 1)@ CMM ELEVATION 30 DEGREES X 2 MILES DURATION X
+BINOCULARS X @51630Z X QMSN AND SEAMAN USN
+
+CFN 3820.3 23-59N 175-20E 080 100L 158 30 2 011130W
+
+— 01783192
+
+NOTE : Adv copy del to CIN
+Page 2 of 2

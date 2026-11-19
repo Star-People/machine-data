@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:50:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10531692, "source_ctime_ns": 1793364211749996648, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0273.jpg", "source_mtime_ns": 1785684597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0273.jpg", "source_sha256": "24d4020635f7a9c212e697d477b9b4e0b2c234ebae398fbe173e746f4235893c"}
+
+===== PAGE 1 =====
+{"alpha_words": 180, "chars": 1219, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNITED STATES
+ATOMIC ENERGY COMMISSION
+SANTA FE OPERATIONS OFFICE
+LOS ALAMOS, NEW MEXICO
+
+IN REPLY REFER TO: Nove 25, 1949
+
+DO-1
+
+Captain Melvin E. Neef
+17th District OSI
+Kirtland Field
+Albuquerque, New Mexico
+
+Subject: AERIAL PHENOMENA
+Dear Sir:
+
+This office has been informed by John F. Kalbach, scientist with
+Group P=9 of the Los Alamos Scientific Laboratory, of the follow-
+ing celestial phenomena observed at approximately 1950 hours,
+November 16, 1949, at Los Alamos:
+
+Two bluishegreen lights (similar to that given off by
+burning zinc) in tandem were seen overhead, slightly
+south of the zenithe They appeared to be stationary,
+but suddenly curved around and disappeared to the north
+with the speed of a meteor. No sound was heard in con-
+junction with this observation.
+
+Mr. Kalbach said that his attention had been called to the sky by
+
+some children who reported having seen erratically moving green
+
+lights, and it was while he was looking, in response t their sie aca
+that he observed the phenomena described above.
+
+Very truly yours,
+
+/s/ Sidney Newburger, Jre
+3 SIDNEY NEWBURGER, Jre
+CC; Francis Hamnack Chief, Security Operations
+USAEC, Washington, DC
+
+‘seeker
+_
+
+Declassification Authority: NND 923007

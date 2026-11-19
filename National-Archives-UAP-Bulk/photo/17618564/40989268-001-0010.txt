@@ -1,0 +1,101 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T14:56:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16819738, "source_ctime_ns": 1793355571366106131, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0010.jpg", "source_mtime_ns": 1785564481000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0010.jpg", "source_sha256": "09ad04271b8313f9bbe941c14bf807ccfb970f7cae4ecc9c53746cb5ec7f73a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 588, "chars": 3846, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+sufficient maneuvering space is available. Even higher winds at specific altitudes
+might be tolerated by allowing the balloon to rise "free'' through the regions in
+which they occur.
+
+The system thus proposed appeared to offer sufficient promise to warrant
+further study by our group at NOTS. A large stock of miscellaneous balloons,
+acquired in connection with other projects, was on hand; other necessary materials
+and equipment were readily available; several areas on base offered airspace closed
+to civil traffic, lying above relatively flat and accessible desert terrain; and several
+of our personnel were experienced in the handling and launching of balloons. A series
+of tests was therefore undertaken, using small (18-and 23-foot) balloons, nylon line,
+and a surplus aerial tow-target winch mounted aboard a pickup truck.
+
+No records were established during these tests, although successful flights to
+relatively low altitudes (~ 5000 feet) were made, but a great deal was learned about
+the handling and rigging of balloons for this type of operation. The mobile-winch
+technique was tested and found feasible, and the design parameters for the ground
+vehicle and its equipment were established. A considerable amount was learned
+about the properties required for the tether, and possible methods for its deploy-
+ment; and finally a great deal of data was received against which the analytical
+
+technique outlined above could be checked, and from which aerodynamic parameters
+
+such as drag coefficients, pertinent to the analysis, could be derived empirically.
+
+On the basis of these results, it was decided to proceed with a program directed
+toward the development of an operational system Capable o
+a few tens of pounds in the lower Stratosphe
+
+Funds were solicite
+
+f supporting a payload of
+re for as much as a week at a time.
+
+d and procured from the Atomic Energy Commission and sub-
+sequently from the Department of Defense, a contract was drawn up with Aero-
+logical Laboratories, and a full-scale developmental program was undertaken.
+During the past two years this program has led to a syste
+
+m which is on the verge
+of becoming operational. The components of the s
+
+ystem and some of the develop-
+
+ments leading to their present configuration will be described in the next section.
+
+2. SYSTEM CON FIGURATION
+
+During the early stages of project T
+
+ABS, a number of possible operational
+sites were considered,
+
+The requirement of extensive
+
+restricted airspace and
+terrain permitting considerable mobility limite
+
+d serious consideration to a few
+large military reservations in the We
+
+vantages over NOTS to Warrant the
+
+a Navy vessel at se
+
+St, and none of these offered sufficient ad-
+more complex logistics involved. The use of
+a was explored and found both fe
+the amount of planning and sche
+tions should be
+
+; asible and attractive; again,
+Owever ing j
+
+ver, duling involved suggest that such opera-
+postponed until a working system has been developed and tested.
+
+Of the areas available at NOTS, the most suitable was found to be a pn
+Wash Test Range, an annex to the southeast of the main body of ne gatas a cm g
+and sharing airspace with Edwards Air Force Base and the oe s ee mie
+reservation. Ground usage of this range is limited and the airspace 1s gene y
+
+available on weekends, and by arrangement at other times. a
+An existing road, extending for fourteen miles in the general directio
+
+i i of sharp bends or overhead
+(260°-» 80°) of the summer tropospheric winds, and free
+
+h has
+areas of the Station have been employed for small-scale tests, Randsburg Was
+
+been and will continue to be the site of our major operations.
+
+LNOTS,
+Figure 2. Balloon Flight Area at Randsburg Wash Test deri ecto a oni
+obile launch road extends generally eastward (azimu oe
+foun nies from the balloon inflation site 1 to its terminus a
