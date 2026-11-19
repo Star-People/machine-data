@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T06:53:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8338397, "source_ctime_ns": 1793377091001978300, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962671/0797.jpg", "source_mtime_ns": 1785696828000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962671/0797.jpg", "source_sha256": "ca347a96078d84ff10173b824ad01d8a2461f074264ba3dc7bc0390e9cdba96d"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 970, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CSI" RPP RU ow ULG 947 ULG
+
+CC) UNK=360 DEG
+
+CD) LEVEL FLT S TO N VERY HIGH
+
+(E) LEVEL FLT S/N VERY HIGH
+
+(F) APPROX 1 MIN
+
+(3) MANNER OF OBSERVATION.
+
+CA) GRND VISUAL AIR VISUAL GRND ELECTRONIC KFOUNDER CCI)
+(3) NONE
+
+CC) T33 AFJ35415 159@@ FT @44 DEG 335K ANDREWS AFR
+(4) TIME AND DATE OF SIGHTING
+
+CA) 9901697
+
+(BD DUSK
+
+on
+193
+a]
+
+| LOCATION OF ORSERVER
+
+pod
+¢
+
+KLISN 6948W CAUG CAA)
+
+| PAGE THREE JEDLS 3H
+
+(22 FOUNDER GCI, ME
+
+|3. BTWN PYM-ALR
+
+tke CK 3929
+
+€6) IDENTIFYING INFORMATION OF ALL OBSERVERS
+
+(A) E L BRACY AIRWAYS OPNS SPEC AUG CAA STATION, ME
+/¢B) UNK
+
+|(C) PASCHO, LT COL HD@S USAF UNK UNK (PILOT AF35415)
+'(D) PICKET VESSEL TORONTO, CHARLIE
+
+(7) WEATHER AND WINDS ALOFT CONDITION AT TIME AND PLACE OF SIGHTING
+(A) HIGH SCTD CLOUDS AND GOOD VSBY
+
+(B) SURFACE 228 DEG 1% KT
+
+| S,200-FT 273 DEG 18 KT
+
+13,909 FT 280 DEG 18 KT
+
+16,20 FT 300 DEG 18 KT
+
+23,980 FT 328 DEG 1% KT
+
+| 34,898 FT 339 DEG 28 KT
+
+54,228 UNK DEG UNK KT
+
+84,908 FT UNK DEG UNK KT

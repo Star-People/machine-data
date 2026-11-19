@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T07:11:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 825997, "source_ctime_ns": 1793356080986863434, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0220.jpg", "source_mtime_ns": 1785564601000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0220.jpg", "source_sha256": "86abb376eeb18fb810cb5d77c8b584adf54a373e64585310aba4c83fae1740ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1099, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+QUES TIONNAIRE
+
+Please answer this and send to us so that we may pay you the
+reward.
+
+1. On what date and at what hour was the balloon discovered?
+
+2. Where was it discovered? (Approximate distance and directim
+from nearest town on map?)
+
+3. Was it observed descending? If so, at what time?
+4. Did it float down slowly or fall rapidly?
+
+5. How much kerosene was there in the tank?
+
+Remuneracion
+ee
+
+La materia ha volado con este globo desde la Nueva York
+University para hacer investigaciones meteorologicas.
+Se desea que esta material se vuelva para estudiarle
+nuevament.
+
+Con este motivo, se dara una remumeracion de
+
+dolares norteamericanos y una suma proportional para
+devolver todos los apartos en buen estado. Para recibir
+instrucciones de embarque, comuniquense con la persona
+siguiente por telegrafo, gastos pagados por el recipiente,
+refirriendo al numero del globo e
+
+CUIDADO!
+PELIGRO DE FLAMA, HAY KEROSEN EN EL TANQUE.
+
+C. S. Schneider
+Research Division
+New York University
+University Heights
+Bronx 53, New York
+
+Figure 21
+Sample Spanish reward notice and English questionnaire.
+
+- 38°

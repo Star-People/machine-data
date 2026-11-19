@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T07:26:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4497488, "source_ctime_ns": 1793380466878811620, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976149/00944.jpg", "source_mtime_ns": 1785700992000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976149/00944.jpg", "source_sha256": "d4e95e227b40df5f4f337883eef81fb5b91e22b834563782f615f2fe547f0e0c"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 796, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+SE.
+
+2. LOCATION 12 CONCLUSIONS
+QO Was Balloon
+14 December 1957 Dayton, Ohio e Corerty Beticen
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION oath tiie shige
+O Was Aircraft
+Local 2209 O Ground. Vi sual O Ground-Radar Q Probably Aircraft
+GMT__. 15/0305Z 0 AirVisual O Air-Intercept Radar 0 Possibly Aircraft
+5. PHOTOS 6. SOURCE MK Wes Astronomical Star
+0 Yes O Probsebly Astronomical
+X Wo Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+O Insufficient Data for Evaluation
+O° no wn
+not given ‘one stationary
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Unusual flashing star in the sky to the Could have been one of any num-
+ber of stars which were very
+bright in the SE at this time,
+
+ATIC FORM 329 (REV 26 SEP 52)

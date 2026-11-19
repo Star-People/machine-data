@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T07:20:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3125774, "source_ctime_ns": 1793384206370042028, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989485/0710.jpg", "source_mtime_ns": 1785748087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989485/0710.jpg", "source_sha256": "1d4bc5ca7466fd6ec19494d3160572a94e6cadca84caa7287b4d4f4c2452e0f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 800, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+mie == PROJECT 10073 RECORD CARD
+
+1. DATE ~ 2. LOCATION 12. CONCLUSIONS
+(@) 0 Was Balloon
+30 Sep 60 Boulder, Colorado G Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION wr ee
+. O Was Aiveraft
+Locol BH Ground- Vi sual O Ground-Rodor GQ Probably Aireroft
+GMT 30/08h02 0 Air Visuol O Air-Intercep? Rador O Possibly Aircroft
+5. PHOTOS 6. SOURCE 0 Was Astronomicol
+0 Yes D Probably Astronomical
+No Civilian Cl Possibly Astronomical Vega
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other :
+O Insufficient Date for Evaluation
+32 min one NE Oo nk nown
+10, BRIEF SUMMARY OF SIGHTING 1}. COMMENTS
+Bright greenish-white object with flashing Possibly the star Vega.
+
+lights, shape of inverted cone, size of
+basketball, moved slowly to NE, fading slowly.
+
+ATIC FORM 329 (REV 26 SEP 52)

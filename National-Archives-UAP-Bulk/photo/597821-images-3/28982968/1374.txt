@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T06:52:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7423543, "source_ctime_ns": 1793382266869687290, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982968/1374.jpg", "source_mtime_ns": 1785700966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982968/1374.jpg", "source_sha256": "1464398207f3fdd9bbb66dd1fc886efd748b9e02eeda3b6915c56d8e99179d67"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 610, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. QDATE 2. LOCATION 12. CONCLUSIONS
+; O -- Wos Balloon
+Bees cP abit BOCESVILLG, APKey 4S "y i) Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION . Peey Saree
+. DO Was Aircraft
+Local wa nett oun GO Ground-Radar OQ Probably Aircraft
+GMT 02 12032 Q0-Air Visual D Air-Intercept Radar OQ Possibly Aircraft
+OC Yes O Probably Astronomical
+“SO No Civilian O Possibly Astronomical
+7. LENGTH OF OSSERVATION 8. NUMBER Of OBJECTS | 9. COURSE 0 Other
+0 Insufficient Data for Evaluation
+me : O Unknown
+10. BRIEF SUMMARY OF SIGHTING 13. COMMENTS
+\ ra vu, 2
+ATIC FORM 329 (REV 26 SEP $2)

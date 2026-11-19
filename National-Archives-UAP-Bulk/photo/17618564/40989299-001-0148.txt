@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T07:13:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1045696, "source_ctime_ns": 1793356035334404133, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0148.jpg", "source_mtime_ns": 1785564588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0148.jpg", "source_sha256": "40b9142f2931ad357af5ce3b6e8192f84628e4418147cf5d79945bdb96384c6e"}
+
+===== PAGE 1 =====
+{"alpha_words": 228, "chars": 1520, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ap = _ bursting pressure (psi)
+
+S¢ = maximum allowable tensile stress of fabric
+or film (psi) (for safety Sf =1/2 Smax
+where S max ™2x imum stress in tension
+
+t= thickness of fabric or film (in)
+
+D= balloon diameter (in.)
+or:
+(2) Ap = = =§ for failure of seams
+where:
+
+Ss = maximum allowable tensile strength of seams
+(1bd./in.)
+
+D=bealloon diameter (in.)
+
+In general, a balloon should be manufactured so that any failure
+
+should occur first in the fabric or film and thus the tensile
+
+stress of this fabric or film will be the factor in determining bursting
+pressure.
+
+Since the non-extensible balloons used in constant-level work by
+the N.Y.U. group have been of the open-appendix type, bursting
+
+due to excessive super-pressure has not been a problem. Strength
+of the balloon must be considered, however, from the standpoints
+
+of back pressure induced during rise of a full balloon and pressure
+distribution of the lifting gas itself inside of the balloon.
+
+(1) Pressure Distribution of Lifting Gas
+
+It was shown in the previous section that the pressure diffe.
+erence across any portion of the balloon surface may be equated:
+
+: SP
+(3) Ape + AZ — (1-8)
+
+A plot of Ap against Az would then be a straight line at
+any given altitude. Maximum allowable balloon pressure--
+equation (1)--may be plotted as a function of Ae , rather
+than diameter for any given horizontal plane of the balloon
+surface, & , Using this relationship, cutting any horizontal]
+plane Z~Zacross the balloon (Figure 25), the diameter of the
+
+-48-

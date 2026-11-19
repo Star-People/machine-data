@@ -1,0 +1,90 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T06:39:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4848788, "source_ctime_ns": 1793373023708381675, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0432.jpg", "source_mtime_ns": 1785688720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0432.jpg", "source_sha256": "5837ef9f94e387243fcbaef49d6600002bcd31e8b745818cc1ef5026194c2123"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1221, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 3
+
+8, What direction were you facing when you first saw the object?
+
+(Circle One): ay
+b. Northeast
+Ce East
+a. Southeast
+
+e. South
+
+h. Northwest
+
+8.1 What direction were you facing when the object disappeared?
+
+(Circle One): a. North
+
+be. Northeast
+
+ec. East
+
+a. (Southeast
+
+Ce South
+
+f. Southwest
+g. West
+
+he. Northwest
+
+8.2 Circle one of the following to indicate how certain you are of
+your answer to the above two questions, (8 and 8.1).
+
+a. Gortatn)
+
+Fairly certain
+
+c. Not very sure
+d. Just a guess
+
+9. Were you wearing eye glasses when you saw the object? (Circle One):
+
+Ca)= us
+
+10. How was the object seen?
+
+(Circle One): a. Through window glass e. a sg ac
+
+b. Through windshield
+c. Through binoculars
+ad. Through telescope
+
+£. Through sun
+g eA Through open
+2)
+
+11. What do you remember about the weather conditions at the time you saw
+
+the object?
+11,1 CLOUDS (Circle One)
+b. Hazy
+ce Scattered clouds
+a. Thick or heavy clouds
+e. Don't remember
+11.2 WD (Circle One)
+a. Mv
+b. (Slight breez
+c. Strong wi
+
+ad. Don't remenber
+
+11.3 WEATHER (Circle One)
+
+,
+as Dey Mist, or light rain
+
+c. Moderate or heavy rain
+ad. Snow
+e. Don't remember
+
+11.4 TEMPERATURE (Circle One)
+a. Cold
+bd. ic
+ad. He
+
+ec. YPon't remember
