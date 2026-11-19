@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T01:45:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5114820, "source_ctime_ns": 1793378210699903571, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967197/0287.jpg", "source_mtime_ns": 1785696740000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967197/0287.jpg", "source_sha256": "6668655183806863d27341b53e5a57ff2ae569827b5fe55be979696c82684d1c"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 472, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+e
+
+3 CA) GROUND VISUAL
+{B) BINOCULARS
+~c> NVA
+
+he CA) 28/22802
+
+” €B) NIGHT
+
+5. 4 MI NORTH DETROIT
+
+6. CA) 52S
+
+DETROIT MICH
+AGE 29
+SALES LADY ‘
+CB) NVA
+7. (A) SCTD CLOUDS
+” (8) 5°88 270-33
+“16 "GER 326-33
+15°S@0 3560-22
+20'GSE 280-26
+3@'SGE 220-13
+52'OS2 302-15
+(C) 18 SCATTERED
+(D) 7 MI
+CE) 1/10
+(F) N/A
+S. Wx BALLOONS IN LCL AREA
+S. NVA
+13. N/A
+
+RUN |
+
+12. NEGATIVE
+
+BT
+
+| 26/21@52 AUG RJEDFJ
+
+FJ
+
+tie CAPT USAF SR DIR. WX BALLOONS LAUNCHED FROM SELFRIDGE Wx OR WILLOY

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T01:55:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6442188, "source_ctime_ns": 1793369348832925817, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931509/0263.jpg", "source_mtime_ns": 1785688905000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931509/0263.jpg", "source_sha256": "848cca32b502448f71a1ae1b92b17b4c1faed612ab62128bd69fcc6487bd35d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 347, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+No. 215s Very high winds 60-70 NM P.H. from SW at all levels,
+definitely Would have prohibited any ballcon from making any southarly
+
+motion, Also, last scheduled released time was threes hours prior to
+sighting at 1,000 feat. No time in sight given so oannot compute rates
+
+of slimb to 20,000 fest. Fairly conclusive, not a balloon of any kind.

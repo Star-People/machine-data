@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T01:40:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4121353, "source_ctime_ns": 1793382718783773617, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28985174/0477.jpg", "source_mtime_ns": 1785701012000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28985174/0477.jpg", "source_sha256": "8af0291a9e45a0653cccb555cd5fc9c1befc43976b27d5002c157f5fe16e642e"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 939, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. AIR TECHNICAL INTELLIGENCE CENTES
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BAS
+
+OHIO
+tty off AFCIN-4X2/Captain MeNeil1/59117
+
+SUBJECT: Extract from ATIC Duty Officers Report
+23 October 1959
+
+"0: AFCIN-4EAg
+
+Foilowing is an extract from ATIC Duty Officers Report for your
+information. ;
+
+1. Two (2) short reports to ATIC Duty Officer via SAC and
+BASE Hq Duty Officer were made early 23 Oct 59.
+
+2. There contents were as follows 1st Report ~ Low flying
+object sighted 23 0424z, 11 miles sOutiof Loring AFB by a
+Mr. . Described as quiet and bright. Jets scrambled
+but only bright star seen. 2nd report - 2 bluish objects
+with red rings sighted 0600z, 23 Oct 59, over Presque Isle,
+Maine. Witnesses, a Mrs. Mime and an airman, reported one
+hovered. Radar picked up objects and determined their
+altitude to be less than 15,000 feet. One sped north at a
+350 to 500 knots according to radar.
+
+JOHN C. McNEILL
+aptain, USAF
+AFCIN-4X2

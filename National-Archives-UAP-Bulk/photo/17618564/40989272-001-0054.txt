@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T02:12:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 641091, "source_ctime_ns": 1793355795451236178, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0054.jpg", "source_mtime_ns": 1785564528000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0054.jpg", "source_sha256": "62d8099813f1502d37422f3d1c0d94e5c3c50f55005c140de18df9bcf35abc7e"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 614, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+y,
+
+STAN BALKAITIS
+
+NHTSA af
+400 7TH SW
+
+WASH DC 20590
+
+CURTIS PEEBLES
+PO BOX 28
+PALOMAR MOUNTAIN CA 92060-0028
+
+LT COL EDWARD DOTY
+4134 W 173RD ST
+TORRANCE CA 90504
+
+RANDALL PETRIE
+1252 MARYLAND AVE NE SUITE C
+WASH DC 20002
+
+MIKE KLING
+
+BAH SUITE 400
+
+1501 LEESBURG PIKE
+FALLS CHURCH VA 22041
+
+DR DAVID SIMONS
+9112 MAHALO DR ~
+HAMPTON BEACH CA 92646
+
+JIM WINKER
+2805 S POPLAR DR
+SOUIX FALLS SD 57105
+
+JOHN MARBERGER
+394 S KENILWORTH AVE
+ELMHURST IL 60126
+
+PROF RICHARD ALLAN /
+
+5743 POTOMAC AVE NW
+WASH DC 20016
+
+SRA LIBBY MA
+
+49TH WING/HO
+
+490 1ST ST # 1300
+HOLLOMAN AFB NM 88330
+
+Cc
+
+> 4 a) 0 )é gS
+
+M*Copmie’

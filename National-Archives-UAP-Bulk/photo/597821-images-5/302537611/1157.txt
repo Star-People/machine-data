@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T02:20:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1001995, "source_ctime_ns": 1793389177668621960, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537611/1157.jp2", "source_mtime_ns": 1785808141000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537611/1157.jp2", "source_sha256": "5b73b53c7b7dcc0613074393a952b36be978b8dca8b628d796a61c6f3b8aaead"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 532, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+M/R:
+
+Mrs Frank McCann called. Her mother wrote from Wsconsin, stating
+that on Feb 5th at 3 am in Janesville, Wisconsin, she saw an
+object. It was beautiful and surprising, described as a blue ball,
+it went across the sky, had gold rays, was long and oval shape, it
+
+low in elevéZation as though it was going to land. Its flight
+
+Kast to West, she was looking South. She called WCTS radio
+
+TV. The speed was about ECHO's. She has also observed meteors.
+
+mother's address is Mrs Floyd C Parks, 416 Locust St, Janesville, Wisconsin.

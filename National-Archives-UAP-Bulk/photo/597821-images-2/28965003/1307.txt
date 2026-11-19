@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T01:39:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4069940, "source_ctime_ns": 1793377701675837218, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965003/1307.jpg", "source_mtime_ns": 1785696622000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965003/1307.jpg", "source_sha256": "ada4a7cfd62ec4d2cb7c939e590c43639c2c68b4d44d93e21cddb91de6b983be"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 41, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+13 February 1956 "'
+Clearwater, Florida

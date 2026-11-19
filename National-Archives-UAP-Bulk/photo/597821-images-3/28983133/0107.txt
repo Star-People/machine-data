@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T01:48:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5498276, "source_ctime_ns": 1793382310748461013, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983133/0107.jpg", "source_mtime_ns": 1785700659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983133/0107.jpg", "source_sha256": "9e203c69f609781b1f652b603605b61cade2a21d142c52dd2dc0925a81058b78"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 15, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Dibba Laie ae

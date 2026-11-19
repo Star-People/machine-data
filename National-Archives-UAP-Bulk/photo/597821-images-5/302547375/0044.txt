@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T02:16:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 835012, "source_ctime_ns": 1793390182345623489, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547375/0044.jp2", "source_mtime_ns": 1785808550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547375/0044.jp2", "source_sha256": "e84abc3df401c8fad43243e1f55f5340a52b37741e6d06d34ef6ee26347dde61"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 470, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+4 1. DATE - TIME GROUP
+6 March 66 07/05302Z
+
+2, LOCATION
+Los Angeles, falivornia
+
+3. SOURCE
+
+Civilian
+
+4. NUMBER OF OBJECTS
+One
+
+10. CONCLUSION
+
+(other) INSUFFICIEY2 DATA FOR EVALUATION
+
+5S. LENGTH OF OBSERVATION
+
+Varied
+
+6. TYPE OF OBSERVATION
+
+Ground Viaual
+
+7. COURSE
+Varied
+
+8. PHOTOS
+
+# Yes
+Sf No
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+SEE CASE
+
+9. PHYSICAL EVIDENCE
+
+Yes
+No
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used,
