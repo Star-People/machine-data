@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:54:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2198511, "source_ctime_ns": 1793354508631631355, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989214-001-0040.jpg", "source_mtime_ns": 1785564297000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989214-001-0040.jpg", "source_sha256": "1b104114c05873f1e21b8b06af042162a236be10de6ddba5a4b18da00a82d840"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 78, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAots F-om Sp ¢<-45 San Andress
+bndns tn Gaclee
+
+Cluster of Gm F ss dballoen

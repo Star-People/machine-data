@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:55:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3118425, "source_ctime_ns": 1793375950658000366, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958455/00089.jpg", "source_mtime_ns": 1785696964000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958455/00089.jpg", "source_sha256": "aff57a25a397587c88c9ccbdc10d98f4139ed0cbb28ed1448b5b2c9fc5cbc497"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 209, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+40 Fase (information Oni:) ry dail ea.
+
+a eo
+YOuUurces
+
+On June 4, 1954 "Tnidentified Flying Objects" were photo-
+
+iraphed over Minneapolis, Minnesota; over Lifjeill, Denmark and
+boat
+
+over Chicago, Illinois.

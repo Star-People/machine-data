@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T19:04:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4739433, "source_ctime_ns": 1793373091435046549, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945432/0686.jpg", "source_mtime_ns": 1785688490000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945432/0686.jpg", "source_sha256": "f5d71716dd022e283571f80229e39ba02ca9e5ad3273c0020cc52da97b2c69cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 358, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ Wing Intelligence, Moody Ai'R,Oa. TR-l,752 3
+
+COMMENTS of Preparing Officer:
+
+1. The SOURCE willingly attempted to answer all questions put to hin by
+the interviewer. lowever, the SOURCE occasionally changed his mind in regard
+to certain questions pertaining to speed and altitude.
+
+Captain, USAF
+Wing Intelligence Officer
+
+COMMENTS of Anproving Officer:

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T19:13:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7023163, "source_ctime_ns": 1793384577237011640, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990610/0350.jpg", "source_mtime_ns": 1785747846000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990610/0350.jpg", "source_sha256": "dfa5a300ac0c1eed0d946ae4589f74dcc56be8ede1455737ab92ffef185a5d58"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 227, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ia a LT I ar ra L uepepen
+
+3. This report was submitted to me by MSG eer: 5: AR
+Gp (Training Section), Tyndall AFB, Florida.
+
+or
+
+y f/ a
+
+Bae i thi eS ae
+
+LATLAN E, AARONSON 1 Atch
+Captain, USAF Diagram
+Director of Operations

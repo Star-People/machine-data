@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T18:57:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3593128, "source_ctime_ns": 1793380739300351806, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978180/1285.jpg", "source_mtime_ns": 1785700980000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978180/1285.jpg", "source_sha256": "3c47bf0e7c5587778cfb3a47689a2cb4b4e96a8bf4d8cbeb71cb4ebfb5501e3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 173, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| ALY Arik tnd H: ae
+Aware her poh. Et aad
+Bue wll on paryLidds fla tue
+
+O— Bur ti
+2 the, Go gin,
+
+Bo Oe eh Fb rs
+nie Pp Lut A i J
+ae ee | Elva DGS Yo°
+ee eg
+i ke b
+|
+/
+
+>

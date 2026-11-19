@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T19:23:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9299509, "source_ctime_ns": 1793362460724444582, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0155.jpg", "source_mtime_ns": 1785684703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0155.jpg", "source_sha256": "e3856a2642b8665d8d35700bf6adb7eed871082f2aa8392b7cafca407d390611"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 148, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pe rete Mere tN ae ee
+
+SpiGeSebbtc lpi ey EB ATLA i ANNO RATE AIBAE AMARA APRON
+
+2a %
+nests, Sead
+
+7 #
+afoi
+
+Declassification Authority: NND 923007
