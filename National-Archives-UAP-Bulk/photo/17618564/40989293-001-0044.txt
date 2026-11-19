@@ -1,0 +1,128 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T05:32:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2909363, "source_ctime_ns": 1793355943457754511, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0044.jpg", "source_mtime_ns": 1785564565000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0044.jpg", "source_sha256": "29ea02d928d41ac16d95e50c9ffbbf1df105ea62761de4a5f2f6b033ac76faab"}
+
+===== PAGE 1 =====
+{"alpha_words": 748, "chars": 4819, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HISTORY OF RESEARCH IN SUBGRAVITY AND ZERO-G
+1948 - 1958
+
+Among the phenomena to be encount-
+ered in manned space flight, few, if any,
+have inspired as much scientific and popu-
+lar speculation as that of subgravity,* in-
+cluding both pure weightlessness or zero-
+gravity and the various fractional states
+that lie in between zero-gravity and normal
+gravity conditions. In recent years, this
+has also been a subject of intensive re-
+search both in the United States and a-
+broad; and the Space Biology Branch of
+the Aeromedical Field Laboratory, at the
+Air Force Missile Development Center, is
+one of the agencies that have made signifi-
+cant contributions to the research effort.
+This aspect of the Center’s human factors
+program is less well known than either the
+rocket-sled experiments of Doctor (Col-
+onel) John Paul Stapp or the program of
+high-altitude balloon flights culminating in
+the record Man-High (II) ascent of 19-20
+August 1957. Yet the current program of
+subgravity research has roots at Hollo-
+man Air Force Base that go back before
+the rocket track was even built, and before
+the first balloon with biological payload
+was launched.
+
+Subgravity research as a clearly de-
+fined field of study had its real beginning
+just after World War II. It has its pri-
+mary application in the field of ultimate
+space flight, where gravitational attraction
+will still be present but will be normally
+counterbalanced by other factors, rather
+than in conventional aviation. Neverthe-
+less, brief exposures to subgravity can and
+do occur in aircraft flight, so that the prob-
+lem attracted some slight attention even
+earlier from specialists in aviation medi-
+cine. Moreover, even before World War II,
+a limited amount of subgravity experimen-
+tation had already taken place.
+
+A German aeromedical scientist, Doc-
+tor Hubertus Strughold--now at the School
+of Aviation Medicine, Randolph Field,
+Texas--staged a particularly memorable
+experiment to study human orientation
+when deprived of gravitational cues from
+the external pressure sense. This is only
+one of the sense mechanisms that supply
+information on bodily weight and direc-
+tion, but it is important in flying, where it
+is activated by the pressure of the aircraft
+
+seat on a flier’s skin and thus provides the
+familiar “seat-of-the-pants sensation.” In
+order to simulate a weightless condition as
+far as this one sense is concerned, Strug-
+hold anesthetized his buttocks with novo-
+caine. He then flew a series of acrobatic
+maneuvers, and in his peculiar condition he
+found the experience very disagreeable.|
+Another German investigator, Heinz von
+Diringshofen, whose main work concerned
+human tolerance to multiple g-loads, began
+exposing test subjects in 1938 to a few sec-
+onds of subgravity simply by putting an
+aircraft through a vertical dive.2
+
+The early experiments of Von Diring-
+shofen and Strughold did not lead to any
+concerted or continuing program of sub-
+gravity research in Germany. In the im-
+mediate post-war years, German scientists
+contributed some valuable theoretical stud-
+ies relating to subgravity, as did scientists
+in other European countries. The first
+major landmark in actual subgravity ex-
+perimentation, however, was a series of
+high-altitude rocket flights with animal
+subjects started in 1948 by the United
+States Air Force.3 The agency immediate-
+ly in charge was the Aero Medical Labora-
+tory at Wright Field, which then formed
+part of the Air Materiel Command and
+which is now a unit of Wright Air Develop-
+ment Center. The vehicle used at first
+was the German V-2 rocket, of which large
+numbers had been captured and brought
+to White Sands Proving Ground in south-
+central New Mexico to be used in high-
+altitude research. No less than five V-2
+animal flights were launched from White
+Sands, and in each case the project ob-
+tained a wide variety of support services
+from Holloman Air Force Base, on the op-
+posite side of the same Tularosa Basin.
+For all flights except the very first, actual
+preparation of the nose cone including
+the animal capsule took place in Holloman
+laboratory facilities. And when, in 1951,
+the Aero Medical Laboratory began using
+the newly-developed Aerobee research
+rocket for its experiments, launch opera-
+tions as well were transferred entirely to
+Holloman.
+
+The Aero Medical Laboratory’s ani-
+mal rocket flights were not designed pure-
+
+* The term “subgravity” will normally be used in this study to denote all states in which the
+
+gravitational force is less than the normal one “g.”
+
+“Weightlessness” is commonly used in the
+
+very same broad sense, but can be confusing. The word literally suggests a complete absence of
+weight, or zero-gravity, whereas the writer often is referring in fact to a small fractional gravity
+state--“virtual” weightlessness as it is sometimes expressed.

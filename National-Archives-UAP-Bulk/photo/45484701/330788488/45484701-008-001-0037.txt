@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T05:53:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7262464, "source_ctime_ns": 1793365199996392820, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0037.jpg", "source_mtime_ns": 1785684664000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0037.jpg", "source_sha256": "9631e25aa24c67ead735cd2763c3666f58e45eb4390aca5b44505bb4213482a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 908, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pl gp mera napeetiond
+i oe ee ss
+
+449TH FIGHTER INTERCEPTOR SQUADRON
+LADD AIR FORCE BASE
+APO 731, U S AIR FORCE
+
+STATEMENT : Vaghae i aon 25 January 1952
+
+I, Richard B, Peterson, Captain, USAF, 14488 A, while flying intercept
+missions from Galena Air Force Base have picked up and "locked onto" with
+our airborne radar set, what we called "ghost targets",
+
+On one particular mission, we locked onto a target dead ahead and high
+at approximately 17,000 yards on two different occasions and in relatively
+the same area, Lock on was maintained for two to three minutes with no
+change in the target position, Investigation revealed no aircraft flying
+Bote in that area, Weather was not a factor, Missions were flown during the
+period of May 26 to June 9, 1951.
+
+/s/ Richard B, Peterson
+/t/ RICHARD B, PETERSON
+Captain, U SAF
+
+14488 A
+
+A TRUE CERTIFIED COPY:
+
+igi
+
+,
+ny |
+
+Declassification Authority: NND 923007

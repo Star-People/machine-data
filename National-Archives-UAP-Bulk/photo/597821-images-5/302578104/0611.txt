@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T06:14:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 963411, "source_ctime_ns": 1793393500041117030, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578104/0611.jp2", "source_mtime_ns": 1785808689000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578104/0611.jp2", "source_sha256": "25b68f0a0dfe5e41898d9df994bc0e34fffe9c572e50633f8e0f03cb12556124"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 179, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+aircraft in the area at 0030CDT on 12 July 68, the sighting still appears to be of an
+aircraft.
+
+POON TEE TE OR em ERE OP Ca ENT Mm hth a eet BT oT Re SE ge ,
+
+Jn ea hese pea t=

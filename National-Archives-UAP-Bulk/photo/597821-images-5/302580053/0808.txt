@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T06:24:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1712683, "source_ctime_ns": 1793393711455282918, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580053/0808.jp2", "source_mtime_ns": 1785808488000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580053/0808.jp2", "source_sha256": "6b463649653f611622341d9a30690dd5fff4a7739f278301a3f964bd68b61882"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 683, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NORTHWESTERN UNIVERSITY *
+EVANSTON, ILLINOIS 60201
+
+DEPARTMENT OF ASTRONOMY LINDHEBIMER ASTRONOMICAL RESBARCH CENTER
+
+19 December 1968
+
+FTD (TDETR)
+
+Research and Aerial Phenomena Division
+Wright-Patterson Air Force Base
+
+Ohio 45433
+
+Attn: - TDPT (UFO)
+
+Subj: Sighting of 15 September 1968, Ocala, Florida
+To: Hector Quintanilla, Jr., Lt. Col.
+
+Enclosed are the following:
+
+(1) Transcription of telephone conversation with Capt. Heimbach.
+(2) Transcription of telephone conversation with Capt. Cole.
+(3) Project evaluation card on subject sighting.
+
+J. ALLEN HYNEK, Director
+
+Lindheimer Astronomical Research Center
+Northwestern University
+
+Evanston, illinois 60201
+
+JAH:ip
+Encl (3)

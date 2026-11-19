@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T06:13:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 921053, "source_ctime_ns": 1793389687576439169, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542870/0184.jp2", "source_mtime_ns": 1785808112000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542870/0184.jp2", "source_sha256": "9c2f5405253f73954039635f7dca3db620e92a34db8446d20e06d7428bd5aabe"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 757, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PN re gts ey ete ee
+
+PRR e aa eS eee ee ae ee eee ES
+
+HEADQUARTERS
+FOREIGN TECHNOLOGY Division
+AiR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE j
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO 4
+
+LAM
+
+“UFO Sighting, Scranton, Pennsylvania, 20 Aug 65
+
+o:Hq USAF SAFOICC (2a)
+Wash DC 20330
+
+Reference the attached unidentified object report from
+
+The object which he observed on the night of 20 Aug
+is very similar to reports which we have received of aircraft
+using electric lights, either on the aircraft itself or with a
+towed target for advertising purposes. The report has been
+placed in the category of aircraft with advertising lights.
+
+a {ee COMMANDER
+
+ERIC T de Ae 1 Atch
+Colonel, USAF Sighting, 20 Aug 65,
+Deputy for Technology and Subsystems Scranton, Pa
