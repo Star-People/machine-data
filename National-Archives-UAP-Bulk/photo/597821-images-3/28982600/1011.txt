@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T00:40:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7152099, "source_ctime_ns": 1793382075095022034, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982600/1011.jpg", "source_mtime_ns": 1785700775000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982600/1011.jpg", "source_sha256": "aabe9ce5f6c287485e260881d28b031d1f6ca80b800982c0c34582f8759b75c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 629, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+~~
+‘
+
+. LOCATION
+
+‘
+
+TYPE OF OBSERVATIGN
+
+:
+
+3. DATE-TIME GROUP 4.
+Loss! 25 eh O -Ground- Vi sual QO Ground-Redar
+GMT 0) Air Visual OD) Air-Intercept Radar
+5. PHOTOS 6. SOURCE
+O Yes
+OG No AVidaan
+7. LENGTH OF OBSERVATION 8. NUMBER OF O3SJECTS | 9. COURSE
+
+—
+he
+
+Ooo0 900 cac ooo
+
+» CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+
+Possisly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Orhor Ua Pi
+Insufficient Data for Evaluation
+Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Md ’
+:
+
+11. COMMENTS
+
+ATIC FORM 329 (REV 26 SEP 52)

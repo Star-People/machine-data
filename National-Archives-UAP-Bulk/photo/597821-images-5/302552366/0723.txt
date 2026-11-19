@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T01:18:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 961330, "source_ctime_ns": 1793390681001562510, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552366/0723.jp2", "source_mtime_ns": 1785808298000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552366/0723.jp2", "source_sha256": "14fa58c0b8037839afdf1a753f0305ee2ce83d146777e0dae6fc4968c25065ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 108, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eapate
+hh SUS
+
+ain
+oh
+
+>
+a)
+
+ot
+
+no
+
+nuin
+
+conti
+
+our
+
+~
+
+r
+
+San Paolo
+
+lla
+
+at
+
+AS
+
+azzola
+
+dolla pa
+
+via

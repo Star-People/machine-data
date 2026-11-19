@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T00:47:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9629895, "source_ctime_ns": 1793379594326384648, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972840/00964.jpg", "source_mtime_ns": 1785700824000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972840/00964.jpg", "source_sha256": "c5538386b7e58b715e06b34c3b425f0ef8b58d34bd18705ffb3151e7b316aa22"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 80, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+f ; : : Mars
+
+uk an
+saben
+a" eae
+
+ne
+
+sate ad Gib
+
+npr PSs
+
+os)
+
+Re OTT TT
+ses

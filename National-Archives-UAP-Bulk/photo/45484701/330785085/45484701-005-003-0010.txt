@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T00:45:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8575243, "source_ctime_ns": 1793363322218539120, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0010.jpg", "source_mtime_ns": 1785684906000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0010.jpg", "source_sha256": "31396cd20fabfb7b3ab20638a180d9dd084e59b3a0a1e990cc27053cf4b73f19"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 574, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TITLG: SIGHTING OF UHIDRETIFIVD FLYING ORTRCT; CHARACTER: SPRCIAL INQUIRY ~
+UNCONVENTIONAL ATRORATT; FILE WO: 34-185; OATH: 2 Bovember 1949
+
+The following inclowures are attached to each copy of report:
+
+Incl. 1. Exhibit "“A* - Rxtracted Article from Page 1, Atlanta Journal,
+A¢ianta, Georgian, dated 24 July 1948.
+
+Incl. ® Exhibit "3" ~ Extracted Article from Page 1, Ationta Journal,
+Atlanta, Georgia, dated 26 July 1948.
+
+Incl, 3. Exhibit "0" ~ Extracted Article from ?age 1, Atienta Journal,
+Atianta, Georgia, dated 26 July 1948.
+
+Declassification Authority: NND 923007

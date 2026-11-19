@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T01:13:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 168185, "source_ctime_ns": 1793367936898035708, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179265USAF_002.jpg", "source_mtime_ns": 1785565817000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179265USAF_002.jpg", "source_sha256": "a818e6419b92776ee5173a63daa62b11d389ce82f75a3b3ccbd28ac623a7db36"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 171, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+179265 USAF - SCIENTIFIC STUDY OF Ul¥Os - Subesun.
+(Plate °2. Phote courtesy NCA.)
+
+Copicd from Sxl0 print rec'd 1/13/69
+from SAPOL.
+
+Filed - UNIDAYTILIED FLYING OBJECTS

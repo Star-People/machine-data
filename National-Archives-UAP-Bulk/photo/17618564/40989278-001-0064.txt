@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T01:14:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 684362, "source_ctime_ns": 1793355840399672058, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0064.jpg", "source_mtime_ns": 1785564538000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0064.jpg", "source_sha256": "34dfe88e8c76f6d8fb1e2aec79726eeaec087d17a77d2d49052b567836b6d70a"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 570, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CAPTAIN JIM MCANDREW
+SAF/AAZD
+
+1720 Air Force Pentagon
+
+Washington, D.C. 20330
+
+Phone (703) 604-4788, DSN 664-4700
+FAX (703) 604-5533, DSN 664-5533
+
+FAX COVER SHEET
+
+DATE: 21 MAR 97 TIME: 1315EST
+
+ar )
+
+STEPHANIE DUNLAP
+SIN
+
+SUBJECT: ADDRESSES OF UFO ORGANIZATIONS AND OTHER
+STUFF
+
+HEY STEPHANIE,
+
+HERE’S A&B + THE FORWARD AND INTRO. PLEASE DON’T
+CONTACT ANY OF THESE ORGANIZATIONS OR POST
+ANY INFORMATION ON THIS BOOK UNTIL | GET THE
+GO AHEAD FOR RELEASE OR WE WILL HAVE A
+PUBLIC AFFAIRS NIGHTMARE ON OUR HANDS.
+THANKS!!
+
+JIM
+
+Number of pages including cover sheet: 8

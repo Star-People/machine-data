@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T00:48:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9852566, "source_ctime_ns": 1793359159721482868, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-025-0006.tif", "source_mtime_ns": 1785681331000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-025-0006.tif", "source_sha256": "9369da259881417d811ede5e3fd71f0ad6ae7a34585ae763b687301ae287d0af"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 241, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+_ Declassification
+
+a
+
+S DOGLMENE CONTAINS INFORMATION AE FETING THE NATIONAL DEFENSS OF (HE UNTIED 7A TES WITHIN THE MEANING OF THE ESPIONAGE ACT. SU SC
+ibs ATIGH OF ITS. CONTENTS IN ANY MANNER TO: AR.UNALUITHORIZED: PERSON IS PROHIBITED!
