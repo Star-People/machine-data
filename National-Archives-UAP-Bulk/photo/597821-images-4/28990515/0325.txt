@@ -1,0 +1,106 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T20:15:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7036417, "source_ctime_ns": 1793384563616558852, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0325.jpg", "source_mtime_ns": 1785748429000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0325.jpg", "source_sha256": "faacd8046604e37c5e9f34f865cb217f28d495c240c90eb18653ce7c57b746c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 1102, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+16 - 31 DECEMBER 1960 SIGHTINGS
+
+DATE LOCATION
+
+16 ‘Hutchison, Kansas
+
+16 ‘Dayton, Ohio
+
+16-20 \Tyndall ASB, Florida
+
+17 ‘Aquadilla, Puerto Rico
+
+17 ‘Sutton, Alaska
+
+17 \Anchnorage, Alaska
+
+17 ‘LO0.00N 175.00W N Midway
+
+18 ‘Sterling, Alaska
+
+18 ‘Cincinnati, Ohio
+
+19 ‘SE Guam
+
+22 Bentwaters, England
+
+22 ‘Buckingham, Iowa
+
+25 ‘Arlington Heights, Illinois
+
+26-9 Jan’= Buffalo, New York
+
+27 ‘New York, New York
+
+28 *Crescent City, California
+
+28 \Rusaville, Nebraska
+
+29 ‘Coral Sea Nandi, Australia
+
+29 ‘Japan
+
+31 iesnua, New Hamcsnire
+SODITIONAL
+
+DATE LOCATION
+
+27 } East Boston, Massac-usetts
+
++San Raphael, Cali2zcrnia
+
+29
+
+OBSERVER
+
+ao Multi
+
+a
+. Multi
+Military
+
+Military
+
+Multi (PHOTOS)
+
+Multi
+Military
+
+Ny
+
+REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+
+Newsclipping
+jewsclipping
+
+EVALUATION
+
+Astro (METEOR)
+Insufficient Data
+Balloon
+Satellite
+Satellite
+Satellite
+Insufficient Data
+Astro (ARCTURUS)
+Insufficient Data
+Satellite
+Astro (METZOR)
+Astro (METEOR)
+Insufficient Data
+Astro (VENUS)
+Aircraft
+Astro (METEOR)
+Astro (METEOR)
+Insufficient Data
+Satellite (D/xK ‘page Dy
+17
+
+Insufficient Data
+
+EVALUATION

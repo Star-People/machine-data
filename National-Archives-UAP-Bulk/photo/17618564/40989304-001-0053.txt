@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T19:43:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 950918, "source_ctime_ns": 1793356134535363339, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0053.jpg", "source_mtime_ns": 1785564616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0053.jpg", "source_sha256": "9ae5a6318439eb8658695cd8ce01164c02d1e60d76991c987d989023f7eda792"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 132, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Me my
+
+Q>sd
+
+8TH AIR FORGE BASES
+
+LEGEND
+TIVE BASES
+8TH AIR FORCE
+‘ANDBY. STATIONS
+
+This document is part of an unclassified series

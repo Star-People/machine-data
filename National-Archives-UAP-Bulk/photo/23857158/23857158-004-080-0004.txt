@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T19:30:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16910964, "source_ctime_ns": 1793358953020946460, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-080-0004.tif", "source_mtime_ns": 1785681275000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-080-0004.tif", "source_sha256": "1fe598a0038e1e4ebe633f4d4bf478396b4a9eb4ea056da5e6d72aa26d5f35a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 100, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+Peet
+
+\,
+
+fy
+
+whe
+
+es
+
+£
+
+i
+
+NRE
+
+SOA i
+
+hee
+
+~ aX
+
+}
+
+¥
+
+y

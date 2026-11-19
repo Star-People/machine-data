@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T19:56:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2992775, "source_ctime_ns": 1793356332898295687, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989318-001-0066.jpg", "source_mtime_ns": 1785564677000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989318-001-0066.jpg", "source_sha256": "8f3cfdec332c0477e1f01128e48c88c7517b4fa7758ceb05d3a9d264407cc422"}
+
+===== PAGE 1 =====
+{"alpha_words": 733, "chars": 4533, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1947 lo
+April 1 rocket plotting H-SS, H-T, SS-T.
+July 8(Tues) Alamogordo. C-54 off about 1030 with 23 people - all NYU, WL including V, ©
+Godbee. Lt Thompson, Edmondson, Reynolds and myself left. Wote up report on East Coast
+Flights for Peoples.
+July 9(Wed) Alamogordo. Worked today on balloon flights. Studied WL records of them brie:
+and wrote a memorandum to Peoples about results. Left in car this PM late. Flat tire bet:
+Roswell and Tularosa and stayed there.
+July 10 Thurs. Changed tire and went into Roswell. Bought new tire. On to El Reno, Okla
+today. Stopped in cafe in Hereford, Texas and met Dannie Harns from UGC. Went up to offic
+and saw Bob Cowder?, PC and Gene Conant, supervisor.
+July 11 Fri. From El Rosa to Cherokee. Got note at Cherokee that Jimmie was at Tonkawa ar
+went over there. Stayedvtonight with J & family.
+July 12 Sat. Jim, Pat , Vanessa along with me on way home. Got to Doolittle, Ark tonight.
+July a Sun. to cabins in Ohio just out of Springfield.
+July 14 Mon. To cabins near Geneva, N.Y.
+July 15 Tues. Stopped at Syracuse. Got home about @30. Marion & her baby there.
+July 16, 17, 18 At home. Drew in 4 or 5 loads of hay but land very wet and rains inter-
+mittently.
+July 19 Sat. Marion and I left in Chrysler for Woods Hole to see Dorothy & family. Throus
+Albany, Springfield, Providence. 463 miles 12 hours. Doc Ewing on Atlantic cruise. Worze.
+working on gravity at sea. Saw Geo Woollard and the Ryders. Woollard after Guggenheim
+fellowship for next year - positions at WHOI and Princeton are ? very satisfactory.
+July 20 Sun. Saw men working with Worzel at WHOI, Pollak, went over to Yine's new house,
+Kit and Bump at their house, then out to Ewings, saw Midge & children, Anne..and Mikey.
+July 21 Mon. Went down to WHOL, Haw-Pollak, Bumpus, Worthington. Up 3rd floor and saw Emr
+of NYU, who is finishing up some research work there under Ray Montgomery. Talked with Co
+umbus Iselin for short time. Saw Gil Oakley. Marion & I left about 11 am. Went through
+Providence, Hartford. Crossed river at Hudson. Met rain last part of trip, not home unti
+130. Jim & family spent weekend with Steve and Esther in Syracuse.
+
+July 22,23,24 At home. Drew in a little more hay from lot in front of barn but still rain
+ing quite often. Jimmie & family took Thursday PM train to Syracuse to catch tomorrow's
+plane to Wichita, Kansas.
+
+July 25, 26,27 At home. Steve and Esther came up Sat night. Marion and I went to Watertow
+to pick them up at bus station at midnight. They left again Sun pm on bus from Canton. Ch
+Crary up from Canton Sunday PM
+
+July 28,29, 30,31,Aug 1. At home. Chrysle to Canton, change plugs, reline wheels - Rained
+hard first part of week then clear. Got in lots in back of barn, north of road and front
+house.
+
+Aug 2 Sat. Marion - Bunny and I left 1230 PM, arrived Marcellus about 5 PM. Ate dinner wi-
+Steve and Esther, left Marcellus 730 PM. Through Binghamton, Scranton, Stroudsburg, Easto:
+Arrived in Newtown about 245 am.
+
+Aug 3 Sun. In Newton with Flaggs for dinner. Left Newtown about 5 PM. Arrived Jersey Coas-
+Got room on Hwy 35 near White Bite Shop.
+
+Aug 4 Mon. Up to Oakhurst. Went over developments to date with Jim Peoples. Out to lunch -
+Lt Ball. This PM Chantz and I surveyed to Sonobuoy site.
+
+Aug 5 Tues. Oakhurst. Worked on Aberdeen results - 2 failures - 1 direct wave. - Worked or
+Bermuda run # 2 - Oakhurst and started Bermuda #2 C.N.C.H., Peoples on vacation startin;
+today. «
+
+Aug 6, 7, 8 Wwed, Thurs, Fri. Oakhurst. Worked on Cruises 1 -28 with Vivian and Epstein.
+Checked over all recordings of Bermuda #2,. Flight 32. Got sonobuoy survey calculated and
+worked up results of Flight 25 B which depended on sonobuoy signal. Started Epstein on wez
+ther data which Wiggett is working on. Wrote letter to Emmons with remaining work to be
+done there. Conference Wed pm with Clowry, Carroll, Dubell, Bernhoff of Olmsted regardin;
+Bermuda and Alamogordo plans. Mr Mears put up balloons with equipment on here at Oakhurst.
+eer and Edmondson in and working around lab. Worked some with Eileen on rockets.
+
+Aug 9,10 Asbury Park
+
+Aug 11, 12,13,14,15,16 Oakhurst. Wrote memo regarding Alaskan work and had copies typed ur
+Worked most of week on rockets. Plotted altitude against time of origin for April 1, 8
+rockets but did not get identical graphs. Tried to vary distance to obtain similiar curves
+but this was not possible. Made plots of time vs SS and altitude vs SS in effort to corr-
+elate signals between stations. Correlated fairly good on 1 April but poor on 8 April.

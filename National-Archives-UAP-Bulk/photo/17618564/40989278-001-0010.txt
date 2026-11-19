@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T19:40:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 323927, "source_ctime_ns": 1793355837412758331, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0010.jpg", "source_mtime_ns": 1785564538000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0010.jpg", "source_sha256": "ef4e77fd9913048898d8b84aa4d28305469ab040026ab0a019b920714ff713f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 311, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+06/19/95 MON 15:08 FAX 2024047915
+
+TRANSMISSION OK
+
+TX/RX NO
+CONNECTION TEL
+CONNECTION ID
+ST. TIME
+
+USAGE T
+
+PGS.
+
+RESULT
+
+AF HISTORY
+
+He abe ake oi ok ak ake oe ok oh oka ok ok ak ak ak ake
+kk TX REPORT aeok ok
+sfe of of os fe afta ae as feo a os a aR a ok ok ake ok
+
+995127981
+
+06/19 15:05
+02'56
+
+2
+OK
+
+4001

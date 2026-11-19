@@ -1,0 +1,331 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T19:47:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1093924, "source_ctime_ns": 1793355794280010850, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0036.jpg", "source_mtime_ns": 1785564527000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0036.jpg", "source_sha256": "4bbecce196ef4414e3a2cf320668bbf15a7f024770d5f2be876991206fc2cbad"}
+
+===== PAGE 1 =====
+{"alpha_words": 233, "chars": 2189, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HISTAFHISTORY (DK),
+
+1
+,
+
+FL 3100/TECH LIBRARY,
+HQ SSC/RMMI,
+
+201 E MOORE DR,
+
+BLDG 856 RM 1701,
+GUNTER AFB,
+
+AL,
+
+36114-3005,
+
+1
+
+HISTAFHISTORY (DK),
+
+FL 7011 LIBRARY,
+AFLMA/XPL,
+
+501 WARD ST,
+BLDG 205,
+GUNTER AFB,
+
+AL,
+
+36114-3236,
+
+1
+
+HISTAFHISTORY (DK),
+
+,
+,
+
+,
+
+FL 4479/BASE LIBRARY,
+62 SVS/SVRL,
+
+765 6TH STREET,
+MCCHORD AFB,
+
+WA,
+
+98438-1121,
+
+1
+
+HISTAFHISTORY (DK),
+
+t
+
+’
+
+FL 2040/BASE LIBRARY,
+652 ABG/SVRL,
+
+5703 SKUARLA AVE,
+SUITE 2,
+
+MCCLELLAN AFB,
+
+CA,
+
+95652-1204,
+
+BF
+
+HISTAFHISTORY (DK),
+
+,
+
+,
+
+FL 4621/BASE LIBRARY,
+
+22 SVS/SVRL,
+
+53295 KANSAS ST SUITE 1,
+BLDG 804,
+
+MCCONNELL AFB,
+
+KS,
+
+67221-3610,
+
+ag
+
+HISTAFHISTORY (DK),
+
+,
+,
+
+,
+
+FL 6599/LIBRARY,
+IG BROWN ANG PMEC,
+200 BRISCOE -DR,
+MCGH-TYSON ANGB,
+TN,
+
+37777-6216,
+
+1
+
+HISTAFHISTORY (DK),
+
+FL 4484/BASE LIBRARY,
+
+438 SVS/SVRL,
+
+2603 TUSKEGEE AIRMEN AVE,
+MCGUIRE AFB,
+
+NJ,
+
+08641-5016,
+
+i
+
+HISTAFHISTORY (DK),
+
+FL 5670/BASE LIBRARY,
+
+MHS/SVRL,
+UNIT 8405,
+APO,
+
+AE
+
+09468-5000,
+1
+
+HISTAFHISTORY (DK),
+
+FL 5518/BASE LIBRARY,
+100 SVS/SVRL,
+
+UNIT 4905 BOX 245,
+APO,
+
+AE,
+
+09459-5000,
+
+1
+
+HISTAFHISTORY (DK),
+
+'
+
+,
+
+FL 4528/BASE LIBRARY,
+5 SVS/SVRL,
+
+210 MISSILE AVE,
+UNIT 1 BLDG 156,
+MINOT AFB,
+
+ND,
+
+58705-5026,
+
+1
+
+HISTAFHISTORY (DK),
+
+,
+
+,
+
+FL 5205/BASE LIBRARY,
+432 SVS/SVRL,
+
+UNIT 5019,
+APO,
+
+AP,
+96319-5000,
+1
+
+HISTAFHISTORY (DK),
+
+,
+
+’
+
+FL 4830/BASE LIBRARY,
+347 SVS/SVRL,
+
+5107 AUSTIN ECLIPSE,
+SUITE A,
+
+MOODY AFB,
+
+GA,
+
+31699-5725,
+
+ab
+
+HISTAFHISTORY-15
+
+HISTAFHISTORY (DK),
+
+1
+
+,
+
+FL 4897/BASE LIBRARY,
+366 SVS/SVRL,
+
+520 PHANTOM AVE,
+
+BLDG 2427,
+
+MT HOME AFB,
+
+ID,
+
+83648-5224,
+
+1
+
+HISTAFHISTORY (DK),
+
+’
+
+’
+
+FL 4852/BASE LIBRARY,
+554 SVS/SVRL,
+
+4311 N WASHINGTON BLVD,
+SUITE 101,
+
+NELLIS AFB,
+
+NV,
+
+89191-7064,
+
+1
+
+HISTAFHISTORY (DK),
+
+,
+
+,
+
+FL 4600/BASE LIBRARY,
+55 SVS/SVRL,
+510 CUSTER DRIVE,
+
+SUITE 101,
+OFFUTT AFB,
+NE,
+
+68113-2150,
+al
+
+HISTAFHISTORY (DK),
+
+,
+,
+
+,
+
+FL 5294/BASE LIBRARY,
+51 SVS/SVRL,
+
+UNIT 2065,
+
+APO,
+
+AP,
+
+96278-2065,
+
+1
+
+HISTAFHISTORY (DK),
+
+,
+
+,
+
+FL 2513/TECH LIBRARY,
+45 SW CSR 5123,
+
+1030 SO Hwy AlA,
+ROOM A1-S3 BOX 4127,
+PATRICK AFB,
+
+FL,
+
+32925-0127,
+
+1
+
+HISTAFHISTORY (DK),
+
+,
+
+,
+
+FL 2520/BASE LIBRARY,
+45 SVS/SVRL,
+
+846 FALCON AVE,
+
+BLDG 722,
+
+PATRICK AFB,
+
+FL,
+
+32925-3439,
+
+L

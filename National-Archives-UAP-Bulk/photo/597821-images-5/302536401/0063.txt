@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T19:44:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 993040, "source_ctime_ns": 1793389106743831027, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536401/0063.jp2", "source_mtime_ns": 1785808088000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536401/0063.jp2", "source_sha256": "02127dcafd55745296c4e2ca27cb7a197a97e691e15111b07c632dc363699ba6"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 710, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(aa PAGES 17 UNCLAS
+
+IN COMING DEPARTMENT OF THE AIR FORCE
+
+MESSREE 15787 (3 Nov 6SiAFE MESSAGE BRANCH PAGE BNO ASSIFIED
+
+PART F. MR. D_nliililiiiii(iie,, imeem, REDWOOD CITY, CALIF.
+CLAIMS PRIOR SERVICE IN AIR F RCE AND FORMER MEMBER GROUND
+OBSERVER CORPS. PROFESSES INTEREST IN ASTRONOMY. STATES OBJECT
+REPORTED HEREIN WAS NOT WEATHER BALLOON. ESTIMATED RELIABILITY
+F-3.
+
+PART G
+
+1. DUSK BUT VISIBILITY STILL GOOD.
+
+2. WIND DIRECTION AND VELOCITY
+
+SURFACE FRG 340 AT @5K
+
+6M FROM 340 AT 15K
+LOM FRM 3538 AT 3OK
+16m” FROM S4@HAT 35K
+20M FRQ1 310 AT 52K
+5am FROM 302 AT 75K
+20M FRO 582 AT 42K
+83M FROM 270 AT 22K
+
+Se NO CEILING
+4. VISIBILITY 15 MILES.
+
+3-« SCATTERED CLOUD COER.
+
+6. NO THUNDERSTORMS IN AREA.

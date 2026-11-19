@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T20:22:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8565653, "source_ctime_ns": 1793381064609741180, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979175/0800.jpg", "source_mtime_ns": 1785700853000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979175/0800.jpg", "source_sha256": "3882774567280566eba67fcf0eb104f7ea5efda1937b989d5fb7132f0449535d"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 409, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+C'00 Ja
+
+17 September 1958
+
+Deer SET
+
+This is to acknowledge your letter of 3 August 1958 concerning
+an unidentified flying object which fell from the sky on 2 August
+
+et Salamanca, New York.
+
+A spectographic analysis of the material furnished with your
+letter shows the objects to be radar chaff.
+
+Sincerely,
+
+LAWRENCE J. TACKER
+
+Executive Officer
+Public Information Division
+Office of Information Services

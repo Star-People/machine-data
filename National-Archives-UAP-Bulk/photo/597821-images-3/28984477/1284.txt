@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T20:03:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4410887, "source_ctime_ns": 1793382547212165265, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984477/1284.jpg", "source_mtime_ns": 1785700862000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984477/1284.jpg", "source_sha256": "c96e782410db574b95e67c65ac101e8750590a83b884125120c072eb1ca0d649"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 818, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+We have today received a letter, dated October 7, 1959, from the 758th
+Troop Carrier Squadron, Medium(Reserve), USAF, Greater Pittsburgh Airport
+This letter, under the subject heading of "Unidentified Flying Object",
+acknowledges our inquries of September 16th and 350th and advises us that
+
+"ail information concerning such objects will be disseminated through
+Major Tacker,"
+
+Until the message from the 758th we were not aware that the object was
+considered to be a UFO, otherwise we would have addressed our original
+inquiry directly to JOUs
+
+If the object in question is not a UFO it is hoped that you will be kind
+
+enough to supply us with the information requested in paragraph 3(page-1)
+above,
+
+If the object is a UFO, is it true that the Air Force now has tangible
+evidence?
+
+Sincerel yours,
+
+ecretary, NICAP

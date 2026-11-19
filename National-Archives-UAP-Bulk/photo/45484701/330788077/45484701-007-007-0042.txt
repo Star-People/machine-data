@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T20:25:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9251068, "source_ctime_ns": 1793364980368767310, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788077/45484701-007-007-0042.jpg", "source_mtime_ns": 1785684953000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788077/45484701-007-007-0042.jpg", "source_sha256": "caacec00b4c8c11943e8cd82c0d2fa39ddf6e43835f797d9b4f78e4ef33d5a70"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 866, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Winds aloft report 5. une 1610
+
+surface 200" knots
+1000? 210° 10 knots
+2000 250° 15 knots
+
+Lecal flight schedules of comzercial, private and military aircraft flying
+in vicinity at the time:
+Check Canadian activity if close to border)
+
+A check of local Airports failed to reveal any information pertaining to
+the incident.
+
+Possible releases of testing devices in vicinity sent aloft by Ordnance,
+
+Nevy, Air Force, Army, Weather Units, Research Organizations or any others
+
+obtain eémputed or observed trajectory of device (thedolite, radar readings,
+ete.)
+
+Investigation failed to reveal any information pertaining to testing devices,
+experiments, etoe, being conducted in the arete
+
+This investigation was conducted in accordance with the provisions of OST
+Bulletin Number four (4), and APCSI Letter Humber eighty-five \35)
+
+Declassification Authority: NND 923007
