@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T07:31:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6138197, "source_ctime_ns": 1793355092133479366, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0039.jpg", "source_mtime_ns": 1785564392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0039.jpg", "source_sha256": "163b0e6fed245f0e31032c65a52d30bd7cf25c3abea96f1d97fd0377d2cb35ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1382, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+DET 1, AIR FORCE CAMBRIDGE RESEARCH LABORATORIES (AFSC)
+HOLLOMAN AIR FORCE BASE, NEW MEXICO 88330
+
+REPLY TO
+
+attn of: LCD (Mr. Gildenberg/J),21) 6 August 1973
+
+sussect: Trans—sunset Ballast Profiles
+
+: LCC/Mr. J. Payne
+
+1. A graph was made from all available data for overnight flights at
+ICD, for the past 20 years. (See attachment 1)
+
+2. The interim notch on the legend indicates the night time equilibrium float
+when it was higher than the minimum altitude,
+
+3. The most obvious conclusion is that the closer to ceiling a flight was
+maintained, the more ballast required. The graph indicates that from 9 to
+30% is required for remaining within 2000 feet of float, and 30% within
+1000 feet. On the other hand, if one allows a balloon floating near 100K
+to drop all the way to the top of the tropopause, 3% may be adequate.
+
+4. The rule of thumb for for an average overnight flight has been 10% ballast
+required to compensate for the sunset. However, in this summary, for altitude
+drops of more than 5K, 86% required less than 10% ballast, and 83% less than
+
+Eh,
+
+5. If similar data is available form Chico, Vernalis Flights, it might be
+worth while to add them to the master drawing for this graph.
+
+tA t
+ae ae i
+BERNARD L. GILDENBERG, j/GS~1, Copies to Mr. G. Nolan
+Det 1, AFCRL (AFSC) Mr. Je Dwyer
+
+RESEARCH - The Key to Aerospace Superiority
+
+266.

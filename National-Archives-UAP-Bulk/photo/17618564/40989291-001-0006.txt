@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T08:01:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 723059, "source_ctime_ns": 1793355926032895478, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0006.jpg", "source_mtime_ns": 1785564560000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0006.jpg", "source_sha256": "bc770983339d6e9d19889a61794c5b2a95b92ca3a56eebe9074cf845f56fcc0a"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 741, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+iv
+of the history of space biology research at the Air Force Mis-
+sile Development Center.
+
+The following account is a product of the historiographical
+research of Dr. David Bushnell of the Air Force Missile De-
+velopment Center's Historical Office. It has been prepared
+as part of a larger history by Dr. Bushnell of aeromedical
+research at Holloman which will soon be published in its en-
+tirety. Although the staff of the Aeromedical Field Laboratory
+has cooperated fully in making available their records and in
+patiently responding to frequent interrogation, responsibility
+in this study for conclusions--unless otherwise cited--and for
+all error is that of the Historical Office.
+
+James Stephen Hanrahan
+
+Center Historian
+January 1958

@@ -1,0 +1,95 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T07:48:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18298808, "source_ctime_ns": 1793355745875400907, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0187.jpg", "source_mtime_ns": 1785564515000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0187.jpg", "source_sha256": "041002b43474fb797b3f28dbac5e18fd2e825ffadaff617b46e565ec6296ac6d"}
+
+===== PAGE 1 =====
+{"alpha_words": 712, "chars": 4559, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+360
+
+balloon system to do the first job. In other words, if we are to move the entire
+package with its load of sophisticated experiments to a new location we are faced
+with the problem of lifting some 400 kg from the surface of the planet. It might be
+well to point out here that even if we were to further miniaturize our electronics and
+instruments, we are still left with a considerable mass involved in a power supply
+(convertor, batteries, isotope energy source, and so on) which may be much more
+difficult to reauce.
+
+Moving to the second suggested mode, namely, choosing one sensor array to
+become a balloon-borne experiment, we can select the atmospheric package as the
+natural candidate. As indicated previously, the estimated atmospheric sensor mass
+is~8 kg.* To this mass we must add as major components, a power supply, a
+sequencer, and a transmitter. In the case of the power supply, due to the fact that
+we have a considerable area available on the balloon, we can conceive of utilizing
+an array of solar cells and storage batteries rather than the much more massive
+isotope source and convertor. Applying the known efficiency and conversion factors
+(Study of Mars and Venus Orbiter Missions Launched by the 3-Stage Saturn C-1B
+Vehicle, 1963), we find that some 5 ft? of solar cells are capable of providing the
+instrumentation power requirements during the sunlit period plus an additional
+amount of power to be stored for use during the dark period. If we double this
+area and place four such areas equally spaced around the upper hemisphere of the
+balloon, they should cover a negligible fraction of the balloon's surface (of the
+order of 1 percent), and provide an adequate source of power despite its orientation.
+Once again taking into account the power needed and assuming a conservative battery
+capability (30 w-hr/lb), we arrive at an estimated power supply mass of 8 kg. We
+will arbitrarily add an additional 8-9 kg to account for a transmitter, a sequencer,
+and to increase the instrumentation power supply to handle the transmitter require-
+ments. We therefore finally arrive at a value for the payload mass of 25 kg, 7
+recognizing that this figure has been artificially inflated to be conservative.”
+
+We recognize, as in the previous paper, that in all probability the required
+balloons are too large to be launched remotely from the surface. That is to say, it
+would probably increase the reliability of the balloon system if they were inflated
+while the capsule descends, thereby never permitting the package to reach the ground.
+In this case, it is obvious that we would have to provide two complete instrument
+packages for the first mode, one to be carried by the balloon to a different location,
+
+and one to descend immediately to the planet's surface. Taking all of these factors
+
+*This would include instruments to measure density, pressure, temperature,
+atmospheric composition (mass spectrometer, atmospheric gas chromatograph,
+and so on) and wind motion.
+
+transmission back to earth, and so forth, would be handled by the orbiting capsule.
+
+361
+
+into account, and utilizing the techniques presented in the previous paper, we can
+now calculate the total masses involved in attempting to accomplish the two
+suggested modes. The results of this calculation are presented in Table 2. These
+figures take into account both the ''nitrogen atmosphere’ of Mars based on an
+assumed surface pressure of 85 mb, and the ''carbon dioxide atmosphere’ based on
+the recent work of Kaplan, Munch and Spinrad (1964), indicating a possible surface
+pressure of-~20 mb. It should be noted that for the 400-kg payload we have
+assumed and equal-pressure balloon (relatively short duration) and a density which
+allows it to just clear the ground (<5 km). In the case of the 25-kg payload we have
+assumed a Super-pressure balloon (long duration) and a density to place the balloon
+at an altitude of about 10 km. Naturally these assumed atmospheres carry with
+
+them a considerable uncertainty, making any statement as to the actual altitude of
+these balloons somewhat meaningless.
+
+Table 2
+
+Density at
+
+Floating ‘ Balloon
+: Total Mass | Total Mass in
+Payload ice on Planet | Entry Capsule i
+(kg) (gm/cm*) (kg) (kg) (fe)
+
+400
+
+Equal-Pressur e |
+Balloon
+
+25
+
+Superpressure |
+Balloon
+
+Nonballoon
+Lander
+
+It is apparent from Table 2 that in the case of the 400-kg payload, there is only
+
+a minor difference between the total masses required for the "COs" and the Ne,
+
+atmospheres. This is because the balloon mass which is the component that undergoes

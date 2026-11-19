@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T08:23:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4863840, "source_ctime_ns": 1793359096473557565, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-054-0001.tif", "source_mtime_ns": 1785681315000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-054-0001.tif", "source_sha256": "af9041cc640eb5a23d9870a452c488dd61f462ee983ba33c6d3293f64704dbaf"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 846, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+602D AISS UFOB LOG
+
++ REPORT NO.
+
+| AISS<UFOB=2 70-55
+
+S
+
+DATETOE OF SIGHTING
+
+15/0150Z August 1955
+
+'RECD HQ L.602D
+
+16 Aug 55
+
+Wadena, Minnesota
+
+LOCATION OF Sierring
+
+LOGCID BY
+
+AAG DeRudder
+
+TT Hse - lo investigation authorized
+
+} INVES UNIT
+
+RYAN
+
+DATS INVES ASSIGNED
+
+ASSTGNING OFFICER
+
+u/a
+
+| DATE TR RECO AQ
+
+W/A
+
+HATE IR APPROVED
+
+N/A
+
+DATS IR TO ATIC
+
+N/A
+
+“DATE OF FCRiM 5
+
+{26 August 1955
+
+COMMENTS
+
+{+ Due to the description of the object and the fact that the observer
+‘stated the object was balloon like, this headquarters is of the
+opinion that the observer possible saw a balloon, althouth tha
+wind does not substantiate the above conclusion.
+} the sighting and the climb out of site could be that of a balloons
+
+The duration of
+
+:| CONCLUSIONS
+
+}POSSIELY BALLOON
+
+ATSOP FORM 7 (2 APR 5S)

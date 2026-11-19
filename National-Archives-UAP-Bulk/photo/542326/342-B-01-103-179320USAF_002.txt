@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T07:52:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 86808424, "source_ctime_ns": 1793368298945101980, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179320USAF_002.TIF", "source_mtime_ns": 1785566034000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179320USAF_002.TIF", "source_sha256": "b6ed1b6b078b0424dc46d8c3ba0103a2c34c7f9089a18e440f29453d2f09a7b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 420, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘220 USAF @ SCIENTIFIC STUDY OF UFOs = Enlerzement
+of Gulfstream Aircraft Plete 53,
+
+printed at high density to show the core
+
+of the bright ebject. While the core is
+
+overexposed, there is no evidence for the
+
+horizontal disk shown in Fig. 11 and
+
+reported visually. Scale is the same es
+
+Plate 56, (Plate #57)
+
+Copied from 8x10 print rect 1/13/6S
+
+Cre eyry S/ HiT
+4 r°OM dnd he ®
+
+‘dled ~ UNIDENTIFIED FLYING oBJECTs

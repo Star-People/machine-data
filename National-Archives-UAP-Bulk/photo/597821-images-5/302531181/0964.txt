@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T08:13:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1781789, "source_ctime_ns": 1793388699229522015, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531181/0964.jp2", "source_mtime_ns": 1785808421000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531181/0964.jp2", "source_sha256": "f1168a6ab32f4535137e075125a2085baa9f7c8305a5003b6358a13760c7a9b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 582, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+me *y peu Ae Lae cea ey
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED MESSAGE
+AF IN: 45159 (3Dec63) 4/ape INCOMING Page 1 of 2
+INFO : NIN-9, XOP-1, XOPX-4, SAF-OS-3, DIA-25, DIA~@LIC-2, ARMY-2, CMC-8, |
+JCS=35, NSA-7, OSD-15 (112)
+SM3 AZS1
+ZCZCHQAS L4ZCECAI BS , |
+
+00 RUEAHG
+
+Di RUWSPG 354 35/ G4A54Z
+
+ZNR
+
+O 9364557
+
+Fil COMNAVDEFEASTPAC
+
+TO RUHLHL/ CINCPACFLT
+
+INFO RUWGALS/CINCNORAD ENT AFB
+
+RUCSSR/CINCSAC OFFUT AFB
+
+RUEAHQ/COFS USAF
+
+R UY DAES COMF IRSTFLT
+1 UWDKEY COMPACMI SR AN
+O 330353502
+
+FM COMTWELVE
+
+TO RUWSPG/COMNAV DEF EAST PAC
+
+RUWSAA/SOPA SFRAN

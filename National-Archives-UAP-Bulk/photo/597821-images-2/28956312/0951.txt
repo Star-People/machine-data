@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T08:19:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4092286, "source_ctime_ns": 1793375447915565283, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956312/0951.jpg", "source_mtime_ns": 1785696871000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956312/0951.jpg", "source_sha256": "b56608ae32e091f143ed83b3fedbe8572e5a3e05cdaaced4495b09cbb1afab52"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 642, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+19 SEPT FFB
+A TCUANTI ae
+
+AA VOC 6 CEA Bre Well CE0 re
+
+AURORA BOREALIS
+NORTH ATLANTIC
+
+Mr. K. H. Weitlitz aboard the Panamanian SS. /telia, Capt. P.
+Thormoehlen, Master, reports that between 0700 G. M. T. and
+0720 G. M. T., September 19, 1955, in approximate position
+15°08’ N,, 61°12’ W., northern lights were observed irom 330” to
+560° and to an altitude of 40°, The intensity of the dispiay varied
+slightly as shimmeving and straight waves of biue light moved
+from the horizon upward. The radio operator reported no recep-
+tion on short wave during this period. Weather clear, wind
+Sears force 4, barometer 30.21 inches, air temperature

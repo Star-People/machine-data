@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T07:38:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8112445, "source_ctime_ns": 1793362373898054100, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0123.jpg", "source_mtime_ns": 1785684775000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0123.jpg", "source_sha256": "751bab25c70bdfeb0f966e48b1a8c88612037843168955b4a68415f6da37a99d"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 118, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+S 5 Pm on $4 f PHBAY
+Salient features of PRO
+bser
+
+res
+as viewed by observer.
+
+Declassification Authority: NND 923007

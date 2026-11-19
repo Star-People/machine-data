@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T07:33:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6824323, "source_ctime_ns": 1793365280045579988, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788661/45484701-008-004-0014.jpg", "source_mtime_ns": 1785685157000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788661/45484701-008-004-0014.jpg", "source_sha256": "37ad2b4d24494bda8acb9b8770482513fe9f026e8522480494e033c8ef920384"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 238, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1A SERIAL INNER ENVELOPE
+
+DATE RECEIVED NAME OF CONTRIBUTOR
+
+TO BE RETURNED ADDRESS OF CONTRIBUTOR
+
+O YES O NO
+
+RECEIVED BY (Name of OSI Special Agent)
+
+DESCRIPTION
+
+FILE NUMBER
+
+OS! NOW'S: 39a
+
+18
+
+Declassification Authority: NND 923007

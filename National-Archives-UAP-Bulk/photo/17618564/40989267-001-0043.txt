@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T07:47:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16719873, "source_ctime_ns": 1793355461598921373, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0043.jpg", "source_mtime_ns": 1785564459000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0043.jpg", "source_sha256": "e5af3036c6d18216295fed6b421c20433eb7307b1510d37756231583bc34a7c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 358, "chars": 2292, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+A photograph illustrating the installation and mounting of the reaction control
+
+jets is shown in Figure 6. Two jet and nozzle assemblies, one for each direction of
+
+thrust, are mounted on the end of a tubular moment arm. A detail view of the reac-
+tion jet valve and nozzle assembly is shown in Figure 7. An identical moment arm
+supporting an identical jet and nozzle assembly is located on the opposite side of the
+gondola so that a torque couple is produced for each direction of rotation. Although
+a single thrust arm could be employed, the application of a coupling greatly allevi-
+ates thrust alignment tolerances with respect to gondola center Of 2vavity. 1.077
+pressure gas is supplied to the jets at 170 psig via low strength tubing from a
+mechanical pressure regulator located within the gondola shell. The gas is stored,
+in this application, at 4500 psig in four stainless steel spherical tanks each con-
+nected to a stainless steel manifold which terminates after filtering in the regulating
+device. Photographs illustrating the installation of the storage tanks and associated
+
+plumbing during early phases of system fabrication are shown in Figures 8 and 9.
+
+3. GROUND HANDLING
+
+The gas storage tanks of the azimuth control system must be charged prior to
+each flight operation and topped off prior to launch to replenish gas used during ore=
+flight testing. The high-pressure gas transportation cart shown in Figure 10 is used
+for transport of gas to the launch site or other areas as required. At Holloman Air
+Force Base, New Mexico, the gas transportation cart is filled with clean, dry nitro-
+gen to about 5500 psig at the Sled Test Facility. Gas transfer to the gondola tanks
+is by simple pressure equalization. The transportation cart tanks have a total inter-
+nal volume of nine cubic feet. With a gondola tankage internal volume of about two
+cubic feet the equalized pressure during transfer is about 4700 psig.
+
+The transportation cart tanks are forged of high strength steel and have aburst
+pressure of 20,000 psig. Tank manifolding is stainless steel tubing. A view show-
+ing location of the transportation cart on the vehicle used to transport the gondola
+
+to remote launch sites is shown in Figure ll.
+
+Figure 6.
+
+View of Gondola Showing Reaction Jet Installation

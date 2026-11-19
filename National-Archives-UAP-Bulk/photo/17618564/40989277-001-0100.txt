@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T08:03:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 932617, "source_ctime_ns": 1793355833276382362, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0100.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0100.jpg", "source_sha256": "444d59d54668beba06f3fe9785558b8cb42043edf1f029758210fff4ecf41dd5"}
+
+===== PAGE 1 =====
+{"alpha_words": 231, "chars": 1466, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Q9. Why were there two reports? How come all of the information wasn’t in the
+first report?
+
+A9. The first report, released in September 1994, was a specific answer to a specific
+request from the GAO—what happened near Roswell in July 1947? The GAO’s
+questions were fully researched and answered in this report.
+
+The second report was authorized when Air Force researchers realized that historic Air
+Force scientific projects and descriptions of Air Force members killed or injured in
+the line of duty that occurred over a many year period were being misrepresented as
+part of this “incident.” This is wrong and it required a response.
+
+Q10. So the Air Force did a poor job on the first report.
+
+A10. Not at all. The first report answered the questions posed by GAO. It was
+remarkable that Air Force researchers were able to find the solution to this perceived
+mystery at all.
+
+Q11. How come UFO researchers missed this information?
+
+All. I can’t speak for them. But our research is documented.
+
+Q12. The events described in the second report didn’t even happen in 1947. Is this
+just more cover-up?
+
+A12. Absolutely not. The persons making the allegations weren’t even sure of the date.
+This is documented in the report. It is a common pitfall of historical research based
+solely on anecdotal information—to confuse or combine dates of events. This is why
+our report has nearly 500 source citations, more than 100 photographs, and even film
+
+footage to support it.
