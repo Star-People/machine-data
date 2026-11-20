@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:48:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7159326, "source_ctime_ns": 1793385109325839241, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991849/1442.jpg", "source_mtime_ns": 1785748472000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991849/1442.jpg", "source_sha256": "e42434be70a79d05018b994cf170b23360c32d2e2aa01ba1b468aa9b84437e24"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 700, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+.
+
+ray al DEPARTMENT OF THE Am FORCE a ecalg
+AP IN: 46628 (14 Mar 61) - star Bagacd ooficd a
+
+UNCLASSIPED MESSAGE
+INCOM: AG
+PAGE THREE RJESKB 52
+C, 6000 23GDEGREES/4@ KNOTS PLUS 5DEGREES C, 10000 24@DEGREES/6@ KNOTS=
+
+QDEGREES C, 16000 2A40DEGREES/55 KNOTS- 15DEGREES C, 20000 240 DEGREES/62
+
+KNOTS-22DEGREES C, 30000 230DEGREES/7@ KNOTS-45DEGREES C,50000 25@DEGREE
+755 KNOTS-S9DEGREES C, 80000 NOT AVAILABLE. — |
+“* ELKINS 08002 WEATHER REPORT. E 70 BROKEN 7, SSE 5. SOME LIGHT
+
+RAIN SHOWERS WERE OCCURING IN EXTREME NORTHEASTERN WEST VA LOWERING
+
+CONDITIONS TO 2500 OVERCAST VSBY 500. H THRU J NEGATIVE; (DIRECTOR
+
+INTELLIGENCE 32D AIR DIVISION; COMMENTS: NONE$ L. NONE).
+
+BT
+
+14/2138Z MAR RJESKB

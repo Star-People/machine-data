@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:17:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 988335, "source_ctime_ns": 1793390648491982959, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552043/0278.jp2", "source_mtime_ns": 1785808608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552043/0278.jp2", "source_sha256": "6e3d9ce0774e472f8a63a07c14d2bfacf6c073df0f2fa8dcec7725aa7f97838b"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 675, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+ik June 66 15/0130
+
+2. LOCATION
+
+Burnside, Kentucky
+
+13. SOURCE
+
+Civilian
+
+~~
+UNC
+
+10. CONCLUSION
+
+Aircraft (Possible )
+
+| 4. NUMBER OF OBJECTS
+i
+
+: 5. LENGTH OF OBSERVATION
+
+: Several minutes
+
+16. TYPE OF OBSERVATION
+
+Ground Visual
+
+7. COURSE
+
+,OChky +
+danas
+
+i
+( to West, then South
+
+[3. PHOTOS
+
+i O Yes
+
+yo No
+
+19, PHYSICAL EVIDENCE
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+See CASE FILES
+
+On 15 June at 01002 a B-52 was making several low level
+runs at, 30CO feet altitude traveling west, The runs wers
+made at a radar bomb scoring site. B-52 made several runs
+during this period.
+
+FORM
+
+ETD sep 63 0-329 (TDE)
+
+Previous editions of thts form may be used.

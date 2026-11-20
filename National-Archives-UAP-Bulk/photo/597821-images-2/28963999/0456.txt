@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:38:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5028169, "source_ctime_ns": 1793377498748328488, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963999/0456.jpg", "source_mtime_ns": 1785696699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963999/0456.jpg", "source_sha256": "6e47c8705625226a74599ffead3ca460c242f83f992b2363fd6654eb29a27934"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1289, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ames Do they have a row of yellow lights?
+
+equine No.
+
+ae: Do they have red and greem running lights?
+ae: Yes, a.green, red and yellow flashing light.’
+
+By the description of witnesses and our investigation,then,
+we knew that the object(s) involved were not: commercial or
+private planes, advertising planes, blimps, hellicopters, or
+astronomical phenomena. As a last measure, we took the case file
+to the Air Force Filter Center in Canton, Ohio. The text follows:
+
+"Thursday, November 16, 1955. <A Sgt. Lee, after hearing
+my report, called the C.A.A. in Cleveland then went into conference
+with officials at the base. Each tims he did this, he emerged
+with an explanation to the sighting however further analysis
+revealed all of these were inadequate. When Sgt. Lee emerged for
+the last time, he had this to say:
+
+tWell, we think what you saw was am unidentified
+fiying object. Most of the uef.o.s travel at
+tremendous rates of speed, makes sharp turms, and
+-hover. This object is not in that class. However,
+from your account, this was a uef.o. No other
+explanation fits. If the sighting can be explained
+it will be in time. If it cannot be explainsd, we
+have orders to release nothing on it. It will be
+sent on to higher authorities at Wright Field,.'*
+
+-End of Case File Number One=—

@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:23:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1733837, "source_ctime_ns": 1793391192011243667, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556075/1307.jp2", "source_mtime_ns": 1785808142000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556075/1307.jp2", "source_sha256": "a4040a901888aa564e2f5ed0b50a3b3b6bf5d044d7b1e67b0690b82daeaa782b"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1128, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NEWS RELEASE
+
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+WALLOPS STATION, WALLOPS ISLAND, VIRGINIA 23337
+TELEPHONE: VALLEY 43411 - EXTS. 584 ond 579
+
+FOR RELEASE: September 24, 1966
+
+Release No. 66-48
+
+GERMAN BARIUM CLOUD
+EXPERIMENT LAUNCHED AT WALLOPS
+
+A cooperative experiment between the Max Planck Institute
+of Munich, Germany, and the National Aeronautics and Space
+Administration was launched from Wallops teland, Va., at
+5:13 a.m. EDT today.
+
+The chemical barium and copper oxide payload was —
+developed by a scientific team headed by Professor Reimar
+Luest, Director of the Max Planch tescitute.
+
+The big colored clouds, illuminated by the sun's rays,
+were visible for hundreds of miles. A similar launch is
+scheduled for 5:51 a.m. EDT tomorrow morning.
+
+Launched on a four-stage Javelin sounding rocket, today's
+experiment ejected barium clouds at altitudes of about 310
+and 570 statute miles. The artificial clouds first appeared
+light green tinged with red. As they enlarged, the clouds
+turned blue and formed elongated patterns, several hundred
+
+miles long, along the lines of the earth's magnetic field.
+
+“OTe

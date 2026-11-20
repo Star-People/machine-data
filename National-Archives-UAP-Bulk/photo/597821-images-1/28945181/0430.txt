@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:31:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4172668, "source_ctime_ns": 1793373023197046234, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0430.jpg", "source_mtime_ns": 1785688720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0430.jpg", "source_sha256": "8b0ad6aeb113d15e62c0b265a703dce9467c4c7e3f38a5c4d6b4a9bd73940464"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 939, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i oor
+
+[t2,00
+
+come etonume, pth fs
+&S/¢( 4.00
+
+SECTION A
+
+1. When did you see the objects:
+
+2.1 Dates SLES _ Jeep  s
+
+yy] s7 Day eae Year
+-
+1.2 Time of days ra 02. AM, ¢ (P.M,) (Circle One)
+TS.
+
+1.3 Time Zones (Circle One):
+
+Qe ad. Pacific
+b. Central e. Other
+co. Mountain
+(Circle One): a,
+
+db. Standard
+
+1.4 Circle one of the following to indicate how certain you are
+of your answer to the above question 1.2:
+
+Be c. Not very sure
+b. Fairly certain d. Just a guess
+2. Where did you see the object?
+
+Borpintowun Wt XSy-
+
+Postal Address City or Town State Country
+
+3. Where were you located when you saw the object:
+
+(Circle Ons): a. Inside a building d. In an airplane
+_ nA car e. At sea
+c. ( Outdoors f, Other
+
+3.1 Were you:
+
+(Circle One): a. In the business section of a city?
+| Che In the residential section of a city?
+c. In open countryside?
+ad. Flying near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+Ee Other

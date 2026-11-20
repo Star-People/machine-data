@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:35:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4697655, "source_ctime_ns": 1793369097058714358, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930550/0889.jpg", "source_mtime_ns": 1785688921000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930550/0889.jpg", "source_sha256": "518d03bc9f6504fcbef31124520afb1705d7504da3b25142bb130b4a6ec6b3a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 14, "chars": 79, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+te
+
+'
+
+\ ¥
+
+>
+eter ates
+
+y
+‘
+anes ot at aien 2 8
+
+an Ati Oe,
+Qs ia
+
+ele” Acces

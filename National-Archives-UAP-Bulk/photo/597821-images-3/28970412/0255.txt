@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:36:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4895703, "source_ctime_ns": 1793378990400647922, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970412/0255.jpg", "source_mtime_ns": 1785700779000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970412/0255.jpg", "source_sha256": "075376d232f565c27ac9ad709a7505fe337562994b9aadcd7d1bc483d3b9f15c"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 131, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+s / i c- yey ey. VA Gerth,
+4 ghee: § 2 CA Mirae, tA COL AS Gees
+
+CE“ eS L. “f
+
+N
+
+Cem emegry SATS E nT an a> Rupee gay Hee
+
+rh
+
+>

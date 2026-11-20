@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:21:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1431321, "source_ctime_ns": 1793390449966017261, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550033/1138.jp2", "source_mtime_ns": 1785808253000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550033/1138.jp2", "source_sha256": "fb1d8f311666740b18a5556cdd85da59786c9c2c2fae15ac6100957196f2b6d4"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 698, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+on nm
+
+1. DATETIME GROUP 2, LOCATION ae
+20 Apr#1 66 21/0500Z , Albany, Oregon (1 Witness)
+3. SOURCE ; 10. CONCLUSION
+Civilian AIRCRAFT / Pret :
+4. NUMBER OF C3JECTS
+One Consistent with an aircraft sighting.
+5. LENGTH OF OBSERVATION |11. BRIEF SUMMARY AND ANALYSIS we :
+One Minute Object was described as round in shape, white in color, one
+ee halft the size of a dime held at arms length and had another
+Co object trailing it. Object was moving very fast heading sout
+Ground=Visual é then SSW and was out of sight in one minute.
+7. COURSE ,
+SSW
+6. PHOTOS
+O Yes
+L__ENe
+9. PHYSICAL EVIDENCE
+0 Yes
+FXXNo
+
+FORM
+FTD sep 63 0-329 (Ti E) Previous editions of this form may be used.

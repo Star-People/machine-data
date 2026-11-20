@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:37:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4976140, "source_ctime_ns": 1793368969163470797, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930089/0432.jpg", "source_mtime_ns": 1785688581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930089/0432.jpg", "source_sha256": "6d2aceca48f4413054ab7fbb03e2d50707a36076fd2e43034bf96b7251f9153e"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 182, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i ; .
+
+WILDWOOD, NEW JERSEY
+
+UNCLASSIFIED
+
+UN CGR ATG. A 12 YR,
+NECLAwS: NOT AUTOMATIC LLY 7 af { 1. os
+“ASSIFIED. DOD DIR 520046 |
+~~ a! sd |
+thay ly, Pom - VA Be
+J -“"
+
+o a. ‘ —"

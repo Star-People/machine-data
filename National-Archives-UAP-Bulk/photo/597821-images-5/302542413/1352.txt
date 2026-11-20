@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:22:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1719490, "source_ctime_ns": 1793389640092144855, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542413/1352.jp2", "source_mtime_ns": 1785808547000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542413/1352.jp2", "source_sha256": "d6ebed9ff0255e949884b1f8b444e1551873ede522a9557331ca781ad63b4a5e"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 726, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+"INCOMING . | _ DEP/AR?. WENT OF THE AIR FORCE |
+UNCLASSIFIED
+
+MESSAGE , ST/AFF MESSAGE BRANCH
+AF IN: 5888 (16 Aug 65) Pe Bo 4
+
+3 LOCATION oF F OBSERVERS: Hay me. He) has
+fe LAT/LONG ¥950N/9201" cee } eee tae
+PAGE 3 RUCDDU 18 UNCLAS |
+
+Be DULUTH, MINNESOTA
+
+6» IDENTIFYING INFORMATION: MR. AND MRS Sse giaammaes
+«gia, MINN? RELIABILITY, UNKNOWN, OCCUPATION, UNKNOWN
+
+7. WEATHER AND WINDS ALOFT:
+A. OBSERVERS ACCOUNT OF WEATHER: CLEAR & VISIBILITY UNLIMITED
+B. AWS ACCOUNT OF WINDS DIRECTION & VELOCITY AT .
+
+1. SURFACES 178/ 12KNOTS
+2. 6,008 208/25K
+3. 10,008 268/E5K
+
+he 16,008 27B/¥m
+
+5. 28,008 288/30
+
+6. 30,008 278/55K , 3 ¥:
+7. 50,008 298/15K
+
+8. 89,008
+C. CEILING: NONE
+D. VISIBILITY: 15PLUS MINES
+E. CLOUD COVER: NONE

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:33:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4464805, "source_ctime_ns": 1793382818212001529, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985550/0807.jpg", "source_mtime_ns": 1785748402000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985550/0807.jpg", "source_sha256": "a027aa9e7ea404f727654dc12b15220b51396c8c04bd5638a271a54f92878e39"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 715, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Memo, AFCIN-4whg, 28 Dec 59, Request for Evaluation
+lst Ind (APCIN-4e1e/Capt. Keriekou/jc/74201) 21 Jan 60
+TO: AFCIN-E4g
+
+1. An analysis of the attached UFO message reveals the following
+possibilities:
+
+The reported anomolous propagation in the aree could possibly
+vasponsible for the unidentified radar pick up, particularly if a
+severe temperature inversion existed and permanent echoes on the radar
+
+were predominant.
+
+Dd. Based on the winds aloft, track movement and track groundspeed,
+the UFO could possibly be a balloon.
+
+2. The lack of information on this UFO makes a more detailed and thorough
+analysis impossible.
+
+fey. GORDON C. HOFFMAN sia
+[ Colonel, USAF is
+APCIN-4EL |
+vy
+/ GA ak , ttt
+if inc’ ssi es
