@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:33:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16452854, "source_ctime_ns": 1793355587910650125, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0026.jpg", "source_mtime_ns": 1785564484000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0026.jpg", "source_sha256": "4de571f2adb5baa2bb45a85df93cf68469c26b357132283faa23f63353d34009"}
+
+===== PAGE 1 =====
+{"alpha_words": 184, "chars": 1237, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+( LB.)
+
+TENTATIVE
+LIMITS FOR
+SVT BALLOONS
+
+GROSS LIFT
+
+si=—™@—MARGINAL LOADS
+FOR SEMI- CYLINDER
+TAPELESS BALLOONS
+
+Figure 8; 32 Million.Cu, Ft. SVT) Balloon 1080 Lb. Gross Lift
+l 1.5
+BALLOON MATERIAL THICKNESS (MILS)
+
+Figure 10. Lift Capabilities of Tapeless Balloon Designs
+
+5. SUMMARY
+
+No matter what improvements or advances are made in materials, new de-
+signs are necessary for maximum expansion of balloon capability and utilization
+of those materials. In order to develop new designs, it is necessary to establish
+the shortcomings and limitations of existing configurations. Scale model analysis
+is proving to be a valid and inexpensive method of obtaining this knowledge.
+
+Preliminary observations have led to the conclusion that most ascent failures
+originate on the top of the bubble. The probable reason for this is the presence of a
+circumferential stress induced by bubble asymmetry. This hypothesis leads to
+the suggestion that design improvement may be achieved by restoring a degree of
+symmetry and/or reinforcing the top region.
+
+The SVT design is the first of a family of designs making use of these thoughts
+
+Figure 9. 3 Million Cu. Ft. SVT Balloon at 41.000 rt It shows strong promise as an improved balloon design.

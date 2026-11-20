@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T07:16:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7899701, "source_ctime_ns": 1793379478157854263, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972382/00587.jpg", "source_mtime_ns": 1785700645000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972382/00587.jpg", "source_sha256": "bf6e429bee33170bc535cdc50d114b22c2ccda1a93cdaea06a244862e6e64a08"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 453, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+—
+
+Fact. Sheet-News Release dtd 25 Oct 55.
+Honorable Qaguyiie:
+
+United States Senate
+
+MR: Originated when Mr. MM of Senator GU office called
+General Jones on 25 October and requested a report. Case ws
+hand-earried to Major Tacker, SAFIS, on 25 October for info to
+base reply w/susp 23 October. On 28 October Major Tacker hand
+carried MM to M&O Branch a proposed draft of reply. Final
+prepa & fuded 23 October based on draft furnished by Maj Tacker.
+
+f

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:59:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3930509, "source_ctime_ns": 1793373994016016475, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949676/0419.jpg", "source_mtime_ns": 1785696604000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949676/0419.jpg", "source_sha256": "7adafcef1b351f0f5c8a78bfc55f6d18ec9450ac2695b844ff581694a7a0f4c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 673, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AIR TECHNICAL INTELLIGENCE CENTER - i “ a :
+WRIGHT-PATTERSON AIR FORCE BASE ve
+OHIO
+
+13 Septenber 1952
+
+Shanokin,g Pennsylvania
+
+Deer irs. QP |
+
+Your recent report of unidentified aerial phenomena has been
+received by the Air Technical Intelligence Center, Inclosed is a
+‘questionnaire, which, when completed by you and returned in the
+inclosed, self-addressed envelope, will aid in standardizing the
+data and will provide a complete record of the occurrence,
+
+Your interest in reporting the matter and your public spirited
+desire to be of service are greatly appreciated.
+
+_ Bincerely yours,
+
+2 Incls ROB E,. KENNED
+a/e
+
+Major, USAF
+Air Adjutant General
+
+_— oe — " Oe i a

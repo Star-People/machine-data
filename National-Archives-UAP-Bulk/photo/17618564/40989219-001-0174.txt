@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T07:15:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7775161, "source_ctime_ns": 1793354793985717666, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0174.jpg", "source_mtime_ns": 1785564340000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0174.jpg", "source_sha256": "c6250f25720509863556942f7958a03373e5745b98996120f92df8593dd4070a"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 580, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+é
+
+UNITED STATES v. TRUDEAU
+(CM 39219)
+Page 85
+
+Sodomy 8 15 - testimony of victim - sufficiency of evidence.
+
+A board of review, recognizing that the trial court saw the witnesses
+and their demeanor in testifying, affirmed a conviction of sodomy based
+on testimony of the victim which, although impeached in part, was not in-
+herently improbable, inconsistent or contradictory. (Citing MCM, 1951,
+par 153a; CM 371333, Massey, 16 CMR 316,md on other grounds 5 USCMA 51k,
+18 CMR 138; U. S. v Taylor (No. 5210), 5 USCMA 775, 19 CMR 71; ACM 10655,
+Rosenthal and Narens, 20 CMR 655.)

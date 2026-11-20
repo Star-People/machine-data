@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:50:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1428909, "source_ctime_ns": 1793392985154329366, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572682/0714.jp2", "source_mtime_ns": 1785808578000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572682/0714.jp2", "source_sha256": "ecd663c6f65d49934f78642c1df9cd522ad1c2c15447ef003ebe00d49e3904ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 783, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS 67TH TACTICAL RECONNAISSANCE WING (TAC)
+MOUNTAIN HOME AIR FORCE BASE, IDAHO 83648
+
+REPLY TO
+
+ATTN OF: DOL/MSgt Gor#r/2h92
+
+30 November 1967
+sussect: Unidentified Flying Object
+
+ro: FTD (TDETR)
+Wright-Patterson AFB,
+Ohio, 45433
+
+Forwarded is an unidentified flying object report received here on
+27 November 1967. Subsequent investigation reveals that all aircraft
+assisned this base were grounded due to a local ground fog. Civil
+flights from the municipal field at Boise, Idaho, were also suspended
+at this time. However, visibility was not restricted in outlying areas
+as indicated by the clear condition contained in the attached report.
+
+FOR THE COMMANDER
+
+Eg Ce hid
+
+C C. STIDD, LT COL, USAF 1 Atch UFO Report
+od
+
+Intelligence Division

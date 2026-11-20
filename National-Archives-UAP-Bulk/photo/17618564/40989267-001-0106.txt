@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T07:26:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12396684, "source_ctime_ns": 1793355522678531405, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0106.jpg", "source_mtime_ns": 1785564470000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0106.jpg", "source_sha256": "4bbacadd42ec3dfe774b8afc343ae014216b5693f4e4d6f90a7d9734be9f992b"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 422, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ei St MS
+
+sale
+
+FST MRE ee
+
+XIV. The Applications of Hot-air
+Balloons to Scientific Programs
+Russell A. Pohl
+
+Assistant Chief Engineer
+Raven Industries, Inc.
+
+Abstract
+
+The recent development of balloon systems which derive Mitt from hot air 15
+based on the use of modern envelope materials and in-flight fuel systems. The
+
+present capabilities of such systems are reviewed, and several applications are
+
+described.
+
+203

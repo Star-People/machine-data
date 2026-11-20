@@ -1,0 +1,84 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:34:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17941971, "source_ctime_ns": 1793355702530213388, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0139.jpg", "source_mtime_ns": 1785564506000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0139.jpg", "source_sha256": "38e9c1150308bed008307a2371de360ce2ac32989842c2a7ee35ecdb4a1b730d"}
+
+===== PAGE 1 =====
+{"alpha_words": 449, "chars": 3127, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+The sensor that will be used in the AFCRL stratospheric humidity program is
+the alpha radiation frost-point hygrometer developed by Honeywell, under AFCRL
+contract (Ballinger, 1963; Ballinger, Koehler, Fricke and Murphy, 1964). This
+
+instrument operates on the principle of maintaining a predetermined thickness of
+
+water molecules on a polonium surface which is temperature-controlled at the
+frost point by monitoring the attenuation of alpha radiation. The mass-sensing
+technique of this hygrometer permits response to one Microgram-per-square-
+centimeter change in water-layer thickness. The model being used in the AFCRL
+balloon program will have the capability of measuring frost points as low as
+
+“700 Cy
+
+(KFT)
+
+3. RECENT DEVELOPMENTS
+
+There have been several observations of stratospheric moisture since AFCRL's
+
+attemmpt to make sense of the data which led to Gutnick's now famous 1961 JGR
+
+ALTATUDE
+
+article, ''How Dry Is the Sky ?". The results of six of the more recent flights are
+
+shown in Figure 2. The solid line curve on the right is Gutnick's Mean Annual
+
+Mid- Latitude Moisture Profile which was subjectively judged to be representative
+of all the available data in 1962.
+
+It is clearly evident that all the recent observations have tended toward the dry
+
+(or colder) side. This could be due to greater precautions now being taken to
+
+reduce contamination effects that were undoubtedly present in some of the earlier
+soundings.
+
+“100 -90 -80 -70 -60 -50
+The three profiles shown were made with electronically-controlled optical dew FROST POINT (°C)
+
+pointers. The driest profile, on the left, was observed during descent at —WMEAN ANNUAL PROFILE GUTNICK (962) |
+
+Kwajalein, M. I., November 1963, by Dr. Henry Mastenbrook, NRL. This is one me KWAJALEIN NOV =
+—-NRL WASHINGTON, D.C. JAN
+
+of the driest soundings obtained ina series. Nearly the entire stratospheric por- aio Hees
+
+tion is within NRL's now-postulated profile of constant 1- to 4-mg/kg mixing ratio. OMAN "AFB MAY 63
+
+& J. HOPKINS U. HOLLOMAN AFB FEB ae
+
+O NBS PALESTINE, TEX. MAY 6
+
+Another NRL descent, obtained (January 1964) in Washington, D. C., is
+shown by the dash-dot line. Once again the profile is marked by the decreasing
+frost point with altitude; however, the sounding begins increasing in mixing ratio :
+above 78,000 feet where Mastenbrook suspects that the contamination outweighs BgUne &: att oe Raa eve aa eee
+the actual moisture content above that altitude.
+
+The dotted curve represents an Army Ballistic Research Laboratory ascent
+over Palestine, Texas, July 1964 (Mester, 1964).
+observations between 46,000 and 73, 000 feet.
+
+e obtained by spectroscopic methods. Data
+
+" | :
+spot'' observations wer
+bah wero led path rather than the vapor
+
+Inst i
+nstrument trouble precluded obtained directly measure the total vapor in the samp
+
+When readings were resumed the ¥ ‘ inne Hoenn aghed
+fi ‘ i ;
+dew point increased continually until near the top. At 73,000 feet the mixing ene nnale he
+
+ratio was 4 mg/kg, and increased to a maximum of 100 mg/kg at 94, 000 feet
+
+nearly two orders of magnitude higher than for the NRL soundings.

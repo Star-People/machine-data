@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T07:10:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6683656, "source_ctime_ns": 1793354611048172704, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0149.jpg", "source_mtime_ns": 1785564312000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0149.jpg", "source_sha256": "8b98e63731cdbe2a31d62310716f7eb989a8adc7e15c9892a4f3063be02c570e"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 923, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS USAF HOSPITAL
+United States Air Force
+Walker Air Force Base
+New Mexico
+
+16 May 1957
+ST A TP BE Mes wet
+
+I have known Lt. Col. George F. Adams approximately 22 months
+while serving with him on the medical staff at the Walker AFB
+Hospital. During this period of time I have had the opportunity
+to work with Colonel Adams while administering medical and surg-
+ical care to military personnel and dependents on sick call and
+in the Out-patient department.
+
+We have assisted each other on many occasions in the operating
+room in the performance of major and minor surgical procedures.
+To my Knowledge he has made a sincere effort to perform these
+tasks diligently.
+
+I have also had the opportunity to observe Colonel Adams on
+several occasions at Officers' Club social functions and in my
+home and have not had reason to question his character at any
+time.
+
+WILLIAM J./“JAMES
+Captain, USAF(MC)
+Chief, Surgical Svs

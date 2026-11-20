@@ -1,0 +1,124 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T07:28:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16653886, "source_ctime_ns": 1793355601887910688, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0040.jpg", "source_mtime_ns": 1785564487000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0040.jpg", "source_sha256": "117fab6925f287069845a9a8f649e34980ea8de842b2f57e819fc9d34599eb14"}
+
+===== PAGE 1 =====
+{"alpha_words": 254, "chars": 1778, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+X - TRANSVERSE DIRECTION
+O - MACHINE DIRECTION
+
+8.0
+
+ec
+=
+O
+°
+N
+'
+tu
+i")
+bf
+Liu
+a
+UO
+uu
+a
+tu
+a
+a
+rs
+Lu
+a.
+=
+lu
+—
+We
+O
+ud
+rs
+
+uu
+a
+=
+Ate)
+UO
+z
+as
+ee
+Lig
+—l
+>
+aa ta
+fj
+Liu
+>
+_l
+O
+Qa.
+po
+i
+N
+i]
+Wy
+val
+Lu
+=
+U
+Liu
+Qa.
+7p)
+
+Za)
+uu
+ad
+O
+z
+fo)
+pte
+e
+O
+ya
+uu
+|
+
+oO
+pe)
+
+(a1) avo1
+
+>)
+tt
+
+TEMPERATURE (°C)
+
+Stress Developed in Rigidly Clamped Polyethylene Specimens at Very Low Temperature
+
+Figure 7.
+
+67
+
+The curves presented in Figure 7 were obtained in the same manner as those
+in Figure 6 except that they represent individual specimens~-one machine and one
+transverse--rather than several. The transverse direction specimen (X) was
+cooled to a slightly lower temperature than was the machine direction sample (0).
+Below -60°C the temperature was recorded manually by reading a thermometer
+since the Brown recorder range terminated at -65°C. The thermometer appeared
+to have more lag than the thermocouple/recorder combination. The most puzzling
+disclosure of this test was that the machine direction specimen actually appeared
+to experience a decrease in stress during the final period of cooling. It is con-
+sidered possible, however, that there may have been a previous rapid cooling not
+sensed by the thermometer that could have caused the peak stress indication. If
+this is the case, there is an even more pronounced difference in the maximum
+stresses obtained with machine vs transverse direction materials at extremely low
+
+temperatures.
+
+3. HIGH-FREQUENCY STRESSING
+
+A special test apparatus has been designed and constructed to investigate the
+performance of polyethylene under high-frequency stressing. Figure 8 is a photo-
+
+graph‘of this equipment. Its characteristics are described in Table 3.
+
+NTL
+TEL
+
+Figure 8. Device for Conduct of High Frequency Cyclic Load Testing
