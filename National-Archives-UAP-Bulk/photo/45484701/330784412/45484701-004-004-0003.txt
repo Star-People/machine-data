@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T21:59:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1927969, "source_ctime_ns": 1793363036418707980, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0003.jpg", "source_mtime_ns": 1785684798000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0003.jpg", "source_sha256": "98b6029302927931bb417fe0b05748ffc293aac985ecc8ba94082024ea0f14c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 73, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CLASSI ED
+
+J ged. Ck
+
+}
+CL CH ty
+
+Declassification Authority: NND 923007

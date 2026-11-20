@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T22:12:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5441058, "source_ctime_ns": 1793381676567921014, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981228/01206.jpg", "source_mtime_ns": 1785700661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981228/01206.jpg", "source_sha256": "8c1974c1c999963b1c78f91b4f0e97c2e28c4469fe2617a72746625ad0e45d51"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 618, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12. CONCLUSIONS —
+0 Was Balloon
+2 PDNercember 1958 Arsentina/25 Mi S§ of Bahi 1 Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION Blanen BD) Rese rbeyeen
+; f O Was Aircroft
+Local -OiGround- Vi sual O Ground-Rodor O Probably Aircroft
+GM T= ATs es GO-Air Visual O Air-Intercept Radar O Possibly Aircraft
+QO Yes O Probobly Astronomical
+Q No Civilian D Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE “Other 1 2 OPS
+O Insufficient Dota for Evaluation
+O Unknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+ATIC FORM 329 (REV 26 SEP 52)

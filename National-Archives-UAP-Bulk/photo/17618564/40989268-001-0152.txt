@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T21:32:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16239654, "source_ctime_ns": 1793355714631169279, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0152.jpg", "source_mtime_ns": 1785564508000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0152.jpg", "source_sha256": "1c8dcd072d2a9942e739beedb82f416023fd23d85bf96358a75ffde54a7761e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 393, "chars": 2606, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+290
+
+The heart of the instrument was a capacitor microphone with a coated mylar
+diaphragm and a large pressure-reference chamber. In Figure 11, the essentia]
+construction details of the microphone are shown. The separation between the
+diaphragm and the back plate was ee 5 mils. The pressure-reference chamber
+had a volume of approximately 150 cm . The pressure leak of the chamber wags
+constructed of a piece of stainless tubing, 20 mils inside diameter x 1 inch long,
+
+which gave the chamber a time constant of approximately two seconds.
+
+AIR RELIEF
+VENT
+
+MICROPHONE
+BAFFLE
+
+pea NYLON SCREW
+
+oe
+GLI EF EIA or at eR, "AE ARE SE ABP
+ae bce tet bre ier Ue TYeatk SN NY
+CAAT SPU ETs DEERE
+
+SPACER
+
+BACK PLATE
+
+SEALING
+RING
+
+Figure 11. Capacitor Microphone
+
+The microphone and its associated electrometer tube comprised a 0-db micro-
+phone, that is, one volt output for an input of one dyne rout This high output was
+accomplished by means of the high-compliance diaphragm, and by using the electrom-
+eter as a Stage of gain. In addition, the microphone had a large area, 14 om;
+which lowered the electrical low-frequency cutoff of the microphone due to the
+
+increased capacity of the microphone.
+
+291
+
+The high sensitivity of the microphone was offset by two disadvantages: large
+pressure oscillations would cause the electrometer tube to bias itself to a cutoff
+
+condition, and the microphone sensitivity was a function of the ambient pressure
+
+because of the high compliance of the diaphragm (Izquierdo, 1961). The first
+difficulty was solved by the simple expedient shown in Figure 12. A neon bulb
+across the plate and grid of the electrometer is not normally conducting, but if
+the grid swings to cutoff, and therefore the plate reaches the supply voltage, the
+
+neon bulb will fire and restore the tube to a conducting condition,
+
+CK 6088
+
+Figure 12. Microphone Electrometer Circuit
+
+The other difficulty, the pressure sensitivity of the microphone, was solved
+by measuring in a vacuum chamber the change in response of the microphone with
+pressure. An electrical pulse was periodically injected into the screen grid of
+the electrometer tube to provide a continuous monitor of the electronic response
+of the instrument. During the development of the instrument, an electrostatic
+acoustic calibrator was tried and abandoned due to the stringent shielding require-
+ment necessary for its use. Another calibration device which was included in the
+instrument was a small loudspeaker situated a short distance in front of the micro-
+
+phone and pulsed at intervals by a relaxation oscillator. The cone of this

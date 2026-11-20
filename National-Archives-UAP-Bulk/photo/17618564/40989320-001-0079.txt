@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T21:59:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1999538, "source_ctime_ns": 1793356375809132825, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0079.jpg", "source_mtime_ns": 1785564690000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0079.jpg", "source_sha256": "0e513a6724b4d626b3bc18525d8fcb70583c2369ce69a1a108d7def2353bb4d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 421, "chars": 2855, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+version characteristic of the stratosphere from 30-60
+KM. In particular, Arrival A was computed as totally
+refracted at 57 KM. The 90-second delay in arrival of
+Arrival B could not be explained as a multiple bounce,
+since the atmospheric structure deduced for Arrival A
+showed that only direct paths for Arrivals B, N, and C
+were valid. The parametric equations for Arrivals B, N,
+and C were then set down, for each of which the observed
+travel times and distances to be accounted for by meteor=—
+ological structures above 57 KM were expressed. On sin-
+ultaneous solution of these equations it was determined
+that above the 57 KM level, the sound velocity profile
+was characterized by a decrease of velocity with height,
+reaching a minimum value, and then increasing with height.
+Particularly a minimum sound velocity of 315 meters per
+second was computed at 105 KM, and a maximum height of
+path for Arrival C at 110 KM. The sound velocity pro-
+file computed from these arrivals is shown in Figure V,
+together with representative upper atmosphere tempera-
+ture distributions proposed by Fred L. Whipple in 1943
+and the NACA Tentative Standard Atmosphere.
+
+C. Significance of Arco data analysis for long range
+
+sod detection
+
+’ The conclusions gleaned from the sound propagation analy-
+sis of the Arco data have been considered of exceptional import
+to long range sound transmission by the atmosphere. Previous
+investigators in the sound field had limited their interpreta-
+tion of upper atmosphere effects on sound propagation to the
+so-called "first inversion", i.e., the 30 to 60 KM level.
+However, in Appendix A of this report, Dr. Fred B. Daniels
+shows by an extension of Schr&dinger's analysis that long range
+sound propagation is possible by total refraction of sound
+waves of period one (1) to ten (10) seconds at the 100 KM level.
+The Arco sownd data and the propagation analysis stated briefly
+above confirm Daniels' extension of Schr&dinger's analysis.
+
+The Signal Corps soud data secured at ranges of 7608 KM,
+11,428 KM, and 32,423 KM from the source during Operation
+CROSSROADS in July 1946 is the only know experimental data
+suggesting the feasibility of sound detection of an atom bomb at
+globally-—distributed locations. Unfortunately, pressure of
+time and personnel limitations preparatory to the tests denied
+the opportunity to establish triangular arrays of microphones
+at the sites manned by Signal Corps personnel (reference Section
+II of this report). As a result, no data are available on the
+CROSSRAODS tests relating to the path parameters, i.e., the
+apparent horizontal velocity at each dsatection location. Al-
+though the Arco data definitely establish the sound tranamissi-
+bility of the 100 KM region, it cannot, however, be stated con-
+clusively that the CROSSROADS waves were totally refracted in
+this region.
+
+9 Appendix E

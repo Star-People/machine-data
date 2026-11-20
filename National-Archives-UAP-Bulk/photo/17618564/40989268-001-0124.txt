@@ -1,0 +1,127 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T21:36:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19598395, "source_ctime_ns": 1793355685630317601, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0124.jpg", "source_mtime_ns": 1785564502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0124.jpg", "source_sha256": "0bcb61f0b8667235ece4c1abb1fdf8aeb5c867d0effce2dc8240510fd1f3296c"}
+
+===== PAGE 1 =====
+{"alpha_words": 589, "chars": 4519, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+234
+
+where p is the (total) density of the ambient air, is its coefficient of viscosity,
+D is the diffusion coefficient, and x is a characteristic distance from the leading
+edge of the flat plate to the point where O is measured.
+
+For the channel-flow geometry, the mass-transfer coefficient becomes
+
++ SylbD (3)
+Ee cee, mani
+
+where b is the distance between the walls of the channel. The apparent velocity-
+independence and indefinite increase with diminishing b hold only when the afore-
+mentioned assumption is valid, namely when the bulk water-vapor concentration
+
+varies little along the channel.
+
+To examine experimentally these rates of mass transfer, an environmental
+chamber was constructed to reproduce typical values of humidity, pressure,
+temperature, and ventilation rates encountered by a hygrometer in stratospheric
+balloon-flight applications. An experimental study of other errors inherent in
+frost-point determinations, principally those due to thermal diffusion and the
+physical properties of thin layers of frost, is also contemplated.
+
+This stratospheric-moisture simulator and associated instrumentation provide
+a continuous, nonrecirculating flow of air at a constant frost point. The test
+chamber uses a free-jet principle* to allow a large working area within the test
+
+chamber without the necessity of providing a large humidity-controlled region.
+
+The chamber has a constant-humidity jet, conical in shape, and 1/2 inch in diameter
+
+by 2 inches long.
+
+The simulator is specifically designed to provide frost points between -50°C
+and -100°C at equivalent pressure altitudes from 30,000 feet (300 mb) to 130,000
+feet (3 mb) and flow velocities from 100 to 1000 ft/min. The air temperature in
+this particular version is not controlled but remains near typical free-air tem-
+peratures. Another heat exchanger, placed between the frost-point heat exchanger
+and the test cell, could be added to provide control of the air temperature.
+
+The flow diagram is shown in Figure 1. Air from a pressure source is passed
+through the dryer and controlled by a mixing valve (A). This dry air is mixed, by
+an ejector and mixing tube, with humid room air to provide an air supply in the
+desired humidity range. The pressure equalization section allows this partially
+dry air to reach barometric pressure before entering the system inlet, providing
+a Stable pressure source. The two metering valves (B and C), both of which
+
+operate as sonic orifices, establish the flow rate (velocity) and system pressure.
+
+_ *The following references establish the validity of using the free-jet
+principle.
+
+Albertson, J.L., Dai, B., Jensen, R.A. and Rouse, ''Diffusion of Submerged
+Jets , Transactions of American Society of Civil Engineers, Vol. 115, 1950.
+Schlichting, H., Boundary Layer Theory, McGraw-Hill Book Co.
+
+Amramovich, G.N., '' Turbulent Jets Theory", Gasudarstvennoye Izdatel'stvo -
+Matematicheskoy Literatury 1960, Translation in ASTIA Document AD 283,858
+August 1962. er
+
+Sato, H. ''The Stability of a Two Dimensional Jet, Journal of Fluid Mechanics
+Vol. 7, January 1962. :
+
+Heskestad, G. "Measurements in a Two-Dimensional Turbulent Jet’!
+AFDSR 2456, April 1962.
+
+Miller, D.R. and Comings, E.W., ''Static Pressure Distribution in a Free
+Turbulent Jet'’, Journal of Fluid Mechanics, 3, 1957-8.
+
+Foerthmann, E., ''Turbulent Jet Expansion'', NACA TM 789, 1936,
+
+Tollmien, W., ''Calculation of Turbulent Expansion Process'', NACA TM 1085,
+1945.
+
+Crane, L.J., ''Laminar and Turbulent Mixing of Jets of Compressible Fluid",
+Journal of Fluid Mechanics, Vol, 3, Part 1, October 1957.
+
+v. Krzywoblocke, M., ''Jets a Review of Literature", Jet Propulsion, Vol. 26,
+No, 9,
+
+Corrsin, S. et al., ''Spectra and Diffusion in a Round Turbulent Jet'', NACA
+Report 1040.
+
+Betz, A., et al., ''Application of the Theory of Free Jets'', NACA TM 667,
+April 1932.
+
+Donald, M.B., et al., ''Entrainment in Turbulent Fluid Jets'', Transactions
+Institute of Chemical Engineers, Vol. 37, No. 5, October 1959.
+
+a
+
+MIXING REGION ;
+. PRESSURE EQUALIZATION
+DRY AIR SECTION
+METERING VALVE ~
+
+INLINE
+AIR INLET nae he
+(5 PSIG)
+
+FROST-POINT
+
+WET ATMOSPHERIC AIR BAFFLE
+
+NOZZLE SYSTEM INLET mp
+PRESSURE ALTITUDE
+METERING VALVE- HYGROMETER FLOW RATE
+
+SENSOR . METERING VALVE
+
+SNOW FILTER B ev
+
+TEST CELL ion I =
+Pa = BAROMETRIC PRESSURE i——
+
+Pos SIMULATED PRESSURE HYGROMETER HEAT ,
+‘ R L.
+ALTITUDE (300 - 3MB) SINK (COLD BATH) HEAT EXCHANGER CO! i
+
+Py = VACUUM CONSTANT TEMPERATURE BATH
+
+Figure 1. Stratospheric Moisture Simulator Flow Diagram

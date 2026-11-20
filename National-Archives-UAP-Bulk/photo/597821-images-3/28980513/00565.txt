@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T22:05:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4355818, "source_ctime_ns": 1793381508586857597, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980513/00565.jpg", "source_mtime_ns": 1785700659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980513/00565.jpg", "source_sha256": "06fce4be384430dd7a8e38d597e6dc5dcd906a2ba55601ce203bb82564f10b4c"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 736, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFCAS- 12/160
+
+stern Germany
+
+Oct. 16, 1958
+
+Rocket Laboratory
+USAF
+
+On Monday, October 13, 1958, approximately at 6:40 PM Central
+European Time, my cousin watched a phenomenon in the sky southeast
+of Kleinostheim near Aschaffenburg. Although I was with him, I did
+not see the appearance. Perhaps it was a shooting star. Since the
+"Pioneer" moon rocket dropped back to earth about that time, perhaps
+this phenomenon in the sky was the "Pioneer." If you are interested in
+my cousin's observations, please list the questions you are interested
+in especially, for example, time and place of the observation, direction
+in the sky, direction of the movement in the sky, form and color of the
+phenomenon, etc.
+
+Yours truly,
+
+(signed) Dr. aE

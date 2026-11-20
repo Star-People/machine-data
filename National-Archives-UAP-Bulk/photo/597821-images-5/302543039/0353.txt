@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T21:49:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1013524, "source_ctime_ns": 1793389701098213003, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543039/0353.jp2", "source_mtime_ns": 1785808174000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543039/0353.jp2", "source_sha256": "e0a35aa24b361c9c4f34cf169ff3b778234a334e8c2fb87d5fab7d56f24fb35d"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 493, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FID (TDEW)
+Wright-Patterson AFB, Ohio 45433
+14 September 1965
+
+Roswell, New Mexico
+
+Dea Sane,
+
+Reference your recent unidentified observation of 24 August: 1965.
+The information which we received from Walker AFB, New Mexico was
+not sufficient for evaluation. Request you fill out the attached
+FTD Form 164 and return it in the envelope provided.
+
+We wish to thank you for reporting your observation to the Air Force.
+Sincerely,
+
+(
+HECTOR QUINTANILLA, Jr
+
+Mejor, USAF
+Chief, Project Blue Rook

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T22:03:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4053511, "source_ctime_ns": 1793386763819250205, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997298/0893.jpg", "source_mtime_ns": 1785748032000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997298/0893.jpg", "source_sha256": "9eccfc18ca9eed44a70726ca644439531f5c7912ca0ce03c04e770ae4589f490"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 352, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+33419 (17 May 62) IRonhs U
+
++ ates Mio £
+-2, CMC-8,
+
+DIA-7,
+
+ARMY-2, NAV
+
+é
+
+OOP=2,
+
+OOP-CP-1,
+
+CGC WINNEBAG
+TO RUHPP/CINCPACFLT
+INFO RJWVFALB/C INCNORAD
+
+RJEZHO/C OFS
+
+aS) “I US AF
+DPHLKM/ P ACALRF ORCE
+
+RBWPJ/C OMWESTAR
+
+WAS
+S9-5ON 174-17Z AT
+TRUE. IN EXCESS 2099 MPH WIND SWS 17 KT:
+OBJECT
+
+HELD VISUAL 15 MIN THEN OBSCURED B
+
+OSD-15, NSA-7,
+(108)

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T22:01:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3706606, "source_ctime_ns": 1793382459945443880, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983987/0837.jpg", "source_mtime_ns": 1785700745000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983987/0837.jpg", "source_sha256": "2dc447fedf929a6cb0f51ead7b538aef710ab71d8b84d4f052ae563b05309897"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 699, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| | . De TUG IG
+
+SAFIS-3d/Ma, .acker/mhb/72291
+
+2 September 1959
+
+ie Dear Mr agai
+
+This is to acknowledge your letter of 5 August 1959
+concerning an Unidentified Flying Object you sighted on
+21 July 1959.
+
+Your letter contained insufficient date to allow a
+valid concluston. Therefore request you complete the
+ineclosed Air Force questionnaire in regard to this sighting
+and forwad the completed paper to the Air Force Technical
+Intelligence Center, Wright-Patterson Air Force Base, Ohio,
+r for analysis and evaluation.
+
+Sincerely,
+
+Inclosure LAWRENCE J. TACKER
+Major, USAF
+Public Information Division
+Office of Information Services
+
+Mr.
+
+McMechen, West Virginia
+
+Comeback IS-3¢d ———""
+Reader IS-1
