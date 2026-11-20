@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:26:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3408023, "source_ctime_ns": 1793380619933484325, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0476.jpg", "source_mtime_ns": 1785701060000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0476.jpg", "source_sha256": "6a752477e1ec8939916e4ed71246c00567a10f75214be6e83ccd8311ef0dd181"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1742, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ithe = lice. hh Giese aot
+
+doy hes
+
+é CUAPTER V
+
+HARVARD ANNOUNCEMENT CARDS
+
+Announcement Card 1390
+
+Satellite 1953«, -- The U.S.A, National Committee for
+the International Geophysical Year has announced that an
+instrumented earth satellite was placed in orbit on Feb-
+ruary 1, 355™05$ U.T, at a point approximately 25°.84 N
+and 739,61 W. It was launched by a U.S. Army Jupiter C
+rocket on February 1, 3948" U.T, from Cape Canaveral,
+Florida at 289.5 N and 80°.6 W.
+
+Including the empty rocket casing of the last stage,
+the satellite weighs about 30 ibs, is cylindrical in shape
+with a length of 80 inches and a diameter of 6 inches. It
+contains two radio transmitters; amplitude modulated trans-
+mission at 103.03 mc with power level of 50 milliwatts;
+phase modulated transmission at 108.0 me with power level. of
+10 milliwatts; telemetry of data by both transmitters.
+
+The surface of the satellite is white and may be
+visible with binoculars under optimum conditions. Sci
+fic experiments include cosmic ray observations, meteoric
+impact, and temperature measurements.
+
+February 1, 1958 Fred L. Whipple
+
+Announcement Card 1393
+
+Satellite 1958x, -- Dr. Paul Herget and Dr. Raynor L.
+Duncombe of the Naval Research Laboratory in Washington,
+D,C, have obtained the following preliminary. orbitai eiements
+for Satellite 1958% from analysis of Minitrack, observations
+extending over the first 32 revolutions, for 3°53" U.T. on
+February 1, 1958:
+
+Minimum Height 219 miles
+
+Maximum Height 1587 miles
+
+Period 114.95 minutes
+
+Eceentricity 0.14052
+
+Inclination Ci poe)
+
+Longitude of Ascending
+
+Node 342°.95 (motion
+
+~4,26 per day)
+
+Argument of Perigee 120°.76 (motion
++6.31 per day)
+
+Mean Anomaly at Epoch 14°. 68
+
+Semi-major Axis 1.2278 earth radii

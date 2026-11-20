@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T11:39:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3812145, "source_ctime_ns": 1793375288316606566, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955450/0192.jpg", "source_mtime_ns": 1785696624000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955450/0192.jpg", "source_sha256": "b6afd1783facd25431fd53e68871a333a5b0359d63148350149b0c6c94306bf9"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 377, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Poge 7
+
+34. Dote you completed this questionnaire: 13 January _1966
+; Dey Month Yeor
+
+35. Information which you feel pertinent and which is not adequately covered in the specific points of the
+questionnaire or a narrative explanation of your sighting.
+
+| For a period of some miles, along the hirchway there were cars
+
+parked along the side of the road looking at the sky.
+.%

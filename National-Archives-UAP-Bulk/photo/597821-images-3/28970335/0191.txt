@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T11:43:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4599119, "source_ctime_ns": 1793378976391112318, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970335/0191.jpg", "source_mtime_ns": 1785700782000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970335/0191.jpg", "source_sha256": "99adf0073d97374306dd5cdaf66fdb32857fe8445833355020e535131181b9cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 520, "chars": 3594, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+> ge har at intervals of 2°C, and run diagona'ly upward from fight to le Tee Ory Adadets *
+‘ T for the overlap portion of the pressure range are l)S+\rt wh tee (Pd ewaes (Mee below.)
+€. 15.5 am SATURATION ADIABATS are the curved green ines that ptecnect the [2 eb ise
+/ f i ai bar at intervals of 2°C, diverging upward and lending to bectome paratel te the dry
+: ts ; , ‘ , ‘}+-50 adiabats 4
+. oy te, Q af SATURATION MIXING RATIO (in gm. per he.) a represented by dested greea tines.
+vA 9 | 70 | 15.0 4 Their values appear between the 1050 and 1000 mb. fines
+: sewer | CS GCL rae ToCaw eRe CSUN ERSROCUNERER NOBORU OD meee pr 4 +49
+é 26 : 27 28 | af THICKNESS (in hundreds of geopotential feet and meters) of tae tepers 1000 700,
+sy | 1000-590. 700-500, 509-300, 300-200, 200-150, 150 100 100 90. ead S835 ah is tepre:
+» 4-48 sented by numbers and a graduation along the middie of each leper The thicknesses
+\ 14.5 are obtained from the virtual temperature curve by the equal area muetand eseng any
+/s ‘Laz straight line as a dividing line.
+Fa) + HEIGHT in geopotential feet or meters above mean sea level, of gteteps terel, of
+haa j 150 155 160 $ the 1000 mb. surface is obtained from the nomogram in the upper feM heed conser by
+: pipet gai pt sep tt al ky it pl tt ti oe eee | af es eae Ye nao © Hea , 1404-46 drawing a straight line from the temperature scale (°F) ot ("C) thro the pot ’,
+3 i . es E (mean sea level or station pressure) on the pressure scale, and reading height ea the
+, 4 4-45 ipprepriate height scale
+50 ( )
+| 13.5 + ICAO STANDARD ATMOSPHERE SOUNDING is indicated by a thich Broan fae
+os ae The saturated adiabats and isopleths of saturation mixing ralie are compoted by -
+9 yo use of vapor pressure over a plane water surface at all temperatures.
+-43 Extension of chart to 25 mb. has been accomplished by overlap with presyure mdi
+13.0- cated in brackets [100] at 400 mb, and [25] at 100 mb. Dry adiabats for the evertep
+m : ] are labeled in parentheses( ).
+i. ~42 . t
+inti es wat Oh Sao es OS ve Lyre Jott pot | ih Bn Be Ream Peay wa] 4 APPROXIMATE VIRTUAL TEMPERATURE may be obtained from the formula Wet
+2 a . . x
+\ : ire ~ 20 y 21 "i where Ty is virtual temperature in °C, T is free air temperature in °C, and w is mixing ©
+; “a ; ° y 12.5—-41 atio in grams/kilogram. For purposes of thickness computation, use the mean tem
+"d p “oO Tr perature of the layer for T and use the mean mixing ratio of the layer for w.
+a , ‘ A ; 4 + 4-40 Biack dots ealong wind scale fine indicate the levels for which wind dint tpited
+cy } and plotted “The open circles O indicate the mandatory pressure levels at which ~
+K ote , 20-7 data ts also entered
+fo SZ d +39
+: ~ me Se ; ; 7p 200 ~ ? fe ¢ 5 ALL heights used in this diagram are in geopotential feet and meters.
+/. | So | -
+y ae 4-38
+Fa Aes oS . eer
+> > Ww
+» é C O i
+ne Past \ * : \ PA ni aD Saad
+{> : y e M4 f i }
+a ae * ais, V cS a
+; J JA Se + SKEW T - LOG P ANALYSIS
+feo r' 4 * WwW +35
+95 100 160} \y ‘
+anf) wo ytd tli) iy Wit roenw Seenrama iid ie tee musty spl, revev erin : ‘ > 4 5 ‘ase lu TIME TIME:
+=f * 5 , eo 29 . 30 ; ; . 250 Ke c ° = 5 +34 3 AIRMASS ANALYS!S
+NZ Ne oe eee / \ ; Vo x it \ wo & 4 oO TYPE
+oe 0 / a re) Le} ROUNDARY ~~ FT. Pome sao rT.
+» a ft > " 10 0- 33 a TrYypr ,
+' O \ ak O + 7 NOUNDARY — FT. vi as FT.
+78) < Z ee 4 TYPR
+> : > a ft -—32 fi
+\ aP4 : } | } Ate , 2 4 6‘ " 5 PREETING
+pet 4 ek sae es a hn Wf fe a ai O 2) T O Lavekiss
+; 50 51 52 & = eo 95-14, 2 “EVE
+/ ‘ , > Ps ae cc, INVERSIONS
+: a :| \\ re r FRONTAL
+eo | . a Pa ;
+i Sea's \\—_& < “30 RADIA TION
+! a 3:0 SuUnSIDENCE aalin
+; } ) alte te

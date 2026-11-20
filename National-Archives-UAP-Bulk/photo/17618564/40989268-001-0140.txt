@@ -1,0 +1,110 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:07:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18998554, "source_ctime_ns": 1793355703654159522, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0140.jpg", "source_mtime_ns": 1785564506000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0140.jpg", "source_sha256": "51f7225c22a3e92a2655b7031113ba195943dfc11f77d1fc7bbda3a57e3dc835"}
+
+===== PAGE 1 =====
+{"alpha_words": 882, "chars": 5956, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+The two circled observations were Dr. David Murcray's (University of Denver) in
+May 1963, for Holloman AFB, N. M. (Murcray, 1964). The first, at an altitude
+of 69,000 feet was derived by making two observations approximately one km apart.
+The difference between the two readings can be assumed to be the water vapor
+present in the one-km layer. For such a determination, the effect of contamination
+becomes negligible. As long as the contamination is the same at both levels, the pre-
+cipitable water, averaged for the layer, will be free of contamination.
+
+Another of Murcray's observations was made at the top of the sounding, at
+float altitude, represented by the other circle at 103,000 feet. Such observations
+are very difficult to interpret. Contamination may be important and only the amount
+of moisture above the sensor is measured; there is no indication as to the distri-
+bution of this moisture. If the assumption is made that this water vapor is evenly
+distributed up to, say, 50 km where the total pressure is more than an order of
+magnitude lower, the total water content in terms of precipitable water can be
+converted into an average mixing ratio between the assumed pressure levels. This
+average mixing ratio can then be used to determine a ''pseudo frost-point tempera-
+ture" for a given altitude. Using this process, Murcray's observation of 10 microns
+of precipitable water above 103,000 feet produces a pseudo frost point of -73°C.
+
+In an experiment to determine the amount of water vapor in atmosphere of
+Venus, Dr. John Strong, Johns Hopkins University, (AFCRL-supported) observed
+98 of-precipitable water in the sampled path between his sensor and Venus. By
+using a Doppler-shift analysis between Venus and the sun, Su of this precipitable
+water was determined to be present in the earth's atmosphere above the sensor,
+
+positioned at 87,500 feet. This value reduces to a frost point of -T6°C, at 87, 500
+
+feet, the triangular point in Figure 2.
+
+In May 1964, Dr. David M. Gates, National Bureau of Standards, conducted
+
+stratospheric humidity soundings from Palestine, Texas, using a high-resolution
+
+infrared spectrometer (Gates, 1964). After analyzing the data, Dr. Gates thought
+
+the spectra were partially contaminated. He obtained 3u. of precipitable water above
+
+90,000 feet, which reduces to a frost point of -80°C at that altitude, the boxed
+point in Figure 2.
+
+The proponents of the dry sky theory have cited the quality of their instruments,
+
+the design of their packages and the care and skill in preventing moisture contam-
+
+ination during launch and flight. Since the amount of water vapor to be measured
+
+is so small, the spectre of moisture contamination is a real one. Poorly designed
+
+packages and sloppy operating procedures can very well yield measurements of
+outgassed moisture which was carried aloft by the balloon and package, instead
+of moisture present in the ambient air.
+
+This contamination problem is now being examined through a special series
+of AFCRL flights designed to determine to what extent package design and flight
+
+profiles contribute to moisture observed (Ballinger, Fricke and Murphy, 1964).
+Measurements of atmospheric moisture will be made from various balloon and
+instrumentation configurations. One instrument package will be placed above the
+balloon, another on the load-bar directly below the balloon and a third on a line
+2,000 feet below the balloon. The first of these flights is scheduled for November
+of this year. The ultimate test will be a comparison of data from the three posi-
+tions of the instrument packages flown simultaneously. These instruments will be
+
+calibrated in the-stratospheric moisture simulator.
+
+4. AFCRL STRATOSPHERIC HUMIDITY EXPERIMENTS
+
+The major AFCRL stratospheric humidity effort will consist of a series of
+95 vertical and five horizontal balloon flights. These will be launched at Chico,
+California. Beginning in December 1964 two vertical soundings will be launched
+each month for a period of a year. Figure 3 presents the proposed flight profile.
+The vertical flights will use a 500, 000-cubic-foot, 1.5-mil nolyethylene, valving-
+controlled balloons to carry the payload of 450 pounds to 100, 000 feet. Both as-
+cent and descent rate will be less than 400 ft/min, with primary emphasis placed
+on the data obtained-on descent. The slow ascent and descent rates are necessary
+to allow sufficient time for the instrument to respond to the very slow mass trans-
+fer rates of water vapor illustrated by Ballinger, Koehler, Fricke and Murphy.
+Tracking and’ recovery skill of the balloon technicians will be critical since the
+five sets of equipment will be reused to accomplish the 25 vertical flights. All
+data will be recorded on-board. Every effort will be carried out to minimize
+moisture contamination. (See Figure 4.) All components open to the atmosphere
+will be Made of nonabsorbing materials. Ballast will be baked and sealed.
+Closed components, not necessary for sampling, will be hermetically sealed.
+Nylon rope will be used for reeling outa line which will lower the sensor oe
+2,000 feet below the balloon for the vertical soundings. Helium, used for inflating
+the balloon will be as contaminant-free as possible.
+
+The effort will also include instrumented horizontal flights of several sana
+duration, a unique concept in sounding the stratosphere. The horizontal itt
+profile is shown in Figure 5. Horizontal flights of 500,000-cubic-foot, '2-mil,
+
+h
+zero-pressure vehicles will carry a 1000-pound payload. ‘They will carry the
+
+same type of sensor equipment as the vertical flights and will be floated for 1
+
+to 12 days at a nominal altitude of 75, 000 feet. Data will be gathered over
+
+a hay : d
+thousands of miles while the platform passes over a spectrum of mid latitude
+
+i i hours
+tropospheric weather systems. Observations will be telemetered every two ho
+
+through the FCC network. No payload recoveryis anticipated. Observations of

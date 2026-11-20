@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T11:37:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3434901, "source_ctime_ns": 1793384207109773447, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989485/0713.jpg", "source_mtime_ns": 1785748087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989485/0713.jpg", "source_sha256": "325c10e3aed899a0a3a2af67c7a6e79803900b4a41f8c2aa9ee5d471246850ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 122, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(6) NONEe
+
+He
+
+Ie
+Je
+Ke
+Le
+
+BT
+
+NONE.
+N/As
+NONE.
+NO COMMENT, PERSON SOUNDS RELIABLE-
+
+NONE. -
+
+32/2341Z SEP RJWFAM
+
+NNNN

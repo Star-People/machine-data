@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:13:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 833794, "source_ctime_ns": 1793391609384175171, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560133/0562.jp2", "source_mtime_ns": 1785808110000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560133/0562.jp2", "source_sha256": "5d831a681b4ceda1a7483b2308761e231ead715b91b4dc982138a98faece9fae"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 447, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| uncassinieD |
+
+DEPARTRERT CF THE Ala FORCE
+STAPF DAEASAGE CRAMCH
+
+AF IN : 64595 (3 Feb 67) Peo OF 5
+2677. PSS! GE CAUSE O THIS SIGHTING DETERMINED TO BE
+MISSILE LaUNCH IN ITEM "J.
+
+j ADDITIONAL REMARKS:
+
+A PHOTORR 24 GO THE SIGHTING WAS OBTAINED BY THE BAKER-
+
+PAGE 5 RUYMFYA3351 UNCLAS
+
+NUNN CAMERA AT SAND ISLAND ( JGHNSTON ISLAND). COPIES
+ARE BEING PROVIDED TO DR CQNDGN AT THE UNIVERSITY OF
+
+RT
+wi
+
+NANCZ
+
+AFHO snes O-309C : UNCLASSIFIED |

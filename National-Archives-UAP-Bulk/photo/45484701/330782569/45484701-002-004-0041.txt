@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:03:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9243064, "source_ctime_ns": 1793362276142695767, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0041.jpg", "source_mtime_ns": 1785685171000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0041.jpg", "source_sha256": "d1edc08a3a0a361da8f5e4e96160ba8a392f629418c80e69fa7a7574420c5ac7"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 384, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DISTRICT OFF ICH WO. 11, TINMRR ATR PORCH BASE, OXLAHOMA CITY, CELAHGMA
+AT OKLAHOMA CITY, OKLAHOMA
+
+Will eheck records at the Office of 2069%h Air Wing, Tinker AFB, to
+determine flight course ef four (4) Rewinseade Balloons which were released
+from Griffiss Af, Rome, Now York on 11 May 1949, one each at 0400, 1000,
+1600, aad 2260 hours, 2sT.
+
+Declassification Authority: NND 923007

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T11:41:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4071605, "source_ctime_ns": 1793377954334289201, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966149/0828.jpg", "source_mtime_ns": 1785696605000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966149/0828.jpg", "source_sha256": "41f7a9cd94c57a1cba63692fa50dcd816a33c1f040320aaa3f3bb15affc9d69c"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 358, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+:
+
+woe) ee Oe een eee Lee +) er ee EE ree
+
+ww yur "520° DEG 22 KT
+Lo,wee' -273 DEG 20 KT
+aigvOe "ASTI DEC
+iu,00" -273 DEG 35 KT
+54,400' 272 DEG 35 KT
+S4gd0e' 252 DEC 13@ KT
+
+CC) UNL
+
+(D) 12
+
+CE) LESS THAT S/N
+
+(F) TSTMS N/E QUAD
+ze TSTMS AT ILG BETW 21200-23005
+>» NO ACTICN
+JUPM NC KNOWN
+
+ide WILLIA’ &. ANDERSON CAPT USAF
+
+Lee UVa
+BS I
+L2/e S592 L RJEDLS

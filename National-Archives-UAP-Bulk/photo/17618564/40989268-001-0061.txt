@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:06:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14980583, "source_ctime_ns": 1793355622819861290, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0061.jpg", "source_mtime_ns": 1785564491000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0061.jpg", "source_sha256": "58d48cee41138b97e8936f3f61785d63c58016830b91a36090c0993ede8ccc01"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 695, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ST
+DROGUE CHUTE OREO BALLOON
+
+Figure 14, Partially Disassembled Series #106 Unit
+
+igure 12, Launching Unit After Parachute Deployment
+
+Most Sophisticated
+Glass, Composite or
+Spec. Steel Bottle
+
+High Strength Economical Mild
+Steel Bottle Steel Bottle
+
+BA
+LLOON Balloon
+
+Helium
+
+Bottle
+
+PAYLOAD
+Parachute
+
+Drague
+
+BALLOON SEPARATION
+PROTECTIVE COVER MECHANISM
+Fairing
+
+Hose
+
+Plumbing, Fittings & Misc.
+
+10 Units:
+
+Estimated Hardware Cost
+Allocated Engineering Cost
+
+Unit Total
+
+100 Units:
+
+Figure 13, P
+. an Estimated Hardware Cost
+achute and Balloon at Separ ation Allocated Engineering Cost
+
+Unit Total
+
+Estimated Hardware Cost
+Allocated Engineering Cost
+
+Unit Total
+
+Comparison of Three Units

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T12:26:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3537759, "source_ctime_ns": 1793386414969002765, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996052/1205.jpg", "source_mtime_ns": 1785747881000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996052/1205.jpg", "source_sha256": "49641a45dcba6196c903e974d16db69f67bd2bbe718751f247712579061f4bbd"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 924, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+7 ef ; 0 Was Balloon
+15 Jan 62 Las Cruces, New Mexico O Probebly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION laa ceri ur adaataa
+o52h F O Was Aircraft
+Local 5 : Cl Ground- Vi sual O Ground-Rodar a Probobly Aircraft
+GMT___13/ 1224 D Air Visual D Air-Intercept Radar O Possibly Aircraft
+O Yes ‘ { Probably AstronomicalMeteor
+1 No Civilian 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9 COURSE O Other
+: O Insufficient Dato for Evalustion
+4 sec one WE GQ Unknown
+10. BRIEF SUMMARY OF SIGHTING 1). COMMENTS
+Greenish-white object emitting sparks. Witness indicated that it was a meteor.
+Traveled on a horizontal path and was Description fits that of a classic "fire
+
+=
+brighter than any planet. ball.” There is no evidence available in
+
+this report which indicates that the
+
+Object was
+
+not a meteor.
+
+ATIC FORM 329 (REV 26 SEP 52)
