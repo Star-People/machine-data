@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T22:51:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 386273, "source_ctime_ns": 1793356258483882609, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0032.jpg", "source_mtime_ns": 1785564652000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0032.jpg", "source_sha256": "659c242072904f60efedae56a98b2b75f3465d00616cb6d85c795d7f3b3bc72d"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 328, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+EVOL
+NAME: MARCEL, JESSE A. SSAN: 194058807
+
+RANK: LTCOL SERVICE #: 90-0753
+
+BRANCH: USAF (RET)
+DATE OF BIRTH: 5/27/07
+
+PLACE OF BIRTH: HOUMA, LA
+
+CAREER FIELD: INTEL OFFICER
+
+ROSWELL DATA: SEE ATTACHED
+
+DECEASED - DATE/PLACE: 6/24/86
+
+LAST KNOWN ADDRESS:
+
+NOTES: NEGATIVE COMMENT ON OPR THAT ENCOMPASSES JUL
+47(ATTACHED).
+
+ID:

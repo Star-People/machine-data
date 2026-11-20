@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T23:07:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3996271, "source_ctime_ns": 1793375749820374321, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957524/0595.jpg", "source_mtime_ns": 1785696620000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957524/0595.jpg", "source_sha256": "059438c138798ef2f647b3e0f45daebd4e36c481851ea8ea27a86a27c350d1eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 788, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+-
+
+PROJECT 10073 RECORD CARD
+
+"ta PBS
+
+ant si
+ere, bright silvery, no erratice
+
+movements. Disappeared behind clouds
+at 20 deg elev. Initial observation at 30 deg
+elevation. Numerous routine phone calls.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+Duration flight and
+balloon observation.
+
+1. DATE 2 LOCATION 12. CONCLUSIONS
+X Was Balloon
+| 9 Feb 54 Bricgeport, Conn Q Probably Balloon
+3. DATE-TIME GROUP a TPE Ge OBSERVATION O Possibly Balloon
+QO Was Aircraft
+emt 09/21 152, () Ain Visual O Air-intereept Radar | 9 Possibly Aircraft
+BS. SOURCE O Was Astronemical
+0 Yes QO Probably Astronomical
+G No etvilian O Possibly Astronomicol
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 12 Other
+4 nena Data for Evaluation
+nown
+21 minutes me not reprted
+RY OF 11. COMMENTS
+
+description indicate

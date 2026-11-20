@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T22:53:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 965857, "source_ctime_ns": 1793389794100748756, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544075/0413.jp2", "source_mtime_ns": 1785808569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544075/0413.jp2", "source_sha256": "048b0069336e12d3c763b1dd25fc20ec05913f91586e395bf1e7f94a4538f890"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 550, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REE Renn Osuntre sr eee a 19° Aug 65
+SESS England
+
+Only
+
+: SE: Information a
+SCURCE: Flying Secor et
+Scu de Nov-Dec 65
+
+Shoreham Cylinder
+
+The Brighton and Hove Argus tclls of a
+sighting, on August 19, by Mr. P.
+Harris of Middle Road, Shorchagy
+“Last Thursday evening at 9.45, [
+observed a huge, shiny, cylindrical
+
+Panied by four smaller, disc ~shaped
+craft, two of which were lighted on
+top. The smaller objects moved
+north one by one and disappeared.
+
+about 10 minutes before it too moved
+slowly northwards and vanished.”
+
+(Credit: Mrs. 1. Ross)

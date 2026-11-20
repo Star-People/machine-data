@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T22:30:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11059794, "source_ctime_ns": 1793358954634852894, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-081-0001.tif", "source_mtime_ns": 1785681276000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-081-0001.tif", "source_sha256": "512b7d646d8bef5a3d23c86faefbf0d207b3c9fef0c7f657858e53b89cefa100"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 736, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+h602D AISS UFOB LOG
+
+| REPORT NO. , DATE/TIME OF SIGHTING : rene 1.602D
+AISS-UPOR=379—55 25/02072 Ock 55 a 25 Oct 55
+-IoCATION-OF SIGHTING _ LOGGED BY
+| Marshalltowm, Towa 7 : 8/set DeRudder
+-HEANS RECD ACTION
+TT Msg No investigation eutder ined
+INVES UNIT DATE INVES ASSIGNED 7 ASSICNING OFFICER
+oH/A | N/A N/A
+DATE IR RECD HQ | DATE TR APPROVED DATE IR TO ATIC
+n/a N/A | N/A
+“DATE OF FORM 5 ;
+S$ October 1955 : -
+
+. COMMENTS
+
+A check with COC Weabher indicated that amy balloons launched from
+Minneapolis would nave drifted over this lecation. Launch times at
+Mpls are not available to this analyst. The description is that of
+a balloon.
+
+CONCLUSIONS
+
+POSSIBLY SALLOCN
+
+ATSOP FORM 7 €2 APR 55)

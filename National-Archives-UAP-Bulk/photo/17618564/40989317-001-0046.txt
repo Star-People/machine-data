@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T22:57:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1544031, "source_ctime_ns": 1793356318656958576, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0046.jpg", "source_mtime_ns": 1785564672000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0046.jpg", "source_sha256": "c874e393b2981ecfe30b1d262ff7970abd56b1604d13c9bbebdc2e311999c8b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 312, "chars": 2056, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2 November 1945,
+
+MEMORANDUM FOR GENERAL CARL SPAATZ
+
+e ,
+
+SUBJECT: Atmospheric Sound Axis
+
+1. The attached correspondence was handed to me personally
+by Brig. General W. E. Todd for comment and recommendation directly to
+General Spaatz.
+
+2. From study of the attached, it is concluded that Mr. Hwing
+has a firm scientific basis for his belief that a "sound axis" exists
+in the atmosphere. The general idea presented is not new to aerologists
+who concede a lower boundary of such an axis. The existance of an upper
+refracting layer, however, many require proof by experiment.
+
+3. There is a large literature in existance in the United States
+which bears directly on the problem but is widely scattered. There is
+evidence that the Germans have made recent elaborate studies whichalone
+may confirm or refute tir. Ewing's assumptions.
+
+4. If wr. Ewing is correct in his belief, the existance of an
+atmospheric sound axis is of great military importance; and in view of this
+importance and the data tending to support ur. dwing's belief, the subject
+should be examined by the army Air Forces.
+
+5. It is believed that experiments are premature at this time,
+but that an effort should be made to collect and correlate all existing
+data necessary to prove or disapprove the idea. After study of existing
+information a program of experimental procedure can be devised; and, if
+findings warrant, an experimental equipment program should be established
+at the same time.
+
+6. It is recommended, therefore, that the Air Technical Service
+Command be directed to establish a project and appoint a project officer
+to conduct a research of United States and foreign information pertaining
+to ir. Hwing's proposal. And it is recommended further, that should the
+outcome of this research prove favorable an experimental project be established
+both to determine the characteristics of the atmospheric sound axis and
+to devise equipment for the military utilization of this phenomenon.
+
+For the Commanding General, Army Air Forces: -
+
+R. C. WILSON
+Incl. : Colonel, Air Corps

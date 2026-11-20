@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T23:06:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3959616, "source_ctime_ns": 1793380625039529416, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0499.jpg", "source_mtime_ns": 1785701062000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0499.jpg", "source_sha256": "5d0e6b05cd8d2565b249152ff1e514b3dc403241b2b07034092029e65703a933"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 648, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5 March 1953
+
+Dear Mx. Qi
+
+This is to acknowledge your letter of
+15 February concerning an unidentified flying
+object in Naples, Italy.
+
+The U. S. Air Force has received no report
+on this sighting or incident.
+
+fhe United Press carried a news item on or
+about 12 February 1953 stating a military type
+rocket inadvertently placed in an incinerator
+hed caused @ mysterious explosion in Neples,
+and it caused much excitement until military
+authorities explained the mishap.
+
+Sincerely,
+
+LAWRENCE J. TACKER
+
+Major, USAF
+
+Executive Officex
+
+Public Information Division
+Office of Information Services
+
+COMEBACK-SAFIS-3
+READER-SAPIS-1
+S
+
+TAYBACK-SAFTS-3

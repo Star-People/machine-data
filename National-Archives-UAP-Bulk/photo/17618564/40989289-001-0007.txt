@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T22:53:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 907128, "source_ctime_ns": 1793355913944205034, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989289-001-0007.jpg", "source_mtime_ns": 1785564557000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989289-001-0007.jpg", "source_sha256": "2ef597890c0a9be5de104d6700187ce2440d7b92a3e5ba51fbe76c4651732566"}
+
+===== PAGE 1 =====
+{"alpha_words": 187, "chars": 1231, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HOLLOMAN-WHITE SANDS COMPLEX: INTEGRATION
+
+Immediately after the removal of the United States Air
+Force's guided missile program from Wendover Field, Utah to
+Holloman Air Force Base, New Mexico in March 19:7, the problem
+of conflicts with a similar program being conducted by the
+Ordnance Department of the Army at the adjacent White Sands
+Proving Ground was anticipated. The need for the coordination
+of firing schedules and testing instrumentation to secure the
+most efficient use of the combined Holloman-White Sands range
+was acknowledged the following July in a memorandum prepared
+by the respective commanding officers of the two establish
+mentse
+
+In their proposal, the commanders suggested the com-=
+bination of the two ranges into the New Mexico Guided Missiles
+Test Range which, although under the direction of a board com-
+posed of the local commanding officers, would be used by all
+branches or agencies of the National Militery Hetebiistinent,”
+The chief function of the board would be to coordinate "the
+mutual use of all facilities and areas in the New Mexico
+Guided Missiles Test Range," each command, however, maintain-
+ing responsibility "for administering real estate matters of
+
+the land under their command,"

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T22:53:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 871945, "source_ctime_ns": 1793355829790837544, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0050.jpg", "source_mtime_ns": 1785564535000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0050.jpg", "source_sha256": "dda4de7b8a5bbcdcb36cc7e07e886414c363cdc2149dd27a155c556a7bf2a8e3"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 922, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON, DC
+
+6 June 1995
+
+MEMORANDUM FOR PRESENTATION ASSISTANCE
+FROM: SAF/AAZD
+SUBJECT: REQUEST FOR DUPLICATION OF AUDIO TAPES
+
+Duplication of the attached interviews on audio cassette is requested. Each tape is marked
+with the interviewee’s name. All interviews were conducted by 1st Lt James McAndrew. The
+transcripts of these tapes will be used in an official report to SAF/AA.
+
+Name Place Date
+
+1. William C. Kaufman, LtCol, USAF (Ret) Woodinville, WA 5/24/95
+2. Charles A. Coltman, Col , USAF (Ret) San Antonio, TX 5/25/95
+3. Dan D. Fulgham, Col, USAF (Ret) San Antonio, TX 5/25/95
+4. Bernard D. Gildenberg Alamogordo, NM 5/28/95
+5. Ole Jorgenson, MSgt, USAF (Ret) Alamogordo, NM 5/28/95
+6. Roland L. Lutz, CMSgt, USAF, (Ret) Mary Esther, FL 5/31/95
+
+JAMES McANDREW, Ist Lt, USAFR
+SAF/AAZD Declas and Review Officer
+
+Attachment:
+8 audio cassettes
