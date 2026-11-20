@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T09:10:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16832531, "source_ctime_ns": 1793355552704398927, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0138.jpg", "source_mtime_ns": 1785564476000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0138.jpg", "source_sha256": "d0bd930e6e6cd4db38586f297985d83ddbb6f90d2b9e6f84745673610836e0b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 355, "chars": 2471, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+telescope mounting and stabilization system. The Naval Ordnance Test Station
+furnished a scientific assistant and technical assistance in the design and con-
+struction of instruments to Dearborn Observatory. Wright-Patterson Air Force
+Base was responsible for the gondola and its fittings and the high altitude in-
+doctrination of the observer. The R&D test branch of AFCRL was responsible
+
+for the launching at Holloman AFB, New Mexico,
+
+1.1 Telescope
+
+The telescope was a Cassegrain reflector. The primary mirror was 12 inches
+in diameter and the effective focal length was approximately 120 inches. The
+Cassegrain secondary mirror support system was designed and built by Ferson
+Optical Company. By a combination of Invar and aluminum components the focal
+point was held to within + 0.001 inch over a temperature range of eo0"C) to
+HT AT ai
+
+A complete description of the telescope mounting and stabilization system is
+
+not a purpose of this paper. However, some discussion of its tracking limits is
+
+appropriate. The basic platform was gyro-stabilized to several minutes of arc : sigh 1, alate cam ‘Cyan
+
+with a two-gimbal system (elevation and train). Additional tracking to one minute
+of arc or better was accomplished by a star tracker.
+
+A mirror was mounted under the main telescope. Its rotation in elevation
+was synchronized with motion of the main telescope so that light from the direction
+in which the telescope was pointed was directed through a porthole in the top of the
+gondola to the observer via an ''optical link'’. This optical link consisted of an
+objective, relay lenses, and a wide-angle eyepiece. The field at the eyepiece was
+approximately 10°,
+
+Figure 1 shows the telescope mounted on the gondola.
+
+1.2 Design of Experiments
+
+Scintillation, seeing, and interference by absorption of light by water vapor
+were to be studied by a photoelectric photometer, motion picture camera and
+infrared photometer, respectively. The above instruments were housed ina
+compartment mounted on the back of the telescope (see Fig. 1). They were
+mounted on a plate which was rotated to position the particular instrument in the
+focal plane of the telescope. Figure 2 shows the configuration of the experiments.
+
+Figure 3 is a block diagram of the experiments and associated circuitry.
+Figure 1. Telescope Mounted on Gondola. Forward Portion of Telescope, A.
+
+Experiment Compartment, B. Star Tracker, C. Stabilization Electronics
+Package, D.. Base of Mounting, E.

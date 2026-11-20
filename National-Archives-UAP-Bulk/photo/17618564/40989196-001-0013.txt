@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T09:08:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10641312, "source_ctime_ns": 1793354337121313425, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989196-001-0013.jpg", "source_mtime_ns": 1785564267000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989196-001-0013.jpg", "source_sha256": "7e833307ea931074174b4b72bdc4114ae157d440ad398b94c853547abc687cd8"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 20, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+‘
+
+iy)
+MA
+
+men
+
+ny

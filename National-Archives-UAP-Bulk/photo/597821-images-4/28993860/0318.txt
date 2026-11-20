@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T09:01:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8365856, "source_ctime_ns": 1793385656545027299, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993860/0318.jpg", "source_mtime_ns": 1785747911000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993860/0318.jpg", "source_sha256": "b62aa3ec3565834837be1eed931ad4291c2b341936feb4102ac02c3d9fe83af1"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 113, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+This is a small stvatch of tha object sichted, |
+
+It looked very much like a comet with en
+unusnaliy wide tail,

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T08:55:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6294198, "source_ctime_ns": 1793363744237634076, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0170.jpg", "source_mtime_ns": 1785684866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0170.jpg", "source_sha256": "ded6ce54dc9c061b31a62243472fd5672e278ffa9ee5f1f93223a0483eb10c4d"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 205, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OBJECT DISAPPEARED
+UNDER PLANE
+
+__ DisTance Estimated
+OBdECcT FIRnsT . To BE 2o0'
+SIGHTED ON
+TAKE-OFF
+
+SAW One
+4 BRIGHT LIanT
+
+SL BuinkEo LIGHT>
+
+APPROX * Times
+
+y=
+
+Declassification Authority: NND 923007

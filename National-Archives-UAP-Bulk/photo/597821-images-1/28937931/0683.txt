@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T08:42:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3703789, "source_ctime_ns": 1793371368601213436, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937931/0683.jpg", "source_mtime_ns": 1785688627000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937931/0683.jpg", "source_sha256": "f182d51870cc54bdb7803f7ba6b00674c59896a8ce44ae68fceb5d75f9cfbbd9"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 467, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQU:.RTES THIRD ARIY
+Fort lickhorson, Georgia
+
+AJACT=3 560235 27 June 1950
+
+SUBJECT: Unconventional Object in Air
+
+TOs Commanding General
+Air Liateriel Command
+Wright-Patterson Air Force Base
+Dayton, Ohio
+
+Attention: HCI (Control No. A-1917)
+
+Inclosed herewith is information re flying objects sighted in
+Tuscaloosa, Alabamae
+
+FOR THE COLMANDING GHYERAL:
+
+\ My y00.p
+
+1 Incls JOHN MEADE
+S/I dtd 23 Jun 50, Colonel, GSC
+subje "Unconventiona AC of S, Gu2
+Aircraft"

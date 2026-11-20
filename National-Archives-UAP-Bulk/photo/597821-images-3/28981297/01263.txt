@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T08:51:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5524057, "source_ctime_ns": 1793381694125836747, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981297/01263.jpg", "source_mtime_ns": 1785700722000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981297/01263.jpg", "source_sha256": "b95851e584db9c113fea0855b6b43a69e3f4caf95b87ef4353dab4515e93d90c"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 713, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+is mt ne Me Late ademas Me Nee Nadella slam at
+\
+PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12. CONCLUSIONS
+0 Was Balloon
+‘0 December 1S Lier avado Hons fabrasky O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION Bi POs eleiv an een
+: <, 0 Was Aircraft
+Local - ae G Ground- Vi sual 0 Ground-Radar Gh Prabeuly Alverat
+GMT At/ VV a4 © Air- Visuol O Air-Intercept Radar 0 Possibly Aircraft
+5. PHOTOS 6. SOURCE ik Was Astronomical _ |
+QO Yes O Probobly Astronomical
+=) No 1) ad Ee ee vata ry O Possibly Astronomical
+7. LENGTH OF CSSERVATION 8. NUMBER OF OBJECTS | 9 COURSE O Other : 3
+0 Insufficient Data for Evaluation
+D Unknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+ATIC FORM 329 (REV 26 SEP 52)

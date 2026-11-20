@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T09:10:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16103836, "source_ctime_ns": 1793355581651006370, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0020.jpg", "source_mtime_ns": 1785564483000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0020.jpg", "source_sha256": "f22e18bf46e9f4babd8b9b01b9dac36f1b0142f67fe8e091fe1e04b9a45c449a"}
+
+===== PAGE 1 =====
+{"alpha_words": 607, "chars": 4012, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+The various drag coefficients used in these calculations have been derived
+from analysis of flights to altitudes of up to 15,000 feet (and to 50,000 feet for the
+ascent rate observations with free balloons). They are at least plausible when
+compared with theoretical calculations and the limited experimental data obtained
+elsewhere, and there is no evident reason for doubting their applicability at higher
+altitudes. The empirical drag coefficients for the balloon, 0.7 to 0.8 lateral and
+1.2 to 1.6 vertical, lie between the values for a smooth sphere (0.5) and a circular
+flat plate (2.0); the higher figure for vertical drag evidently results from the
+observed flattening of the balloon crown at high ascent rates.
+
+The assumed tether drag coefficient of 1.2 is somewhat more complex. Strictly
+speaking, one should consider an element of the tether as an inclined cylinder
+subject to normal and parallel drag forces as well as lift, and three coefficients
+should be employed. It appears, however, that by using a single drag coefficient
+and utilizing the total flat plate area (not just the component normal to the wind)
+of the tether, a reasonable approximation to the actual forces on the tether can be
+obtained, permitting a great simplication of the calculations. The drag coefficient
+thus determined falls in the range 1.1 - 1.3. Parallel (skin) drag is found to be
+negligible except at high tether inclination angles, which in the normal TABS con-
+figuration occur only near the ground. Lift forces, which will be negative and thus
+equivalent to an excess tether weight, are significant principally at intermediate
+angles. These also are encountered at relatively low altitudes. Normal drag co-
+efficients, based on Reynolds' number calculations for the prevailing velocities
+and tether dimensions, range from 2.0 at 10 ft/sec at 80,000 feet, to 1.1 at 10 ft/sec
+and 0.8 at 50 ft/sec at the ground (at 1 ft/sec at 80,000 ft the coefficient can reach
+a value of 6, but the drag force at such a low velocity and atmospheric density is
+negligible). The assumption of a drag coefficient of 1.2 applied to the total pro-
+jected area of the tether results generally in a moderate overestimation of the tether
+drag force. This offsets the effect of neglecting lift forces upon the derived values
+of 6 at intermediate altitudes, and somewhat overestimates the tether tension.
+Similarly, near the ground the calculated drag is considerably in excess of the
+
+actual normal drag, which probably overcompensates for neglect of parallel drag.
+
+The result is a relatively conservative assessment of System capabilities which
+should suffice for the present; actual high-altitude flight data will ultimately pro-
+
+vide more precise information on which a more detailed and accurate analysis can
+be based.
+
+Il. Improvement in Balloon Design
+Through Scale Model Analysis
+
+J. A. Winker
+Raven Industries, Inc.
+Sioux Falls, South Dakota
+
+Abstract
+
+The history of plastic ballooning has been one of ever -increasing semnaes
+for payload and altitude capability. To meet SiG sauna ese hanes cia
+be made either in balloon materials or in design. mu
+ae na been applied to the materials aspect of the problem with gratifying
+ive results. i
+a New Gael concepts are called for which will extend ig sh oatrer actin me
+i i lloon failures occur at mida
+less expensive balloons. Since most ba aparece:
+tresses on partially initiate
+ascent, more must be learned about the sti 5 rs ca
+insti tigate the configurations
+A scale model study has been instituted to inves ; fang cae
+i iti iti been aimed at establishing m
+stresses for this condition. Initial work has ‘i
+i i designs. A new balloon
+d at comparing different standard balloon sig w battoon
+pelea been toate by this technique and preliminary verification of
+the model data has been made in full-scale flights.
+
+1. INTRODUCTION
+
+Only fifteen years ago it was considered a rather significant achievement
+
+to carry loads of 100 pounds or more to an altitude of 100,000 feet. Since
