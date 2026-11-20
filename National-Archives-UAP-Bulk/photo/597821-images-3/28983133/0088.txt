@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:24:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3827961, "source_ctime_ns": 1793382305933420100, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983133/0088.jpg", "source_mtime_ns": 1785700658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983133/0088.jpg", "source_sha256": "b0069475f85265e45fb9d5b58df3349f29078fac6eb1a4e61f2e4bd925605b89"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 714, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+{/s/
+
+Weed
+
+Request for Information
+
+Mx PP Mira eae ay
+
+City
+
+Oklahoma 6, Okla
+1. Your letter to Capt Wiggins, dated 13 June 1960,
+which requested a copy of the aircraft accident report
+involving the C-118 aircraft that occurred on 1 April
+1959 has been referred to this headquarters for answer.
+
+2. A copy of the accident report cannot be furnished é
+to you. In accordance with applicable directives, this
+document is a privileged report for internal use with-
+
+in the Air Force, and may not be released outside official
+channels,
+
+Sincerely
+
+WILLIAM RUSSLER
+
+WILLIAM RUSSLER Gopies tot. S2Zo fpr We
+Chief, Records & Statistics Division (FWCIS) McChord
+Directorate of Flight & AFB, Wash
+
+Missile Safety Research

@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:33:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3866573, "source_ctime_ns": 1793386459061480069, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996214/1360.jpg", "source_mtime_ns": 1785748392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996214/1360.jpg", "source_sha256": "03ec3967a1d345783a9e3b732105c6c2618ca1f14804de518b1361d9089b9a44"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1284, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+q Ocean Station Delta
+
+UFO ANALYSIS SHEET
+
+DATE __2 February, 1962 LOCATION can Station Delta
+
+a ES.I2N 28.207 Atrantic
+
+. DATE TIME GROUP LOCAL GMT .02/214,52_
+
+: PHOTO YES No No PHYSICAL SPECIMEN YES No _NO_
+SOURCE MILITARY _XX_ CIVILIAN ____ TYPE OF OBSERVATION Ground Visual
+LENGTH OF OBSERVATION ___6-7 Seconds NUMBER OF oBJecTs "° ___ course __S2 _
+SATELLITE: _ IN ORBIT: VERIFY YES: NO: pecay: N/A
+
+ASTRONOMICAL PHENOMENA
+METEOR Possible Meteor
+
+STAR OR PLANET
+OTHER
+aircrart N/A
+pactoon __N/A
+INSUFFICIENT DATA __N/A
+OTHER __N/A
+REFLECTION _______ INVERSION PRESENT ________ PHOTO ANALYSIS
+SUN DOG _________ LENTICULAR CLOUD _______ PHYSICAL SPECIMEN ANALYSIS
+
+BRIEF SUMMARY OF SIGHTING:
+CIRVIS report of object observed just after ECHO I passed. Object was extremely
+bright with a long and bright tail visible through strato cumulus clouds, Object
+observed at 20 deg elevation travelling paralell to horizon gradually downward
+and disappearing at an elevation of 5 degrees. Traveled through a 90 degree arc
+of azimith. Duration 7 seconds,
+
+EVALUATION: CASE CATEGORY: —_Astro (Meteor)
+
+CONCLUSION: -
+
+Colcr not given, other than the object was bright and had a long tail. There is
+noting to indicate that this was anything other tan a meteor sighting.
+
+ppp FORM 0.15 (TD-E2)

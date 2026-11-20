@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:51:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8607488, "source_ctime_ns": 1793381016460448869, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979091/0723.jpg", "source_mtime_ns": 1785700763000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979091/0723.jpg", "source_sha256": "7e63735d79abf4898a0c6376b7c6da44fa7aee0d635d0695f71c94a6be594716"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 863, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2:7 Uta I ne a
+
+EERE RS ENE ENE Cth ERT RET SORRENTO PONTE Tae PPT "mf oa STE CEE AS
+
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+Mt. Holly, New Jersey XX Wes Balloon
+25 Jul 58 Riverside, New Jersey s yee eae
+3. DATE-TIME GROUP ; 4. TYPE OF OBSERVATION hs ai stain
+Lecel %KGround- Vi guel © Ground-Reder 5 bir reraft
+2 ro abl y Aircraft
+OMT 22 952Z-26/0020Z 0 Air Visual O Air-Intercept Radar O Possibly Aircroft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes O Probably Astronomical
+fINe Civilian & Military O Possibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE D Other
+5 + sgl Data for Evaluation
+nown
+25 mins one NW to SE
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Rnd, shiny obj on NW to SE track. There was a balloon actually
+
+observed heading SE at same
+time. Definitely balloon.
+
+ATIC FORM 329 (REV 26 SEP 52)

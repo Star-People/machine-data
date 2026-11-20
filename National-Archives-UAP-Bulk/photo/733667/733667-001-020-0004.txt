@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:22:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2137864, "source_ctime_ns": 1793394240493063519, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-020-0004.jpg", "source_mtime_ns": 1785567342000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-020-0004.jpg", "source_sha256": "c2f9d9815e00c599e44346b12d893fbe6571e1a9ac7686a172a4334ea05da623"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1043, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Q Memorandum
+
+US. Department
+Of Transportation .
+
+Federal Aviation
+Administration
+
+Sublect' INFORMATION: Description of Radar Split Image; Mate: FEB 27 1987
+AAI-5 Memo of 2/5/87
+
+Reply to
+from: Manager, Airway Facilities Division, AAI-400 enn h.
+
+To: Public Affairs Officer, AAI-5
+
+This letter transmits our analysis of the radar targets associated with
+JAL flight 1628, on November 17, 1986, and supplements discussions we have
+had regarding what has been referred to as "split images",
+
+We concur with the interpretation provided to you by the Alaskan Region
+Air Traffic Division.
+
+The attached Analysis of Uncorrelated Primary and Beacon Targets by Dennis
+Simantel covers the subject in more detail, and addresses the questions
+
+Paul, I appreciate the team approach you have taken to more fully
+understand a complex issue. The issue jis an excellent example of how
+"interdependent" we are. If we can provide any more information, please
+do not hesitate to call.
+
+Coe Wine
+
+David F. Morse
+
+Attachment
+
+Lb a34) 2
+
+i |
+
+7
+4
+&
+
+USAISO3Y
+
+~-
+“

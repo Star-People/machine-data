@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:13:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 908479, "source_ctime_ns": 1793388800631667818, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532725/0984.jp2", "source_mtime_ns": 1785808514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532725/0984.jp2", "source_sha256": "0cb28c5d4bcb56eb700dac705c3076889365dc50cad03aea5eec7c65f523c894"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 881, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+wy
+
+- DATE 1 ; 2. LOCATION
+
+1 12. CONCLUSIONS
+8 May 64 Rel Feather Lakes, Colorado A Probably Ball oe
+9. DATE-TIME GROUP 4. TYPE OF OBSERVATION GO. Possibly Balloon
+Local 1030_Loxal #2 Ground-Vi sual O Ground-Radar a Probebly ‘Aiveroft
+cmt__09/ 04302 D Air Visual O Air-Intercept Radar B Possibly Aircratt
+5S. PHOTOS 6. SOURCE QO Was Astronomical
+0 Yes D0 Probably Astronomical
+#1 No civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE % Other__ECHO I
+; 3 Insufficient Dota for Evaluation
+15 minutes one not reported
+10, BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+White star-liek obj round, with gradual At 1030, 8 May 64, local time ECHO I
+decrease in intesity observed overhead in was over Colorado in flight to NE.
+
+Plight fading at 30 deg elevation. Direction
+of flight not included.
+
+ATIC FORM 329 (REV 26 SEP 52)

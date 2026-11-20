@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:13:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 882641, "source_ctime_ns": 1793388826698682131, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533208/1417.jp2", "source_mtime_ns": 1785808269000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533208/1417.jp2", "source_sha256": "e2c198bcebb889afc2dea614b91d4424228cba545291b7c84145b0a1eb2401ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 560, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Resa | 4
+
+MESSAGE” 28 Naot wa a UNCLASSIFIED.
+AF IN: 3325 (30 May 64) M/neg Pg 1 of 2
+INFO : NIN-7, XOP=1, XOPK-4, SAF- 08-3, ARMY-2, CMC-B, JCS-35,
+OSD-15, NSA-7, DIA-15 (98) | ‘4 \
+SMB CO57 : ;
+ZCZCH@B615ZCEUA860 i 3 oe
+00 RUEAHG u ;
+DE RUHLKH 5 3%/1915z.. | git >
+ZNR
+“0 3019132
+
+FM S26AIRDIV KUNIA FACILITY HA
+O RUHLKM/PACAF =
+RUHPHH/COMHAWSEAFRON -
+INFO RUEAHQ/CSAF
+RUECW/CNO.
+RUECW/SECNAV
+RUWGALB/CINCNORAD
+RUHLHQ/CINCPAC
+RUMLHS/CINCUSARPAC
+RUHLHL /C INCPACFLT
+RUAUAZ/COMUSJAPAN
+RUAMC /COMUKOREA
+RUAGFL/COMUSTDC
+RUCSBR/CINCSAC
+
+BT
+
+UNCLAS/326D0-COo g699

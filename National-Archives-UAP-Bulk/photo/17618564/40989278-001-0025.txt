@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:15:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1088145, "source_ctime_ns": 1793355838149719153, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0025.jpg", "source_mtime_ns": 1785564538000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989278-001-0025.jpg", "source_sha256": "ab2ce1bd4563b78f09c672d0067d3ac905ea065de17765db4abd1376164538a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 592, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+05/01/96
+
+WED 13:17 FAX 703 604 5533 SAF/AAZD@CP6 [4001
+
+oY
+
+~
+
+Ba di db ae ae i i ib ie ie ie ibs ib de ie io io is is a
+
+Rak TX REPORT BoE eo
+
+te ak ok ok ak ck ok ok ok ok oR ookak cob ck kok Rok ak
+TRANSMISSION OK
+TX/RX NO 0143
+CONNECTION TEL 944934434
+SUBADDRESS
+CONNECTION ID SAF/AAZD-MXF
+ST. TIME 05/01 13:16
+USAGE T 01°15
+PGS. 2
+RESULT OK
+
+FACSIMILE COVER SHEET
+
+SAF/AAZD (CRYSTAL PLAZA 6 LOCATION)
+
+2221 SOUTH CLARK STREET, SUITE 600, ARLINGTON VA 22202
+
+FAX:
+TELE: __
+
+é
+rrom: CAp ¢ /1 are W
+FAX: 703-604-5533 DSN 664
+TELE: 703-604-4700 DSN 664
+
+sussect: Acciclewt + B..
+
+REMARKS:

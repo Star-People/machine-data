@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:16:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1136357, "source_ctime_ns": 1793394394280842684, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0108.jpg", "source_mtime_ns": 1785567364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0108.jpg", "source_sha256": "571798e7d11f73c3184487b3b71eb341692f802cc2a23963bc84171e07b0fcc4"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 131, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+KK, tL AL cot . iad ce Lege 2
+
+7/7 fo ok A491, UL } ear
+Lge y VMZt @é 7 4 € Ze ve we, wa
+
+V4 Jae,
+
+\Virtarene, J2
+ABFO - XE tt ¢¢

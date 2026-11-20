@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:33:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3906366, "source_ctime_ns": 1793372224668423513, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941933/00053.jpg", "source_mtime_ns": 1785688866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941933/00053.jpg", "source_sha256": "67b7bc04e495cf44df515cd714f4ca75efc5e2c17fe6281b3b83f360e32f51f5"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 141, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE THREE BWDKW 15
+
+DISTANCE FROM STATION 105629 FEET
+ALTITUDE OF BALLOON 87749 FEET
+
+BALLOON BURST TIME 21572 |
+| ---- 22215572 MAY BWDKW

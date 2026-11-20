@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:22:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2845780, "source_ctime_ns": 1793394154680365443, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-003-0014.jpg", "source_mtime_ns": 1785567330000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-003-0014.jpg", "source_sha256": "5cc0f0c7ddb0f14e6bf76f13e173ce9f530ca59622ca4acc17115d5f34537001"}
+
+===== PAGE 1 =====
+{"alpha_words": 295, "chars": 1940, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Subject
+
+From
+
+To
+
+@
+
+US Department
+
+of Transportation
+
+Viemorandum
+
+Federal Aviation
+Administration
+
+FEB 6:07"
+INFORMATION: Release of Incident Information Date. “\)
+JAL1628
+Reply to
+Manager, Air Traffic Division, AAI-500 Attn of
+
+Public Affairs Officer, AAL-5
+
+This is in reply to your letter dated February 2, 1987, on the release of
+accident investigation material, data, and information on JAL1628.
+
+The Air Traffic Division has given a complete air traffic package to the
+Director of Air Traffic Evaluations and Analysis, Harvey B. Safeer, ATS-1;
+and the Manager of Policy and Recommendation Branch, David F. Thomas, ASF-
+120. ATS-1 is responsible on a national level for the investigation of air
+traffic accidents and incidents, and they have a need to know and to have
+copies of information concerning accidents and incidents as soon as
+possible. David Thomas received an AT package because of a congressional
+which he is/was working on, however, a copy was not sent until we had
+coordinated with Alaskan Region Flight Standards.
+
+AAL-1 and AAL-2 had a copy of the tape and prepared a transcript.
+
+AAL-1 sent several pieces of information to Mr. Engen's special assistant,
+and also authorized Major Jim Johnson from Elmendorf AFB to obtain a
+cassette tape recording and a transcript.
+
+A copy of the transcript dated January 6, 1987 was rapid-faxed to ATS-1,
+attention Dick Wise, on January 7, 1987, by AAL-515.
+
+The only other copies, that the Air Traffic Division are aware of, are the
+ones in reply to the Freedom of Information reouests, which are in the
+possession of Ivy Moore, AAL-5, and the copy given to you on January 30,
+1987 in the AT package.
+
+The Air Traffic Division is very cognizant of the policy on release of
+information and does not give investigative data and material out to other
+than need-to-know parties. We have no further control on the handling of
+information after it has been released from our office.
