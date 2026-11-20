@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T20:19:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6959038, "source_ctime_ns": 1793363167386860076, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0154.jpg", "source_mtime_ns": 1785684747000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0154.jpg", "source_sha256": "42e7a15ead40856fe07902b8a1c8d05b0321386c943aaf3d8be13dc78e464c88"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 237, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+
+INCOMING CLASSIFIED MESSAGE
+
+19 JAN 5
+PREVIOUS EDITIONS OF THIS FORM MAY BE USED.
+
+¥% 16—63727-1 U.S, GOVERNMENT PRINTING OFFICE : 195I—O-927444
+
+Declassification Authority: NND 923007

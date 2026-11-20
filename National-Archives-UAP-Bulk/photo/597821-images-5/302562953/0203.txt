@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:57:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1460204, "source_ctime_ns": 1793391964760835524, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562953/0203.jp2", "source_mtime_ns": 1785808118000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562953/0203.jp2", "source_sha256": "cde8deb81330a2d3b4ad79ac0d551974e29989c3606294ad32091bb702629db2"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 501, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+G. Weather and Winds - Aloft Conditions at Time and Place of Sightings:
+
+1. Observer(s) account of weather conditions: scattered clouds, good visibility.
+
+62
+
+7
+
+H. Any Other WJnusual Activity or Condition: None
+
+Report from nearest AWS or U.S. Weather Bureau Office:
+
+N/A
+
+Ceiling:
+
+Visibility:
+
+Amount of cloud cover:
+
+Thunderstorms in area and quadrant in which located:
+
+Vertical temperature gradient:
+
+I. Interception or Identification Action Taken: None
+
+POs ieee eo sa aaa dae cada
+
+_—
+
+a
+
+_—

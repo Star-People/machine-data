@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T20:03:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2826621, "source_ctime_ns": 1793376408350438620, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960543/0465.jpg", "source_mtime_ns": 1785696591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960543/0465.jpg", "source_sha256": "c755ab4c0f1dfd4c0813307ba2f83f1b8d61418d25e79d520886aa2b30c4dc59"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 322, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE FOUR JESYQ 723
+
+96 UNK
+
+11. OPERATIONS OFFICER MAXWELL FLT SVC MAXWELL AFE ALA.
+
+saALLING OBJECT WHICH HIT HOUSE AT SYLACAUGA ALABAMA WAS RECCVERED
+\D EXAMINED BY SPECIAL WEAPONS OFFICE AT MAXWELL AF2 AL REPORTED
+tdaAT GEIGER COUNT ZERO, ULTRA VIOLET NORMAL FLORESENCE, STONE
+
+rPARENTLY SAME AS COMMON EARTH VARIETY

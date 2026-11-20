@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T20:17:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6554942, "source_ctime_ns": 1793361847644919647, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0093.jpg", "source_mtime_ns": 1785685076000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0093.jpg", "source_sha256": "8cf8833cace94f5dcb2ccb10df0881a916a5414e89644a52ccb4e8b13c53922a"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1153, "method": "ocr", "page": 1, "variant": "plain-psm3"}
++ Page 2 i
+~ Guide to Investigation Incident Ne.
+
+17. Trail (color, length, width, persistance, etc.)
+
+Bluish or greenish white; length twice diameter of ball.
+
+Luminosity (visible by reflection, incandescent, other - degree of
+brilliance):
+
+Self-luminous
+Projections (fins, wings, rods, antennae, canopies, etc.):
+
+None
+
+Maneuvers (turns, climbs, dives, etc. - sketch of flight path):
+
+Descending slightly
+
+Manner of disappearance:
+
+w/s
+
+Effect on clouds:
+
+w/s
+
+Additional information concerning object:
+
+None
+
+24.  # Weather conditions and light at time of sightings:
+
+Clear sky, moderate moonlight.
+
+Name and address of observers Pfe Robert Espina, Ree Bill Nanny, 8hS6th
+MP Battalion, Sandia Base, New Mexico
+
+Occupation and hobbies:
+
+Military Police
+
+Comments of Interrogator relative to intelligence and character of observer
+(Check neighbors, police dept., FBI records, employer, ctc.):
+
+Thorough investigation required of all personnel of Sandia Base.
+
+Dig observer wear glasses, especially polaroid glasses at time of sighting,
+or was object viewed through canopy, window, or other transparent material?
+
+Declassification Authority: NND 923007

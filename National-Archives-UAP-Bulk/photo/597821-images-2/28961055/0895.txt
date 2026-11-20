@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T20:07:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4274737, "source_ctime_ns": 1793376519086816974, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961055/0895.jpg", "source_mtime_ns": 1785696761000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961055/0895.jpg", "source_sha256": "b85d95c03659e0c03db804bd582785309ea266c38fec2088f32f585005400ffc"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 836, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+( PROJECT 10073 RECORD CARD
+
+12. CONCLUSIONS
+
+Q Was Balloon
+
+0 Probably Balloon
+O Possibly Balloon
+OG Was Aircraft
+(IMProbably Aircraft
+QO Possibly Aircraft
+
+1. DATE “72. LOCATION
+2. “ee E-TIME GROUP a; TYPE OF Of SERVATION
+Local — Ce ciehiacetee v sKGround- Vi sual O Ground-Radar
+03 /02002
+ae GMT (RRS ee Rie Bee amie oa O Air- Visual — O Air-Intercept Radar
+5. PHOTOS nee ee xpath smuhuesicr dak as a ii
+O Yes
+o fe Civili jan Seen eae
+7. LENGTH OF OBSERVATION rp. NUMBER OF OBJECTS | 9. COURSE
+wt Mantes a BCE Ch ORE ag FE SE to 2
+10, BRIE SUMMARY OF SIGHTING fit. COMMENTS
+Pound. Fuzzy around edges, Turn 2d | A/C
+white to yellow. No sound or trail. |
+Moving owly |
+
+0 Was Astronomical
+O Probably Astronomical
+OD Possibly Astronomical
+
+O , Other__
+O° Insufficient Dara for f
+QO Unknown
+
+Evoluotio on
+
+ATIC FORM 329 (REV 26 SEP 52)

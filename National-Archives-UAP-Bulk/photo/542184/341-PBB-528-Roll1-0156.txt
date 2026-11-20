@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:36:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15617513, "source_ctime_ns": 1793365830931442310, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0156.jpg", "source_mtime_ns": 1785565435000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0156.jpg", "source_sha256": "6e288995119f31bbd542d5596fbb460fb8dc354726c9bf9942fa04d0c1f8dae0"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 153, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+popemmantnaacten
+
+Be
+
+raed
+
+ie! Beall
+
+NON cer nae nN ee ana
+
+cone attain teactS iil ata A eat
+
+ff
+
+eae onnnee RN EIN SHINH
+
+ee ee eee oe
+
+De en ee eee

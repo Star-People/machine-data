@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T20:20:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7280048, "source_ctime_ns": 1793378322185746509, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967600/0644.jpg", "source_mtime_ns": 1785696554000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967600/0644.jpg", "source_sha256": "8e6e0521814b2480500d92a1cb75ac87ca7df1098c5be0f8141491363d3fe6ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 558, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+F, 45 SECONDS
+
+Se
+
+4,
+
+' Se
+
+6
+
+A. GROUND VISUAL
+B. NONE a
+C. N/A
+Ae 19/89162
+
+Be DAWN
+EAST ROCHESTER NEW HAMPSHIRE DP 5918
+A. TELL CONCORD 4-1784
+
+B. T/SCT WQMMMMENMMORSITER AT CONCORD NoH. HOME ADDRESS
+
+ee N.He
+
+Te
+
+A. CLEAR
+B. SURFACE NW DEG 7 KT
+6,608 309 DEG 45 KT
+
+19,993 288 DEG 25 KT
+
+PAGE THREE RJEPDG 2F
+
+16,063 270 DEG 4G KT
+29,062 278 DEG 55 KT
+30,900 270 DEG 60 KT
+59,900 270 DEG 66 KT
+Ef 800 DEG KT
+
+C. SCATTERED
+D. GOOD
+E. 1/12
+F. NONE
+
+8. NONE
+
+9, NONE
+
+if.
+11.
+12.
+BT
+
+N/A
+1/LT SENIOR DIRECTOR PROBABLY A/C LIGHTS
+NONE
+
+19/15G@Z SEP RJEPDG

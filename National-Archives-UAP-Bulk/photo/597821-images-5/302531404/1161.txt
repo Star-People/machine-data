@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:56:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1383202, "source_ctime_ns": 1793388717909501212, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531404/1161.jp2", "source_mtime_ns": 1785808328000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531404/1161.jp2", "source_sha256": "bdb50e40568dc40180fa66ce4adc7abd538a7cb631ed9ecdb54f1adb84d3bdf4"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 422, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘i .
+: DSS RTMENT GF THE AIR FORCE
+Be is Wee ae
+STAFF MESSAGE RANCH
+UNCLASSIFIED MESSAGE
+NNNN
+
+INCOMING
+
+AF IN ;: 19543 (1 Jan 64) pe 2. of 2
+
+l. CLRVIS
+
+2. N143206
+
+3. BRIGHT WHITE HORSESHOE SHAPED TRAIL
+4. 34-08N 175-G0W
+
+5. O1/1430Z
+
+6. ALTITUDE UNKNOWN
+
+7. SOUTHWEST
+
+S. UNKNOWN
+
+9. OBJECT HELD FOR TWO SECONDS.
+NO EVALUATION,
+
+BT
+
+NOTE: ADV CY DEL TO NIN, XOPX AND DIA.
+RETRANSMITTED TO CIA PER AFHQ FORM 1392 #106.

@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T20:18:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6756203, "source_ctime_ns": 1793354580500388636, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0089.jpg", "source_mtime_ns": 1785564308000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0089.jpg", "source_sha256": "27d4005061c5aa4943e8e950449aedbc981505ec8763d039e03b75bcbb09f832"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 220, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Active Federal Comm Sv. 10Dech5 to 31Jul50 Res not on EAD (15 days AD
+during this period).lAug5O to 29Feb52 - Active Federal Comm Sv, J1Mar52
+to 31 May 54 - Res not on EAD (30 days AD during this pd.
+
+7. ge (Continued)

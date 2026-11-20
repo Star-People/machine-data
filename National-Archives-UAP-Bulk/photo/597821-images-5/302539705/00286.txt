@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:54:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1048928, "source_ctime_ns": 1793389376392347667, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539705/00286.jp2", "source_mtime_ns": 1785808060000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539705/00286.jp2", "source_sha256": "cbda6b1fb6cede3a2c3ffa95ef1cfa578beccf4f5ac25c188f5b3e2f9b8a09d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 627, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Memo for the Record:
+
+Wind data was received from Sulpher Grove on the morning of 13 Jul 65 regarding observations
+
+on the night of 12 Jul 65.
+
+At 2020 hours they observed through a telescope a balloon, looked like a
+
+stratosphere balloon, big clear balloon. They said that the satellite tracking
+
+unit there, saw it even after the sun went down and watched it with moonlight.
+
+Their weather ba}loon was launched at 1800 hours and burst at 1925.
+
+WIND DATA
+
+2 ~ 5,000 ‘East
+
+5 - 8,000 NE
+
+8 = 12,000 Coe
+
+14 = 16,000 ENE |
+18 = 20,000 N
+
+23 - 25 ENE
+
+30 - N
+
+35 = 40,000 N
+
+40 ,000 N
+
+45,000 NW j
+60 ,000 NW
+
+70,000 & up West

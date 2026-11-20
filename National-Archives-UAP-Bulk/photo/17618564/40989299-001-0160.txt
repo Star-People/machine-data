@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:52:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 943090, "source_ctime_ns": 1793356036115965300, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0160.jpg", "source_mtime_ns": 1785564589000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0160.jpg", "source_sha256": "38de6791393f4cc4cf4ee3a87f3e54fa30a84014ce755880254eb429ce7c4fe5"}
+
+===== PAGE 1 =====
+{"alpha_words": 218, "chars": 1249, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+The equation for the force due to buoyancy will then become:
+
+Py P, x Xq
+FR: [ete % (Fe +R)
+If the balloon is of the tone that will carry no intemal pressure
+p 3 Po » and we may state that:
+
+Discussions of the contamination of the lifting gas are included under
+the section on "Diffusion and Leakage of Lifting Gas" of this report.
+
+The force due to the weight of the system Fy=W The weight
+of the balloon system at any time is a function of the original
+weight of the system plus the change of weight of the system. This
+change in the weight of the system is caused by the loss of ballast
+and the weight of the ee at any time (t);
+
+Wy = - $ A Wp
++0
+where:
+Wo = the original weight of the system
+
+the sum of all the losses of ballest from
+time at which Wz Wp wntil the time t
+
+M+
+>
+=
+
+The value of the term ZAW, depends on the type of ballast control.
+With no ballast:
+
+2 Aw, = 0 and Wy s Wo
+If a constant ballast flow is used:
+
+saw, = tw
+where: Z4W, dt :
+
+w z rate of ballast flow
+
+t * elapsed time from t=O to ft=t
+
+If a practical fixed opening type or pallast control is used:
+
+where: 2Aw, = f ( t, h, By Pp A )
+t = tim
+
+h = head of ballast above opening
+Pp zs viscosity of ballast fluid
+Pp, s density of ballast fluid
+
+A = area of opening
+
+-60-
