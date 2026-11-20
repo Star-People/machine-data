@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:44:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 364160, "source_ctime_ns": 1793356290742486228, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0167.jpg", "source_mtime_ns": 1785564662000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0167.jpg", "source_sha256": "dada30c4b15c44c91b2526d1fd2feecb7fd3e4235057ae82b28fd3dfd3d08a07"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 304, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NAME: YOAKUM, CECIL T. SSAN:
+
+SERVICE #:
+
+RANK: SSGT
+
+BRANCH: USA (RET)
+
+DATE OF BIRTH: 7/4/09
+
+PLACE OF BIRTH: GOULD, OK
+
+CAREER FIELD: COOK
+
+ROSWELL DATA: SEE ATTACHED
+
+DECEASED - DATE/PLACE: 3/3/74 / ONTARIO, CA
+
+LAST KNOWN ADDRESS:
+
+NOTES: REDUCED IN RANK JUST PRIOR TO RETIREMENT.
+
+ID:
+
+6796626
+
+10

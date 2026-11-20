@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:55:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1743653, "source_ctime_ns": 1793388593802362266, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530133/0026.jp2", "source_mtime_ns": 1785808035000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530133/0026.jp2", "source_sha256": "f9446b3185afe1d4b6e230fe087961fbb77b022e82b029233ffb7d20a7516430"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 677, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+20 August 1963
+W BAS
+Elko, Nevada
+Statement on celestial movement sighted from this station:
+
+This morning, 20 August 1963, while taking a pilot balloon
+
+Sounding I observed through the thecdolite an object moving
+trom north to south. Except for its steady movement it could
+not ve distinguished from one of the brighter stars.
+
+I stopped movement of the theodolite twice to be sure of
+no illusion from this source,
+
+The object was in sight from one to two minutes, altnough
+i% could have been followed for a much longer time but for the
+balloon tracking.
+
+time was between 0403 and 0406 ph elevation angle
+36 degrees, azimuth 233 to 238, from Elko airport.
+Sn) 3 3 £
+
+ae
+ee:

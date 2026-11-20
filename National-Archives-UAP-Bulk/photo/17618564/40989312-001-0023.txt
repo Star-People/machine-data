@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:51:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1414019, "source_ctime_ns": 1793356277021333043, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0023.jpg", "source_mtime_ns": 1785564658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0023.jpg", "source_sha256": "b2835f7b7b8c3da46cf2222a657ebb08a8f4c3c6e23972ec9ab1fb7a03c44b78"}
+
+===== PAGE 1 =====
+{"alpha_words": 440, "chars": 2622, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Chapter Nine
+
+The War Years
+(1941 - 1945)
+
+Spilhaus describes the tense atmosphere that existed at the Meteorology Institute at NYU
+where he was training 1000 Cadets for the Navy. After the bombing of Pearl Harbor his
+mission had changed and it became his duty to prepare his students for war. This
+assignment was made more difficult by the status of his citizenship: he was still a British
+subject.
+
+“T couldn’t understand why the United States didn’t go in and help the British. That’s
+when Columbus Iselin and I decided to leak the secrets of the BT to British Intelligence.
+This could have been very tense for Columbus so I went to New York to carry out the
+mission. When we arrived, we arranged to meet the British Naval Attache, a Captain in
+the Royal Navy. We had to do this very discreetly, because this was a peculiar situa-
+tion—America wasn’t in the war. I met the Attache in the apartment of a friend in Sutton
+Place, Manhattan. It seems pretty funny now, but it was actually a very tricky business
+for a Britisher like me, who'd been involved in secret sonar research, to be giving those
+secrets to the British. It could have also caused great trouble for Woods Hole. I took the
+responsibility without any qualms or consequences. I remember that old Naval Attache
+saying, “Well, it will all go into the lion’s maw, and what will come out, we don’t yet
+know.”
+
+Dr. Spilhaus later learned that, as a result of this meeting, there was a request by the
+British to President Roosevelt for 200 BTs. “That was well before the United States
+entered the war. I didn’t know all the details, but I was delighted. Of course, I gave them
+the rights to manufacture the Bathythermographs.” Athel soon became a soldier in
+uniform himself. He describes what happened to the BT.
+
+“I didn’t find out what went on until after the war. Then I found that nearly every damn
+ship had one of my devices on it, so I collected a few royalties from the Navy because I
+had patented the BT in 1937. As that was the first time I ever had any extra money, I
+built a house on Cape Cod at Bourne with the royalties, thinking it would be a nice place
+close to Woods Hole for summers, and near enough to NYU for the winters.
+
+“As soon as World War II began, I went straight to Washington in early September 1939
+when the Nazis invaded Poland. Technically, I was still in the South African Army and I
+reported for duty at the South African Embassy. They told me I'd better remain a
+professor and sent me back to NYU. With typical British complacency they said, “You'll
+be more useful as a professor, and the U.S. will join us one day.”
+
+rp
+| | y

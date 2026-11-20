@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T00:05:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4675158, "source_ctime_ns": 1793372640255813929, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943516/0160.jpg", "source_mtime_ns": 1785689044000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943516/0160.jpg", "source_sha256": "aa2cdb4fcd8d272f3e6a3415d397f4d1a8049866863a1a0445d03e2348e96a63"}
+
+===== PAGE 1 =====
+{"alpha_words": 190, "chars": 1365, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pare 3
+
+8, What direction were you facing when you first saw the object?
+
+(Circle One): a, North @. South
+b. Northeast f. Southwest
+c. East ge West |
+ad. Southeast h, \Morthwest} actually Ni
+
+8,1 What direction were you facing when the object disappeared?
+
+(Circle One): a, North @. South
+b. Northeast f. Southwest
+c. East g. Wes era
+ad. Southeast h, \Torthw ast}
+at
+
+8.2 Circle one of the following to indicate how certain you are of
+your answer to the above two questions, (8 and 8.1).
+a. \Certaix: c. Not very sure
+b, Fairly certain d. Just a guess
+
+9, Were you wearing eye glasses when you saw the object? (Circle One):
+
+ets ee
+
+10, How was the object seen?
+
+(Circle One): a. Through window glass ®. Through thecdolite
+
+b. ‘Through windsaield ?. Through sun glasses
+c, Through binoculars: g. Through open space
+
+a. Through terestope h. Other
+
+11, What do you remember about the weather conditions at the time you saw
+the object?
+
+11.1 CLOUDS (Circle One) 11,3 WEATHER (Circle One)
+a. (Clear sky> a. Dry
+b. Ha b. Fog, Mist, or light rain
+c. Scattered clouds c, Mederate or heavy rain
+d. Thick or heavy clouds d. Snow
+e. Don't remember e. Don't remember
+Faint cumulus lines low on west horizon.
+11.2 WDD (Cirele One) 11,4 TEMPERATURE (Circle One)
+a. Mo wind a. Cold
+b. \Slight breeze b. Cool
+c. Strong wind ec. \ Warm
+d. Don't remember de Hot
+
+e. Don't remember

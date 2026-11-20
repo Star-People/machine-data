@@ -1,0 +1,115 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:57:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2824498, "source_ctime_ns": 1793356184663993643, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0201.jpg", "source_mtime_ns": 1785564630000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0201.jpg", "source_sha256": "04318140bee5270d0db5d3b84da694b0e0a92bc417414adf54ae6335f489d2ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 802, "chars": 4842, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TM 11-444
+Par. 14
+SIGNAL CORPS
+
+obtain thin sharp traces on the record. Check the adjustment by
+viewing the points of light on the photographic paper through the
+peep-hole provided in front of the camera. The best adjustment
+is attained when these points are as small as possible.
+
+(3) The vertical translation of the lamp is done by operating a
+rack and pinion arrangement at the left of the recording lamp hous-
+ing. This provides for rapid vertical adjustment of the group of
+light images with respect to the camera lens and the viewing mirror,
+by changing the angles of incidence and reflection of the light beam
+at the mirror of the oscillograph unit.
+
+c. Oscillograph Unit M-166-A.
+
+(1) Eight of these units are assembled in a common galvanom-
+eter magnet (fig. 4), and each is connected to a sound channel by
+a Cord CD-475. The assembly is permanently mounted on Oscillo-
+graph Euipment IE-14-(*). Do not remove the individual elements
+except for replacement of mirror adjustment. Keep the lens, mount-
+ed at the front of each oscillograph unit, free from dust.
+
+(2) The position of the galvanometer assembly is permanently
+fixed to give properly focused images at the photographic paper.
+All images should be equally spaced, sharp, in the proper order, and
+of approximately the same length. The vertical positions should be
+the same within 4% inch. About one-third of each image should fall
+on the viewing screen, the other two-thirds should be projected
+on the recording lens of the camera. The positions of the viewing
+screen and the elongated mirror are so adjusted that when sharp
+and properly spaced images are formed on the viewing screen,
+sharp and properly spaced lines will also be made on the record.
+However, if this is not the case, readjust the elongated mirror and
+the viewing screen to their normally correct positions.
+
+(3) Routine adjustment has been provided only for the spacing
+of the images by rotation of the suspension. To: do this turn the
+slotted pin at the top of the element with a screw driver. Adjustment
+of the vertical position should ordinarily not be necessary because
+the oscillograph units, as supplied, are properly aged and adjusted.
+However, should readjustment be necessary, as when a unit requires
+replacement, carefully bend the mirror support so that the vertical
+tilt of the mirror is changed. Proceed as follows:
+
+(2). Disconnect Cord CD-475.
+
+(4). Loosen the three thumbscrews holding together the gal-
+vanometer assembly.
+
+24
+
+=
+
+Te Me, ce ce Aree er ty teh nc ea
+
+TM 11-444
+Par. 14
+
+SOUND RANGING SET GR-3-C
+
+(c). Insert the tip of a screw driver in the space between the
+unit and the magnet at the rear of the assembly and pry that end
+of the unit loose from the magnet. With this end free from contact
+with the magnet, pry the front end loose with the screw driver. The
+unit may then be removed from the assembly. —
+
+NOTE.—When making adjustment for vertical position, it
+is advisable to remove only one oscillograph unit at a time
+from the assembly. Replace each adjusted unit before another
+is removed. As many as four units may be removed at any one
+time. Should it become necessary to remove more than four
+units, first place a soft iron keeper across the magnet to pre-
+vent partial demagnetization.
+
+(d). Remove the dust cover, and place the unit on the pins at
+the side of the magnet. The unit is now in line with the other units
+in the assembly.
+
+(e). Rotate the recording lamp housing until light falls upon
+the mirror, of the unit. Rotate the suspension until the image is very
+close to the other images. The unit is now ready for adjustment.
+With a pair of brass tweezers, grasp the mirror support carefully,
+and bend until the tilt of the mirror is such that the reflected image
+is vertically in line with the others. Remove the unit from the pins,
+replace the dust cover, and install the unit in the galvanometer
+sembly. Reset the recording lamp cover to its normal position, an
+rotate the suspension of the unit until its image is properly spaced
+with respect to the others.
+
+(f). Adjust the tension on the suspension with the small screw
+at the bottom of the unit. Turning the screw to the right increases
+the tension by stretching the small coil spring to which the lower
+suspension of the moving system is attached. Tension should be the
+minimum required for stability, i.e., just enough to keep the moving
+system from “swaying” when the oscillograph assembly is gently
+
+rocked.
+
+d. Timing Unit.
+
+(1). Tuning Fork.—Adjust the tuning fork driving contact so
+that the unit is self-starting when the circuit is closed after the
+tuning fork comes to a complete rest. The time motor driving con-
+tact must be barely open when the tuning fork is at rest. With
+these adjustments the frequency of the tuning fork will be 100 cycles
+per second, to within 1 part in 2,000.
+
+25

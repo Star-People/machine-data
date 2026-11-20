@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:29:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4625750, "source_ctime_ns": 1793381347503907905, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979910/00006.jpg", "source_mtime_ns": 1785700830000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979910/00006.jpg", "source_sha256": "6400218a9950ce65ecc80da8836e96d9b2845c256f9ac10f5e8249c4e440b6b5"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 593, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Bt Th tele tienen see
+
+Pg er ~~
+hea Mh ’ T Baa ini es a * aa tater wor
+
+OEPARTMENT OF THE AIR FORCE "7 / es
+STAFF MESSAGE DIVISION OBS Hz
+
+JNCLASSIFIED MESSAGE
+
+CZCHWC755ZCKZAL25 INCOMING
+
+NNNNSHD & 197
+
+YO RJSZiw
+
+DE RJEZKZ 825
+0 1715032
+
+Fil CINCLANTFLT NORFOLD VA
+TO RUEDDN/CONDK ADC ENT AFZ
+RJAZHU/C/S USAF
+ZEW/C Ot EASTARZA
+
+INFO ZEN/COMAS DEFORLANT
+ZEN/COMDT COGARD
+
+ZEN/CCGD THREE
+
+NAVY GRNC
+
+BT
+
+NERINT EVALUATION 179354Z\X NO ADDITIONAL INFORMATION
+BT :
+
+CFN 176854Z
+
+17/1933Z SEPT RJEZXZ
+
+NOTE 170854Z is not identified in SMD.
+
+ACTION : CIN
+INFO : OOP
+AF IN 6698 (17 Sep 58) R/nom

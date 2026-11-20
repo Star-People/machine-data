@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-19T23:53:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1472779, "source_ctime_ns": 1793356269447675539, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0093.jpg", "source_mtime_ns": 1785564655000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0093.jpg", "source_sha256": "7a24a3d48362dc8db02ccc4f58e570a112f285157c1371888705164b390a0d7a"}
+
+===== PAGE 1 =====
+{"alpha_words": 229, "chars": 1980, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Biographical Material
+Athelstan Spilhaus, D.Sc.
+Page 2
+
+a ‘
+
+Dean, Institute of Technology, University of Minnesota
+January 1949 - June 1966
+
+ieteorological Adviser to Union of South Africa Government
+1947. Reorganized meteorological services.
+
+Director of Research, New York University
+1946 - 1948 Developed research division, covering fields
+of engineering and physical sciences.
+
+New York University, Meteorology, Assistant Professor, 1937;
+Associate Professor, 1939; Professor, 1942 - 1948.
+Started new Department of Meteorology and oceanography at
+New York University and was Chairman from 1938 to 1947.
+
+Investigator in Physical Oceanography, Woods Hole Oceanographic Institution
+1938 - 1960 Development and use of rapid measuring oceanographic |
+instruments. Associate in Physical Oceanography,
+1960; presently Honorary Staff Member.
+
+Research Assistant in Oceanography, Woods Hole Oceanographic Institution
+1936 - 1937 Model experiments in oceanography and development
+of bathythermograph.
+
+Assistant Director of Technical Services, Union of South Africa Defense Forces
+1935 - 1936 Initiated first upper air meteorological
+: investigations in South Africa. -
+
+Research Assistant, Massachusetts Institute of Technology
+1933 - 1935 Research on aeronautical and meteorological
+instruments.
+
+filitary and Related Services:
+4 united States Army Air Forces, 1943 - 1946
+Research and development of meteorological equipment.
+Contributed to and introduced into the battle zones radar
+and radio upper wind finding; spherics, and meteorological
+instruments for measurements from aircraft in flight.
+
+Awarded Legion of Merit, 1946.
+
+Scientific Director of Weapons Effects of two Nevada Atomic Tests,
+1951; and Consultant, Armed Forces Special Weapons Project;
+Department of Defense. ‘Awarded Exceptional Civilian Service
+Medal, United: States Air Force, 1952.
+
+Member of the Baker Mission to Korea, July 1952 (Civilian scientific
+mission sent by Secretary Pace, United States Army).

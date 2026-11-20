@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T00:03:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4425518, "source_ctime_ns": 1793378597228255382, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968493/0028.jpg", "source_mtime_ns": 1785696524000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968493/0028.jpg", "source_sha256": "e399d5a77d3cd8816c424ee5c9064083dab67b029ffecbf2642ed1aef8cd6c39"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 343, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Info rnation Only
+Source:
+
+Case. 36 Chapman, Maine, Nove 30, 19566 Said an ANePe
+report, “An Air Force jet fighter crashed and
+
+30 November 1956
+Chapman, laine
+
+exploded in the wilderness at Chapman just before
+
+midnight, killing the two occupantse The plane,
+based at Presque Isle, had taken off to track &
+reported “unidentified aircrafte"

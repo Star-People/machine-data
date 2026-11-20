@@ -1,0 +1,88 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T00:26:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8883646, "source_ctime_ns": 1793354617380518051, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0161.jpg", "source_mtime_ns": 1785564313000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0161.jpg", "source_sha256": "287c921016f8aab8a93847c4bc9f046633d48232bd7dc7b21702bdfa792d5d20"}
+
+===== PAGE 1 =====
+{"alpha_words": 386, "chars": 2648, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RULES FOR DETERMINING ADMISSIBILITY OF PREVIOUS CONVICTIONS
+
+(Extracted from paragraphs 68d and 75b(2), MCM, 1951)
+
+Previous convictions must relate
+to offenses committed during acurrent
+enlistment, voluntary extension of en-
+listment, appointment, or other engage-
+ment or obligation for service of the
+accused, and during the three years
+next preceding the commission of any
+offense of which the accused stands
+convicted. When the last enlistment,
+appointment, or other engagement or
+obligation for service was terminated
+under other thanhonorable conditions,
+or when the accused deserted and sub-
+sequently fraudulently enlisted, all
+convictions by courts-martial of of-
+fenses committed in the prior term of
+service, if within the three-year pe-
+riod, are admissible, even though such
+Prior term of service was in an armed
+force other than the one in which he
+is serving at the time of trial. In
+computing the three-year period, peri-
+ods of unauthorized absence as shown
+
+by the findings in the case or by the
+evidence of previous convictions should
+be excluded.
+
+For the purpose of determining
+the admissibility of previous convic-
+tions, retention of an accused beyond
+the normal expiration date of his term
+of service by operation of law shall
+not be deemed to create a new enlist-
+ment, a voluntary extension of enlist-
+ment, a new appointment, or other new
+engagement or obligation for service.
+
+No proceeding inwhich an accused
+has been found guilty by a court-mar-
+tial upon any charge or specification
+shall, as tosuch charge or specifica-
+tion, be admissible asa previous con-
+viction, until the finding of guilty
+has become final after review of the
+case has been fully completed.
+
+INTRODUCING EVIDENCE OF PREVIOUS CONVICTIONS
+
+NOTE: To be considered by a court-martial, previous convictions must be ADMITTED in evidence.
+
+Ordinarily, they are proved by introducing in evidence a duly authenticated extract copy of
+
+the accused’s service record (DD Form 493).
+
+After the Record of Previous Convictions has been
+
+marked for identification (see p. 512, MCM, 1951) and shown to the defense counsel, the intro-
+
+duction proceeds as follows:
+
+TC: Prosecution Exhibit
+
+copy of the accused’s service record showing
+
+for identification, a duly authenticated extract
+
+previous conviction(s)
+
+by court-martial, is offered in evidence as Prosecution Exhibit_ .
+
+(No objection). (The accused objects to
+
+on the grounds that =)
+
+LO (Pres): (Subject to objection by any member of the court). Prosecution Exhibit
+for identification is (is not) admitted in evidence as Prosecution
+Exhibit = =<",
+
+U. S. GOVERNMENT PRINTING OFFICE : 1953 O - 282762
