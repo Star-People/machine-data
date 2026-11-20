@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:10:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4274322, "source_ctime_ns": 1793376127510226083, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959366/00870.jpg", "source_mtime_ns": 1785696764000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959366/00870.jpg", "source_sha256": "fc8e781fe08fbf3cf82c3a5cd81dc02874137421972c4192aa49fc3243b4f3f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 793, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+99 pion OG), Weekes Neo AN O Was Bailoon
+es ugust 1954 New LOrPK y N.Y. Kal Probably Balioon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION Geet aceoen
+: QO Was Aircraf?
+Local D Ground- Vi sual 0 Ground-Radar OQ Probably Aircraft
+GMT __ 22/22012Z PS Air Vi sual D Air-Intercept Radar QO Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomicai
+DO Yes O Probably Astronomical
+G No Military O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+h 0 Insufficient Data for Evaluation
+; s ri i Oo nknown
+10 minutes 3 NE
+10, BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+
+T: drop shape tationary at 20,000. Other | Balloon observations.
+
+two shiny moving East (2nd obs 30 Sec)
+
+1
+
+ATIC FORM 329 (REV 26 SEP $2)

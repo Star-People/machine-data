@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T05:40:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14798582, "source_ctime_ns": 1793355710144878425, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0147.jpg", "source_mtime_ns": 1785564507000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0147.jpg", "source_sha256": "cea9a90c10c4cbc984ef50631016ba42e2b24ca68de2f43f1177aa14674a517f"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1099, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+XXV. A Balloon-Borne Microphone System
+
+John W. Coffman
+U. S. Army Electronics Research and Development Activity
+
+Environmental Sciences Directorate
+White Sandd Missile Range, New Mexico
+
+Abstract
+
+This paper describes a balloon-borne microphone system developed at
+White Sands Missile Range, New Mexico, during the period from 1958 to 1961
+(See References: Webb, Coffman and Clark, 1959). Ina following paper, John
+Wescott describes the use of this system in the measurement of low-frequency
+background noise at high altitudes. The instrument was to have a frequency
+response of 0.1 cps to 100 cps, a dynamic range of 0.01 to 10 microbars, an ex-
+pected lifetime of 12 hours, a weight of less than six pounds, and was to cost less
+than 100 dollars. Most of these goals were met, and the system which evolved
+incorporated several unique features.
+
+1. BALLOON SYSTEM
+
+The simplest component of the balloon-borne microphone system was the
+balloon. Two types of constant-level balloons were used: a polyethylene teardrop
+
+with an open vent at the base, and a neoprene sphere with a valve arrangement.

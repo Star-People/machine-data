@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:00:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1283828, "source_ctime_ns": 1793356373793690004, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0052.jpg", "source_mtime_ns": 1785564689000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0052.jpg", "source_sha256": "686704ddaaff05cb14af96b3802269a48b5f417694eb55d5ffabf3203fbba0a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 264, "chars": 1687, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(1) Definitions
+
+In order to simplify computation of azimuth of sound
+arrival and velocity of propagation over the array,
+it is desirable that some mathematical device be em-
+ployed which will yield the desired quantities. It
+is possible to construct a nomogram for each field
+station once the positions of the microphones are
+known by survey and are kept fixed. For an under-
+standing of the principles underlying the construc-
+tion of the four microphone nomogram, the derivation
+is presented below:
+
+Let the following definitions apply to Figure IV and
+the subsequent derivations:
+
+My, etc. microphone positions, numbered in sequence
+Clockwise from true north.
+
+s source of sound (at infinite distance)
+
+A azimuth of sound source from true north
+
+R a radius vector of the quantities
+— and 4, these latter having
+been defined in subparagraph b above.
+
+Q azimuth of radius vector R from true north
+
+By 3 azimuth of M3 as seen from My
+
+Boy azimuth of M, as seen from Mo
+
+Now, adopt the convention that when the index finger
+of the right hand, with palm upward, is pointed from
+M, in the direction of M3, the thumb points to posi-
+tive quantities of (T, - T3/MN3; and likewise, that,
+when the index finger of the right hand, with palm
+upward, is pointed from Mj in the direction of M,,
+the thumb points to positive quantities (Ij - T)/Mamz.
+In_accordence with this convention, for the source of
+sound S indicated in Figure IV, the quantity
+
+(ty - Tf 1M is plotted perpendicularly to the line
+M]M3; likewise the quantity(T2 - T)/MaMjis plotted
+perpendicularly to the line MoM,. The common end
+point of these two quantities is, by definition, the
+end point of the vector R.
+
+10
+Appendix D

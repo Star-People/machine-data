@@ -1,0 +1,110 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:06:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2726784, "source_ctime_ns": 1793356185421614420, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0206.jpg", "source_mtime_ns": 1785564630000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0206.jpg", "source_sha256": "b15d1ea77feeb8a67b4545acb2e547cd87ba081a602d6ada26c89e3ce9f0de87"}
+
+===== PAGE 1 =====
+{"alpha_words": 704, "chars": 4473, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TM 11-444
+Pars, 19-20
+SIGNAL CORPS
+
+(3) Connections are made from the terminal board of the
+chest to the recording equipment assembly.
+
+(4) Check and correct polarity as in paragraph 17a.
+
+(5) Set the attenuators at 6.
+
+(6) Set the pistonphone in motion by quickly pulling up a
+string which has previously been wound around the fly-wheel shaft.
+Make a photographic record for the full frequency range provided
+by the pistonphone. With the attenuators of all the channels ad-
+justed to equal settings, the excursions of the traces should be ap-
+proximately the same at any frequency.
+
+b. Circuit Test.
+
+When all microphones have been installed, test the proper func-
+tioning of the microphones, the control-board equipment, and the
+oscillograph unit by placing the test key of the control board on
+CIRCUIT TEST. The microphones are thereby energized, and the
+recording lamp is turned on. If all these parts function properly,
+a characteristic behavior of the microphone milliammeters will be
+observed on the control board, and the light images on the viewing
+screen will indicate wind-pressure gusts at the various microphone
+positions.
+
+c. Over-All Test.
+
+Place the test key on OVER-ALL TEST. The set should operate
+and produce a record, just as though the outpost circuit had been
+closed, except that the counter of the identification panel will not
+advance and the alarm circuit will not be closed.
+
+d. Outpost Test.
+
+Make sure that telephone communication with the outpost opera-
+tor is available. The outpost operator should also operate Outpost
+Unit B-51 at the request of the oscillograph operator to ascertain
+whether the outpost circuit is functioning properly. It should be
+possible to maintain telephone communication with the outpost
+operator whether the outpost circuit is closed or not.
+
+20. OPERATION.
+
+a. Oscillograph.
+
+Control Board BD-85-(*) and Oscillograph Equipment IE-14-
+(*) are turned on by means of the STATION BATTERY switch.
+
+34
+
+nae ae
+
+TM 11-444
+Par. 20
+SOUND RANGING SET GR-3-C
+
+a _ As soon as the tuning fork is vibrating, start the time wheel by hand
+© by rotating the starting knob to the right.
+
+b. Switchboard BD-62-(*). .
+Swiechboard BD-62-(*) has been designed for use either with
+Handset 1S-9-(*), or with the combination of Head Set HS-30-
+(*) and Chest Set TD-1. Both of these can be used by connecting
+ene set to Plug PL-58 and the other to terminals T, C, and R on
+the switchboard. Telephone communication with the outpost oper-
+ater or operators should be maintained at all times. Personnel as-
+signed to the microphone stations or to the maintenance of the
+lines can establish telephone communication with the oscillograph
+if they are equipped with a Telephone EE-8-(*).
+
+c. Outpost.
+
+With the sound ranging set properly installed and adjusted, the
+taking of records can be controlled entirely from the outpost by the
+operation of Outpost Unit BE-51. A record is started when the out-
+post operator presses the button switch of Outpost Unit BE-51. Ac
+the same time the alarm buzzer in the switchboard operates to warn
+the oscillograph operator that recording has started. Also, the out-
+post Operator can transmit a verbal “on the way” signal over the
+telephone. The outpost operator can control the duration of record-
+ing by keeping the button switch on Outpost Unit BE-51 pressed
+wntil he judges the sound report has reached all the microphones.
+With the button switch on Outpost Unit BE-51 closed and the
+test key on Control Board BD-85-(*), (in the neutral position),
+the alarm buzzer will continue to operate. As soon as a record has
+been started, the recording can be taken over by the oscillograph
+operator. He does this by switching the test key to OVER-ALL
+TEST. This operation opens the circuit of the alarm buzzer and
+also permits the outpost operator to release the switch on Outpost
+Unit BE-51. The oscillograph operator will observe the behavior
+of the light images on the viewing screen, and stop the recording
+by switching the test key to NEUTRAL when his observation in-
+dicates that the sound has reached all microphones. If, in the mean-
+time, the switch on Outpost Unit BE-51 has again been placed in
+the pressed position, the recording will contiaue and the alarm
+buzzer will again begin to operate as a signal to the oscillograph
+@perator that another sound report is “on the way.” Any character-
+istic features of the sound heard by the outpost operator can be
+telephoned to the oscillograph operator.
+
+35

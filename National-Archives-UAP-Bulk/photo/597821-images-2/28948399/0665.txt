@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:07:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3521713, "source_ctime_ns": 1793373733249985679, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948399/0665.jpg", "source_mtime_ns": 1785696903000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948399/0665.jpg", "source_sha256": "2bd81dcbc6a962d97cb67c2485a3b109a24016b8291fba414b7eb617659cc2fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 775, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ps ve
+
+-
+
+-
+
+PROJECT 10073 WEATEER DATA SHg
+Me,
+
+1. DATE OF O
+
+BSERVAT ION
+
+2. Tike OF OBSERVATION
+
+3, STATION OBSERVING
+
+ALTITUDE [| VELOCITY {  DiakcTION |f{. aLTitUbE | ~ VELOCITY |" DIRECTION ©
+(feet) (knots) (degrees) (feet) (knots) (degrees)
+0 25,000
+1,000 30, 000
+3,000 4,0, 000
+4,000 45,000
+5,000 50,000
+@uaeet Pom
+6,000 55,000
+7,000 60,000
+8,000 65,000
+9,000 70,000
+10,000 75,000
+12,000 80,000
+14,000 85,000
+16,000 90,000
+18,000 95,000
+20,000 100,000
+— aoe
+5. WAS AN INVERSION LAYER NOTED? (C1 Yes [J No
+(If yes, at what altitude?
+6. WERE ANY THUNDERSTORMS NOTED IN AREA? C1 Yes CJ No
+(If yes, at what quadrant? :
+
+7. CLOUD COVER: 8. VISIBILITY WAS
+tenths at tenths at feet. MILES.
+tenths at _ feet. tenths at feet.
+
+19, COMLENTS: ©
+
+ATIC Test Form 333 (13 Aug 52)

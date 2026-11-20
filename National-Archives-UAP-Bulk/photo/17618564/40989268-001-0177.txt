@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T05:40:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15590338, "source_ctime_ns": 1793355736632520154, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0177.jpg", "source_mtime_ns": 1785564513000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0177.jpg", "source_sha256": "4c5c5ac3c4946ba01280630f5c283995075ba30d2cffcb7e6ffb3818a13a0a43"}
+
+===== PAGE 1 =====
+{"alpha_words": 254, "chars": 1630, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+XXIX. The Mars Balloon—Feasibility and Design
+
+M. H. Davis and S. M. Greenfield
+The Rand Corporation
+Santa Monica, California
+
+It is an intriguing idea that balloons might be used to probe the atmosphere of
+Mars and to give some mobility to instruments that have been transported to the
+planet. In principle no simpler method of transportation can be imagined. A
+floating balloon has the great advantages of simplicity and of requiring no motive
+power, although it suffers from the drawback that only flight duration and altitude
+are subject to control; the direction and distance of a particular flight are at the
+mercy of the wind. In the present paper we discuss the feasibility of Mars balloon
+operations. The paper to follow discusses how balloons might contribute signifi-
+cantly to the systematic exploration of the surface and atmosphere of the planet.
+
+A detailed engineering study is required before the feasibility of the Mars
+balloon can be fully analyzed. Here, since we do not attempt to actually design the
+system, we can only outline some of the more important requirements and problems.
+Because of spacecraft limitations, feasibility will depend to a great extent on how
+much weight and volume must be expended in order to ultimately lift a useful pay-
+load into the Martian atmosphere. We will try to arrive at estimates of the weight
+and volume requirements for a balloon system, without attempting a detailed break-
+
+down into components. An additional consideration, and one of primary importance,
+
+is the reliability of the system. It is essential to strive for simple and rugged
+
+subsystems and materials.

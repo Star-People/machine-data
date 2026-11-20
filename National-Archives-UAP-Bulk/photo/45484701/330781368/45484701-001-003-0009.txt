@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:20:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6670112, "source_ctime_ns": 1793361749274777068, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0009.jpg", "source_mtime_ns": 1785685135000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0009.jpg", "source_sha256": "940ceb32da89b6b96f13e0a1802af60c52d429d284c8da13156beecd5e2ecd69"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 132, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Semcon etn we ae A ARO MOREE, Te NAPE a ee
+eee - es wo marten
+= oo
+
+sient OR OREN AOAC Ee -
+
+Declassification Authority: NND 923007

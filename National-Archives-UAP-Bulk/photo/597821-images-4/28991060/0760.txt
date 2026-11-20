@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T05:33:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8444657, "source_ctime_ns": 1793384785375723718, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991060/0760.jpg", "source_mtime_ns": 1785748328000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991060/0760.jpg", "source_sha256": "b5a2a5a34ff8f4b35a9eacb20e8eb186fba81310d497569b9a83f7dc2e0e8d9f"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 570, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| (
+26 September 1961
+Dear Professor:
+
+Tmnk you for yours of September 15th enclosing a copy of
+the Mauston-Port Arthur Fireball Report.
+
+There are two gentlemen in Madison, Saunetn On atte ve
+
+able to help you on the mitter of the th Iake Meteor sighting.
+whose street address we don't have, and saul
+t, Madison B, Wisconsin.
+
+: We are happy to assist you anywy we can. Feel free to call
+on us at any time.
+
+Sincerely,
+
+WILLIAM T. COLEMAN, JR.
+
+Major, USAF
+
+UFO Project Officer
+
+Publie Information Division
+_ Office of Information
+
+Appleton, Wi 4:
+: /
+|
+}
+i
+|
+]
+!
+}
+'

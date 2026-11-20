@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:15:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5507043, "source_ctime_ns": 1793378684143352365, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968852/0314.jpg", "source_mtime_ns": 1785696463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968852/0314.jpg", "source_sha256": "8bd95ee29f917f4fb40202f16b69a0370cd968584f789dde587cfac0d4ff0479"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 164, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee al
+
+On Fe emcee gerne ewer neyee vena 9nd OOF LOCA Ans
+
+re
+
+On aN a
+
+—
+—~
+
+oe}
+a
+
+Lo
+
+oT EER aes tape sree
+
+fo
+
+ES ost hata iene peaare Pact it Aol MAES an bOI

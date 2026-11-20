@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T06:26:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8343920, "source_ctime_ns": 1793362742166912835, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0001.jpg", "source_mtime_ns": 1785684549000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0001.jpg", "source_sha256": "5d276e18055d20162bc0063d488023d2060aeacb1b00bdb2c792c7526619d758"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 664, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4
+
+AFISI-GD 24-185-514 /Capt Bons ac/feh/22061/19 Oct 62
+
+Jacob H. Ritterbush, Civilian
+
+SAFOI
+
+1. The attached correspondence from Subject was received from the
+FBI and is forwarded to your office for any action deemed proper
+under the provisions of paragraph 6, AFR 200~2.
+
+2. Files of this Directorate contain no record of Subject.
+
+3. This Directorate contemplates no further action in this matter.
+
+1 Atch
+
+Memo fm FBI dtd 11 Oct 62
+F. L. WELCH Z icf,
+
+oh fwd ltr fm Subject
+sst Chief, Co ents srintelligence’ wision
+
+Directorate of Special Investigations
+The Inspector Gen eral
+
+File Cy-- APISI 24-185-514
+
+29 iw
+
+\e\
+
+Declassification Authority: NND 923007
