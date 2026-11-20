@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T08:19:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10376189, "source_ctime_ns": 1793354438186325128, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0067.jpg", "source_mtime_ns": 1785564284000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0067.jpg", "source_sha256": "f1c90bf394bdb5f3b9c2b94c648e0ce010ec6d8b898c524849187ab356ad5719"}
+
+===== PAGE 1 =====
+{"alpha_words": 159, "chars": 1258, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Space Experiments
+
+Phillips Laboratory is managing a world-class capability to
+conduct space experiments, as well as ground, airborne, and
+balloon-borne research.Through these experiments, the Lab is
+gathering scientific data and demonstrating critical proof-of-
+concept technologies.
+
+Space Experiments Programs
+
+Altair — This space experiment will demonstrate acquisition,
+tracking, and pointing against missiles in the boost phase. Another
+goal is collecting plume measurements and background phenom-
+enology.
+
+LEAP — The Laboratory is conducting hover and flight tests of
+the Lightweight Exo-Atmospheric Projectile to demonstrate
+kinetic-kill vehicle technologies. This work is for the Strategic
+Defense Initiative.
+
+ELITE — Phillips Lab scientists are demonstrating arcjet propul-
+sion as a means for transferring payloads from near-earth orbits to
+geosynchronous orbits.
+
+TAOS — Autonomous navigation and control and bus technol-
+
+ogy are being tested and validated in a program called TAOS
+(Technology for Autonomous Operational Survivability).
+
+Lithium Thaw — The thaw-freeze behavior of liquid metal in
+microgravity is the subject of research by Laboratory scientists.
+
+Test *
+Preparations
+
+Lightweight Exo-Atmospheric Projectile
+
+Space Experiment

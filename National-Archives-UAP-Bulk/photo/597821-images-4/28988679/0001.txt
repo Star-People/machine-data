@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T07:52:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2685739, "source_ctime_ns": 1793384055452709042, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988679/0001.jpg", "source_mtime_ns": 1785748132000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988679/0001.jpg", "source_sha256": "623ab91269f855596b22faf5560ba00f00f3698997a3b722fb6a9e28cd520521"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 295, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NATIONAL ARCHIVES MICROFILM PUBLICATIONS
+
+Microfilm Publication T1206
+
+PROJECT BLUE BOOK
+
+Roll 40
+
+Case Files of Individual Sightings
+File Nos. 6939-7128
+
+August 31-November 23, 1960
+
+THE NATIONAL ARCHIVES
+NATIONAL ARCHIVES AND RECORDS SERVICE
+GENERAL SERVICES ADMINISTRA TION
+
+WASHINGTON: 1976

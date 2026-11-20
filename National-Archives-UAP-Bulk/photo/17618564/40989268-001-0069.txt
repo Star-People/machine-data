@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T08:24:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17596314, "source_ctime_ns": 1793355630827897342, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0069.jpg", "source_mtime_ns": 1785564492000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0069.jpg", "source_sha256": "86dca4724349a48c5edc955f8460a2aca0eb5174e02c4a9d1ce550c4e6275559"}
+
+===== PAGE 1 =====
+{"alpha_words": 476, "chars": 3320, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+124
+1. INTRODUCTION
+
+In engineering circles, it is common knowledge that there is often a close rela-
+tionship between advanced developments and improvements in materials. However,
+it is not definitely established which must come first, the new material that makes
+the application practical, or the solution to the problem, which necessitates the
+development of better material properties. In any event, a material improvement
+always opens up problem-solution possibilities whether or not they are immediately
+apparent. This paper discusses a new fabrication technique, which can be the basis
+for a new material development. A few possible applications for such a material
+are illustrated as a stimulus for even further problem solving.
+
+Originally, the machinery to be discussed here was developed with a space
+application in mind. This material was to encounter high loads and high tempera-
+tures. These properties are not needed for balloon applications, so it will be
+important to understand the basic fundamentals of the material construction itself
+and how it evolved. This paper, therefore, includes the development of the basic
+material, a brief description of possible future material, and a few examples of how
+these materials might be used in applications for increased performance. The
+
+engineer dealing in advanced developments will readily see the potential of this new
+technique.
+
+2. BASIC FUNDAMENTALS
+
+This particular paper will concentrate on pressurized structures since they
+are most applicable to balloon problems. However, rigidized variations of the tech-
+niques are also possible. Originally the balloon designer was limited to using shapes
+which are of conventional pressure-vessel contour, such as spheres, spheroids
+(oblate or prolate), ellipsoids, toroids, cylinders, cones, and so forth, and combina-
+tions of these. In order to Simulate a flat surface, several cylinders were joined
+together making a multilobed arrangement containing webs. The greater the number
+of webs, and the closer the Spacing, the smaller the surface lobes, and the more
+nearly a flat surface was Simulated. Figure 1 illustrates pictorially this evolution
+of the cylinder toward a flat surface,
+
+A number of years ago, a material called Airmat was invented which permitted
+the making of flat panels by replacing the multiple webs described above by a great
+number of closely spaced "drop threads". The carpet looms on which this material
+was woven were modified to permit increased drop-thread lengths (3 inches to
+
+24 inches) and even variation in drop-thread length to be produced. The cloth woven
+
+Figure 1. Expandable Structural Forms
+
+on the looms was covered with neoprene to make it gas-tight, and these pressure
+vessels became some of the world's lightest structures. Airfoils were actually
+produced and in the mid-50's complete aircraft called Inflatoplanes were constructed
+and flown. Wing weights one-tenth of those previously possible by conventional
+
+construction were achieved. Figure 2 shows how variations in drop-thread length
+
+can define airfoil contours.
+
+i th
+Figure 2. Airfoil Contours Defined by Variations in Drop Thread Leng
+
+high-speed
+The modified carpet looms used for this work had the advantage a ig hie he
+production capability, but they lacked the versatility and quality control req

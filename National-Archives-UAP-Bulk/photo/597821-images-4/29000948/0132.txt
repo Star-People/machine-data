@@ -1,0 +1,94 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T08:05:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5801345, "source_ctime_ns": 1793388378938897860, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000948/0132.jpg", "source_mtime_ns": 1785748517000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000948/0132.jpg", "source_sha256": "c16300a007c3993216dea11a2437d61ce661e47da3c442aa6c85076bcb850729"}
+
+===== PAGE 1 =====
+{"alpha_words": 305, "chars": 2328, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+\
+
+j | AERONAUTICAL SYMBOLS
+4 | RADIO FACILITIES
+
+All radio facility data are printed in blue with the exception of certain LF/MF tacilities such
+as tower frequencies, radio ranges and associated airways, which are printed in magen
+
+j Methods of indicating specific voice and CW calls are shown below Use of the word ‘‘Radio” within the box indicates voice facilities.
+
+: cs
+Radio Range----------------------- © Ba Mone RAP iy Radio Communication Station -_-_.__- o— [00H ANID}
+
+(With voice)
+
+(With voice)
+
+b) cs
+‘ © (eas a : + ati : RATAN]
+209 VPS “==: Radio Communication Station __--_- o———__{,,? CRNX
+
+4 Radio Range
+"No voice’ (Without voice) **Mo woice’’
+
+(Without voice)
+
+4 Nondirectional Radiobeacon ----- Oo: oouct AS PARI Radio Broadcasting Station____.__- {ose | gia
+; (With voice)
+a uh ia ‘ ™ DIXIE RACON
+Nondirectional Radiobeacon -..-.- OF 388 DXE t= Radar Beacon (Racon). O—m————— 5755 2-1-2)
+- “No voice”
+
+{ (Without voice)
+
+pstia RBn
+
+3 ASHTABOLA
+
+4 Marine Radioheacon --------------- Om-10m & 30m-40m <> [Roy7]
+200 watts
+
+CWithout voice)
+Radio Fan Marker Beacons---- Sis ie (Bargs}
+
+7 | LF/MF AURAL RANGE
+
+mf) x
+j 091: RUE PRR ik eee tee
+Occ WRG ®
+eh.
+The heavy line indicates the "N* quadrant. The bearings shown are magnetic and the magnetic
+4 variation at the position of the ground station is used for computing them,
+{
+\ » t —Sector .
+"x — Second VHF CUNT DIRECTIONAL RANGE (VOR) VHF FOUR COURSE VISUAL-AURAL RANGE (VAR)
+: 985
+x
+fe
+j fe) ng
+Y o>
+4 pe
+; 5
+4 <
+a ! =
+ig 1 o
+ORI heey A | ~
+Bi PHILLIPSBURG RAD De
+a 117.4 29 PSB
+-----4 atinme Visual :
+B MATAWAN RADIO
+Y W 109.1 V-o-m MWA
+t 2 % DME where shown indicates
+a 10 f\) Distance Measuring Equipment be
+% 130 ade
+a ; Beurings are magnetic from the station. Letter preceding frequency
+} Radius of circle is 15 nautical miles. indicates channel indentifieation.
+pif using agency AIR TRAFFIC CONTROL
+F .. Blue tint where shown Re, Génteoli Zone
+E 2 eB . My ss ontrol Zon
+4 mad indicates controlled airspace io v Zam
+/ } * (Within eositinental Uz. Ss. all airspace at and above 24000" : } Hi
+feet’ MSL except. prohibited and restricted areas ja con- ‘ f a}
+; . ihion, Siest indicetmecnds genveled somes te Prop Mase Se
+Uncontrolled Civil Airway
+
+wy Controlled Civil Keay
+Civil airways within continental U.S. effective only below 27000 feet MSL
+
+Me Ee
+Ea

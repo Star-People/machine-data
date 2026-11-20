@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T08:13:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7967253, "source_ctime_ns": 1793363239787253232, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0103.jpg", "source_mtime_ns": 1785684642000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0103.jpg", "source_sha256": "fb6842acc1484b9664778b0a9a0a9208d49ff311399d335f6cd87573aedbcec0"}
+
+===== PAGE 1 =====
+{"alpha_words": 184, "chars": 1338, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+-
+
+DO #6 ltr, File 6D 277, Subject: (Unclassified) Report of Unidentified
+Flying Object Over Macon, Georgia, on 22 February 1957 at 1925 hours
+(Z Time), SPECIAL INQUIRY
+
+e. Special Agent CRUMAL was advised by Mr. GAMBLE, civilian,
+Robins AFB Operations Office, there was active transiet air traffic at
+Robins AFB at the time of the sighting.
+
+Lf. Attempts to contact the 729th AC&W Squadron, Robins AFB,
+Georgia, to ascertain if there had been reported radar contact with this
+SUBJECT met with negative results.
+
+g Mr. CHARLES L. TIRRY, CAA, Cochran Field, Georgia, telephonically
+advised Special Agent CRUMAL on 22 February 1957 that his office had also
+received a report from Mr, CRANDALL concerning this same SUBJECT. TIRRY
+advised that his office was not taking any action relative to the report
+by CRANDALL.
+
+h. WNo physical evidence concerning SUBJECT was obtained.
+
+3. No further action is contemplated by this office and this matter
+is considered closed.
+
+4, Your attention is invited to the provisions of paragraph 7,
+AFR 124-1 which prohibit the release of investigative information to
+unauthorized persons.
+
+d+ This letter is classified CONFIDENTIAL pursuant to the authority
+contained in paragraph 30c (2) (a), AFR 205-1.
+
+WILLIAM G,. WORKMAN
+
+Colonel, USAF
+
+District Commander
+Dir OSI
+
+Declassification Authority: NND 923007

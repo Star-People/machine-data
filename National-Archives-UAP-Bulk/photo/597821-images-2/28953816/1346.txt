@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T07:58:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4071852, "source_ctime_ns": 1793374899271860486, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953816/1346.jpg", "source_mtime_ns": 1785696800000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953816/1346.jpg", "source_sha256": "193ddeebf4d1ac02711129f07b1b55084d7517b300b7cc4a6bf00b843d497b0b"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 128, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/l HA Fle
+March 3, 1753
+
+Luke AEB Aer zovrt
+db 5 wot VaR — A rz Vi suAc-
+
+GG We 903352 |
+tw cushd y oF Aue- VisuAd dVbfs/on—
+yv

@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T08:23:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17033182, "source_ctime_ns": 1793355458836249753, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0040.jpg", "source_mtime_ns": 1785564458000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0040.jpg", "source_sha256": "3208a25594fc8ec43768f8451e1449669416990e26231a59f46f392c5ee067e0"}
+
+===== PAGE 1 =====
+{"alpha_words": 450, "chars": 3080, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+snertia load "rigidly'' attached to the balloon suspension. The balloon itself contri-
+putes to the total inertia load and actually provides inherent rotational damping for
+
+dissipation of integrated inertial forces (for example, inertia-wheel velocity).
+
+A reaction jet control system allows the complete gondola to be independent of
+
+the balloon system with the total gondola load suspended below a pivot bearing. In
+
+the application to be described the total gondola weight is approximately 3000 pounds
+
+with a vertical polar moment of inertia of 250 slug-ft?.
+
+2. SYSTEM DESCRIPTION
+
+A photograph of the over-all gondola assembly being used in the APRE pro-
+gram is shown in Figure 1. The gondola consists basically of a pressurized and
+temperature-controlled gondola structure housing precision photographic and other
+electronic equipment for high-altitude photography of objects located or flown below
+the gondola and within the narrow camera field of view. The camera is equipped
+with a 48-inch F/4 lens and weighs approximately 400 pounds. The entire gondola
+is suspended by a bearing assembly which, except for frictional coupling, isolates
+the gondolafrom the balloon and parachute. A slip-ring array is an integral part of
+the pivot bearing assembly to allow signal and power transmission from the gon-
+dola to the upper part of the over-all flight train.
+
+Program operations require that a specific camera (gondola) axis be oriented
+and stabilized to a known geographic reference. A block diagram of a cold-gas
+reaction jet control system developed for this purpose is shown in Figure 2. A
+magnetometer is used as the basic attitude reference. Rate information is obtained
+from a body-mounted spring-restrained rate gyro.
+
+Attitude and/or rate information control, via logic circuitry, electromechanical
+valves to release propellant in the appropriate direction to maintain the desired
+attitude position and rate stability. The propellant in this case is dry nitrogen gas.
+The basic characteristic or stability of the system operation is determined by the
+switching line or the ratio of rate to attitude authority and the allowable system
+deadband. The mechanization results ina nonlinear on-off control system with con-
+trol exerted only when rate and/or attitude exceed the design limits. In the APRE
+application, these limits were + 0.1 degree attitude and 0.07 degree per second
+rate.
+
+An analytical block diagram of the system is shown in Figure 3 where control
+torque is shown as Tc and disturbance torque as Tp. The disturbance torque input
+is the effect of frictional coupling of the gondola to the balloon suspension through
+the pivot bearing. Large balloons typically exhibit, in the float condition, a contin-
+
+uous rotation or large-amplitude oscillation with a period on the order of 4-5 revo-
+
+Figure 1. Over-all View of APRE Gondola
+
+lutions per hour. This rotation is coupled to the gondola through the pivot bearing
+friction. The transmitted torque must be overcome by the reaction thrust to main-
+
+tain the gondola in the desired attitude position.

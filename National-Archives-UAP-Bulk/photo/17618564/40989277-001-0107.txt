@@ -1,0 +1,107 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T07:46:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1284360, "source_ctime_ns": 1793355833685228968, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0107.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0107.jpg", "source_sha256": "e9109299cf05d2abd514e3ab74bd0e31ed259328c87edde9480f19ae34d92df7"}
+
+===== PAGE 1 =====
+{"alpha_words": 254, "chars": 2291, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+From: C.B. Moore New Mexico Tech Fax: 505 835 0975 at:
+
+Address
+
+Page 2 of 3 Tuesday, May 06, 1997 1:45:13 PM
+
+Curriculum Vitae
+
+Charles B. Moore
+17 August 1996
+
+Langmuir Laboratory for Atmospheric Research
+New Mexico Institute of Mining and Technology
+Socorro. New Mexico 87801 (Telephone: 505 835 0975, FAX: 505 835 5707, e-mail: moore@nmt.edu)
+
+Personal
+
+Born 28 October 1920. Maryville. Tennessee
+Married Wilma Frances Finley,, 17 March 1946
+Children: three.
+
+Education
+
+1947- 1948 Graduate student. Physics. New York University
+
+1943
+
+Meteorological Cadet Program. USAAF. Grand Rapids. Michigan
+
+1940--194 B.Ch.E.. Georgia School of Technology. Co-op Program
+1938--1940 Chemistry and Mathematics Curriculum. East Tennessee State Teachers College
+
+Professional Experience
+
+1986
+
+1969
+
+1965
+
+1953
+
+1949
+
+1947
+
+1945
+
+1944
+
+1940
+
+Memberships
+
+New Mexico Institute of Mining and ‘Technology,
+Professor Emeritus. Atmospheric Physics:
+
+New Mexico Institute of Mining and Technology,
+Professor of Atmospheric Physics, Chairman of Langmuir Laboratory;
+
+New Mexico Institute of Mining and Technology,
+Associate Professor of Physics. Research Physicist. R&DD:
+
+Arthur D. Little, Inc., Cambridge. MA,
+Research Physicist:
+
+General Mills Aeronautical Research Laboratory, Minneapolis,
+Engineer in charge of Balloon Operations, Project Skyhook. Project Gopher:
+
+New York University, Research Division,
+Project Engineer, Constant Level Balloon Project (part of the USAAF Long Range Detection
+
+Program).
+
+Weather Equipment Officer for the China-Burma-India Theater. 10th Weather Squadron,
+USAAF. Calcutta and Kunming;
+
+Headquarters Staff, USAAF. assigned to the Air Force Liason Office to the Chief Signal Officer.
+Fort Monmouth, NJ:
+
+Tennessee Eastman Corporation, Kingsport. Tennessee.
+Georgia Tech Cooperative Program. laboratory assistant.
+
+American Association for the Advancement of Science: Fellow. 1969
+
+American Association of Physics Teachers*, 1967
+
+American Geophysical Union, 1955
+
+American Meteorological Society, 1954: Fellow. 1976
+
+International Commission on Atmospheric Electricity; Commissioner and Chairman,
+Subcommission V. Thunderstorm Electrification. 1975--1988
+
+Royal Meteorological Society*. 1961: Fellow. 1978
+
+Sigma Ni *
+
+Tau Beta Pi *
+
+Phi Kappa Phi *
+
+* Inactive in 1994.

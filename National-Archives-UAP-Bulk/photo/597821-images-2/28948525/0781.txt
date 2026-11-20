@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T07:55:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3719080, "source_ctime_ns": 1793373757678565316, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948525/0781.jpg", "source_mtime_ns": 1785696622000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948525/0781.jpg", "source_sha256": "3681c78143193f21e6efde7826d6a577b9abfb308d2b3df17b6eaba92dfce9d0"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 874, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘
+a4
+
+(
+
+PROJECT 10073 WLATEER DATA SEY F
+
+tenths at
+
+_ feet.
+
+es
+
+. tenths at =
+
+feat.
+
+9, COMLLNTS:
+
+Alico Yost Porm 333 (13 Aug 52)
+
+_
+
+poe Pe oe
+ao nna
+
+ee ee eer ee
+
+ee
+
+1. DATE OF OBSERVATION |D, Tine OF UDSERVATION |3. STATION ObSNHVING ~
+wa. Be hea a LEO ES LEE RE Te rR
+ALY LYVUDE VELOCITY DIRECTION : ALTITUDE: VELOC LLY DIiECY TON
+
+(fect) (knots) ____ (degzrves) (reat) __(knots) 4 (Qeprees)
+0 25,000
+1,000 30,000
+2,000 35,000
+3,000 40,000
+4,000 45,000
+5,000 50,000 |
+6,000 55,000 |
+7,000 66,000
+8,000 65,000
+9,000 70,000
+10,000 75,000
+12,000 80,000
+14,000 85,000
+16,000 90,000
+18,000 95,000
+20,000 100,000
+5. WAS AN INVERSION LAYER NOTD? C1Yes Cj No
+(If yes, at what altitude? __ ) a
+6. WERE ANY THUNDERSTORMS NOTED IN ARIA? C1 Yes LJ Ne
+(If yes, at what quadrant?
+7. CLOUD COVER: 8. VISIBILITY Was
+tenths at fest. tenths at feet.
+
+MILES,
+
++ = eee eee emeeee ©
