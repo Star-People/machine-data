@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:12:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4244534, "source_ctime_ns": 1793374414395531402, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951573/0762.jpg", "source_mtime_ns": 1785696482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951573/0762.jpg", "source_sha256": "622aab9f4dc9449edcd0822a8867553ec87b877041a1eaa21f2dfcd8ce06a3c5"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 673, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RAG21 | ?
+WPBO49 BS
+
+YDBO24
+TYAD7@
+JEPHQ A 929
+PP JEDWP JEDEN 222 AT jor
+DE JEPHQ 91A —— : Os, /
+P 2396992 4
+FM HQ USAF WASHDC —~— oe
+10 JEDWP/ATIC WRIGHT PATTERSON AFB OHIO ——
+JEDEN/CO ADC ENT AFB COLO ea
+AFOIN 31696 PD ATTN ATIAA-2C CIRVIS FLASH EVALUATION BY ESTIMATES
+DUTY OFFICER REF MSG TO SEC DEF CMA CIRVIS 1710N 8235W LACSA_/
+T1/1916 REPORTING A LARGE OBJ LIGHT RED IN COLOR TOO LARGE AND
+100 BRIGHT TO BE ANOTHER ACFT PD FLEW PARALLEL TO US ABOUT 20
+MIN PD CHECKED MA4 AT 9129 - 2709 OBJ BEGAN FOLG ABOUT 15
+MIN NORTH OF MA4 SAME ALT AND AIRSPEED PD OBJ DISAPPEARED AFTER
+ABOUT 2@ MIN PD SGD OW MIA PD FURTHER EVAL W/B FWD WHEN AVAIL PD
+23/0612Z NOV JEPHQ My
+
+!

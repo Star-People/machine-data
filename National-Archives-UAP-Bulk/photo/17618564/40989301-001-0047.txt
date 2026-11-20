@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:59:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1186477, "source_ctime_ns": 1793356064748459318, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0047.jpg", "source_mtime_ns": 1785564597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0047.jpg", "source_sha256": "1a0469fa85236fcbf17db990507b43a53cf9ddc579233e9b78e1b9b857c70acc"}
+
+===== PAGE 1 =====
+{"alpha_words": 269, "chars": 1755, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+An electrically overeted needle yelve was included in the order,
+however it is to be cencelled as the mechanical valve appears morc feasible
+to the manufacturer.
+
+As the motor switched modulator wes already in exserimental
+state of manufacture for the Signal Corps and Evans Signal Leboratories
+en order wes placed for 3 of them with these characteristics:
+
+To have a motor-driven commutator to contain 4 contects alternately
+switching two different temperatures, oressure and a reference. Rate of
+switching will complete one cycle per minute. To report pressure accurately
+between 150 and 500 mb. with a pressure resistor to be of such a valve thet
+with e large rsdiosonde freauency variation for e small change in pressure.
+
+To have an adjustable contact variable between <50 mb and 400 mb
+with a factory adjustment of 300 mb. When the pressure arm reached this
+contact, a squib will cut a thread that holds the ballest diaphragm open.
+
+The first mechanicul dribbler was received on 20 April 1947 and is
+undergoing modificetion and tests before being flown on Cluster Flight #2.
+If it is successful, an order for improved models will be placed.
+
+Another method maintaining a balloon et constant eltitude
+is by replenishing the hydrogen in the non-extensible envelope as it is
+valved or as it diffuses. This might be accomplished by use of liquid
+hydrogen but not by use of chemicals due to their great weight relative
+to the small volume of hydrogen generated. The liquid hydrogen method
+is being investigated with a long range view. It does not seem too
+feasible, however, due to the difficulties of keeping the rate of eva-
+porattentc’ the liquid hydrogen low at the high altitudes, without ex-
+
+tensive and heavy guard Glasks of liguid air.
+
+- 25 -

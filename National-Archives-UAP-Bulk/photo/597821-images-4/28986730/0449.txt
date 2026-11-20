@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:25:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7979544, "source_ctime_ns": 1793383320633215668, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986730/0449.jpg", "source_mtime_ns": 1785748225000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986730/0449.jpg", "source_sha256": "41099339b0757715e9b9aa27aa32cd7623360247ae1c1b965dad38140aafb8f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 446, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+SEWART AIR FORCE BASE
+ond
+839th AIR BASE GROUP (TAC)
+UNITED STATES AIR FORCE
+
+Sewart Ale Force Bose, Tennessee
+
+REPLY To ~
+ATTN OF: BDO
+
+suevect: Unidentified Flying Object Report 3 MAY 1950
+j i9O
+
+to: Aerospace Technical Intelligence Center
+Wright-Patterson sale Ohio
+
+In accordance with AFR 200-2, the attached UFO Report is subaitted.
+
+FOR THE COMMANDER :
+
+L Atch
+AF Forn 112 & 112a
+
+JAMES A. WESTON
+2nd Lt, USAF
+Asst Dir of Adm

@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:11:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4051660, "source_ctime_ns": 1793377430896334607, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963701/0179.jpg", "source_mtime_ns": 1785696461000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963701/0179.jpg", "source_sha256": "19d4902a91f71c981622b45008d40687322da2bc4cff644e53f45e7c8c50ae73"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 748, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE ° 2. LOCATION
+20 Sep 55 Martinsburg, Ohio
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+i Lecol i% Ground- Vi sual O Ground-Radar
+' GMT 20/1730-17352 D Air Visual O Air-Intercept Radar
+5. PHOTOS 6. SOURCE
+a O Yes
+No civilian (GOC)
+
+7. LENGTH OF OBSERVATION
+5 min
+
+8. NUMBER OF OBJECTS | 9. COURSE
+1 5
+
+~
+nN
+
+coo ocao o¥a pogo
+
+. CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircroft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomicol
+
+Other ;
+Insufficient Data for Evaluation
+
+:
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Oblong, glowing red obj. Shaped like bananas.
+
+11. COMMENTS
+
+Flew out of sight to S in 5 min. Possible a/c.
+
+ATIC FORM 329 (REV 26 SEP 52)

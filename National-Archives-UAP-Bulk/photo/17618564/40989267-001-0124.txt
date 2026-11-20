@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:43:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13929251, "source_ctime_ns": 1793355540119873451, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0124.jpg", "source_mtime_ns": 1785564474000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0124.jpg", "source_sha256": "a197c98d8cd9734c87261f2821803ce8781d31d7d8f2030938748d8e9b8d8ca0"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1097, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+XV Developments in Sounding Balloons
+
+Robert M. Nelson
+
+Meteorological Balloon Department
+Dewey and Almy Chemical Division
+W. R. Grace & Co.
+
+Abstract
+
+The requirements for relatively small and inexpensive balloons for use in rou-
+tine upper air soundings are stimulating research programs directed toward (1)
+improving conventional neoprene balloons for vertical soundings and (2) developing
+new plastic balloons for horizontal soundings. Expansible neoprene balloons of
+
+various sizes are the ''workhorses''
+
+of the vertical sounding network, and the num-
+bers used increase each year. To meet the need for high altitude performance,
+research is continuously underway to provide new formulations and design modifi-
+
+"streamlined" balloon. In addition, the prospect of augmenting
+
+cations, such as the
+conventional vertical soundings with horizontal sounding techniques in the next few
+years is producing a new line of research aimed at developing a practical one-seam
+'superpressure'' plastic balloon which would float at constant level in conjunction
+
+with a Satellite Data Collection System.

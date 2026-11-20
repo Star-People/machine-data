@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:07:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2807062, "source_ctime_ns": 1793356167340344412, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0078.jpg", "source_mtime_ns": 1785564626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0078.jpg", "source_sha256": "159f04a4552526ff7972b5f9d3053dc4a98e4b6928990764fed66153a3aa0be9"}
+
+===== PAGE 1 =====
+{"alpha_words": 242, "chars": 1777, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Figure 8. Rawin Set AN/GMD-1, outdoor, over-all vrew of main assembly.
+
+Status: Standard, Stock No. 7A1332. Reference:
+TM 11-271.
+
+Rawin Set AN/GMD-1 is a radio direction
+finder which is designed to track, automatically, a
+balloon-borne radiosonde to altitudes in excess of
+100,000 feet, over horizontal distances up to 125
+miles. The set indicates and records the azimuth
+and elevation angles of the radiosonde, and
+receives, amplifies, and passes to a recorder the
+radiosonde —amplitude-modulated signals from
+which temperature, relative humidity, and at-
+mospheric pressure are computed. Wind direction
+and speed are determined by plotting the azimuth
+and elevation angles with the altitude (computed
+from the temperature and pressure data). The
+equipment consists of a main assembly and control
+recorder; the main assembly is composed of a sup-
+porting pedestal, a radio receiver equipped with a
+servo’ system, an clevation unit assembly, an
+
+CONFIDENTIAL
+
+antenna assembly, and an antenna control, Rawin
+Set AN/GMD-—1 is part of a rawinsonde system
+which obtains meteorological information used to
+make weather forceasts and to make corrections
+for the effects of atmospheric conditions on the
+trajectory of projectiles.
+
+TECHNICAL CHARACTERISTICS
+
+EPPECTIVE, ALTITUDE: 100,000 ft Gvhen used with
+Radiosonde AN/AMT--4),
+EPFECTIVE HORIZONTAL DISTANCE: 125 mi.
+TYPES OF SIGNALS RECEIVED: A-m and f-m.
+FREQUENCY RANGE: 1,660 to 1,700 me.
+POWER INPUT: 115-v, 60-eve ae; 1,500 w.
+POWER SUPPLY: Provides 105-¥ de, reeulated: 6.3-v
+ac; and 180-v de for use in various systems,
+ANTIENNA SYSTEM
+TYPE OF ANTENNA: Vertical dipole; 2 sections,
+cach 4 wavelength long at 1,680 me.
+TYPE OF REFLECTOR: Parabolic.
+‘TYPE OF SCANNING: Conieal,
+
+are oy Foy,
+
+AAODIFIED HANDLING ‘NUTEORIZED

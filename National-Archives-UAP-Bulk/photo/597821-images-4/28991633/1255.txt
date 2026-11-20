@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:30:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7010769, "source_ctime_ns": 1793385021679931448, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991633/1255.jpg", "source_mtime_ns": 1785748544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991633/1255.jpg", "source_sha256": "de1899716ba3bbace4e040662f840877cea1f6c0196fe22eae48d117278e2f29"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 922, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION
+28 Feb 61 S240N 3455wW ( ATLAS c)
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION me
+Local QO Ground- Vi sual 0 Ground-Rador
+GMT 22252 HO Air Visual O Air-lIntercept Radar
+5. ‘PHOTOS 6. SOURCE
+O Yes
+4 No Military
+
+7. LENGTH OF OBSERVATION
+
+20 Min.
+
+8. NUMBER OF OBJECTS
+
+1
+
+9. COURSE
+
+SE
+
+12.
+
+Oo@® coq gogo aoc .
+
+CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other_catellite
+Insufficient Data for Evaluction
+Unknown
+
+10, BRIEF SUMMARY OF SIGHTING Coserved 20 min at high
+altitude. Bearing 270° azinuth, 10° elevation Satellite track not obtained, however
+Disappeared 130° as, 15° elevation.
+
+11. COMMENTS Objt believed to be satellite.
+
+characteristics of satellite present.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+po TB E83 OAS E ee eth VCD oat See eee ee ee

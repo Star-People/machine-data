@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:20:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6547905, "source_ctime_ns": 1793361866174949888, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0001.jpg", "source_mtime_ns": 1785684786000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0001.jpg", "source_sha256": "b24cb100e74445007ce03cdfe52c68e4db5ce005a03e3c7e28a75f7ecf0f981e"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1137, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Office of Special Investigations
+The Inspector General
+
+24-185
+
+SUBJECT: Aerial Phenomena
+SPECIAL INQUIRY
+
+District Commander
+10th OSI District, IG
+Kelly Air Force se
+San Antonio, Texas
+
+1. Reference is made to letter from this Headquarters, dated
+27 May 1949, concerning the above subject. This letter outlined the
+procedure to be followed in disseminating information concerning aerial
+phenomena, and requested that any future reports be forwarded as stated
+therein.
+
+2. This Office has just received your report, file no. 24-9, dated
+17 May 1949, and it is noted that Headquarters OSI and your file was the
+only distribution made. It is therefore requested that you forward a
+copy of this report to the Commanding General, Air Materiel Command, Wright-
+Patterson Air Force Base, attention Director of Technical Intelligence, and
+ne copy to the Director of Intelligence, USAF, this Headquarters.
+
+WILLIAM M. TURNER
+Lt Colonel, USAF
+Executive, Special Investigations
+
+The Inspector Genera 1, SAR ———
+
+cL ASSIFIC CATION
+
+AUTRURE. jot cat
+
+OFFICE SYMBOL
+
+GRADE AND
+SURNAME OF
+COORDINATING
+OFFICERS
+
+Declassification Authority: NND 923007

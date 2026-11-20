@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:34:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8346002, "source_ctime_ns": 1793379420573064676, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972252/00461.jpg", "source_mtime_ns": 1785701005000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972252/00461.jpg", "source_sha256": "305544b66b1c8a5247a587285177732bbd5816cc87aed8d213cba2e4dc355599"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 732, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SUBJECT: (U) Request for Examination, Analysis and Comment on Lorenzen UFO
+
+TO: AFCIN-4E FROM: AFCIN-hAor DATE: 2 Sept 58 COMMENT NR 2
+Maj Re M. Buckmaster/lin
+Ext 5-9196/Bldg 263/E -N
+
+1. ‘The color transparency contained in this report has been examined and it is the
+conclusion of all personnel that it is an actual color photo of clouds, as you have
+stated. The transparency appears to have no false photo qualities.
+
+2. It is suggested that the transparency be turned over to the Photo Lab, AFCIN-4D,
+
+with request that an enlargement with the greatest magnification possible be made. With
+this type of an enlargement, the transparent edges of the object should prove it to bea
+
+3 Incl M. BUCKMASTER
+n/c afar, USAF
+AFCIN-LA2L

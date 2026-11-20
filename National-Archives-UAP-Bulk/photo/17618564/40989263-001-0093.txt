@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:20:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6562870, "source_ctime_ns": 1793355143426495767, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0093.jpg", "source_mtime_ns": 1785564400000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0093.jpg", "source_sha256": "e163b1388a8f2f026a6242e895b29c6f6f25cc5731ca24ff76e3b3a66dccc8c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 802, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2
+
+Platform
+‘Last platform calibration date /Y Vov7Z
+
+| Bubble deployment & sailing prior to bubble release
+Bubble length at release from arms %O feet.
+Layout direction vs wind direction at bubble release? ca bovd
+
+Amount of sailing at bubble release? Vern be
+
+Severity of bubble release dynamics? Vw Smvoo th
+
+Severity of launch run dynamics? Very Smooth
+
+‘
+
+Launch time /
+bow level Jet:
+Temperature inversio
+‘ Cloud penetratior
+“Ascent ballasting information
+Total pourable [sO lbs -
+Rate Lbs/min
+Times of pourings and durations of pourings?
+‘Slug ballast drops (times & quantities)? N/A
+Ascent valving (times & durations)? Wowne
+Documents to furnish. Dee F lvoht Feld
+Height-time curve
+Height-temperature profile.
+“Control center log
+Telemetry log(s)
+
+Barocoder calibration sheet used for mission.

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:59:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1163682, "source_ctime_ns": 1793355963180035852, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0053.jpg", "source_mtime_ns": 1785564570000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0053.jpg", "source_sha256": "30611246a2ebb56a5c922a7c68a7fb235e9b86d550ef031dcceb21d2e4f88663"}
+
+===== PAGE 1 =====
+{"alpha_words": 243, "chars": 1591, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+47
+
+on the 27 April run was generally successful, even though
+there was no attempt at strain-gage measurements. But at
+this point the Aeromedical Field Laboratory decided to
+interrupt the test program, "to evaluate data and make
+required changes in the physiological agaten,*"*
+
+One example of the problems that needed solving was
+the precise effect of prolonged anesthesia on animal
+subjects. Another is suggested by the efforts to obtain
+strain-gage measurements, which were successful only on
+the 13 April run and showed a definite lack of longitudinal
+loading. Yet not only was this a low~performance test but
+also the nature of the restraint system was such that
+possibly no measurable longitudinal loading could have
+been detected by strain=-gage techniques in any event.
+
+Thus the test methods and instrumentation could obviously
+stand still further improvement. On the other hand, no
+really fundamental defect had been found in the fluid-
+capsule system, which clearly held considerable promise;
+and the Aeromedical Field Laboratory still planned to
+resume the tests in due course and carry them through to
+
+the stage of actual human xperimentation,
+
+Mercury Track Tests
+
+In the summer of 1960 the Aeromedical Field Laboratory
+began still another series of tests using the Holloman track,
+this time in support of Project Mercury, the man-in-space
+effort of the National Aeronautics and Space Administration
+(NASA). As indicated in the preceding chapter, the Holloman
+laboratory had been designated by NASA to manage the program
+
+of animal flights that were to precede actual manned

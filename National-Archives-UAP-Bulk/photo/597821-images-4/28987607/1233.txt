@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:29:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6781401, "source_ctime_ns": 1793383689280186893, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987607/1233.jpg", "source_mtime_ns": 1785748181000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987607/1233.jpg", "source_sha256": "3fce2c0c72d6f6988e4a28d2f7f148269842bb2385a57e603431ece6f79238c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 964, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+[i pate ; 2. LOCATION |
+
+12. CONCLUSIONS
+GO Was Balloon
+2 Jul 60 Dayton, Ohio G Probably Belloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION = Teeny Sree
+Ok20 QO Was Aireraft
+Lecal RB Ground-Vi sual O Ground-Redar Gf. Probably Aircraft
+GMT 02/0920z QO Air Vi wel QO Air-Intercept Radar 2 Possely Averett
+5. PHOTOS 6. SOURCE 0 Was Astronomical
+O Yes O Probably Astronomical
+Y Ne Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION @. NUMBER OF OBJECTS | 9. COURSE O Other ee
+O Insufficient Data for Evaluation
+2 ye min one N oe
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Object shaped like a cone or tube of fire with | Check with Base Operations indicated that
+4 tail guard and two blue lights. Had brilliant| there were no known a/c in area. Report
+stream of fire, about the size of a T-33, moving indicates a/c as the probable cause.
+
+at, a high rate of speed. Disappeared over the
+northern horizon.
+
+ATIC FORM 329 (REV 26 SEP 52)

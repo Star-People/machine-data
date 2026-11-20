@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:13:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4506840, "source_ctime_ns": 1793356351923859151, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989318-001-0133.jpg", "source_mtime_ns": 1785564682000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989318-001-0133.jpg", "source_sha256": "64b600c08dec5a0620e44fda506691245454314902575cd3adccd7d9731a74b5"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 58, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Dene ¢ Pet tf ty Seifert ue
+_ Aad QV ta te| texte ff toy

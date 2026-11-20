@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T19:16:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5153603, "source_ctime_ns": 1793370549906771915, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934832/0705.jpg", "source_mtime_ns": 1785688729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934832/0705.jpg", "source_sha256": "a91951acb91203216f4dffd794858ad27918322e4fd7387fd6f3f63a92d6b822"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 51, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+-“peMationw
+
+C naar see veen SECond |
+os
+- _— ” |
