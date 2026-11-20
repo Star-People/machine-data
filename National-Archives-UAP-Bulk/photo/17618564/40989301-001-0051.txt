@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T14:15:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1007634, "source_ctime_ns": 1793356065035901254, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0051.jpg", "source_mtime_ns": 1785564597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0051.jpg", "source_sha256": "9b38d4ba515add66aac505d5e5beda43b11c38e252b28655305f1f2bef503063"}
+
+===== PAGE 1 =====
+{"alpha_words": 222, "chars": 1486, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+and a Sinclair paint solvent. The ballest valve or dribbler essentially
+perform the same function as the Japanese altitude control on tie balloon
+bombs yet it is simpler end permits use of a liquid ballast for better control
+
+Another piece of equioment that is under construction by Kollsman
+Instrument Company is « motor-switched rsdiosonde modulator. It vresents
+pressure data to the radiosonde transmitter as 2 variable resistance. The
+meteorological deta is programmed by @ samll Brailsford Electric motor. This
+modulator will provide tne contact that seals off the diaphragm in the
+ballast valve. A comolete discussion of this eguioment will be furnished
+upon its delivery.
+
+Sketches of belloon and rigging of the balloon to be used on to
+
+the aain problem cre given in the appencix anc are self-exolcnatory.
+
+Computations
+
+A chart showing the relation between altitude, gross lift, and
+balloon size has been found necessary.
+
+Data for it was computed using mean aerological soundings as
+reported in the Monthly Weather review for 1943.
+
+A chemical term, molar volume (in cubic feet) was used as a term
+releting the sounding dete with buoyancies of the balloons at various
+altisudes,.
+
+Using the simple gas laws, the molar volume of dry air was
+computed thus:
+
+Ee (1) Molar volume of any gas at standard conditions is 359 ft.?
+
+(2) From Monthly Weather Review Jan. 1943, the mean sounding
+
+dave at 15 km for Lakehurst, N. J. is: Temperature -59.5°C
+
+Pressure 120 mb.
+
+‘
+©
+Ne}
+
+i}

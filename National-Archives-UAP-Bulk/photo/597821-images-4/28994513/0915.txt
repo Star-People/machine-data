@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:54:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9117380, "source_ctime_ns": 1793385971009619883, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994513/0915.jpg", "source_mtime_ns": 1785748329000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994513/0915.jpg", "source_sha256": "f70648bd2df309910ce7aea9997f9449767d48be5861d6990a82c73070b1f1f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 613, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+% : ) DEPARWMENT OF THE AIR FORCE _
+STAFF MESSAGE BRANCH (
+
+AF IN 3: 51782. (11 Sep 61, )unctaspino ire e
+
+ACTION: GIN-17 N
+
+INFO : OOP#=2,
+
+SMB A 038
+CHOB719ZCYJC172
+PP RJEZHQ
+fue DE RJEDNU 7 se -
+
+_-ZNR -
+P 111300Z
+FM TECH TNG CEN CHANUTE AFB ILL
+TO RJWFAL/ADC ENT AFB COLO
+RJEDSQ/ATIC WPAFB OHIO
+-RJEZH@/H@ USAF WASH DC
+RJEZHQ/OSAF WASH DC
+BT :
+UNCLAS OSD15@J. ACTION: SAFS AND AFCIN Ha SAF. FOLLOWING REPORT
+SUBMITTED IN ACCORDANCE WITH AFR 200-2, PARAGRAPH 15:
+A. DISCRIPTION OF OBJECT
+(1) OVAL SHAPE
+(2) PELLET
+(3) BLUE, GREEN, ORANGE.AND YELLOW
+(4) ONE
+(5) NONE
+(6) NONE
+
+(7) DIFFUSED LIGHT AROUND OBJECT

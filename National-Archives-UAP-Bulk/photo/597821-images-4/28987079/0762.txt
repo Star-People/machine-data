@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:52:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8719903, "source_ctime_ns": 1793383469245393479, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0762.jpg", "source_mtime_ns": 1785747889000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0762.jpg", "source_sha256": "487108e1d98fb19e7393fbfdb0b9de5963adbfedd6404e36102b2f7b54154507"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 381, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+
+CHANUTE TECHNICAL TRAINING CENTER (ATC)
+
+UNITED STATES AIR FORCE
+CHANUTE AIR FORCE BASE, ILLINOIS
+
+ao: 17 June 1960
+
+SUBJECT: Report of Investigation, UFO Sighting
+
+To: ATIC, Wright-Patterson AFB, Ohio
+The attached report is submitted in accordance with AFR 200-2.
+
+FOR THE COMMANDER
+
+~ O, MOSHER 4 Cot, 4, S.A, 1 Atch
+Colonel, USAF As Stated
+
+FOR OFFICIAL USE ONLY

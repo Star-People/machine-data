@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:55:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9701609, "source_ctime_ns": 1793387542090518297, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998825/0810.jpg", "source_mtime_ns": 1785748247000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998825/0810.jpg", "source_sha256": "d628f3cce82a459db8d234e7ea7f09d9ad3b5253930fa6600074d664dc1d1c16"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 827, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSFRED MESSAGE
+
+INCOMING
+
+MF IN : 40931 (29 Aug 62) Page 1 of 2
+
+‘
+
+INFO ; GIN-17, ARMY-2, CMC-8, JCS-35, OSD-15, NSA~-7, CIA-11,
+OOP-2, OOP-CP-1, DIA-10, DIA-CTIC-3, SAPS=3 (115)
+
+F/jpr
+
+SiB A 2355 |
+OO RUEAHQ
+
+DE RUALKH &
+
+0 2919492
+
+Fil $26 AIR DIV KUNIA FACILITY HAWAII
+
+TO RUHLKM/ PACAF HICKAM AFB HAWAII
+
+RUKAC/C GIALSEAFRON K@IAK ALA
+
+RUVUSPG@ CQIWESTSEAFRON SAN FRANCISCO CALIF
+RUHPQ/CGIHAWSEAFRON PEARL HARBOR HAWAII
+INFO RUEAH@/COFS USAF WASHINGTON DC
+RUYGALB/CINCNORAD ENT AFB COLO
+RUHPA/CINCPAC CAMP HM SMITH HAWAII
+RUHAFS/CINCUSARPAC FT SHAFTER HAWAII
+RUHPiYCINCPACFLT PEARL HARBOR HAWALI
+RUAUAZ/C GIUSJAPAF FUCHU AS JAPAN
+
+RUAN CR/C A{USKOREA SEOUL KOREA
+RUAGFL/COMUSTDC TAIPEI TAIWAF
+
+RUHPD/ CQIASWF ORPAC FORD ISLAFD HAWAII
+RUCSBR/CINCSAC OFFUTT AFB NEBR

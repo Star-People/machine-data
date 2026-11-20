@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:47:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7739287, "source_ctime_ns": 1793364073837768743, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0059.jpg", "source_mtime_ns": 1785684581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0059.jpg", "source_sha256": "6dc04dcbc22c79aeeeba74bcdf8b1812dc9360821346a5a884d143918d89011c"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 355, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Subj: Unidentified Aerial Phenomenon
+SPOI INTELLIGENCE REPORT 14 April 1950
+
+Sound and/or Odor: None
+
+Time in Sight: Approximately two minutes
+Manner of Disappearance: Unknown
+
+3. ACTION: Report submitted to the Director of Special Investigations.
+
+C Bz pithy),
+OU SAF
+
+7 DOYLE REES
+
+It Col
+USAF
+District Commander
+
+Declassification Authority: NND 923007

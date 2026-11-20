@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:28:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3575087, "source_ctime_ns": 1793376567732671885, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961251/1071.jpg", "source_mtime_ns": 1785696948000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961251/1071.jpg", "source_sha256": "65cc9ed10836e7cdaa04ac68da2cb09ef99bbece5b0b1955bc33099d4c5d64b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 806, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+{
+:
+a
+§
+ome
+
+PROJECT 10073 RECORD CARD
+
+1. DATE 2, LOCATION 12, CONCLUSIONS
+a oa a le ¢ aaa) O Was Balloon
+LO February 1955 New Orleans, Lovisiana C} Probably Batloon
+3. DATETIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+oe : O Was Aircraft
+Local ALK Ground- Vi sual O Ground-Radar S Probobly Aircraft
+GMT 16/00472 O Air Visual O Air-intercept Radar KX Possibly Aircraft
+5, PHOTOS 6; SOURCE A Wis Aeon
+OYos 1) Probabby Astronomical
+XNo Civilian QO Possibly Astronomical
+7. LENGTH OF OBSERVATION 8, NUMBER OF OBJECTS | 9 COURSE (1, Other
+OD Insufficient Data for Evaluation
+, O Unknown
+4 minutes one ENE
+10. BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+A yellowish orange light moving in one Possibly a/c,
+
+direction, wavering to one side, Was
+blinking when faded from view,
+
+ATIC FORM 329 (REV 26 SEP 52)

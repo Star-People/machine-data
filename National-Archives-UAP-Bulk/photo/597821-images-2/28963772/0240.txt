@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:32:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4103071, "source_ctime_ns": 1793377444799149118, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963772/0240.jpg", "source_mtime_ns": 1785696886000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963772/0240.jpg", "source_sha256": "6aca84ef2371046d2df21fe27d7aa1b8b09d47616eec402e9ca60e834e6eab76"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 792, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+4 1. DATE 2. LOCATION 12. CONCLUSIONS
+: O Was Balloon
+‘ 28 Aug 55 Riceville, Iowa CF Prabobly, Galleon: .
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION 0 Possibly Balloon
+Fs QO Was Aircraft
+Local 3501202 +f) Ground- Vi sual O Ground-Rador GQ Probably Aircroft
+GMT__; O Air Visual O Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS $. SOURCE O Was Astronomical Arcturus
+BE O Yes 2X Probably Astronomical ,
+lo eivilian O Possibly Astronomical
+| 17. LENOTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 0D Other.
+4 sf DO Insufficient Data for Evaluation
+j 3 hrs 30 min 1 sta OD Unk
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Round, red, green, and wite, no sound. Probably Arcturus. Arcturus sets at
+
+about time of disappearance of obj.
+
+ATIC FORM 329 (REV 26 SEP 52)

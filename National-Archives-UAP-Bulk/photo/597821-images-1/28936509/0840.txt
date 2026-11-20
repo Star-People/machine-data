@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:30:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3874652, "source_ctime_ns": 1793371077581668219, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936509/0840.jpg", "source_mtime_ns": 1785689010000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936509/0840.jpg", "source_sha256": "532eb2c9ad3a1881c8598067bdef3fff854103a7e7cb1ef230ca5c1578d6378b"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 425, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+} : UNCLASSIFIEN
+
+B/L Office of the Base Operations Officer, 3415th Tech Tng Wg & Lowry AFB -
+25 Aug 49. Subj: Report of Aircraft
+
+Gilchrist, W. T. Captain C-4.7-9956 University Student
+
+Godfrey, E. 0. Captain C-4.7-9956 University Student
+Crosland, R. T. Captain C-1,7=2073 University Student
+Mickish, W. J. Captain C-1,7-2073 University Student
+
+let. » PASRISH
+
+Captain, USAF
+Asst Base Operations Officer
+
+UNCLASSIFIED
+
+2

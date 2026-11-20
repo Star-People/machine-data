@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T13:39:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5703903, "source_ctime_ns": 1793378877228152870, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969637/1012.jpg", "source_mtime_ns": 1785701009000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969637/1012.jpg", "source_sha256": "3bd7f4c4b856673e71b86e5ffe2df7b59dc53724329898b731a64a8bb364897a"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 834, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+7s WEAYHER AND WINDS ALOFT AT TIME AND PLACE OF SIGHTINGS (
+Ae MONTGOMERY, ALA CLEAR AND 129
+
+As PENSACOLA, FLA CLEAR AND 19
+
+B. SURFACE 189 DEGREES 5 KNOTS
+6403 FEET 18% DEGREES/ 18 KNOTS
+
+$4,938 FEET 194 DEGREES/ 10 KNOTS
+
+16,998 FEET 229 DEGREES 19 KNOTS
+(23/9000 FEET 224 DEGREES/A@KNOTS
+39/340 FEEY 239 DEGREES 414 KNOTS
+56,903 FEET 229 DEGREES/ 30 KNOTS
+63/09 FEET UNK DEGREES’ UNK KNOTS
+
+C. CEILING CLEAR
+D. VISIBILITY UNLIMITED
+3. CLOUD COVER-CLEAR TO PARTLY CLOUDY
+
+PAGE FOUR RJESYQ 2B
+
+F ,THUNDERSTORMS= SCATTERED
+
+& UNK
+
+9. NONE
+19. UNK
+
+11. OPERATIONS OFFICE, MAXWELL FLIGHT SERVICE CENTER, MAXWELL AFB,
+
+ALABAMA METEORS
+
+12. REMARKS OBJECT OBSERVED THROUGHOUT SOUTHEASTERN US AT SAME TIME.
+OBJECT APPEARED VERY CLOSE TO ALL OBSERVERS NO NOISE HEARD BY ANY OF
+
+THE OBSERVERS SIGNED GOLINSKY END '
+BY
+
+23/95542 APR RJESY®

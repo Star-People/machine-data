@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T14:14:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 798679, "source_ctime_ns": 1793393828979339387, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580963/0414.jp2", "source_mtime_ns": 1785808313000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580963/0414.jp2", "source_sha256": "98162a996976ce3f9da803986251e93351e599626b82c8559d9ba4205a082be2"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 106, "method": "ocr", "page": 1, "variant": "plain-psm3"}
++: P Ny ptr tg
+RYO Mey) ss sagt ars screws <del tee
+ote Leena ‘fe ‘ Paige 328 gets PATS aN Bah Ee isa de
