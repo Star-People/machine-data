@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T17:39:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7024031, "source_ctime_ns": 1793384561828054237, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0321.jpg", "source_mtime_ns": 1785748429000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0321.jpg", "source_sha256": "b4bc9a2250e894b6b9f916607c5aeaa7b72bb720b06a0c5ff84c638e67c39707"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 89, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+No Case (Information Only) 13 December 19690
+Dubuque, Iowa
+
+>
+\
+/
+cen *
+=" ‘i ane ee ee

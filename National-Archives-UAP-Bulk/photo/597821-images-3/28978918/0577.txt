@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T17:37:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6833662, "source_ctime_ns": 1793380943801630091, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978918/0577.jpg", "source_mtime_ns": 1785700892000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978918/0577.jpg", "source_sha256": "63daea99853b5d0a91256bc278171f21454c9b32f6d52f44d25e10b595d2680a"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 743, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+Probably Bell
+12 Jul 58 ton, sat Ale tt
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possidly Balloon
+150 * Mk Was Aircraft
+Local RGround-Vi sual G Ground-Reder Q Probobly Ai reraft
+GMT 13 £0250Z 0 Air Visual O Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. E O Was Astronomical
+O Probably Astronomical
+Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 0 Other
+8 os hla Data for Evaluation
+nown
+80 secs one East
+
+10, BRIEF SUMMARY OF SIGHTING
+Obj with appearance of shooting star,
+changed brightness. No sound.
+
+COMMENTS
+
+Theee were two a/c in the area
+at the time, which is probably
+what was sighted.
+
+ATIC FORM 329 (REV 26 SEP 52)

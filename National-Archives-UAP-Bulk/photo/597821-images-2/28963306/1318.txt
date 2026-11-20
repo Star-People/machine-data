@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:27:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6316638, "source_ctime_ns": 1793377337486970008, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963306/1318.jpg", "source_mtime_ns": 1785696650000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963306/1318.jpg", "source_sha256": "47b12319746f6b33cef95c44f5918e75a48c8717c350137c6d2aefb17c00528f"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 587, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Folder #1
+
+LeTaT
+oo em eS — ae ee
+
+L
+
+FF Ww Pw
+
+JI ON w
+
+co
+
+DATS
+a9
+27
+26
+26
+26
+26
+
+17
+
+L7
+
+AUG 1955 SIGHTINGS
+
+ji + 15
+LOCATION
+
+Hermosa Beach, California
+Burbank, California
+Paisley, Oregon
+Muscatine, Iowa
+Fordland, Missouri
+Chicago, Illinois
+Pattilion, Nebraska
+Green. Bay, Wisconsin
+North Branch, New York
+Harrisburg, Pennsylvania
+Arlington, Virginia
+Sacramento, California
+Madrid, Spain
+Cutleville, Michigan
+isnhoeming, Michigan
+seattle, Washington
+seattle, Washington
+Alhambra, California
+
+Las Vegas, Nevada
+Roseville, California
+Newport Beacn, California
+
+Hollywood, California

@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T17:51:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19153756, "source_ctime_ns": 1793357912480651475, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1715-582892-0010.tif", "source_mtime_ns": 1785564993000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1715-582892-0010.tif", "source_sha256": "ac633b8cd4616ea598720dedbc6da202b1b24a4ef46a902d52bb5033783addb8"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 120, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i
+AF 582 2a0¢ A ieee Mes ie Av Cpe cf.
+pice, #y meceoe ike 01
+“CADE-43 7 D  — ie
+
+Declassification Authority: NND 57565

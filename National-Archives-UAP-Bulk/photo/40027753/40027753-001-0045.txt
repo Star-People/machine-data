@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T17:50:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17177496, "source_ctime_ns": 1793361577890534606, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0045.tif", "source_mtime_ns": 1785565383000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0045.tif", "source_sha256": "0d060c897ac749e5b64eebe9c0abb9e697fd66d7914e266fe072f6c334aa3dd5"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 244, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FWY
+
+3s
+
+e e .
+
+s
+
+WMH
+
+Oct. 1-2), 157 File £ in9o3hy1
+Tos Anseles. (Cel, :
+Observer; FiNewee
+Plugs
+
+Jan, 17-13, 1953 File £ 199395
+Pate eee i: . ce
+Huisa,. Oslanona ;
+Osserver: Seep
+
+Pipe Cleaning Anode
+
+Box 5k
+L232
+8/5/¢
+
+Pox 53
+Lavw2
+8/5 'p
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 0, "method": "ocr", "note": "no OCR text extracted", "page": 2, "variant": "no-text"}

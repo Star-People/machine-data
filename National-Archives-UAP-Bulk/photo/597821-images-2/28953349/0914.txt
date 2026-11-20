@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:15:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3870571, "source_ctime_ns": 1793374808562699650, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953349/0914.jpg", "source_mtime_ns": 1785696524000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953349/0914.jpg", "source_sha256": "6a5befe1309f715cb7bd4417559a93129e1b96f851e53d333ad3a230a42b78b8"}
+
+===== PAGE 1 =====
+{"alpha_words": 202, "chars": 1381, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+k SUBJECT: Carswell AFB Radar Sites
+TO: § ATIAB-5 a FROM: ATIAE DATE: 4 Aug 53 COMMEMIYNO, 2
+THRU: ATIAE ‘W ATIAE2/Mr, /wh
+\ 65364/Bldg 266 a
+
+l. Reference is made to the additional information mentioned in paragraph
+1 of Comment No. 1. This information is quoted below:
+
+"Blips were at extreme range of radar, and operator could not tell
+whether they moved in range, but they did not move in azimuth. Blips did not
+change size. Blips disappeared into noise and did not reappear. Radar observers
+then attempted to pick them up on tail radar of another B-36 aircraft unsuccess-
+fully. Returns of nearest blip were very sharp compared to B-36 target. Other
+blip was just above noise level of the radar.”
+
+2. The characteristics of the above signals are compatible with those of
+ground return. The inclosed weather information indicates that there was a
+temperature inversion at 1000 Mb pressure (near the earth) and at 850 Mb pressure.
+Also a rapid moisture laps¢began at 890 Mb pressure.
+
+3. It is considered that it is highly probable that the reported radar
+targets were ground targets.
+
+4, This correspondence may be downgraded to CONFIDENTIAL upon removal of
+inclosure, in accordance with paragraph 25e, Air Force Regulation 205-l.
+
+1 Incl ° I//James
+nje Chig#, Radiation Section
+
+SOWNCRADED AT 3 YEAR INTERVALS;
++ DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+
+i, UNCLASSIFIED

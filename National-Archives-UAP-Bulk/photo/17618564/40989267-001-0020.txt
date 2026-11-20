@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T17:49:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13398299, "source_ctime_ns": 1793355438522722820, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0020.jpg", "source_mtime_ns": 1785564455000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0020.jpg", "source_sha256": "a1414e4f6d30de6c7e0b2aa8deee757f8ea0486661073b3e5571e2186a1f932d"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1036, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+iil
+
+1. INTRODUCTION
+
+This is a report on some of my investigations of the theoretical shapes and
+stresses of fully-inflated free balloons. The most recent published report on the
+shape of balloons appeared in 1953! and concerned work performed at the University
+of Minnesota. Since that time, new manufacturing techniques have been devised,
+new materials have become available, and new operational methods have been put
+intouse. Thus a new look at balloon design was indicated. Furthermore, I was
+interested in comparing my results, using a digital computer, with those of the
+
+University, which utilized an analog computer.
+
+2. DISCUSSION
+
+With these items in mind, I began a search of the literature for earlier papers
+on the shape of inflated devices. The earliest references that I found were to
+graphical? and fnechaities|” solutions for the shape of a lighter-than-air craft, such
+
+as an airship; this work was done in 1914. These authors assumed that the weight
+
+(Author's manuscript received for publication 31 December 1963)

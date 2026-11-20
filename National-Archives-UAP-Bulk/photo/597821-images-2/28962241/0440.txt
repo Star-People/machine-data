@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T17:37:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6706157, "source_ctime_ns": 1793376909289049160, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962241/0440.jpg", "source_mtime_ns": 1785696830000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962241/0440.jpg", "source_sha256": "79c82b69abfc66864678a6c6cd500a13b1c39c4c6037e860746c5b0ecaf652ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 107, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pty SICAL SPet men
+
+oF
+CNGlLEeWoD, Gla
+— SIEHTING
+
+is tf Fol DEVe_
+One Cr eey FoLclow/sNe-
+
+THis Fol DER.

@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:13:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3420526, "source_ctime_ns": 1793382508066302874, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984257/1077.jpg", "source_mtime_ns": 1785700774000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984257/1077.jpg", "source_sha256": "db2d1050e112b1c69b5ad58e320a74456f360da008e8dcb422f86050f1f9df27"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 19, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+G i UNK
+
+HIKJ UNK

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T17:42:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7594603, "source_ctime_ns": 1793367730205579090, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0269.jpg", "source_mtime_ns": 1785565768000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0269.jpg", "source_sha256": "9c86da5b6732b243eca1dd12bdeb4d2551067f4f04bcf7327572f736a97aa44a"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 87, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+et
+
+ad
+
+ae
+
+a
+
+o ty
+
+om
+ow
+eo
+
+%y
+
+a
+ak
+
+bi
+
+Ca
+
+a
+
+sh
+“
+
+ow
+wa
+
+W 4G
+foe ok 24
+
+2
+
+a

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:13:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3363860, "source_ctime_ns": 1793380595740767816, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977069/0295.jpg", "source_mtime_ns": 1785700739000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977069/0295.jpg", "source_sha256": "2aaa454dd31707ac03bbfadfebda6deb5ca36e1273a360df062794b381633e1c"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 918, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2 LOCATION 12. CONCLUSIONS
+O Was Balloon
+19 Fed 58 Topeka, Kansas GQ Probably Balloon
+pe = , ; = O Possibly Balloon
+3. DATE-TIME GROUP 4, TYPE OF OBSERVATION
+5 : G Was Aircraft
+kG d. -
+Local Visual O Ground-Radar Gi PrebantyrAlveratt
+GMT 19/22007 D Air Visual DO Air-intercept Radar O Possibly Aircraft
+5. PHOTOS 6- SOURCE O Was Astronomical
+O Yes Q Probably Astronomical
+“<8 Ne Military GO Possibly Astronomical
+7, LENGTH OF OBSERVATION 3. NUMBER OF OBJECTS | 9. COURSE D Other
+HQ Insufficiens Data for Evaluation
+aie O Unknown
+l[-2 secs one downward
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Comet-like falling obj, orange flame, |Probably accidental release of
+size of dime. Appeared to have tail some obj fm a/c. Possible day-
+four times diameter of obj. Appeared |light meteor, possible burst of
+to disintegrate. WK pee eins Obj evaluated as no
+
+ATIC FORM 329 (REV 25 SEP 52)

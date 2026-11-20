@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:04:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 993005, "source_ctime_ns": 1793389126555300266, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536750/0362.jp2", "source_mtime_ns": 1785808233000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536750/0362.jp2", "source_sha256": "39bc814e63b0c36af7208a698406dd76bcb6f1f162a8e998222470858d4509e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 366, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+"INCOMING DEPARTMENT OF THE AlN FORCE HNC; ASS cicr
+MESSAGE STAPZ MESSAGE BRANCH IWUL MOON HEY
+
+re
+
+AF IN : 58700 (28 Nov 64) Page 2 of 2
+
+RUAGL/ COMUSTDC
+R UC SC/C INC SAC
+BT
+
+UNCLAS
+
+1. CIRVIS REPORT
+
+2. QF 5351
+
+3. VERY BRIGHT OBJECT
+
+4. 13.00 NORTH 162.00 WEST
+Se 28/14152
+
+6. UNKN OWN
+
+7. WEST
+
+8. UNKN OWN
+
+9. POSSIBLE ROCKET RE-ENTRY
+BT
+
+Do S52 F or Ne fees

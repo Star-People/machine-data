@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:17:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3964362, "source_ctime_ns": 1793384110646672240, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988962/0260.jpg", "source_mtime_ns": 1785747944000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988962/0260.jpg", "source_sha256": "f3050f493d2667e482ede632a7d8accf23fe3dbbc027af1f69b3cec1da9e84d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 744, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(4) Straight flight path.
+(5) Instantly.
+
+(6) Visible 3-5 seconds, traveling about 6 times faster than
+Echo I,
+
+c, Manner of Observation:
+(1) Naked eye.
+(2) NA,
+(3) NA.
+d. Time and Date of Sighting:
+(1) 2058, 15 Sep 1960.
+(2) Night.
+e. Location of Observer: 3323N 0735W.
+f. Identifying Information on Observer:
+(1) eee 56, 3922d CSG, Box APO 30,
+NY, NY., Chief, Civil Engineering Section, Engineering Division,
+reliable, has been an engineer entire life, worked for USAF since
+1954, previously for Army Engineers.
+(2) NA,
+g. Weather and Winds:
+
+(1) Clouds to west to ahout 45~ above horizon, rest clear,
+
+2) Surface - calm
+6000' - 260/35
+10,000' - 270/35
+16,000 - 280/ 35
+20,000' ~ 280/45
+30, y' - 390/40
+; y = 3107 35
+80,900' - none ailable.

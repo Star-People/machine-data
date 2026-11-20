@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T18:03:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 990507, "source_ctime_ns": 1793389107591347944, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536427/0076.jp2", "source_mtime_ns": 1785808294000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536427/0076.jp2", "source_sha256": "56b5a85d7a8abded599f869cb969c20a7d12f1c235689fc5bcabb8e1f8d1a783"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 703, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ad
+
+- DATE - TIME GROUP
+
+L LOCATION
+
+4, November 1964 05/07282 49.58N 171.024 (Pacific)
+3, SOURCE 10. CONCLUSION
+Military Satellite (ECHO II)
+eC eee ECHO II at 70 deg Norht, 166 deg Hast heading SE at tine of
+One observation. Satellite in position for observation.
+5. LENGTH OF OBSERVATION /|11, BRIEF SUMMARY AND ANALYSIS
+8 Minutes Possible Satellite white brightness of 2d mag star in flight
+RVATION Norht to South under ooservation for eight minutes. Sighted
+oe ee ees at 350 deg azimth 40 deg elevation. Disappeared overhead at
+Air-Visual 80 deg elevation.
+7. COURSE
+South
+8. PHOTOS
+O Yes
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+
+XX Ne
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used,
