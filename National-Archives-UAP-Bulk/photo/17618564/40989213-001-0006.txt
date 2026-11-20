@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:48:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4254365, "source_ctime_ns": 1793354494845011905, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989213-001-0006.jpg", "source_mtime_ns": 1785564295000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989213-001-0006.jpg", "source_sha256": "99fe84d6c600cb709356c6f1e25fe2422a68d7c7f33f03660910d20567871813"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 190, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+0. THOMPs;
+'SPHERIC ANALYSIS LABORATORY
+
+US ODAY CAPT. PHILIP
+CHIEF, UPER AIR LABORATORY CHIEF, ATMO:
+;
+
+NC. GERSON
+
+CHIEF ELECTROMAGNETIC PROPAGATION LABORATORY
+
+RY
+STRIAL
+ERREST
+cuier, T

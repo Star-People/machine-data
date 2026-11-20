@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:35:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1087063, "source_ctime_ns": 1793355831987672928, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0085.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0085.jpg", "source_sha256": "8bcb58323adcc0e0e884e51b76432af1ad56cef5911e33f4259ae095137d2fb1"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1464, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+al
+SALES OF
+
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON, DC
+
+Office of the Secretary
+
+1 May 1996
+
+MEMORANDUM FOR SAF/AAZ (LT COL PATTERSON)
+
+FROM: SAF/AAZD
+
+SUBJECT: TRIP REPORT, 22 - 26 APRIL 1996
+
+Purpose: To examine additional sources of information to support findings in the second
+Roswell report.
+
+Places Visited/Sources Checked:
+
+1
+
+Albequerque, NM - University of New Mexico Library - New Mexico newspapers from the
+40’s thru the 60’s, books on local history;
+
+. Roswell, NM - City Library - newspapers, books on local history.
+
+Chavez County Clerk - review public records for judgments for/against the
+Air Force.
+
+. Las Cruces, NM - City Library - newspapers, books on local history.
+
+Dona Ana County Clerk - review public records for judgments for/against
+the Air Force.
+
+. Carrizozo, NM - Lincoln County Clerk- review public records for judgments for/against the
+
+Air Force.
+
+Sante Fe, NM - State of New Mexico Archives - public records of the State Board of
+Thanato Practice for possible Air Force involvement.
+
+Farmington, NM - to conduct in person interview and obtain signed sworn statement from a
+former Air Force member.
+
+City Library - review newspapers and books on local history.
+
+Aztec, NM - to conduct in person interview and obtain signed sworn statement from a former
+Air Force member
+
+City Library - review newspapers and books on local history.
+
+San Juan County Clerks Office - review public records for judgments
+for/against the Air Force.

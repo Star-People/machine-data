@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:44:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3727456, "source_ctime_ns": 1793373450495298562, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946988/0799.jpg", "source_mtime_ns": 1785688720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946988/0799.jpg", "source_sha256": "4fbf5e7aa6f6b4d04cd1fbdd2a4c19662bb8f06338dd17d41c59c91e2936401e"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 650, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+"AIR TECHNICAL INTELLIGENCE CENTER ss /
+WRIGHT-PATTERSON AIR FORCE BASE : / 3
+OH10
+
+4, September 1952
+
+von AntonLo, Texas: J : wits she's
+Dear te /
+
+Your resent report of. unidentified aerial phenomena has been |
+received by the Air Technical Intelligence Center, inclosed is a
+
+questionnaire, which, when completed by you and returned in the
+Lnclosed, self-eddreased envelope, will aid in standardizing the
+data and will preside a complete record of the occurrence, |
+
+Your interest in reporting the matter and your pudlis spirited
+desire to be of service are greatly appreciated.
+
+Bincerely yours,
+2 Incle + ROBERT E, KENNEDY y,
+Aap Adjutant Pic”

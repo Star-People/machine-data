@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:51:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5085053, "source_ctime_ns": 1793374510554454971, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951980/1131.jpg", "source_mtime_ns": 1785696676000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951980/1131.jpg", "source_sha256": "311616873dd82f757afe19ecb392335fff58999dc143fda0d49f8054c278b710"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 609, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED |
+
+'*  "ATTC Document 19'%66 (A) forwards several newspey ~ clippings that appeared
+in the Karachi, India, Press onjll and 12 December ,pertaining to flying
+saucers sighted at Karachi area.
+
+The RPAF reports that no RPAF aircraft were operating at high altitude in
+the Karachi during the times saucers were sighted. Further investigation and
+inquiry on the reports will be made if the information justifies.
+
+ATIC comment: The above mentioned inclosures, newspaper clippings, were
+not with the report.
+
+DOWNGRADED AT 3 YRAR INTER .
+DECLASSIFIED AFTER 12 YEARS’
+DOD DIR 5200.10
+Ba.
+
+UNCLASSIFIED

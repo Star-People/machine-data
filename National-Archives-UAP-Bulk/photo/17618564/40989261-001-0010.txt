@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:53:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6008579, "source_ctime_ns": 1793355080750410783, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0010.jpg", "source_mtime_ns": 1785564390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0010.jpg", "source_sha256": "ffe741531ce7510e7a77c4c205588264c794d2ebcd7556700eb37f0eae78f774"}
+
+===== PAGE 1 =====
+{"alpha_words": 230, "chars": 1557, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+The minimum temperature found at or near the tropopause can be a
+problem for balloons of certain materials. The temperature decreases
+systematically towards the south, at these levels and White Sands
+Missile Range temperatures average about ten degrees centigrade
+
+colder than standard.
+
+Thunderstorm activity is restricted to the summer months, and
+nurtured by the surrounding mountains. The moisture comes up from the
+Gulf of Mexico, and the most intense activity is triggered by very
+weak summer fronts or easterly waves. Primarily, however, the activity
+is diurnal, One can usually depend upon launching after the night time
+activity is diminished, and before new vertical development commences.
+
+Downwind afternoon activity is the major problem in these months.
+
+2.1. Monthly Climatology
+
+Seasonal changes obstinately prefer to overlap months, but since
+data is normally summarized in monthly form, these become the most
+convenient time intervals for describing trends.
+
+The best criteria for evaluating monthly weather would be by actual
+cancellation. One can look at daily reports for the whole year, and
+define limits. On an actual flight, however, compromises and adjust-
+ments are made which impart more degrees of freedom. The primary
+
+weakness of rating months by actual cancellations, is the flight
+
+frequency, Which is biased by other factors, such as climatological
+
+recommendations, and the winter holidays when White Sands Missile Range
+closes down. Nevertheless, the record cf cancellations is a good starting
+
+point for monthly ratings.

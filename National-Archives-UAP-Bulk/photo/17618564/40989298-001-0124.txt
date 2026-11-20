@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:26:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 651208, "source_ctime_ns": 1793356018341306591, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0124.jpg", "source_mtime_ns": 1785564584000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0124.jpg", "source_sha256": "5391e3a46b24ceecc792b5ee53e8b4a1b7bef94c11bae41f003156683a1d902a"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 770, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+The distinguished scientists Albert
+
+P. Crary (left) and Dr. Maurice
+Ewing collaborated at various
+
+scientific research institutions
+throughout their careers, in addition
+to performing their work for the
+U.S. Air Force. In the course of
+their collaborations, these men had
+affiliations with Lehigh University,
+Columbia University, and Woods
+
+Dr. W. Maurice
+Ewing, preeminent
+geophysicist and
+oceanographer. It was
+Ewing who first
+conceptualized the
+military significance of
+the atmospheric sound
+channel. His proposal,
+made directly to the
+Commanding General
+U.S.Army Air Forces,
+General Carl Spaatz,
+was well received and
+resulted in the
+initiation of Project
+MOGUL (see App 6).
+Photo Courtesy of Woods
+
+Hole Oceanographic
+Institution.
+
+Hole Oceanographic Institution.

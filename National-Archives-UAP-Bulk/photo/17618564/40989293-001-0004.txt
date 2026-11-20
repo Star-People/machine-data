@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:26:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 405787, "source_ctime_ns": 1793355937384623224, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0004.jpg", "source_mtime_ns": 1785564563000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0004.jpg", "source_sha256": "9640bc285443d0cb42285936fb7beca1b16feff529c8606340293f4e261169bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 430, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+present volume by Dr. Bushnell is designed to fill that need. It attempts an accurate but
+not too technical account of actual project research, and at the same time seeks to de-
+monstrate how the Aeromedical Field Laboratory and its truly significant achievements
+
+have been related to work carried on at other institutions within the same general fields
+of study.
+
+James Stephen Hanrahan
+
+Chief, Historical Office
+December 1958

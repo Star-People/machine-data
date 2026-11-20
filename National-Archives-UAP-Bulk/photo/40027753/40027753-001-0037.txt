@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:14:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19015140, "source_ctime_ns": 1793361570012008554, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0037.tif", "source_mtime_ns": 1785565381000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0037.tif", "source_sha256": "7fdae19c5df311f460b9c8461c98287713f001d05d60e6aaada9e5550195bd36"}
+
+===== PAGE 1 =====
+{"alpha_words": 244, "chars": 2006, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+BIBLIOGRAPHY: UNIDENTIFIED FLYING OBJECTS
+
+Adamski, George. Behind the Flying Saucer Mystery. New York: Paperback Library, 1967.
+
+Blum, Ralph with Blum, Judy. Beyond Earth: Man's Contact with UFOs. New York: Bantam
+Books, 1974,
+
+Catoe, Lynn E, UFOs and Related Subjects: An Annotated Bibliography. Washington:
+Government Printing Office, 1969.
+
+Condon, Edward U., project director. Scientific Study of Unidentified Flying Objects.
+New York: Bantam Books, 1969.
+
+Edwards, Frank. Flying Saucers--Here and Now! New York: Bantam Books, 1967.
+
+Fuller, John. Aliens in the Skies. New York: Berkeley Medallion, 1969.
+
+Hynek, J. Allen. The UFO Experience: A Scientific Inquiry. Chicago: Henry Regnery,
+1972,
+
+Jung, Carl G, Flying Saucers: A Modern Myth of Things Seen in the Sky. Translated by
+R. F. C, Hull. New York: Harcourt, Brace, 1959; Signet, 1969.
+
+Keyhoe, Donald. Aliens From Space. Garden City, N.Y.: Doubleday, 1973,
+
+Klass, Philip J. UFOs--Identified. New York: Random House, 1968.
+
+Lore, Gordon, and Deneault, Harold H. Mysteries of the Skies: UFOs in Perspective.
+Englewood Cliffs, N.J.: Prentice-Hall, 1968.
+
+Lorenzen, Coral and Jim, Flying Saucer Occupants. New York: Stpnet, 1967.
+UFOs: The Whole Story. New York: Signet, 1969.
+
+Menzel, Donald, and Boyd, Lyle G. The World of Elyingeoaucers, Garden City, N.Y:
+Doubleday, 1963.
+
+Ruppelt, Edward J. The Report on Unidentified Flying Objects. Garden City, N.Y.:
+Doubledway, 1956,
+
+Sagan, Carl, and Page, Thornton, eds. UFOs: A Scientific Debate. Ithaca, N.Y.3
+Cornell University Press, 1973,
+
+Vallee, Jacques. Anatomy of a Phenomenon, Chicago: Henry Regnery, 1965.
+
+Jacobs, David M. The UFO Controversy in America
+
+Bloomington, Indiana: Indiana
+University Press, 1975.
+
+Berlitz, Vharles & Moore, William L. The ‘toswell Incident Grosset & Dunlap, New York 1980.
+
+Fawcett, Lawrence & Greenwood, Barry J. Clear Intent: The Government Coverup of the
+
+UFO Iixperience Englewood Cliffs, NJ
+Prentice-Hall 198h.
+
+ONG,
+
+SJAIHOUV TYNOILYN 3HL LY G3IONGOYdIY
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 0, "method": "ocr", "note": "no OCR text extracted", "page": 2, "variant": "no-text"}

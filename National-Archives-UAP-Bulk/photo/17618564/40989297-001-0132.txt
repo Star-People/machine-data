@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:31:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 485747, "source_ctime_ns": 1793356003604057529, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0132.jpg", "source_mtime_ns": 1785564579000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0132.jpg", "source_sha256": "e7436779354f5683adbfcbf827713da599aa4e6ec750de6193c9f7c0baa95bf2"}
+
+===== PAGE 1 =====
+{"alpha_words": 1, "chars": 14, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+May 24, 1994

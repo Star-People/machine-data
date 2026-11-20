@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:07:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10290378, "source_ctime_ns": 1793361262790098945, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0272.tif", "source_mtime_ns": 1785565270000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0272.tif", "source_sha256": "b3d2237f0e46235a771c858288826767b144080e9c3de2e5f8fbec4c4ed67541"}
+
+===== PAGE 1 =====
+{"alpha_words": 186, "chars": 1340, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SOURCE DISTRIBUTION CONTROL RECORD ——Numner 1205264
+
+5 CLASSIFICATION s Cc NOFORN
+Sabi : ‘ = D) x S ee NOV 3 ee
+
+: CIREL, ED > INDIC 5 SEPIA
+
+RESTATELETORNCE "EXPD-PY - 1. 1 ORGS MISCELLANEOUS
+X1A a | 2D1 Peed [XPD-PL 1 1. ALCND - es  FPRSD 1°17
+XL Ceara Hirh Fag {XPD-SP 1 1 GMIc 1 1 Lit
+X1D feat iy ie ea MMS 1-4 CONAD 1 1 Phey
+1X Nal Poke ed USAF CMDS EXINL AGCYS: tot
+LXI Sera ARD (1-3 SAC (in PSA 174 wot
+1AR 1 12 3A TAC vs JMEPC 1 1 SPEC ROUTING
+LA Soo st ode EE) ee a {APG Lo} 1TIOA 174
+Lae ATIC, A} 1- MATS 1 1 AEG i ie CSI %F 2150
+PAG oo 7teet CIN-Z 1 1 ACIC-pC 11 LABOR 1 1
+ALD viele. NTPC 1 ACIC-SL 1 1 NACA 1 1
+TA fi) 1 qos” USAF ARS ii AFSWP 1 1 ;
+1A3 ries SAFGC: 1 1 AFSS 1.4 ComRC 1 1
+ASGARD le te CST 1 it SSOP 11 STATE
+LBS Cy AAC-3 1-1 ADC Ne NSA
+1B4 Pee DRO UT 4 CONAC 1 1 NAVY (14
+2A1 rid {BAP i 1 TRC 11 ARMY
+2A2 pets DAP-R 1 1 ARDC (1/R cra (b\ on
+2A3 Ved RAND 1 1 USAFE 1. 1 UsTAL wi : 1B1-DATA ze
+2A5 1 OOP. 9.1.1 CAIRC 1-4 TREAS 1 1 CYS |PGS | TOTA’
+2 Be 4 DAT. od etic ALAC 1 3 FOREIGN GOVTS lrpyrt! 4 a
+ici ei! OAT-11.°1 PAF Pel BJSM fad
+2102 el Cac 2. 1 AU ie ae eee CIS. _|SEPIA} | /
+263 aiiat PUP 1" INTNL CMDS AJSS =
+2C4 1) 1 PYR i 1 SHAPE 1.1 NZIS‘
+2c5 a } abe Geer Oat noraD ‘1.1: GIARTS}
+RELEASE SYMBOL [ COPIES RECEIVED ~ aoe DESTROYED _DATE SCREENED * | DATg NOVIGHS J
+
+DECLASSIFIED
+Authority NND 9237007

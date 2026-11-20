@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:59:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8456213, "source_ctime_ns": 1793381042930187945, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979134/0770.jpg", "source_mtime_ns": 1785700685000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979134/0770.jpg", "source_sha256": "32366c4c0f36c2313b32adb84a79a0a061c1892ecfa739721d8641c4d5955449"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 656, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+o-Jd Joe ae
+CHIC 45 0
+
+2 October 1961
+Dear Mr, GUUS
+
+A thorough search of the UFO files at Wright-Patterson AFB,
+Ohio failed to reveal the two cases you refer to in your letter
+of August 7th.
+
+The closest we could come to the area and date was a sighting
+
+that occurred at 2107 GMT, July 20, 1958....This object was observed
+from a civilian aircraft for approximately 5 seconds and the conclusion
+
+was that the individual ws observing a balloon.
+
+I hope that this information is helpful.
+Sincerely,
+
+WILLIAM T. COLEMAN, JR.
+Major, USAF
+
+UFO Project Officer
+
+Public Information Division
+Office of Information
+
+a
+Director of CURFO
+
+SE vom
+cago 18, Illinois

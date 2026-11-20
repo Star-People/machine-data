@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:52:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5625610, "source_ctime_ns": 1793380423936068627, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975856/00691.jpg", "source_mtime_ns": 1785700618000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975856/00691.jpg", "source_sha256": "5a708ddcdd3c4a8e1f2f0763b92f6d3c96ffa84049258693e6d377da1a12b1e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 957, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+__*6 December 1957
+
+2. LOCATION
+
+La Madera, New Mexico
+
+_
+Ld
+
+3. DATE-TIME GROUP
+
+4. TYPE OF OBSERVATION
+
+Local BXGround-Vi sual © Ground-Radar
+GMT 07/00112 0 Alr Vi sual O Air-Intercept Radar
+S. PHOTOS 6. SOURCE
+O Yes
+flo Civilian
+
+7. LENGTH OF OBSERVATION
+
+still in sight
+
+8 NUMBER OF OBJECTS | 9. COURSE
+side to side
+
+one
+
+ogo oo00 oo95 ooo
+
+- CONCLUSIONS
+
+Was Balloon
+Probably Bailoon
+Possibly Balloon
+
+Wos Aircraft
+Probably Aircroft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Dota for Evaluation
+nknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+One object round, size of basketball,
+color white light. Object moved side to
+|Iside 5S feet in either direction.
+
+Binoculars used,
+
+11, COMMENTS
+
+South,
+
+Due to lack of information diffi-
+cult to evaluate. Probably astro-
+nomical; however, information was
+of position at 45 dgr elevation in
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:46:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3956383, "source_ctime_ns": 1793386853736707364, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997594/1171.jpg", "source_mtime_ns": 1785748269000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997594/1171.jpg", "source_sha256": "b4cca61887df117dea381d8c28975cc7662602e29da76434990faf02c1bbee85"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 671, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PUBLISHED BY THE
+
+NOTE:
+corrections
+
+AERONAUTICAL CHART AND INFORMATION CENTER
+UNITED STATES AIR FORCE
+ST. LOUIS 18, MO.
+'t is requested that all users of this chart mark hereon
+and additions which come to their attention and
+
+mail direct tg COMMANDER, AERONAUTICAL CHART AND
+INFORMATION CENTER, SECOND AND ARSENAL, ST, Louis
+18, MISSOuR!
+
+65°
+BU”
+
+Pa)
+BASE 2
+
+; ON MARCH 1953
+
+\
+
+ACK
+
+HARBOR FACILITIES
+Logistic planners may obtain complete detailed information
+on port facilities and freight handling capacities for
+shipping if H.O. Pub. No. 950, World Port Index (UNCL),
+published by the U.S. Navy Hydrographic Office.
+
+75° | {
+
+NEW ZEALAND GNC 25
+
+SCALE 1:5,000,000
