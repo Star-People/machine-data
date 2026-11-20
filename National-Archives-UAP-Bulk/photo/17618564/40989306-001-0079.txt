@@ -1,0 +1,93 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T16:09:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1431559, "source_ctime_ns": 1793356167425686204, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0079.jpg", "source_mtime_ns": 1785564626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0079.jpg", "source_sha256": "b72dd5a657ebb1287180f27ac41054c4db5245be6c510618470416b3f7f52df7"}
+
+===== PAGE 1 =====
+{"alpha_words": 256, "chars": 2104, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CONFIDENTIAL
+
+@ run; 115-v, 60-cye ac; 1,750 rpm.
+
+SPINNER GENERATOR: 1,750 rpm; 15-v, 30-cye
+
+ac; 2 phase, 2 wire, self-excited.
+RECEIVING SYSTEM
+
+TYPE OF RECEIVER: Superheterodyne.
+
+NORMAL FREQUENCY: 1,680 me.
+
+INTERMEDIATE FREQUENCY: 30 me.
+
+‘ FREQUENCY CONTROL: Automatic.
+
+INPUT IMPEDANCE (receiver): 50 ohms. . ,
+
++R OSCILLOSCOPE TUBE: 3JP1.
+
+PRESENTATION (selected by oscilloscope setting):
+a Error signal; b Modulated rf; ¢ Relative position
+of transmitter.
+
+ANTENNA POSITIONING SYSTEM
+
+TRACKING: 3 types; automatic, local manual, re-
+mote manual.
+
+DRIVE MOTORS (elevation and azimuth) ; 60-v de,
+1.4 amp split stator, reversible; 1/20 hp at 5,000
+rpm.
+
+TACHOMETER GENERATORS (elevation and
+azimuth): 2.1-v de at 100 rpm; self-excited, perma-
+nent magnet.
+
+POSITION INDICATION
+SYSTEM
+
+SYNCHRO GENERATORS (elevation and azi-
+muth): Type IV_ single-phase, self-synchronous;
+energizing voltage 115-v, 60-cye ac.
+
+AND RECORDING
+
+930761—51—-3
+
+SPINNER MOTOR: Induction, capacitor start and ~
+
+wr vie} tgs “Sais
+
+MODIFIED HANI” nice.
+HANDLING AUTHORIZED
+SYNCHRO MOTORS (elevation and azimuth):
+Type V single-phase, self-synchronous; energizing
+voltage 115-v, 60-cyc ac.
+TYPE OF RECORDING: Time, elevation angles,
+and azimuth angles printed on tape.
+PRINTER MOTOR: 115-v, 60-cye ac, synchronous
+type; capacitor run; single phase.
+USED WITH: Radiosonde AN/AMT-—4; Radiosonde Re-
+ceptor AN/FMQ-1.
+PRINCIPAL COMPONENTS
+Pedestal AB-159/GMD-1
+Antenna Assembly AS-462/GMD-1
+Antenna Control C-578/GMD-1
+
+Receiver R-301/GMD-1
+Control Recorder © M—577/GMD-1
+
+WEIGHTS AND VOLUMES
+
+Export
+Unpacked packed
+Total weight (Ib)_.-.----.--- _ 2, 140 3, 654
+Total volume (cu ft)_---.---- 155. 83 242. 5
+(approx)
+Ship tons__----- . — Fee eee 6.6
+
+Note. For export shipment, Rawin Set AN/GM D-1 is packed in 11 wooden
+crates. For domestic shipment, the outrigger assembly, the antenna reflector
+sections, and the two cable reels are shipped unpacked; the other components
+are shipped in seven transit cases. Usually, all components are arranged
+and transported in a 1-ton trafler.
+
+alan 7 1]
+PNCD.FLED HANDLILIG AUTHO zee

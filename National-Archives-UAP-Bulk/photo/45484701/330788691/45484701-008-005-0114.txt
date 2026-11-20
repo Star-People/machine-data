@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:32:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6876551, "source_ctime_ns": 1793365350412910035, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0114.jpg", "source_mtime_ns": 1785684613000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0114.jpg", "source_sha256": "712b13bdd5ad60143b36fee3ed71bf62d486339267f14ac99751ed4b985b7f68"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 477, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ry
+CIRO ie i saee
+SSHRC) A bei
+i .
+
+bet al ges sad be 4
+2a a a,
+
+B/L fr HQ PACD MATS, APO 953 1st Ind
+Subjs Unconventional Aircraft,
+dtd 18 Apr 50
+
+MATS 2h=173
+
+HQ, MILITARY AIR TRANSPORT SERVICE, Andrews AFB, Washington 25, DC
+
+TO: Headquarters USAF, The Inspector General, ATTN: Dr of Special
+Investigations, Washington 25, DC
+
+Attention is invited to basice
+
+FOR THE COMMANDER:
+
+_ARTHUR-ANDREWS
+Colonel, USAF
+Deputy Inspector General
+
+Declassification Authority: NND 923007

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:43:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9805994, "source_ctime_ns": 1793362269674753812, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0029.jpg", "source_mtime_ns": 1785685170000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0029.jpg", "source_sha256": "ac51bd78d45b643eeab0fb10a57231090b7b01159b354a8a335dfb1b2785b6b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 943, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+o wert 6
+
+Page 2
+Guide to Investigation Inelident No.
+19. Projections (fins, wings, rods, antennae, canopies, ete.): None.
+Maneuvers (turns, climbs, dives, etc. - sketch of flight path): Hone.
+21. Manner of disappearance: Vanished from view suddenly.
+2e0 Effect on clouds: None.
+23. Additional information concerning object: Bone.
+24. weather conditions and light at time of sighting: Clear day, bright sun.
+Heme and address of observers
+Clive C. Matthews Donald Horne
+Box 635, Davenport, Lowa teho Camp Ledge, Keewatin,
+Ontario |
+Occupation and hobbies:
+S/A Federal Bureau of Investigation Guide
+Comaent of Interrogator relative to intelligence and character of observer
+
+(Check neighbors, police dept., FBI records, employer, etc): Not applicable.
+
+Did observer wear glasses, especially poleroid glasses at time of sighting,
+or Was object viewed through canopy, window, or other transparent material?
+
+Declassification Authority: NND 923007

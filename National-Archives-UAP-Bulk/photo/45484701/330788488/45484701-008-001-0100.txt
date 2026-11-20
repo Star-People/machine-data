@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:36:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8041992, "source_ctime_ns": 1793365234780500573, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0100.jpg", "source_mtime_ns": 1785684669000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0100.jpg", "source_sha256": "5f16a76d54542b4210be30dcb92249ef6b247cc1f4b5cba587dc9fd8fa9fbe91"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 584, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+ALASKAN ATR COMMAND
+The Inspector General
+Office of Special Investigations
+APO 942, c/o POSTMASTER, SEATTYE , WASHI NG TON
+2
+
+AATSI-2 9(h)-16 K 12 January 1951
+SUBJECT: Flashes Occurring Near ut. Aanford, Alaska
+POSITIVE INTELLIGENCE (Scientific)
+
+Director of Special Investigations
+Headquarters USAF
+Washington 25, D. C.
+
+Forwarded for your information is report of investigation, file
+
+9()-13, subject as above, dated 2 January 1951.
+
+reps 1 8 Ra EDWIN A. HARTLEY
+
+Report of Investigation Lt Colonel, USAF
+Director
+
+BY AUTHORIT:
+
+Declassification Authority: NND 923007

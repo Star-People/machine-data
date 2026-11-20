@@ -1,0 +1,124 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:48:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13234392, "source_ctime_ns": 1793354445574345521, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0078.jpg", "source_mtime_ns": 1785564286000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0078.jpg", "source_sha256": "73cfcfd4ea68b9864d3ea844c66eaaa81565822570c9cd29f3b59a17ef922db9"}
+
+===== PAGE 1 =====
+{"alpha_words": 555, "chars": 3810, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ATMOSPHERIC SCIENCES
+
+Precipitation, clouds, wind, light-
+ning, and climate affect Air Force sys-
+temas and operations on earth and:in the
+lower atmosphere. The Air Force Geo-
+physics Laboratory studies the basic
+physical processes of these events and
+
+develops sensing, modeling, and pre-
+diction techniques. It leads the Air
+Force in this area of atmospheric re-
+search.
+
+Weather hazards can be remotely
+sensed by ground-based radars and by
+
+weather satellites. AFGL is actively en-
+gaged in both technologies. In associ-
+ation with the National Weather Ser-
+vice and the Federal Aviation Admin-
+istration, AFGL is assisting in the
+development of the next generation
+Doppler weather radar (NEXRAD). Un-
+like conventional radar, a Doppler sys-
+tem can measure the speed of raindrops
+and ice crystals relative to the radar.
+Since these particles move with the
+wind, the Doppler radar measurement
+gives a fairly accurate measurement of
+wind speed toward, or away from, the
+radar. Early detection of such hazards
+as wind shear, tornadoes, and gust
+fronts thus becomes possible. AFGL
+produces algorithms for identifying,
+tracking, and predicting weather
+hazards and estimating their severity.
+
+Polarization diversity radar tech-
+niques have also been developed to de-
+termine the size, shape, number and
+-oncentration of precipitation par-
+ticles. These particles may attenuate
+signals from Air Force communication
+systems, damage airframes, and erode
+reentry vehicle nose cones.
+
+Weather satellites provide indis-
+pensable information on storms and
+cloud formations worldwide. AFGL has
+
+developed automated cloud-analysis
+programs for Air Force Global Weath-
+er Central. For the Tactical Air Forces,
+the Laboratory has designed a system
+combining a satellite platform and an
+unmanned air vehicle platform to col-
+lect weather observations within en-
+emy-controlled areas. Tactical Decision
+Aids, which give battle planners es-
+timates of maximum target detection
+and lock-on range of a variety of
+““smart’? weapons under varying weath-
+er conditions, have been successfully
+tested.
+
+The Laboratory does extensive
+computer modeling of weather ele-
+ments to improve short-term and long-
+term weather forecasting. It also
+evaluates particular cases such as the
+“nuclear winter’? scenario and the dis-
+persion of toxic chemicals and other
+atmospheric debris. Cloud microphys-
+ics models simulate the growth of ice
+crystals, snowflakes, the melting of
+snow in the atmosphere, and the
+
+growth and evaporation of rain and
+cloud drops. These effects attenuate
+signals from Air Force communica-
+tions and surveillance systems and con-
+tribute to a'rcraft icing.
+
+The nuieérical simulation of glo-
+bal weather circulation patterns has ad-
+ded to the accuracy of weather fore-
+casting. The laboratory has developed
+a model of th global atmosphere called
+the ‘‘Global Spectral Model.”’ Regional
+numerical weather prediction models
+have also been designed for cloud and
+moisture forecasts. These models have
+scale sizes on the order of an airfield
+and support operational air forces.
+
+AFGL also provides research and
+development support to the Air Weath-
+er Service. The Air Force is planning to
+modernize its weather stations by in-
+stalling interactive graphics terminals
+as part of an Automated Weather Dis-
+tribution System. Laboratory meteor-
+ologists have developed interactive pro-
+cedures to assist operations forecasters
+
+in using the Automated Weather Dis
+tribution System.
+
+AFGL supported the National Oce
+anic and Atmospheric Administratio1
+in developing the Prototype Regional!
+Observing and Forecasting Services
+(PROFS) program.
+
+The Laboratory is responsible for
+revising MIL-STD-210B, ‘‘Climatic Ex-
+tremes for Military Equipment,” which
+provides climatic data for equipment
+being designed for use worldwide.

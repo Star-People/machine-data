@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:48:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12491732, "source_ctime_ns": 1793366746601784444, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0164.jpg", "source_mtime_ns": 1785565586000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0164.jpg", "source_sha256": "f917eb49c0a3e2452821e37c6b6cf56dc9c64291c4202132d23705ff537c24a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 36, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Vw
+
+}/ //
+ws OTT TTT TTT
+
+war’ h -

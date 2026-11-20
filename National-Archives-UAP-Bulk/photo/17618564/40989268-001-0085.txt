@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:50:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14841418, "source_ctime_ns": 1793355647012271558, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0085.jpg", "source_mtime_ns": 1785564495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0085.jpg", "source_sha256": "9986e34e64d1d603623b68632ae7118e32e46e896dba3cafc4e9d6f748f6f9da"}
+
+===== PAGE 1 =====
+{"alpha_words": 241, "chars": 1529, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+XV. Temperature Measurements from
+
+Floating Balloons
+
+W. C. Wagner
+
+Air Force Cambridge Research Laboratories
+Bedford, Massachusetts
+
+The main problems in the measurement of ambient air temperature from
+floating balloons are (1) the change in the air temperature caused by heat exchange
+with the balloon system and (2) the heat exchange of the sensor with the air and the
+radiation field.
+
+The heat exchange of the balloon system with the air is dependent on the balloon
+dimensions, balloon movement, the balloon material and the radiation field. It can
+change the temperature field considerably. In Figure 1 is shown a scaled-down
+model of a balloon in a liquid where the Grashoff number is of the same order of
+magnitude as that of a balloon of medium size at high altitude. The temperature
+difference between the balloon and the air as in the model of Figure 1 corresponds
+to the condition of a mylar balloon at night. The temperature differences for poly-
+ethylene balloons are usually smaller due to the lower absorption coefficient of
+polyethylene in the infrared range. The balloon wake in this case is not so strong
+and breaks up at a shorter distance from the balloon. At daytime the balloon skin
+temperature is usually somewhat warmer than the air temperature. This will
+affect the area around the gondola when the balloon is slowly rising. The area
+around the gondola is therefore not a good place to measure the air temperature and
+
+a better place would be 2 to 3 balloon diameters below the balloon. The wind shear

@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:54:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20378336, "source_ctime_ns": 1793357488155386082, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0022.tif", "source_mtime_ns": 1785564909000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0022.tif", "source_sha256": "f4a15af49ed32b0f535923aa2151177b22f1cf71c18ebb0d4055c8ceb1c55af9"}
+
+===== PAGE 1 =====
+{"alpha_words": 225, "chars": 1568, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SECRET
+
+RADAR OBSERVATION DATA SHEET
+
+I. QUESTIONS REGARDING DETECTING RADAR EQUIPMENT
+What type radar equipment is involved?
+AN/FPS~3
+Has there been any recent maintenance difficulties? If so, describe.
+
+Negative
+
+What type modulator (i.e., spark gap, hard tube, etc.) is used in the radar equipment?
+Hard Tube
+
+Was the AFC (automatic frequency control) circuit of the receiver operating properly?
+
+AFC was performing efficiently on "Manual" position.
+
+Has interference from another. radar set been observed recently, and are personnel
+familiar with vhe effects caused by an interfering signal?
+
+No interference, and personnel are familiar.
+What type indicators, "A scope, "B scopet, etc.e, were used to follow the target?
+PPI Scope
+
+What was the radar scan rate?
+
+Five (5) RPM, 400 PRF
+What was the approximate frequency of the transmitter?
+
+1290 MC
+
+II. GENERAL QUESTIONS
+
+What were the general weather conditions at the time unidentified target was observed?
+
+High thin overcast and low broken overcast.
+
+What weather data from nearby U.S. weather stations is available on temperature vs .
+altitude, humidity vs altitude, and wind velocity vs altitude?
+
+Nearest weather station is Kirtland AF Base, New Mexico.
+Was the target observed by any other nearby radar equipments? If so, give details.
+
+No
+
+Are the operator and the supervisor familiar with the effects of anomalous (duct-
+effect) propagation as they pertain to this type radar?
+
+Yes
+
+AD Page 1 of 3
+
+C Form a.
+20 October 1952
+
+SECRET
+SECURITY INFORMATICiN
+
+43 3/543
+
+Declassification Authority: NND 57565

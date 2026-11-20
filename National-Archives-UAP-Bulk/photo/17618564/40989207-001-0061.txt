@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:46:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10960394, "source_ctime_ns": 1793354433804282206, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0061.jpg", "source_mtime_ns": 1785564284000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0061.jpg", "source_sha256": "5d346ba2ebcc4616a4b9b5513589d508567acbd4f0993fedf696de54d8ba50bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 239, "chars": 1813, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4
+
+Recognized as a national leader in space research and development, the
+Air Force's Phillips Laboratory combines a talented military-civilian
+employee workforce with unique capabilities, resources, and facilities
+to form a world-class research center for national defense.
+
+i ocaied at Kirtland Air Force Base, New Mexico, the Laboratory is
+charged with furthering research and development in space and missile
+systems, geophysics, directed energy, and advanced weapons concepts.
+
+With an annual budget of approximately $700 million, Phillips Labora-
+tory scientists are performing in-depth exploitations of the technologies
+involved in developing spacecraft, ballistic missiles, and directed-
+energy weapons. The Laboratory places a strong emphasis on integrat-
+ing and transitioning its technologies into aerospace systems.
+
+The Laboratory concentrates its research and development in six
+technical areas: geophysics, propulsion, space and missiles technology,
+lasers and imaging, advanced weapons and survivability, and space
+experiments.
+
+Named for space technology pioneer, General Samuel C. Phillips, the
+Laboratory has more than 2,400 military and civilian employees
+throughout the country. While the majority of employees work at
+Kirtland Air Force Base, major components reside in California and
+Massachusetts.
+
+Formed in December 1990, the Phillips Laboratory replaced the Air
+Force Space Technology Center, which consisted of a headquarters at
+Kirtland Air Force Base, New Mexico; the Weapons Laboratory, also
+at Kirtland; the Geophysics Laboratory at Hanscom Air Force Base,
+Massachusetts; and the Astronautics Laboratory at Edwards Air Force
+Base, California.
+
+The following pages will highlight some of the major scientific en-
+deavors in progress by the Laboratory's six technical directorates.
