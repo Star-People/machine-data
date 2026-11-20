@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T16:50:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15375942, "source_ctime_ns": 1793355662569724347, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0101.jpg", "source_mtime_ns": 1785564498000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0101.jpg", "source_sha256": "ba49aa91fe5caf3ff99d680c654ec971d2f72cfbb40e5a28182367be74ad460b"}
+
+===== PAGE 1 =====
+{"alpha_words": 366, "chars": 2501, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TEMPERATURE ZONE
+<== TROPICAL ZONE
+meme ARCTIC ZONE
+
+ALTITUDE 10° FEET
+
+220 240
+
+TEMPERATURE °K
+
+Figure 1. Standard Atmosphere Temperature Profiles
+
+In the arctic winter the balloon is about 40°C colder at release than it is in the
+
+Temperate Zone and the temperature falls relatively slowly until a temperature in
+
+the order of -55°C is encountered at approximately 30,000 feet. The atmosphere
+
+then continues to cool slowly and the temperature at 100,000 feet is about -60°C.
+
+The problem in developing this special-purpose balloon, therefore, was to
+design a compound with the following characteristics:
+
+1. It must be capable of being cooled to a temperature of -85°C without freezing
+
+and becoming brittle.
+
+. It must be capable of continued exposure to temperatures in the order of
+-60°C without becoming leathery and losing its ability to stretch.
+
+. It must be capable of being handled and launched at the ground temperatures
+encountered in tropical areas in the daytime as well as at night since this
+will be used in a dual-purpose balloon.
+
+. It must retain sufficient elongation under the low-temperature conditions
+outlined to produce a balloon capable of ascending to 100,000 feet.
+
+A series of compounds was evaluated and the physical characteristics,
+particularly the elongation, were determined at room temperature and at tempera-
+tures down to -85°C. For the compound selected, the elongation under various
+conditions is shown in Table 1. It can be seen that even if the balloon passes
+through a zone where the temperature is as low as -85°C it will not burst, providing
+that it is not expanded to an extent equivalent to a linear elongation of more than
+300 percent. Since the balloon in question is only extended to an equivalent of
+200 percent linear elongation at the altitude at which such low temperatures are
+encountered, it will successfully pass through this cold zone. As the temperature
+subsequently rises it will regain its ability to reach an elongation of 500 percent, for
+this reduction in elongation with temperature is a reversible phenomenon. Hence,
+the balloon will be capable of reaching the same altitude in the Tropical Zone as it
+
+does in the Temperate Zone.
+
+Table 1. Low Temperature Elongation
+
+Exposure Elongation
+Time %
+10 Mins
+10 Mins
+30 Mins
+10 Mins
+30 Mins
+10 Mins
+30 Mins
+10 Mins
+30 Mins
+
+It is also clear that prolonged exposure to low temperatures does not cause a
+
+progressive reduction in elongation. In fact, in every case the elongation recorded

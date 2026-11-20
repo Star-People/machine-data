@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T16:43:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8995613, "source_ctime_ns": 1793364639487341156, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0040.jpg", "source_mtime_ns": 1785684884000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0040.jpg", "source_sha256": "229c574eb9905919b60f0848923fbf98d0bb08daa35a07019455dd1d0dcf7b5f"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 565, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1.
+
+Headquarters, 19th DOSI, ( 1G) , May 1950
+Fairfield-Suisun AFB, California
+
+DETCO, Mather AFB Detachment
+
+Mather Field, California
+
+EDITORIAL CLIPPED FROM SACRAMENTO UNION
+
+The enclosed article from the Sacramento Union newspaper dated 1
+pap
+
+May 1950 is forwarded for your information. This article was extracted from
+the editorial page, by-line not listed, information supposedly from informa-
+tion given by radio commentator H. J. TAYLOR.
+
+1 inel.
+
+Detachment Commander
+Mather AFB Detachment
+
+Editorial from Sac Bnion
+
+Declassification Authority: NND 923007

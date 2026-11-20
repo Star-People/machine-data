@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T16:48:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13439437, "source_ctime_ns": 1793354955415039930, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989253-001-0045.jpg", "source_mtime_ns": 1785564369000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989253-001-0045.jpg", "source_sha256": "1202f061acff70ae337d098ef305d6a0c3a022bfde5a2edf60cb7d4867123d1a"}
+
+===== PAGE 1 =====
+{"alpha_words": 184, "chars": 2152, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+BALLOON R & D TEST BRANCH (Det 1)
+AF CAMBRIDGE RESEARCH LABORATORIES (OAR)
+UNITED STATES AIR FORCE
+HOLLOMAN AIR FORCE BASE, NEW MEXICO
+
+PERSONNEL LISTING
+OFFICERS
+
+Lt Col Robert C. Clemenson......eeoeeeFRI7385....4473-2871
+Capt Richard H. JeSSEN. cccoececeesveee FRS823564 66 04475-6656
+Capt Shawn H, Steinke. .cccccccceceses oF R3I0207..644475-2079
+[st Lt Robert M. Howard. .cccccesceveeeFR/06716.646475-2207
+
+CIVILIAN PERSONNEL
+
+Mr. Bernard D, Gildenberg.......437-5676
+Mr. Herbert G. Markley.eecece se 043/-0582
+Mr. Milford N. Brown.ccccccvesee4 3/=35974
+Mr. Ray N. Bethune. ccocceccecee e43/20552
+
+— Mr. Ernest G. Richards...e.e+eee43/-9238
+Mr. Samel C. GutierreZ...2000004357-56069
+Mr. Henry C. Schotter.....eeee0e43/-/346
+Mr. Blair N. Tenney. cccecseceeec4d/-2569
+Mr. Robert G. Blankenship.......
+Mrs Rae M. Butt si. sé ok 0 oes ve 0 0 0 401-5789
+
+*Mr. Lyle H. Danke.cccscsrccceeee e807 4465
+
+MILITARY ENLISTED PERSONNEL
+
+MSGT SSGT
+Harold V. Carter...AF34851439...473-2158 Walter 0. Shaffer...AF13455473...+..,5/12
+Melvin D. Johnson..AF14240420...473-2669 Walter G. Walch.....AF33952434.,,..473-6618
+Earl H. Wescoat....AF146055698...473=2506
+TSGT Roderick F. Woods...AF14602002,,.475-2745
+Roland H.M. Backs. .AF16375606.......3/12
+Grady C. Cole......AF14327161...437-4375 AlC
+Dalmer R. Ford....«AF18091499...473-2059
+_ Ernest N. kyriazi..AF13287506...473-6205 William G. Crawley...AF16512601...
+Albert C. Oravec...AF33473832.....--3311 Larry B. Cunningham. .AF13694791,.,,....371e
+Ronald F. Dalton.....AF14712018,..475-2897
+SSGT Joseph M, Dimaria,...AF13755170.......3712
+James A, Hyer....eeeeAFl8564513...4957-0182
+Joseph R. Benton. ..AF24993332...473-6959 William H. Johnson...AF19644964...437-7028
+Thomas Chesanek....AF21003459.......3311 Clifton Williams.....AF18545277...4
+James E. Cross.....AF13269900...473-6266 Charles W. Sperry....AF12678814.,.457-4088
+Donald G. Gresham, .AF14651472...473-6309 Rush R, Stanley.....AF1l6051033.....,,35712
+
+Edward E. Johnson. .AF27056287...473-2391
+William J. Kerr....AF28787877. .«473-6328
+Earl L. NorriS....«eAF15535229.. 473-2520
+Joseph F,. Potts...AF11364076...473-6991
+
+*Army Liaison
+
+17 June 1966

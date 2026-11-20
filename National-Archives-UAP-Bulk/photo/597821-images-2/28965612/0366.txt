@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T17:22:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3966834, "source_ctime_ns": 1793377836595995326, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965612/0366.jpg", "source_mtime_ns": 1785696584000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965612/0366.jpg", "source_sha256": "d898fc778779ea1943113f8a3121e0555c359a56a0cfef487aa5349027364afa"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 776, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+D0 Was Balloon
+13 May 1956 Retsil, Washington D Probably Balloon
+3. DATETIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+, O Was Aircraft
+Local O Ground: Visual O Ground-Reodor a Probebl y Rok cee
+GMT Lt/6621Z xox Air Vi sual D Air-Intercept Radar 0D Possibly Aircraft
+5. PHOTOS 6. SOURCE D Was Astronomicadeteor
+0 Yes 0 Probably Astronomical
+XENo civilian BXPossibly Astronomicol
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE D , Other
+D Insufficient Date for Evaluation
+QO Unknown
+seconds one north
+10. BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+
+One round object, 14 feet in diameter, Probably meteor,
+color white, sighted in NE moving N.
+Faded out after 4 seconds.
+
+ATIC FORM 329 (REV 26 SEP 52)

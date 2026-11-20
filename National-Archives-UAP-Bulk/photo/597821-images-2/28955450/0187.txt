@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T17:22:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3972282, "source_ctime_ns": 1793375287244254382, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955450/0187.jpg", "source_mtime_ns": 1785696623000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955450/0187.jpg", "source_sha256": "db499b32d5ec27137f88d991fb359086dab0b707bad0beedc2d89202f163007b"}
+
+===== PAGE 1 =====
+{"alpha_words": 207, "chars": 1355, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Poge 2
+
+8. IF you saw the object ot NIGHT, what did you notice conceming the STARS ond MOON?
+
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+a. None a. Bright moonlight
+b. A fow b. Dull moonlight
+c. Many c. No moonlight — pitch dark
+d, Don't remember d. Don’t remember
+
+9. What were the weather conditions of the time you saw the object?
+
+CLOUDS (Circle One): WEATHER (Circle One):
+b. Hay b. Fog, mist, or light rain
+c. Scattered clouds c. Moderate or heavy rain
+d. Thiek of heavy clouds d. Snow
+
+e@. Don’t remember
+
+10. The object appeored: (Circle One):
+
+a. Solid d. Asa light
+b. Transporent e. Don’t remember
+c. Vapor
+
+1. Of it appeared as a light, wos it brighter than the brightest stors? (Circle One):
+
+a, Brighter c. About the same
+b. Dimmer d. Don’t know
+
+11.1 Compore brightness to some common object:
+
+12, The edges of the object were;
+
+(Circle One): a. Fuzzy or blurred e. Other
+- Like a ae » stor:
+
+a, Don’t mes
+13. Did the object: (Circle One fer each question)
+a. Appear to stond still at ony time? Yes. No Don’t know $
+b. Suddenly speed up and rush oway at ony time? Yos No Don't know
+c. Break up into ports or explode? Yor No Don’t know
+d, Give off smoke? Yos Wo Don't know
+e. Change brightness? Yoo Re Don’t know
+§. Change shope? Yos No™ Don’t know
+g- Flash or flicker? Yos We Don’? know :
+h. Disappear and reappear? Yos io Don't know |

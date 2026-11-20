@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T16:30:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6116128, "source_ctime_ns": 1793383898054934312, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988229/0342.jpg", "source_mtime_ns": 1785748537000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988229/0342.jpg", "source_sha256": "6b10a963231d469ba8eb65a2ddf9ad2726fc8bcbfdf49201c0f2c29aee797c83"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 986, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+16 August 1960
+
+2. LOCATION
+
+Lakeland, Florida
+
+.3. OATE-TIME GROUP
+Local 2130
+
+4 TYPE OF OBSERVATION
+MX Ground- Vi sual
+0 Air Visual
+
+O Ground-Rodar
+
+OD Air-Intercept Radar
+
+17/0230Z
+O Yes
+
+Sh
+5. PHOTOS
+AX No
+
+6. SOURCE
+
+Civilian
+
+7. LENGTH OF OBSERVATION
+
+not reported
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+on0 North
+
+12, CONCLUSIONS
+
+QO Was Balloon
+O Probably Balloon
+O Possibly Balloon
+
+CK¥xXWas Aircraft
+Q Probobly Aircraft
+Possibly Aircraft
+
+Wes Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Data for Evaluation
+Unknown
+
+o00 aa0agqg a
+
+10. BRIEF SUMMARY OF SIGHTING
+
+South to North,
+
+Two objects (or illusions) moving
+
+at a high rate of speed side by side
+over Lakeland, Florida. No ound.
+Resembled meteors except that they
+made a turn, Only dots in sky. Moved
+
+11. COMMENTS
+
+Although duration not reported,
+the description of the flight
+and appearance conform to an a/c
+observation,
+
+ATIC FORM 329 (REV 26 SEP 52)

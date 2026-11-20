@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T17:18:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1879336, "source_ctime_ns": 1793394156280620764, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-003-0023.jpg", "source_mtime_ns": 1785567330000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-003-0023.jpg", "source_sha256": "2c9c4f8ba3aab255a04b4e440dbf55b9f66027e73d30027ab13d81a501e19b10"}
+
+===== PAGE 1 =====
+{"alpha_words": 172, "chars": 1114, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Paul Steucke Maren 5, 1987
+FAA, Public Affairs Officer
+
+Alaskan Region
+
+701 C Street, Box 14
+
+Anchorage, Aiaska 99513
+
+LACK OF "SCIENTIFIC" INVESTIGATION
+
+The Federal Aviation Administration has a number of employees who do
+scientific research with regard to aircraft, aviation, and reiated electronic
+equipment. The FAA does not have the resources or the Congressional mandate to
+investigate sightings of unidentified flying objects.
+
+We have not tried to determine what the crew of Japan Airlines flight 1628
+Saw based on scientific analysis of the stars, planets, magnetic fields, angle
+of view, etc. We have received letters from several persons suggesting that we
+ask the crew and others a variety of detailed questions from a scientific
+viewpoint. This we have not done and do not intend to do. We reviewed the data
+that was created by our systems, the interviews that were done by FAA to
+determine the status of the crew and the aircraft, and have provided that
+information to the public.
+
+Tne FAA has completed its investigation of JAL flight 1628, and does not
+intend to pursue it any further."
+
+if if #

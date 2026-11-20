@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T16:53:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17830578, "source_ctime_ns": 1793361536464123731, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0001.tif", "source_mtime_ns": 1785565376000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0001.tif", "source_sha256": "bee6c7e0c3b360e5364d82e4ff3dfc730a05248e569267eb9786573a9a32f552"}
+
+===== PAGE 1 =====
+{"alpha_words": 277, "chars": 1870, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REFERENCE REPORT
+PROJECT BLUE BOOK
+
+Textual records of Project BLUE BOOK (the documentation relating to investigations of unidentified flying
+objects), excluding names of people involved in the sightings, are now available for research in the
+National Archives Building. The records include approximately 2 cubic feet of unarranged project or
+administrative files, 37 cubic feet of case files in which individual sightings are arranged chronologically,
+and 3 cubic feet of records relating to the Office of Special investigations (OSI), portions of which are
+arranged chronologically, by OSI district, and by overseas command. A cubic foot of records comprises
+about 2,000 pages.
+
+Finding aids for these records include a file list for the project files and an index to individual sightings,
+entered by date and location.
+
+Access to BLUE BOOK textual records is by means of 94 rolls of 35mm microfilm (T-1206) in the
+National Archives Microfilm Reading Room. The first microfilm roll includes a list of contents for all of
+the rolls and the finding aids. Photographs scattered among the textual records have also been filmed
+separately on the last two rolls.
+
+Requests for copies of individual rolls of microfilm ($23 each) should be addressed to the National
+Archives Trust Fund Board, PO Box 100793, Atlanta, GA 30384. Requests for the 19-page report
+summarizing Project BLUE BOOK, dated March 1967, may be placed with the Archives II Textual
+Reference Branch (NNR2), National Archives at College Park, 8601 Adelphi Rd, College Park, MD
+20740-6001. The cost of photocopy orders is $.25 per page, with a minimum order cost of $6. Remittance
+should be made payable to the National Archives Trust Fund.
+
+Motion picture film, sound recordings, and some still pictures are maintained by the Motion Picture &
+Sound & Video Branch (NNSM) and the Still Picture Branch (NNSP).
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 0, "method": "ocr", "note": "no OCR text extracted", "page": 2, "variant": "no-text"}
