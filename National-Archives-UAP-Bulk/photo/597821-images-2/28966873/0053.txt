@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:59:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6846828, "source_ctime_ns": 1793378135782823580, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966873/0053.jpg", "source_mtime_ns": 1785696586000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966873/0053.jpg", "source_sha256": "d9772914d2251d0d99b64f86fd432f647f7987db1ef0de208bed1e7cd6afe89b"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 46, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Cs ESR in eA ARRAN REE >
+
+IFIED, .
+
+.
+~~
+dte

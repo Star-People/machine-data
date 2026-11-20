@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:29:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1288459, "source_ctime_ns": 1793390535544438660, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550816/0621.jp2", "source_mtime_ns": 1785808293000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550816/0621.jp2", "source_sha256": "5b8e6652cea7f6695681c0ca01b3e811b2a4863ca2643a42401df4fe533ab12a"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 774, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+iat ees eal Bale ted ae 20 al
+
+we neree os meteors. cet ame +0
+
+PROJECT 10073 RECORD |
+
+1. DATE + TIME GROUP
+3 May 66 / 05352
+
+2. LOCATION
+
+New Carlisle, Ohio
+
+3. SOURCE
+
+Civilian
+
+4. NUMBER OF OBJECTS
+One
+
+10. CONCLUSION Yer Ahk : Ta
+
+Astro(Moon)
+155 Az- 20 Elevation @ 0535Z
+
+5. LENGTH OF OBSERVATION
+
+Few minutes
+
+é. TYPE OF OBSERVATION
+
+Ground Visual
+
+7. COURSE
+
+3)
+
+in vengs
+
+&. PHOTOS
+
+S Yes
+
+& No
+
+9, PHYSICAL EVIDENCE
+
+G Yes
+2 No
+
+11, BRIEF SUMMARY AND ANALYSIS
+
+Observer noted bright light in sky at 0035. The
+
+object was visible for several minutes then disappeared
+beRind some clouds,
+
+From noted location of sighting in sky, the moon
+should have been visual between the scattered
+clouds.
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.

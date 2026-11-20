@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T11:00:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7004021, "source_ctime_ns": 1793355822128613353, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0099.jpg", "source_mtime_ns": 1785564533000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0099.jpg", "source_sha256": "f226301964bb1b2a330bd01875f72f19a39d6409904ff5ac971b93e0fbe48c5c"}
+
+===== PAGE 1 =====
+{"alpha_words": 228, "chars": 1499, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Library of Congress
+
+A SE ST SE ITE
+
+[AGENCY USE ONLY
+
+| 1. Name of publisher exactly as it appears on title page 2. Date form completed
+
+. First U.S. city named on title page as a place of publication ; 4. Projected publication date
+
+Month
+. Contact person 6. In-house editor
+
+Phone ( ) : Phone ( )
+
+Internet account number Internet account number
+
+. Title and subtitle
+
+. If title in Block 8 consists of more than one This application is for volume number 10. Check if book has
+physical volume, the number of volumes planned
+
+is [] Bibliographical references
+
+6 Index
+
+. Titles of other English language edition(s) if different from this title
+
+. If this is a translation from a foreign language, give original title Language of original title
+
+. If the title belongs to a series having a comprehensive title, the series title exactly as it will appear in The series number is
+
+the book is
+
+. If the series reflects a change in title, the earlier title of the series was AGENCY USE- ONLY
+
+. Distribution code 16. Primary audience 17: S Navel ~ 118. If for children or young adults
+Ba General zz Fiction/Literature Age
+By Other [__}Textbook es Grade
+
+4 Clinical Medicine
+” Indicate format for each ISBN listed. Check permanent paper (00) box for each ISBN to which
+ISBN i] °° ISBN
+ISBN [Joo ISBN
+
+. Summary of book's content
+
+. Name and address to which CIP data should be mailed
+
+Type or print firmly in ink
+
+NAME
+
+ADDRESS
+
+This label will be used to mail your CIP data to you.
+
+607-6 (rev 3/94)

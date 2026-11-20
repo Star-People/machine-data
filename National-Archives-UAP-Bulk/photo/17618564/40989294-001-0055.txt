@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T11:28:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1285958, "source_ctime_ns": 1793355963339893623, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0055.jpg", "source_mtime_ns": 1785564570000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0055.jpg", "source_sha256": "438de1927d13a0441a38369bb7f94670f83c1498567cfa21ca6d1d87bf2ac265"}
+
+===== PAGE 1 =====
+{"alpha_words": 267, "chars": 1740, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a9
+
+Discoverer track program actually laid the groundwork for
+Mercury. The Mercury program did not attempt anything quite
+so complicated as the first and second Discoverer runs
+(Snowball I) but the objectives and techniques of the two
+track programs still had much in common. The most obvious
+similarity was the mere fact that both programs aimed to
+reproduce a two-spiked satellite-launching pattern. This
+was to be achieved in the Mercury tests by a low-accele-
+ration boost followed after burnout by two distinct water-
+brake deceleration profiles each reaching a peak of about
+eight ee
+
+The initial run took place in the early morning of 6
+August 1960. The sled had been modified to hold three
+"flight couches," each capable of accommodating one chim-
+panzee subject--both to reduce the final cost of the test
+program and to permit exposure of three different animals
+to an identical g-profile (something that can never quite
+be accomplished in separate runs on the long track). But
+in this first test only one "couch" was occupied; the other
+two were replaced by ballast. Propulsion was supplied by
+four 1.8 KS 7800 Sparrow boosters, fired in four stages,
+but the maximum velocity of 417 feet per second was less
+than predicted, and thus the water-brake deceleration level
+also failed to match required performance. A further
+problem was the water discharge during the braking process,
+which interfered both with on-board camera coverage and
+with other instrumentation. (However, the run was imme=-
+diately followed by a test on the Daisy Decelerator, for
+water=-impact simulation, which provided a 20-g pattern as
+desired.)
+
+For the next attempt, on 25 August, ballast was sub-
+
+stituted for all three "flight couches," and an extra

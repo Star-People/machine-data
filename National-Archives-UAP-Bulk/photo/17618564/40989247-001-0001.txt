@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:56:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6137051, "source_ctime_ns": 1793354931285974242, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989247-001-0001.jpg", "source_mtime_ns": 1785564365000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989247-001-0001.jpg", "source_sha256": "dcfe1ccb6d062b742468fcd568efad582a2ad0b23735316f7cf3c56e7e3af751"}
+
+===== PAGE 1 =====
+{"alpha_words": 255, "chars": 1753, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON DC 20330-1000
+
+OFFICE OF THE SECRETARY
+
+JUN 2 (994
+
+SAF/AA
+1720 Air Force Pentagon
+Washington, DC 20330-1720
+
+Dr. Athelstan F. Spilhaus
+Box 1063
+Middleburg, VA 22117
+
+Dear Dr. Spilhaus
+
+As you may know, the General Accounting Office (GAO) has instituted an audit that wili
+review the Department of Defense's policies and procedures relating to acquiring, classifying,
+retaining and disposing of official government records dealing with weather balloon, aircraft and
+similar crash incidents. Among other things, the audit seeks to fully explain the claims that the US
+Government recovered an alien spacecraft near Roswell, NM, in July 1947 and since that time,
+has covered up that fact. In an effort to assist the GAO, the Air Force initiated a detailed
+independent review of our records pertaining to this claim. Your name has surfaced in regard to
+our historical inquiries.
+
+The bearer of this letter, Colonel Jeffrey C. Butler, Assistant for Special Plans, Programs
+and Operations is heading this review on my behalf. Colonel Butler has a TOP SECRET security
+clearance and is authorized access to all Air Force special access programs. If you have
+information that you feel may be classified, you may share it with Colonel Butler for this official
+Air Force purpose, without violating any security agreement you previously made. Clearance
+information or questions should be addressed to Colonel Richard L. Weaver, Director for
+Security and Special Program Oversight, at (703)693-2013.
+
+I request your full cooperation to help the Air Force officially resolve this controversial
+matter. I thank you in advance for your help.
+
+Sincerely
+
+WILLIAM A. DAVIDSON
+Administrative Assistant and
+
+Senior Security Official

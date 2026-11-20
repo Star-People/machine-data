@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:58:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6766914, "source_ctime_ns": 1793380763082888529, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978298/0029.jpg", "source_mtime_ns": 1785700812000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978298/0029.jpg", "source_sha256": "fd77f9f397d72b17ed2498c17887b96b643b1fca72916a89e92d329e2229f47b"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 626, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Dear Sirs
+
+Approximately on 22nd of May, I was traveling with my wife to the
+City of Nogales, Arizona. Around 2:00 o'clock in the afternoon when at the
+same time we saw that something came down from the sky like a meteor and
+landed about 10 miles from the side of the road. It was a brilliant white
+ball surrounded by flames. Like I said it was around 2:00 o'clock in the
+afternoon and was traveling in south to north direction perpendicular to
+earth. I am sending you this information so if it might be of any interest
+to your investigation and I'm ready to indicate the place where I saw this
+phenomenon.
+
+Sincerely yours,

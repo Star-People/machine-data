@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:34:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1724821, "source_ctime_ns": 1793391370784818026, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558136/00581.jp2", "source_mtime_ns": 1785808144000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558136/00581.jp2", "source_sha256": "b2eb426c6f0bbb613979b950575c49e64d26a4cc61161b63118ffcaf0c9d2cf9"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 546, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+22 Nov. 66
+
+Contact was made with WP AFB operations regarding the observence
+of an alleged UFO over the Dayton area on 18 Nov. 66 at approx
+imately 2300L. There were two aircraft which landed at the base
+shortly before the time of the sighting. Theres was no traffic
+leaving the base at the time of the Sighting. Descripti6n is
+consistent with that of an aircraft which would be in a slowly
+rising after take off pattern, It is possible that the observer
+Saw one of these two aircraft in a landing pattern. Both aircraft
+were of the DC-6 class.

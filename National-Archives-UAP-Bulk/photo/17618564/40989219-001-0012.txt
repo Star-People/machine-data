@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:59:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6830483, "source_ctime_ns": 1793354709464930763, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0012.jpg", "source_mtime_ns": 1785564329000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0012.jpg", "source_sha256": "792dde9b2f0d71f043aa078d58e143a484ad2df2d35d220323b42c82e97c3541"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 46, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+40 Get at
+
+Cy 4 A
+
+}2%—(1-3h
+uJ
+
+—v—ewr
+
+5-3

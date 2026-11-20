@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:46:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4388448, "source_ctime_ns": 1793386100537562787, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994838/0112.jpg", "source_mtime_ns": 1785748585000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994838/0112.jpg", "source_sha256": "571a722f98fdbcd71f45a090e61c9f961c7423cb1b4ee78419b7b624afe007f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 711, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT Of THE AI2 FORCE (
+
+AF IN : 8313 (25 Sep 61)N/der
+ACTION: CIN-17 a
+
+INFO : OOQP=-2, OOP-CP-1, ieee, 1 (24)
+SMB C 1890
+
+ZCHOD698ZCSUB352
+PP RJEZHQ
+
+ZNR ZFHI1
+CZCSUBS855ZC YJ A428
+
+PP
+
+DE RJEDBWL 8
+ZNR
+
+P 251700Z
+
+FM 783D ACW SQUADRON GUTHRIE AFS CHARLESTON W VA
+TO RJEZHQ/USAF WASH DC
+
+RJEZHO/COFS USAF
+
+RJWFAL/ADC ENT AFB COLO
+
+RJEDAH/3@AIR DIV TRUAX FLD WISC
+
+RJEDSQ/AIR TECH INTEL CTR WRIGHT PATTERSON OHIO
+BT
+
+Pa
+
+/ UNCLAS/7830C0 @9-952 FOR: SAFOI,AFCIN, ADOIN, S@OIN, ATIC,
+
+UFO SIGHTING REPORT IAW AFR 200-2
+
+PARA. 15
+
+15 A. (1) OBLONG
+
+15 A. (2) APPROXIMATELY TWO (2) MILES, 20 FEET WIDE
+15 A. (3) BLUE
+
+15 A. €4) ONE (1)
+
+15 A. (5) N/A
+
+15 A. (6) N/A
+
+15 A. €7) YELLOW FLAME TRAIL SAME SIZE.

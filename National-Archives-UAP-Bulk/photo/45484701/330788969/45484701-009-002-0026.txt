@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T11:10:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11491423, "source_ctime_ns": 1793365496289351904, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0026.jpg", "source_mtime_ns": 1785684817000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0026.jpg", "source_sha256": "99e1653991f4595940aef64334684bc8ef25b425c6f27350ad1ee98ee895b5b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 59, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Get Canin Qyewre-r
+
+Declassification Authority: NND 923007

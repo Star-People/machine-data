@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:58:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6729434, "source_ctime_ns": 1793364353923102557, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0136.jpg", "source_mtime_ns": 1785685112000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0136.jpg", "source_sha256": "f330ca5934950ea6cf4e232aef5826e40ea1847608ba9beefb39489444f17fc0"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1183, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. What were the weather conditions at the time you saw the object?
+
+34,1 CLOUDS (Circle One) 34.2 WIND (Circle One)
+
+Xa. Clear sky K a. No wind
+b. Hazy b. Slight breeze
+. Scattered clouds c. Strong wind
+. Thick or heavy clouds d. Don’t remember
+. Don’t remember
+
+34.3 WEATHER (Circle One) .4 TEMPERATURE (Circle One)
+
+Ka. Dry . Cold
+. Fog, mist, or light rain & b. Cool
+. Moderate orheavy rain . Warm
+. Snow « Hot
+. Don’t remember . Don’t remember
+
+. When did you report to some official that you had seen the object?
+
+L7th February 1953
+Day Month Venn
+
+. Was anyone else with you at the time you saw the object?
+
+(Circle One) % Yes No
+36.1 IF you answered YES, did they see the object too?
+(Circle One) R Yes No
+36.2 Please list their names and addresses:
+George Harvey
+los Alamos, Ne Me. (Insp. Geo. Harvey did not see this object.)
+fof WoO. Bowlin
+
+. Was this the first time that you had seen an object or objects like this?
+
+(Circle One) Byes No
+
+37.1 IF you answered NO, then when, where, and under what circumstances did you see other ones?
+
+. In your opinion what do you think the object was and what might have caused it?
+
+Do not now.
+
+Declassification Authority: NND 923007
