@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T21:13:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5171857, "source_ctime_ns": 1793378644835630459, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968690/0185.jpg", "source_mtime_ns": 1785696488000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968690/0185.jpg", "source_sha256": "68b6c0fae344e4880bf1d7c9bd9eae681e03d30a5c3ed9e00ec7be2909c13c20"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 368, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ER 8-9383—A
+
+8 January 1957
+
+Honorable Margaret Chase Smith
+United States Senate
+Washington 25, D. C,
+
+Dear Senator Smith;
+Thank you for your letter of 2 January 1957,
+enclosing a letter from Mrigqi Eee of Mexico,
+
+We will see to it that this letter is forwarded to
+the proper authorities for action,
+
+With kindest regards,
+
+Sincerely,
+
+/s/_ Allen W. Dulles
+Director

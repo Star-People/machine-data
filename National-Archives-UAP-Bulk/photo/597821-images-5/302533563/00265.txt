@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T20:56:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1232618, "source_ctime_ns": 1793388853971735683, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533563/00265.jp2", "source_mtime_ns": 1785808075000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533563/00265.jp2", "source_sha256": "50f4daefd7e3a57d010371b09dff2b94cca8c3a1eb724a35bb2f8e3960d91eb2"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 73, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ v
+
+Soviet Ure wrt Gh, c.ckh
+
+t\
+
+KEULA Qa
+
+v
+
+ie
+
+(Pernev ab
+
+re
+
+rol

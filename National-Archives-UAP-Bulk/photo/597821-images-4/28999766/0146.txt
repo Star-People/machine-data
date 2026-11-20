@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T21:09:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4653332, "source_ctime_ns": 1793388036513404113, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999766/0146.jpg", "source_mtime_ns": 1785748202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999766/0146.jpg", "source_sha256": "b1174904f6165a09824332f4d87e80686d33b20f15a4e1929dc411a936ada577"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 887, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+me
+
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION
+10 November 1962 North Star Bay, Greenland
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Local O Ground- Vi sual XixGround-Rodor
+GMT 10/06152Z O Air Visual D Air-Intercept Radar
+5.. PHOTOS « SOURCE
+O Yes
+2KNo Military
+
+7. LENGTH OF OBSERVATION
+
+not rptd
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+one inbound (?)
+
+12, CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probobly Aircraft
+Possibly Aircraft
+
+Was Astronomicol
+Probably Astronomical
+Possibly Astronomical
+
+o ooo o00 9000
+
+Other
+MX Insufficient Dota for Evaluation
+0 Unknown
+
+Fast moving target inbound at 0639Z,
+Lost in ground clutter,
+search area, L-20 search and F-102
+search without results,
+
+0. BRIEF SUMMARY OF SIGHTING
+
+11. COMMENTS
+
+Insufficient data for evaluation.
+AC sent to Only data given was that a target
+was inbound,
+
+ATIC FORM 329 (REV 26 SEP 52)

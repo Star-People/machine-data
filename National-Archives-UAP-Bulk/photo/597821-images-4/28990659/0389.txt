@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T20:29:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8929003, "source_ctime_ns": 1793384599609427637, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990659/0389.jpg", "source_mtime_ns": 1785747846000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990659/0389.jpg", "source_sha256": "7137915d0b3a2f0d301ab417f405076cbb7aa61c712838142239f2f20c64292e"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 827, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ZCZCSOPS1SCZCSAC12972CNYEDS1 =
+PP RJEDSA po Ap ary gs
+DE RJDLHDA 23 ee fs aoe
+P R 2314392 2EXx f |
+MM 81ST TFW RAF BENTWATERS ENG
+TO RJWFAL/ENT AFB COL
+RJEDSQ/ATIC WRIGHT PATTERSON AFB OHIO
+RJEZHQ/HQ USAF WASHINGTON DC
+RJEZHQ/SECRETARY OF THE AIR FORCE WASHINGTON DC
+INFO RJFPBW//USAFE LINDSEY AS GER
+RJDLDUA/3AF SORUISLIP ENG
+BT
+UNCLAS WOIN 1281.
+ACTIONS ADC;ATICZAFCIN AND SAFIS, USAF , INFOs IDC, USAFE 3IDC,
+
+SAF, UNIDENTIFIED FLYING OBJECTS REPORT, THIS REPORT SUBMITTED IAW
+
+AFR 292-2, PARAGRAPH 153
+As (1) ROUNB,
+(2) HALF=DOLLAR
+WIES3.BRIGHT GREEN IN CENTER, YELLOWISH GREEN AT ETR
+(4) 1
+(53 N/A
+($) APPEARED TO HAVE VERY THIN, STRAIGHT, DARK, APPENDAGES
+
+PAGE TWO RJDLHDA 23
+RAASRSING FROM OBJECT .MCCY
+ET HAVE WELL DENINED EDGE,
+(7) N/A
+(3) N/A
+(9) APPEARED TO MOVE AT HIGH RATE OF UPEED.
+B. 1) THE BRIGHT CoLoT.
+
+|
+}

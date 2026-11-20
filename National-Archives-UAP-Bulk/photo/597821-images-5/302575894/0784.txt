@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T20:58:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1431284, "source_ctime_ns": 1793393301011047416, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302575894/0784.jp2", "source_mtime_ns": 1785808049000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302575894/0784.jp2", "source_sha256": "0ecb68d673837b496eebc29337ac97a4159053b277f957e82d4f22dfdbac229a"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1143, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ake
+
+About 20 Wallops engineers and technicians are required to
+operate the facility.
+
+Four Nike-Tomahawk and three Nike-Apache research rockets
+will be used to launch the experiments. Both are two-stage
+vehicies using solid-propellant rocket motors,
+
+The Nike-Apache is about 25 feet long and weighs approxi-
+“mately 1500 pounds. It develops 42,000 pounds of thrust at
+liftoff, and is capable of boosting a 50-pound payload to 125
+statute miles altitude. The Nike-Tomahawk is about 30 feet long
+and weighs approximately 1850 pounds. It can achieve altitudes
+in excess of 200 statute miles, depending on the launch elevation
+angle and payload weight.
+
+The Arecibo Ionospheric Observatory is operated by
+Corneil University for the Advanced Research Projects Agency
+of the Department of Defense. The 1000-foot reflector, made of
+1/2-inch square wire mesh, is constructed in a natural bowl in
+the Puerto Rico highlands. Its primary purpose is to study, in
+greater cetail than has previously been accomplished by radar
+technicues, the Earth's ionosphere. The antenna is also used
+
+as a "listening post" for radio signals from outer space.
+
+-END-

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T21:22:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7805799, "source_ctime_ns": 1793354431359439718, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0057.jpg", "source_mtime_ns": 1785564284000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0057.jpg", "source_sha256": "bc6135c4e0d922ecac428df3c6c43c9bbbfcc824862ec8857c2ab0489ac8a931"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 836, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+_ OTHER FACILITIES
+
+Blectron’c an” insticmeéat D -vlopmient Lab
+Aeuti oms for gpace Instr>ment Development ans! Lest
+
+ht rpc | ee! AVAILABLE FO
+
+.. §pertable. Os"cabAtmespheric Data . vem (a ss ti ¥
+
+High Tempe,ature Chemical Reaction: Kate. M-asurement &
+Opticat and KF Jonospheric Scintiliatica Signal Processing
+‘Hign- Mid and Low- Latitude Toncspheric Soundin x
+WHE Meteor Scatter
+2h iar Scintillation and TE . u-arimeter Sites
+~inde: Sites
+Goose Bay dor
+
+SUN)
+
+a> A
+
+eA »s and Simulation
+
+a d High «ittide Balloon Platforms
+Tigh, ‘emperature Mass Spectrometer
+
+Jon-Neutral Collision Apparatus
+
+sfulti‘Spectral, ace Flight Qualified UV-Vis and IR Sensors
+
+Cobalts60:Source Flash X-
+“Linear Accelerator
+
+Dynamatron Accelerator
+
+ARACOR X-Ray Test System
+
+og ibTone | U.S. AIR FORCE
+ee PHILLIPS LABORATORY
+) Im HANSCOM AIR FORCE BASE

@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T21:22:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7526830, "source_ctime_ns": 1793365266933064790, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0157.jpg", "source_mtime_ns": 1785684674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0157.jpg", "source_sha256": "3284ca41ec9f0ecbb391e1fe04467914f1d90e41554a9125cc08748ad63b811c"}
+
+===== PAGE 1 =====
+{"alpha_words": 188, "chars": 1471, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+°
+deh ae a Bi Be Se aay. :
+- ‘ a .
+
+8. According to Weather Station, Ladd Air Force Base, and the
+CAA Weather Station, Weeks Field, Fairbanks, there were no weather
+observation balloons released between 0900 and 1100 hours 10 May 1950,
+
+9. The following are teletype sequences of local weather on
+LO May 1950:
+
+Ladd AFB 1025 hours: Scattered clouds at 22,000 and
+12,000; visibility 90 miles;
+barometric pressure 1003.8 milli-
+bars; temperature 55; dewpoint
+50; wind calm; altimeter setting
+2963
+
+1050 hours: Same as above, except scattered
+clouds at 000
+
+Fairbanks 1030 hours: Scattered clouds at 22,000 and
+3000; visibility 90 miles; ten-
+perature 57; dewpoint 31; wind
+East at 13; altimeter setting 29.61
+
+The winds aloft were as follows:
+
+3000 feet = 135° at knots
+
+5000 feet ~ 135° at 9 knots
+
+8000 feet 180° at 12 knots
+LOOOO feet — 200° at 2h knots
+20000 feet - 200° at 15 knots
+Higher 200° with velocities above 15 knots
+
+10. On 18 May 1950 Fairbanks Air Traffic Control reported that
+on 10 May 1950 at 2025 hours GCT (1025 AST) B-29, AF 3671 reported
+over Fairbanks enroute from Elmendorf Air Force Base to Barter Island:
+Flying 11000 feet requesting change in flight plan to 500 feet on top,
+
+ll. This investigation was conducted jointly with lst Lt JESSE J.
+FULLER, AO 2093701, Assistant Wing Intelligence Officer, 5001lst Com-
+posite Wing, Ladd Air Force Base, who will forward a report through In-
+telligence Channels,
+
+Declassification Authority: NND 923007

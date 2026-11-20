@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T20:34:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16062051, "source_ctime_ns": 1793355771758984302, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0215.jpg", "source_mtime_ns": 1785564520000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0215.jpg", "source_sha256": "8bd1ca93ff7a80f5739ac89f299267318663d285f18b42d7b2c87e5bf6223948"}
+
+===== PAGE 1 =====
+{"alpha_words": 357, "chars": 2473, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+416
+
+water in our atmosphere by nearest stars, the Moonor the Sun, to disentangle the
+faint signal delivered by the planet from the strong signal remaining from our
+atmosphere.
+
+We went on simultaneously with both of these two ways, competitively.
+
+During 1961 and 1962 several attempts were made to launch a new manned
+high-altitude balloon flight, from Orleans-Bricy and Villacoublay Air Force Bases.
+The improved lifting device was a chaplet-like cluster of 23 neoprene Darex
+7,000-gram balloons, able to lift the strato-laboratory with the author on board up
+to 80,000 feet. This improved technique was described in detail in the first paper
+by the author at this Symposium. We were very unfortunate with weather conditions
+because required situations occurred always at new moon or during periods in-
+appropriate for the positions of the planets in the sky.
+
+Unexpected good weather conditions were finally reached for the high-mountain
+
+winter survey at the Jungfraujoch Scientific Station in Switzerland, in January, 1963.
+
+The altitude was 3.5 km, the temperature -35°C and the humidity below 15 percent
+during the best nights. One can compute that the remaining amount of water in the
+atmosphere above the station was low enough to desaturate the H,O band at
+1.4 microns (saturation reached for 0.1 sr /cm?) in a vertical column above
+Jungfraujoch. Adequate studies of the very rapid variations of this amount with
+time, zenithal distance and azumuth were based mainly on observations on the Sun,
+the Moon and the star a Orionis. Direct measurements on Venus and Mars, and
+deduction of the contribution due to the earth's atmosphere enabled us to collect
+positive results about the amount of water in the atmosphere of these planets.
+
+Reductions of these data, including several minor corrections and recalibra-
+tions, yielded the following values:
+
+For Venus, about 0.7 x Hoe er /om” of water above the cioud level for
+
+calibration at STP. This amount must be increased if the unknown atmospheric
+
+pressure at the cloud-top altitude is found to be smal.
+
+-2
+Hor Mere, about 1.5% 1) gr/cm*. Possibly a reduction of this value
+may be investigated, depending on further tests on the expected Martian ground
+
+spectral reflectivity, still under completion at the Laboratory.
+
+Dollfus, A. (1954) C.R. Acad, Sci, 239:954,
+
+Oeiinie, A. 419590) Cis. Acad,Sci.249:2602.
+
+Dollfus, A. (1963) C.R. Acad.Sci,256:3009 and 3250.
+
+Dollfus, A. (1964) L'Astronomie 41.
+
+References
