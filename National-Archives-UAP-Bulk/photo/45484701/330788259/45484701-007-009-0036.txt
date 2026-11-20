@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:06:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9593733, "source_ctime_ns": 1793365075973249233, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0036.jpg", "source_mtime_ns": 1785684986000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0036.jpg", "source_sha256": "60585bd1fb69d266e3ee05d73fbbd8c9497cf613c17a3142c6120bced5dcea56"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 803, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS FIFTH ARMY
+1660 EAST HYDE PARK BOULEVARD
+CHICAGO 15, ILLINOIS
+
+ALFGB+CI 26 April 195)
+SUBJECT: Unidentified Object
+
+District Intelligence Officer, 9th Naval District, Rm, 903,
+US Custom House, 610 South Canal Street, Chicago 7, Illinois
+District Commander, 2th District OSI, USAF, 343 South Dearborn St.,
+Chicago , Illinois
+
+Special Agent in Charge, FBI, 1900 Bankers Building, Chicago 3, I11
+
+The inclosed Summary of Information, subject as above, is forwarded
+
+for your information,
+
+FOR THE ASSISTANT CHIEF OF STAFF, G2:
+
+/s/ Clare T, Jensen, Maj GS
+1 Inel GORDON D, BUCKLEY
+S/I, 16 Apr 5h, Lt, Colonel, GS
+subj as above Chief, Counter Intelligence Division
+
+CLASSIFICATIC
+
+BY AUTHOR-: +
+
+9 Dec 1975
+
+oven santa
+
+iL prtemnemeenn = -
+
+ee ennai
+mel
+
+Declassification Authority: NND 923007

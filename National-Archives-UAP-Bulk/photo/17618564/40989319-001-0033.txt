@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:29:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 985229, "source_ctime_ns": 1793356363012655730, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0033.jpg", "source_mtime_ns": 1785564686000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0033.jpg", "source_sha256": "249f8b0c4f3b30c45492ae3a1006f228dbd0bd6a4fa34297e9a99a1b5ad3f340"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 1118, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TABLE I
+Summary cf Cperations
+
+eee ee ee ere ee errr ee
+
+Test Location Distance Type of Time Velocity Range
+(Naut.Miles) Equipment Operated* Covered (deg/hr**)
+
+P¢ Kwajalein 355-306 Airpcrne 20-53 17.8 - 6.7
+Island 376 L.F.T.-21 34-56 106.8 - 6.6
+Gres Tri. 259-52 12.8 = 7.1
+Altimeter 28-56 13.2 - 6.6
+xX Alamogordso, 5160 Airborne 379-699 15.6 - 7.4
+New Mexico
+eS
+Y Guam Island 1030 Airberne 29-94 35.5 = 11.04
+(rising)
+Airborne 94-124 11.0 - &.2
+(floeting)
+* L.F.t.-21 89-121 11.6 = 8.5
+GR-& Tri. 94-116 11.0 = &.9
+Altimeter 107-122 9.6 - 8.5
+Y Alamogordo, 5160 Airberne 387-552 13.3 - 9.3
+New Mexico
+Zz Cahu Island 2350 Airtcrne 160-215 14.7 - 10.7%
+(rising)
+Airbcrne 219-264 10.7 - 8.9
+(floating)
+
+L.F.T.-21 205-268 11.4 - 8.9
+
+Z Alamegordso, 5160 Sirborne 343-536 15.0 - 9.6
+New Mexico
+
+Zz Mentgomery, 60CC Airberne 360-686 6.7 - 8.&7#
+Alabama .
+
+* Time in minutes after occurrence of explosion.
+we ae factors: 10°/hr = 10 naut. mile/min, = 309 m/sec = 1014
+ft/sec.
+# Recordings made with rising ballocrs and with higher attenuations,
+## Because of equipment trcuble, this data is net considered significant.
+
+10

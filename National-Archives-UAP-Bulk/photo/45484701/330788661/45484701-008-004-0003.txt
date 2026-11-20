@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:56:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6570478, "source_ctime_ns": 1793365274139166705, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788661/45484701-008-004-0003.jpg", "source_mtime_ns": 1785685156000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788661/45484701-008-004-0003.jpg", "source_sha256": "cd5987122f9217461b534aba97e68697bc1cd1534b2ad71c551f2cfacbb613f5"}
+
+===== PAGE 1 =====
+{"alpha_words": 203, "chars": 1411, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTN OF:
+
+SUBJECT:
+
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO 43433
+
+TDPT (UFO)
+
+UFO Photographs, November 1967
+
+USAF (AFISIIC)
+
+1. Reference your OSI Communication, Hq D2ekc-185/70/508,
+15 January 1968, subject "Alleged UFO Sighting in Treysa, FRG."
+
+ce We are unable to positively identify the objects in the
+photographs that you forwarded to us. However, the majority of
+
+the photographs are of ground lights, above which, is a single
+light source. We feel that this light source may be the planet
+Venus, which was at an approximate elevation of 12° and an
+
+azimuth of 130° at 0545 hours on November 6. Venus had a stellar
+magnitude of -4.1 on November 6, 1967, and was by far the brightest
+astronomical body in the sky. However, without knowledge of the
+elevation and azimuth of the object that Sgt. Clark sighted, we are
+unable to positively identify the object.
+
+3- Several other photographs appear to be multiple exposures of an
+unknown light source.
+
+4, Since the observations took place outside the limits of the
+United States, no further investigation will be made. Sgt Clark's
+photographs are attached.
+
+FOR THE COMMANDER
+
+AEC TO pirntiontt Ar, Major, USAF 2 Atchs
+
+Chief, Aerial Phenomena Office lL. Negatives
+Aerospace Technologies Division 2. One slide
+Production Directorate
+
+Declassification Authority: NND 923007

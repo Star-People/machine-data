@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:44:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4584133, "source_ctime_ns": 1793388199515746715, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000393/0690.jpg", "source_mtime_ns": 1785747899000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000393/0690.jpg", "source_sha256": "b5bfd72de9edac6803f901bfccb8104cc9b6a94fac186f4c609da26d81efb1c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 656, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/4 PSE 8 EGE . DEPARTMENT OF THE AIR FORCE.
+
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+AF IN : 50246 (15 Mar 63) c/o N COMING
+ACTION: NIN-9,
+
+Page 1 of 2
+
+INFO : XOP-1, XOPX-4, SAF-OS-3, ARMY-2, NAVY-2, CMC-8, JCS-35, OSD-15
+120-
+
+SMB A195 CIA-11, NSA-7, DIA-20, DIA/CIIC-2
+
+ZCZCKQAS7T5SZCUJBI 96
+
+eee Oe Ua
+
+DE RUHPHC 232
+
+ZNR
+
+ZOC
+
+Nese hops 74
+
+FM COMHAWSEAF RON
+
+TO RUHLKY/COMD HAWAIRDEFDIV WHEELER AFB
+RUHP B/CINCPAVFLT
+RUWCALB/CINCNORAD ENT AFB, COLO
+RUEAHQ/COFSUSAF '!ASKDC
+
+RUEC!/CNO
+
+RUECV/SECNAV
+
+RUHAFS/C INCUSARPAC
+
+R'URPA/CINCPAC
+
+RURLKM/PACAF
+
+RUFLKSA/PACAF BASECOM, HICKAM AFB
+
+NAVWY
+
+Y 1519232
+
+Fi COMBARPAC
+, TO COMHAYSEAFRON
+BT
+
+UNCLAS

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:57:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6653529, "source_ctime_ns": 1793363026347243057, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0113.jpg", "source_mtime_ns": 1785685132000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0113.jpg", "source_sha256": "4f1dd6e8fa5e5b0fd54a3af29e2782211006b8efd743b6492f417c7d44551a94"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 157, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| i
+Oy Dams dene
+rES AiR FORCE
+' TOR BENE Rg)
+
+APR SG; 4
+
+THAtl ga, y
+
+|
+“Or ' \
+VPECKAL My
+
+5 ~
+J “IONS
+
+ete ty
+
+i]
+
+Declassification Authority: NND 923007

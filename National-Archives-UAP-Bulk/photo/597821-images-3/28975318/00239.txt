@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:55:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6441881, "source_ctime_ns": 1793380312945681755, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975318/00239.jpg", "source_mtime_ns": 1785701103000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975318/00239.jpg", "source_sha256": "ab43d8261919a29855fbed65d206750e7de8a92798a2959d0304610e2df98e5b"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 646, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE FOUR RJESBN 89C
+
+A/ac FOREST G ZEAL AF 17460836 AGE 22 2617A SOUTH ZEIGLER WARNER
+
+ROBINS GEORGIA DUTY CONTROL TOWER OPERATOR RELIABILITY GOOD.
+
+A/SC WILLIAM R POOLE AF 14639227 AGE 19 DETACHMENT 2 6TH WEATHER
+
+GROUP ROBINS AF BASE GEORGIA DUTY WEATHER OBSERVER RELIABILITY
+GOOD
+(7) WEATHER AND WINDS ALOFT CONDITIONS (A) CLEAR
+
+(B) SURFACE CALM
+
+6920 FEET ¢ 359 DEGREES -15K
+10,988 FEET 349 DEGREES - 18K
+16,060 FEET 299 DEGREES - 30K
+29,00 FEET 289 DEGREES - 30K
+38,988 FEET 28 DEGREES - 50K
+59,080 FEET 278 DEGREES - 72K
+89,909 FEET UNKNOWN
+
+(C) CLEAR
+
+(D) 12
+
+(E) NONE
+
+CF) NONE
+
+Disk Waianae OS ipey Rt BARNET Pts OW Re Reg on) Kai ey

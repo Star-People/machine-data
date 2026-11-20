@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:24:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1065451, "source_ctime_ns": 1793393808437118456, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580780/0211.jp2", "source_mtime_ns": 1785808575000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580780/0211.jp2", "source_sha256": "dd363e8d90be198d24ab26834b6601ac4c0a4e03fca3c91c8f8f8dc60c1c3741"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 52, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+rn 9
+
+MARE
+
+oh
+
+nw
+
+in ae Mh pagal is
+
+© Diehtaiss

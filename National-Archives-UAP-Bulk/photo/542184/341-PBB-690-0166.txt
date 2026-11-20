@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:10:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11432677, "source_ctime_ns": 1793367147051787274, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0166.jpg", "source_mtime_ns": 1785565661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0166.jpg", "source_sha256": "6760e8b1187acd1a8ae9c7c83273cf7135b433effae9c18689bef2f5959f2e35"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 110, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+ha
+
+/
+
+ee
+
+see CRA PORES re at seabed
+ti:
+
+acs,
+ae
+—
+
+saps rOO
+hte Tn aaa ;
+
+ee
+
+“ nao
+eee ti amarante et .

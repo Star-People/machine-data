@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:59:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7495604, "source_ctime_ns": 1793364927605624983, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0126.jpg", "source_mtime_ns": 1785684685000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0126.jpg", "source_sha256": "c3b62ba71ebfb8a3721d4296e4e8fe8f3b6f36b73b7ff2fa1d22ff02b57ecdf4"}
+
+===== PAGE 1 =====
+{"alpha_words": 182, "chars": 1224, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+The following information was extracted from the OSI, HQ USAFE
+Summary of Positive Intelligence Activities for the Month of January
+1954, dated 18 February 19543 /
+
+"On 8 January 1954, a German resident of the American Sector
+of BERLIN noted an unidentified object, similar in appearance and size
+to a full moon, traveling in a straight path from northwest to southeast
+over the American Sector of BERLIN, Time of observation was 2027 hours
+(local time), and source observed the object for a period of approximately
+five (5) to seven (7) seconds, at which time it disappeared behind the
+surrounding buildings. Weather conditions at time of observation were
+clear sky, a new quarter moon, wind approximately five (5) to ten (10)
+miles per hour, and temperature 20° to 25°F, Source could give no
+identifying aerodynamic features but stated that there was no sign
+
+f exhaust trail nor could any sound be heard from the object. The
+object traveled in a straight line at a constant altitude and speed.
+Source was unable to estimate altitude of the object but stated that
+speed of the object appeared to be twice that of a jet fighter aircraft
+
+but much slower than the speed of a meteor."
+
+Declassification Authority: NND 923007

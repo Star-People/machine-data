@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:08:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10780489, "source_ctime_ns": 1793355307161830328, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0004.jpg", "source_mtime_ns": 1785564432000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0004.jpg", "source_sha256": "e4deecb51560c7cafee3b2d6f2e6a961743f413fa4ba29a121db81f629343971"}
+
+===== PAGE 1 =====
+{"alpha_words": 820, "chars": 5145, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PREFACE
+
+Man’s earliest thoughts about flying and his earliest attempts at flight
+took place before the days of science; before man began to measure, to investi-
+gate, to experiment and to think things out in orderly fashion. The invention of
+the balloon in 1783 reveals an example of man’s creative genius, his ability to
+make something new which never existed before.
+
+Dreams of flight were based on examples from our imaginative myths and
+legends as well as examples of flight observed in nature. By looking at ancient
+myths, we see man’s earliest thoughts and dreams about flight. The best
+known of the stories of flight is the ancient Greek story of Daedalus and his
+son Icarus, who built wings fashioned of wax and feathers and used them to es-
+cape from prison. During the escape flight, Icarus soared so high that the heat
+from the sun melted the wax, causing the wings to become detached from his
+arms and plunging him to his death in the sea. Other legends tell of such imag-
+inary flying schemes as the flying dragon, winged horse, flying carpet, winged
+sandal, and a chariot drawn across the skies by teams of horses. These devices
+worked well in story, legend and imagination, but didn’t work at all in the real
+world.
+
+Using examples found in the real world of nature, man first thought of try-
+ing to copy the wings of birds and use the energy of the air to fly. Similarly, the
+flying seeds of some plants were observed to have an aerodynamic, or heavier-
+than-air, shape which could be lifted by the winds. But the lack of a power
+source made the search for heavier-than-air flight pointless and there were no
+aerostatic, or lighter-than-air, examples from nature which had the built-in
+buoyancy, or lifting power, to carry man aloft.
+
+This principle of buoyancy was discovered by Archimedes, then revived
+by Roger Bacon in 1250 in his concept of a thin hollow globe filled with inflam-
+mable air which could float on air like a vessel floats on water. Following
+Bacon was Leonardo da Vinci, who experimented with hollow waxen figures
+filled with warm air. In the century following da Vinci, Evangelista Torricelli
+produced the first barometer and explored the principle of aerostation which
+explains how an object can be supported in the air by buoyancy. The Age of
+Enlightenment brought an end to centuries of occasional inventions and
+
+theories, and marked a change to a more rapid pace of advancement in balloon
+technology. These advancements could not have happened without the cour-
+ageous, lonely adventures of the great balloon pioneers such as the Mont-
+golfier brothers, de Rozier, d’Arlandes, Charles, Roberts, Lunardi, Yon, Sad-
+ler, Garnerin, Spencers, Mallet, Wise, Lowe, Allen, King, Baldwin, Stevens
+and others who helped chart the beginnings of man’s flight into the atmos-
+phere.
+
+By the turn of the Twentieth Century there was an upsurge in higher alti-
+tude research and scientific balloon activities. Early balloons were used to
+study the physical properties of clouds and the atmosphere. Some were equip-
+ped with recording instruments, bara-thermo hydrographs and sounding
+equipment. It was a German professor, Hergesell, who used a small sounding
+balloon which rose with a perceptibly constant speed and tracked with a chro-
+nometer. Hergesell followed the flight of the balloon with a theodlite, which
+gave him its directional position and hence the speed of the wind. Other scien-
+tific balloon experiments were employed to determine the degree of polariza-
+tion of light and to measure the spectrum of radiation. As basic technical im-
+provements continued, radio transmitters were placed in balloons to signal in-
+formation on atmospheric pressure, speed, wind direction, temperature and
+humidity-to-ground receiving stations. The upper atmospheric and aerospace
+balloons that followed helped carry out fundamental and essential research
+which has helped to increase our knowledge of such physical sciences as
+meteorology and astronomy as well as space physics and physiology.
+
+Changes in the use and technology of the balloon have created a need to re-
+define its accustomed meaning. While the word ‘‘balloon”’ still refers to any ob-
+ject intended to be inflated, particularly by gas; no longer does the balloon
+have to be hydrostatically lifted by pressure and equilibrium of gases, nor is it
+restricted to the air surrounding the earth. Today the modern definition of the
+word ‘‘balloon’’ has come to include devices such as space structures pneu-
+matically erected outside our atmosphere. Also included is the huge space
+solar antenna which can be folded compactly and transported into space.
+There, it can be erected pneumatically and placed into operation. Buildings
+and other facilities can also be carried into space or onto other planetary
+bodies in a compact unit, to be used fer housing, research and development fa-
+cilities, exploration and for space transportation missions. It is through this
+modern definition that the balloon takes its natural advancement into the
+aerospace era with its links to space structure technology, continuing the heri-
+tage of ballooning into the future.

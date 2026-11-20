@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:36:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1853863, "source_ctime_ns": 1793356182809705017, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0187.jpg", "source_mtime_ns": 1785564630000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0187.jpg", "source_sha256": "a56016a869752018ca2e442f6b65bfd68801f058a457970c1cb27b3eb9aef792"}
+
+===== PAGE 1 =====
+{"alpha_words": 290, "chars": 2434, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WAR DEPARTMENT RESTRICTED
+
+: “ 10-
+Washington, 12 June, 1943 TECHNICAL MANUAL WAR DEPARTMENT
+No. 11-444 Washington, 12 June, 1943
+
+‘gi¢g! manual published by Engineering Labora-
+
+der No. 3378-SCGDL-43 and No. 935 P & B | SOUND RANGING SET GH-3-C
+
+ished for the information and guidance of all con- | CONTENTS
+; SECTION Paragraph
+I. DESCRIPTION
+4 Use and characteristics... ---.------------------ 1
+/ Major components —-.-...---- 2
+: Packing of major components._.....--.....-----------------——-=------------—- 3
+- 4 Description of central station equipment... wusy 4
+j Description of microphone equipment...._._.....--------------------- 5
+' Description of outpost equipment — 6
+} Il. INSTALLATION AND OPERATION
+RESTRI TED Initial proce ge) eee 7
+C Installation __.._. - - 8
+Gords | == - 9
+Batteries =, 3
+Fuses, vacuum ne and lamps__.___.----------------------—----~-—-—--- 2
+Switchboard BD-62-(*) _...
+document contains information affecting Control Board BD-85-(*) cess. 13
+Oscill h Equi TE-14-(*) ...... =
+ational defense of the United States within eA GS cet ee i
+Protector AR-8 oo 16
+neaning of the Espionage Act, 50 U.S. C., Microphone equipment — 17
+ne ‘ Outpost equipment n-ne anna ean 18
+nd 32, os amended. Its transmission or Preliminary over-all tests 19
+‘evelation of its contents in any manner to ORR =
+WI. FUNCTIONING OF PARTS
+‘nauthorized person is prohibited by lew. Switchboard BD-G2-(*) o-oo een eeeeeeeeneee eee 21
+information contained in restricted docu- See KuEin aK one oo —_
+bi Oscillograph Equipment TE-14-(*) ......2.--1:csecseeee--eeeeeeenteeeeeee 24
+le the essential characteristics of re- Oratiegrern Une M-166-A neon 4
+rs sh, ee a ae asco scacauaenaenanuessusecsasetscecs
+-uulateriel will not be communicated to ci ay al ~ ~ -
+: Cord CD-250-A __...- .. 28
+nublic or to the press, but may be given to Gutpont eqaipaen OL 1 29
+person known to be in the service of the IV. MAINTENANCE
+> nies and to persons of undoubted Can and cleaning — ~ 7
+d discretion who are cooperating in a ——— "33
+Boer Microphone T-21-(*) -..-.....- a 34
+emment work. (AR 980-5) Control Board BD-85-(*) TT 35
+i Scan Relay Unit BK-9-(* ), Lebese 36
+Switchboard BD-62-(*) . 37
+V. SUPPLEMENTARY DATA .
+List of replaceable parts -... -- 38
+Parts list) .. 39
+Index of manufacturers 40
+
+This technical manual supersedes TM 11-444 dated 25 January, 1943.
+
+. OR RRO MRR HH IO Gusebne Sint (aero ics aM a SL NT EA RMT MTT IT ORT IE Ne RRR a

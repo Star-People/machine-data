@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:46:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4952004, "source_ctime_ns": 1793359097295804746, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-055-0001.tif", "source_mtime_ns": 1785681316000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-055-0001.tif", "source_sha256": "0bb05ebed4995a1858f8db298a2f3a66309b2b31b05a6c6feaabca4a0c7dd056"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 804, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+h602D AISS UFOB LOG
+
+| REPORT No, DATE/TIME OF SIGHTING {RECD HQ )602D
+
+_ ATSS-UFOB-372=55 21/02002 Cet 55 2h Cet 55
+
+PIOCRTION OF SIGHTING LOGGED BY
+
+; Minneapolis, Minnesota S/Set DeRndder
+
+MEANS RECD ACTION
+
+| TT Msg | No investigation authorized; See Comments
+INVES UNIT | DATE INVES ASSIGNED | ASSIGNING OFFICER
+
+| N/A . N/A N/A
+
+DATE IR RECD HQ | DATE IR APPROVED DATE IR TO ATIC
+N/A N/A ; N/A
+
+| DATE OF FORM 5
+
+-| 26 Oct 59
+
+FE OMME NTS
+
+' ATIC requested to send radar data sheets to radar observers of
+
+this sighting. ATIC was also requested to inform this organization
+
+| ‘of the results of analysis of the returned radar data sheets.
+Results to be recorded below:
+
+‘| CONCLUSIONS
+
+\Frole bly Yy, fical ¥ é; ee tromie feplection
+
+ATSOP FORM 7 (2 APR 55)

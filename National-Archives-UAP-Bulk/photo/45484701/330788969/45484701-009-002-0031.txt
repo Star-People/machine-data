@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:13:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23208660, "source_ctime_ns": 1793365500721898998, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0031.jpg", "source_mtime_ns": 1785684818000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0031.jpg", "source_sha256": "d52fb7e09c2ec51442e619e108845a1f2f3bab4f2766f5b248d2f76e40b1c50b"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 509, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Case file #24-26
+DO #20, MeChord AFB
+
+EXHIBIT "B"
+
+PHOTOGRAPH SHOWING U. &. HIGHWAY #20, FACING WEST TOWARD CALDWELL,
+IDAHO, AT A POINT APPROXIMATELY THIRTEEN MILES WEST OF BOISE,
+
+IDAHO; THE REVERSE DIRECTION OF TRAVEL OF OBSERVER, ROBERT F. SMITH,
+AND THE APPROXIMATE POINT AT WHICH SMITH REPORTED FIRST SIGHTING
+THE UNIDENTIFIED OBJECTS.
+
+Taken by: J. E. KUTTLER, Special Agent, OST
+Camera: Ground, 4x5, type ¢C-3
+Setting: 100th sec. at FAS
+
+Date taken: 10 June 49
+
+Declassification Authority: NND 923007

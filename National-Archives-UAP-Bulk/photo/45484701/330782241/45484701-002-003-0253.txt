@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:05:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8842110, "source_ctime_ns": 1793362214883974354, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0253.jpg", "source_mtime_ns": 1785684727000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0253.jpg", "source_sha256": "14c89707f0cc7cdfcf162d569b660f9037e2966ae7ebd7d5fc3eb18e3e8839ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 124, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ri lisen MEE i GRAD
+
+VOservers Were in DAG Oo) AIK Gd. YolG HOC WRAP nse TAR SaSE »
+
+Declassification Authority: NND 923007

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:11:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14831802, "source_ctime_ns": 1793355670270045510, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0109.jpg", "source_mtime_ns": 1785564500000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0109.jpg", "source_sha256": "4756463020712b268367fb70e34ec07b1059641e7903a250bac4eb855c2be694"}
+
+===== PAGE 1 =====
+{"alpha_words": 245, "chars": 1489, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+XVIII. Superpressure Balloon Flights from Japan
+
+Vincent E. Lally
+National Center for Atmospheric Research
+
+Boulder, Colorado
+
+There has been much conversation about superpressure balloons for the last
+ten years but there have been very few flights. The only really outstanding flights
+have been performed by the Air Force Cambridge Research Laboratories, and
+these were with very large superpressure balloons, starting with 34-footers and
+moving up now to over 100 feet. One of the problems, of course, with these
+wonderful balloons is that Lou Grass here at Cambridge now has a marvelous
+balloon that will fly for some unknown long period but has no place to go. Our
+objective in going to Japan was to provide a little bit of room for ourselves to fly
+some very small superpressure balloons. The problem of flight with the super-
+pressure balloon is a little more severe with small balloons than with large ones.
+We have more film area for a given volume, and flying at low altitudes increases
+the overpressure. Both of these effects mean that the problem of leakage ina
+balloon goes up inversely as the square of the diameter of the balloon: a 10-foot
+balloon would have about one-tenth the life of a 34-foot balloon, if both were made
+equally poorly.
+
+We have made some tests in the United States on small balloons, and, of
+course, we ran out of grass. We moved to Japan to get a reasonably long fetch.
+
+Our second reason for flight from Japan was to test the navigating system which

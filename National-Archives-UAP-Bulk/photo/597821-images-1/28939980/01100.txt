@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:44:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4349304, "source_ctime_ns": 1793371825235857998, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939980/01100.jpg", "source_mtime_ns": 1785688588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939980/01100.jpg", "source_sha256": "55af5a9a23b9b52db01db3a0f936f6eeb8ec57a8c76b8816a55d7ea939fa2b87"}
+
+===== PAGE 1 =====
+{"alpha_words": 0, "chars": 6, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+330°

@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T03:11:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15798510, "source_ctime_ns": 1793355590800978453, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0029.jpg", "source_mtime_ns": 1785564485000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0029.jpg", "source_sha256": "0fcba73c6b7c46f4ba368d96ef91b3fae39a7317f33165d8fbfb5b1fffa56b71"}
+
+===== PAGE 1 =====
+{"alpha_words": 485, "chars": 3125, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TOP JAW
+
+TOW WIRE
+
+PULLEY
+
+| STEEL PLATE
+
+ANODIZED PLATE
+
+BOTTOM JAW
+
+Figure 1. Coefficient of Friction Testing Apparatus
+
+hi-slip coefficient was about 66 percent of that of standard polyethylene. Decreasing
+the temperature decreased the friction coefficient in both cases. Some dais were :
+conducted with no effort made to reduce the humidity at -60°C. Results indicated
+no significant difference in the coefficient of friction between the two Aish
+In summary of these tests, the only significant difference in the two oe is i
+the coefficient of friction, as pointed out above. a
+In bh second step of testing, two four -foot-long model balloons were constructed
+to duplicate the 128-TT end fitting configuration and tested to destruction. One att
+
+balloo as i
+n was made with standard polyethylene, the other with hi-slip. Banded EV-13
+
+type fittings were in the
+ype iittings were put inthe top of these balloons and 5-inch fused wedge and coll
+collar
+
+fittings were put in the bottom. Both balloons failed after the polyethylene yield
+
+point had been exceeded. The hi-slip polyethylene held well in both end fittings.
+
+4. MANUFACTURING PROBLEMS
+
+Fabrication of hi-slip balloons did present some problems. Viron has fabricated
+three balloons of hi-slip polyethylene. These balloons were made for NCAR of
+1.5-mil polyethylene. They were standard 2.94-million-cubic-foot tailored-taped
+balloons designed to lift a nominal payload of 1500 pounds to 100,000 feet.
+
+The handling of the material on the rolls was difficult, as the core would
+"telescope’’ out of the roll if not secured or if the roll was not held perfectly level.
+On the sealing table, each gore had to be taped individually to the table at 2-foot
+intervals to prevent the gores from slipping from the pressure of the weight of
+those on top of them. Tape adhesion and sealing were the same as is usual.
+Uniform deploying of material in the end fittings during end-fitting assembly was
+much easier than usual due to the slipperiness of the film.
+
+In summary, the slipperiness of the film does make the fabrication job more
+difficult and time-consuming but it is not detrimental to the quality of the final
+balloon if proper precautions are exercised. The cost is increased by about 10
+
+percent over that of a standard balloon because of the increased handling involved.
+
+5. FLIGHT RESULTS
+
+Three balloons have been made of hi-slip polyethylene. These three were the
+2.94-million-cubic-foot balloons mentioned above. To this date, only one of these
+balloons has been flown. This balloon was flown from Palestine, Texas, and failed
+on ascent at about 48,000 feet.
+
+Some of the balloon film was recovered after descent. Examination of the
+material showed it to have a slipperiness comparable to that of standard polyethyl-
+ene. Apparently the slip additive had worn off the polyethylene during the fast,
+violent descent, verifying the prediction that it will come off with friction. As is
+usually the case, no other information could be gained concerning the failure either
+from the flight history and conditions, or from an examination of the recovered
+
+material.

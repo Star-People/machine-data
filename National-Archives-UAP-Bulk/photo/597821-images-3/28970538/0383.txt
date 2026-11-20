@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T02:43:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4292942, "source_ctime_ns": 1793379020690472817, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970538/0383.jpg", "source_mtime_ns": 1785700936000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970538/0383.jpg", "source_sha256": "b13de2d4dfed1d3aeee666c3957d2ae27aeb8837a6c252958315845352b90b05"}
+
+===== PAGE 1 =====
+{"alpha_words": 560, "chars": 3542, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee ee TY Pe
+
+ee
+
+In the RB-47, the pilot and co-pilot sit in tandem in a bubble canopy so their
+conversations must necessarily be conducted via the airplane's interphone system. As
+Chase and co-pilot James H. MNcCoid began to speculate on what they had seen and the
+possibility that it might be a UFO, their conversation was heard by the Elint operators
+sitting within the RB-47 fuselage who had not been able to see the luminous object.
+
+THE THIRD INCIDENT:
+
+When McClure noticed ECM Monitor #3, Walter A. Tuchscherer, laughing and asked
+the reason, Tuchscherer (who had been listening on the RB-47 intercom) replied: ''They're
+chasing flying saucers up-front," according to McClure's recent recollection. This
+prompted McClure to think about the anomalous S-band signal he had earlier worked near
+Biloxi.
+
+During the intervening time, McClure had re-tuned to work L-band radars in
+Louisiana and Arkansas. Now he decided to tune his APR-9 and ALA-6 back to S-band to
+see if he could find the earlier S-band signal. But it was not until 10:30Z, or 20
+minutes after the visual sighting, that McClure detected an S-band signal, according
+to the Piwetz account. (This time figure and subsequent ones were hastily jotted down
+by McClure on scraps of paper, he recently told me.) It was only after this second
+encounter with an S-band signal, after 10:30Z, that McClure jotted down the character-
+istics of the signal:
+
+Frequency: 2,995-3,000 mc.; Pulse repetition frequency (PRF): 600 per second;
+Pulse Length: 2 microseconds; Scan rate: 4 rpm.
+
+The CPS-6B radar, an early post-war design, radiates six separate beams from
+three different antenna dishes. Each beam operates in a different part of S-band.
+The frequency and other signal characteristics noted by McClure are identical to
+those for the VERTICAL-CENTER BEAM -- except for the pulse duration/length at a
+PRF of 600/sec. According to the Handbook of Operating Instructions for the CPS-6B
+[T.O. 31PG-2CPS6-11, revised 15 Jan. 1957], when the radar is operating at a PRF
+of 600/sec., the pulse length is 1 microsec., not the 2 microsec. noted by McClure.
+But an Elint specialist who is familiar with the APR-9 Elint receiver says that
+smearing of the received pulse due to ground reflection could easily cause an opera-
+tor to err by this small increment.
+
+The newly acquired S-band signal, at 10:30Z, showed a bearing of roughly 70°.
+This was roughly the same relative bearing at which the bright luminous object had
+zoomed out of sight some 20 minutes earlier as it headed north. IF this S-band sig-
+nal came from the UFO, then the UFO must suddenly have changed course and was now
+flying abeam of the RB-47, somewhere out there in the darkness. However, the flight
+crew did NOT see any visual target at 10:30Z -- at a 70° bearing or elsewhere.
+
+One of the curious aspects of this incident is why the S-band signal did not
+Show up on the ALA-6 until 20 minutes after the initial visual sighting. McClure
+assures me that it would not take more than 10-i5 seconds for him to re-tune from
+L-band to S-band. Reon, ane
+
+; This delay is readily explained IF the signal detected by McClure at 10:30Z came
+trom an FPS-10 radar (with signal identical to a CPS-6B) situated at Duncanville, just
+southwest of Dallas. Analysis of the RB-47's flight path and the coverage of the Dun-
+canville radar's Vertical-Center beam at the RB-47's 34,500 ft. altitude shows that
+this beam's lower sidelobe would first begin to illuminate the aircraft at approxi-
+
+mately 10:30Z. (See Fig. 6; aiso Appendix.)
