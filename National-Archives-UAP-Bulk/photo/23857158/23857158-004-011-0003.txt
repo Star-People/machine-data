@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:08:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11945022, "source_ctime_ns": 1793358637281431719, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-011-0003.tif", "source_mtime_ns": 1785681156000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-011-0003.tif", "source_sha256": "6fee89e3612efc8704af06922d467fdcb5c2950768cfaa46697f075e4f8ef888"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1164, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+eR ECOP Tie-Line Call
+Comdr, 602d AISS ATSOP 2 Nov 55
+Tie-Line Call
+0910 hours
+
+S/Sgb DeRudder /hh98
+
+“MEMORANDUM FOR RECORD:
+
+1, Telephone conversation between S/Sgt Defudder, Headquarters, 602d ATSS,
+‘and Captain Patrick 0. Shere, Detachment 1, 602d AISS.
+
+2, The undersigned called Captain Shere with respect to assignment of an
+investigation of a UFOB sighted at Solidad, California, and Oakland, California,
+at 01/0130Z Nov 55.
+
+3. It was requested that the Cakland Filter Center first be contacted to |
+‘werify the fact that three (3) of their personnel had observed the object as well
+-as the SOURCE at Solidad, California. If so, a complete follow-up investigation
+3 to be conducted by one man cnly. If the object was sighted by a single observer
+only, co investigation is to be conducted,
+
+h. Captain Shere was asked if Lt Olcott's graduation orders from the Fort
+Benning Airborne Course had been forwarded to Headquarters, Captain Shere stated
+” that an extract of the graduation orders was forwarded 1 Nor 55 with a list of
+jumps performed to date by Lt Cleott.
+
+Ronald D, DeRudder, S/Sgt, USAP
+ATC, UFOB Program

@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:11:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18096001, "source_ctime_ns": 1793355585860498726, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0024.jpg", "source_mtime_ns": 1785564484000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0024.jpg", "source_sha256": "15d3ec2ecf391f8fc8081743079fa43e0355d3523a13de172081212b8779b294"}
+
+===== PAGE 1 =====
+{"alpha_words": 550, "chars": 3671, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Figure 5. Moderation of Transverse Loading as Inflation Increases
+
+ficati i i
+
+ations, one of which will be treated in detail in the remainder of this pap
+er.
+
+- 4. SVT BALLOON DESIGN
+
+It
+carinii siosette that tapes on balloons are a necessary evil. The
+fully inflated at ceilin a. penreutly Cone ercs Supporting enormous loads when
+fe siitiai an t is severely limited, however, in what it can lift at low
+in a partially inflated state. Therefore, tapes have been used as a
+
+° a
+
+with the lighter gauges of fi
+ilm now bein : :
+ae g used predominantly in the higher altitude
+
+35
+
+These feelings, coupled with the germs of the ideas expressed in the foregoing
+hypothesis, led to investigations and design concepts for "heavy load" tapeless
+polyethylene balloons, that is, a tapeless balloon which can safely carry loads equal
+to those of taped balloons. The culmination of this investigation was a design which
+employed a fully-tailored gas-seal contour to achieve a bubble as uniform as pos-
+sible, but the gore pattern was that of a semi-cylinder balloon to provide the
+requisite strength (Figure 6). The design was termed SVT, for Simulated Variable
+Thickness, because if the design is considered as fully tailored, the extra gore
+material distributed around the surface of the balloon would provide additional
+meridional strength equivalent to a film of increasingly greater thickness. This
+additional material allows the tapeless balloon to carry large loads while the lift
+is concentrated in a small bubble.
+
+Preliminary tests of the design were conducted under a company - sponsored
+effort. The results were sufficiently encouraging that the design was selected
+for evaluation in the AFCRL water-model program. This work substantiated the
+theory involved, and subsequently the concept was verified with full-scale vehicles
+under a development contract with the Office of Naval Research. The first effort
+under this contract was the static inflation of the crown section oe bie, om
+lion cubic foot balloon. This bubble constrained a lift of 3,620 pounds (Figure c)
+before it failed because of creep in the material. The lift was over four times any
+lift previously contained in a half-mil polyethylene tapeless balloon and was even
+beyond the predicted capacity.
+
+Since static inflations are not flights, it was still necessary to obtain flight
+experience with the SVT. A 1/2 mil, 3 million cubic foot balloon was constructed
+for this purpose and flown with a gross inflation of 1080 pounds (Figures 8 and 9)
+or some 50 percent more than is recommended with the equivalent conventional
+tapeless design. This balloon performed ideally in all respects. Figure 9 shows
+the balloon at 41,000 feet when it is 2 1/2 percent full. Despite the fact that this
+should be in the region of critical shape, the sub-pressure cavity is not severe.
+While the stress lines cannot actually be seen in this photograph, it is appar ent
+that the angle they form with the gores will not cause serious trouble.
+
+Like any new design, this one has not been 100 percent successful. The
+problems which have been encountered are probably related to manufacturing
+procedures, but the presence of even a moderate sub-pressure cavity is suspect.
+Therefore, in current SVT balloons a belt-and-suspender approach is being taken.
+To augment the shape advantage of SVT over semi-cylinder configurations, the
+external flaps are being anchored one to another to provide a positive cap, re-
+inforcing the top of the bubble. The first of this variation of SVT design (a 1/2 mil,
+6 million cubic footer) has recently been flown in a completely successful flight
+
+with a gross inflation of some 950 pounds.

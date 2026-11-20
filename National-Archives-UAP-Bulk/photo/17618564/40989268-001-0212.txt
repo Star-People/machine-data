@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T10:10:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16084135, "source_ctime_ns": 1793355769045913306, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0212.jpg", "source_mtime_ns": 1785564519000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0212.jpg", "source_sha256": "2d6ae8b894956a676573c971e4b4981f78863850638af59f8a1c93b79a00c3f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 464, "chars": 3199, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ABSORPTION BAND
+
+TRANSMISSION OF THE FILTER
+
+POSITION 1
+
+POSITION 2
+
+Figure 1. Modulation of Light by an Absorption Band
+
+The main advantage of this technique is its large field. The filter has a
+surface of 1.5 inches X 1.5 inches, corresponding to a field of half a degree at the
+focal plane of the telescope (Figure 2). Such a large tolerance for the pointing of
+the telescope demands no accurate tracking and no elaborate image-stabilization
+device; manual control of the telescope by the observer, who looks at the field
+through the eyepiece of an auxiliary telescope, provides the required accuracy
+with no additional electronics. Figure 3 is a sketch of the balloon-borne telescope.
+
+In order to test the feasibility of telescopic astronomical observations from a
+balloon, and to select the best spectral band for the detection of water in planetary
+atmospheres, we organized in 1954 a preliminary manned balloon flight.
+
+A specially-designed azimuthal telescope equipped with an infrared spectro-
+photometer was flown to 23,000 feet during a seven-hour nighttime manned balloon
+flight - historically the first balloon flight instrumented for astronomical telescopic
+
+observations - (Figure 4). We observed Mars, the Moon and the Sun. Our observa-
+
+tions Showed the amount of water above 20,000 feet to be 0.026 gr/com*. We con-
+
+cluded from this flight that a balloon-borne gondola has enough stability for the
+operation of an astronomical telescope, and that the 1.4-micron band of H,O is
+suitable, with the high sensitivity of the lead sulfide photocells, provided that the
+balloon observations are made at altitudes of at least 40,000 feet.
+
+Since 1956 we have designed a very light sealed cabin, a sphere 72 inches in
+diameter and weighing 280 pounds. An azimuthal Cassegrain 20-inch telescope was
+
+attached above the gondola (Figure 5). Manual operation was from inside the
+
+cabin.
+
+PHOTOCELL
+
+BIREFRINGENT
+FILTER
+
+FIELD LENS
+
+Figure 2. Focal Plane of Telescope
+
+This stratospheric laboratory, weighing 1,500 pounds at launch including the
+observer and the ballast, was lifted by a cluster of 104 dilatable sounding balloons
+organized in 34 groups of three balloons, one above the other, along a vertical
+cable 1,400 feet long (Figure 6).
+
+Launch was achieved at sunset on 22 April 1959 from Villacoublay Air Force
+Base near Paris (France). The five-hour night flight reached a long steady level
+at 43,000 feet. During the flight the author collected data on Venus and the Moon.
+The descent was operated by radio command on board, to an explosive switch re-
+leasing 18 balloons at the top of the cable. A landing in full night was followed by
+the pilot's phone call from the nearest village and a prompt recovery by the
+ground-tracking operation.
+
+The operation of the telescope during the flight resulted in the following:
+
+a) Information about the variations in the scintillation of stars with
+height, their close connection with the existence of atmospheric shears as observed
+by the tilt of the clusters of balloons, and their complete disappearance above the
+tropopause. These results are given in the conclusion of the first paper by the
+
+author given at this Symposium (XXXIII).

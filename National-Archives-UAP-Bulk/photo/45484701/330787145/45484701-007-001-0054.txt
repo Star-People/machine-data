@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T09:58:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7069415, "source_ctime_ns": 1793364458144221975, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0054.jpg", "source_mtime_ns": 1785684562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0054.jpg", "source_sha256": "8c099617be85412db23284f0ecc23b8806aa3943e26c24fd87fa9d1d550158ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 543, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+9)
+
+d. A further examination of the photography indicates that
+a method of developing called "dodging" was used in one photograph, and
+a "burning in" process around the lighted area was used in another,
+We have no grounds on which to suspect a deliberate fraud towards
+a Government agency; however, there appears to have been some tampering
+by persons unknown with respect to the materiel submitted.
+Your interest in reporting this matter is appreciated.
+
+Sincerely,
+
+1 Inel
+
+3 (8x10) Prints w/markings
+
+Declassification Authority: NND 923007

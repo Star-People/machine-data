@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T09:29:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 997073, "source_ctime_ns": 1793394390487197239, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0080.jpg", "source_mtime_ns": 1785567364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0080.jpg", "source_sha256": "4405d0b00cd40b8abdc044f1925a4e95f1d2cac44425e3f9694fc61ede12bf29"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 544, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1712 Curch Street
+Scotland Neck
+
+Ne GC. 27874,
+March 5, 1987
+
+Federal Aeronautics Administration
+
+Box 1h
+Anchorage
+Alaska 99510
+
+Dear Sir:
+
+Paul Harvey stated on his talk show today that
+you have pictures of the UFO sighting of approximately
+six weeks ago by a pilot and his crew members. He also
+stated that the pictures were available to the public
+upon request. I would like a set of these pictures if
+
+possible.
+Thank you for help in this matter.
+Sincerely yours,
+
+LE WN oienoone
+
+Boots Stevenson
+1712 Church bt.
+Scotland Neck, N. C. 27874

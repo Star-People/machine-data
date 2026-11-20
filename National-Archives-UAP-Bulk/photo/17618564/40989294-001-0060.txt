@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T09:33:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1476480, "source_ctime_ns": 1793355963952378007, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0060.jpg", "source_mtime_ns": 1785564570000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0060.jpg", "source_sha256": "62aff96d5d1142b1409dbb9f3dc6bc81e919db17d66e44d7a06b339dd16c359e"}
+
+===== PAGE 1 =====
+{"alpha_words": 212, "chars": 1799, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+54
+
+Project 7350, by Col. Jack Bollerud, Dir./Life
+Sciences, ARDC, 30 April 1959; comment no. 2, Maj.
+Herbert W. Simmons, Acting Chief, Programs Division,
+DCS/O, AFMDC, to Mr. Ellis M. Bilbo, Plans and
+Programs Office, Dir./Advanced Technology, AFMDC,
+subj.: "Management Reports--Projects 6892 and 7850,"
+19 May 1959; R & D Project Card, Project 7850, 31
+August 1959; interview, Capt. Hi L. Beeding, Chief,
+Biodynamics Branch, by Dr. Bushnell, 7 March 1961.
+
+12. Track Test Division, AFMDC, "Historical Data,"
+January-March 1959.
+
+13. James S. Hanrahan and David Bushnell, Space Biology
+(New York: Basic Books, 1960), pp. 106-108 (and
+sources cited there); interview, Lt. Zaborowski by
+Dr. Bushnell, 31 August 1960,
+
+14. Historical Branch, AFMDC, Development of the Nation's
+Leading Test-Track Facility, 1556-1560 (Vol. II,
+History of Tracks and Track Testing at the Air Force
+Missile Development Center), pp. 21-24,
+
+15.6 Run records, folder on run number 930; interview,
+Lt. 4aborowski by Dr. Bushnell, 31 August 1960,
+
+16. Interview, Lt. 4aborowski by Dr. Bushnell, 31 August
+1960; Aeromedical Field Laboratory, "Historical Data,"
+January-March 1959.
+
+17. New York Times, 8 March 1959.
+
+18. Ibid.; Alamogordo Daily News, 25 February 1959; El
+Paso Times, 26 February 1959.
+
+19.6 Interview, Dr. Harald J. von Beckh, Technical Advisor,
+Aeromedical Field Laboratory, by Dr. Bushnell, 28
+August 1959; interview, Lt. Zaborowski by Dr. Bushnell,
+31 August 1960. The interpretation of this run in
+Hanrahan and Bushnell, Space Biology, p. 108 (and
+actually written by the author of the present history)
+is frankly oversimplified.
+
+20. Historical Branch, Air Force Ballistic Missile
+Division, Short Historical Evaluation, WS 117L:
+
+Discoverer, Sentry and Midas Chronology 1946-1959.
+
+All, Above, pp. 2-4.
