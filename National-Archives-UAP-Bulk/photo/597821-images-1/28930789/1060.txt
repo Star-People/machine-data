@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:30:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5541425, "source_ctime_ns": 1793369148915857672, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930789/1060.jpg", "source_mtime_ns": 1785688831000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930789/1060.jpg", "source_sha256": "4814704c00a4804bd7e37bd872d94f76ca88522563a5755466d7998d4f583832"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 393, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+td
+
+PACD (10.May 1948)
+Subject: Spot Raport
+
+ovsexryer's aircraft and slightly to the right of course, Cmtain Barnes
+made mumerous attemots “? contact the other aircraft on Channel 3B and
+C, VH?, but acknowledgment of his transmission was never received.
+
+FOR THE COMMANDING CUNERAL;
+
+JOSL A. HARPER
+Major, USAT
+DAC/S, Intelligence
+
+UAICLASSIF! NGRADE ) AT 8 YBAR INTERN
+“DOD ‘DIR 5 t 00, 10

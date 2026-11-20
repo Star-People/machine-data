@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T05:12:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3776258, "source_ctime_ns": 1793375702756121432, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957297/0393.jpg", "source_mtime_ns": 1785696930000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957297/0393.jpg", "source_sha256": "aee11d40eb6295c02ce2aaf73158d5c814849a25f78e04e3ff1941b08c6df769"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 903, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+.
+.
+
+! | PROJECT 10073 RECORD CARD
+
+4
+
+1. DATE ; 2. LOCATION 12. CONCLUSIONS
+0 Was Ball
+8 Jan 5% Berlin Se Oo Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ee ee
+Loco! 2027 Xt Ground-Vi sual O Ground-Radar ° Probably Aiver >
+emt __.03/1927Z_ 0 Air Visual © Air-Intercept Rader | 7 Possibly Aircraft
+5. PHOTOS SOURCE 0) Was Astronomicol
+O Probably Astronomical
+GO Possibly Astronomical
+7. LENGTH OF OBSERVATION 9 COURSE 0 Oth
+5 - 10 seconds SE 3 Insufficient Data for Evaluation
+10. BRIEP SUMMARY OF SIGHTING 11, COMMENTS
+Object described as about the brightness of thei Meteor speeds consistant with the distarice
+full moon observed in flight from the NW in degrees of arc through which the cbidct
+to the SE. Straight Plight. No features, no traveled. Case evaluated as a meteor
+sound or trail. Speed twice that of jet a/c sighting.
+
+yet slower than meteor.
+
+ATIC PORM 329 (REV 26 SEP 52)

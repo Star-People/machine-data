@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T05:06:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1683472, "source_ctime_ns": 1793390952965156291, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554539/1204.jp2", "source_mtime_ns": 1785808305000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554539/1204.jp2", "source_sha256": "17d54f6589a334a836fd7600afd5589701c779fb986e54fbe6cad41ac9d1300d"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 693, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Table 1: Content of Reports
+
+Like moon (or slightly. larger or smaller)
+Much larger than moon
+Actual size estimate (feet, blocks)
+
+COLOR
+
+Red-orange stage reported
+Blue-green stage reported
+
+Silvery cloud stage
+
+Details of colors (swirling, etc.)
+
+Initial small bright ball
+
+Rectangular phase
+
+Large circular ball
+
+Fuzzy or indistinct edges
+
+Column, vertical streak, or U-shape
+
+Final fading out (dependent on dark adaptation)
+
+One only
+th or parts o? both events
+
+BRIGHTNESS
+
+Less than moon
+Like moon
+Brighter than moon
+
+Explosion or expansion
+
+Approach toward witness
+
+Departure away from witness
+Rotation, swirling internal motion
+Transverse motion in sky
+
+Pecing alongside moving witness

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T05:11:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1762701, "source_ctime_ns": 1793388628137996691, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530483/0333.jp2", "source_mtime_ns": 1785808269000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530483/0333.jp2", "source_sha256": "055aa6076e32c4f2f1b9c19f3f4cd5a61e97386a04cc618900647044979c47e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 608, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF IN : 14839 (27 Sep 63) 2PARTMENT OF HE aia KOR Pe
+
+a A | a
+rage 5 of 4
+
+AFF MESSAGE BRANT +
+
+UND S ASSIFISU mMPAS ar Se
+
+or ee ee a ae
+iN u UM I OW is
+fe IDENTIFYING INFORWNATION ON OBSERVER
+
+1) Se. | 46 Mees 01: FALLS, NiYoy CIVILIAN,
+
+ARN ER, RELIABILITY UNKNOWN
+
+PAGE 3 RUEAGF 429A UNCLAS
+
+G. WEATHER aNnD WINDS |
+
+10,000 300/10
+: 16,000 330/15 |
+20,000 300/20 |
+29,005 340,20
+
+0,009 NOT AVAILABLE
+
+(3) CEILING, NONE
+| (4) VISIBILITY, 10 MILES
+(5) AMOUNT OF CLOUD COVER, NONE
+
+C6) THUNDERSTOR'! IN AREA, NEGATIVE
+
+7 (7) TEMPERATURE GRANIENT, SUBSIDENCE INVERSION BASE S000
+
+H. POSSIBLE REASON, AURORA

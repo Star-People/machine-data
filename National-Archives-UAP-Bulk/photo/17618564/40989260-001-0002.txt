@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T05:24:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5884699, "source_ctime_ns": 1793355070114110752, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0002.jpg", "source_mtime_ns": 1785564388000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0002.jpg", "source_sha256": "588c9e52b3c1a2c3a07c479537f2e0f0a843dbf044bf17c47aae72db4d4dcbdb"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 977, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SUMMARY OF FLIGHTS BY MONTH AND ALTITUDE
+Date Float Altitude Flight Duration Payload Impact Area
+Jan 27, 109K 7Hrs 30 mi. E of Pecos, TX
+Jan 13, 103K 7zHrs 50 mi. N of Memphis, TN
+Jan 11, 103K 53Hrs 58 mi. NNW of TCC
+Jan 23, 98K 25 mi. NW of CNM
+Jan 6, 95K 45 mi. NNE of LOA.
+Jan 4, 95K 1 mi. W of Three Rivers, NM
+San 13, TAS Bon: VE — Row
+Jan 14, 1965 82K 70 mi. ESE of ELP
+Jan 29, 1965 81K 6 mi. WSW of Del City, TX
+Jan 30, 1973 13 mi. W of PIO
+
+Jan 13, 1977 37 mi. N of ROW
+
+Jan 24, 1980 5S mi. SSW of CKM
+
+Feb 7, 1982 225 mi. ESE of Guthrie, TZ
+Feb 28, 1984 10 mi. SW of GEN
+Feb 5, 1965 | 10 mi. W of PIO
+Feb 24, 1966 90 mi. SSE of Childress, TX
+Feb 4, 1966 25 mi. N of MYL
+
+Feb 10, 1980 32 mi. NE of LBB
+
+Feb 10, 1970 3 mi. ENE of Nacodoches, TX
+
+Feb 18, 1965 35 mi. SW of LEB
+Feb 13, 1976 27 mi. NE of HOR
+Feb 16, 1984 37 mi. N of EWN
+Feb 26, 1976 20 mi. ESE of EMN
+
+Feb 18, 1983 i. NE of EWN
+Feb 25, 1969 i. NNW of HOP
+Feb 4, 1970 i--N of GO
+
+Feb’5, 1980 i. NE of CNM

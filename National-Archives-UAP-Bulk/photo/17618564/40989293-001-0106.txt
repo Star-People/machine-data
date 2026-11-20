@@ -1,0 +1,139 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T05:11:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3256226, "source_ctime_ns": 1793355954045572194, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0106.jpg", "source_mtime_ns": 1785564567000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0106.jpg", "source_sha256": "de24a9fa66855c46549a4df1a02b77a6ec4fd0011708965c84263b87dcacfe49"}
+
+===== PAGE 1 =====
+{"alpha_words": 764, "chars": 5153, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ADMINISTRATIVE HISTORY OF THE AEROMEDICAL FIELD LABORATORY
+
+studied as affecting the “criteria for de-
+sign and specifications of aircraft and space
+vehicles where acceleration, pulsations, im-
+pacts, and pressure differentials are impos-
+ed under normal and emergency condi-
+tions. .. .” For that matter, the automo-
+tive crash program remained in the project
+as Task 78507, and both Tolerance to Im-
+pact Forces (Task 78503) and Tolerance to
+Total Pressure Change (Task 78504) kept
+their former names and virtually the same
+statements of aim and method. But Task
+78505 now became Tolerance to Ram Pres-
+sure and Thermal Effects, and Task 78506
+was changed to Patterns of Deceleration in
+Space Flight.9
+
+Two more changes in the project or-
+ganization of biodynamics research were
+proposed at Center level but failed to ma-
+terialize. In 1956, the proposal was put for-
+ward to make the automotive crash pro-
+gram into a separate project of its own.
+Headquarters, Air Research and Develop-
+ment Command favored the move but it
+subsequently failed for lack of support at
+Headquarters, United States Air Force.10
+In March 1958, at about the same time
+that Project 7850 was revised to become
+Biodynamics of Space Flight, the Aero-
+medical Field Laboratory submitted the
+necessary documentation for still another
+project, to be known as Project 7858, Ex-
+perimental Pathology of Aircraft Accident
+Forces. The documentation had scarcely
+been finished when the name of the pro-
+posed project was altered to Space and
+Air Experimental Pathology, ‘for clarity
+of research area involved.” It was to in-
+vestigate many of the same forces that
+were a subject of study in Project 7850,
+but whereas Project 7850 sought mainly
+to establish the limits of voluntary human
+tolerance, Project 7858 was to be concern-
+ed with the “grey zone” between “unin-
+jured survival and lethality.” However,
+the projects were still too much alike to
+suit higher headquarters. Project 7858 was
+therefore rejected at command level, main-
+ly on the ground that it was “merely an
+extension of Project 7850,” with certain
+aspects also representing duplication of
+work assigned to Wright Air Development
+Center.11
+
+The project framework of research in
+space biology has also undergone a series
+of changes. The balloon flights from 1950
+through 1952 (and for that matter the
+aeromedical Aerobee firings too) had been
+conducted as part of the project entitled
+Physiology of Rocket Flight (RDO 695-
+72, MX-1450R). After Major Simons ar-
+rived, a new project was established enti-
+tled Biophysics of Cosmic Radiation, which
+
+93
+
+was adapted more specifically to the bal-
+loon-borne cosmic ray research in progress
+at Holloman.12 Finally, in 1954 Holloman
+space biology research was broadened into
+Project 7851, Human Factors of Space
+Flight. In this case the development plan
+was dated 6 May, and command approval,
+with minor alterations, was granted on 24
+September. The original subdivisions were
+Radiation Hazards of Primary Cosmic Par-
+ticles (Task 78500), Subgravity Studies
+(Task 78501), and Descent and Recovery
+(Re-entry) which became Task 78502. The
+latter task, never very active, was eliminat-
+ed early in 1958, but in 1955 still another
+task had been added: Environmental
+Control in Sealed Cabins (Task 78516).
+This was the task primarily responsible for
+the Man-High program of high-altitude
+manned balloon flights.13
+
+A closely related effort is the new
+Project 7857, which was established at
+Holloman in the course of 1957. The title
+originally proposed was Research in Space
+Bio-Sciences, but the word “space” was
+still frowned upon at the time in high De-
+fense Department circles, suggesting Buck-
+Rogerish fantasies and waste of the tax-
+payers’ money. Hence the project was ap-
+proved at higher echelons with a slight
+change in name though not in substance,
+becoming officially Research in Extreme
+Altitude Bio-Sciences. However, by the
+early part of 1958, and for obvious reasons,
+everyone was satisfied to restore the name
+first proposed by the Aeromedical Field
+Laboratory.14
+
+Project 7857 was only secondarily con-
+cerned with ‘‘in-house” research efforts.
+Chiefly, it provided for the Aeromedical
+Field Laboratory to direct research on a
+variety of topics--radiation effects, psycho-
+physiological aspects of weightlessness and
+sealed cabin environment, and so forth--
+through contracts with outside investiga-
+tors. Such contracts had previously been
+awarded under Projects 7850 and 7851,
+but the new project envisages a definite
+increase in contract efforts. It supplements
+the other projects, and in particular Pro-
+ject 7851; Colonel Simons is currently pro-
+ject officer in both cases, and the task sub-
+divisions of one are mostly related to tasks
+included in the other. Project 7857 thus
+broadens the research role of the Aero-
+medical Field Laboratory even though it
+does not greatly affect the scope of activi-
+ties carried on locally. Air Research and
+Development Command refused to make
+funds available until full coordination was
+effected with related projects at other Air
+Force installations, and no contract had
+actually been signed under the terms of

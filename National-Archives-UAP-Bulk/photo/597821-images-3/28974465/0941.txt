@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:35:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6670114, "source_ctime_ns": 1793380080424641352, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974465/0941.jpg", "source_mtime_ns": 1785700792000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974465/0941.jpg", "source_sha256": "fbfb592588c2fb5736bfb6cccffba201b34e695f1818f64ac68010bb8a0c214a"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+7
+PROJECT 10073 RECORD CARD
+1. OATE 2. LOCATION 12. CONCLUSIONS
+Q Was Balloon
+3Q November 1957 Atlanta, Goorgeia O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION GO Possibly Balloon
+
+“Yer , f . Was Aircraft
+Local ae “OX Ground: Vi sual 0 Ground-Rodar a " Brobubly Mveratt
+GMT diy VOU aS 0 Air Visual O Air-Intercept Radar 0 Possibly Aircraft
+5. PHOTOS 6. SOURCE QO Was Astronomical
+O Yes CO Probably Astronomical
+“DeNo Civilian 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+O insufficient Doto for Evaluation
+es eit O Unknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Round object, size of baseball, dark The observer probably saw az
+reG, DLANKANE On and off, Aftex it Serorart Cirelingy ovyex the air-
+passed out of sight two stars seemed pert 2t Atlanta,
+to be falling, Object was going around
+MW CAPE LS,
+ATIC FORM 329 (REV 26 SEP 52)

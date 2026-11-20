@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:30:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5381427, "source_ctime_ns": 1793388502073598950, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001377/0473.jpg", "source_mtime_ns": 1785808002000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001377/0473.jpg", "source_sha256": "94223205c950ad27e6363999deb899cf09c0f30d09a93eeffae4bd8c8bfd1090"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 628, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+, ; a
+—_— SrA FORM NO. 10 |
+UNITED STATES GOVERNMENT |
+
+Memorandum |
+
+J, S. Lacey, OPI Code 5511: JCW
+TO : NASA, Greenbelt DATE: 15 July 1963
+
+FROM : Nautical Information Branch
+U.S. Naval Oceanographic Office
+
+supyEcT: Satellite ECHO
+
+(1) Marine Data Report from Liberian Ship PENSACOLA dtd 20 Jun 63 |
+
+Enel:
+(2) Observation from M. V. FERNGATE dtd 1 July 63
+
+1. Enclosures (1) and (2) forwarded for your information.
+
+; r pertaining PFA
+a as a matter pet
+: ob Your attention : G BUCKWALTE
+is cape matter will be aooreciated.
+ES Vee
+Le O hihesey Sanaa ee
+: Gack.
+q a Information crficer |
+: @oddard Space Fiight Conter |
+: |

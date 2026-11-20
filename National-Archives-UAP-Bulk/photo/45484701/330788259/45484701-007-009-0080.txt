@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:50:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12410070, "source_ctime_ns": 1793365101559850067, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0080.jpg", "source_mtime_ns": 1785684991000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0080.jpg", "source_sha256": "8e5e26c98412b86b4911117d1c381ac77e18090cb875aabfe07eb8c6b90feff5"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 85, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+iy See
+
+how Nata Hepes g
+SPE TET
+
+mF)
+ne tt)
+
+Declassification Authority: NND 923007

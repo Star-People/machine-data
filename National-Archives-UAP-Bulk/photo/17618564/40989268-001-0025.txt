@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:54:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17744872, "source_ctime_ns": 1793355586923105041, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0025.jpg", "source_mtime_ns": 1785564484000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0025.jpg", "source_sha256": "31c254bf93e58f0fe3430530df395fda1689c54db653dfa65d81981af3d92be7"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1410, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+GORE PATTERN FOR
+TAPED BALLOON
+
+PROFILE OF TAPED
+NATURAL SHAPE
+
+BALLOON
+
+GORE PATTERN FOR
+TAPELESS SEMI - CYLINDER
+
+ee BALLOON
+PROFILE OF TAPELESS
+SEMI- CYLINDER
+BALLOON
+
+GORE PATTERN
+FOR SVT.
+BALLOON
+
+SMT. BALLOON
+PROFILE
+
+Figure 6
+
+--.. AFTER END
+FITTING IS
+ATTACHED
+
+Figure 7. 1/2 MIL SVT Bubble Lift: 3620 Pounds
+
+The SVT design is equally applicable to thin and heavy films and to reinforced
+materials. Initially, its greatest use will be in thin-film balloons when maximum
+altitudes must be reached. All flights to date have utilized films of 0.55 and 0.75
+mil polyethylene and successful performance has been demonstrated in balloon
+sizes from 3,000,000 to 9,000,000 cubic feet. Figure 10 shows a comparison of the
+potential lift capabilities of SVT balloons as compared to semi-cylinder designs.
+The gross lifts involved in the flights which have been made fall midway between
+the limit profiles. There is no reason to expect that the designated SVT limit is
+not attainable.
+
+When manufacturing techniques are fully worked out and the SVT concept
+reaches full fruition, it will have the advantage of the load capabilities of present
+taped balloons at a cost only slightly higher than that of conventional tapeless
+balloons. It is very possible that, in combination with some of the new promising
+films, this design will attain a degree of reliability which is unheard of short of
+
+scrim construction.

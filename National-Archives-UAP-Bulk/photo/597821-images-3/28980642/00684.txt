@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:30:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5609317, "source_ctime_ns": 1793381552348975135, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980642/00684.jpg", "source_mtime_ns": 1785701075000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980642/00684.jpg", "source_sha256": "b9f838e20724f8def080a6ff2fb7713e2f9c2a75db51d35bf3cfdd94a61a8988"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 413, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ce
+
+De
+
+Ee
+
+Fe
+
+de ene GRAND RAPIDS MICH
+
+ey
+G e
+%
+
+bh, STRAIGHT LINE
+5, OVER THE HORIZON
+
+6¢ 25 SECONDS»
+
+4. GROUND VISUAL
+2. NONE
+3, N/A
+
+le 18/0425Z2 PVR 7 HATA
+
+2. NICHT.
+
+Gahanna
+
+4. GRAND RAPIDS, MICHIGAN
+
+PHONE «cee
+
+2. N/A
+
+le CLEAR
+Pe SURFACE WINDS NE 4 KNTS
+6200 - 32% 29KNTS
+19039 - 319 35XKNTS
+16920 - 322 45KNTS
+"33300 - 320-5@KNTS
+39080 - 30 7OKNTS
+59000 - 280 35KNTS
+3. OLEeR
+4. UNLIMITED
+5. NONE

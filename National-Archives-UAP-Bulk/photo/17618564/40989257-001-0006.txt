@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T04:52:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16100549, "source_ctime_ns": 1793355005790897724, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0006.jpg", "source_mtime_ns": 1785564377000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0006.jpg", "source_sha256": "5e665c63c82532b837a2301531fefb08ec7b5db45090f1f165b44d79982b0ff2"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 265, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MPNVREM ue States Az Force ae 13 Dec 1962
+
+Mobile Cranes
+
+AFCRL (CRZE/Sgt Benedict)
+
+L @ Hanscom Fid
+
+Bedford Mass
+
+Photographs of Mobile Cranes are herewith attached as requested.
+
+FOR THE COMMANDER
+
+2 Atch
+1. Photograph (38105802993)
+2. Photograph (38107891464)
