@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:16:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3268179, "source_ctime_ns": 1793382376340108227, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983512/0427.jpg", "source_mtime_ns": 1785700835000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983512/0427.jpg", "source_sha256": "4fe91236a9bfaff72ff96b43918afe8f63c8b906d338ba5d5062c4515ec1f529"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1016, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+34. What were the weather conditions at the time you saw the object?
+
+34,1] CLOUDS (Circle One) 34,2 WIND (Circle One)
+S2 No wind
+
+. Slight breeze
+
+. Strong wind
+
+ch
+
+ay Clear sky
+
+b. Hazy
+
+c. Scattered clouds
+
+d. Thick or heavy clouds
+e. Don't remember
+
+fi
+
+f
+4
+
+o-oo
+
+. Don't remember
+
+34.3 WEATHER (Circle One) 34.4 TEMPERATURE (Circle One)
+fay Dr} a. Cold
+b. Fog, mist, or light rain b.. Cool
+c. Moderate orheavy rain c. Warm
+d. Snow d, Hot
+e. Don’t remember e. Don’t remamber
+
+35. When did you report to some official that you had seen the object?
+
+i) mh Pye eile era
+4.3 SY Ae a: f tf 5 os
+
+Day Month Yoar
+
+36. Was anyone else with you at the time you saw the object?
+
+(Circle One) Yes/ No
+36.1 IF you answered YES, did they see the object too?
+(Circle One) Yes. No
+
+36,2 Flease list their names and addresses:
+
+37. Was this the first time that you had seen an object or objects Jike this?
+
+(Circle One) Yes (NO
+
+37.1 1F you answered NO, then when, where, and under what circumstances did you see other ones?

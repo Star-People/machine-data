@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:09:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1225065, "source_ctime_ns": 1793394295364755806, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0064.jpg", "source_mtime_ns": 1785567350000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0064.jpg", "source_sha256": "14b6155c1fc5ab4d1e5284e36e05e63d72a14f0a676c935a9aa966b817085237"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 389, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MEMORANDUM
+OF CALL
+
+TO:
+
+[_] YOU WERE CALLED By— [_] You WERE VISITED By—
+
+OF (Organization)
+
+[] PLEASE CALL ——» FHONE No.
+
+(_] WILL CALL AGAIN [J IS WAITING TO SEE You
+(_] RETURNED Your CALL [_] WISHES AN APPOINTMENT
+MESSAGE
+
+SP cs — Oe
+fe 7 2S
+pee ares nares
+RECEIVED BY DATE TIME
+STANDARD FORM 63 GPO ?1969—o48—16—80341-1 332-289 ‘63-108
+
+REVISED AUGUST 1967
+GSA FPMR (41 CFR) 101-11.6

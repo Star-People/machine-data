@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:13:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1728738, "source_ctime_ns": 1793391541636827175, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559353/01388.jp2", "source_mtime_ns": 1785808218000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559353/01388.jp2", "source_sha256": "4a63bae81463c46ea6a7c49e4b1f847c3ad9a33a1ac7b66f42cafb3edfb1b08c"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 742, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+UNCLASSIFIED a é ‘
+
+DEPARTMENT OF THE AIR FORCE
+STAFF FAESSAGE BRANCH
+IMCOMING MESSAGE
+
+AF IN: 71542 (29 Dec 66) D/lcb ‘ Page 1 of 4
+ACTION: RDCH4 ADV COPY DIA ie
+
+SMB DOSOCZCBVC216 INFO: XOP-1, XOPX~-2, SAF-05-3, NIN-7, DIA-1, (19)
+PTTU JAW RUNMBDAK912 3262200-UUUU--RUEDHOA,
+
+ZAR VUUU
+
+P 2823402 DEC 66
+
+FM 26 AIR DIV ADAIR AFS OREG
+
+TO. RUWMFV A/ ADC
+
+RUEDFIA/AIR TECH INTEL CENTER WRIGHTPATTERSON AFB OHIO
+RUEDHQA/HQ USAF WASHINGTON DC
+
+RUED HQA/ SECRETARY OF THE AIR FORCE WASHINGTON OC
+
+gt
+
+UNCLAS 260IN 13068 DEC 66
+
+FOR AFRDC - HQ USAF: SAFOI - SECRETARY OF THE AIR
+FORCE. UFOB REPORT. THE FOLLOWING UFOB REPORT
+
+iS SUBMITTED. PART |.
+
+PART A.
+
+1. UNKNOWN
+
+2. UNKNOWN
+
+3, RED/ YELLOW
+
+4. ON
+
+5. NONE
+
+AFHO jas O-309C UNCLASSIFIED

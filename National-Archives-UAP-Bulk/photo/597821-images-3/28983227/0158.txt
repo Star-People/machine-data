@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:18:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3745033, "source_ctime_ns": 1793382320037455644, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983227/0158.jpg", "source_mtime_ns": 1785700841000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983227/0158.jpg", "source_sha256": "d9a88f8e223a8e9ee812703006115fe7c04fc8e60737477bcd9aa6009f29677b"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 656, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+~
+
+- DATE
+
+-
+
+2. LOCATION
+
+ie re a
+
+uw
+.
+
+DATE-TIME GROUP
+
+Local 1 rat
+
+SMT
+
+4. TYPE OF OBSERVATION
+QO Ground-Visual _ OG Ground-Radar
+
+QD Air Visual O Air-Intercept Rador
+
+wa
+
+» PHOTOS
+
+5 Yes
+No
+
+& SOURCE
+
+LENGTH OF OBSERVATION
+
+NUMBER OF OBJECTS
+
+c
+.
+
+9. COURSE
+
+=~
+N
+
+nlislapiefafaiots (ave ja (oa) 0!
+
+» CONCLUSIONS
+
+Was Balloon
+Probably Baliocon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other f
+Insufficient Data for Evalustion
+Unknown
+
+10. BRIEF SUMMARY OF SIGHTING li. COMMENTS
+: & Vv 1 Cae G ) + " A
+ATIC FORM 3729 (REV 26 SEP 52)

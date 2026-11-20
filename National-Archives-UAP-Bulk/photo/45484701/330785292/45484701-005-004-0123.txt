@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T14:44:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7041334, "source_ctime_ns": 1793363468884243634, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0123.jpg", "source_mtime_ns": 1785684658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0123.jpg", "source_sha256": "c43409868e001200d65c2fc2448c8f6b6d2f7b67d19f9bbe1c85a868d7417d55"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 967, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 5
+Essentiel Elements of Info
+Project "SIGN"
+
+S.
+
+Notes relative to observer on
+
+a, Sightings in general
+
+b. How attention was drawn to object (s)
+Sound
+Motion
+Glint of light
+
+Witnesses
+
+a. Addresses
+
+b, Ozcupation
+
+c,. Reliability
+
+Comments of interrogator re intelligence and character of person
+interrogated,
+Relative to Radar Sightings
+> radars how operating on ground
+Observations of range, speed, altitude and size of target
+
+Docs target execute any turns? If so, what angle (180°) | ete,, and
+
+what redius of turn, If radius of turn is not observable, how long
+did the target stay in the turn 7nd what was its speed?
+
+Note partisularly any separation of distant target into Ssepardtion
+of a distant target into several targets upon epproach, Track al]
+if possible,
+
+If sirborne when object sighted
+
+a. Were there any radar inductions or extra noise on radio circuits?
+
+Give estimates of size, speed, maneuvers, etc,
+
+Declassification Authority: NND 923007

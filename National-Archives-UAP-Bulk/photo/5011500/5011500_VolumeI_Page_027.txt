@@ -1,0 +1,102 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T15:07:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 501066, "source_ctime_ns": 1793365590031608286, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_027.jpg", "source_mtime_ns": 1785565396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_027.jpg", "source_sha256": "29bdb333470c2a7baf368e0dc272bf439f36531f8323cc274eb5267ad14006b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 1055, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+26
+
+00:51:23
+00:51:29
+
+00:51:44
+
+00:51:59
+
+00:52:01
+
+00:52:06
+00:52:15
+00:52:22
+
+00:52:35
+
+00:52:45
+
+00:53:02
+00:53:14
+
+00:53:18
+
+00:53:33
+
+00:53:38
+00:54:46
+00:54:49
+
+00:54:51
+
+00:55:00
+
+cc
+
+cc
+
+cc
+
+ce
+
+cc
+
+cc
+
+cc
+
+cc
+
+CC
+
+CONFIDENTIAL
+
+Roger.
+
+«es update ...?
+
+Houston advises that they do not have any solution
+for this Delta-P light at the present time. They
+think it might possibly be a reg pressure or a
+faulty Delta-P light.
+
+Roger.
+
+We have your Tp updated. It is in sync with the
+ground.
+
+Thank you.
+Carnarvon, this is VII. D-4/D-7 powering down.
+Roger. Copy powering down D-4/D-7.
+
+Gemini VII, your GMT lift-off was 19:30:03.
+19:30:03.
+
+Roger.
+
+Gemini VII, would you confirm that your C-Band
+adapter is on in CONTINUOUS?
+
+It's in CONTINUOUS now; we have it in the COMMAND
+position.
+
+Roger. Understand.
+
+Gemini VII, Carnarvon. We're standing by for your
+main battery readouts.
+
+Thank you.
+Gemini VII, Carnarvon.
+Go ahead, Carnarvon. Gemini VII.
+
+Roger. Do you have a GET of a D-4/D-7 Separation
+Maneuver?
+
+Roger. It was 22 plus 17.
+
+GONFIDENTIAL
