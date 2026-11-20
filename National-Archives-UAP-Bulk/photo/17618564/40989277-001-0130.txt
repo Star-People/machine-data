@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T00:41:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 624442, "source_ctime_ns": 1793355835079361103, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0130.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0130.jpg", "source_sha256": "589d91317f2367bea98bfdf19539e2d4468b0c5ff70f789187785f54e75d2fb8"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 672, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+02/21/97 FRI 13:35 FAX 703 604 5533 SAF/AAZD@CP6 [4001
+
+ofe of sf fe ake fe of fe ake ok ok oe ok ok ok ok ok ak oe ck ok
+
+kok TX REPORT aekok
+oe oi ok ok oe oe ok oe ok ok ok ok oh ok ok ok oe oe ok ok ok
+TRANSMISSION OK
+TX/RX NO 1654
+CONNECTION TEL 996970678
+SUBADDRESS
+CONNECTION ID
+ST. TIME 02/21 13:31
+USAGE T 04'31
+PGS. 5
+RESULT OK
+
+~CAPTAIN JIM MCANDREW
+SAF/AAZD
+1720 Air Force Pentagon
+Washington, D.C. 20330
+Phone (703) 604-4788, DSN 664-4700
+FAX (703) 604-5533, DSN 664-5533
+
+FAX COVER SHEET
+
+‘DATE: 21 FEB 97 TIME: 1330EST
+
+TO: SAF/PAS
+ATTN: LT. COL. WOODSIDE
+
+SUBJECT: FOREWORD FOR ROSWELL BOOK
+
+ATTACHMENT:
+FORWARD
+
+‘Number of pages including cover sheet: 5

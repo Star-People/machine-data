@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T00:32:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14152524, "source_ctime_ns": 1793355523559553572, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0107.jpg", "source_mtime_ns": 1785564470000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0107.jpg", "source_sha256": "2e56703cbeea133a7a6571e1d8fdee4af2fe855e669b370e62d6557d74a5dd92"}
+
+===== PAGE 1 =====
+{"alpha_words": 195, "chars": 1285, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INTRODUCTION
+
+In 1783 men first left the earth in a flying machine -- a hot air balloon. This
+history making aerostat was built by the Montgolfier brothers of France. Following
+only three months of balloon experiments two men were lifted by a bag filled with
+smoke and hot air. The builders, not understanding the buoyancy principles invol-
+ved, initially believed that it was the smoke which provided the lift.
+
+When reports of these flights reached Professor J. A. E. Charles of Paris, who
+understood the principles of buoyancy, he mistakenly assumed that they had used
+hydrogen as a lifting gas. Thereupon, he set out to design a balloon to use hydrogen
+as a lifting medium and within a few weeks he built and flew the first lighter-than-
+air gas balloon.
+
+Thus, for the past 180 years balloons have generally been classed as Montgolfier
+-- using hot air -- or Charlier -- using lighter-than-air gases. Certain basic differ-
+ences characterize the two types.
+
+Montgolfier balloons are initially inflated with hot air to yield the desired lift
+for flight. As heat is continually lost through the balloon envelope, heat must be
+
+continually added to the entrapped air to prolong the flight or to control the action of
+
+(Author's manuscript received for publication 31 December 1963)

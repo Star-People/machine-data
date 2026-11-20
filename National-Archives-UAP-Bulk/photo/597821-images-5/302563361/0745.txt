@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T00:48:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1332450, "source_ctime_ns": 1793392018964129720, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563361/0745.jp2", "source_mtime_ns": 1785808175000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563361/0745.jp2", "source_sha256": "2ea20abbe8be084bf3d8cd18356a83d9a954e5ac169e56d7e8e868e09251bc6f"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 584, "method": "ocr", "page": 1, "variant": "plain-psm3"}
++ am ” poe a oA, Y Monk. ante? nN
+DEPARTMENT OF THE AIR FORCE
+HEAOQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT.PATTERGON AIR FORCE BASE. OHIO 45433
+
+ATTN OF:
+
+uBsJect: UFO Observation
+
+= Plorida 32620
+
+Reference your unidentified observation. The information which
+we have received is not sufficient for a scientific evaluation.
+Request you complete the attached FTD Form 164 and return it in
+the envelope provided. Thank you for reporting your observation
+
+to the Air Force.
+
+JAMES C. MANATT, Colonel, USAF 1 Atch
+Director of Technology and Subsystems FTD Form 164 w/envelope

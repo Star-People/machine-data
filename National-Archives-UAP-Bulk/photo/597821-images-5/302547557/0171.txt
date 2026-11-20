@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T00:43:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 831974, "source_ctime_ns": 1793390195864943125, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547557/0171.jp2", "source_mtime_ns": 1785808358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547557/0171.jp2", "source_sha256": "3168825b6661307dcdb687bf6f52a5ea7f4525b4d0679cc52fcd1641ef73f953"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 543, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MENS PALESTiE, Dad | / HM a0ec
+
+’
+
+I te a aa — ee
+
+ae
+
+FTD (TDEW)
+Wright-Patterson AFB, Ohio 45433:
+26 April 1966
+
+enfield, Indiana 46140
+
+Dear \gmggyaiass;
+
+Reference your recent unidentified observation of 17 March
+1966. The information which we have received is not suffi-
+cient for evaluation. Request you complete the attached FID
+Form 164 and return it in the envelope provided.
+
+We wish to thank you for reporting your observation to the
+Air Force.
+
+Sincerely,
+
+Z
+
+HECTOR QUINTANILEA, Jr, Major, USAF
+Chief, Project Blue Book
+
+——
+—
+sa

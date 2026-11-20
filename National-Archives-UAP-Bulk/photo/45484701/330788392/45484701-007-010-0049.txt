@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:23:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9120885, "source_ctime_ns": 1793365155241294465, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0049.jpg", "source_mtime_ns": 1785684781000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0049.jpg", "source_sha256": "61cbb06593a90f6a56982f897205ac225bdd24eff01a1ee78b4ef9168129d03c"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 904, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+25th om... OSI (IG) USAF
+Selfridge AFB, Michigan
+
+5 November 1953
+File: 25D 2heQ-161
+
+SUBJECT: Sighting of UFO 1545 Hours 26 October 1958
+We Detroit, Michigan
+
+TO: Coumander
+Selfridge Air Force Base,
+Michigan
+
+1. Reference is made to telephonic report of sighting of
+unidentified flying object rendered by this district office 24 October
+
+2. The following information was received telephonically by OSI
+Detachment 2501 at 1555 hours 24 October 1958:
+
+» Description of the Object
+@. Round
+
+b. Softball or Basketball
+
+c. Red
+
+d. One (2)
+
+e. N/A
+
+f. Slow, glowing flash
+
+&- None
+
+h. Jet aircraft sound but louder than usual
+i. None
+
+Description of Course of Object
+a. The loud aircraft noise
+
+b. Not known
+
+c. Moving South toward Detroit River
+d. N/A
+
+e. Faded out
+
+f. 1/4 to 1/2 minute
+
+Manner of Observation
+@. Ground visual
+
+b. None
+
+c. W/A
+
+aus OEFIGIAL-USE.ONL!
+
+Declassification Authority: NND 923007

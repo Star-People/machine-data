@@ -1,0 +1,141 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:26:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15624391, "source_ctime_ns": 1793355472247908997, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0054.jpg", "source_mtime_ns": 1785564461000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0054.jpg", "source_sha256": "e29f6570e2bff28b7a786e28d67633c5ef11df1af5590a5609570f8e40360efe"}
+
+===== PAGE 1 =====
+{"alpha_words": 529, "chars": 3300, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+98
+
+IPC 1478
+
+H
+ov
+Ay
+
+«
+Ay
+4H
+eB)
+»
+=
+ny
+fxy
+
+—
+
+o
+
+ov
+
+rus)
+
+op)
+
+n
+
+WY
+
+o
+
+re
+
+G
+
+An}
+
+~
+
+Ww)
+
+Backup Screen
+
+tH
+i
+m> oO
+ive aa
+fH
+vo
+24
+aif
+Mo
+ed
+Ke)
+
+PR-2
+Flow Meter
+ol
+
+1
+
+Exhaust
+
+Primary
+
+Air Jet
+
+Throttling
+
+iBGesaaen ey
+Gas Supply
+
+ee
+
+Solenoid
+
+Closure Door
+
+Valves
+
+AEC Air-Ejector-Powered Filter Sampler (Balloon Borne)
+
+Figure 4,
+
+99
+
+only moving element in the pump is the air itself. The power supply consists of a
+titanium storage vessel in which compressed gas (in our case, nitrogen) is stored at
+a pressure of 3000 psi. Gas issuing from the storage vessel is called the primary,
+or driving gas. The primary gas passes through a regulator in which its pressure
+is adjusted to the desired primary pressure, This driving gas, upon discharging
+from the primary nozzle at high velocity, impinges upon the air molecules in the
+mixing tube and, through a process of turbulent exchange of momentum, induces a
+velocity in the secondary, or driven gas. The outflow of the combined primary and
+secondary gas through the mixing tube and diffuser produces a decrease in local
+static pressure at the secondary nozzle, thus causing air to be ''pumped'' into the
+system to satisfy the vacuum.
+
+The primary-gas system is utilized to open and close the inlet door to the sam-
+pler by means of a pneumatic cylinder. The outlet is left open until completion of
+sampling, at which time a spring-loaded butterfly door is shut by severing a tie-back
+line with an explosive actuator (squib). The outlet of the filter housing is connected
+to a flowmeter.
+
+In order to eliminate as many variables as possible in the evaluation of the
+ejector pump, it was decided to mate it toa collection medium identical to that used
+in the Direct-Flow Sampler (Figures 2 and 3). For this reason, IPC-1478 filter
+paper was used.
+
+A family of curves was developed from the combined theoretical and experimen-
+tal data for use in predicting the performance for the air ejector sampler operating
+at various altitudes. Figures 5 and 6 show the operating characteristics of the sys -
+tem at 110,000 ft and 130,000 ft respectively. It should be pointed out that these
+graphs are peculiar to the specific ejector-pump design presently used.
+
+The curved lines in Figures 5 and 6 represent the performance of the sampler
+for the case of 2 ft?, 4 ft2, and 8 ft? of filter paper. These lines show how much
+ambient air will be drawn through the filter collector in the time required to expend
+30 lb of compressed nitrogen. The vertical dashed lines correspond to primary-
+pressure ratios and enable the selection of a primary-pressure setting which will
+produce the desired rate of secondary air flow,
+
+It is evident from these curves that an increase in sampling rate obtained by
+raising the primary-gas pressure incurs a penalty in the form of a lower mass ratio,
+that is, less air will be pumped by each pound of primary gas.
+
+The use of these curves facilitates setting the system parameters Hrior to ie
+flight so as to achieve any desired operating point within the capability of the pump.
+
+The system is launched and samples are collected with the pump hanging verti-
+cally on a three-cable suspension harness as shown in Figure 7.
+
+Cn descent, an explosive actuator severs one of the cables to allow the gondola
+
+CE ES FR Fe

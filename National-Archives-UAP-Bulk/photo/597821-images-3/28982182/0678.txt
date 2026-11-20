@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:14:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7102156, "source_ctime_ns": 1793381958746613391, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0678.jpg", "source_mtime_ns": 1785700903000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0678.jpg", "source_sha256": "d2ea603ccd1a7a3d4bbd00d7e05f3eecaeb127de2e5937094c78c2afd65463ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 99, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oie #2
+
+ee Bi Salih 8 it Bile ah on ade
+
+“
+
+tb | ’
+
+ENCRYPT AN ale RI EN, HT: saiiy oat iil ata S

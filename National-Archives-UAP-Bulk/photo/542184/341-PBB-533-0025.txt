@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:12:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6779307, "source_ctime_ns": 1793365994045628175, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-533-0025.jpg", "source_mtime_ns": 1785565464000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-533-0025.jpg", "source_sha256": "d866d83a07fe1237c8835e02ecbde17afb7d081babc9e4be8d6c01c01e836aa8"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 18, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+erro!
+
+Bibs
+
+“ah

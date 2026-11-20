@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:13:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6955006, "source_ctime_ns": 1793381769262174488, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981500/0056.jpg", "source_mtime_ns": 1785701118000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981500/0056.jpg", "source_sha256": "20e98934084b8764b24e8e6cb8b42bb8a675b8559503b86117e9fc7e11254b0b"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 522, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE THREE RJEDNB 118
+F, IDENTIFYING INFORMATION. |
+(1) QSUGROGMEND , AGE NOT REPORTED; WARD BUILDING,
+SAYRE, PAs BUSINESSMAN; APPARENTLY RELIABLE.
+(2) N/A.
+
+_ G. WEATHER AND WINDS ALOFT CONDITIONS.
+
+(1) CLEAR SKY, UNOBSTRUCTED VISIBLITY.
+
+(2) 6,099 29DEGREES/2@K
+
+19,090 296 DEGREES/ 25K
+
+16,908 270 DEGEES/ 49K
+
+28,990 279 DEGREES/ 60K
+
+39,909 270 DEGREES, 190k
+
+59,099 27GDEGREES/7@K
+
+69,008 279 DEGREES/79K
+
+89,909 279 DEGREES/48 K 278 DEGREES AT 20K
+(3) CLEAR. 3 *
+(4) 8 MILES.
+
+C55 Ov
+
+(6) NONE.
+
+He N/As
+
+I. NONE,

@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T01:27:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16550487, "source_ctime_ns": 1793355470218037383, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0052.jpg", "source_mtime_ns": 1785564461000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0052.jpg", "source_sha256": "9e3ec99ae413603ab6b078bab52df411498f3acbcd56ad17d0bac0b404c75dbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 404, "chars": 2881, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+or hours or days with little expenditure in energy.
+everal high-volume balloon-borne sampling systems
+
+r laboratories to obtain information on the particulate
+
+keeping them there f
+
+This paper describes s
+that have been developed in ou
+
+make-up of the stratosphere.
+
+2. COLLECTION OF RADIOACTIVE PARTICULATES
+
+The U. S. Atomic Energy Commission (AEC) for several years has sponsored
+
+a worldwide program geared for collecting samples from a variety of geographic
+
+locations at altitudes principally from 60,000 to 110,000 ft. These samples were
+
+for radioactive assay, primarily. This began as a crash program because of the
+pressing need for information concerning the nature, concentration, and distribution
+of radioactive debris injected into the stratosphere during tests of nuclear weapons.
+
+In the early planning stages of this program, it became evident that large-volume
+filter samplers capable of efficiently collecting submicron particles and suitable
+for use with high-altitude balloons did not exist. The "Ashcan" filter sampler, so-
+called because of its classical shape (Figure 1), was developed to overcome this
+void.
+
+In 1957, a critical re-examination of the Ashcan system was undertaken by our
+organization in a research program supported by the AEC. Early in this investiga-
+tion, the Ashcan system was shown to have a number of deficiencies, the most im-
+portant of which was a low and unpredictable collection efficiency.
+
+To overcome these deficiencies, the Direct-Flow Particle Sampler, shown
+schematically in Figure 2, was developed in our laboratories. The Direct-Flow
+Sampler is a balloon-borne device designed to filter very large volumes of strato-
+spheric air at altitudes between 50,000 and 100,000 ft... It utilizes.p.0. 5O-hp oOnring=
+ton blower to pull air at high velocities through 1 sq ft of filter paper. The physical
+size of the sampler is indicated in Figure 3.
+
+The filter mat used in this sampler is a high-porosity paper, fabricated by the
+Institute of Paper Chemistry (IPC-1478). High-collection efficiency for submicron-
+sized particles is achieved by operating well into the impaction regime,that is, the
+high velocity of air moving through the filter (600 cfm at 80,000 ft) promotes collec-
+tion of small particles on the filter fibers by the impaction mechanism.
+
+A flowmeter mounted in the blower exhaust-duct counts the number of ambient
+cubic feet of air drawn through the system. The flowmeter is essentially a low-
+drag propeller anemometer.
+
+In operational use this unit is lifted to a pre-determined sampling altitude
+
+where a timer-programmer actuates the blower. During the sampling period, the
+
+UL Tegal
+
+Figure 1. AEC ''Ashcan'' Particle Sampler
+
+Exhaust
+
+Flow Meter,
+
+Motor -Blower,
+Torrington 704
+
+Tachometer (Optical) Be act
+
+IPC 1478 Paper
+
+Figure 2, AEC Direct-Flow Particle Sampler Model DFS- 2B (Balloon Borne)
+
+ee
