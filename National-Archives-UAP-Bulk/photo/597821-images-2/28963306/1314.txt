@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T10:40:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5987735, "source_ctime_ns": 1793377336152103767, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963306/1314.jpg", "source_mtime_ns": 1785696649000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963306/1314.jpg", "source_sha256": "a403600cb892108a9b8011693489278338522613293102e8b44a3d84dbefa56e"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 757, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+As Pe HEADQUARTERS
+
+: ‘| \ 4502d AiR INTELLIGENCE SERVICE SQUADRON (ADC)
+Y ENT AIR FORCE BASE
+ay, COLORADO SPRINGS, COLORADO
+AISOP
+
+SUBJECT: Civilian Saucer Intelligence
+
+TOs Commander
+Air Technical Intelligence Center
+ATTN: AMOIN-LE)
+Wright-Patterson Air Force Base
+Dayton, Chio
+
+‘1. Forwarded for your information and action is a letter
+received from IrqQgQMMMMMIBe York City, New York.
+
+2. This correspondence was forwarded by Headquarters,
+Eastern Air Defense Force, and apparently is one of many such
+inquiries received from this saucer “enthusiast” by EADF.
+
+3. We will advise EADF to forward all such correspondence
+directly to ATIC upon future receipt.
+
+FOR THE COMMANDER:
+
+1 Incl RICHARD B RANDLE
+Personal Ltr Major USAF
+
+fn Mag Assistant Adjutant

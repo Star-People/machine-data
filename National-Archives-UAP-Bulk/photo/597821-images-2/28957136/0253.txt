@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T10:29:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3885528, "source_ctime_ns": 1793375649049848767, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957136/0253.jpg", "source_mtime_ns": 1785696662000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957136/0253.jpg", "source_sha256": "120c1a9abc8e902f0165028db349c3dedeb0d5bb3866296772443891ffe8b620"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 553, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RAD 6T : % 0g
+
+VRASAIMNN
+
+‘JEDLS Ag@9
+
+EFD 991
+
+00 JEDWP JEDEN JEPFF JEPHQ JEPRS JEPQW 666
+DE JEDLS 1B :
+
+© 2893492
+
+FM COMDR OLMSTED FLTSVCEN OLMSTED AFB MIDDLETOWN PENN
+
+TO JEPHQ/DIR INTEL HQ USAF WASHDC
+
+JEDWP/COMDR AIR TECH INTEL CEN WRIGHT-PATTERSON AFB OHIO
+JEDEN/COMDR ADCNENT AFB COLORADO SPRINGS COLO
+JEPFF/COMDR MATS ANDREWS AFB WASHDC
+
+JEPQW/COMDR CONAC MITCHEL AFB NY
+
+JEPRS/COMDR HQ FLT SV 3&9 NEWARK ST NW WASHDC
+
+UUFOB
+
+DESCRIPTIONS
+
+/A/ ROUND
+
+7B/ SMALL TO SIZE OF BASEBALL
+
+/C/ BLUE TO WHITE TO ORGANGE
+
+/D/ ONE
+
+/E/ N/A
+
+F /¥/
+
+G /G/

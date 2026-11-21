@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:23:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4126141, "source_ctime_ns": 1793381651122565202, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981131/01124.jpg", "source_mtime_ns": 1785700755000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981131/01124.jpg", "source_sha256": "929add80085ebde07f90a81523c8f89ea33eb3b7e61d2d233e0c63c19eb91837"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 250, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+or
+
+as e No
+astronomical
+
+me No
+
+ta No
+
+reported or known unusual activities, meteorol
+which might account for the sighting.
+
+interception or identification action taken,
+known air traffic in the area at the time of s
+
+physical evidence,
+
+a
+
+ogical

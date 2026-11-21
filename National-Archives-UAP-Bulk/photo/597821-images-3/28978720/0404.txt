@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T10:45:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6970058, "source_ctime_ns": 1793380882903633093, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978720/0404.jpg", "source_mtime_ns": 1785700867000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978720/0404.jpg", "source_sha256": "faf8aa56b91ca6509fdf06888a31520f8b59ebb4a995c3d57a0c77b224dcfd60"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 732, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+°
+
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+O Was Balloon
+30 _ Jun 58 Climax, Colorado 5 Abate cee
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION oe
+O Was Aircraft
+Local XIX Groun d- Vi sual O Ground-Radar Q Probably Aircraft
+GMT. 20/0830 O Air Visual O Air-intercept Radar |9 Pessibly Aircroft
+5. PHOTOS 6. SOURCE UX Was Astronomical *]eteor
+O Yes O Probably Astronomical
+XDNo ,; Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE O Other
+5 Insufficient Data for Evaluation
+2 seconds one | West fois
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Rnd obj, red changing to bluewhite, Description of a meteor,
+
+size of dime, had trail like meteor.
+
+ATIC FORM 329 (REV 26 SEP $2)

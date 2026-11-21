@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:27:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4878232, "source_ctime_ns": 1793362715177781325, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0240.jpg", "source_mtime_ns": 1785685017000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0240.jpg", "source_sha256": "4e341b3e5f0426cccbdf5031478d96241625411a2a7856f5ccca5f657812a081"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 331, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ay
+
+AJACI-2 319.1-Oak Ridge (G2) lst Ind
+(27 July 53)
+SUBJECT: Air Space Violation at Oak Ridge, Tennessee
+
+Office of the Assistant Chief of Staff, G-2, Headquarters Third Army,
+Fort McPherson, Georgia 30 JUL 1953
+
+TO: The Adjutant General, Department of the Army, Washington 25, D. C.
+
+HJ
+
+Declassification Authority: NND 923007

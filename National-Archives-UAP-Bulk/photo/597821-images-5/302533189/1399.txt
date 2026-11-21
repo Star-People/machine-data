@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:13:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 891223, "source_ctime_ns": 1793388825545553802, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533189/1399.jp2", "source_mtime_ns": 1785808176000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533189/1399.jp2", "source_sha256": "66a798270eedfd763c98d8357b7f53b1b027c0eb7095a5c94f306fb8770d9a6d"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 437, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: | HEADQUARTERS
+836TH AIR DIVISION (TAC)
+UNITED STATES AIR FORCE
+MACDILL AIR FORCE BASE, FLORIDA
+
+REPLY TO
+
+attnor: DOI 12 ‘I 20CT 1964
+
+susvect: UFO Report
+
+ro; Air Force Systems Command
+Foreign Technology Division (TDEW)
+Wright-Patterson AFB, Ohio
+
+The attached report is transmitted to you in accordance with
+AFR 200-2, ;
+
+FOR THE COMMANDER
+
+EDWARD H. CONNOR, III = 1 Atch
+
+Colonel, USAF ; _ UFO Report
+aid Commander for Operations

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:25:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4376540, "source_ctime_ns": 1793386115276296301, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994895/0161.jpg", "source_mtime_ns": 1785748488000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994895/0161.jpg", "source_sha256": "35c15aa98b473f204e474ce116519ffdbc0b53c66edec968ef0c5c18af2d1466"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 763, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJWZNJ 36
+CB) (4) WEATHER OBSERVER, INDIAN SPRINGS AFB, NEVADA PICKED
+UP OBJECTS ONA THEODOLITE DURING OBSERVATIONS.
+
+€2) AZIMUTH 1533.4, ELEVATION 55.%, FROM INDIAN SPRINGS AFBe
+
+€3) LAST THEODOLITE OBSERVATION FROM DETACHMENT 31, 25TH WEATHER
+
+SQUADRON, NELLIS AFB NEVADA AT 16322, 32 SEP $1, AZIMUTH
+166 0%, ELEVATION §3.%.
+(4) SE, HEADING APPROX 145 DEGREES (FROM NELLIS AFB).
+
+(5) STILL PAINTED BY S65TH AC3W SQUADRON
+
+SLE ONE HOUR AT REPORT TIME.
+
+— ele
+
+TAT wv
+
+ONLY ONE OBJECT VISIBLE ON THE ODOLITES AT BOTH ISAFS AND NAFBeK
+
+C. €1) (A) THEODOLITE CISAFB AND NELLIS AFB)
+| (B) SCI RADAR, SS5TH AC2 WY SQUADRON, MT CHARLESTON, NEV
+(2) NONE
+(3) N/A
+De (4) 3915322 SEP 61
+
+(2) DAY
+
+Re INDIAN SPRINGS AFB, NELLIS AFS, AND 865TH AC& SQ, ANGELS
+
+——-

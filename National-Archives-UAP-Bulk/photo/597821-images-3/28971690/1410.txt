@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:24:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4242319, "source_ctime_ns": 1793379238082890775, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971690/1410.jpg", "source_mtime_ns": 1785701080000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971690/1410.jpg", "source_sha256": "32a7f00909e8a0abe02e7e11bf0c398d4675dbcea5112329dff28d67c097d854"}
+
+===== PAGE 1 =====
+{"alpha_words": 267, "chars": 1760, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CLASSIFIED
+
+the past, experienced ‘*ethmital difficulties in several major components
+of the equipment. None of these were serious enough, however, to induce
+long periods of breakdown or degradation of operational performance.
+
+The NORAD team could not find any specific source of component
+malfunction that could contribute to the Hse of the 20 September phe-
+nomenon. The circumstantial evidence associated with the 20 September
+phenomenon such as the observation by the NORAD team of a condition similar
+to that observed by the operations personnel on 20 September would indicate
+erratic performance of some Miectronie component within the equipment. One
+member of the NORAD team has been closely associated with the technical
+development of the FPS5S-20 since its inception. It was indicated by this
+member during the evaluation that certain electronic components of this
+equipment, on rare occasions, would produce random noise known as "angel
+effects." These effects are similar to those experienced on 20 September
+by the Montauk statton. The similarity, however, is not conclusive enough
+that the incident can be attributed to this effect. Further technical
+analysis must be accomplished before "angel effects" can be either accepted
+or rejected as a cause.
+
+At Benton Air Force Station, the NORAD team was unable to
+find any specific cases of malfunction of the AN/CPS -6B that would por
+tribute to the 20 September phenomenon. The station has experienced only
+those minor equipment difficulties, all of them common to the AN/CPS-6B
+over long periods of sustained operation. The circumstantial evidence
+associated with this phenomenon, such as the pick-up and fade character-
+istics of the target, the appearance of the target on only one scope, the

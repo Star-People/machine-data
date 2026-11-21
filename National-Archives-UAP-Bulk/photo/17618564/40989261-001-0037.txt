@@ -1,0 +1,97 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T10:41:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6117053, "source_ctime_ns": 1793355091298845788, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0037.jpg", "source_mtime_ns": 1785564392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0037.jpg", "source_sha256": "bae9e5a4f46db2c385b89c79a60cebe3070d7160b2871c0f666fd21b47664049"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 971, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFGL BALLOON HISTORY SINCE 7/7/82
+
+MCF
+
+MODEL
+
+1000 GM
+
+H84-23 26SEP84
+1000 GH
+
+H84-24 27SEP84
+ML-537-A/UM
+H83-22 xx
+ML-537-A/UN
+H83-10 xx
+ML-537-A/UM
+H83-03 O9FEB83
+ML-537-A/UM
+H83-04 10FEB83
+ML-537-A/UM
+H82-27 27DEC82
+ML-537-A/UM
+H82-28 3O0DEC82
+2335-536-888
+H83-14 23JUL83
+2335-536-888
+H83-15 24JUL83
+
+MFR
+
+CONTRACT
+
+80 KFT SUCCESS
+
+96 KFT SUCCESS
+DAABO7-79-C0807
+xxx KFT SUCCESS
+DAABO7-79-C0807
+
+95 KFT SUCCESS
+DAABO7-79-C0807
+100 KFT SUCCESS
+DAABO7-79-C0807
+100 KFT SUCCESS
+DAABO7-79-C0807
+
+93 KFT SUCCESS
+DAABO7-79-C0807
+
+93 KFT SUCCESS
+F 19650-72-C059 1
+
+90 KFT SUCCESS
+F19650-72-C059 1
+
+90 KFT SUCCESS
+
+02 May 1988
+
+Page
+
+ITEM UN OF SN REMARKS
+
+RAOB
+PATHFINDER TEST
+RAOB
+
+PATHFINDER TEST
+
+* *11366/1715
+*k2 FLTS 08/0SNOV83 x*kk80/90
+
+* *1723-1135064
+*k4 FLTS 11/12/19MAY83 BROWN
+
+¥ 411157
+HANSCOM, BROWN
+
+413555
+HANSCOM BROWN
+
+* *11378
+HANSCOM BROWN
+
+* %*11376
+HANSCOM BROWN
+
+on Gee 6 Fs
+NASA/GALILEO PATHFINDER ROSWELL
+4 11 118
+
+NASA/GALILEO PATHFINDER ROSWELL

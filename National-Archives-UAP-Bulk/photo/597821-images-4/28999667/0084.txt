@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T10:38:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5394547, "source_ctime_ns": 1793388018289958525, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999667/0084.jpg", "source_mtime_ns": 1785748237000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999667/0084.jpg", "source_sha256": "dd651e8ca5bb50d7b1109c1a131f9f7abc086c0839b1e82cb25550a840e0ed81"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 340, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+formation Only) 28 October 1962
+ee Woburn, Massachusetts
+
+October 88--Two ove.l shaped, white UFOs moved in a straight line |
+over ifoburn, Mass, at 8:40 P.M. No sound was heard,
+the objects were white md seen under perfect viewing
+conditions by High School students and brothers. -
+Edward and Thomas Lynch. Duration of sighting:8 min.. |
