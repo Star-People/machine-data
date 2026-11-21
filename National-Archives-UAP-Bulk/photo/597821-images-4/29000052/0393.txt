@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T02:12:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4718956, "source_ctime_ns": 1793388111296703229, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000052/0393.jpg", "source_mtime_ns": 1785747883000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000052/0393.jpg", "source_sha256": "89e4cd86f7d63ab04d691b51be09e82f3f2fad8276be2569aad73916686c8e7f"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 861, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DP Ay Fe SAF TR AR PBDRCE
+
+AP ING 141953 (31 Déo 62) X/eld “Sew Pg 1 of 2
+. ™) AY
+4
+
+INFO : CIN-17, OOP-1, noua ee oats, ‘aRM2 NSA-7, CMC-8, JCS-35,
+DIA-10,.DIA-CiIC-3, OSD-15, CIA-11 (118)
+
+SMB A 019 | :
+RR RUEAHO 3 :
+DE RUHLKE 2
+
+ZN Reis |
+
+0 319548Z !
+
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+
+TO RUHLKM/PACAF HICKAM AFS HANAIT
+
+RUKAC/COMALSEAFRON KODIAK ALASKA
+
+RUM S?G/COMWESTSEAFRON SAN FRANCISCO CALIF
+
+RUKPQ/COMHAWSEAFRON PEARL HARBOR HAWAII
+
+INFO RUEAHG/COFS USAF WASHINGTON DC
+
+RUMGALB/CINCNORAD ENT AFB COLO
+
+RUHPA/CINGPAC CAMP H M SMITH HAWAII
+
+PUHAFS/CINCUSARPAC FT SHAFTER HAWAII
+
+RUHPB/CINCPACFLT PEARL HARBORHAWAII
+
+RUALIAZ/C OMUSJAPAF FUVUAS JAPAN
+
+RUAMCR/C OMUSKOREA SEOUL KOREA :
+RUAGFL/COMUSTDC TAIPEI TALWAF
+
+RUHPD/COMASWFORPAC FORD ISLAFD HAWAII
+
+RUCSBR/CINCSAC OFFUTT AFB NEBR
+
+HWECY/CNO “WASHINGTON DC
+
+ROECY/SECNAV WASHINGTON DC
+
+AF GRNC

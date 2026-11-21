@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T02:05:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3803269, "source_ctime_ns": 1793371164236601657, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936814/1215.jpg", "source_mtime_ns": 1785688904000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936814/1215.jpg", "source_sha256": "c511bad5dd146aa4db51cc8453a8db359101e777c21b1d6b45dd347de3762ab3"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 359, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+30 November 1950
+
+ttsburgh, Pennsylvania
+
+Dear ur. lm
+
+I am in receipt of vour letter of November 27, 1950
+
+I want to assure vou that
+i
+
+PMs cette era coe
+
+addressed to General Vandenberg,
+
+the information you furnished will be given due copnizance
+
+by the proper agency of this Headeuarters,
+
+Sincerely,
+
+R. A. GRUSSENDOR
+Colonel, USAF
+Executive to CS/USAF

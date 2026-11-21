@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T02:08:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4081645, "source_ctime_ns": 1793378967820850016, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970305/0159.jpg", "source_mtime_ns": 1785701052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970305/0159.jpg", "source_sha256": "b777fc457a3e23851ad94012b1461ff495c682f2ca19e3ebba8c292b6943fec8"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 782, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+.
+PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12. CONCLUSIONS
+GO Yias Balloon
+21 June 1957 Harlingen AFB, Texas G Frobably Bolloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION a eae Cee
+Local BGround- Vi sual D Ground-Rodar o Probably Aiverctt
+GMT__ 22203052 0 Air- Vi suai D Air-Intercept Radar QO Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+CO Yes O Probably Astronomical
+CNo Yalita ry O Possibly Astronomicoi
+
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+“x Insufficient Data for Evaluation
+i 0 Unknown
+unk two unk
+10, BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+Two objects. Round,color orange - The Harlinger AFB ops office
+Y storm. went out to locate object. Found
+nothing. He said it probably
+from search Lights
+ATIC FORM 329 (REV 26 3ZP 52)
+a
+*

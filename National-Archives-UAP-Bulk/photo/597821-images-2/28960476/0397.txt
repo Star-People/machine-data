@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T01:34:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2739623, "source_ctime_ns": 1793376392533003686, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960476/0397.jpg", "source_mtime_ns": 1785696976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960476/0397.jpg", "source_sha256": "8abebe4f71179ab9931988945cc31913c5c3b36becbf799641d60ecadb5476f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 278, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+LIST OF TABS
+
+CONTENTS
+Initial Notification of Object TWX dtd 1 Dec 54
+Initial Investigation IR dtd 2 Dec 54
+
+Complete Report (OSI) dtd 8 Dec 54 (Conf)
+
+Miscellaneous Corresponce and Information regarding Case
+
+Related visual sightings
+
+Press Releases and Photographs of Object

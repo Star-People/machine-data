@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T02:06:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3905046, "source_ctime_ns": 1793373846107033469, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948956/1186.jpg", "source_mtime_ns": 1785696980000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948956/1186.jpg", "source_sha256": "4c81da4da35245bd5cb45d51f879ecc5928bcf12a67ab6b3f8501fa27a7a14de"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 110, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. t. r
+:
+| on o- eee omens
+tea 4 wed
+
+e+ me
+
+OF SIGHT,
+
+“vv
+ant
+
+.* iy
+‘
+
+SLL A CL. CL: TT A RN te ey cee at

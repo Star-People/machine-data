@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T01:36:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3588691, "source_ctime_ns": 1793375778030292065, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957643/0708.jpg", "source_mtime_ns": 1785696434000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957643/0708.jpg", "source_sha256": "104aec041a87653755e80fe774ca22bf82d54e9ca6c6b593658de86cea59be33"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 523, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a 27S UY
+Stk are / (  Keeseel gh, mis
+27 FEDRUARY 1954, KEESLER AIN FOSCE 3ASB, MISSISSIPPI ,
+
+Three members of the military at Keesler AFB, Mississippi reported sischting
+en unidentified flying object on the night of 27 February 1954. The object ap-
+peared to be solid and round, giving off a bright incandescent light. The object
+was in view for approximately five seconds, followed a straight course, and split
+in two before disappearing.
+
+All characteristics point to that of a meteor entering the earth's atmosphere.

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T01:34:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3221012, "source_ctime_ns": 1793385276147911669, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992574/0618.jpg", "source_mtime_ns": 1785748280000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992574/0618.jpg", "source_sha256": "77032aa3babbb639508a4664f4d954e425804ed277bc224095183275c594dbfc"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 458, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTN OF
+
+SUBJECT
+
+HEADQUARTERS
+3510TH FLYING TRAINING WING (ATC)
+UNITED STATES AIR FORCE
+RANDOLPH AIR FORCE HASE, TEXAS
+
+IG 22 May
+Unidentified Flying Object
+
+Air Technical Intelligence Center
+Wright-Patterson AFB, Ohio
+
+The attached Air Intelligence Information Report is submitted in
+accordance with your message AFCIN-4E2X 12-3509-E, dated 8 December
+1960.
+
+FOR THE COMMANDER:
+
+fj
+j
+
+/
+F
+WALLACE W, DAWSON 1 Atch
+Major, USAF a/s
+
+Wing Inspector

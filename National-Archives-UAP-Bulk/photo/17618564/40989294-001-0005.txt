@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T01:50:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 625006, "source_ctime_ns": 1793355958963093161, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0005.jpg", "source_mtime_ns": 1785564569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0005.jpg", "source_sha256": "a56f91a54a4bbff75748007893b626d0b0387f7be1432d71dd926722079ce451"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 636, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ILLUSTRATIONS
+
+Sonic Wind Number Two/Megaboom After 6 August
+1958 Windblast Experiment
+
+Preparing Anthropomorphic Dummy for 29 October
+1958 Experiment
+
+Dr. Harald von Beckh in Final Prerun Inspection
+Before Rat Experiment of 26 February 1959
+
+Lockheed Sled, Showing Special Mount For Discoverer
+Life-Support Capsule (Snowball II)
+
+Lt. Albert V. Zaborowski. Examining Skin-Diving
+Equipment of an Anthropomorphic Dummy That Is
+To Take a Ride in the Fluid Capsule Mounted on
+the Sled Sonic Wind Number One
+
+Project Mercury Chimpanzee, Mounted in "Flight
+Couch" on Lockheed Sled, at Conclusion of 6
+August 1960 Run
+
+28
+
+28
+
+33
+
+39
+
+45
+
+50

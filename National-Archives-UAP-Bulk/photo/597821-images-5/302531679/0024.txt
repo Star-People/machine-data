@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T01:55:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1020500, "source_ctime_ns": 1793388740208705541, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531679/0024.jp2", "source_mtime_ns": 1785808574000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531679/0024.jp2", "source_sha256": "e8fab8cc82ab42de077621386782540d06e83427ef2d36bc931218cfb7ad3c6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 340, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR 4 CE
+SIAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN: 36196 (27 Feb 64) ge il
+
+PAGE 4 RUWHKP 21 UNCLAS
+
+I, N/A
+
+J. NA
+
+K. ARTHUR F SHIFLETT, MAJ, USAF, STAFF INTELLIGENCE
+OFFICER: THIS REPORT OCCURRED WITHIN TEN (10) MINUTES
+OF SIX (6) SIMILAR SIGHTINGS, REPORTED TO THIS
+HEADQUARTERS. GRADING C-1.
+
+BT hi

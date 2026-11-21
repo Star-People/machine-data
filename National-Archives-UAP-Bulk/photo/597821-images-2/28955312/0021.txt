@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T01:36:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3747223, "source_ctime_ns": 1793375249570067947, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955312/0021.jpg", "source_mtime_ns": 1785696682000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955312/0021.jpg", "source_sha256": "a024723aae6f5add0c5a1a8de297f4b5baeafa5de9d1da94fed0c5ab0f3b30c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 553, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. DATE - Te GrouP
+3 Jul 53 03/1045z,
+
+2. LOCATION
+
+Reno, Nevada ~~’ ch
+
+3. SOURCE
+civilian
+
+4. NUMBER OF OBJECTS
+
+one
+
+10. CONCLUSION ASTRONOMICAL: Venus
+
+Obj observed was without a doubt the planet Vend s.
+
+5. LENGTH OF OBSERVATION
+2 hours
+
+6. TYPE OF OBSERVATION
+
+ground visual
+
+7. COURSE
+
+west
+
+8. PHOTOS
+
+O Yes
+1 No
+
+9. PHYSICAL EVIDENCE
+
+QO Ves
+O Ne
+
+V1. BRIEF SUMMARY AND ANALYSIS
+
+A white pinpoint of light was observed for two hours.
+
+Obj
+moved very slowly to the West.
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used,

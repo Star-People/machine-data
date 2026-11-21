@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T02:11:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4615631, "source_ctime_ns": 1793372860998969918, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28944529/1144.jpg", "source_mtime_ns": 1785688851000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28944529/1144.jpg", "source_sha256": "b5dd753af10c16dc8762aa55618b8d93da2b0ba57498dc67a010157bc9d6f801"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 483, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eee eee
+
+Cec F : ’ “j / ——
+i' oa Stl See ae sth Pes:
+
+cLASSIFIEY LY,
+ MULISI2 = ALICE Nor 5 - by
+
+ec, Falocs
+
+ry J
+
+C-2 PRIORITY (SSRRTCTEDS
+Fy SANANTONIO AWA KELLY A?
+TO CO ATIC WPAFB OHIO
+
+CITE SA-397.
+
+NR 1124
+TEX 21173 22
+
+}
+REF YOUR WIRE 1213422. PROJECT BLUE BOOK. DETAILS AS TO TYPE
+ALRCRAFTS SPEED, ETC NO LONGER AVAL AT THIS HQ AS DATA FOR
+REPT WAS OBTAINED FROM CAPT CHARLES E BEARD JR, IGLASA,
+A TRANSIENT OFF. OFF IS ASGD TO 2912 AB GP, OLMSTED AFB, PA
+22/94992Z JULY |
