@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:15:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8275382, "source_ctime_ns": 1793376784061512735, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961967/0206.jpg", "source_mtime_ns": 1785696410000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961967/0206.jpg", "source_sha256": "c13a7a8c5f7a0e5acb8d1d1bbe0333065bceac6f2e3b8e41e78fa4d19fc9803a"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 993, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eden ”
+
+WPF123 YDAQ29 TYEQ35 TMBQ34 Std eh Alaa a
+
+ie
+PP JEDEN JEDWP JEPNB JEPSN Yai dd 1 | “ue
+DE JEPDH 4F . .
+: : ae : Ae OC a
+P 1615947 | a a
+a ae
+FM COMDR 765TH ACWRON CHARLESTON AF STA ME AC C144
+fang ge Rg pe ve
+TO JEDEN/COMDR AIR DEF COMD ENT AFB COLO a a
+
+INFO JEDWP/COMDR AIR TECH INTEL CEN WRIGHT PATTERSON AFB OHI0~/,
+JEPNB/COMDR EADF STEWART AFB NY
+JEPNB/COMDR 4692ND ALR INTEL DET STEWART AFB NY
+JEPSN/COMDR 32ND AIR DIV SYRACUSE AFB NY
+ZEN/COMDR 47114TH DEF WG PRESQUE ISLE AFB ME
+‘i ce
+/UNCLASSIFIED/ACT INT 9849 PD UFOB THE FOLG RPT IS SUBMITTED IN
+_ ACCORDANCE WITH AFR 299-2 PAR 7D DTD 12 AUG 54 PD
+1. A. A FLASH OF FIRE WITH A VAPOR TRAIL
+B, NO SIZE
+C, RED
+D. ONE
+E. N/A
+F. A LONG FLASH OF FIRE WITH SMOKE
+G. SMOKE REMAINING FOR APPROXIMATELY 15 TO 29 MINUTES
+H. NO SOUND
+
+PAGE TWO JEPDH 4F
+I, NONE
+2e Ae GLENDON RAE WAS WALKING TOWARDS HIS OBSERVATION POST
+B. VERY HIGH
+C. A FLASH OF FIRE WITH SMOKE
+D. NO FLIGHT PLAN
+
+E. EXPLOSION
+F, 15 OR 29 MINUTES
+3. A. GROUND VISUAL

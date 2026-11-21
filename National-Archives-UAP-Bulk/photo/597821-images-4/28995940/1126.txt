@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:01:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4059808, "source_ctime_ns": 1793386392839150629, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995940/1126.jpg", "source_mtime_ns": 1785748060000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995940/1126.jpg", "source_sha256": "0b716a7da69a6eda969e71c2fc0b99022ffba81b2b92a496b5c314addbe3640e"}
+
+===== PAGE 1 =====
+{"alpha_words": 188, "chars": 1668, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: 1 = 31 JANUARY 1962 SIG ss
+DATE LOCATION OBSERVER EVALUATICN
+a ~ Jan-Feb Morgantown, West Virginia Pall Astro (ETEOR)
+q * Jan Santurce, Puerto Rico _— ls : BALLOON
++ me West Germany Military. INSUFFICIENT DATA
+= 3 Ohio - Indiana Area # Multiple. tro (ETEOR)
+a ~h Xenia, Onio a —— Astro (METsCR)
+- ~5 47.30N I72.30W (Pacific) ‘Military SATELLITE
+7 ~5 3321N 171642 (Pacific) Military SATELLITE
+6 Adak, Alaska Military SATELLITE
+é Stas Kansas Astro (KETEOR)
+8 . 33.35N 176.40W (Pacific) Military SATELLITE !
+“9 4S &5w (ESE Pacific) Military Astro METEOR) ae aah
+~1h 31.j1N 171.52E (Pacific) >. Military SATELLITE
+<15 Monroe, Louisiana Astro (STARS)
+“15 38.30N 74.20% (Atlantic) Militar AIRCRAFT
+“15 Las Cruces, New Mexico a Astro (METEOR)
+16 Vandalia, Ohio ATRCRAPT
+“17 Lynn, Wassachu setts Other (UNRELIABLE REPORT}
+22 Kirksville, Missouri Multiple (RADAR) BALLCCN
+> 26 Miami, Florida Multiple (PHOTO) AIRCRATT
+8 13.42% 144.2CE (Pacific) Military Astre (METEOR)
+4 “28 Bethel, alaska 4 AIPCRATT
+7 28 weenie Kentucky ed Cther (BIRDS)
+3 -29 South Carclina - Puerto Rico — Multiple Other (iISSILE}
+a 29 Jan- 1 Mar Ganadc, Arizona =. Multiple Other (MIRAGE)
+30 St. Paul, Minnesota eee Astro (..ETEOR)
+31 34; 176. (Pacific) Military SATELLITE
+ADDITICNAL REFCRTED SIGHTINGS (NOT CASES )
+DATE LOCATIC SCURCE EVALUATICN
+4 Jan Universe Science News Ltr as
+4 1962 Presque Isle, wisconsin We (ltr)
+4 53 Jan Columbus, Ohio News Clipping
+4 3 Jan ‘Weonsocket, FR. I. . News Clippings
+“ “*  % Jan auburn, California News Clipping
+a 9 Jan Buenos Aires News Clipring
+4 15 Jan Jamaica ~. News Clipping
+4 15 Jan. Beverly, Vassachusetts > News Clipping pop es ae
+i oh 5 Ok as / ee
+3 W as

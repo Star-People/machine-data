@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:13:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7395875, "source_ctime_ns": 1793364557343269841, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0024.jpg", "source_mtime_ns": 1785685192000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0024.jpg", "source_sha256": "ccf8c0fcc3a26dd030f6f15e39581b356db5620e80cd7f991c3e42bec3070838"}
+
+===== PAGE 1 =====
+{"alpha_words": 247, "chars": 1846, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+C
+
+January the average deflection for each lunar hour was noted; e.g. at lunar
+hour angle 130C, when the moon was one hour past the meridian, the readings
+for January averaged 26.74. At the same lunar angle in the succeeding calen~
+dar months the average readings were 28.60, 30.18, 29.50, 28.02 and 26.52.
+The average of those six averages gives 28.59 as the mean of all observations
+taken at lunar hour anvle 1300 Quring the first half of 1937. This process
+was repeated for each of the twenty-four hours. The means are listed in
+
+Table 4. Their constance is most striking; they show no devendence upon
+lunar hour,
+
+Lanar Hour Mean Defl,. lanar Hour Mean Defl.
+
+0100 28.6% a 28.59
+0200 | 28.64 1 28.62
+0300 28.67 1 28.65
+0400 28.61 1600 28.62
+0500 28.62 1700 28.62
+0600 28.6% 1800 28.62
+0700 28.60 1900 28.62
+0g00 28. 2000 28.62
+0900 28.62 2100 28.66
+1000 28.60 2200 28.64
+
+1100 28.60 a 28.60
+1200 28.62 2 28.63
+
+Table 4. The deflections of the instrument as averaged over
+the first half of 1937 for each lunar hour angle
+
+5.3. By the foregoing sketchy analysis of the data fron the Brown Electrometer
+the following conclusions are implied:
+
+(a) through the weeks and months the data drift significantly;
+
+(b) there is no evidence of a solar diurnal period synchronising
+with the sun, as claimed by Mr. Brown;
+
+(c) there is no evidence of a lunar diurnal period synchronising
+with the moon, as claimed by Mr. Brown; on the contrary. The
+data apoear most emphatically to deny such a veriod
+
+5.4. Two related experiments have been described by Mr. Brown, which throw
+
+light on the reason for the deflections if not on the Feason for their fluctu-
+ations.
+
+5.4.2. In one, the sector disc was held stationary while a grounded setal
+disc was suspended orizontally over it in the oil, by a torsion fibre. When
+
+Declassification Authority: NND 923007

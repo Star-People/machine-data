@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T14:53:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1706400, "source_ctime_ns": 1793389850186463048, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544430/0203.jp2", "source_mtime_ns": 1785808381000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544430/0203.jp2", "source_sha256": "dba2f7fb21dde1d10dfb2059c0c8496784dffeeee55c4e629454800e5205f248"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 84, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+' FOREIGN TECHNOLOGY DIVISION, AFSC
+
+At Hee af,
+ah;
+
+eae
+* we
+
+ae aa
+
+UNCLASSIFIED

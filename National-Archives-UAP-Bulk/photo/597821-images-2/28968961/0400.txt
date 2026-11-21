@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:09:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5702416, "source_ctime_ns": 1793378711286507356, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968961/0400.jpg", "source_mtime_ns": 1785696821000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968961/0400.jpg", "source_sha256": "bf8726695a7710a6a9d7acbb36829a615e0512edb10efb89ad111a0f130ab16d"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 997, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. OATE 2. LOCATION
+
+\
+13 February 1957 Tierra Amarilla AFS, N.Mex.
+3. DATE-TIME GROUP 4 TYPE OF OBSERVATION
+Local WAGround- Vi sual xix Ground-Radar
+GMT 13/11402 D Air Vi sual D Air-Intercept Rodar
+|S. PHOTOS 3. SOURCE
+GC Yes
+Ne A/C Controller
+7. LENGTH OF.OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE
+2 hours two not given
+
+12, CONCLUSIONS
+
+O Was Balloon
+0D Probably Balloon
+O Possibly Balloon
+
+WX Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Qa
+
+D
+
+O Was Astronomical
+
+0 Probably Astranomical
+DO Possibly Astronomical
+Oo
+ZB
+
+Other
+x Insufficient Date for Evaluotion
+G Unknown
+
+19. BRIEF SUMMARY OF SIGHTING
+
+Two objects size of pea, color red,
+yellow and green blinking lights. One
+objeet anchored and one object orbit-
+ing. One object escorted intercept
+plane for 25 NM prior to breaking off.
+Jo visual air contact in intercept. No
+air radar contact.
+
+11. COMMENTS
+
+Final report not forwarded, Case
+carried as insufficient data.
+
+ATIC PORM 329 (REV 26 SEP 52)

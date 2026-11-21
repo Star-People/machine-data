@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:00:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4022199, "source_ctime_ns": 1793386758466055080, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997276/0876.jpg", "source_mtime_ns": 1785748329000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997276/0876.jpg", "source_sha256": "a705f94c03295361c69856b3c5cee714d0877b9e4c0f4f1239fb1ce4b4cc6214"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 491, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSHIED MESSAGE
+
+IN GOWN G
+31073 (16 May 62) H/au Pe 1 of 3
+IN-14, OOP-2, OOP-CP-1, SAFS-3, DIA-7 (28)
+
+C
+a
+
+a
+
+OO RUHPQ RUHLKH RUHPB RJWFALB RJEZHQ RBEPW RUHAFS RUHPA RUHLKM
+
+UHL
+DE RUHPHC 342
+ZNR
+OF EALT IOC
+Fld COMHAWSEAF RON
+TO RUHLKH/COMD HAWAIR DEF DIV
+INFO RUHPB/CINCPACFLT
+RJWFALB/CINCNORAD ENT AK3B COLO
+RJEZHQ/CCK USAF WASH DC
+RBEPW/CNO
+RBEPW/SECNAV
+RUHAFS/CINCUSAR PAC
+RUHPA/CINCPAC
+RUHLKM/PACAF
+
+RUHLKM/PACAF BASE COM HICKAM

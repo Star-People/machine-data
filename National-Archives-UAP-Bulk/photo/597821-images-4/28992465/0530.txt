@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:00:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3981763, "source_ctime_ns": 1793385253506702745, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992465/0530.jpg", "source_mtime_ns": 1785748403000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992465/0530.jpg", "source_sha256": "6a904a4d5b08c0738d9110c45114cff09fd682230c4c9a4484287cd738d8a668"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 555, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Memo, AFCIN-4E, 23 May 61, Radar Analysis
+
+lst Ind (AFCIN-4Ela) 6 Jun 61
+
+TO: AFCIN-4E (Major Friend)
+
+1. Subject report does not contain enough radar data for an analyses
+to be made,
+
+2. The only reference to radar is in Item (B)(1) wherein it is reported
+that a total of 57 separate targets had been picked up on the radar scopes.
+Assuming that they are based on authoratative knowledge of the existence
+
+of such balloon devices, Maj. Busalachi's comments in Item (K) are concurred
+
+with.
+ee .
+4 ROY L. JAMES 1 Atch
+Acting Chief n/c
+AFCIN-4E1
+
+H
+:
+&
+a

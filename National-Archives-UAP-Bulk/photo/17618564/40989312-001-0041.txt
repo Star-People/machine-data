@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T14:51:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1474401, "source_ctime_ns": 1793356278724347031, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0041.jpg", "source_mtime_ns": 1785564658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0041.jpg", "source_sha256": "b19e8db6fb727e6ba07a03d64b5bfacfcbd62eeef28044feeaf8a2f929d5289e"}
+
+===== PAGE 1 =====
+{"alpha_words": 460, "chars": 2773, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+would attack.
+
+“Morning brought the new nose wheel and we took off with a bent propeller with some
+more downed pilots; one had been in North China, making his way to safety, for 98 days!
+Mao’s cooperation saved many American lives.
+
+“If I have painted a sympathetic picture of Mao, it was not merely because I was depen-
+dent upon him; but, because I felt that Mao was truly a great world leader. I really
+believe that.”
+
+“Early on, I saw what happened if one did not do this. We had a senior officer acting
+briefly as liaison between the fine colonels who led the group. This man's idealistic
+prejudice against the North Chinese were so strong they became evident to everyone.
+Cooperation deteriorated and made all of our work more difficult.
+
+“For instance, Lao Keh, an irascible old Chinese interpreter, often came to our American
+mess in Yenan. On one occasion, he was wearing a hat as he entered the mess and this
+senior officer quickly asked him to remove it “as was the American custom.” Lao Keh
+politely removed his hat, but after the senior officer had left the mess, he stated that it
+was we who were the guests there and wearing a hat to meals was the Chinese custom.
+
+“We obeyed the restrictions about not supplying material aid, but I bent the rules a bit
+and was instrumental in getting some penicillin cultures, a great deal of atabrine, books
+on thermodynamics and things like that. Small as they were, these indications of good
+will helped us work together with the North Chinese.
+
+“If one could describe Mao’s success in one word, it would be “discipline.” I expect
+there were severe punishments for infractions, but it seemed that Mao’s rules were
+generally accepted wholeheartedly. For example on no occasion when we visited Mao’s
+headquarters did we ever see any guards or policemen. What other ruler in the world
+
+would go unguarded?
+
+“In July 1945, I had made contact with Wa Tin of the Korean Independence Movement
+and we had discussed putting weather stations in Southern Korea. This would have been
+still closer to the Japanese Islands and would have been extremely useful, but a few
+weeks later, the war ended. The party on August 15, 1945, celebrating the end of the
+Japanese War was very polite, subdued and formal.”
+
+“Mao and his generals were clearly thinking, “Now comes the next step of our inter-
+rupted long march.” The lessons I learned from this period were that sanctions on nations
+often strengthen them. That we need our greatest ambassadors with the most influence
+on our policy makers where we are not with friends. We need to use our ambassadors not
+only as “Good Housekeeping Seals of Approval” in the capitals of friendly nations, but
+we need them most where bonds must be made from tiny little beginnings, then strength-
+ened.

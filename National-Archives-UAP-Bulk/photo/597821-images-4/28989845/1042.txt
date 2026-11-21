@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T14:57:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3182250, "source_ctime_ns": 1793384293128126201, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989845/1042.jpg", "source_mtime_ns": 1785748403000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989845/1042.jpg", "source_sha256": "d36510188041e9cfb6c8e4ea00d30cf232c8b98ce99bb4c36618bd9933c6bae3"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 544, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+D' “ARTHENT OF THE AIR FORCE
+{ _ STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+
+aor © S554 (a5 Gee G0) x ,
+oe les © oes eae
+
+ACTION: CIN~14
+
+INFO. OP-3, /SAFS.3 {0 A vk aap
+SMD B a$fF ey Fe 3A 1) f\ Un 7
+
+{CHOC 4 94ZCBUAg6] VAN ’
+
+00 RJEZHe J\ .
+
+DE RBEGUH 9:4 ‘
+
+ZNR
+
+O 259153Z
+
+FM ADMINO C OMEASTSEAF ROM
+
+TO CINCLANTFLT
+
+INFO RJEZSN/COMDR 26TH NORAD
+RJWF ALB/CINCNORAD
+RJEZHQ/COFS USAF
+RFEMVB/CANAIRDEF
+RCEHC/CANFLAGLANT
+
+RBEPW/CNO
+
+rO YdKF
+BT
+
+UNCLAS X @BM ss INVERFIELD x
+
+Fe INVERFIELD/MXLT CHATHAMRADIO via RCA 61/59(CNT PCTN) 25 BBi5GMTs

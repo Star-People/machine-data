@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:24:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20604844, "source_ctime_ns": 1793355698393148749, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0135.jpg", "source_mtime_ns": 1785564505000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0135.jpg", "source_sha256": "3ab739ce88e8f34b5742f05204eba774956821cf6303bed12ecbd79919d40a60"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1194, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+QV3H Y3LSWONDAH
+
+~ Y3NIVLNOD 31I1032 209
+
+&
+
+_ YVM30 8 XNIS LY3H
+
+(QNNONV AW,1) |,
+ NOLLWINSNI 4
+
+Figure 16. Vertical Flight Package
+
+In summary, the instrument requirements which must be met to assure the
+validity of stratospheric frost-point data include:
+
+The sensitivity and associated response time of the frost-thickness (or
+
+area) Sensor must be optimized and compatible with the rate of sampling.
+
+The hygrometer circuit drift must be virtually eliminated.
+The heat-sink temperature should be held constant.
+
+The flow-channel geometry of the sensor must be optimized.
+
+OUTER CONTAINER |
+
+INSULATION
+(1" ALL AROUND)
+
+HYGROMETER
+ELECTRONICS
+
+ZEOLITE TRAP
+BATTERIES
+EXHAUST
+
+Figure 17. Horizontal Flight Package
+
+: ; “i f
+High-velocity forced ventilation is desirable both to improve mass-transier
+
+rates and to reduce sample contamination from the sample-inlet system.
+
+The packages must be sealed to keep contamination away from the sample
+inlet area.
+
+The sensor should be located far from the flight train.
+
+imize the
+In addition to these requirements, serious effort must be made to optim1z
+
+big ive in the
+performance of the servo-control system as a whole if it is to be effective

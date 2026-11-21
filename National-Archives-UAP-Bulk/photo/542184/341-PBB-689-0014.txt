@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T14:34:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12165443, "source_ctime_ns": 1793366635490584957, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0014.jpg", "source_mtime_ns": 1785565567000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0014.jpg", "source_sha256": "a7a62f6038a3a7c564823eaed097100510de111c1f0e29c0dd447ad3a3b24068"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 55, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Se tS
+
+hui
+
+’
+
+: 2 od : hance aN Rais a nag te
+
+ra
+
+wa

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:27:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 87540776, "source_ctime_ns": 1793368147316291124, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179300USAF_002.TIF", "source_mtime_ns": 1785565923000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179300USAF_002.TIF", "source_sha256": "d1f83a29e3f8ea85eb4e538e6413626b83b16e3d4b8aba70b788dbabd14437d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 164, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+L79300 USAF e SCIENTIFIC STUDY OF UROs ~ F¢
+Belvoir photo 6. (Plate #37)
+
+%
+
+Copied from Sx20 print rec'd 1/13/69
+from S/FOI,
+
+Filed ~ UNIDENTIFIED FLYING OBJECTS

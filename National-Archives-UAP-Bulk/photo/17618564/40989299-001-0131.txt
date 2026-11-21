@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T14:51:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1516134, "source_ctime_ns": 1793356034257766193, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0131.jpg", "source_mtime_ns": 1785564588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0131.jpg", "source_sha256": "db3659f3df7f74715d6d7dcc09cfe51adfbca49beb1f32da57d5ea7b427e261d"}
+
+===== PAGE 1 =====
+{"alpha_words": 377, "chars": 2354, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(1) Mv = Balloon Volume x Gas Lift
+Gross Load
+
+[It may be noted from this equation that a balloon can float at
+molar volumes less than that computed for maximum balloon volume
+(i.se., when it is not full). However, under these conditions the
+balloon would be in neutral equilibrium, since any vertical force
+would cause it to rise or fall until a force in the opposite direc-
+tion stopped it. This is also the case with floating extensible
+balloons.J
+
+To convert from molar volume to equivalent altitude we must iknow
+the pressure-temperature distribution of the atmosphere in which
+the balloon will float. Since it is difficult to obtain an
+accurate distribution for each flight, the atmospheric model as
+drawn up by NACA standards has been used. In general the error
+obtained in using the NACA standard is not great, but if greater
+refinement is desired, data obtained from averaged radiosonde ob-
+servations over a given launching site can be used.
+
+From such knowledge of the distribution of pressure and temperature,
+we may plot a curve of molar volume vs. eltitude by use of the
+following equation:
+
+; ft} » Te , 1013.3mb ft®
+(2) MMg = 359 *a73°% * pa Ibmol
+
+By use of such @ plot we easily find the floeting altitude of a
+full non-extensible balloon by use of equation (1) to find molar
+volume, and then of the plot of equation (2) to find altitude.
+
+The two equations have been combined and graphed in the form of
+an altitude vs. gross load chart with heiium ss the lifting gas
+for various balloon sizes and verious release sites in the
+"Operations" section of this technical report (Part II, page 108).
+
+For the NACA standard atmosphere we may derive an equation for alti-
+tude sensitivity by use of the molar volume-altitude relationship.
+This is most easily done by plotting molar volume vs. eltitude on
+semi-logarithmic paper, since the curve of molar volume vs. altitude
+from 40,000 to 105,000 feet (where a constant lapse rate of zero
+
+is assumed) is approximately a straight line on semi-log paper.
+
+The general form of the equation for this portion of the atmosphere
+is y = aebZ where y is the molar volume and zg the altitude.
+
+It is possible to determine empirically the constants a and b.
+
+For example, using the molar volume at 50,000 feet, we find from
+
+#359 ft° = Molar volume of air at standard conditions (273°K, 1 atm. pressure)
