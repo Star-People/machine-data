@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T07:47:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3420207, "source_ctime_ns": 1793376251664315921, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959910/01332.jpg", "source_mtime_ns": 1785696550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959910/01332.jpg", "source_sha256": "68efac95449e629d1ca7ca525d71cd8e06c27176f3e0201c9ca4ddba9dcb794a"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 755, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10973 RECORD
+
+Lo OCT 5
+18/21002,
+
+1. DATE - TIME GROUP
+4
+
+2. LOCATION
+
+OFF OF OKINAWA
+
+3. SOURCE
+
+MIL & CIV
+
+4. NUMBER OF OBJECTS
+
+| ONE
+
+10. CONCLUSION
+
+POSSIBLY ASTRONOMICAL: METEOR
+
+5. LENGTH OF OBSERVATION
+TEN SECONDS
+
+6 TY OF OBSERVATION
+GROUND VISUAL
+
+7. COURSE
+SE TO NW
+
+8. PHOTOS
+
+O Yes
+{X No
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+O No
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Blue-white. Disc shaped. Tremendous rate of speed. Seem to
+waver up and down during flt, no sound or trail, sun was
+rising at time-obj was obsd. No a/c or ball in vicinity
+at time of sighting.
+
+COMMENTS :
+Possible meteor. Ext from ATIC 207360 IR-7-54, data
+$ 25 Oct 54, on file in ATIC repository (uncl)
+
+FORM
+FTD sep 63 0-329 (TD E) Previous editions of this form may be used,

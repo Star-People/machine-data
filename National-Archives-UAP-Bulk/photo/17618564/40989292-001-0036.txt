@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T07:41:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1231419, "source_ctime_ns": 1793355932950501718, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0036.jpg", "source_mtime_ns": 1785564562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0036.jpg", "source_sha256": "6569c813769aa4403040a46a4c0227e962c7f783980c94540dc432c8a14e4591"}
+
+===== PAGE 1 =====
+{"alpha_words": 237, "chars": 1470, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+25
+
+as a result of the heavy loads it had sustained. The sled was
+taken out of commission for about a month while undergoing x-ray
+studies, and when these revealed no sign of cracks or metal
+fatigue the facility went back in operation. In September of
+the same year the number of Daisy runs accomplished passed the
+two hundred mark, and by mid-October 1958 it stood at 390--as
+compared with less than a hundred aeromedical experiments on the
+long track from November 1953 to the presente
+
+Animal experiments have figured less prominently in Daisy
+tests than on the long track. Most test configurations to date
+have not been of an order to cause serious injury, and therefore
+it has normally been possible to use human subjects. Nevertheless,
+chimpanzees did take part in some of the early tests and helped
+check out the facility for human use. On two later occasions
+hogs, which have never been privileged to ride the long track,
+took part in preliminary experiments with a new test configuration
+and received spinal fractures from an impact force measured at
+less than thirty g's. This unfortunate result was due to the
+particular combination selected of g-forces and body orientation
+(forces parallel to spine),and to the nature of the hogs themselves,
+including the "virtual impossibility of properly restraining
+these animals" on the slede
+
+Bears, which joined the Aeromedical Field Laboratory staff
+
+only in the fall of 1957, have also ridden the Daisy Track. The

@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T07:43:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1434060, "source_ctime_ns": 1793390385826594172, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549495/0634.jp2", "source_mtime_ns": 1785808481000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549495/0634.jp2", "source_sha256": "f1a231144cfc2b26e77054ff0764c831a2d129e85463e23a504ca94982240b83"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 511, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED )
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN : 42087 (11 Apr 66) : Pe Gof 4
+
+S-FORMATION-IN A CLUSTER
+6-NONE
+
+PAGE 2 RUCDBW 3 UNCLAS
+7-NONE
+
+8=NONE
+-9-NONE
+
+B-DESCRIPTION OF COURSE OF OBJECTS
+1-NOT REPORTED
+2-NOT REPORTED
+3-NOT REPORTED |
+A-TRAVELING RAPIDLY NORTH WEST
+OVER BATTLE CREEK, MICH.
+5-FADED IN DISTANCE
+6-3 MINUTES
+C-MANNER OF OBSERVATION
+
+1-GROUND VISUAL
+2-NONE
+3-N/A |
+D-DATE AND TIME OF SIGHTINGS |
+| M1 1/@520Z APR 66
+
+AFHQ wes 0-309C UNCLASSIFIED |

@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T07:39:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 896974, "source_ctime_ns": 1793356248013985993, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989310-001-0179.jpg", "source_mtime_ns": 1785564649000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989310-001-0179.jpg", "source_sha256": "75c55242e6ef1b006ef3b40111b00ef4cfbd872c1539ee96501772d5674802b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 899, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Appendix C
+FBI Teletype Message of July &, 1947,
+Concerning the Roswell “Disc™
+
+At 6:17 p.m. on the evening of July 8, 1947, the Dallas office of the Federal
+Bureau of Investigation sent a Teletype message to the the Bureau's
+headquarters and its Cincinnati office concerning the "flying disc” found near
+Roswell. This message transmits the Army Air Force description of what was
+found and states the material is "being transported to Wright Field by special
+plane for examination." The message provides convincing evidence that at
+least some of the Roswell debris was sent to Wright Field despite official
+denials. It also makes clear the debris was not from a weather balloon. Some
+have interpreted it as also proving the Roswell object was a flying saucer.
+However, considered in context, the message's rather sketchy description is
+more suggestive of materials from a Project Mogul flight
+
+133

@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T08:01:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6356971, "source_ctime_ns": 1793378570716244458, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968430/1357.jpg", "source_mtime_ns": 1785696814000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968430/1357.jpg", "source_sha256": "33ac7e56ec5e257b4869a6159e9f9299139efc8d97cf6377a91bbb81c7fff86a"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 369, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+wesw vw oe “ti wes:
+
+(6)
+(2 guy, SEAN AL AGNES. COAST GUARD, CAPE MAY Nede
+
+ egLIABLE MAS ACCORDING TO OFFICER OF DAY
+
+(7)
+* en) CLEAR 15 MILES THM DEWPOINT ve 39
+%3) SURFACE ENE DEG 6 KT
+
+G00" 340 DEG 35 KT
+
+t5)g00" 34 DEG 3G KT
+
+$6,555" 27% DEG Se KT
+
+26,600" 278 DEG 45 <7
+
+35,920" 295 DEG 65 KT
+
+Sg,000' 320 DEG AS Ki
+
+(C) CLEAR
+
+(>) EXCRLLENT
+
+CE) NONE
+
+CF) NONE

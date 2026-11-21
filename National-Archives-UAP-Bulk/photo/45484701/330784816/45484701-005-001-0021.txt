@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T08:02:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6575122, "source_ctime_ns": 1793363203894225500, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0021.jpg", "source_mtime_ns": 1785684636000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0021.jpg", "source_sha256": "83aeece9623c414952675b76c77f29499f4542ebd44ec991234bc4c3224debd4"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 616, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TWX from DO #10
+
+DO 10 received information from Houston Division, FBI, that three or four
+weeks ago, while ship SST KEY TRADER was at sea, the first mate and an
+able-bodied seaman, not further identified, observed a rocket land in the
+water next to the ship. The incident and its location are recorded in the
+ship's log. Incident reportedly occurred same evening that a rocket
+supposedly carrying a mouse was fired from Cape Canaveral. This ship
+departed Houston, 21 May 1958. It is scheduled to arrive Seawaren, New
+Jersey in 5 days (which would be 26 May 1958).
+
+Col Moore
+
+Declassification Authority: NND 923007
