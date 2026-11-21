@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T04:22:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8086189, "source_ctime_ns": 1793363431102340521, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0041.jpg", "source_mtime_ns": 1785684652000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0041.jpg", "source_sha256": "1c5e122b5f09f7950b0c1710392449f3dcc042b3dd713e7539846b8d7f397ed8"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 395, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+:
+kK
+
+9th Dist OsI (1G){ZI), Barksdale AFB, La.; File 24-0; SUBJ: Unidentified
+Flying Object.
+
+3. No further OSI action in this matter was requested by Colonel
+SHUCK.
+
+4, This letter is classified CONFIDENTIAL pursuant to the authority
+contained in paragraph 30¢c(2)(a), AFR 205-1.
+
+DWIGHT J. SCOVEL
+Lt. Colonel, USAF
+fee: Dir OSI (ZI) District Commander
+
+Declassification Authority: NND 923007

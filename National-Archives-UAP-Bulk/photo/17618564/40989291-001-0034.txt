@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:54:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1337369, "source_ctime_ns": 1793355927893591100, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0034.jpg", "source_mtime_ns": 1785564561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0034.jpg", "source_sha256": "5b27b8fd0063a0d2bdb73db125d6746c8a1925ba11f99c92674b7cde113b7e40"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1285, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NOTES
+
+CHAPTER I — ORIGINS OF AEROMEDICAL RESEARCH
+
+AT HOLLOMAN:
+
+194641952
+
+Homer E, Newell, Jr., High Altitude: Rocket Research
+(New York, 1953), pp. 30-33, offers a table of V-2 fir-
+ings with a brief notation of the experiments carried in
+each case. To be sure, this table must not be taken
+literally when it attributes particular tests to Air Re-
+search and Development Command long before the com-
+mand was created. . |
+
+Concrete examples of Holloman-WhiteSands cooperation
+in general support and administrative functions are dis-
+cussed in other publications of the Air Force Missile
+Development Center's Historical Branch. See especially
+Integration of the Holloman- White Sands Ranges, 1947-
+1952 (2nd edition, 1957), and History of Flight Support,
+Holloman Air Development Center, 1946-1957 (July 1957).
+
+L. W. Fraser and E. H. Siegler, High Altitude Research
+Using the V-2 Rocket, March 1946 -~April 1947 (Johns
+Hopkins University, Bumblebee Series Report No. 8, July
+1948), p. 90.
+
+Kenneth W.. Gatland, Development of the Guided Missile
+(London and New York, 1952), p. 188.
+
+Capt. David G. Simons, Use of V-2 Rocket to: Conve
+
+Primate to Upper Atmosphere (Wright-Patterson Air
+Force Base, AF Technical Report 5821, May 1949), p. 1
+
+Cf. Scope Weekly, 3 October 1956, p..7.

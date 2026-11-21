@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T04:18:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6439565, "source_ctime_ns": 1793362968499231455, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0214.jpg", "source_mtime_ns": 1785685052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0214.jpg", "source_sha256": "a2ba6ebb2b1a8867283178eb1f6b0dd61ddd8387caca2ba3abd3f063d155a12f"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1658, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+
+THE INSPECTOR GENERAL USAF
+2D DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+67 BROAD STREET
+
+NEW YORK 4, NEW YORK
+DNs RRL.
+
+REFER TO: 2h=273 5 October 1951
+
+SUBJECT: Newspaper Release Concerning Unconventional Flying
+Object - 11 September 1951
+
+Director of Special Investigations
+Headquarters, USAF
+Washington 25, De C.
+
+le Inclosed, in duplicate, is report of investigation made by
+Special Agent PAUL L. MC COY, this district, dated 3 October 1951,
+subject and file as above.
+
+2e Investigation was initiated by this district in compliance
+with request from Lt Colonel NATHAN ROBERT ROSENGARTEN, AO-38687),,
+AFOIN-ATIAA-2, Wright-Patterson Air Force Base, Ohio, contained in
+TWX, dated 1 October 1951, a copy attached hereto as inclosure number
+
+nh
+Ce
+
+3e In compliance with request of Lt.Colonel ROSENGARTEN con-
+tained in last sentence of TWX, summary of information developed
+during course of investigation was telephonically reported to the
+Counter Intelligence Division of your Headquarters at 11,05 hours,
+1 October 1951.
+
+4e A review of the file indicates that this matter might more
+properly be classified as a Special Inquiry rather than a Violation of
+AFR 205-1. Accordingly, the DO#2 file reference in this case has been
+changed from 3li-106 to 2-273.
+
+5e This investigation comes within the purview of paragraph lc,
+AFR 205-8, 20 Jamary 1950.
+
+FRANK P. DUNNINGTON
+2 Incls: Colonel, USAF
+lRpt of S/A McCoy, pistrict Commander
+DO#2, file 2-273 (in dup)
+2.Cy of TWX dtd 1 Oct 51
+
+KURT K. KUNZE, Capt, USAF
+Niet
+UNCLASSIFIED | _SPYPT...
+
+Declassification Authority: NND 923007

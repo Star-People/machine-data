@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:48:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 777135, "source_ctime_ns": 1793392164669250124, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565002/1058.jp2", "source_mtime_ns": 1785808358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565002/1058.jp2", "source_sha256": "096a3bfff69cecd2592fdc00ac814c7ac713576b51143a502a8c2de6585db20a"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 970, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NORTHWESTERN UNIVERSITY
+EVANSTON, ILLINOIS 60201
+
+DEPARTMENT OF ASTRONOMY LINDHEIMER ASTRONOMICAL RESEARCH CENTER
+
+20 November 1967
+
+FID (TDETR)
+Ressarch and Aerial Phenomenon Division
+iright-Patterson Air Force Base
+
+451133
+
+Attn: Major H. Quintanilla, Jr. Re: Report on UFO sighting of
+19 April 1967, Burney, Cali?.
+
+Dear Major Quintanilla:
+
+I recommend that The evaluation be changed from ionized plasma to
+unidentified since there is nothing in the data to support "a charged
+"
+
+ice particle plasma". In the first place, the term "ice particle plasma
+is meaningless to @ physicist. I, at least, do not know of any ice
+particle plasma that is glowing white, travels slowly and is visible
+
+for approximately 10 minutes. This apyesrs to be a purely ad hoc
+evaluation and is open to the severest criticsm.
+
+Since this case has e@lso been submitted to the University of Colorado,
+
+I suggest that we request an evaluation from then.
+
+Sincerely yours,
+Abn
+
+J. Allen Hynek

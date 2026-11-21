@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T04:18:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6696847, "source_ctime_ns": 1793362938718423424, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0140.jpg", "source_mtime_ns": 1785685046000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0140.jpg", "source_sha256": "45d88e91b601e03f427b78a7b77824a8ce71edf9861a3d0609bc842578e8bf67"}
+
+===== PAGE 1 =====
+{"alpha_words": 235, "chars": 1456, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ltr to HQ OSI, Subject: FLYOBRPT - SPECIAL INQUIRY
+
+"'tBIG FLAME' REPORTED
+SEEN OVER IDLEWILD
+
+A ‘big blue flame! that reportedly passed over New York
+International Airport, Idlewild, Queens, at 7:33 o'clock last
+night mystified airport personnele
+
+The phenomenon was said to have been observed by the pilot
+of a plane about to take off, a pilot about to land, control
+tower personnel and some mechanics at the field,
+
+The control tower men, who are employes of the Civil
+Aeronautics authority, said they had made a report to their
+superiors and that a 'reiease' may be issued today by the
+CeAete office at the airport. They deciined to describe
+what they had seene
+
+It was learned that the 'flame' was reportedly seen travei-
+ing from east to west over the airport, and that it had no
+particular shape. The pilot of a plane about to teke off for
+Buffalo was talking to the tower at the time and asked the
+operators if they saw the 'flamee' One replied that he had
+and at the request of the pilot made a record of the incidente
+
+A spokesman for CeAehe Said later that a controller in
+the tower reported he had seen an object moving at a very high
+speed across the field, at approximately 1,000 feet, and that
+the object seemed to have dissipated off the periphery of the
+airporte In accordance with procedure, he notified Mitchel
+Field military authorities."
+
+FRANK P. DUNNINGFON
+Colonel, USAF -/
+District Commander
+
+Declassification Authority: NND 923007

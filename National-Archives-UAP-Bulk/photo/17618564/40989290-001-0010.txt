@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:51:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 979272, "source_ctime_ns": 1793355919743379339, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0010.jpg", "source_mtime_ns": 1785564558000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0010.jpg", "source_sha256": "68740ea9f059be473ebb413170e44ab591cd1f818c2875db476ec7ea415328ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 188, "chars": 1222, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MAJOR ACHIEVEMENTS IN BIODYNAMICS: ESCAPE PHYSIOLOGY
+1953 = 1958
+
+During recent years the Air Force Missile Development
+Center has made important contributions to the Air Force human
+factors program in two broad fields: space biology and bio-
+dynamics, Under the heading of space biology, it has been
+engaged in research on biological effects of cosmic radiation,
+on sealed cabin environment, and on subgravity, all of which
+have been discussed in previous historical ~opreacntce Under -
+the heading of biodynamics~-which can be defined as the study
+of the effects of mechanical forces on living tissues--its
+research efforts cover a variety of problems ranging from the
+merits of automotive seat belts to patterns of deceleration in
+space flight. At first glance, some of these problems of bio-
+dynamics have little in common. In each case, however, the
+research program is centered around a unique Holloman complex
+of test facilities, of which the 35,000-foot high-speed test
+track is only the best known example. Moreover, each of the
+various research tasks in biodynamics is in some measure an
+outgrowth of the deceleration and windblast studies which began
+
+at Holloman Air Force Base in 1953 under the direction of

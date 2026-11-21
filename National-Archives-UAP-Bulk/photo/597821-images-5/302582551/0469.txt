@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:54:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1360483, "source_ctime_ns": 1793393974599126646, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582551/0469.jp2", "source_mtime_ns": 1785808550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582551/0469.jp2", "source_sha256": "d4f87f1ca78408aab0cadbdeac39876861326ea9695f978d6495da7944dde242"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 827, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MEMO FOR RECORD ll Apr 69
+
+SUBJECT: UFO Sighting Reported by Thomas Mortimer
+
+On 10 Apr 69, called to report a UFO sighting.
+The following information was received on the sighting:
+
+Date: 10 Apr 69
+Time: 1527 Hrs EST
+
+Location: rive
+
+Duration: About 3 Seconds
+
+Noise: Like a jet or rocket
+
+Description: Grayish circular object that seemed to be at tree top
+level. Observer looking toward W-PArB and object seemec to be going
+north. (Observer was very young end seemed nervous).
+
+Action; Called Mr. Lawson of Base FAA. Mr. Lawson stated that
+observer probably saw one of two F-34's that left Dayton for Springfield
+
+a4
+2. J
+and were in the area of the sighting at the time of the observation.
+
+I then called the observer and informed him that he had probably seen
+one of the F~84's. ‘The observer then said, "Oh - OK = Goodby”.

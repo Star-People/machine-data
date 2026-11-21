@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T04:26:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9089862, "source_ctime_ns": 1793379777460819685, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973412/0032.jpg", "source_mtime_ns": 1785700947000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973412/0032.jpg", "source_sha256": "cc66a67e0deea57e9f3fc2964f7f5cfb0221b9a3f9b14d7a353f0c86e51cbd0b"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 61, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+} rack
+Ny De Bey
+riba
+
+4
+9 de ile a
+
+Leer Of! a: 1 ay fo
+
+¥

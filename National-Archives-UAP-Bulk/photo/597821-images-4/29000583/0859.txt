@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T04:08:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4474181, "source_ctime_ns": 1793388249968034633, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000583/0859.jpg", "source_mtime_ns": 1785748003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000583/0859.jpg", "source_sha256": "cff5a4cd4d40c482975310eb63993ef9c43717d976de853cac0224c9e05066b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 396, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+inlet aedata ta 4
+
+DEPARTMENT OF THE AIR FORCE
+
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN: 24949 (9 Apr 63)
+
+Page 2 of2 Pages
+
+RNEGIH/ C OMEASTSEAF RON
+R''WGALE/ SPADAT
+
+INFO RUCKDT/COMASWFORLANT
+NAVY GRNC
+
+BT
+
+UNCLAS
+
+LOCATING ONE UFO
+
+1. POSS SATELLITE
+2 6226N 1924y
+5. 882138Z
+4. CUS 162 SPD EST. 18999
+3. VISUAL
+S. ALT 'INKNOWN
+
+BT
+
+B8/ 2296Z
+NOTE : Adv cy del to DIA & NIN

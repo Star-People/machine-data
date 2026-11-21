@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:28:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10416354, "source_ctime_ns": 1793364195575376826, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0248.jpg", "source_mtime_ns": 1785684595000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0248.jpg", "source_sha256": "b79f0d144c08c32cb3fa3b5b305d55144ba46864fc2c0bffb06f01e68b3c7cf0"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 434, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TITLE (Continued)
+
+Lt Col CHARLES FE. LANCASTER, Jre
+Deputy Base Commander, Kirtland Air Force Base, te M.
+Observed from Socorro, New Mexico.
+
+v. We. JONES
+
+Chief Controller
+
+Air Traffie Control
+
+Civil Aeronautics Administration
+
+a
+
+Observed from Control Tower, Kirtland Air Force. Base, N. Me
+
+lst Lt JOHN W. RAP!
+
+2305 Ne Solano Street
+Albuquerque, New Mexico
+Observed from Winslow, Arizona.
+
+Declassification Authority: NND 923007
