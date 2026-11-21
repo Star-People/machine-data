@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T00:21:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7193440, "source_ctime_ns": 1793363446570499165, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0074.jpg", "source_mtime_ns": 1785684654000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0074.jpg", "source_sha256": "ae9b8cf153a343abc7e131aede889d0489dc3d6c729a7204cef56a39a3bbc845"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 93, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+speed wa
+
+v4
+
+rc
+a
+
+QO
+
+ak
+
+rologi
+
+meteor
+
+NND 923007
+
+ty:
+
+1
+
+Author
+
+fication
+
+1
+
+Declass
