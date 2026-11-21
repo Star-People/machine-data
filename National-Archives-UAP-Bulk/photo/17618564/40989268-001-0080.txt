@@ -1,0 +1,85 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T02:35:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18471552, "source_ctime_ns": 1793355642041130151, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0080.jpg", "source_mtime_ns": 1785564495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0080.jpg", "source_sha256": "b5a7ab5d02789794db5545677644caab0af34564845ff487e84ab98e8fa4ab2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 495, "chars": 3216, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+146
+
+again equals the peak stress initially encountered. As you see from the curve, the
+rebound energy associated with the selected value of strain can also be determined
+by computing the area under the curve between the point of maximum strain, and the
+trailing end of the curve.
+
+Now, still referring to Figure 8, let us consider for a moment the efficiency of
+our pad. Equation (1) defines the energy absorbed per unit volume. Then if we
+define 100-percent efficiency as represented by an ''Ideal'' material which crushes
+at constant stress (denoted by ae to zero final thickness, Eq. (2) defines our
+Thickness Efficiency.'' Some authors have found it convenient to define another
+term, the so-called ''Cushion Factor'' of a material, which as you can see from
+Eq. (3) is simply the reciprocal of ''Thickness Efficiency", E,. You can see from
+the equation that the lower the value of Cushion Factor, the lower the stress, and
+therefore the softer the material.
+
+With that background we should now be ready to design a crash pad. We start
+with the parameters: the cushioning material, the payload weight, the peak
+allowable acceleration, and the expected impact velocity; and first determine the
+"footpad" area. Referring to Figure 9 you will notice that the area, A, the peak
+stress, ~ and the allowable acceleration, G, may all be varied to suit the
+peculiarities of the problem. And naturally the peak stress establishes where you
+will have to work on the stress-strain curve. Next, we determine the necessary
+thickness of the pad by solving the basic-energy-conservation equation, where the
+total energy absorbed by the pad is equated to the kinetic energy of the system plus
+the work done in deforming the pad. Solving this equation for the thickness, t, gives
+the equations illustrated. I would like to point out in the first energy equation that
+if the equivalent drop height associated with the kinetic energy term is large (say
+ten times as large) compared to the distance of travel associated with the work
+term, the work term is usually ignored. Also, the expression for thickness of an
+"Ideal'' pad is usable if your stress-strain curve is essentially rectangular, as
+most curves for paper honeycomb are.
+
+3. MATERIAL-DEFORMATION DEVICES
+
+Consider, now, two of the most common materials used for crash pads by the
+balloon industry.
+
+Refer to Figure 10. Probably the most widely used material is paper honey-
+comb. It can be purchased in a variety of configuration, it has a respectable looking
+stress-strain curve (high efficiency and low rebound), it is reliable and mechanically
+simple to apply, and on top of this it is inexpensive. It does, however, possess
+
+certain limitations; for example, if the payload oscillates so that the longitudinal
+
+DESIGN FORMULAS
+MATERIAL. DEFORMATION DEVICES
+
+A OF PAD
+WHERE : G IS MAXIMUM ALLOWABLE
+ACCELERATION,
+Sm!S MAXIMUM STRESS TO
+
+THICKNESS OF PAD BE ATTAINED.
+
+WV
+AxtxEn = 29 + Wee, xt
+
+OR
+ve
+Ts
+OR, WITH "IDEAL" PAD
+v2
+
+1S eterna,
+2xgxGxe,
+
+Figure 9. Design Formulas Material-Deformation Devices
+
+PAPER HONEYCOMB
+DYNAMIC STRESS-STRAIN CURVES
+
+~ —_
+o Le]
+
+STRESS, KiPS PER SQ
+
+UNIT. STRAIN, PER CENT
+
+Figure 10. Paper Honeycomb Dynamic Stress-Strain Curves

@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v1", "engine_mode": "embedded-text", "source_file": "Archives-for-the-Unexplained/documents/AFU_Sponsorships_1993_2018.pdf", "source_sha256": "c86d9ab66835e42a16b9c14039bb20044b79912ce14eadc96355ad1b56ce3cb7", "source_bytes": 792837, "created_utc": "2026-10-13T03:05:20.189493+00:00"}
+{"created_utc": "2026-11-21T02:49:56Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 792837, "source_ctime_ns": 1793566275847589972, "source_file": "Archives-for-the-Unexplained/documents/AFU_Sponsorships_1993_2018.pdf", "source_mtime_ns": 1793566275820598060, "source_rel": "Archives-for-the-Unexplained/documents/AFU_Sponsorships_1993_2018.pdf", "source_sha256": "c86d9ab66835e42a16b9c14039bb20044b79912ce14eadc96355ad1b56ce3cb7"}
 
 AFU Sponsorships 1993-2018
 Note: This list does not include contributions to our regular bank account after Dec 31, 2017 but includes contributions to Clas Svahn's collection until July 2018

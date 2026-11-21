@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:01:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1973865, "source_ctime_ns": 1793356324857528610, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0124.jpg", "source_mtime_ns": 1785564674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0124.jpg", "source_sha256": "8b8eb7bf66e8bb3d4509ac22ba938119db9a5d57e6749940e6d0f7ceb2b2d1c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 251, "chars": 1790, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SECRuT
+
+5. Project title: fThunderstorus and Associated Electricel Activity
+
++2
+
+Eroject scientist: Dr. J. Kuettner
+
+Summary of In-Laboratory work:
+
+Observations of the electrical and metecrological conditions
+{nside 125 thunder storms and shower clouds were made atthe Zugspitze
+Observatory (10,000 ft.) from 1945 to 1948. This investig.tin has
+been compared with others from the United States and dngland. The
+conclusions concern:
+
+(a) the role of preciritation in thunder storms
+(b) the generetion of electric charges
+
+The following results are significant:
+
+(1) The formetion of solid precipitation (snow pellets and
+hail) is connected with the production of intense electric
+fields, the electnostatic charges being borne not by the
+
+precipitation particles, but suspended in the cloud air.
+
+(2) The freezing level is particul: rly significant in de~
+termining the distribution of charre.
+
+a | . Complementary Contracts: None
+6. Froject title: Air Flow Over an Irregulzr Gound Surface
+
+Project scientist: Dr. J. Kuettner
+4 Sumusryv of In-Laboratory work:
+
+Ten years ago, the formztion of atmospheric waves at high
+altitudes over mountain ridges was discovered by glider pilots. In
+the meantime, many theories have been published explaining this phenomenon,
+some of which lead to special consequences relevant to cyclogenesis.
+a There is an area of disagreement between these theories, but a decision
+by experiment could not be siven, since investicetions by gliders were in-
+te rupted in nearly all countries. during the war.
+
+It is now necessary to (a) make a summary of the present
+
+theoretical and experimental status of this field and (b) determine
+by experiment whether or not the theory is in accordance with experince.
+
+SECRET
+18
+
+This document is part of an unclassified series

@@ -1,0 +1,122 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T02:34:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17089026, "source_ctime_ns": 1793355663601146313, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0102.jpg", "source_mtime_ns": 1785564499000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0102.jpg", "source_sha256": "5969ecdf39c8c2daf3663a255df5e32528f50e0eed0b7354b8c7b2524c2b6e34"}
+
+===== PAGE 1 =====
+{"alpha_words": 666, "chars": 4384, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+190
+
+after maintaining the films at the designated temperature for thirty minutes is
+greater than that recorded after maintaining the films at the low temperature for
+only ten minutes. We presume that ten minutes is not long enough for the film to be
+completely chilled and that this sets up uneven stresses when the film is stretched
+and that these in turn result in premature breaks. Therefore, balloons flown during
+the arctic night can also be expected to ascend to altitudes equal to those reached
+in the Temperate Zone.
+
+The validity of these arguments is demonstrated by the flight performance
+obtained, whichis shown in Table 2. In all, thirty-one flights were successfully
+tracked to burst. Six of these were made at Fort Monmouth, New Jersey, twelve
+were made at Albrook Air Force Base in the Panama Canal Zone and thirteen were
+made at Fort Greeley, Alaska. The first three flights were made in the daytime
+
+and the remaining twenty-eight were all conducted during the hours of darkness.
+
+Table 2. Flight Performance Kaysam 100 ATG Balloon
+
+RESRESU TB BET Te STS EN OT TC SHEE TR APA RL
+
+Location Altitude
+
+Ft. Monmouth Lig,000
+Ft. Monmouth 100,500
+Ft. Monmouth 113,100
+Ft. Monmouth 113,806
+Ft. Monmouth 120,308
+Ft. Monmouth 124,600
+Ft. Monmouth 102,200
+
+1
+2
+3
+4
+9)
+6
+7
+8
+9
+
+Albrook AFB Lig. foo
+Albrook AFB 146,110
+Albrook AFB 101,100
+Albrook AFB 120,650
+Albrook AFB 109,850
+Albrook AFB 115,420
+Albrook AFB 108,770
+Albrook AFB 119,980
+Albrook AFB 122,475
+
+Ft. Greeley 110,278
+Ft. Greeley 114,380
+Ft. Greeley 95,072
+Ft. Greeley 109,373
+Ft. Greeley Lt Bao
+Ft. Greeley LIS Ls
+Ft. Greeley 107,812
+Ft. Greeley 109,.da4
+Ft. Greeley 103,452
+Ft. Greeley 109,245
+Pye careeley 98,543
+Ft. Greeley 102,992
+Ft. Greeley 112,700
+
+OnNnNUOIN OWN W
+0. 0 0 0 020-060-000
+ANNANAAANN
+
+Of the thirty-one flights completed, twenty-seven, or 87 percent, reached
+altitudes in excess of 100,000 feet. Eighty-three and one half percent of the tropical
+flights exceeded the 100,000-foot level as did 85 percent of the arctic flights. Some
+of the Tropical Zone balloons were a little slow in ascending but in general it is
+clear that a balloon capable of reaching an altitude of 100,000 feet by day or by night
+in any geographical location is now available. Whenever flights in the Tropics or the
+Arctic are planned, it would be wise to consider this balloon which will provide
+performance much superior to that obtained from the ML-537 balloon.
+
+A need has also existed for a meteorological balloon capable of rapid ascents
+to 100,000 feet by both day and night. Prior to the development of the balloon to be
+described, no such vehicle was available. The ML-537 balloon is capable of reaching
+the required altitude, but it has an ascension rate of only 1,000 feet per minute.
+
+The ML-541 balloon rises at more than 1,700 feet per minute and, furthermore, it
+can only be used in the daytime. The fact that such a balloon exists might suggest
+that production of a balloon capable of reaching 100,000 feet at the same ascensional
+rate was a simple matter of extrapolation. This, however, is not the case, anda
+daytime altitude of 90,000 feet appeared to be maximum attainable by such means.
+The nighttime altitude was much lower, being in the order of only 60,000 feet.
+
+The use of streamlined, nonexpanding plastic balloons with stabilizing fins has
+proved impractical. In order to reach an altitude of 100,000 feet an excessively
+large balloon and consequently very large volumes of hydrogen are requined, In
+addition, expert rigging and alignment of the fins are necessary to produce the sta-
+bility essential for rapid rates of ascent. Balloons of this type have been produced
+which performed satisfactorily but only to an altitude of 40,000 feet.
+
+Large, thick-walled spherical balloons have proved to be erratic in performance
+and although a balloon can be designed which will meet the requirements set forth,
+it is heavy and requires a very high free lift. This again results in the need for
+excessive amounts of hydrogen or helium.
+
+The balloon to be described involves a completely new concept and in order to
+understand the reasons for arriving atthis design it is necessary to review some of
+the earlier theoretical work (Figure 2). The equation of motion for meteorological
+
+dV
+balloons is given by the formula L-D = aera
+
+Free Lift
+
+Drag
+
+Ascent Velocity
+and
+
+m= Mass of Equipment and Gas

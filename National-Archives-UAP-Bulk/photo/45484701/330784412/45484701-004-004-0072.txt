@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:16:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6733249, "source_ctime_ns": 1793363063386222615, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0072.jpg", "source_mtime_ns": 1785684803000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0072.jpg", "source_sha256": "70282777764157d60b0b3ab695f78ccfaa3a1824c99193db31162835f84dda3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 224, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL USAF
+4TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+
+BOLLING AIR FORCE BASE, WASHINGTON 25, D. C.
+
+Declassification Authority: NND 923007

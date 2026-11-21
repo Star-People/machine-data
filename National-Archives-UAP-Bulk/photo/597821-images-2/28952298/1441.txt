@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:14:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6193538, "source_ctime_ns": 1793374593006965452, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952298/1441.jpg", "source_mtime_ns": 1785696579000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952298/1441.jpg", "source_sha256": "934b0afff6dc0e8d65cdea9561f5712305334effdde1f4d9898508e0c7ba2969"}
+
+===== PAGE 1 =====
+{"alpha_words": 14, "chars": 100, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+as CASE Includes
+
+Two (2Z ) 335mm nega tives
+
+and Two (z) prints(G x6”)
+“loTee oF Four (4) prints,

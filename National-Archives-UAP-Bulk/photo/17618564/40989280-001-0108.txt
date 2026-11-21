@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T02:55:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1184569, "source_ctime_ns": 1793355852155959844, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0108.jpg", "source_mtime_ns": 1785564541000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0108.jpg", "source_sha256": "561c4eb8b56680a12606c065ce0905ba47d6a21c31157d78e582edad271c696a"}
+
+===== PAGE 1 =====
+{"alpha_words": 226, "chars": 1499, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+be
+
+87
+
+normally sent back coded altitude data during the flight, and
+could be used for still other telemetering requirements.
+Various transmitters have been used by the Balloon branch,
+and numerous improvements made from time to time by "in-house"
+effort. In 1957, a special study of alternative direction-
+finding systems was made for the Balloon Branch under contract
+by the Midwest Research Institute. The study touched on radar
+methods but dealt mainly with other radio tracking techniques.
+Specific recommendations made by the study did not always appear
+most practical for Holloman operations, fo. reasons of cost
+among other things; but a great deal was learned pecertrelacsen
+Radio tracking has supplemented rather than replaced other
+tracking methods, And the balloon-borne transmitter is, of course,
+only one part of a radio tracking system. Receiving equipment
+is installed both at Holloman Air Force Base and in tracking
+aircraft, which are also used for visual tracking of balloon
+flights. The role of aircraft is especially important near
+the conclusion of a flight, in order to direct the following
+recovery operation. In the early days of Holloman ballooning,
+both B-17 and C-l;7 aircraft were used; and on some flights even
+B-17's from Wright Air Development Center would pick up Holloman-
+launched balloons for tracking after they had traveled halfway
+across country. This last procedure was used on Project Gopher,
+
+which involved sending hesvy specialized equipment on flights

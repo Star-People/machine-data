@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:06:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4383370, "source_ctime_ns": 1793372330736809485, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942353/00430.jpg", "source_mtime_ns": 1785688767000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942353/00430.jpg", "source_sha256": "1bbd2f8edc342a39550e872cbee2c520b71d815b1ecf4970383f517ca0b23fe2"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 649, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ae aa ae as
+
+YDA@1i9 ;
+WYB@19
+
+WDBO14
+
+JWFKDO15 ACTION
+
+RR JEPHQ JEDWP-JEDEN JEPYB 444
+
+DE JWFKD 48
+
+R 2822302 ZNJ ee
+
+FM CO 49@1ST SPT WG /ATOMIC/ KIRTLAND AFB NMEX —
+TO JEPHQ/DIR OF INTELL HQ USAF WASH DC
+JEDUP/AIR TECH INTELL CEN ATTN ATIAA~2C UPAFB OHIO ~~
+JEDEN/CG ENT AFB COLO SPRINGS COLO’ |
+JEPYB/CG ARDC BALT MD UNCLASSIFIED
+
+ee FLYOBRPT THREE OBJECTS OF PINKISH
+
+COLOR IN TRAIL FORMATION X SIGHTED VISUALLY FR GROUND AT APPROX 1345
+
+MST NE QUADRANT ALBUQUERQUE X FLYING WEST LOW THEN HIGH X WEATHER
+
+CLEAR W/FEW CUMULUS ALL QUADRANTS VISIBILITY 6@ MI WINDS WNW 19 MPH
+X OBSERVERS AND
+28/23329Z MAY JWFK
+
+OF 5 FIRE STA ALBUQUERQUE X “=
+
+\

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:15:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6591774, "source_ctime_ns": 1793361844525347654, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0085.jpg", "source_mtime_ns": 1785685075000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0085.jpg", "source_sha256": "27358c501cccba664276edceab9951cf8c3787428eedffa1f8da77c3c395aef1"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 598, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+it. Marle 5. Mghtower, Operations Officer
+Protective Forge, AXSS
+Set. D. MW. Rickard, Area I, Section I
+
+O159
+
+DATE: 3 Warch 19h9
+DIRECTION: Almost Straight down, fast Korth-East of Station 101
+
+SPLEDs
+
+COLOR: Wight green
+
+ALTITUDES:
+
+POINT OF OSSERVATION: Station 102
+
+SOUND:
+
+OBSERVER: Sgt. D. Ue. Riekard
+
+STATEMENT OF OBSURVERs At O159, 3 “arch 19h9, I was sitting in a chair
+facing ‘ast and talking to Lt. Buckley. A bright
+Mreen light fell alzest straight dow, nast—lorth-
+Kast of Station 101. ‘This light was bright 211 the
+time that I observed saze.
+
+Declassification Authority: NND 923007

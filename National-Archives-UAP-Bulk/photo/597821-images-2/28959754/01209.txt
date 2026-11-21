@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:04:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4095447, "source_ctime_ns": 1793376217324971157, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959754/01209.jpg", "source_mtime_ns": 1785696530000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959754/01209.jpg", "source_sha256": "2fde6735fdf504ba7b97f212dfea4382e46ef4c6c561e56f6a5eaf258152c6b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 156, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DATE
+
+Oct
+Oct
+Oct
+
+OCTOBER 1954 SIGHTINGS
+
+ADDITIONAL RSPORTED SIGHTINGS (HOT CASES)
+
+OCATIO TIRAR Wi TAN
+LOCATION SOURCS IsVALUAT ION
+
+TR-H4O-54, Oct 54)

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T03:22:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7931677, "source_ctime_ns": 1793362726794831659, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0268.jpg", "source_mtime_ns": 1785685019000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0268.jpg", "source_sha256": "b2c0ffd28135f2d6c08c84b62be64f940b62caa23c9fa40434917590c9cd920a"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 1152, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+«ff HQ-33 (20 May 44) it
+Heand Peres UNITED STATES plnatonceys=aQi~
+
+steam aman eanerrigae. nga
+
+ROUTING AND RECORD SHEET
+
+SUBJECT: ‘ ‘ P . ;
+J (Restricted) erent ber of Soil Samples Having Possible Relation to
+n g
+
+TO: Counter Intelligence Division DATE
+
+Directorate of Special Investigations, The IG
+COMMENT NO. 1
+
+Topical Division Maj Fournet/dbv/75990
+
+Deputy Director for Estimates, D/I, DCS/0
+
+1. Reference our R&R dated 5 September 1952, same subject as above. Recent
+developments have prompted the attachment of increased importance to these samples.
+Specifically, a deposit seeming to have the same general characteristics and also
+related to a flying object incident has been reported from Flat Woods, West Virginia.
+
+2. In view of this possible relationship and the necessity for a prompt analysis
+of these two incidents, it is requested that utmost priority be given to the lab
+analysis of subject samples.
+
+WILLIAM A, ADAMS
+
+Colonel, USAF
+
+Chief, Topical Division
+
+Deputy Director for Estimates
+Directorate of Intelligence, DCS/0
+
+ee APaTekiel a
+
+wv , ore
+ne
+
+bi U. S. GOVERNMENT PRINTING OFFICE 16
+
+Declassification Authority: NND 923007
