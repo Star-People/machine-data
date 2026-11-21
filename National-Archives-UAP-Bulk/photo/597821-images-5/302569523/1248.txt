@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T05:05:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1441448, "source_ctime_ns": 1793392653888948355, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569523/1248.jp2", "source_mtime_ns": 1785808202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569523/1248.jp2", "source_sha256": "40ef8ffb43044f1a017ab7cf06e22f11b709f12f9ab7c0c2afc85a448781a521"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 773, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TDET/UFO OFFICIAL FILE CY
+
+TDET/UFO- (Maj Quintanilla/70916/mhs/25 Oct 67)
+
+UFO Observation, September 15, 1967
+
+ea Peunsyivenis: 18201
+
+Your name has been given to the Aerial Phenomena Branch + ( Project
+Blue Book) as being a witness to an unidentified flying object.
+
+If? you were a witness to an UFO sighting on September 15, 1967
+would you please complete the attached FID Form 164 and return it
+in the self-addressed envelope. If you were not a witness to this
+sizghting would you please make a statement to this effect on the
+attached form. The information which you provide wil be used in
+evaluating this ooservation. Thank you for your assistance in
+this matters
+
+C. MANATT, Colonel; USAF ~ 1 Ateh 7 |
+rector of Technology and Subsystems FYTD Form. 164 w/envelope

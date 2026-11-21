@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T05:24:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5592982, "source_ctime_ns": 1793380477505942527, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976227/01006.jpg", "source_mtime_ns": 1785700661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976227/01006.jpg", "source_sha256": "9e80359ea03510df9a0e1bcd80ef931a351c92076db5abff5b251d0bf0a7cfb6"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 829, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a shooting star,
+
+and just disappeared from sight.
+
+traveling very fast
+
+PROJECT 10073 RECORD CARD
+1. DATE 2 LOCATION 12, CONCLUSIONS
+O Was Balloon
+| | Dayton, Ohio QO Probably Balloon
+13. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+Local ___2024 WGround:- Visual OG Ground-Redar 4 Pauly Aivoiett
+GMT 22/ 01242 O Air Visual O Airelntercept Radar O Possibly Aircroft
+5. PHOTOS 6. SOURCE Was Astronomical Meteor
+O Yes QO Probably Astronomical
+XDNo Civaian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+5 Insufficient Data for Evaluation
+nown
+2 seconds one South
+10, BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+Very bright object, looked like an The earth is now passing through
+archlight. Bright blue-white. Looked Like several meteoric showers.
+
+ATIC FORM 329 (REV 26 SEP $2)

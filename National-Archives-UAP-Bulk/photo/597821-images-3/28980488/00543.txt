@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T05:17:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4294010, "source_ctime_ns": 1793381503834794081, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980488/00543.jpg", "source_mtime_ns": 1785701082000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980488/00543.jpg", "source_sha256": "68ed8416b54921e9806f2fe71f2a1db4f1e4a910cfc883fb13bdf3e3dba885e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 208, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+& Centro ce |
+o_— . Investigoecicnes
+: de Obielos Voladores
+Inideniilicados
+x W F QO . R Mt E
+
+CENTRO DE INVESTIGACION DE OBJETOS VOL‘DORES INIDENTIFIC ‘(DOS
+
+SERVICIO DE INTELIGENCIA@-FUERZA AEREA URUGUAYA

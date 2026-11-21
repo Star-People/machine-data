@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T04:33:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12267833, "source_ctime_ns": 1793355425432477127, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0007.jpg", "source_mtime_ns": 1785564453000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0007.jpg", "source_sha256": "3aacad6bafe65d516fd464637002ac876df51dd840f5818c690ee0e4697df567"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1116, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+on
+
+1. INTRODUCTION
+
+If you take a moment to peruse the program, you will find that this session is
+entitled, "Balloon Capabilities and Technology''. The afternoon session tomorrow
+and the talk by Dr. Ross on Friday morning will be concerned with specific aspects
+of the same general topic. The discussions of balloon technology will deal entirely
+with the various types of plastic balloons, both free and tethered, and will include
+space inflatables.
+
+Within the scheme of things, this is a technology of comparatively recent
+vintage--a product of cooperative university, contractor, and governmental efforts
+during the past fifteen years. Prior to World War II scientific ballooning as we
+know it today was confined to an exceedingly small number of projects which were
+severely limited by the rather expensive and heavy rubberized fabrics in use at
+the time. Some of you may recall the flights of the Explorers IandII, andthe several
+flights of Dr. Picard and his wife. Each individual flight was a scientific under-
+
+taking of major proportions.
+
+(Author's manuscript received for publication 31 December 1963)
