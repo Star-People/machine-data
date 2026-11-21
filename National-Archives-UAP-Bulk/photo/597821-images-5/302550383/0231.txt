@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T01:26:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1270437, "source_ctime_ns": 1793390491076775479, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550383/0231.jp2", "source_mtime_ns": 1785808490000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550383/0231.jp2", "source_sha256": "e8765e0c8b6b989b708a361361a2203b3ee39af1339649a621454e60a4aa6802"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 480, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FTD (TDEW)
+Wright-Patterson AFB, Unio 45433
+18 May 1966
+
+Mrs
+
+Raceland, Kentucky 41169
+
+Dear Mr
+
+Refarence your recent unidentified observation of 28 April 1966.
+
+The information in.your letter of 9 May 1966 was not sufficient for eval-
+uation. Request you complete the attached FID Form 164 and return it
+
+in the envelope’ provided.
+
+w2 wich to thank you for reporting your observation tothe Air Force.
+Sincerely,
+
+}
+HECTOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book

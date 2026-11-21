@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T00:18:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6484399, "source_ctime_ns": 1793377660470241915, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964815/1136.jpg", "source_mtime_ns": 1785696468000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964815/1136.jpg", "source_sha256": "7e961ada8b993f32295a57b52c548a2e6382e962ade5f7a14aa7a636b0aa3a75"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 68, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ok one oe ,
+“ST ee Ohare gat es:
+= A ER ents
+erect fn shee  oae ae

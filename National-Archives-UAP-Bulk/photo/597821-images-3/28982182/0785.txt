@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T00:17:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5922824, "source_ctime_ns": 1793381998124934440, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0785.jpg", "source_mtime_ns": 1785700911000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0785.jpg", "source_sha256": "0e21943abf211a62f61f1f5425d639d2b9328e9ba1c2fa2179fd5e03bd3af20f"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 569, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+7 @ 9
+
+32. In the following sketch, imagine that you are at the point shown. Place an “A” on the curved line to show how
+high the object was above the horizon (skyline) when you first saw it. Place a "B” on the same curved line to.
+show how high the object was above the horizon (skyline) when you /ast saw it.
+
+Page 6
+
+eon,
+
+Sareea O ATE
+
+23. In the following larger sketch place an “A” at the position the object was when you first sow it, and a “3” at its |
+position when you Jast saw it. Refer to smaller sketch os an example of how to complete the larger sketch.

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T00:09:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4760828, "source_ctime_ns": 1793378618046560664, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968592/0090.jpg", "source_mtime_ns": 1785696666000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968592/0090.jpg", "source_sha256": "51c3a163619bb76ffd458515b3a735eedd98287535181f53c015172f4301598e"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 972, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+mo PROJECT 10073 RECORD CARD ep a
+
+1. DATE 2. LOCATION Ny, 12. CONCLUSIONS
+\A0A Sng TO 0 Wos Balloon
+10 Decemb34 1956 WEES D.C. QO Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION AXPossibly Balloon
+Local = : 2X Ground: Vi sual 0 Ground-Radar 4 Probebly Aircraft
+cmt_2 1/0235Z O Air- Vi sual O Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+0 Yes O Probably Astronomicol
+LNNo Civilian QO Possibly Astronomical |
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O , Other
+QO Insufficient Dota for Evaluation
+Oo nknown
+15_ minutes one SE_& hovering
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS |
+One object oval but flat, larger Sighting described characteris-
+than a basketball, color white tic of WX balloon,
+
+turning orange. Observer glanced up
+and saw obj for about 15 minutes.
+Object disappeared when observer |
+made call to report sighting. At
+least four a/c in area over Bolling
+Field.
+
+ATIC FORM 329 (REV 26 SEP 52)

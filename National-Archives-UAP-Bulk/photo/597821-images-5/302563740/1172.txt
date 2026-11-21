@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T23:56:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1285643, "source_ctime_ns": 1793392061805768024, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563740/1172.jp2", "source_mtime_ns": 1785808394000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563740/1172.jp2", "source_sha256": "5cdb6cb92aa2299d9b7500e66dceadf60df89f0f063feab08683e519fe193801"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 608, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN: 16918 Pg 20f3
+
+(5) CLUSTERED. INDIVIDUAL LIGHTS MOVING IN ALL 0 IRECT IONS
+(6) NONE
+
+PAGE 2 RUCIFLAQ007 UNCLAS
+
+7) NONE
+
+(8) ACCASIONAL WHIRRING SOUND
+
+(9) ONE LIGHT DISAPPEARED THEN REAPPEARED
+B. DESCRIPTION OF COURSE OF OB.ECT:
+
+(1) FLASHING LIGHT S
+
+(2) LOW
+
+(3) UNKNOWN
+
+(4) UNKNOWN
+
+(5) INSTANT ANEOUSL Y
+
+(6) ONE HOUR
+
+C. MANNER OF OBSERVAT 1ONs
+
+(1) GROUND VISUAL
+
+(2) NONE USED
+
+(3) N/A
+
+D. TIME AND DATE OF SIGHT ING
+
+(1) 38929M@ MAR 67 - 2100 EST 29MAR 67
+(2) NIGHT ~ CLEAR
+
+AFHQ Jan cs 0-309C | UNCLASSIFIED

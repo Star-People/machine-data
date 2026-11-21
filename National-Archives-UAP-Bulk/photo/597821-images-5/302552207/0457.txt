@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T01:25:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1008141, "source_ctime_ns": 1793390662894366804, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552207/0457.jp2", "source_mtime_ns": 1785808337000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552207/0457.jp2", "source_sha256": "afd8514b1e2e43b9443b3600a57181f8c05e3b3b8cc9641c05246dbc73c8e387"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 212, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pay ag de Pan
+yY vuLy OO
+
+Conversation between Lt. Marley and teok place on abeve date,
+
+p
+M paid that ebject was orange as compared te the stars. Object moved down-
+ward abeut 6 degrees during the observation.

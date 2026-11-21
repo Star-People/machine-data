@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T00:18:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6352268, "source_ctime_ns": 1793361870731787017, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0014.jpg", "source_mtime_ns": 1785684786000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0014.jpg", "source_sha256": "932c939a2e151b217e9df7d9c5d1521fecba8f62d9ca0a408a7544ea9282b745"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 333, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5D 2211,
+PROJECT "GRUDGE"
+
+UNDEVELOPED LEADS
+Pavia ersnndccheter rset
+
+MLSTRICT OF FICK #10, KELLY AFB
+AT BEAUMONT
+1. Will interview Mr. DON CORDER, 3280 Pt. Arthur Rd., Beaumont, Texas
+
+and any other persen or persons having knowledge of this incident using the
+inclosed letter as reference.
+
+Declassification Authority: NND 923007

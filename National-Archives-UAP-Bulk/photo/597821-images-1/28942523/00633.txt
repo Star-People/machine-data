@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T00:05:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4110465, "source_ctime_ns": 1793372391378620191, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942523/00633.jpg", "source_mtime_ns": 1785688834000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942523/00633.jpg", "source_sha256": "1d70a5101a37f16d5f1236e0ceddff25ba66690cf9ab251824f914db8592b749"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 86, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+f ge i x -, ‘ ys ;
+of carrrallh of ape Fy poe (AS +7
+' wl ia ¢ ’ ot oD 2
+4 Ni ;
+
+Col

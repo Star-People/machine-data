@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T00:22:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8300760, "source_ctime_ns": 1793384811568671098, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991128/0815.jpg", "source_mtime_ns": 1785748435000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991128/0815.jpg", "source_sha256": "b91de726f4eb299b2dbaf1b76acaf1d6fd7cf6ec4e5b1463f07c31d2d1e3a8eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 799, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+” DEPARTMENT Ol! THE AIR FORCE.
+
+Ore. STAFF. MESSAGE DIVISION. _ ef a
+al UNCLASSINED MESSAGE J SO /
+AF IN : 50632 (19 hse 61) rede OMI N G | ae vr
+
+ACTION: CIN-14
+INFO : ARMY-30, NAVY-90, CMC-6, JCS- i OSD-15, NSA-7, CIA-11, OOP-2,
+
+OOP-CP- ~1,SAFS=3 (208
+SMD A B 105
+
+ZCHQAAGBZCBJAIGA | p> AY 76) (
+
+PP RJEZHO |
+
+DE RBEGMH 009
+
+ZNR |
+
+P' 1906302
+
+FM CCGDONE
+
+TO RJWFALB/CINCNORAD
+
+LRJEZHQ/COFS USAF
+
+RBEKHC/C OMASDEF ORLANT
+
+RBEGUH/C OMEASTSEAF RON
+
+RCEHC/C ANF LAGLANT
+
+RBEMVB/CANAI RDEF
+
+RJEZSN/26TH NORAD
+
+RBEPJD/COMDT COGARD
+
+RBEGUF /C OMEASTAREA
+
+BT
+
+UNCLAS. CIRVIS. SITREP TWO AND FINAL. /
+
+EVAL AS MARS OR REGULUS. SIGHTING STATIONARY EAST OF NANTUCKET ISLAND
+LAST 99 MIN . CROSS RIP L/V HAS SEEN LIGHT FOR PAST WEEK
+
+BT
+
+NOTE: Advance copies delivered to CIN and OOP-CP (1901502)
+19/0632Z

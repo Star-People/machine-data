@@ -1,0 +1,98 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T01:20:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 518826, "source_ctime_ns": 1793365593089017182, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_108.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_108.jpg", "source_sha256": "98bfe0dbecce275831b6390bf1c71957ea8346b914a0a706c82ad67fb2110351"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1152, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+32:06:31
+32:06:33
+
+32:06:37
+
+32:06:58
+32:06:59
+
+32307305
+
+32:07 :07
+
+32:07:09
+32:07:13
+32:07:14
+
+32307 3:30
+
+32:08:18
+32:08:36
+32:09:18
+32:09:27
+
+32:09 4h
+32:09:56
+
+32:10:00
+
+cc
+
+cc
+
+cc
+
+cc
+
+CC
+
+cc
+
+cc
+cc
+cc
+
+cc
+
+cc
+
+cc
+
+CONFIDENTIAL lo7
+
+RKV, Gemini VII here.
+
+Roger. All systems are GO. We're standing by
+for the purge.
+
+Roger. An interesting note on the fuel cells.
+
+A little while ago the Section 1 Delta-P light
+came on momentarily. ... voltages, we switched
+between 2B and 2C. Each time we switched, the
+Section 2 light would momentarily flicker off and
+then back on again.
+
+Roger.
+
+Finally, on the last switch, the lights went out
+and stayed out.
+
+That's the Section 2 Delta-P light?
+
+Right. Instead of having both of them on, now
+we have none of them on.
+
+Roger.
+We're finished purge.
+Roger.
+
+Would you place your Quantity Read switch to
+ECS 05?
+
+Would you go to FUEL CELL 00?
+Okay. Would you go to FUEL CELL Ho?
+You can turn the Quantity Read switch off.
+
+Your next purge will be over Carnarvon on Rev 27
+at an elapsed time of 42 plus 23.
+
+Gemini VII, do you copy?
+Roger. Understand 42 plus 23 for the next purge.
+That's affirm.
+
+CONFIDENTIAL

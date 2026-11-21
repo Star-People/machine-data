@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T23:56:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1296994, "source_ctime_ns": 1793390514880297486, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550612/0483.jp2", "source_mtime_ns": 1785808610000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550612/0483.jp2", "source_sha256": "bf05d1ef996c2b933e9814212d9ee1aa8d746a359c172b52f80a8a74633da1db"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SyuTh TH S/R, iy. ST MAVSE ICfa/e 9
+
+hy
+pe laa
+md (se
+
+FTD (TDEW)
+wright-Patterson AFB, Ohio 45433
+18 May 1966 ree
+
+Breen Street
+South Jamesport, New York 11947
+
+Dear Mr. Sic,
+
+Reference your recent unidentified observation of 5 May 1966.
+The information which we have received is not sufficient for
+evaluation. Request you complete the attached FID Form 164
+and return it in the envelope provided.
+
+We wish to thank you for reporting your observation to the Air
+Force.
+
+Sincerely,
+OF
+
+HECTOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book

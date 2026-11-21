@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-20T23:54:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1029675, "source_ctime_ns": 1793389681354959005, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542786/0096.jp2", "source_mtime_ns": 1785808046000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542786/0096.jp2", "source_sha256": "5596fd244d01811ae481362c16aacf88507c910e1b73241d920e9cf3c2620528"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 721, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+24 November 1965
+‘‘piememeyrsh /sArorcc/72842/2k Nov 65
+
+fhis is in reply to your report of an aerial object which
+you observed and were unable to identify on 17 August 1965.
+
+fhe object vhich you observed has been evaluated as a
+meteor, not a satellite as you suggested. Satellites have
+much slower speeds than the object which you observed. Ail
+known satellites have an easterly component in their direction
+of flight.
+
+Thank you for reporting your observation to the Air Force.
+
+Sincerely,
+
+Mr mmunity Relations Division
+
+“TPiee of Information
+Ottawa, Til
+
+_COCRDINATED By (Office Synbol, Name, Grade, Date)
+SAF-OI p7/ SAF-01 C/ s
+
+||
+
+Loard cy - SAFOI-2
+Comebk cy - SAFOI-2
+Reader ey - SAFOI-1
+Activity cy - SAFOI-2

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T00:02:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3715098, "source_ctime_ns": 1793386482215003325, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996321/1444.jpg", "source_mtime_ns": 1785748422000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996321/1444.jpg", "source_sha256": "35f12d934adfc13399e28922e754fd100a94b10767947197ff2f2bd0740de0ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 926, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+STAFF MESSAGE BRANCH
+AF IN : 49853 (23 Feb 62) UNCLASSIFIED MESSAGE G/1 db
+
+ACTION: CIN-17
+-INFO : ARMY-2, NAVY-2, C otra deslhe sb-as, NSA-7, CIA-11, OOP-2,
+DIA-2, OOP-CP-1, SAFS-3 (116)
+
+SMB AGO4
+SYNJECT TO CORRECTION
+ZCZCHOATISZCJAW5 98
+YY RJEZHA
+' DE ROEAL 3
+ZNR
+Y 2480106
+FM 49703/AFE8
+TO RJEZHQ /COSNHY WASH DC
+RJWFAL/COMDR ADC ENT AFB COLO
+RBEGIWH/COMDR EASTERN SEA FRONTER NEW YORK NY
+AF GRNC
+BT
+UNCLAS CIRVIS REPORT TIMF OF SIGHTING WAS @@54Z 3153N 7205 FXTREMLY
+FAST MOVING OBJECT APPEARED TO BE A BIG COMENT SIGHTFD AROUT FIVF
+MILES OFF LEFT “ING OBJECT MOVING PARALLEL TO ONC HEADING OF 107
+DGGRESS MAFNETIC OBJECT DISSAPEARD FROM VIEW IN LFSS TAHN 25 SECONDS
+ALT OF OBJECT APPEARED TO BE BETWEEN 9.0 AND 11.0 SPFEN OF OBJFCT
+IN EXCESS OF 1508 KNOTS OBJECT APPEARED TO BF LFVEL FLIGHT NFG
+CLIMING OR DECENDING
+BT
+24/8114Z FEB ROESAL
+
+NOTE: ADVANCE COPY DELIVERED TO OOP-CP AND CIN, -

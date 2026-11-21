@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T00:09:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4709702, "source_ctime_ns": 1793381499655389292, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980472/00529.jpg", "source_mtime_ns": 1785700960000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980472/00529.jpg", "source_sha256": "318e2a712e768f61ca985209f29fbd98723f452e64e94bb9ad7bc4a55a08d760"}
+
+===== PAGE 1 =====
+{"alpha_words": 225, "chars": 1509, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+yen re = 2 wo
+
+1 ee |
+JI pio Ree bit
+
+bd
+
+(a) the target was observed on 11 October 1958 beginning
+at .O7h 21m hl.0s Universal time and lasting until
+O7h 22m 12.0s, an overall duration of 28.0 seconds.
+als
+(b) the target as displayed on film recordings of the radar
+Signal consisted of two unusually distinct sections.
+
+: The first of these lasted for approximately 0.75 seconds,
+showing a range change from 45 to 473 nmi. The second
+portion began where the first left off and lasted for
+27.3 seconds. The range of this target changed from
+462 to 467 nmi‘in that time, Absolute range as indicated
+here 4s accurate to within 5 nmi, but relative to each
+other they are accurate to within 2 nmi.
+
+(c) the target was observed in three of four beams being
+energized as follows:
+
+Beam 1 Low No target
+
+Beam 2 Low 0721:h.3 to 0722103.0
+Beam 1 High O721:45* to 0721255.5
+Beam 2 High 0721:4.0 to 07:22:12.0
+
++ May have entered prior to this time, but heam was
+not energized because of Beam Switching.
+
+(d) No doppler frequency information was available bee
+cause the range gate was set so that only targets
+between 50 and 1178 nmi would alarm the Lincoln
+Coded Pulse doppler system,
+
+(e) An intercept of the Russian satellite, 1958 42 had
+been expected at about 07332 at a range of 700 to 900
+
+(f) No other targets were observed by the radar between
+0701Z and O800Z.
+B. POSSIBLE TARGETS
+A signal such as that received by the radar could, at first
+
+glance, have been reflected from any one of the followings ‘
+
+HAD EE

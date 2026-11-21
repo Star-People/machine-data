@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T00:08:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4508856, "source_ctime_ns": 1793386108206276201, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994869/0138.jpg", "source_mtime_ns": 1785747822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994869/0138.jpg", "source_sha256": "549f5c759c2fbbc9f2b00e7ff804c1d03f39bd2d7dabc01767e5adfd4829d7fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1083, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(
+
+DEPARTMENT OF THE AIX FORCE
+
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+AF IN : 8931 (46\Be¢> 61M | N G F/ap
+ACTION : CIN-17
+
+INFO > OOP-2, OOP-CP-1, SAFS-3 -24-
+MBC 137 \
+
+NG “
+
+ll
+
+CZC HOBO 72 ZCQJE863
+
+PP RJEZHQ
+
+DE RJWZSBA 3
+
+ZNR
+
+P 261849Z
+
+FM 552ND AEW C WG MCCLELLLAN AFB CALIF
+
+TO RJWFAL/ADC ENT AFB COLO
+
+RJWZSB/28AD HAMILTON AFB CALIF
+
+RJEDSQ/ATIC WPAFB OHIO
+
+RJEZHQ/COFS WASH Dc
+
+RJEZHQ/OSAF WASH FC
+
+RJEDSQ/ COSMATIC WPAFB OHIO
+
+RJEZBF/ PROJECT SPACETRACK LG HANSCOM FLD MASS
+
+BT
+
+/UNCLAS/520IN 1661.
+
+FOR COFS PASS TO AFCIN AND AFCICIB1, FOR OSAF PASS TO SAFIS, FOR
+COSMATICCPASS TO AFCIN-4A. MOON DUST REPORT. THE FOLLOWING MOON DUST
+REPORT IS SUBMITTED IN AFR 200-2. FORMAT.
+
+ALFA? (1) LONG STREAK (2) NO DISTINCT OBJECT (3) BLUISH-GREEN
+CENTER QITH BRIGHT WHITE EDGES (4) ONE (5) N/A (6) NONE (7) LONG
+
+BRIGHT STREAK, SIZE UNK (8) NONE (9) NONE. BRAVO? (1) SUDDEN TX-
+
+TREME BRIGHTNESS WHICH ILLUMINATED COCKPIT INTERIOR (2) 69 DEG ELEV,
+S15 DEG AZIMUTH FROM ACFT NOSE (3) 48 DEG ELEV, 515 DEG AZIMUTH
+(4) STRAIGHT STEAK (5) VERY RAPID FADEOUT (6) THREE SECONDS.
