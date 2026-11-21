@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T08:39:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1363651, "source_ctime_ns": 1793355966786138211, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0004.jpg", "source_mtime_ns": 1785564571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0004.jpg", "source_sha256": "d654a0e766dc4b14708417fb3b56c7446b4f5d5accc0dc1a3b26030bca528fee"}
+
+===== PAGE 1 =====
+{"alpha_words": 261, "chars": 1694, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FOREWORD
+
+Within the United States Air Force the transformation in all but name
+of an air force into an aerospace force was preordained by the advent of
+the space age. Research and development in astronautics and missile/space
+technology has resulted in a rapidly changing inventory of weapons,
+Official confirmation of this alteration of mission and weapons began in
+November 1956 when the Secretary of Defense assigned to the Air Force
+operational responsibility for all missiles, except ship-based weapons,
+having ranges greater than two hundred miles. In September 1959 the
+Advanced Research Projects Agency charged the Air Force with the develop-
+ment, production and launching of all military space vehicles, And on
+this latter date the Department of Defense also assigned to the Air Force
+full responsibility for military operations in outer spaces
+
+The development and testing of weapons required in the defense of
+this almost infinite theater of operations is a highecost activity. This
+can be seen in the fact that Vanguard satellite payload cost one million
+dollars per pound to toss into orbit, If even an X-7 ramjet~engine test
+vehicle is recovered to fly again, the savings to the nation's taxpayers
+exceeds a quarter-million dollars, It is the cost of free-flight testing
+of missiles and space vehicles that is one of the greatest expenses in
+these vital research-and-development programs.
+
+Any method of locating and correcting faulty components or subsystems
+before free-flight testing will obviously result in great savings both in
+time and money, Prior captive testing on the nation's high-speed test
+
+tracks is the most valuable method of preflight testing, for missile and

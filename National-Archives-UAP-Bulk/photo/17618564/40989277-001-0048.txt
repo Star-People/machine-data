@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T08:38:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1123918, "source_ctime_ns": 1793355829663715131, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0048.jpg", "source_mtime_ns": 1785564535000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0048.jpg", "source_sha256": "7b823db26de18e120356d9beb3ed9a72b1e1ce133661a97b221687a871ed452a"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1252, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON, DC
+
+6 June 1995
+
+MEMORANDUM FOR PL RESEARCH LIBRARY - USER SERVICES
+
+FROM: SAF/AAZD
+1720 Air Force Pentagon
+Washington, D.C. 20330-1720
+
+SUBJECT: RETURN OF REPORTS
+
+Listed below are the documents the research library loaned for the purpose of producing
+a report for the Secretary of the Air Force. The documents were loaned on 6 April 1994. I have
+now returned all reports with the exception of duplicate reports that are at the GPO to produce
+the publication on this subject. Your collection is complete, the reports at GPO are duplicates.
+They will be returned as soon as the publication process is complete.
+
+Hard Bound Volumes
+
+1. Constant Level Balloons Scientific & progress report 13-23, 1946-1948, Final.
+2. Constant Level Balloons Scientific & progress report 13-23, 1948-1949, Final.
+Soft Bound Volumes
+
+1. Final Report, Radio Transmitter, Receiver, and Recording Systems for Constant Level
+Balloons.
+
+2. Special Report #1, Covering period from 1 Jan 1947-30 APR 1947.
+
+Progress Reports
+
+1. No. 3 5. No. 13, Section IT
+2. No. 4 6. No. 14
+3. No.12 7. No. 15
+4. No. 13, Section I 8. No. 16
+
+- 2 ri f
+S McANDREW, Ist Lt, USAFR
+SAR/AAZD Declas and Review Officer
+
+a}

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T08:34:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 827257, "source_ctime_ns": 1793356161503361094, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0033.jpg", "source_mtime_ns": 1785564624000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0033.jpg", "source_sha256": "c2497ba3c8694e5209bac82958ed6c7d630c090429fed1ac876010314f875ae2"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 795, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+*
+
+4 fe face be oo AY bite gt
+ADDRESS REPLY TO LUNE WWE oe
+RECTOR, NAVAL RESEARCH LABORATORY
+
+MaseewaTON 26) D> C- NAVY DEPARTMENT
+
+AND REFER TO:
+OFFICE OF RESEARCH AND INVENTIONS
+C-S68/9)(12)3C) NAVAL RESEARCH LABORATORY
+C-12),0-196/46 _ WASHINGTON 20,'D. ¢.
+CONFIDENTIAL
+
+Tos Chie& of Bureau of Ships
+Attn: Code 938
+
+Subj: Redesign of AN/CRT-1B Expendable Radio ©
+Sono Buoy. Report on Provlem S-1099R-C,
+
+by F. J. Hollweck, Forwarding of.
+
+Encl: (HW) +
+
+(A) Seven (7) copies of suzject report R-28h).
+
+ee ‘Enclosure (A) is forwarded herewith.
+
+JUL 1 91946
+
+J, B. J. Glanzman
+Lt. Comdr., USN:
+By direction of the Director
+Naval Research Laboratory
+
+Distribution
+
+BuShips, Code 938 (7)
+
+5 for Code 90
+
+2 for Code 945
+USN NEL, San Diego, Calif. (1)
+USN USL, New London, Conn. (1)
+
+ORD, Bele (1)

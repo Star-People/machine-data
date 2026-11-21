@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T08:34:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 892537, "source_ctime_ns": 1793355795700879517, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0059.jpg", "source_mtime_ns": 1785564528000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0059.jpg", "source_sha256": "668c5db339d1b99db3c8800eb4c03c6e02e1138729398ff5ceb308923441e03c"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 1069, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON, DC
+
+Office of the Secretary
+19 March 1997
+
+MEMORANDUM FOR THE RECORD
+FROM: SAF/AAZD
+
+SUBJECT: NOTIFICATION OF INTENT TO QUOTE OR PUBLISH INFORMATION
+FROM INTERVIEWS
+
+The following persons have been contacted by the undersigned and informed that the
+U.S. Air Force will quote and/or publish excerpts or entire interviews and/or statements provided
+to Capt James McAndrew concerning the alleged “Roswell Incident.” All individuals contacted
+approved of this action.
+
+Date Phone
+Contacted Number
+
+Name
+
+1/16/97
+
+Blankenship, Robert (505) 437-4521
+
+Clouthier, Charles 1/16/97 (505) 327-4814
+
+Coltman, Charles 1/16/97 (210) 616-5580
+
+Fulgham, Dan 1/16/97 (210) 522-3719
+
+Gildenberg, Bernard D. 1/16/97 (505) 585-2887
+
+Hansen, Ron 1/17/97 (505) 281-8843
+
+Hoadley, Mary unavailable (301) 984-1508
+
+Jorgeson, Ole 1/16/97 (505) 437-5896
+
+Kaufman, William 1/17/97 (206) 788-9777
+
+Kittinger, Joseph 1/20/97 (407) 331-5635
+Kovatch-Scott, Ethel 1/16/97 (703) 739-1406
+
+Longshore, Joe 1/16/97 AV 867-5421
+
+Lutz, Roland 1/16/97 (904) 243-1367

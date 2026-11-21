@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T09:10:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8151745, "source_ctime_ns": 1793379336242414448, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972017/00250.jpg", "source_mtime_ns": 1785700797000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972017/00250.jpg", "source_sha256": "3f80477426c468f64a8e3589b6c7bc0f686d6b3dc2fd3139e3b84ffb5bc8f1ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 795, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+=
+~“
+
+7. LENGTH OF OBSERVATION
+
+one minute
+
+6. NUMBER OF OBJECTS | 9. COURSE
+
+one East
+
+Gao oadc a
+
+s ad een
+\
+; PROJECT: 10073 RECORD CARD
+1. DATE J 2. LOCATION 12, CONCLUSIONS
+: O Wos Bolloon
+7 October 1957 Overland, Missouri o eek 14 a
+‘3. DATE-TIME GROUP 4. TYPE OF OBSERVATION 7 ee
+O Wes Airerofs
+eat 22KGreund-Vi suel O Ground-Reder XxPrchebty Alvereft
+omT__.98/0205Z 0 Air Visual O Airintercept Rodar Possibly Aircroft
+15 PROT: |6. SOURCE Was Astronomical
+GO Yes Probably Astronomical
+XKNe Civilian Possibly Astronomical
+
+Other
+
+Insufficient Date fer Evaluation
+nown
+
+/
+
+10. BRIEF SUMMARY OF SIGHTING
+
+sound,
+
+Round object, size of head of pin,
+Reddish orange, turning to white, No | reflecting the sun's rays.
+
+11. COMMENTS
+
+Probably a/c at high altitude
+
+ATIC FORM 329 (REV 26 SEP $2)

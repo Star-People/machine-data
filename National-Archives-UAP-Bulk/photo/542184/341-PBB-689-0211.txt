@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T09:21:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13819056, "source_ctime_ns": 1793366784121650986, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0211.jpg", "source_mtime_ns": 1785565593000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0211.jpg", "source_sha256": "5ba67b5f767cdef09e0e51b2819638e33b60eb8d571332ad56076abfc9a10c8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 84, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘
+SAECO CC tye
+
+ceo
+annem
+nee
+nt
+
+\
+
+Ly N
+Y it
+
+1/
+| PUTA
+
+«
+
+ce
+
+a
+
+| /j ee ra U ;

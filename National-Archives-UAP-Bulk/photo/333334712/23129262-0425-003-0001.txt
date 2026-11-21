@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T09:21:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16553428, "source_ctime_ns": 1793361513778411868, "source_file": "National-Archives-UAP-Bulk/photo/333334712/23129262-0425-003-0001.tif", "source_mtime_ns": 1785565371000000000, "source_rel": "National-Archives-UAP-Bulk/photo/333334712/23129262-0425-003-0001.tif", "source_sha256": "b5aac4ca34dcc6010f95e80ea1424fdb8f0dbba70bb46275c1edb738332f6885"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 440, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DECLASSIFIED Authority NW 45006 |
+
+HEADQUARTERS
+
+CONTINENTAL AIR COMMAND
+ERNED 4
+
+CENTRAL FILES BRANCH
+
+AIR ADJUTANT GENERAL
+
+FILE NUMBER VOLUME NUMBER
+471.6
+
+SUBJECT @yided Missebs
+
+FROM 1 Jan 52 TO
+
+1, Papers will not be extracted fran or inserted in this file.
+2, This file will be returned to the Central Files Branch within 48 hours,
+
+3. Do not return this file through distribution channels.
+
+L-51.752
+
+HO-ConAC , FORM 0-70
+
+1 DEC 51

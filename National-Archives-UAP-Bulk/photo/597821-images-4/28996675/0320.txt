@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T08:53:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4065324, "source_ctime_ns": 1793386589571321030, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996675/0320.jpg", "source_mtime_ns": 1785748324000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996675/0320.jpg", "source_sha256": "44b9ebb17972a4629845e674877832f1ef4e1527a7dbaa00a56221a835d300f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 835, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FE&RCE
+beak ” MESSAGE E BRANCH
+SHED MESSAGE
+
+: AF IN : 43641 (8 Apr 62 )H/den ce 01 MING rage: 1: OL. ?
+
+INFO : CIN-14, ARMY-2, CMC-8, JCS-35, oe 15, NSA-7, CIA-11, OOP-~2,
+DIA-2, OOP-CP-1, SAFS-3 (101)
+|
+SMB A @42 |
+|
+00 RJEZHQ |
+
+DE RJHPKH 5 |
+ZNR
+O 0310492
+
+FM 526 AIR DIV KUNIA FACILITY HAWAII
+
+TO RJHPKN/PACAF HICKAM AFB HAWAII
+RBHPQ/ COMHAWSEAFROM PEARL HARBOR HAWAII
+INFO RJEZHO/COFS USAF WASHINGTON DC
+RBEPW/CNO WASHINGGTON DC
+RBBEPWW/SECNNAV WASHINGTON DC
+RJWFALB/CINCNORAD ENT AFB COLO
+RBHPA/CINCPAC CANP H M SMITH HAWAII
+RUHPFS/CINCUSARPAC FT SHAFTER HAWAII
+RBHPB/CINCPACFLTT PPEARL HARBOR HAWAII
+RJAPAZ/COMUSJAPAN FUCHU AS JAPAN
+RUAMCR/COMMUSKKOREA SEOUL KOREA
+RUAGEL/CCOMUSTDC TAIPEI TAIWAN
+RBHPHH/HAWSEAFRON KUNIA TUNNEL ANNEX
+RBHPD/COMASSWFORPACC FORD ISLAND HAWAIT
+
+RJWXBR/CINCSAC OFFUET AFB NEB

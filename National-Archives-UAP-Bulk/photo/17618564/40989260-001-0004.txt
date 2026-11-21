@@ -1,0 +1,170 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T09:01:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5821403, "source_ctime_ns": 1793355070919714892, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0004.jpg", "source_mtime_ns": 1785564388000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0004.jpg", "source_sha256": "51e44d053c3e2b6ba84e4330b0b02a745fb06a25d1c2b98e2abaf53c1a39bef6"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1170, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Date
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+Oct
+
+13, 1962
+7, 1981
+
+22, 1968
+11, 1983
+24, 1985
+29, 1975
+22, 1971
+9, 1964
+
+26, 1974
+24, 1972
+30, 1964
+3, 1979
+
+9, 1980
+
+28, 1964
+28, 1971
+30, 1962
+13, 1965
+19, 1979
+5, 1978
+
+20, 1971
+16, 1979
+
+12, 1965
+
+18, 1966
+7, 1978
+2, 1969
+18, 1970
+
+11, 1970
+
+Float Altitude
+
+101K 4Hrs
+101K 6%4Hrs
+100K 6Hrs
+99K 6%Hrs
+98.4K 6sHrs.
+91K 4Hrs
+90K 7Hrs
+SHrs
+
+4Hrs
+
+SHrs
+
+3sHrs
+
+9Hrs
+
+74Hrs
+
+S’sHrs
+
+4Hrs
+
+35Hrs
+
+9;Hrs
+
+SHrs
+
+10%Hrs
+
+4Hrs
+
+7Hrs
+
+3Hrs
+
+11Hrs
+74Hrs
+3Hrs
+4Hrs
+28Hrs
+
+4Hrs
+
+Float Duration
+
+Payload Impact Area
+
+8 mi. NE of Las Cruces, NM
+59 mi, NE of TCS
+3 mi, S of William, TX
+11:5 ni. ENE of HOB
+17 mi, ENE of Row
+13 mi, SW of HOB
+28 mi, ENE of -ELP
+32 mi, NNE of HAFB
+1 mi, N of Crosbyton, TX
+30 mi, SE of CNM
+45 mi, NW of HOB
+40 mi. SSW of ROW
+2) mi; Ee Of TCs
+23 mi, NNW of BGS
+15 mi, NE of ROW
+90 mi, WNW of Laredo, TX
+30 mi, SE of ROW
+8 mi, NW of HOB
+41 mi, SE of ROW
+4 mi, NNE of HMN
+
+15 mi, SSE of ROW
+
+20 mi, N of PIO
+
+12 mi. SW of Chatsworth Ga
+41 mi. WNW of HOB
+
+37 mi, W of BGS
+
+15 mi, SE of Haskell, TX
+
+60 mi, WNW of Charleston, SC
+
+17 mi. NE of LBB
