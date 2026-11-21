@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T14:10:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4640082, "source_ctime_ns": 1793382290982608424, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983072/0023.jpg", "source_mtime_ns": 1785700929000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983072/0023.jpg", "source_sha256": "166bf0a479bb06b36c7d7dbb5ea4719684571fb33b9f85252a306823f9662d4e"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 474, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+P39 AME AP
+
+ZC ZCSQPAQBMCZCSICOHLAZCIY3 992
+
+FM COMDR 765TH ACWRON
+
+TO COMDR ATIC WRIGHT PATTERSON AFB
+BT
+/UNCEAS/FROM ACT OPS $41 PD REF YOUR MESSAGE AFCIN-42E4G4-792-E.
+ELEVATION OF OBJECT WHEN FIRST OBSERVED WAS 75 DEGREES PD ELEVATION
+WHEN LAST OBSERVED WAS 75 DEGREES PD MOVEMENT WAS EASTWARD PD OBJEC
+DISAPPEARED AFTER A SCATTERED PATCH OF CLOUDS CAME BETWEEN OBSERVER
+AND OBJECT PD OBSERVER STATES THAT OBJECT HAD A TAIL THAT LOOKED LIKE
+
+A WHITS PIECE OF STRING PD

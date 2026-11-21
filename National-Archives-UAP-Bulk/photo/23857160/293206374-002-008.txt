@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T14:07:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4170213, "source_ctime_ns": 1793361462478942138, "source_file": "National-Archives-UAP-Bulk/photo/23857160/293206374-002-008.jpg", "source_mtime_ns": 1785565356000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857160/293206374-002-008.jpg", "source_sha256": "b23f0c541e20febde6e69223859b2691064b6fbae6bb85fc8901fe8a64702b94"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 106, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+KIS, GOlL~
+1% Oc¥ WA
+
+RETURN TO
+
+USAF Historical Archives
+ASI(ASHAF-A)
+
+Maxwell AFB, Ala 36112
+
+eee 17 e

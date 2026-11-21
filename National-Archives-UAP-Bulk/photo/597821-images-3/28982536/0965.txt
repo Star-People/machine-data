@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T14:13:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5599387, "source_ctime_ns": 1793382055834070923, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982536/0965.jpg", "source_mtime_ns": 1785700876000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982536/0965.jpg", "source_sha256": "fdb7fbbb48783c5289b810b16bc25d04fe31c51c9a3481afc69b34c923fd4714"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 662, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+THE OBSERVATORY
+OF THE
+UNIVERSITY OF MICHIGAN
+ANN ARBOR, MICHIGAN
+
+25 March, 1959
+
+Dear Allen:
+
+Here is the flying saucer story I referred to in my last letter.
+Since you have been on an evaluation board, you may be amused.
+
+It is an interesting example of pretty objectgve observation by
+the people who thought they saw the saucer. They later even
+descrided the ringlike structure of telescope dish, which is
+covered only with a wide mesh, of course, 411 they described was
+acctirate, except they mistook the turning off of the lights midyotker
+and the small change in relative bearing (due to distamce of the
+telescope from the road) for motion!!
+
+Sincerely,

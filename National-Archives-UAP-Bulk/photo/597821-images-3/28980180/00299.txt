@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T14:13:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5581757, "source_ctime_ns": 1793381429759392119, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980180/00299.jpg", "source_mtime_ns": 1785700895000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980180/00299.jpg", "source_sha256": "f57d0d0b72a223cecb72090d01f548a42da803dd46386c8a3c6f1ea0fa1a9fbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1144, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+e 21 October 1958
+
+Dear MAR:
+
+This is to acknowledge and thank you for your letter of
+29 September 1958 concerning your sighting of an wiidentified flying
+object on the morning of 2) September at approximately 6 @em. near
+Frederick, Maryland. —
+
+We have received & number of letters concerning this seuc sight-
+ing and the local newspapers featured this sighting from Frederick,
+Maryland, to Pittsburg, Pennsylvania.
+
+An Air Force team has completed their 4nvestigation end has
+forwarded all the facts concerning this sighting to the Air
+echnical Intelligence Center for aralysis and evaluation. Prelini-
+nery results {ndicate the object was & meteorite which broke up in
+the earth's lower atmosphere.
+
+Again, thank you for your interest in this matter. Your letter
+will be included in the case file of this sighting at the Air
+Technical Intelligence Center.
+
+For your information, I am dnclosing Department of Defense
+fact sheets on the subject of wiidentified flying objects.
+
+Sincerely,
+
+2 Inclosures LAWRENCE J. TACKER
+Major, USAF
+Executive Officer
+Public Information Division
+office of Information Services
+
+cc: ATIC w/original ltr . : \

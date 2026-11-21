@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:54:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1021545, "source_ctime_ns": 1793355820100160831, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0092.jpg", "source_mtime_ns": 1785564533000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0092.jpg", "source_sha256": "afe3e7a390bfe08d48793dca78b83fa7a9b051824c42bc88ed245db7e197c4e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 780, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Library of Congress
+CATALOGING IN PUBLICATION DIVISION
+
+PUBLISHER'S RESPONSE/PUBLISHING HISTORY
+Publishing House Name (as listed on title page) ISBN PREFIX
+
+Telephone No. ? Internet No.
+
+Authorizing Officer (Name/Title)
+
+CIP Applications Contact (Name/Title) CIP Complimentary Copies Contact (Name/Title)
+
+More than one imprint used by publishing house?
+
+If yes, identify each imprint as listed on title page.
+
+IMPRINTS ISBN PREFIX
+
+LAST YEAR YEAR TO DATE PROJECTED FOR NEXT
+Number of non-serial titles YEAR
+published
+
+Projected number of copies of next title to be printed
+
+Number of copies to be printed during the 1st year if your next title is printed on demand
+
+List publishing house's three most recent titles
+
+Title No. 1 ISBN
+
+Author LCCN
+
+Title No. 2
+
+607-2b (rev 6/94)

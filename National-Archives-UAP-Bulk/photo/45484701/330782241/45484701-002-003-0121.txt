@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T14:24:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7384321, "source_ctime_ns": 1793362148818334293, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0121.jpg", "source_mtime_ns": 1785684717000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0121.jpg", "source_sha256": "beccdae2412f30daae15bba1e43c8e4751bbcd8e6d6b114a09ddb51348dc4f4b"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1059, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 5 —agIVEITYCAPT EAE
+Essential Elements of Inf
+Project "SIGN"
+%. Notes relative to observer on
+a, Sightings in general
+b. How attention was drawn to object (s)
+x Obtect called to informant's
+(h}tchoind by Mre. G. S. ART, who was sitting on the porch,
+(2) Motion
+(3) Glint of light
+Witnesses
+a, Addresses
+b. Oscupation
+c. Reliability
+Comments of interrogator re intelligence and character of person
+mnterrogsted,
+Relative to Radar Sightings
+
+radars how operating on ground
+
+Observations of range, speed, altitude and size of trgcet
+
+Docs target execute any turns? If so, what angle (1800) | ete,, and
+
+whet redius of turn, If radius of turn is not observable, how long
+did the terget stay in the turn °nd what was its speed?
+
+Note partizularly any separation of distant target into separation
+of 2 distant target into several targets upon spproach, Track all
+if possible,
+airborne when object sighted
+
+Were there any radar inductions or extra noise on radio circuits?
+
+Give estimates of size, speed, maneuvers, etc,
+
+Declassification Authority: NND 923007

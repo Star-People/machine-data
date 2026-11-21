@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:56:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1423609, "source_ctime_ns": 1793356083981108579, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0246.jpg", "source_mtime_ns": 1785564602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0246.jpg", "source_sha256": "b369c46535850f6aa42c536f848cfa931de1ff4785261a8c780a7b557e588c5c"}
+
+===== PAGE 1 =====
+{"alpha_words": 335, "chars": 2124, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(2)
+
+(3)
+
+Codesonde
+
+The modified radiosonde built by Brailsford and Co.,
+Rye, New York,called the codesonde,has been found
+valuable when knowledge of small variations in the
+height of the balloon is not required. Using this
+system, a radio transmitter is modulated by a Morse
+code signal which is a function of pressure (and
+temperature if desired). This system is useful for
+tracking a balloon with aircraft since no recording
+equipment is necessary for data interperlation.
+
+Each combination of dots or dashes may be identified
+by ear, and with a calibration chart, the pressure
+which corresponds to the balloon's height may be
+thus determined by anyone who can read Morse code
+with a suitable radio receiver. The advantages of
+using this system for a balloon which is to be followed
+by aircraft include the fact that it is necessary to
+receive only one complete code group tocompletely
+identify the pressure level of the balloon. It is
+thus possible to interrupt the period of reception
+without permanently losing the altitude record. It
+is expected that a balloon transmitter which can be
+followed with an aircraft radio compass will be used
+in conjunction with this pressure modulator, giving
+three-dimensional position data.
+
+Barograph
+
+Many balloon flights pass out of the range of even
+
+a network of receiving stations. When it is not
+possible, because of weather or other considerations,
+to follow the balloon with aircraft, a clock-edriven
+meteorograph may be added to the flight train to re-
+cord data, such as pressure and temperature. It is
+necessary to recover the balloon equipment to evaluate
+this sort of record. With inland release points,
+
+it has been possible to recover about 75% of all
+
+The model U-48 Lange barograph, shown in Figure 35,
+is designed to give a record of atmospheric pressure
+and the temperature of the barograph case. In order
+to obtain a maximum spread of the pressure record
+
+in the range at which the data is most useful, the
+linkages are arranged so that recording begins at
+about 500 millibars or around 19,000 feet, and may
+be continued as high as the balloon rises. The
+
+-64—=
