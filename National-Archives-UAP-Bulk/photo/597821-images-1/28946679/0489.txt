@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:08:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3632039, "source_ctime_ns": 1793373383143411447, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946679/0489.jpg", "source_mtime_ns": 1785688870000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946679/0489.jpg", "source_sha256": "b6c5abed36219e7130bce7710734d8d7f0ae7e51db7b2b32ac706aac8550b6af"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1022, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee a ee
+
+»
+
+CASS FR (conta)
+of first sighting due to = SOC report of visual sighting of unidentified flying obdjects.
+
+One F-51 airereft wae sent to sighting area for purpose of intercepting and/or
+identifying unknown targets. Whie-a/e-coow, Pilot did report visually sighting
+unidentified flying object but interception and/or identification was not possible.
+Tais action cecurred between 01508 and 02558.
+
+One F-51 aireraft was in em area 50 to 70 nautical mimmx miles S and 38E of
+45/158-92/38-5.4W between the altitudés of 6,000 to 10,000’ during the sighting period.
+ATIC Comments:
+
+Report indicates that anomalous propagation wag affecting the radar performance.
+This condition would allow detection of ground targets vhich are not normally detected.
+This vould not explain movement of targets unless veather conditions vere such that
+every target (ground) wee net detected in sach sweep of the antenna thereby causing
+an apparent movement of stationary targets.
+
+A fivm analysis enanet be made.
+Conelusions
+Uninown

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:41:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20362776, "source_ctime_ns": 1793357927914000440, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1717-583307-0012.tif", "source_mtime_ns": 1785564996000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1717-583307-0012.tif", "source_sha256": "6acf3182517f343b2396605e3aff28abccb0d3e69867d0ea5f33c46b9f7ff060"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 707, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+At about 04002, 6 August 1953, I saw an object about 20 miles West
+of the base. It was round and had a tail tapering off from it like a
+vapor trail. It was about 8,000 feet high traveling very fast to the
+Southwest. At 0430% I saw another object that moved from almost directly
+over me to the extreme Southwest where it disappeared. It has almost the
+same duerkcberieties as the first one except it was smaller and very high,
+(estimated over 40,000 feet).
+
+BOBBY J. BURGESS
+S/Sgt., USAF
+AF 24505907
+
+ASAF « Memo 2/1/73:
+
+¢/CHOF
+
+>
+» UO .&.Le”
+
+(Cancelled) _
+Classification (changed to) Bear
+By Auth CG, 29 Air Div (D) 42
+
+(Name) (Grade)
+
+a Pl ae Ste te %
+AK GJOI3U Rf
+
+Declassification Authority: NND 57565

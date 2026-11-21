@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:26:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7314394, "source_ctime_ns": 1793362301018168533, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0094.jpg", "source_mtime_ns": 1785685175000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0094.jpg", "source_sha256": "53d8fcf880ffd224748e41b9e8e970ac5efdda73daeb8c21390351d388fff25f"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 289, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+them that there is bound to be foundation of fact concerning them, just
+as the rockets which not so long ago appeared over Sweden.
+
+This statement is given to you for such evaluation as you see fit
+
+mg
+¥
+
+/s/ Gwynne Mosser
+
+Lt. Colorél, USAF
+
+J
+
+rs
+
+Declassification Authority: NND 923007

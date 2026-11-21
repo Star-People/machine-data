@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:43:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 83547364, "source_ctime_ns": 1793368089565424767, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179289USAF_002.TIF", "source_mtime_ns": 1785565900000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179289USAF_002.TIF", "source_sha256": "7582211716bfdc529c90c02ff52167e829269f63704279a427b4d45b32bda546"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 196, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+179289 USAF © SCIENTIFIC STUDY OF UFOs = Enlargements
+of UFO. imazes from photes 1 and 2.
+Lf ey
+(Plate #26)
+
+Copied from 8x10 print ree'd 1/13/69
+from SAFOI.
+
+Filed = UNIDENTIFIED FLYING OBJBCTS

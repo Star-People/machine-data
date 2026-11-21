@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:42:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21828893, "source_ctime_ns": 1793367617794218092, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0056.jpg", "source_mtime_ns": 1785565750000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0056.jpg", "source_sha256": "0744ae86c0594e522f437e0b85a61ea60c5791dc61edb7c72c988c59696a0e93"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 102, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pests Sterol et oats? Se Mv E
+Lier MESnnan Wuniawrere ve atn Mwave ao eaees
+
+Sl seein og cee cero eh

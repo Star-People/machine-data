@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:12:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4404242, "source_ctime_ns": 1793379019634540016, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970538/0379.jpg", "source_mtime_ns": 1785700936000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970538/0379.jpg", "source_sha256": "1f5ae0edd0a8a9ccee2b6394c22682ed9047a6ae12a9be166545549109274f56"}
+
+===== PAGE 1 =====
+{"alpha_words": 515, "chars": 3105, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+_ Because the top of the ALA-6 display corresponds to a bear-
+ing of 0°, the radar shown in Fig. 1 is dead-ahead of the airplane.
+If the center of the displayed pattern were at the 3 o'clock posi-
+tion, then the radar would be abeam of the airplane, on its right-
+hand side.
+
+As the aircraft flies along, unless the radar is dead-ahead
+or astern, the displayed bearing to the signal source will move
+DOWN-SCOPE, providing the aircraft 1s in straight/level flight.
+If the alrplane is turning toward the radar, then the bearing
+
+displayed will move UP-SCOPE. (See Fig. 2.)
+
+NORMAL OPERATION
+of AN/ALA-6 Elint
+
+As the RB-47 approached the coast in the pre-dawn hours of
+Direction-Finder
+
+July 17, ECM Monitor #2 (McClure) decided to check out his equip-
+ment. Beginning at the high end of the APR-9 frequency range
+(5,000 mc.), McClure worked down until he found an S-band signal.
+
+The signal had all the characteristics of a CPS-6B air defense A
+radar, one of several modeis then in use. (A slightly later ver- FIG, 2
+
+sion of the CPS-6B, known as the AN/FPS-10, had identical signal
+
+j characteristics.)
+
+It is important to note that McClure did not write down the
+specific frequency or other signal characteristics at this time,
+sO we are not certain of the precise frequency of the S-band
+signal involved in this first incident.
+
+VJRADITY
+
+The S-band signal even showed that the source was a scanning
+one, typical of radar. This is manifested by the brief appear- Posh
+ance, then disappearance, of the signal bearing display on the by.
+ALA-6. As a ground radar antenna begins to illuminate the Elint RADAR
+
+airplane, the signal is briefly displayed. Then, as the radar Pope
+antenna rotates to where it no longer illuminates the airplane, i oa,
+the signal displayed slowly disappears as the CRT phosphor de- oe
+cays. io
+exe
+2
+McClure was not surprised to see a signal with the charac- s
+teristics of a CPS-6B, as he explained to me, for he knew that ALA-6 R 4
+such a radar was installed near Biloxi, near the RB-47 position. Displa
+This radar was used in conjunction with an Air Force training
+school for ECM operators. Dn
+
+The signal was "mighty strong," according to McClure, as would be expected if it
+came from the CPS-6B radar at Biloxi. However, the bearing to the signal displayed on
+the ALA-6 showed the radar to be on the RIGHT-HAND SIDE of the RB-47, at roughly the
+S o'clock position. The Biloxi radar would be on the LEFT-HAND SIDE of the aircraft.
+The bearing displayed on the ALA-6 would place the unknown radar in the Gulf, and
+McClure knew there were no such shipboard radars.
+
+As the RB-47 proceeded toward Meridian, McClure noted another anomalous character-
+stic. Instead of the displayed bearing moving down-scope, it moved up-scope. McClure,
+knowing that such behavior could occur if the airplane were in a turn, says he called
+the pilot on the intercom to ask if he was maneuvering. The pilot replied that he was
+not. (This would confirm the fact that the incident happened near the coast rather than
+at Meridian, as Piwetz reports, because the airplane did turn west at Meridian.)

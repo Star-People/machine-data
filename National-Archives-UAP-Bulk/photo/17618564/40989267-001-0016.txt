@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:41:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19901882, "source_ctime_ns": 1793355434856230607, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0016.jpg", "source_mtime_ns": 1785564454000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0016.jpg", "source_sha256": "8812cbf9b9f8d8771ce613cc99e93eac8330c32755981cbb1b632de7e7f00983"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 193, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ie
+ba 4 ix
+
+yi
+Ne
+yh
+ved
+f
+2 \5 a
+i
+i
+
+Figure 12,
+
+Trajectory of Superpressure Balloon
+
+Flights P-27 and P-29
+
+SRE
+SS
+
+EY
+
+Se
+
+vine
+
+Figure 13. Trajectory of Superpressure Balloon Flight P-34

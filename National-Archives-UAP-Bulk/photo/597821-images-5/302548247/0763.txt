@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:55:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 840826, "source_ctime_ns": 1793390246243342562, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548247/0763.jp2", "source_mtime_ns": 1785808607000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548247/0763.jp2", "source_sha256": "26467de24c8780458d1acedbcfd934f7207dfeac96432485665055d74c92c71c"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 526, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4
+
+PROJECT 10073 RECORD
+
+le DATE - TIME GROUP
+26 Mar 66 27/0136Z
+
+2. LOCATION
+Preble County, Ohio
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+One
+
+10. CONCLUSION
+SATELLITE (ECHO IT)
+
+ECHO II North of the city 47 degrees above the horizon
+moving SE
+
+5. LENGTH OF OBSERVATION
+
+Three Minutes
+
+6. TYPE OF OBSERVATION
+
+Ground-Visual
+
+7. COURSE
+
+Easterly
+
+8. PHOTOS
+
+O Yes
+x&t_No
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+XE No
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Object appeared as a star only moving at a high rate of
+speed, 5 ;
+
+Multiple Reports

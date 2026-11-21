@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:21:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6362185, "source_ctime_ns": 1793361939022756136, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0023.jpg", "source_mtime_ns": 1785685161000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0023.jpg", "source_sha256": "47f279e6d050fe46a686d8f4977cc26ae59332f449506399c1564b0b540db113"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 267, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AT BL PASO, TEXAS
+
+1. On 6 damery 1949 a check of the criminal md subversive files
+of the local field office of the Federal Bureau of Investigation was made
+and revealed no information pertaining to JOHN C. FAIRCHILD.
+
+J
+
+RU ¢
+
+Declassification Authority: NND 923007

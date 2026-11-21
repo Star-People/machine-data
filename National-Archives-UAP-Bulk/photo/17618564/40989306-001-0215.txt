@@ -1,0 +1,119 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:06:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2500095, "source_ctime_ns": 1793356186658919094, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0215.jpg", "source_mtime_ns": 1785564631000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0215.jpg", "source_sha256": "c4203201ae2d12c1884b72b454056124059f6510b347f996b7f29d2bce119d05"}
+
+===== PAGE 1 =====
+{"alpha_words": 708, "chars": 4361, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TM 11-444
+Par. 34
+
+SIGNAL CORPS
+
+34, MICROPHONE T-21-(*).
+
+The condition of the amplifier and the condenser head of a
+microphone can be checked by substituting parts of a microphone
+known to be in good condition, and comparing results. If a con-
+denser head is faulty, the defect may be caused by a direct short
+in the condenser head, or by a faulty diaphragm. If it becomes
+necessary to change the diaphragm of the condenser head, clamp
+a square sheet of new diaphragm material securely in Clamp MM-7,
+and place it over the opened condenser-head chamber, the rim of
+which should be slightly oiled and free of grit or any other foreign
+particles. Place weights aggregating 30 to 40 pounds on the
+periphery of the clamp, or suspend them from the holes at the
+corners of the clamp. Two microphones with their amplifiers re-
+moved may be used for weights; suspend them from two opposite
+corners of the clamp. Dust the top face of the diaphragm carefully
+to remove any dust or other particles, locate the dowel pinholes
+by gently rubbing the rim of the chamber with an eraser. Place
+the head over the diaphragm and screw it down, taking care to
+tighten every fifth screw in turn, starting from any given screw.
+lf the amplifier is at fault, check battery voltages under load, and
+install new batteries if necessary. Tubes known to be in good con-
+dition should be installed. The relay contacts may be cleaned and
+adjusted with Tool Equipment TE-37. With the microphone in
+operating position (handle up), adjust the amplifier relay as
+follows:
+
+a. The armature should move freely on its bearing surface but
+must not be loose.
+
+b. Set the residual adjustment screw to give not more than
+OOl-inch clearance between armature and pole piece, when the
+armature is held firmly against the pole piece.
+
+Turn the adjusting screw on top of the relay to obtain a
+learance of .012-inch between the residual screw and the pole
+piece, when the relay is in normal position.
+
+Place a .006-inch feeler gauge between the residual screw
+and the pole piece, holding the armature firmly against the gauge.
+Adjust the heavy contact spring so the contact is barely touching.
+Thig allows the armature to travel .006-inch while the contact
+makes after the feeler gauge is removed.
+
+ec. With the amplifier in normal position (handle on top), the
+tension on the thin contact spring should be increased, so the relay
+
+52
+
+ine pRMa RAR tlic Mia hots tetéeia HCN FE BAF OB Mae 9 Ny
+
+TM 11-444
+Pars. 34-36
+SOUND RANGING SET GR-3-C
+
+will not operate on 40 volts, but will operate on 50 volts. Be sure
+to maintain the above clearances.
+
+f. When the relay is properly adjusted, the contacts will remain
+open for all possible positions of the microphone when it is not
+energized.
+
+g. If the faulty operation is not corrected by the above pro-
+cedure, make a complete check of the circuit with Test Set 1-56-C.
+
+35. CONTROL BOARD BD-85-(*).
+
+Normal readings on the meters of Control Board BD-85-(*),
+with the test key on CIRCUIT TEST, are as follows:
+
+Plate voltage—90 volts.
+Station battery voltage—24 volts.
+
+Station battery current—0O ampere (current drawn by timing fork
+is too small to register).
+
+Recording lamp current—3.0 amperes approximate (dependent
+on rheostate setting).
+
+Outpost current—up to 15 milliamperes (varies with length of
+line.
+/
+Microphone channel plate current—4.0 milliamperes.
+
+Observe the station battery voltage and current during operation
+of the recording motor and cutter. If the station battery is dis-
+charged, or if one or more cells have high internal resistance, the
+battery voltage under load will drop to considerably less than 24
+volts. This will cause improper functioning of Relay Unit BK-9-(*)
+and other equipment operating from the 24-volt source. A similar
+reduction of voltage may be caused by poor contact at the battery
+connections, binding posts, or plug and socket connections. In case
+of failure, check all battery voltages and connetions, and replace
+fuses where necessary. If the fault is not located by the above pro-
+cedure, check the circuits with Test Set I-56-C.
+
+36. RELAY UNIT BK-9-(*).
+
+a. Inspect the relays periodically. Clean all dirty contacts, using
+Tool Equipment TE-37, and if contacts are badly pitted or burned,
+
+53
+
+nc RG NAAR AG SALTON AAT 2 AM RCE a ee ee ee wee Ti re i
+
+MMR MEN A AIA ARERR ES NT
+
+SANE PA AP
+
+SLAIN ANAT IENN

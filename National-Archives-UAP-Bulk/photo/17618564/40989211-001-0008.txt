@@ -1,0 +1,104 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:17:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5572091, "source_ctime_ns": 1793354474565395944, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0008.jpg", "source_mtime_ns": 1785564291000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0008.jpg", "source_sha256": "ce01179c344ebf57dd79d7affd4e55450f7aa0aa6fbdfe6e8fc457f058f6e20e"}
+
+===== PAGE 1 =====
+{"alpha_words": 780, "chars": 5151, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+physics, rain size distribution, and associated topics. AFCRL
+would supply a radar and furnish funding.
+
+McKinley, Marshall and Cullwick were enthusiastic. McKinley
+wanted an additional radar for NRC so that he could expand his
+radar studies of meteors. (1 agreed.) Currie thought that the radar
+observations might (could?) fail and seemed reluctant to agree. On
+this point we decided to review the matter the next working day
+after everyone had had a chance to think things over. Marshall
+was delighted and accepted on the spot. (The radar for McGill was
+of the nodding type, called the “tipsy nine’? — TPS9. AFCRL
+provided funding for what became the “Stormy Weather” project
+of McGill.) In the following meeting, all agreed with the
+proposals. I now had more paper work.
+
+First Class Travel, Baker Lake, November 1946.-Ice three feet thick
+
+5. The Auroral Program
+
+Some time elapsed before | arrived at Saskatoon with an outline
+(essentially a shopping list) of spectroscopic and radar research
+topics that should be pursued. The major items included accurate
+identifications, temperature deductions from the nitrogen rotational
+lines, altitude determinations (using Currie’s observations at
+Chesterfield Inlet during 1932). observations of sunlit aurora,
+spectra of “auroral primaries,”’ correlation of optical and radar
+observations, emission altitudes, and electron densities in ionized
+aurora. Petrie had a few additional items which we incorporated.
+The three of us, in two half-day sessions, went over the items
+methodically and in some detail. For each topic we considered the
+feasibility, value, method of attack and the necessary equipment.
+It was obvious that for a definitive indentification of the auroral
+and airglow emissions additional flat field Schmidt cameras (designed
+by A. Meinel of Yerkes Observatory) were needed, I agreed to
+have him construct these cameras for both Saskatoon and our
+internal studies at AFCRL.
+
+During the visit, I made the usual inspections: the laboratories of
+the Physics Department, the spectroscopes, the instrumentation
+on the roof and in the field. Again | became acquainted with the
+operation of equipment outdoors during cold winters. On leaving
+Saskatoon several days later. | had the distinct impression that
+both Currie and Petrie were overwhelmed by the prospects (Some
+years later, the Upper Atmospheric Research Institute was estab-
+lished at the University. Currie used to introduce me as its grand-
+father.)
+
+Back in Massachusetts, I prepared a contract of considerable
+flexibility to cover not only the paths that we felt were clear but
+also those that invariably are uncovered by ongoing research.
+Further, to insure that the studies would not be subject to wild
+funding gyrations, | obtained a five year contract — either the
+only one, or one of a very few. of that duration ever issued by
+
+JE OIRIL,
+
+mye Set a tt a ee
+
+La Physique au Canada 5
+
+Ice fishing, Baker Lake, November 1946 The fish was for the sled
+dogs. We ate canned vegetables, canned hot dogs, canned butter, etc.
+
+It may be of interest at this point to note my rationale for concen-
+trating auroral research at the University of Saskatchewan. The
+answer is relatively simple; competence and location. I had a
+favorite phrase at that time: “you do not fish in the desert.” Thus,
+I did not become involved with the efforts at Cornell or Colgate.
+With respect to the University of Alaska, although the location
+was good, specialists were absent and could not be readily attracted.
+Indeed, I made a conscious effort on a trial basis and shipped one
+of the identical 106 MHz radar (that had been dispatched to
+Saskatoon) to the Geophysical Institute. Fairbanks. In addition,
+funding was provided. The results were disappointing and I ter-
+minated our involvement.
+
+An unexpected development later occurred that caused me some
+worry. Bill Petrie’s wife never liked the winters at Saskatoon,
+and he finally departed for the warmer climate of Ottawa and
+DRB. After the move he pressed me to transfer the flat field
+Schmidts to DRB so that he could use them at Churchill. I felt,
+however, that they should remain at the University where there
+was a vibrant and interested staff and a source of active graduate
+students. I am not certain that Bill ever fully accepted or liked the
+decision to retain the equipment at Saskatoon.
+
+6. Excitation Mechanisms
+
+A notable lack of information. that obscured the interpretation of
+atmospheric emission spectra, existed in the excitation transitions
+involved. There was little ongoing research in this field. It seemed
+to me that physics had by-passed relatively low energy atomic and
+molecular reactions and collisional processes and had instead
+rushed pell mell into examining high energy nuclear interactions,
+(The reasons were obvious.) Further. past laboratory studies for
+atmospheric species had been spotty and unsystematic. Possibly the
+most recent laboratory studies relevant to atmospheric emissions
+were those of Kaplan at UCLA and Vegard in Oslo (on nitrogen
+spectra and afterglows). Current work was essentially absent. In
+effect, there was no concerted effort in this field.

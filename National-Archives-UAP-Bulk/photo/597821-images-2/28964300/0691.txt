@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:09:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3863010, "source_ctime_ns": 1793377559768639830, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964300/0691.jpg", "source_mtime_ns": 1785696870000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964300/0691.jpg", "source_sha256": "abb78e89e8e70f3f6a15b953d07fa87b305074cd22b309dbe694cff02f35eb71"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 728, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+By2uY WPD114 TYCiszioBgS7 ees
+00 RJEDUP
+DE RJEPHO S28.
+O 2619302 —— (« =
+FM COFS USAF WASHDC  ——— 2f £6
+7G COMDR ATIC WPAFB OHIO ———  .
+FM COMDR. MAXWELL FLIGHT SERVICE CENTER MAXWELL AFE ALA ———~
+TO RJEDEN/COMDR ALK DEFENSE COMMAND ENT AFB COLORADO SPRINGS
+COLORADO —
+RUEPHO/CHIEF OF STADE USAF WASHIMETON BC
+
+RB: EGC/COMDR SASTZNI SA FRONTIER NEWYGRK N Y
+
+BT
+CIRVIS REPORT FROM NATS4S629 ONE UNIDENTIFIED FLYING OBJECT
+SIGHTED OVER MARIANNA FLA AT S1@0E AIRCRAFT RADAR PD OBJECT AT
+15469 FT OVER MARIANNA FLA PD OBJECT PROCEEDED TO MONTGOMERY ALA
+CLIMBING TO 39069 FT ELAPSED TIME OF OBJECT FROM MARIANNA FLA
+
+TO MONTOGOMERY ALA FIVE MINUTES PD OBJECT PRESENTLY OVER MAXWELL
+
+AFB SIGNED GOLINSKY END
+BT
+G6/Z647Z DEC RJESYQ
+
+a

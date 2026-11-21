@@ -1,0 +1,120 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:39:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18246157, "source_ctime_ns": 1793355701457022719, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0138.jpg", "source_mtime_ns": 1785564505000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0138.jpg", "source_sha256": "73c851f0742fe264afaf5f6b41deeecc4d1f77b1132a97053a0f2f7938f752fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 530, "chars": 3868, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+262
+
+The condition of constant mixing ratio dictates continuously lowering frost point
+with increasing altitudes.
+
+More recently, several American, Japanese and a few British investigators
+have observed mixing ratios of the order 80 to 120 mg/kg with continually increas-
+ing frost points up to 100, 000 feet (Gutnick, 1962). Early Naval Research
+Laboratories measurements showed a relatively moist stratosphere, but these
+experiments are now being questioned. NRL now believes their recent dry sound-
+ings to be more representative of the truth and lean toward a 1- to 4- mg/kg mixing
+ratio (Mastenbrook, 1964). The dot-dashed line in Figure 1 is an average of all
+frost-point data available, both dry and wet, which was prepared by Gutnick of
+AFCRL about two and a half years ago. The dashed curve on the left presents
+frost points associated with the British theory of constant mixing ratio above the
+tropopause. At 32 km, roughly 100,000 feet, the difference in the frost points,
+-70°C and -98°C, yields a 100-fold difference in water vapor density. AnIR
+signal that would be attenuated in 100 miles, assuming the British dry profile,
+would be lost in one mile if average conditions were encountered.
+
+As author of a chapter on the upper atmosphere for a forthcoming World
+Meteorological Organization publication, outstanding British meteorologist,
+
+R. G. Murgatroyd, one of the scientists responsible for the constant mixing ratio
+
+"!
+
+theory, now states: "...our knowledge of the distribution of water vapor above
+
+the lower stratosphere is very limited and there is urgent need for accurate
+measurements, "
+
+Recognizing the problem, AFCRL's Laboratory Director approved a special
+experimental program for resolving the stratospheric humidity controversy. The
+total AFCRL effort involves the development of a new humidity- measuring instru-
+ment, studying the problem of contamination due to outgassing during a flight, and
+
+an ambitious program of collecting humidity data during a one-year period.
+
+2. SENSORS AND INSTRUMENTATION
+
+Humidity measurements are very difficult to make in the lower stratosphere.
+Because of the extremely cold temperatures present, water-vapor density (the
+physical parameter that must be sensed to measure humidity) even for saturation,
+is five orders of magnitude lower than for cold winter surface conditions.
+
+Sensors that have been used are the manually-controlled, optical dew pointer,
+automatically-controlled optical dew pointers
+
+, cold-trap and chemical-absorption-
+sampling devices,
+
+and infrared sun-seeking spectrometers.
+
+ALTITUDE
+(km) 25 US Standard -
+
+/
+Atmosphere
+
+popause
+oh eee
+i ey nt te
+ite
+
+FROST POINT PROFILE
+
+=
+
+OBSERVED POSTULATED SOURCE rhe ten
+
+isduini) bebaiieedoneeos i British) Meteorological blights
+Gutnick (AFCRL, 1962)
+
+MO -100 a -60 -50 -40 -30
+
+TEMPERATURE (C)
+
+Figure 1. Controversy Concerning the Amount and Distribution
+of Stratospheric Humidity
+
+lat-
+Attempts to operate several types of instruments from the same balloon pla
+
+; ae k
+form have been plagued by complexity of the experimental setup so that neither
+ults of different instruments nor a real check of
+
+real synoptic comparison of res A eel
+
+ined.
+basic calibration at extremely low vapor pressures has been obtain
+
+ompare instruments under controlled conditions, bu
+-100°C are reached
+
+t there
+solution would be to c
+
+have been no chambers available in which frost points of -80° to
+
+and maintained. | | |
+developed a chamber for testing and calibrating
+
+eywell, Inc., xa
+Muar hind quae ometers in support of their instru-
+
+low-pressure, low-temperature frost-point hygr AEP point 3
+mentation effort. AFCRL is now in process of obtaining a similar cham ‘3
+d comparisons of several types of instru~
+
+e some vali é
+Hopefully, we may soon hav f their resulting observations.
+
+fe)
+ments and be able to make a more careful assessment

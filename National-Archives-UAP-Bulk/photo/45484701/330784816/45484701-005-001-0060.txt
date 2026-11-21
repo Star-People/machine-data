@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:24:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6761496, "source_ctime_ns": 1793363221082614307, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0060.jpg", "source_mtime_ns": 1785684639000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0060.jpg", "source_sha256": "8a8db7a803dffffc1eba4dc6e5ea4ade0934631842922bc8156690f6c502eb0e"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 238, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8. Mr. Rhodes has taken no particular interest in the subject of
+flying saucers. His reading along that line has been confined to occasional
+newspaper stories regarding unidentified serial objects.
+
+Declassification Authority: NND 923007

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T13:00:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1686145, "source_ctime_ns": 1793391199025667788, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556193/1371.jp2", "source_mtime_ns": 1785808198000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556193/1371.jp2", "source_sha256": "d06f06da439bf19bc4f9372a25cd67e3982b0e4fef723b4947c0689705d75091"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 786, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+t \ (hk : a ; ‘ /
+UNCLASSIFIED 21s >
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+« : INCOMING MESSAGE
+AF IN: 51163 (29 Sep 66) Q/udil a Pa 1 of 4
+ACTION: RDC-4 INFO: XOP-1, XOPX-2, SAFOS-3, NIN-7, DIA/ICS-1, SMB-1 |
+gy, ib ee
+
+SMB B10S CW B35
+
+PFTU JAW RUEDVXDO 790 272043 7-UUUU-=R UED HOA «
+DE RUHLKM 8648A 2720233
+
+ZNR UUUUU
+
+BT
+
+UNCLAS SVC ZUI RUEDHQA 3331 2720020 ZDK RUH
+P 2819302
+
+PP RUEDFIF RUED HOA
+
+DE RUHLKM & 2711937
+
+ZNR UUUUU
+
+P 21302 SEP 66
+
+FM PACAFRASECOM BDO |
+
+TO RUVNEVA/ADC EMT AFB COLO
+
+RUEDFIAZAFSC FTO WRIGHT PATTERSON AFB OHIO
+RUEDHQA/H2 USAF AININ WASH 25 DC
+
+RUEDHQA/SECRETARY OF THE AIR FORCE WASH 25 OC
+
+BT
+
+UNOLAS PACAFBSSECM (BDO-1) 1484
+
+To UNIDENTIFIED FLYING OBJECT REPORT CAFR 200-2)
+A. DESCRIPTION OF THE OBE CI
+
+AFHO iinss O-309C UNCLASSIFIED

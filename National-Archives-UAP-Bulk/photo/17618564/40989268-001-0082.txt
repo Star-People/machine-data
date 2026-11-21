@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:37:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16981200, "source_ctime_ns": 1793355644128675312, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0082.jpg", "source_mtime_ns": 1785564495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0082.jpg", "source_sha256": "7d82a11d1077799d637a4150f569f08f70f6636d5a5f369088c9b026093194b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 434, "chars": 2770, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+STRATOSCOPE
+Ir
+
+Figure 13. Stratoscope Il
+
+Material-deformation devices were a fairly straightforward choice once the
+advantages and disadvantages of the other classes of devices were considered. We
+investigated both paper honeycomb and several plastics and chose a plastic because
+the honeycomb seemed to offer no significant weight or cost advantage, and suffered
+from the limits on nonvertical landings described before.
+
+The Stratoscope II crash pad has evolved as a result of a series of changes in
+the payload weight. Initially conceived as 4500 pounds, it is now 7300 pounds. Our
+first crash pad tested was made of Styrofoam 22, and the test results showed that
+this material required a footpad area-to-thickness ratio somewhat too small to
+accommodate the buckling forces associated with the horizontal wind drift to be
+anticipated.
+
+In our search for a plastic which would give us an acceptable area-to-thickness
+ratio as well as the low peak stress desired, it was decided to test Armalite.
+
+This material is one of a variety of foamed plastics which were developed
+primarily as insulation materials. Tests with the Armalite were encouraging, so a
+new pad was designed of it, incorporating several innovations to help solve the
+
+problem of nonvertical landings. An idea suggested by our Program Technical
+
+Director, Dr. Schwarzschild, was to have the pad carry along its own sliding surface.
+
+In this way we hoped to absorb by friction some of the horizontal component of the
+
+151
+
+impact energy while giving the pad time to absorb the vertical component before
+buckling. Straps were placed around the pad to assist in containing any chunks of
+foam which might break off.
+
+Figure 14 shows the present Stratoscope II Crash Pad. An aluminum sheet is
+inserted above the 4-inch-thick lower pad and provides the sliding surface just
+mentioned. The lower pad is held on by relatively weak bungee so that some motion
+
+of that pad is permitted. You will notice the center of the foam is cored out to give
+the desired footpad area.
+
+Figure 14. Stratoscope II Crash Pad
+
+On the first scientific flight an 8000-pound load was landed on parachutes at an
+impact velocity of about 16 feet-per-second. Horizontal motion was negligible and
+Figure 15 shows the pad after impact. These artists' renditions, by the way, are
+based on the reassembled pieces of the pad after impact. The initial volume of this
+pad is about 16 feet”. The acceleration applied to the telescope was calculated in
+this case to be slightly less than 4 g's.
+
+On the second scientific flight the 8000-pound payload was controlled to a land-
+ing at about 12 feet-per-second. There was very little horizontal motion but we
+
+landed on the side of a hill and in Figure 16 you can see the uneven compression.

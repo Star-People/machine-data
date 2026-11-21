@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:54:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 792978, "source_ctime_ns": 1793391291919848402, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557415/0965.jp2", "source_mtime_ns": 1785808376000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557415/0965.jp2", "source_sha256": "99256d37e15dbf940ee1e49fc366a95cb12bf5b88e5501410020d012a0a1a322"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 739, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Physical Evidence: Were photographs taken or was any physical evidence
+of the object left behind? (Note: If the caller says there is physical
+evidence still present, contact Wing Operations Duty Officer through CAC,
+Ext 493, or the Air Police, Ext 408, immediately).
+
+po
+
+Weather:
+(Observer(s) account of weather conditiors.
+CLEAR
+THIS IS THE END OF QUESTIONS FOR THE OBSERVER. RECORD ANY
+
+OTHER COMMENTS HE MAY WANT TO ADD. THANK HIM (HER) FOR
+CALLING.
+
+WHEN THE CALLER HAS HUNG UP, CALL BASE WEATHER AY EXT, 483
+FOR THE FOLLOWING INFORMATION:
+
+WIND DIRECTION VELOCITY IN KNOTS & DEGREES
+320° “dit
+
+SURFACE:
+6, 000"
+
+10, 000!
+
+16, 000"
+
+20, 000"
+
+30, 000"
+
+40, 000"
+
+50, 006"
+
+80, 000"
+
+Note: Weather questionaire
+4 continued on page 5,

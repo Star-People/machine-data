@@ -1,0 +1,141 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:37:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16843872, "source_ctime_ns": 1793355582657603857, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0021.jpg", "source_mtime_ns": 1785564483000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0021.jpg", "source_sha256": "286709f3d95806c8e7f5fb782a777800880a139131efb48bbe420a63177f4018"}
+
+===== PAGE 1 =====
+{"alpha_words": 794, "chars": 5207, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+28
+
+th i
+we have seen a considerable advance in capability with such accomplishments
+as lifting payloads of 150 pounds to 150,000 feet and some 15,000 pounds to medium
+
+altitudes. Along with this has come some improvement in reliability, but not as
+
+much as could be desired. The advances which have been attained were made
+
+possible by the development of better designs and better materials. Since balloon
+
+users are continually seeking greater lift and altitude capability, this process of
+betterment must be continued.
+
+Much effort has been expended in recent years developing sophisticated
+
+reinforced balloon materials. These are very excellent materials in their
+
+proper application, but there is no evidence that they can or should be used in
+
+the general i
+g area of “workhorse" balloons. Current work on improved low-cost
+
+iims 1S more apropos to the majority of balloon experimentation and should
+lead to a worthwhile advance in the state-of-the-art
+
+In spite of improved materials that may be available now or in the future
+
+some capability limit exists with the designs now inuse. Therefore, if
+7 | A ; we
+
+are to obtain the maximum growth in the technology
+
+the design as
+problem must not be neglected. CREAR Odie
+
+The work reported on here aims at learning
+
+more about stresses in partially-inflated balloons. The results of these studi
+ies
+
+should permit the formulation of designs superior to contemporary types
+
+2. MODEL TESTING
+
+hel
+e greatest hazard to the polyethylene balloon is ascent through the tropo-
+
+e
+aon to only a small fraction of its full volume, that a large majority of
+allo i , ; CLL 0
+see on failures occur. Thus, if designs are to be improved, it appears
+ial that more information be gai : essen-
+ained on . ;
+balléona’ 8 stress patterns in partially inflated
+
+certain amount of this information has, and can, be obtained by phot
+’ pnotog-
+
+Py Perea concen telescopic cameras, and soon -- or
+vation from manned flights or escort aircraft
+
+raphy -- up cameras, internal cameras
+f )
+
+bat Such, data,
+useful, present only a small part of the information necessary. Al
+: so,
+
+the occasion i
+S are infrequent’ wh
+en such techniques.
+of observation
+may be
+
+employed.
+
+3 c
+
+Cambridge R A
+ge esearch Laboratories has sponsored a scale-model i rr
+program utilizing ''water models"! oo See een
+
+- Sporadic water -model tests had been conducted
+
+by various groups in the past, but no specific effort was known which tried to
+establish meaningful model laws. Itis expected that eventually, as a result of the
+current program, many facets of balloon performance will be predictable through
+
+model testing.
+
+To provide the greacest realism in the test method, a large water tank was
+
+"
+
+constructed so that the buoyant envelope would act in its denser ''atmosphere'’ much
+
+as a real balloon does. This facility eliminates the typical problem of air-water
+intermix usually present in suspended, water-inflated models and it also allows for
+eventual testing with other combinations of atmosphere and buoyancy media.
+
+The water tank is an octagonal structure seven feet across the flats and eight
+feet deep (Figure 1). Each inflation test is recorded photographically with still and
+time-lapse cameras. The degree of inflation is determined by measuring the lift
+with a load cell whose output is recorded during the test run.
+
+The work which has been completed to date was primarily for comparisons and
+background information and to establish a foundation for future analyses. In this
+effort, a large number of scale-model balloons have been inflated to rupture. The
+data collected include ultimate lift at failure, shapes at various degrees of inflation,
+and the location and nature of the rupture. A comparison was made between six
+different balloon designs, three of which were taped and three tapeless. The burst
+values correlate quite well with known or derived values for full-scale balloons.
+
+A good deal of additional numerical data will be required, however, before quanti-
+tative analytical steps can be taken to make accurate predictions of the performance
+of new balloon designs. While these data are being acquired, we can still make very
+
+good use of the qualitative results of the tests which have been run.
+
+3. BURST MODE HYPOTHESIS
+
+It appeared significant in the model failures that rupture almost invariably
+occurred on the top, nearly-flat region of the bubble. A search through eye-
+witness accounts and photographic records of actual balloon failures reveals that
+the little tangible evidence available seems to indicate that these also occur near
+the very top. No evidence was uncovered which would point to any other area as
+being the initiation point for failures.
+
+In the models, the failure was predominantly the result of transverse stressing.
+This seems incongruous at first since a natural shape balloon by definition cannot
+have transverse stresses. Also, there is obviously surplus material in the bubble
+which should be available to relieve the stressed area. The answer to the first
+statement is, of course, that the shape of a typical balloon at launch is not like that
+
+of a theoretical sub-pressure balloon. The vast excess of material tends to form
