@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:28:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5497505, "source_ctime_ns": 1793355084364867034, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0020.jpg", "source_mtime_ns": 1785564390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0020.jpg", "source_sha256": "d921530604eef8d728618d73d753361678294eb01b7b114e1e070eafbfdf5ac2"}
+
+===== PAGE 1 =====
+{"alpha_words": 236, "chars": 1530, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+August: Rated Number 1 and 2 in the cancellation studies, with
+
+only one cancellation for surface winds in 95 attempts. It exhibits
+gradual improvement over July in most variables.
+
+September: Thunderstorm activity depletes rapidly after the first
+ten days, but the hurricane season can make downwind cloudiness marginal.
+It has the deepest tropopause but is second to May in light float winds
+and ranks most favorable in combined surface winds and cloud coverage.
+Float winds begin to switch back near end.
+
+October: Has long duration clams, a warming tropopause and light
+float winds in the low stratosphere. Above 100K, the winds pick up
+rapidly in the second half of the month from the west.
+
+November: The best month in the year for night launches, a very
+erratic month, ranking supreme some years, except for downwind weather.
+
+December: Deteriorates in all variables except in afternoon surface
+winds. Like November, it can vary markedly from year to year, and a 24
+hour manned stratosphere flight was made in the middle of the month, with
+easterly flow aloft.
+
+3. FLIGHT CATEGORIES
+3.1. The Basic Research Flight
+
+The most common species of CLB mission, sees a simple ascent to
+altitude, with a float at peak altitude, encompassing all available day-
+light hours. The launch is performed at the time of minimum surface winds,
+generally close to sunrise. Flight termination is planned, allowing 30
+minutes for parachute descent, and about two additional hours of sunlight
+
+for the recovery crews to be guided in. Assuming

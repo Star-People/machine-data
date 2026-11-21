@@ -1,0 +1,92 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:47:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17320260, "source_ctime_ns": 1793355555815743051, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0141.jpg", "source_mtime_ns": 1785564476000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0141.jpg", "source_sha256": "6cc67909eddabccd15d94b1c892f59a9b15418e20d8bc4b4309c86219c256805"}
+
+===== PAGE 1 =====
+{"alpha_words": 533, "chars": 3741, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Some reference on infrared stellar photometry are: from a publication cited
+before, ''An Infrared Technique for Stellar Photometry'' by D. J. Lovell and
+G. R. Muzailia; and "Stellar Irradiance Measurements," final report of ITT
+Federal Laboratories of January 1963, The latter report includes an excellent
+bibliography of recent and earlier work in the field. A paper directly applicable
+to infrared stellar photometry from high altitude vehicles is ''High Altitude
+Atmospheric Transmission Measurement" by F. Stauffer and J. Strong which
+
+appeared in Applied Optics, Vol. 1, p. 129, March 1962,
+
+1.3 Environmental Testing
+
+All components have been individually tested under conditions simulating the
+temperatures and pressures during a balloon flight. The environmental test
+procedures included testing experiments in the final configuration prior to mounting
+on the telescope, mounted on.the telescope and in conjunction with the stabilization
+system, and, finally with the experiments, telescope, and stabilization system
+mounted on the gondola. The latter test was conducted in a chamber at Wright-
+Patterson Air Force Base with the pilot and observer aboard: The observer was
+able to perform certain operations as a test with the telescope and experiments.
+All components outside the gondola were tested for their operation at - 40°C or
+below and pressures equivalent to 80,000 ft. or above. Components installed in
+the gondola were tested at temperatures of - 20°C or below and pressures
+equivalent.to 3Q, 000 ft.
+
+Because of power, weight and space requirements, it was not possible to
+control the temperature of the PbS cell in the infrared photometer. The above
+also ruled out incorporating a radiation standard such as a black body source.
+
+This made it necessary to calibrate the sensitivity of the cell with temperature.
+This was accomplished by installing the infrared photometer in a cold chamber
+
+and piping light from a standard tungsten lamp to the photometer. A sensitivity
+
+versus temperature curve is shown in Fig. 5
+
+1.4 Ground-based Observations of Stars
+
+In order to establish the workability of the instruments in observing stars and
+to furnish comparison data with that to be obtained from a flight, a continuing
+observing program from the ground was conducted. In addition, an observing
+program just prior to a flight attempt was devised which included stars to be
+observed during the flight. The program included observations taken with the
+telescope mounted on an equatorial mount, on the stabilized mount, and finally on
+
+the gondola in order to be able to detect any interaction between components of the
+
+|
+|
+|
+|
+1
+t
+|
+
+lelo we. LAM
+
+}
+
+O50 : ne 30 ~20 -10
+
+Figure 5. Temperature Sensitivity Curve of the Infrared Photometer. Ordinate
+ig in Arbitrary Units.
+
+integrated systems. Figure 6 shows the telescope as used for ground observations.
+
+After being mounted on the gondola, a swing test was held to simulate possible
+motions of the gondola. Data was taken on stars to furnish a direct comparison
+
+of ground data with flight data and, again, to test for possible detrimental inter-
+
+actions between the various systems. Also, the observer obtained practice in
+
+handling the telescope and performing the experiments with the gondola in motion.
+
+Usually, the flight personnel were aboard and suited up as they would be for an
+
+actual flight. i
+fa scintillati ‘igure 8 shows a set O
+Figure 7 shows an example of a scintillation run and Figure« 8s
+
+: Q ing" i 5 as c ; e ground,
+out-of-focus ‘seeing’ images as taken irom the 2
+
+; pe serve seeing ¢ scintillation from the
+Instruments were developed to observe seeing and scir
+
+ground while similar observations were being obtained at altitude during a flight.

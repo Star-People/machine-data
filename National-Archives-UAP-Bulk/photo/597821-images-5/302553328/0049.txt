@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:58:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1679115, "source_ctime_ns": 1793390764576738424, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553328/0049.jp2", "source_mtime_ns": 1785808333000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553328/0049.jp2", "source_sha256": "c978f9bf97b55ec2031270c021b318505f138ebdc6a41e57e20808a47f4b9380"}
+
+===== PAGE 1 =====
+{"alpha_words": 176, "chars": 1185, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+U.S. DEPARTMENT OF COMMERCE
+ENVIRONMENTAL SCIENCE SERVICES ADMINISTRATION
+WEATHER BUREAU
+SILVER SPRING, MD. 20910
+
+August 26, 1966
+-INREPLY REFER TO: 1321
+
+Major Quintanella
+
+Foreign Technology Division
+
+Attention: TDEW
+
+Wright Patterson Air Force Base, Ohio 45433
+
+Dear Sir:
+
+Your office was suggested as possibly being able to identify
+or assist in the identification of the object or source of the
+object described in the copy of the attached letter recently
+received from the Director of the Canadian Meteorological
+Service.
+
+From the description it would appear that the object was some
+sort of constant density or pressure level type of balloon.
+However, we do not know of any balloons of this type being
+released in the Northern Hemisphere at this time.
+
+Port Harrison is located due east of Churchill across the
+Hudson Bay where rezular radiosonde balloons are released.
+These balloons expand to a much larger size at 20,000 feet
+than noted in the description in the letter and probably
+never cross the Hudson Bay before bursting.
+
+We appreciate any assistance that can be given.
+
+Sincerely,
+
+Special Assistant (Polar)
+Overseas Operations Division
+
+Attach.
+cpy itr dtd 8/9/66

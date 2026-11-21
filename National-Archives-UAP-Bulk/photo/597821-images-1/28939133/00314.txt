@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:09:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4258093, "source_ctime_ns": 1793371616963967864, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939133/00314.jpg", "source_mtime_ns": 1785688615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939133/00314.jpg", "source_sha256": "0385cab3718c816b1aae129b80630ab95799fc2557e803e6ba62383695fdacb1"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 349, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+6 Mar. 1952 he Report from four los Alamos personnel of very bright
+
+object crossing sky. Also observed by two Kirtland AFB
+pilots who reported this as a meteor; time - 14:30; reported
+by Dr. la Paz to be a detomating fire-ball. No fragments
+
+recovered.
+
+DOWNGRADED AT 3 YEAR
+DECLASSIFIED AFTER 12 YEARS
+
+UNCLASSIFIED DOD DIR 6200.10
+
+RFC
+
+icfeoot

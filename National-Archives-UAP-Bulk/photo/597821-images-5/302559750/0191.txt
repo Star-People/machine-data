@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:51:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 826935, "source_ctime_ns": 1793391582921618898, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559750/0191.jp2", "source_mtime_ns": 1785808559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559750/0191.jp2", "source_sha256": "992bab7010eee0646a4c52245dbe5f41eeea809678723c1d557312341447fcf7"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 386, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MEMO FOR THE RECORD: 17 April 67
+
+Conversation with Major Nyls revealed that he made the model
+with about 4 inch diameter balsal wood, The top and bottom
+were painted a light gray while the band around the middle
+was a darker gray. Four pound test minofilament fishing line
+was used to support the model, He built the model as close as
+he could to the actual photograph's ableged UFo,

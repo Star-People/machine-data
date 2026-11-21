@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T12:08:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4004311, "source_ctime_ns": 1793375649371733178, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957136/0254.jpg", "source_mtime_ns": 1785696662000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957136/0254.jpg", "source_sha256": "77f2d7b933292b95f6dc32109cf7e15e6e77905dc20de008bd94514b215d35e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 365, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO JEDLS 1B
+
+/H/ NONE
+
+/1/ WINGING AS IF A PENDULUM
+
+/2/ DISCRIPTION OF COURSE
+/&/ BRIGHTNESS
+
+/B/ 4&5 DEGREES - 6 DEGREES SE 0B SW
+
+/C/ SWINGING AS IF PNDULUM
+
+/D/ DISAPPEARED
+
+7E/ 1 HOUR
+
+3 MANNER OF OBSERVATION °
+
+/A/ VISUAL
+
+/8/ NEG
+
+/C/ NA/A
+
+/R/ TIME AND DATE ASSIGNMENT
+/A/ 92092
+
+/B/ NIGHT
+
+/5/ ORWIGSBURG PENN
+
+\/ Zn
+
+AGE 26
+
+a
+
+ORWIGSBURG PENN
+
+Ee

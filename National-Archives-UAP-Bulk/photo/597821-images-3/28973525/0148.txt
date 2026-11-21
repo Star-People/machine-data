@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:43:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9483258, "source_ctime_ns": 1793379821690996445, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973525/0148.jpg", "source_mtime_ns": 1785701099000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973525/0148.jpg", "source_sha256": "52aab8c797acd93b13ee94040facb44eee326669a6fba3341b309fbbe9bff37b"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 66, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“Et 4" si Mi.
+1816-1823 6 NOV.'57
+
+SEARCH RADAR
+
+PRESISION RADAR

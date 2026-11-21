@@ -1,0 +1,89 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T11:50:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 712609, "source_ctime_ns": 1793355977323079553, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0120.jpg", "source_mtime_ns": 1785564573000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0120.jpg", "source_sha256": "483ea162ca1be7dcb883e347b57a5fc9d4073d24cbabb647eee0277cbf68739d"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 656, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Date
+
+28 Oct 55
+4 Nov 55
+9 Now 55
+7 Feb 56
+9 Feb 56
+14 Feb 56
+20 Feb 56
+21 Feb 56
+24 Feb 56
+27 Feb 56
+1 Mar 56
+2 Mar 56
+6 Mar 56
+7 Mar 56
+13 Mar 56
+15 Mar 56
+16 Mar 56
+20 Mar 56
+21 Mar 56
+26 Mar 56
+29 Mar 56
+
+Froject
+6876
+
+Aeromedical
+a
+
+6876
+
+Matador
+Aeromedical
+6876
+
+Aeromedical
+Matador
+6876
+
+9
+
+R
+Aeromedical
+
+Matador
+Aeromedical
+6876
+
+109
+
+Type of Test
+
+Sleran evaluation
+Deceleration and windblast
+r F r
+
+Sleran evaluation
+R #
+
+r] ®
+" t]
+@ ®
+
+Recovery system
+
+Windblast
+
+Sled evaluation
+
+Windblast
+
+Recovery system
+
+Sled evaluation
+
+Sleran evaluation
+r r
+
+Deceleration and windblast
+Recovery system
+Deceleration and windblast
+Sleran evaluation
+
+a "
