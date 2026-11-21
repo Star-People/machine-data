@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:47:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3665571, "source_ctime_ns": 1793373407868337066, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946758/0589.jpg", "source_mtime_ns": 1785688934000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946758/0589.jpg", "source_sha256": "50201c9a328f654b74f7ec3f8a5d8c81e3c2aa19ade243fd9a51e0d6eccd8fb4"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 543, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SAFIS-3/Maj Tacker/ jna/7%966
+
+30 Jamary 1953
+
+Doar Mr. Gimmes
+
+In ply to your telegras cf 13 Jamary 1946,
+I have little information to repart.
+
+: The U. 3. Air Pores has no record cf a receipt
+for tas photagraphas you gave the CIA officer in
+Cleveland, Therefore, suggest you azain cantact
+Mer. the individual menticned in your
+telegram, *> {tnd out the correct name of =e
+agency Feeslviag the fila.
+
+Sinserely,
+
+LAWRERCE J. TACKER
+
+Major, USAP
+
+Eeecutive Officer
+
+Pablie Information Division
+Office of Informmticn Serviesse
+
+Cleveland, chic

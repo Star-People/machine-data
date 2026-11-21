@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:41:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1683310, "source_ctime_ns": 1793389487278830193, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541366/0175.jp2", "source_mtime_ns": 1785808313000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541366/0175.jp2", "source_sha256": "9b1e262f8f2b42b0583e8a199b609827fe31bcf44d9d5aac9f010a8d51243387"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 642, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1, DATE - TIME GROUP -
+
+3 August 65 04/06452
+
+2. LOCATION
+San Mateo, California
+
+3. SOURCE
+
+4. NUMBER OF OBJECTS
+Ons
+
+10. CONCLUSION Pg
+Astro (METEOR) /.
+
+Sketchy data indicates that a meteor was probably observed,
+
+». LCENGTH OF OBSERVATION
+2-3 Seconds
+
+& TYPE OF OBSERVATION
+Groum-Vis ual
+
+7. COURSE
+Ww
+
+2. PHOTOS
+
+Yes
+
+Xa No
+
+9. PHYSICAL EVIDENCE
+
+it Yes
+No
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Object locked like a comet with no tail, Bright lisht. Pass:
+overtead and appeared to go straight up, Round, silver-blua,
+Appreared to be spinning.
+
+od
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used,

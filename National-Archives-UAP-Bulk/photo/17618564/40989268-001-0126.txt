@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:31:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20971828, "source_ctime_ns": 1793355687983538403, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0126.jpg", "source_mtime_ns": 1785564503000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0126.jpg", "source_sha256": "04991f2c2dd629a34eb743c8a576fbc2097982d56c7483860059a1c20e91903f"}
+
+===== PAGE 1 =====
+{"alpha_words": 244, "chars": 1721, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INSTRUMENT TURNED ON —
+
+fa,
+
+* INSTRUMENT
+FOLLOWING |
+FROST POINT
+
+co
+
+<<
+oe
+Lu
+um
+ro}
+ww i
+=)
+a
+=
+E
+
+FROST POINT =-73°C
+
+_ TIME (1 MIN. PER DIVISION )
+
+Figure 3. Hygrometer Readout During Formation of 20 wg/ cm? Control Layer
+
+In view of the experimental uncertainty in establishing a true flat-plate flow, the
+estimated rate is considered to agree well with that observed.
+
+We now consider the general limitation placed on any balloon-borne automatic
+frost-point hygrometer by the mass-transfer problem. Figure 4 shows typical
+"wet'' and ''dry'' stratospheric frost-point data obtained with balloon-borne,
+automatic instruments (Mastenbrook, 1963, 1964; Gutnick and Salmela, 1963;
+Rohrbough and Ballinger, 1964), and Figures 5 and 6 show response times based
+on these data and the estimated rates of thickness change. The dry data corre-
+
+sponds toaconstant mixing ratio of 0.003 g/kg above 50 thousand feet. The response
+
+oe oe
+FROST POINT (C
+Figure 4. Typical Frost-Point Data
+
+time given is the time required to increase the deposit thickness by 10 monolayers
+when the frost temperature is 1°C below the frost point of the air sample. This can
+be interpreted as the minimum time necessary for an instrument to respond to a
+1°C change in ambient frost point if this instrument is capable of detecting a change
+in condensate thickness equal to 10 molecular diameters. If the instrument is not
+capable of detecting such a small increment in thickness, the response time is
+proportionately longer. The times given are also considered to be reasonably
+optimistic values for instruments of the optical type which employ a cooled surface
+
+with a temperature gradient and derive information from the area of the deposit as

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:36:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 951502, "source_ctime_ns": 1793355790084897161, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989269-001-0071.jpg", "source_mtime_ns": 1785564526000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989269-001-0071.jpg", "source_sha256": "1ea44d435fae939c4bbc85ec3b89331bdf2af15e635b4f403474dcbb32731b6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 233, "chars": 1521, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+dow.
+
+“32<
+
+5. Existing sensor records could be examined for anomalies,
+particularly if visual reports are made nearby. Since we don't know
+what to expect, it is difficult to say what is needed; however records
+of electric, magnetic and gravitational fields, radioactivity, optical
+and radio frequency anomalies would be a logical place to start. Radars
+could also contribute, if they are designed for general purpose use.
+
+As it is, most current radar detection and tracking devices are designed
+to ignore anomalous objects.
+
+After a few years' operation in this mode, it should be possible
+to study the resulting report statistics to draw generalities about
+appearance and behavior (such as was done in Part IV) and most
+importantly to anticipate times and locations of appearances. Only
+when this is done will it be possible to instrument sightings and
+therefore obtain the objective data so badly needed. If the explanation
+is #4, some environmental correlations are bound to occur. For #7
+it is possible that appearances could be anticipated, if we are clever
+enough: for #6 and #8 we will likely not be able to anticipate appearances.
+
+Certainly the conclusions drawn by NICAP from reports in their
+file are startling and, if valid worthy of considerable scientific
+effort. It would be much more convincing if data could be collected
+worldwide and if the most interesting reports could be intensively
+and completely investigated. I believe current reports justify the
+
+expanded data collection and analysis effort.

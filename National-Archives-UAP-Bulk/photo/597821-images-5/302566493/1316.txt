@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:37:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 999482, "source_ctime_ns": 1793392275932021407, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302566493/1316.jp2", "source_mtime_ns": 1785808088000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302566493/1316.jp2", "source_sha256": "6b7e784898e381a1130aa8ceee4641ad71c3ce05c4587441a414b104d23d2df6"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 72, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+H bat i
+i
+}
+i
+
+Gere
+fies
+
+“ener
+3 Es ae
+
+ae
+
+PLETE et PTI A
+Lit 4 Me
+,

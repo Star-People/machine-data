@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:39:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1274011, "source_ctime_ns": 1793390504858858082, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550524/0368.jp2", "source_mtime_ns": 1785808356000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550524/0368.jp2", "source_sha256": "0ca0874b391ef2eb00a3f39a00e3ed6596a1c97a32c0858d884dc0e3ada53202"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 484, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FTD (TDEW)
+
+Wright-Patterson AFB, Ohio 45433
+LO May 1966
+
+>. 0. iii
+
+Milledgeville, Georgia 31061
+
+Dear Mr -
+
+Reference your recent unidentified observation of 3 May
+1966. The information vhich we have received is not
+sufficient for evaluation. Request you complete the
+attached FTD Form 164 and return it in the envelope pro-:
+vided.
+
+we wish to thank you for reporting your observation to
+the Air Force.
+
+Sincersly,
+
+HECTOR QUINTINILIA, Jr, Major, USAF
+Chis, Project Blue Book hee

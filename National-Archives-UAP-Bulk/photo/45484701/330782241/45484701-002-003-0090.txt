@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T07:05:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7199448, "source_ctime_ns": 1793362132714281298, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0090.jpg", "source_mtime_ns": 1785684715000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0090.jpg", "source_sha256": "26f40819f1d96cd1f14037c76a4669b397c4992a7e664c0ea8cc619fd4e55a9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 185, "chars": 1373, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+
+INSPECTOR GENERAL USAF
+13TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+Offutt Air Force Base, Omaha, Nebraska
+
+ut /EES/yep
+g 29 September 1949
+
+SUBJECT: / Unconventional Aircraft
+/\ SPECIAL INQUIRY
+
+Director of Special Investigations
+Headquarters USAF
+Washington 25, De Ce
+
+le Reference is made to paragraph 3b, AFCSI Letter No. 85, dated
+12 August 1949, which is quoted herewith:
+
+"3b. Character and Classification = Will be set forth as
+"Special Inquiry - Unconventional Aircraft', Classification No. 24-185,"
+
+2. This office is not certain as to whether it is intended that \
+all such investigations of this nature be classified as indicated, plus
+a third number to show sequence of District concerned; example: 24-185-10.
+If it is intended that all such investigations contain the classification
+24185, is it to be understood that sequence numbers for this type of
+investigation be assigned, disregarding all previous classification 24
+type cases? Would the first investigation of this nature contain the
+file number 24-185-]1, although the District at that time my have opened
+ten separate classification 24 type cases?
+
+5. Question is further raised as to whether the District investigating
+cases of this nature will consider itself Office of Origin.
+
+Declassification Authority: NND 923007

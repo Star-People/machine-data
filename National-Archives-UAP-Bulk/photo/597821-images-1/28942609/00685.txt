@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:54:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4985771, "source_ctime_ns": 1793372405288132071, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942609/00685.jpg", "source_mtime_ns": 1785688503000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942609/00685.jpg", "source_sha256": "bd4344063482f9fa48396d4dd9d19f70a393c488f5edbcc1e4c43bb86b531f8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 131, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Reporter: Bes wot grat Aes ys ‘Sos fbb a”
+Al. Ried arta galt 2 on@ 3 beLL2, sea ol relay ad
+A ob.
+
+ALLE
+
+Address
+Date  /¢ pass 54

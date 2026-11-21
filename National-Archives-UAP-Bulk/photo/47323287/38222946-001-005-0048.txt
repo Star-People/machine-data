@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T07:03:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6566755, "source_ctime_ns": 1793365575295538482, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0048.tif", "source_mtime_ns": 1785565390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0048.tif", "source_sha256": "17a61b282bbe3f27bd9d1ae62071b86fe34cd6099e25d130836c5b3057199e3d"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 749, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+e STAFF SUMMARY
+
+# ROUTE TO ACTION SIGNATURE (GRADE AND SURNAME) DATE ORIGINATOR (OFC SYMBOL) | TEL NUMBER | DATE
+21CC |Action
+2101 304 31 Jul70
+SIGNATURE OF ACTION OFFICER la
+ean (=. NN +— \
+Nis \ aati ee
+a SS ,
+TYPED NAME AND GRADE OF ACTION OFFICER PEEISLS
+INITIALS
+EDWARD G. STACK, Capt.
+Deputy Director of db
+Information
+
+SUBJECT
+Eighteenth National Security Forum
+
+SUMMARY
+
+1. Attached please find biographical outline of Mr. Mulroy and Mr.
+McDonald. I feel these two nominees would make excellent participants
+for the Eighteenth National Security Forum, per General Hanes's letter.
+
+2. Recommend: Signature.
+ae ©
+
+EDWARD G. STACK, Capt., USAF
+Deputy Director of Information
+
+Hq ADC Field Printing Plont
+Ent AFB, Colorado
+
+FORM
+ADC JAN 67 172

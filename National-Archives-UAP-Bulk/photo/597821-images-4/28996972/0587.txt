@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:54:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4905339, "source_ctime_ns": 1793386669317870572, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996972/0587.jpg", "source_mtime_ns": 1785748347000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996972/0587.jpg", "source_sha256": "9bc9d74969d15aecec67c88a8b548ee7feee46a609f95cb7a82bf5c996560f6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 319, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DIPAR MYER @F THE AIR FORCE
+STAFF MESSAGE BRANGH
+
+UNCUASHAIED MESSAGE
+
+INCOMING
+
+ALL OF ABOVE ARE EMPLOYED BY DEPT. OF TRANSPORT at
+
+2. SURFACE ~ 33@/G2KTS
+6,923 = 333/25KTS
+13,933 - 32G/35KTS
+16,522 - 310/69KTS
+20,026 ~ 310/65KTS
+58,083 - 389/99KTS
+59,033 ~- 399/35MTS
+
+89,055 - @59/12KTS
+
+3. NONE
+S. NONE
+7. UNKNOWN

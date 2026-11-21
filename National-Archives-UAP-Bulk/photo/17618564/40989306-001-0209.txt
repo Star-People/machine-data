@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:46:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2529847, "source_ctime_ns": 1793356185862251004, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0209.jpg", "source_mtime_ns": 1785564630000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0209.jpg", "source_sha256": "185833e9528987eb89fdc3b3a58be63e87e594fff5b29d60a39b2b7a589b1ba8"}
+
+===== PAGE 1 =====
+{"alpha_words": 326, "chars": 2161, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TM 11-444 TM 11-444
+
+Pars. 22-23
+
+SIGNAL CORPS SQUND RANGING SET GR-3-C
+
+Recording lamp current.
+Station battery voltage.
+Total station battery current.
+
+5 (in REAR)
+SCL-2425A
+
+|
+
+Outpost circuit current.
+
+Gontrol Board BD-85-A also houses Relay Unit BK-9. This unit
+is connected to the circuits of the control board through a 16-point
+base plug that engages a 16-point frame jack mounted in the con-
+trol board. Relay Unit BK-9 is readily removable through a door
+located a. :he left end of the control board.
+
+b, Each of the eight control circuits of Control Board BD-85-A
+consists of a transformer and a ladder-type attenuator which couple
+the microphone to Oscillograph Units M-166-A. The transformer
+has a 31.6:1 turns ratio, and an input inductance of 200 henries,
+with 5 milliamperes flowing through the primary winding.
+
+c. Each ladder attenuator has an approximately constant im-
+pedance of 10 ohms and is graduated in 16 steps of 3 db per step,
+the gain increasing clockwise. For a given input, an increase of two
+steps on the control setting will approximately double the ampli-
+mde of oscillation of the moving system of Oscillograph Unit
+M-166-A.
+
+d. The meters are shown in figure 15, the schematic wiring dia-
+gram of Control Board BD-85-(*). The numbers encircled in the
+diagram refer to the connections of the three sockets at the rear
+of the control board. A wiring diagram similar to that of figure
+15 will be found inside of the control board cover, mounted on the
+
+back plate.
+
+23. RELAY UNIT BK-9-(*).
+
+Relay Unit BK-9-(*) consists of six interconnected relays ar-
+ranged to close and open various electrical circuits in a definite
+time sequence, thereby making possible the automatic operation of
+Gennd Rancing Set GR-3 C. The operation of Relay Unit BK-9-
+(*) is outlined in section Il, paragraph 15. One spare Relay Unit
+BK-9-(*), together with spare parts for servicing, is supplied with
+exch Sound Ranging Set GR-3-C. A wiring diagram, similar to
+
+_ that of figure 16, will be found on the inside of the door at the
+left end of Control Board BD-85-(*).
+
+Figure 14.—Control Board BD-85-(*) (rear view) and
+Relay Unit BK-9-(*).
+
+40 4h

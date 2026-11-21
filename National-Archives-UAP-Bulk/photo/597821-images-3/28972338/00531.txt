@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T07:08:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8040177, "source_ctime_ns": 1793379449720606982, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972338/00531.jpg", "source_mtime_ns": 1785700854000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972338/00531.jpg", "source_sha256": "4d1d83228a589836f166a29b0013a6900d843a1c0eb603117f0f8d5601353d24"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 706, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+; PROJECT 10073 RECORD CARD
+1. DATE i 2. LOCATION
+
+12. CONCLUSIONS
+
+: : 4 . , Ci Wes Balloon
+19 October 1957 Brooklyn, New York GO Probably Belloon
+"3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Bolloon
+en Vi e O Was Aircraft
+.Lecal SNA eae o 5 seetlti ie o Grawnd-Rader Q Probably Aircraft
+our 19/230027 Q Air Visual OD Air-Interespt Radar 0 Possibly Aircroft
+5. PHOTOS 6- SOURCE O Was Astronomical
+O Yes 0 Probably Astronomicol
+‘OsNo Civilian O Possibly Astronomico!
+7. LENGTH OF O3SERVATION 8. NUMBER OF OBJECTS | 9. COURSE DO Other
+ee Data for Evaluation
+0 nknown
+10. BRIEF SUMMARY CF SIGHTING V1. COMMENTS
+nickel, Appearance star blinkins:
+white. 8 or 9 objects.
+ATIC FORM 329 (REV 25 SEP 52)

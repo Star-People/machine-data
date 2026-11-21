@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:48:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3964601, "source_ctime_ns": 1793373104862349324, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945432/0740.jpg", "source_mtime_ns": 1785688491000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945432/0740.jpg", "source_sha256": "db193b0428856682eaf1551d2a8913a5d76b04e2de6d42fbbfa009e1944b55d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 405, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+GEORGE ALLEN BENDER
+ATTORNEY
+
+THE TEXAS COMPANY
+LEGAL DEPARTMENT
+332 SOUTH MICHIGAN AVENUE
+CHICAGO 4. ILLINOIS
+
+'
+
+September 2, 1952
+
+Major Robert E. Kennedy,
+Air Technical Intelligence Center,
+Wright-Patterson Air Force Base,
+Ohio.
+Dear Sir:
+
+, Enclosed is the questionnaire sent to |
+me with your letter of August 28th which I
+
+have completed to the best of my ability.
+
+Very truly yours,
+
+GAB-MD
+Enc.

@@ -1,0 +1,88 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T07:08:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8288507, "source_ctime_ns": 1793379524854079195, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972532/00693.jpg", "source_mtime_ns": 1785700715000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972532/00693.jpg", "source_sha256": "329db06d0cf070659f3e7c4968eb6c89b07c40653e197d902a493b0e1fd647ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 836, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Sa PERE ORI Get
+
+PROJECT: 10073 RECORD CARD
+
+1. DATE
+
+28 October 1957
+
+2. LOCATION
+
+, . . .
+Piedmont, Missouri
+
+3. DATE-TIME GROUP
+
+A
+
+4. TYPE OF OBSERVATION
+
+0 Yes
+XG No
+
+& -Ground- Vi sual 0D Ground-Rodor
+9) QO IAS Bi t rm le be
+28/2545% GAKWRGEAaTS Air-Intercep? Rador
+6 SOURCE
+
+Civilian
+
+7. LENGTH OF OBSERVATION
+
+45 minutes
+
+8 NUMBER OF OBJECTS | 9 COURSE
+
+one unknown
+
+12. CONCLUSIONS
+
+oO
+
+a)
+a)
+Q
+o
+o
+a)
+oO
+0
+5
+D
+
+Was Bolloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircroft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomico!
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Dota for Evaluation
+nk nown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+white,
+fast.
+
+Bright light, changing
+traveling very high & very
+
+V1. COMMENTS
+
+from red to
+
+Insufficient information for any
+sort of evaluation.
+
+ATIC FORM 329 (REV 25 SEP 52)
