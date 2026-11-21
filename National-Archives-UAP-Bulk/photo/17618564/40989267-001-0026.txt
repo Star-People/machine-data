@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T10:08:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15021986, "source_ctime_ns": 1793355443878095855, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0026.jpg", "source_mtime_ns": 1785564456000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0026.jpg", "source_sha256": "0cb884266c0cde2b7ed18ff55b45d385146b610c62e22b8ef4a25a533a553380"}
+
+===== PAGE 1 =====
+{"alpha_words": 206, "chars": 1462, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1, INTRODUCTION
+
+The last three years have brought a number of significant advances in balloon
+technology, expanding the usefulness to heavier payloads, longer duration flights,
+and to space inflatables. The most significant accomplishments are 1) the 13, 500
+pound Stratoscope II balloon system, incorporating a cable restrained pilot balloon
+attached to a reefed main balloon and permitting shock free static launches in
+moderate winds; 2) the 34-foot diameter spherical balloons flown by Air Force
+Cambridge which carried a 50-pound payload at a constant altitude of 66, 000 feet
+for a flight duration of 30 days; 3) the 100-foot diameter Echo I communication
+satellite placed into orbit approximately three years ago,
+
+The high altitude research balloon has always relied to a large degree on the
+packaging industry. The polyethylene balloon came as a result of the carrot bag
+and the very thin films available today are a direct result of a competitive substi-
+tute for paper in the dry cleaning industry. Mylar and other high performance
+plastics are also an outgrowth of the demand in the United States for a better,
+stronger, and more attractive package for marketing products. The relatively
+limited amount of film consumed in balloon work and the high cost of development
+
+of a new plastic film capability has been a prime factor in limiting the industry to
+
+basic packaging materials.
+
+(Author's manuscript received for publication 31 December 1963)

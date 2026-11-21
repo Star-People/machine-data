@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T09:51:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4805562, "source_ctime_ns": 1793370812686666099, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935416/1237.jpg", "source_mtime_ns": 1785688629000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935416/1237.jpg", "source_sha256": "d7836b478307975a9d2fc5158690ca54260daf2ba98ac8499e72ca1acf6f4324"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 469, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+——
+
+:. Office Memorandum + unttep states GOVERNMENT
+
+j TO : District Intelligence Officer, Cleveland DATE: 24 Jume 1949
+FROM : Actg Dist Intel Officer, Columbus
+SUBJECT: Flying Saucer
+
+. 1. Attached is a photostatic copy of investigation of flying saucer,
+made by the Ohio State Patrol, dated 16 Jue 1949. ‘The person who reported
+the incident resides at an, Lima, Ohio.
+
+2. For your information and action deemed necessary.
+
+‘ VIN L. HUTCHISON
+
+Captain, FA
+
+emmen ft

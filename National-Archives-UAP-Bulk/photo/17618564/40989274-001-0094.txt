@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T10:17:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1067084, "source_ctime_ns": 1793355820225982944, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0094.jpg", "source_mtime_ns": 1785564533000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0094.jpg", "source_sha256": "319e2bc53fefdf888a642cf2ab03f660f96ac7d54460ff6d412fc0ba6c7039db"}
+
+===== PAGE 1 =====
+{"alpha_words": 174, "chars": 1222, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+os SCOPE OF THE CIP PROGRAM
+
+Eligible titleg
+
+These titles may be:
+1. Multipart items (l.e., sets).
+
+2.. New or revised editions.
+
+3. “: New impressions of titles formerly Published without CIp
+and for which a MARC record does not exist.
+
+4. Federal government publications.
+or Translations into Spanish intended for the U.S. Spanish-
+Speaking population.
+
+6. Compilations of serial articles b
+volume as a collection.
+
+Ineligible titles
+SSRs aH e titles
+nation's
+
+Titles not likely to be widely acquired bv the
+1 These titles can more efficiently enter
+
+libraries are ineligibl
+
+the nation's bibliogr te system by being cataloged after
+
+publication bv local raries, regional networks, and vendors.
+Tne following types of material are also ineligible:
+
+1. Books which do not list a U.S, city as place of
+publication on the title page and/or Copyright page. A
+Statement indicating distri the U.S. is not
+sufficient,
+
+bution in
+
+who do not maintain a U.S. office
+
+oe Books from Dublishers
+of answering substantive
+
+Of editorial staff capable
+bibliographic questions.
+
+ubsidized by individual autnors; books
+
+ci Books paid for or s
+DuDlished Dy a house Publishing the works of only one
+author.
+
+Congress card’ number has
+
+ry

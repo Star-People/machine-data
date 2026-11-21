@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T09:57:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6509624, "source_ctime_ns": 1793358595258111979, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-076-0001.tif", "source_mtime_ns": 1785681142000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-076-0001.tif", "source_sha256": "8e353b134cbd0ebdc51de789ed6e7c893308e393bf9e429495642285d7cdb2e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 643, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+602D AISS UFOB Loc:
+
+_
+
+L REPORT NO.
+| ATSSAUPOBR2 36058
+
+2 DATE/TIME OF SIGHTING
+
+3 RECD HQ 602D
+25 July 1955
+
+2h/0209% July 1955
+
+-}, LOCATION OF SIGHTING
+| Yan Nuys, California
+
+5 MEANS RECD
+
+ies Mag -
+
+6 ACTION
+
+No investigation a uthorized
+
+| 7 INVES UNIT
+
+N/A
+
+8 DATE INVES ASSIGNED
+n/a
+
+9 ASSIGNING OFFICER
+N/a
+
+to DATE IR RECD HQ
+
+n/a.
+
+11 DATE IR APPROVED
+w/a
+
+12 DATE IR TO ATIC
+
+N/A
+
+{23 ATSOP FORM 5
+
+R25 duly 1955
+
+“Uy COMMENTS
+
+for evaluation.
+
+| Coneur with the Reporting Officer that there is not su?fictent data
+
+15 CONCLUSIONS
+
+Insufficient data for evaluation
+
+AISOP FORM 7 (2Ark 55)

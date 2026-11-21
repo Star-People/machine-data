@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T09:53:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5122964, "source_ctime_ns": 1793378825826359946, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969431/0831.jpg", "source_mtime_ns": 1785701000000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969431/0831.jpg", "source_sha256": "6752880803ae2bc57c59da2e6e22b144ec2f0233723a08d16c23aa6424b803f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 299, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+.
+
+PAGE FOUR RJESKB 18 ‘ | ‘ |
+| AT 1609 EST EGLIN AFB RELEASED A WEATHER |
+BALLOON WHICH IS 1@ FEET LONG AND 6FEET IN
+DIAMETER, WINDS AT EGLIN 28,9@@FT 280/45XK.
+TIME FROM LAUNCHING TO SIGHTING WOULD PUT 2s ;
+BALLOON IN APPROXIMATELY THE AREA OF SIGHTING. |
+
+GOC.
+(12)NEG.
+BT
+
+S3/WRAIZOMAR RJESKB

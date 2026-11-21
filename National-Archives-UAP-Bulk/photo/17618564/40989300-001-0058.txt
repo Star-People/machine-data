@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T10:17:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1121478, "source_ctime_ns": 1793356041797528791, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0058.jpg", "source_mtime_ns": 1785564591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0058.jpg", "source_sha256": "d2ac057ec8e866e789be9486ee25b6ad8be6d3c400d94ade6c49d40dcd729e96"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1329, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Flight 97: Released from Alamogordo, New Mexico, 0856 MST, September 10, 1948
+Recovered at Duncan, Oklahoma
+
+On this flight a .001", 20-foot polyethylene balloon was used to test a
+new type of ballast control. In this system, ballast flow was excited at any
+altitude if the balloon descended at a rate equal to or greater than 1 milli-
+bar in five minutes.
+
+The buoyancy record and the Olland-cyole pressure data obtained from this
+flight show a disagreement of ebout 10,000 feet (Figure 45). No explanation
+has been provided for this difference and the following evidence has been
+considered. The predicted floeting level was about 45,000 feet, in agreement
+with the Olland-cycle radiosonde data. On the other hand, the balloon rose
+extremely slowly and may have taken in air to dilute the lifting gas. In this
+event, the floating level might easily have been reduced by 10,000 feet.
+
+Sept. 10, 1948 — 0856 MST.
+Recovered at Duncan, Okla.
+
+[i natn] | |
+
+0900 1000 1100 1200 1300 1400 (soo 100 (roo 1e00 1800
+
+Figure 45
+Once at the floeting level, however, the balloon was maintained within
+1000 feet (or 1200 feet) of a constant level for over four hours. This in-
+dicated that the control system wes in operation since previous flights
+(88 and 93) at this altitude descended after about two hours of flizht with-
+out ballast.

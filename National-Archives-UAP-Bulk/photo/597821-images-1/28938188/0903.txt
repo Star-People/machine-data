@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T09:50:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4193878, "source_ctime_ns": 1793371417096133469, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938188/0903.jpg", "source_mtime_ns": 1785688953000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938188/0903.jpg", "source_sha256": "baa7f30a3af62c649382be5470402aac4d7d5c80cb3c0043edfafd4ff5435418"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 487, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(
+
+THE QM case
+
+5 or 15 Aug 1950
+
+Simulated photographs of aircraft at various distances, made by an
+
+aircrait research firm in a recent independent and unsolicited analysis
+
+of the Qa films, show striking similarity to the two white blops
+
+in this film,
+
+Based on the degree of credibility accorded this early ATIC evaluation
+
+and the strong corroborative evidence supplied by the recent independent
+
+analysis, the Air Force has no compelling reason to alier its original
+
+conclusion,
