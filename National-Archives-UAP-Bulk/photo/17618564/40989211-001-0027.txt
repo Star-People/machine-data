@@ -1,0 +1,142 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:12:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5950284, "source_ctime_ns": 1793354482446828559, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0027.jpg", "source_mtime_ns": 1785564293000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0027.jpg", "source_sha256": "d1fc48cdeea691d910e6df54b24e573a47f4d23dab9a3e48402a2522f37f93ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 733, "chars": 5116, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+A NATIONAL ARCTIC EMPHASIS
+
+experiments. and theoreticians analyzing the
+data. It would incorporate sufficient
+canmmecations channels to allow on-line control
+of sensors fran U.S. or Canadian laboratories.
+Thus comparisons among different data sets
+(auroral, magnetic, ionosrmheric, amd particle)
+obtained fran different locations could be
+rapidly conducted fran mdlatitude centers.
+
+An optimum Observatory site would be on
+the northern islands of the Canadian
+archipelago. With other locations, logistic,
+administrative, and communications problems
+could proliferate unduly. A joint endeavor with
+Canada would optimize the total effort and
+reduce costs.
+
+6. An Ccean Laboratory
+
+Augmenting but not duplicating the fixed
+Qoservatory would be a Polar Laboratory aboard
+an icebreaker frozen-in in the Arctic Ocean. It
+would provide a base for year round
+oceanographic, sea ice, meteorological,
+auroral, ionospheric, and magnetic cOservations
+within the Polar Basin itself. Once frozen-in
+in the Chuckchi Sea north of Alaska it could
+make several counterclockwise transits of the
+Ocean, under the influence of wind and sea
+currents, prior to discharge between Greenland
+and Spitzbergen.
+
+The advantage of an icebreaker over an ice
+floe station are considerable. The former could
+be outfitted in a warm water port. It would
+provide canfortable and less hazardous
+facilities for workers. Personnel could be
+rotated annually or semi- annually. Resupply
+would pose no serious problem. (A deliberately
+frozen-in research vessel has not occurred for
+about a century. One could be implemented today
+with far less trepidation and discomfort than
+it was then.)
+
+7. Arctic Commmications
+
+Radio wave canmmications in polar regions
+are markedly influenced by the auroral oval and
+its temporal and spatial variability. The term
+oval implicitly defines four subregions; the
+trough, auroral D, the oval and the polar cap.
+Propagation fram ULF to UHF is affected by
+these regions but in different fashions. UHF
+satellite links can be degraded by
+scintillation effects particularly during the
+peak of solar activity. ELF and ULF may suffer
+increased attenuation during magnetic
+storminess whose occurrence increases with
+solar activity.
+
+HF circuits whose rays do not intersect
+active auroral regioms may remain unaffected.
+Otherwise, as 1n long radio paths tangential to
+the oval, serious disruption by absorption
+usually occurs. VLF propagation into volar
+
+213
+
+tMe more intense D layer. In general, a lorg
+litany of abnormal problems characterize
+circuits encountering the oval, the trough, or
+auroral D. HF links within the polar cap can
+expect conditions samewhat worse than those for
+midlatitude paths, although long outages can
+occur during the peak years of the solar cycle.
+
+Because the earth's magnetic and
+geanagnetic poles are located in the North
+American Arctic, problems on HF circuits arise
+more frequently on North American - European
+paths than elsewhere. During magnetic
+storminess the auroral oval expands
+equatorwards and engulfs the propagation path.
+Correspordiing problems are much less frequent
+in the Asian sector which lies at lower
+geomagnetic latitudes. Both canmmicatios and
+surveillance systems are affected.
+
+While the U.S. places more reliance on
+the newer technology of satellite
+cammmications, the Soviet Union straddles the
+new and the old. They employ HF to a greater
+extent than does the U.S. even in the Arctic.
+It cannot be convincingly argued that one
+approach is far superior to the other. Indeed,
+operational philosophies can be devised which
+permit comparable efficiencies for either
+method.
+
+On the whole it may be presumed that the
+Soviet Union has better studied the effects of
+polar disturbances on frequency usage, ray
+deflection out of the great circle plane,
+absorption, scintillation, and avoidance of
+auroral penetrations. Further, considering
+their long experience with platforms in, under,
+amd over the Arctic it also may be presumed
+that the Soviets have resolved propagation
+alternatives as well as the important practical
+matter of interoperable equipments among all
+services. The U.S. has yet to demmstrate that
+it has satisfactorily attacked these problems.
+
+While the preceding canments apply to
+electramagnetic propagation, an associated
+topic includes campressional wave propagation
+within the Arctic Ocean. In this case the
+unusual (reversed compared to midlatitudes)
+temperature versus depth profile can produce
+subnormal propagation. More study is required
+of dispersion and attenuation within, and fran
+external waters into, the Arctic Ocean.
+
+8. Iomospheric - Magnetospheric Physics
+
+Additional ionospheric observations over
+long time periods are necessary within auroral
+and polar cap regions. The data would allow
+development of first order physical models
+characterizing ionic transport among the
+magnetotail, polar cap, aurora, and solar wind
+as a function of time of day, year, cycle and
+magnetic index. Such a model (based upon the
+energy deposited on the planet during a
+particle influx) would assist 1n describing
+cammmications behavior from ELF through HF to

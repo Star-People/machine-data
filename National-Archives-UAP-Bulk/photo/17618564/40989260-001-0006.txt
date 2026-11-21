@@ -1,0 +1,155 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:13:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6130903, "source_ctime_ns": 1793355071773176369, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0006.jpg", "source_mtime_ns": 1785564388000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989260-001-0006.jpg", "source_sha256": "d9dbd13aed4acb2723af70f4c28f9a4f51203096c87d0524b1b3897546ad8fed"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1081, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Date
+
+Aug
+Aug
+Aug
+Aug
+Aug
+Aug
+Aug
+
+Aug
+
+26, 1966
+2, 1971
+4, 1984
+12, 1965
+21, 1979
+15, 1980
+27, 1969
+7, 1968
+30, 1976
+8, 1966
+29, 1973
+21, 1976
+2, 1974
+23, 1976
+22, 1973
+
+31, 1971
+
+18, 1972
+7, 1966
+2, 1966
+25, 1969
+29, 1981
+25, 1976
+24, 1975
+1, 1976
+13, 1979
+27, 1979
+3, 1969
+
+20, 1963
+
+Float Altitude
+
+131K
+
+130K
+
+126K
+
+110K
+
+110K
+
+107K
+
+106K
+
+104K
+
+102K
+
+101K
+
+Float Duration
+
+10Hrs
+
+5Hrs
+
+6Hrs
+
+10Hrs’
+
+3*sHr s
+12Hrs
+7*sHrs
+8%sHr s
+3Hrs
+4Hrs
+4>Hrs
+4Hrs
+4Hrs
+4Hrs
+3Hrs
+
+44Hrs
+
+4Hrs
+11Hrs
+9?sHr s
+25%sHrs
+S4Hrs
+25Hrs
+32Hrs
+6Hrs
+SHrs
+12%Hrs
+8Hrs
+
+74sHrs
+
+Payload Impact Area
+
+45 mi.
+
+NW of PHX
+
+48 mi. SW of TUS
+
+13 mi. E of PHX
+
+37 mi, SE of YUM
+
+40 at SSE of ROW
+
+21 mi, E of Needles, Ca
+18 mi. W of GBN
+
+80 mi. SW of BLH
+
+48 mi, ‘NNW of SSO
+
+35 mi. NE of DMN
+
+10 mi, S of TCS
+
+9,5 mi, SSE of Safford, Az
+6 mi. NW of SSO
+
+43 mi, SW of DMN
+
+21 mi. ENE of TCS
+
+7 mi. NE of HMN
+
+12.mi, SSW of TCS
+5S mi, W of DUG
+30 mi, N of PHZ
+60 mi, S of BGS
+16 mi, NE of TCS
+18 mi, W of PLO
+34 mi, SW of SJN
+10 mi, WNW of TCS
+os, mi ;- Ssof* TCS
+35 mi, NW of HMN
+30 mi. NW of SSO
+
+45 WE of TCS

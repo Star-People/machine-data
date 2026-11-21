@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T05:49:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1405539, "source_ctime_ns": 1793392606821992943, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569127/0640.jp2", "source_mtime_ns": 1785808661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569127/0640.jp2", "source_sha256": "0406ec8cdeb62e0f965fff8ceac41a6a52792bf9155da0d27541b3a90281fb91"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 323, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FEDERAL AVIATION AGENCY
+Flight Service Station
+
+Parkersburg, West Virginia
+
+October 9, 1967
+
+PTD (TDET/UFO |
+Wright-Patterson AFB, Ohio 45433
+
+We have no record or knowledge of any unusual air activity of the
+type you mentioned in this area on the evening of August 29, 1967.
+
+P , —-
+Clyde E. Brown, Chief
+Parkersburg FSS

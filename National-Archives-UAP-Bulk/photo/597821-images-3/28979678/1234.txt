@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:20:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8142915, "source_ctime_ns": 1793381254227254094, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979678/1234.jpg", "source_mtime_ns": 1785701113000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979678/1234.jpg", "source_sha256": "e3f3c61b716e9497673ef70b755b2e2173405e5230293f174a8b0ba2f8f884e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 532, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SUBJECT: (U) Unidentified Flying Object Report
+
+TO: AFCIN-4E4 ‘FROM: AFCIN-4E1 DATE: 30 J OMMENT NR. 2 |
+AFCIN-4Ela/W. simer/ jc !
+74201/Bldg 828/Rin' 241 |
+
+1. Reference attached UFOB report.
+
+2. The information in this report is very meager and, therefore, insufficient
+for an accurate evaluation. However, there is a possibility that the IFF equip-
+ment was not working properly since the target appeared only on IFF and at an
+
+extremely high speed.
+
+Atel C eectererur.
+1 Incl 7 GORDON C. HOFFMAN
+
+n/c i Colonel, USAF
+AFCIN-4E1

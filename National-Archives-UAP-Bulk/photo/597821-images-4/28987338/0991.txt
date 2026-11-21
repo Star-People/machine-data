@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T05:34:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7396028, "source_ctime_ns": 1793383582688689465, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987338/0991.jpg", "source_mtime_ns": 1785748006000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987338/0991.jpg", "source_sha256": "050ae3d75711e399c233fb07e2a62ce94d736d91f5e1269245309c4abc23c9bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 355, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page two :
+Log No. 61A-4130-12
+
+‘
+
+Personnel engaged in the recovery operation were
+unable to identify the light or its source, Statements des- |
+cribing what was seen by eye witnesses are herewith attached
+fer your information and further pursuance.
+
+Very truly yours,
+
+rr 5,
+
+PAN AMERICAN WORLD AIRWAYS, INC.
+ed
+
+Operations Manager
+a
+DHT/cer
+
+Encl. -4

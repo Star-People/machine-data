@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T05:48:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1267055, "source_ctime_ns": 1793393782464600681, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580527/1426.jp2", "source_mtime_ns": 1785808583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580527/1426.jp2", "source_sha256": "74178c3e4efd59c486f890039db08fd192f942f0496ff65b8c43163e582bb68c"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 75, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Fe
+
+Bo
+RO MENERR ETT RTT TEN
+Ber ~
+re
+
+2
+> Tae Serer
+
+SERPS
+
+EDU ET MPEIES

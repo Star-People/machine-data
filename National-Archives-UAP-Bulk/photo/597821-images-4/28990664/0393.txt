@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T05:32:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7012276, "source_ctime_ns": 1793384601718030735, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990664/0393.jpg", "source_mtime_ns": 1785748181000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990664/0393.jpg", "source_sha256": "010b05f71def1bf706282f95af91b25deec8308d72513e1e15a80e0011a25b02"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 541, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+AIR FORCE MISSILE TEST CENTER
+AIR RESEARCH AND DEVELOPMENT COMMAND
+UNITED STATES AIR FORCE
+PATRICK AIR FORCE BASE, FLORIDA
+
+REPLY TO
+
+ATTN OP: MTW 3 January 1961
+
+suasect: Transmittal of Letter Regarding UFO
+
+ro: ATIC, Wright-Patterson AFB, Ohio
+
+The attached letter was received by this office on 3 Jan 1961.
+It is forwarded as a matter of possible interest to your
+organization.
+
+FOR THE COMMANDER
+
+Caear Cha fmanegh Cpl
+
+/ nr. L. COMMONS, JR. 1 Atch
+vy“ “Lt Colonel, USAF Ltr, Buckingham Iowa, 23 Dec 60
+j DCS/ Intelligence

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:17:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6950046, "source_ctime_ns": 1793381091439778801, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979239/0849.jpg", "source_mtime_ns": 1785701010000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979239/0849.jpg", "source_sha256": "50cb7dbd3c65d112ea09bc38152af368d411eab3e8d9f7621600255347e09ced"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 986, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. OATE 2. LOCATION 12, CONCLUSIONS
+O Probebly Balt
+“ August 1958 Malmstrom i robably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Belleon
+Local 4XxGround- Vi sual x& Ground-Rodor G XProbstly Aver oft
+oemt_05/0515Z O Air Visual O Air-Intercept Radar O Possibly Aircraft
+5. ‘PHOTOS 6. SOURCE O Was Astronomical
+O Yes O Probably Astronomicol
+, ’ O Possibly Astronomical
+No _ Military oe
+ther.
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other______,
+O Unknown
+30 secs one North
+10. BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+Flying wing or delta shaped obj, size| ‘The description of the oj
+of volleyball, bright silver color, is typical of an F-100 series
+solid shape with no openings, prors type a/c.
+
+or exhaust & no other conventional
+means of motivation visible. Had a
+varied pitch whistling sound fading &
+rising about 5 seconds in between ris
+& fall of the pitch. Had quieter
+sound than a jet.
+
+ATIC FORM 329 (REV 26 SEP $2)

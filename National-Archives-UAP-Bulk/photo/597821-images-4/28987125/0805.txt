@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T05:33:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7284509, "source_ctime_ns": 1793383493605724122, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987125/0805.jpg", "source_mtime_ns": 1785747878000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987125/0805.jpg", "source_sha256": "0b82d6e5518c6ea9c08ec213bcd72676e362e76368216e6ba94b5011035adb6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 341, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oe 2c anit —"
+= . Pee vane = eee =
+
+al ty a
+
+June 10, 1960
+
+wit ateeey
+
+I wish to acknowledge your letter of June 6th.
+
+The NASA did not conduct an experiment in the vicinity
+of Puerto Rico on June ist. Therefore, I am forwarding your
+letter to the Department of Defense for further reply.
+
+Yours very truly,
+
+| Copy to: Dept. of Defense )

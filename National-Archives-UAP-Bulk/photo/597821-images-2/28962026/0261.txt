@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T06:18:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7157227, "source_ctime_ns": 1793376811499617048, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962026/0261.jpg", "source_mtime_ns": 1785696843000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962026/0261.jpg", "source_sha256": "df144f100bd6bc2774f52a5ea94851404c0fe5661e81adcd0b69e23a8d2b9624"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 451, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+4602d AIR INTELLIGENCE SERVICE SQUADRON (ADC)
+
+ENT AIR FORCE BASE
+COLORADO SPRINGS, COLORADO
+
+28 JUL 1955
+
+SUBJECT: AF Form 112 (UPoB Report)
+
+TOs Gommander
+Air Technical TIntellisence Center
+ATTN: ATIAZ-5
+Wright-Patterson Air Yorce Sase
+Dayton, Chilo
+
+Inclosed herewith is one (1) Unidentified Flyine Chject report
+
+with pictures as requested by your organization.
+
+a AGA
+
+a/s Major, USAF
+Adjutant
+
+fatto Ged eae ad MGT ONL Wire pene y
